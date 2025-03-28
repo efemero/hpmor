@@ -1,4 +1,7 @@
 # Harry Potter et les méthodes de la rationalité
+
+Dernière version de l’epub: [hpmor.epub](https://github.com/efemero/hpmor/releases/download/0.1/hpmor.epub)
+
 Ce projet a pour but de générer une version epub et PDF de « Harry Potter et les méthodes de la rationalité ». 
 Il se base sur l’epub généré par yeKcim en version `22.04` disponible à l’adresse suivante: <https://github.com/yeKcim/hpmor/releases/tag/v22.04>.
 
