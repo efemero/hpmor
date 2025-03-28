@@ -1,4 +1,4 @@
-# This is a basic workflow to help you get started with Actions
+ls md# This is a basic workflow to help you get started with Actions
 
 name: Create epub
 
@@ -24,4 +24,9 @@ jobs:
       - run: cd $GITHUB_WORKSPACE
       - run: mkdir target
       - run: pandoc --top-level-division=chapter -o target/hpmor.epub book.yaml "md/avant-propos.md" md/chapter*.md  "md/colophon.md" --lua-filter=filters/filters.lua --css ./css/epub.css --epub-embed-font fonts/Parseltongue.ttf
-      
+    - name: Upload release binaries
+        uses: alexellis/upload-assets@0.4.0
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+        with:
+          asset_paths: '["target/hpmor.epub"]'      
