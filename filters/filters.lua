@@ -25,12 +25,3 @@ function Div (el)
     table.insert(el.content, pandoc.RawInline('html', '</div>'))
     end
 end
-
-function Div (el)
-  if el.classes[1] == "nda" then
-    table.insert(el.content, 1, pandoc.RawInline('latex', '\\nda{'))
-    table.insert(el.content, pandoc.RawInline('latex', '}'))
-    table.insert(el.content, 1, pandoc.RawInline('html', '<div class="nda">'))
-    table.insert(el.content, pandoc.RawInline('html', '</div>'))
-    end
-end

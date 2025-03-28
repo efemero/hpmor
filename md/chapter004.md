@@ -5,16 +5,6 @@ Avertissement : J.K. Rowling vous observe de là où elle a toujours
 attendu, dans le vide entre les mondes
 :::
 
-
-:::{.nda}
-Avis : Comme certains l'ont fait remarquer, les livres sont en
-contradiction les uns avec les autres pour ce qui est du pouvoir d'achat
-d'un Gallion ; je vais choisir une valeur fixe et m'y tenir. Cinq livres
-anglaises pour un Gallion ne cadre pas avec sept Gallions pour une
-baguette, ni avec des enfants utilisant des baguettes de seconde main.
-:::
-
-
 :::{.intro}
 "*Domination mondiale est une phrase si laide. Je préfère l'appeler
 optimisation mondiale."*
@@ -134,7 +124,7 @@ des résultats approximatifs de tête très rapidement…"
 
 Vingt Gallions d'or pesaient peut-être un dixième de kilo. Et l'or
 valait, quoi, dix mille livres anglaises au kilo ? Un Gallion valait
-donc environ cinquante livres anglaises… Les piles/tas de pièces d'or
+donc environ cinquante livres anglaises…[^1] Les piles/tas de pièces d'or
 semblaient faire environ soixante pièces de haut et vingt pièces dans
 les autres dimensions de la base, et avait une forme pyramidale, donc ce
 serait environ un tiers du cube. Huit mille Gallions par tas, en gros,
@@ -285,3 +275,9 @@ peut-être au monde entier, si je vous enfermais dans cette chambre forte
 et que je vous laissais ici."
 
 Et ils partirent sans autre ennui.
+
+[^1]: \[NdA\] Comme certains l'ont fait remarquer, les livres sont en
+contradiction les uns avec les autres pour ce qui est du pouvoir d'achat
+d'un Gallion ; je vais choisir une valeur fixe et m'y tenir. Cinq livres
+anglaises pour un Gallion ne cadre pas avec sept Gallions pour une
+baguette, ni avec des enfants utilisant des baguettes de seconde main.
