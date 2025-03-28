@@ -1,4 +1,4 @@
-## Problèmes de coordination, partie 3
+# Problèmes de coordination, partie 3
 
 Ils s'étaient rendus dans le bureau du professeur de Défense, et
 celui-ci avait scellé la porte avant de se renverser dans sa chaise et

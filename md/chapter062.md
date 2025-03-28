@@ -1,6 +1,5 @@
-## L'Expérience de Prison de Stanford, Fin
+# L'Expérience de Prison de Stanford, Fin
 
-<div markdown="1">
 
 Minerva leva les yeux vers l'horloge et observa les nombres d'argents,
 les aiguilles dorées, leur mouvement saccadé. Des Moldus avaient inventé
@@ -709,4 +708,3 @@ Le phénix lova sa tête contre l'épaule de Harry et la gargouille de
 pierre se déplaça d'un mouvement souple afin de laisser Harry retourner
 dans les couloirs de Poudlard.
 
-</div>

@@ -1,6 +1,5 @@
-## Échec, partie 1
+# Échec, partie 1
 
-<div markdown="1">
 
 Le Seigneur des Ténèbres riait.
 
@@ -1084,4 +1083,3 @@ gestes précédents.
 
 Harry leva son pistolet et appuya trois fois sur la détente.
 
-</div>

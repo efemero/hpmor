@@ -1,6 +1,5 @@
-## L'Expérience de Prison de Stanford, Après coups
+# L'Expérience de Prison de Stanford, Après coups
 
-<div markdown="1">
 
 *Après-coup : Hermione Granger*
 
@@ -2186,4 +2185,3 @@ rendormir, elle essaya et finit par y parvenir.
 
 Sybill Trelawney se rendormit.
 
-</div>

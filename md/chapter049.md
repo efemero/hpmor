@@ -1,6 +1,5 @@
-## Information à priori
+# Information à priori
 
-<div markdown="1">
 
 Un garçon attend dans une petite clairière, à la lisière de la forêt
 non-interdite, près d'un chemin de terre qui se prolonge vers les portes
@@ -646,4 +645,3 @@ Harry hocha simplement la tête. Pas tout à fait exact, mais vrai.
 "Alors voilà ce que j'aurais pu faire à votre âge, s'il y avait eu
 quelqu'un pour qui le faire -"
 
-</div>

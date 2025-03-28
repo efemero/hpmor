@@ -1,6 +1,5 @@
-## Priorités utilitaristes
+# Priorités utilitaristes
 
-<div markdown="1">
 
 On était samedi, le premier matin de février, et à la table Serdaigle,
 un garçon faisait face à une assiette contenant un haut monticule de
@@ -415,4 +414,3 @@ immobile.
 
 Après un moment, le garçon recommença à tourner les pages.
 
-</div>

@@ -1,6 +1,5 @@
-## Inférences multiples
+# Inférences multiples
 
-<div markdown="1">
 
 (Gros titres internationaux du 7 avril 1992)
 
@@ -2889,4 +2888,3 @@ Harry partit.
 
 Nous étions le vendredi 10 avril 1992.
 
-</div>

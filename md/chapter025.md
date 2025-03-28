@@ -1,4 +1,4 @@
-## Se retenir de proposer des solutions
+# Se retenir de proposer des solutions
 
 NdT : J'utilise le mot anglais *sentient* à la façon de Guy Abadia dans
 l'Étoile et le Fouet.

@@ -1,4 +1,4 @@
-## Accomplissement de soi, dernière partie : Responsabilité
+# Accomplissement de soi, dernière partie : Responsabilité
 
 C'était un passage noueux et plein de méandres situé au cœur de Poudlard
 qui serpentait comme une mèche de cheveux si mal coiffés qu'il se

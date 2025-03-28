@@ -1,6 +1,5 @@
-## Humanisme, partie 2
+# Humanisme, partie 2
 
-<div markdown="1">
 
 "Fumseck," dit Albus Dumbledore d'une voix qui se brisait, "s'il te
 plaît, aides-le…"
@@ -215,4 +214,3 @@ La chanson du phénix ne lui était pas destinée, Hermione le savait, mais
 elle avait quand même le pouvoir de l'apaiser. Et elle en aurait besoin,
 parce que sa vie était officiellement foutue.
 
-</div>

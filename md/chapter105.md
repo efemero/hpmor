@@ -1,6 +1,5 @@
-## La Vérité, partie 2
+# La Vérité, partie 2
 
-<div markdown="1">
 
 *Tom Jedusor*.
 
@@ -393,4 +392,3 @@ n'était pas le bon choix, mais tous les autres lui avaient semblé pires.
 
 Harry poussa la porte interdite et entra.
 
-</div>

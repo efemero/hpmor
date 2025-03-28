@@ -1,6 +1,5 @@
-## Courage
+# Courage
 
-<div markdown="1">
 
 "*Romantiques ?*" dit Hermione. "Ce sont tous les deux des *garçons !*"
 
@@ -480,4 +479,3 @@ perçue lorsque nous étions jeunes." La perplexité et le mécontentement
 cela était terminé, enterré sous une amitié adulte ; jusqu'au jour où
 Black a tué Peter."
 
-</div>

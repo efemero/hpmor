@@ -1,6 +1,5 @@
-## Forçage frontal
+# Forçage frontal
 
-<div markdown="1">
 
 Le vent mordant de janvier hurlait autour des vastes murs de pierre nue
 qui délimitaient les frontières matérielles du château de Poudlard,
@@ -408,4 +407,3 @@ Harry aurait pu s'excuser.
 Pour le moment, elle ressentait seulement une étrange curiosité quant à
 ce qui se passerait si elle continuait de lire son livre un moment.
 
-</div>

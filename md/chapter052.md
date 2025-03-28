@@ -1,6 +1,5 @@
-## L'Expérience de Prison de Stanford, partie 2
+# L'Expérience de Prison de Stanford, partie 2
 
-<div markdown="1">
 
 L'adrénaline coulait déjà dans les veines de Harry, son cœur battait
 déjà contre sa poitrine, dans ce magasin obscur, en ruines. Le
@@ -495,4 +494,3 @@ capuche.
 
 "Bonjour, ma chère Bella," dit un murmure glacé. "T'ais-je manqué ?"
 
-</div>

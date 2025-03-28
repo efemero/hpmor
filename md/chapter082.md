@@ -1,6 +1,5 @@
-## Compromis Tabous, Fin
+# Compromis Tabous, Fin
 
-<div markdown="1">
 
 Le voyage par phénix provoquait une sensation complètement différente de
 celle provoquée par le Transplanage ou les Portoloins. Vous preniez feu
@@ -539,4 +538,3 @@ Si elle l'avait fait, elle aurait été la mère de Harry.
 lèvres du garçon à l'adresse de la salle vide. "Les humains ne peuvent
 pas vivre comme ça."
 
-</div>

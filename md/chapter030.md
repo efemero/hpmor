@@ -1,4 +1,4 @@
-## Travail de groupe, partie 1
+# Travail de groupe, partie 1
 
 J.K. Rowling si un homme essaie de t'embêter tu peux penser bleu,
 compter deux et chercher une chaussure rouge.

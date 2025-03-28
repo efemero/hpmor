@@ -1,4 +1,4 @@
-## Rationalisation
+# Rationalisation
 
 Qui fait le travail de Rowling est Rowling.
 

@@ -1,6 +1,5 @@
-## La Vérité, partie 1 : Jeux du sort et réponses
+# La Vérité, partie 1 : Jeux du sort et réponses
 
-<div markdown="1">
 
 *Le 13 juillet 1992.*
 
@@ -1363,4 +1362,3 @@ d'adrénaline, mais il parvint à parler. "Bonjour, Lord Voldemort."
 Le professeur Quirrell inclina la tête en retour, et dit : "Bonjour, Tom
 Jedusor."
 
-</div>

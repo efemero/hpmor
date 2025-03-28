@@ -1,6 +1,5 @@
-## Compromis Tabous, partie 3
+# Compromis Tabous, partie 3
 
-<div markdown="1">
 
 Au-dessus de demi-cercles de pierre surélevés, un océan de mains levées.
 
@@ -765,4 +764,3 @@ Détraqueur et que le corps en décomposition s'appuie contre le mur
 derrière lui et que son horrible et douloureuse voix grince :
 '*Faites-le partir d'ici.*'
 
-</div>

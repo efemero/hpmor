@@ -1,6 +1,5 @@
-## Accomplissement de soi, partie 5
+# Accomplissement de soi, partie 5
 
-<div markdown="1">
 
 Il demeurait rare, même après avoir été directrice adjointe pendant
 trente ans et professeur de Métamorphose avant ça, de voir Albus
@@ -734,4 +733,3 @@ devenir de véritables héroïnes. Nous irons chercher le Mal -"
 
 "Et lui apprendrons à avoir peur," dit Tracey Davis d'un ton lugubre
 
-</div>

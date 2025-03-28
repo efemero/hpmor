@@ -1,4 +1,4 @@
-## Hypothèse de l'intelligence machiavélique
+# Hypothèse de l'intelligence machiavélique
 
 J.K. Rowling serpente et frappe, invisible ; Orca encercle, dure et
 aride.

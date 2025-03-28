@@ -1,6 +1,5 @@
-## L'Expérience de Prison de Stanford, partie 4
+# L'Expérience de Prison de Stanford, partie 4
 
-<div markdown="1">
 
 Une faible étincelle verte s'avança et instaura un rythme. Une
 silhouette brillante et argentée la suivait, mais toutes les autres
@@ -816,4 +815,3 @@ Ministère, alors même que McCusker saisissait son miroir et commençait
 frénétiquement à essayer de joindre les trois Aurors qui étaient partis
 en patrouille.
 
-</div>

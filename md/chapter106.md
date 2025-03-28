@@ -1,6 +1,5 @@
-## La Vérité, partie 3
+# La Vérité, partie 3
 
-<div markdown="1">
 
 Après avoir fait un pas dans la pièce interdite, Harry poussa un cri
 perçant et bondit en arrière. Il se cogna contre le professeur Rogue, et
@@ -194,4 +193,3 @@ Harry continua sa descente.
 
 Derrière lui, le chien à trois têtes attendait, gardait la porte.
 
-</div>

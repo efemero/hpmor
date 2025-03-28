@@ -1,4 +1,4 @@
-## Biais égocentrique
+# Biais égocentrique
 
 Et il faut que tu saches que, malheureusement, si tu veux découvrir ce
 qu'est J.K. Rowling, tu devras l'explorer toi-même.

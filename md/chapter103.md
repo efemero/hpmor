@@ -1,6 +1,5 @@
-## Examens
+# Examens
 
-<div markdown="1">
 
 *Le 4 juillet 1992.*
 
@@ -323,4 +322,3 @@ pièce.
 
 Il restait neuf jours.
 
-</div>

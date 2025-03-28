@@ -1,6 +1,5 @@
-## L'Expérience de Prison de Stanford, partie 6 : Optimisation sous contraintes
+# L'Expérience de Prison de Stanford, partie 6 : Optimisation sous contraintes
 
-<div markdown="1">
 
 Silencieuse, heureusement qu'elle était silencieuse, la porte de métal
 de l'étage suivant. Soit il n'y avait personne derrière, soit ils
@@ -563,4 +562,3 @@ structure de métal qui s'élevait au-dessus d'eux.
 Entrant par les trous creusés dans les fondations d'Azkaban, les plus
 sombres de toutes les créatures entamèrent leur marche d'horreur.
 
-</div>

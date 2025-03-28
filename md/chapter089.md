@@ -1,6 +1,5 @@
-## Pressions temporelles, partie 2
+# Pressions temporelles, partie 2
 
-<div markdown="1">
 
 De petits monticules d'un feu froid et bleu étaient attachés au sol
 autour d'une zone lumineuse qui semblait elle brûler d'un bleu plus
@@ -397,4 +396,3 @@ journée avait été étonnamment bonne dans l'ensemble…
 ***"IL EST LÀ. CELUI QUI DÉCHIRERA LES ÉTOILES DU CIEL. IL EST LÀ. IL
 EST LA FIN DU MONDE."***
 
-</div>

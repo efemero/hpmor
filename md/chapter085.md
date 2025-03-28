@@ -1,6 +1,5 @@
-## Compromis Tabous, Après coup 3: Distance
+# Compromis Tabous, Après coup 3: Distance
 
-<div markdown="1">
 
 Lent et ardu, le long escalier qui menait jusqu'au sommet de Serdaigle.
 De l'intérieur, il semblait monter en ligne droite, mais on pouvait voir
@@ -779,4 +778,3 @@ et se rendorme.
 
 Aucun d'eux ne dormit bien.
 
-</div>

@@ -1,6 +1,5 @@
-## Pressions temporelles, partie 1
+# Pressions temporelles, partie 1
 
-<div markdown="1">
 
 16 avril 1992.
 
@@ -876,4 +875,3 @@ juste alors qu'ils atteignaient un espace grand ouvert qui s'étendait
 jusqu'à échapper au plafonnage et se transformait en une terrasse
 découverte, un plan de dalles de marbres exposé à l'air et au ciel…
 
-</div>

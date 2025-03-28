@@ -1,4 +1,4 @@
-## Le péché capital
+# Le péché capital
 
 Brillant le soleil, brillants l'air, brillants les élèves et brillants
 leurs parents, propre le sol pavé de la plate-forme 9,75, le soleil

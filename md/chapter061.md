@@ -1,6 +1,5 @@
-## L'Expérience de Prison de Stanford, partie 11 : Secret et franchise
+# L'Expérience de Prison de Stanford, partie 11 : Secret et franchise
 
-<div markdown="1">
 
 Ils tourbillonnèrent au travers les flammes vertes et virevoltèrent au
 travers du réseau de cheminées tandis que le cœur de Minerva battait au
@@ -886,4 +885,3 @@ Le professeur McGonagall invoqua son Patronus et dit à son chat
 vous rendre dans mon bureau dès que vous entendez ceci sans rien faire
 d'autre en chemin.'"
 
-</div>

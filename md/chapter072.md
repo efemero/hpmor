@@ -1,6 +1,5 @@
-## Accomplissement de soi, partie 7 : Déni plausible
+# Accomplissement de soi, partie 7 : Déni plausible
 
-<div markdown="1">
 
 Le soleil d'hiver s'était couché bien avant la fin du dîner et c'est
 donc au milieu de la paisible lumière des étoiles qui perçait à travers
@@ -1288,4 +1287,3 @@ Poudlard et dans la nuit.
 
 Il attendit, mais aucune réponse ne vint.
 
-</div>

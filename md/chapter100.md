@@ -1,6 +1,5 @@
-## Mesures de précaution, partie 1
+# Mesures de précaution, partie 1
 
-<div markdown="1">
 
 *Le 13 mai 1992.*
 
@@ -798,4 +797,3 @@ issue.
 professeur de Défense se leva de sa souche, la sang de licorne éclairé
 par la lune toujours sur sa cape, et il rabattit la capuche sur sa tête.
 
-</div>

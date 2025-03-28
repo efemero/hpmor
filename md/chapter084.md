@@ -1,4 +1,4 @@
-## Compromis Tabous, Après coup 2
+# Compromis Tabous, Après coup 2
 
 Lorsque Hermione Granger se réveilla, elle était allongée dans un lit
 doux et confortable de l'infirmerie de Poudlard, un rectangle de

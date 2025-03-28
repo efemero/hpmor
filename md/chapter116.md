@@ -1,6 +1,5 @@
-## Après-coup, quelque chose à protéger, partie 0
+# Après-coup, quelque chose à protéger, partie 0
 
-<div markdown="1">
 
 Au début, Anna avait été ravie de voir la finale de la coupe de
 Quidditch durer si longtemps - en tant que Gryffondor, elle n'était
@@ -273,4 +272,3 @@ les Serpentard.
 L'aube illuminait le ciel quand les Serpentard remportèrent leur dernier
 match, la coupe de Quidditch, et la coupe des Maisons.
 
-</div>

@@ -1,6 +1,5 @@
-## Accomplissement de soi, partie 9 : Intensification des conflits
+# Accomplissement de soi, partie 9 : Intensification des conflits
 
-<div markdown="1">
 
 Harry avança d'un pas, puis d'un autre, jusqu'à ce qu'un malaise
 s'empare de lui, comme un grondement dans ses nerfs.
@@ -1345,4 +1344,3 @@ Davis, ôtez-moi cette cape ridicule -"
 "*Professeur Rooooooogue !*" gémit une Pansy Parkinson en larmes.
 "*Tracey a mangé mon ââââââme !*"
 
-</div>

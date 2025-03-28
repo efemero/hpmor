@@ -1,6 +1,5 @@
-## Rôles, partie 3
+# Rôles, partie 3
 
-<div markdown="1">
 
 Il n'y avait plus rien à faire.
 
@@ -303,4 +302,3 @@ qui reste des murs de Poudlard, sachant que vos élèves mourront avec
 vous, vous souvenant de ce jour, comprenant qu'il y avait autre chose
 que vous auriez pu faire."
 
-</div>

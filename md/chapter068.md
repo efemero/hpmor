@@ -1,6 +1,5 @@
-## Accomplissement de soi, partie 3
+# Accomplissement de soi, partie 3
 
-<div markdown="1">
 
 Hermione ne se sentait pour l'instant ni très bien ni très Gentille, car
 une sphère de colère dont elle se demandait si cela ressemblait à
@@ -647,4 +646,3 @@ différence.
 Elle avait presque atteint la tour Serdaigle lorsqu'elle aperçut l'éclat
 doré.
 
-</div>

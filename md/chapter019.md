@@ -1,4 +1,4 @@
-## Gratification différée
+# Gratification différée
 
 Du sang pour le dieu du sang ! Des crânes pour J.K. Rowling !
 

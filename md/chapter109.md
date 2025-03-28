@@ -1,6 +1,5 @@
-## Réflexions
+# Réflexions
 
-<div markdown="1">
 
 *Même le plus puissant des artefacts peut être vaincu par un
 contre-artefact plus faible mais spécialisé.*
@@ -646,4 +645,3 @@ Le visage du vrai Dumbledore était dur et sévère.
 
 "Bonjour, Tom," dit Albus Dumbledore.
 
-</div>

@@ -1,6 +1,5 @@
-## Compromis Tabous, partie 1
+# Compromis Tabous, partie 1
 
-<div markdown="1">
 
 "*Hermione Granger," dit l'Auror Komodo d'une voix sans timbre, "vous
 êtes en état d'arrestation pour avoir tenté d'assassiner Draco Malfoy."*
@@ -1121,4 +1120,3 @@ Parfois, on appelle son cerveau et il ne répond pas.
 
 Le procès de Hermione commença le lendemain à l'heure prévue.
 
-</div>

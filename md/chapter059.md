@@ -1,6 +1,5 @@
-## L'Expérience de Prison de Stanford, partie 9 : Curiosité
+# L'Expérience de Prison de Stanford, partie 9 : Curiosité
 
-<div markdown="1">
 
 Les balais avaient la réputation d'avoir été inventés à une époque qu'un
 Moldu aurait qualifiée de moyenâgeuse par une légendaire sorcière du nom
@@ -705,4 +704,3 @@ bord à l'autre de la lisière de l'enceinte.
 Il y eut un pop de Transplanage et le sorcier et le phénix disparurent,
 laissant derrière eux le balais emprunté.
 
-</div>

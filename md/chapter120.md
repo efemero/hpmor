@@ -1,6 +1,5 @@
-## Après-coup, quelque chose à protéger : Draco Malfoy
+# Après-coup, quelque chose à protéger : Draco Malfoy
 
-<div markdown="1">
 
 *Annonce de l'auteur : Adieu, Terry Pratchett, 1948-2015. Vos
 personnages m'ont inspirés et je comprends maintenant tout ce qu'ils
@@ -339,4 +338,3 @@ Un nom mystérieux lui vint à l'esprit, monta jusqu'à ses lèvres.
 *Note de l'auteur : Si vous voulez découvrir Terry Pratchett, vous
 pouvez essayer **Mort***.
 
-</div>

@@ -1,6 +1,5 @@
-## Accomplissement de soi, partie 4
+# Accomplissement de soi, partie 4
 
-<div markdown="1">
 
 Elle ne le vit que du coin de l'œil, le reflet sur le métal poli d'une
 statue située à l'embranchement de deux couloirs, l'éclat doré, l'éclat
@@ -522,4 +521,3 @@ demander ça -"
 C'est ainsi que naquit la Société pour la Promotion de l'Égalité
 Héroïque pour les Sorcières.
 
-</div>

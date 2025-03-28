@@ -1,6 +1,5 @@
-## L'Expérience de Prison de Stanford, partie 3
+# L'Expérience de Prison de Stanford, partie 3
 
-<div markdown="1">
 
 Le cadavre d'une femme ouvrit les yeux, et les orbes éteints et creusés
 regardèrent dans le vide.
@@ -193,4 +192,3 @@ rubrique nécrologique du lendemain…
 
 Et ce n'est pas lui qui le fit foirer.
 
-</div>

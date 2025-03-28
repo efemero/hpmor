@@ -1,4 +1,4 @@
-## Différences de statut
+# Différences de statut
 
 Une désorientation déchirante, voilà ce que Harry ressentit en
 descendant de la plate-forme neuf trois-quart et en mettant pied sur le

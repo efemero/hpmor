@@ -1,6 +1,5 @@
-## Compromis Tabous, Prélude : Tricherie
+# Compromis Tabous, Prélude : Tricherie
 
-<div markdown="1">
 
 Nous étions le samedi 4 avril, de l'année 1992.
 
@@ -2212,4 +2211,3 @@ trois côtés.
 "Hermione Granger," dit Auror Komodo d'une voix sans timbre, "vous êtes
 en état d'arrestation pour avoir tenté d'assassiner Draco Malfoy."
 
-</div>

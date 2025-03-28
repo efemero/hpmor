@@ -1,6 +1,5 @@
-## Humanisme, partie 4
+# Humanisme, partie 4
 
-<div markdown="1">
 
 Le dernier morceau de soleil s'enfonçait sous l'horizon, la lumière
 rouge quittait les toits, seul le ciel bleu éclairait les six personnes
@@ -608,4 +607,3 @@ Et l'heure était venue, et même depuis longtemps passée, de demander à
 Draco Malfoy ce que l'*autre* camp de cette guerre avait à dire sur la
 personnalité d'Albus Percival Wulfric Brian Dumbledore.
 
-</div>

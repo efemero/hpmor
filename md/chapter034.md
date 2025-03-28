@@ -1,4 +1,4 @@
-## Problèmes de coordination, partie 2
+# Problèmes de coordination, partie 2
 
 Minerva et Dumbledore avaient usé de leurs talents combinés pour
 invoquer la majestueuse scène vers laquelle se traînait le professeur

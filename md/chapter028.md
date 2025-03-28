@@ -1,4 +1,4 @@
-## Réductionnisme
+# Réductionnisme
 
 Tout ce qui peut devenir Rowling deviendra Rowling
 

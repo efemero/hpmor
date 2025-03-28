@@ -1,6 +1,5 @@
-## Titre Effacé, partie 1
+# Titre Effacé, partie 1
 
-<div markdown="1">
 
 Samedi.
 
@@ -452,4 +451,3 @@ moyen pour d'autres de faire la même déduction, je *dois* le savoir.
 Alors dites-moi, M. Potter. Par Merlin, par Atlantis, par le vide entre
 les étoiles, comment avez-vous deviné que je parlais de Bellatrix ?"
 
-</div>

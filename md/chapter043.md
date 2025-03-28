@@ -1,6 +1,5 @@
-## Humanisme, partie 1
+# Humanisme, partie 1
 
-<div markdown="1">
 
 Le doux soleil de janvier brillait sur froides étendues herbeuses aux
 alentours de Poudlard.
@@ -1066,4 +1065,3 @@ vision qui avait été précédemment occupé par un lointain toit de marbre.
 
 "Tu es énervant," dit la voix vide. "Tu devrais mourir."
 
-</div>

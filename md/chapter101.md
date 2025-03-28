@@ -1,6 +1,5 @@
-## Mesures de précaution, partie 2
+# Mesures de précaution, partie 2
 
-<div markdown="1">
 
 Harry haletait, seul, debout au centre d'une zone plus détruite qu'elle
 n'aurait dû l'être par la main d'un élève en première année. Le
@@ -399,4 +398,3 @@ demi-lune étaient à nouveau doux.
 
 "Ne t'en fais pas trop," dit Albus Dumbledore.
 
-</div>

@@ -1,6 +1,5 @@
-## Après-coup, quelque chose à protéger : Hermione Granger
+# Après-coup, quelque chose à protéger : Hermione Granger
 
-<div markdown="1">
 
 Le soir passa, le matin vint. Le dernier jour. Le 15 juillet 1992.
 
@@ -1382,4 +1381,3 @@ Jusqu'à ce que la mort m'emporte vraiment, si ça arrive un jour,
 Et si le monde ou sa magie disparaissent, nous nous en occuperons
 ensemble.*
 
-</div>

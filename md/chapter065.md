@@ -1,6 +1,5 @@
-## Mensonges contagieux
+# Mensonges contagieux
 
-<div markdown="1">
 
 Hermione Granger avait lu quelque part que l'une des clés de la minceur
 était de prêter attention à ce que l'on mangeait et de se concentrer sur
@@ -655,4 +654,3 @@ Le garçon soupira et se traîna jusqu'à son prochain cours.
 Il commençait à se demander si toutes les autres écoles de sorcellerie
 étaient comme ça ou si c'était seulement Poudlard qui avait un problème.
 
-</div>

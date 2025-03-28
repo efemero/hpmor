@@ -1,6 +1,5 @@
-## Rôles, fin
+# Rôles, fin
 
-<div markdown="1">
 
 *Dimanche 19 avril, 18h34.*
 
@@ -414,4 +413,3 @@ nature.
 "Et Poudlard," dit Daphné de Greengrass en sentant son sang bouillir en
 elle comme jamais auparavant, "va se *défendre*."
 
-</div>

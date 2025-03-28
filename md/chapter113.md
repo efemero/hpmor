@@ -1,4 +1,4 @@
-## Examen Final
+# Examen Final
 
 La lune gibbeuse levée dans le ciel sans nuage, la majesté des étoiles
 et de la Voie Lactée visibles dans les ténèbres : voilà ce qui

@@ -1,0 +1,10 @@
+---
+documentclass: novel
+papersize: a5
+title: Harry Potter et les Méthodes de la rationnalité
+author: Eliezer Yudkowsky
+rights: 
+language: fr-BE
+secnumdepth: 1
+document-css: css/html.css
+---

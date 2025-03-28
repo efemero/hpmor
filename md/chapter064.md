@@ -1,6 +1,5 @@
-## Dossiers Omake 3 : Parallèles alternatif
+# Dossiers Omake 3 : Parallèles alternatif
 
-<div markdown="1">
 
 Si vous auriez dû être au lit il y a plus de cinq heures et que vous
 lisez encore ceci, puis-je vous suggérer d'aller dormir un peu ? Cette
@@ -817,4 +816,3 @@ un vrai manuel de physique ?
 
 MORPHEUS : Ça n'existe pas, Néo. L'univers n'est pas basé sur les maths.
 
-</div>

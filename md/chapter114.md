@@ -1,6 +1,5 @@
-## Tais-toi et accomplis l'impossible
+# Tais-toi et accomplis l'impossible
 
-<div markdown="1">
 
 La lune gibbeuse levée dans le ciel sans nuage, la majesté des étoiles
 et de la Voie Lactée visibles dans les ténèbres : voilà ce qui
@@ -286,4 +285,3 @@ accablé par la douleur et la fatigue, il laissa tomber sa baguette.
 
 Lorsqu'il la laissa tomber, la douleur commença à se dissiper…
 
-</div>

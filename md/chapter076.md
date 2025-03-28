@@ -1,6 +1,5 @@
-## Interlude avec le confesseur : coûts irrécupérables
+# Interlude avec le confesseur : coûts irrécupérables
 
-<div markdown="1">
 
 Rianne Felthorne descendit les escaliers de pierre rugueuse et de
 mortier rudimentaire en maintenant entre les candélabres un *Lumos*
@@ -388,4 +387,3 @@ aubaine incroyable, et elle ne savait pas pourquoi regarder ce rubis la
 faisait se sentir si triste, comme si elle avait oublié quelque chose,
 quelque chose qui avait été précieux pour elle.
 
-</div>

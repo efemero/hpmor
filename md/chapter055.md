@@ -1,6 +1,5 @@
-## L'Expérience de Prison de Stanford, partie 5
+# L'Expérience de Prison de Stanford, partie 5
 
-<div markdown="1">
 
 Dans un couloir en ruine et délabré, éclairé par de faibles lampes à
 gaz, un garçon progresse lentement, une main tendue en avant, vers le
@@ -990,4 +989,3 @@ directement, puis vas voir Albus Dumbledore. S'il n'est pas déjà seul,
 attends qu'il le soit. Et dis-lui cela : Bellatrix Black s'échappe
 d'Azkaban et les Détraqueurs ne peuvent pas la trouver."
 
-</div>

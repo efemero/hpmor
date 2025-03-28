@@ -1,6 +1,5 @@
-## Accomplissement de soi, partie 8 : Le Sacré et le Profane
+# Accomplissement de soi, partie 8 : Le Sacré et le Profane
 
-<div markdown="1">
 
 *Le trait de feu rouge atteignit Hannah en plein visage, la renversa
 pieds par-dessus tête et envoya sa tête percuter le mur de pierre où sa
@@ -755,4 +754,3 @@ Traverse." Il y avait un air perplexe sur le visage du garçon, comme
 s'il ne pouvait pas comprendre pourquoi elle faisait attention à quelque
 chose d'aussi ordinaire.
 
-</div>

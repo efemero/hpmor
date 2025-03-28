@@ -1,6 +1,5 @@
-## Accomplissement de soi, Épilogues : Apparences superficielles
+# Accomplissement de soi, Épilogues : Apparences superficielles
 
-<div markdown="1">
 
 *Après-coup : Albus Dumbledore et…*
 
@@ -1365,4 +1364,3 @@ Dame, êtes promise au plus merveilleux des destins -"
 
 …
 
-</div>

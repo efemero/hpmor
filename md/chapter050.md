@@ -1,6 +1,5 @@
-## Égocentrisme
+# Égocentrisme
 
-<div markdown="1">
 
 Padma Patil avait finit de dîner un peu tard, non loin de sept heures et
 demie, et sortait maintenant de la Grande Salle à bonne allure, en
@@ -531,4 +530,3 @@ travaillée.
 Les jours jusqu'au déjeuner avec le professeur Quirrell avançaient très,
 très lentement.
 
-</div>

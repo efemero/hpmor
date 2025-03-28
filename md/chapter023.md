@@ -1,4 +1,4 @@
-## Croyance en la croyance
+# Croyance en la croyance
 
 Everybody wants a rock to wind a piece of string around J.K. Rowling.
 

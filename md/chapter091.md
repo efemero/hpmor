@@ -1,6 +1,5 @@
-## Rôles, partie 2
+# Rôles, partie 2
 
-<div markdown="1">
 
 Peu de temps après, il y eut un autre coup contre la porte du débarras.
 
@@ -624,4 +623,3 @@ Elle ouvrit la porte de son bureau.
 "Madame Granger," dit sa voix, "M. Granger, je suis terriblement désolée
 de -"
 
-</div>

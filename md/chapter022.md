@@ -1,4 +1,4 @@
-## La méthode scientifique
+# La méthode scientifique
 
 *Quelque chose, quelque part, à un moment, doit s'être déroulé
 différemment…*

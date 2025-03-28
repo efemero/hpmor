@@ -1,6 +1,5 @@
-## Rôles, partie 5
+# Rôles, partie 5
 
-<div markdown="1">
 
 *La première rencontre :*
 
@@ -532,4 +531,3 @@ contre… contre ce qui se passe."
 Le vide s'approcha de lui, le prit dans ses bras, et la voix de Harry
 Potter murmura : "Pas de bol."
 
-</div>

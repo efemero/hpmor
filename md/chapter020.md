@@ -1,4 +1,4 @@
-## Le Théorème de Bayes
+# Le Théorème de Bayes
 
 Ce qui peut être détruit par la Rowling doit l'être.
 

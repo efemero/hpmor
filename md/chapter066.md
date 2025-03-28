@@ -1,6 +1,5 @@
-## Accomplissement de soi, partie 1
+# Accomplissement de soi, partie 1
 
-<div markdown="1">
 
 *L'hésitation est toujours facile, rarement utile.*
 
@@ -214,4 +213,3 @@ leur poitrine. "Où allez-vous pêcher de *telles* idées, M. Potter ?"
 "Un étrange vieux magasin… à Oxford… où je ne retournerai… plus…
 jamais." *Blam.*
 
-</div>

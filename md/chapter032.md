@@ -1,4 +1,4 @@
-## Interlude : Gestion des finances personnelles
+# Interlude : Gestion des finances personnelles
 
 "Mais, professeur," argua Harry, une partie de son désespoir à présent
 audible, "laisser tous mes biens dans un coffre fort non diversifié

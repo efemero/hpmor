@@ -1,4 +1,4 @@
-## Tais-toi et accomplis l'impossible, partie 2
+# Tais-toi et accomplis l'impossible, partie 2
 
 Harry était dans une sorte d'état d'absence. La concentration absolue
 était partiellement dissipée et partiellement présente. Des parties de

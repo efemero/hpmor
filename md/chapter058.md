@@ -1,6 +1,5 @@
-## L'Expérience de Prison de Stanford, partie 8 : Cognition sous contraintes
+# L'Expérience de Prison de Stanford, partie 8 : Cognition sous contraintes
 
-<div markdown="1">
 
 Note de l'auteur : Une bande annonce du film *Evil Dead 3* proche de
 celle que Harry a vue : [THV1KkPXIxQ sur
@@ -691,4 +690,3 @@ deux places.
 
 Et il y eut du bruit.
 
-</div>

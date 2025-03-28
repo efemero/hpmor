@@ -1,6 +1,5 @@
-## Compromis Tabous, partie 2 : Le halo d'infamie
+# Compromis Tabous, partie 2 : Le halo d'infamie
 
-<div markdown="1">
 
 NdT : PJ signifie Personnage Joueur.
 
@@ -758,4 +757,3 @@ d'Angleterre magique ; ses yeux parcoururent les rangées de chaises,
 chaque personne, chaque chose à portée de vue, à la recherche d'une
 opportunité à saisir…
 
-</div>

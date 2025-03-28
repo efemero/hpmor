@@ -1,4 +1,4 @@
-## Pensée latérale
+# Pensée latérale
 
 La porte de l'ennemi est Rowling.
 

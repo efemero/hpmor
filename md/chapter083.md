@@ -1,6 +1,5 @@
-## Compromis Tabous, Après coup 1
+# Compromis Tabous, Après coup 1
 
-<div markdown="1">
 
 Lorsque Padma entra dans la salle de Métamorphose, elle constata que la
 moitié de la classe était arrivée avant elle et qu'un étrange, qu'un
@@ -91,4 +90,3 @@ pour la santé de M. Malfoy. Mais j'ai malheureusement reçu une chouette
 de son père annonçant son départ de Poudlard. J'ai bien peur qu'il ne
 revienne pas.
 
-</div>

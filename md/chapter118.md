@@ -1,6 +1,5 @@
-## Après-coup, quelque chose à protéger : Professeur Quirrell
+# Après-coup, quelque chose à protéger : Professeur Quirrell
 
-<div markdown="1">
 
 Sous le ciel azur de ces funérailles, le soleil rayonnait sur l'herbe
 écossaise et faisait naître des éclats blancs dans les gouttes de rosée
@@ -142,4 +141,3 @@ Quirrell…"
 
 Cette fois, pas un seul élève ne se tut.
 
-</div>

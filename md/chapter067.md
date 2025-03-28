@@ -1,6 +1,5 @@
-## Accomplissement de soi, partie 2
+# Accomplissement de soi, partie 2
 
-<div markdown="1">
 
 Dans les hauteurs de Poudlard, là où les couloirs et les pièces se
 transformaient quotidiennement, là où le territoire devenait aussi
@@ -545,4 +544,3 @@ sortilège d'étourdissement, et il n'y eut donc nulle part où aller
 lorsque Harry pointa sa baguette vers elle et dit "*Somnium*" ; ce fut
 le dernier mot que Hermione Granger entendit de toute cette bataille.
 
-</div>

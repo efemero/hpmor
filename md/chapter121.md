@@ -1,6 +1,5 @@
-## Après-coup, quelque chose à protéger : Severus Rogue
+# Après-coup, quelque chose à protéger : Severus Rogue
 
-<div markdown="1">
 
 Une atmosphère maussade flottait dans le bureau de la directrice.
 Minerva était revenue après avoir laissé Draco et Narcissa/Nancy à
@@ -188,4 +187,3 @@ cheminette et la jeta dans la cheminée du bureau avant de s'avancer vers
 la flamme en murmurant un mot que personne n'entendit ; et c'est la
 dernière fois que quiconque entendit parler de Severus Rogue.
 
-</div>

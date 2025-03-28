@@ -1,4 +1,4 @@
-## Travail de groupe, partie 2
+# Travail de groupe, partie 2
 
 Après-coups :
 

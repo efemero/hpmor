@@ -1,6 +1,5 @@
-## L'Expérience de Prison de Stanford, partie 10
+# L'Expérience de Prison de Stanford, partie 10
 
-<div markdown="1">
 
 "Debout."
 
@@ -510,4 +509,3 @@ Le garçon se contenta de le regarder. Puis il dit : "Oh, vraiment ?"
 "Vraiment," dit l'homme. "Je ne sais rien, et je ne dirai rien de ce
 dont je me doute. Mais je dirai ceci -"
 
-</div>

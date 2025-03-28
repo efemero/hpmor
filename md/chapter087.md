@@ -1,6 +1,5 @@
-## Sensibilité hédonique
+# Sensibilité hédonique
 
-<div markdown="1">
 
 *Jeudi 16 avril 1992*
 
@@ -806,4 +805,3 @@ extérieures.*"
 Les portes de la librairie s'ouvrirent grand une fois de plus sur le
 passage d'un second départ.
 
-</div>

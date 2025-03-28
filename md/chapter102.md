@@ -1,6 +1,5 @@
-## Préoccupation
+# Préoccupation
 
-<div markdown="1">
 
 *Le 2 juillet 1992.*
 
@@ -554,4 +553,3 @@ pourrait jamais lancer ; et il continua d'avancer vers la bibliothèque
 pour lire tout ce qu'il pourrait trouver, absolument tout, au sujet de
 la Pierre Philosophale.
 
-</div>

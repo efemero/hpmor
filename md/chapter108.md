@@ -1,6 +1,5 @@
-## La Vérité, partie 5 : Réponses et Jeux du sort
+# La Vérité, partie 5 : Réponses et Jeux du sort
 
-<div markdown="1">
 
 D'un geste, le professeur de Défense avait fait léviter un chaudron
 jusqu'à lui, et d'un autre, il avait allumé un feu en-dessous. Un rapide
@@ -1613,4 +1612,3 @@ Le feu s'éteint soudainement.
 d'Invisibilité de ses Robes et l'envoya léviter jusqu'aux pieds de
 Harry.
 
-</div>

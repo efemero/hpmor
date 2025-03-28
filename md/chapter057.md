@@ -1,6 +1,5 @@
-## L'Expérience de Prison de Stanford, partie 7 : Cognition sous contraintes
+# L'Expérience de Prison de Stanford, partie 7 : Cognition sous contraintes
 
-<div markdown="1">
 
 Harry avait *espéré* avoir accompli une fusion avec son mystérieux côté
 obscur, être devenu capable de faire usage de tous les avantages de
@@ -664,4 +663,3 @@ Les petites lettres d'or sur l'appareil Moldu disaient :
 
 *Très bien, bande de nazes primitifs ! Écoutez-moi !*
 
-</div>

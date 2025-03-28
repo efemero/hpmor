@@ -1,6 +1,5 @@
-## Rôles, partie 7
+# Rôles, partie 7
 
-<div markdown="1">
 
 *Note de l'auteur : Pour ceux qui n'ont pas lu l'histoire originale : la
 pancarte a quelque peu changé, mais l'inscription est la même que dans
@@ -532,4 +531,3 @@ moyen desquels la Mort sera vaincue.
 dans une petite taverne en périphérie de ce que l'on appellerait plus
 tard Godric's Hollow.
 
-</div>

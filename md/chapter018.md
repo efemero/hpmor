@@ -1,4 +1,4 @@
-## Hiérarchies de dominance
+# Hiérarchies de dominance
 
 NdT : J'utilise le mot anglais *sentient* à la façon de Guy Abadia dans
 l'Étoile et le Fouet.

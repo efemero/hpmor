@@ -1,6 +1,5 @@
-## Après-coup, quelque chose à protéger : Albus Dumbledore
+# Après-coup, quelque chose à protéger : Albus Dumbledore
 
-<div markdown="1">
 
 Harry se tenait maintenant face aux gargouilles gardiennes du bureau du
 directeur…non, de la directrice. Le professeur Sinistra l'avait convoqué
@@ -1237,4 +1236,3 @@ ne lui faisait plus perdre de temps, même si la majorité des vies en jeu
 s'étaient avérées ne pas pouvoir être sauvées pour l'instant, "que
 quelqu'un prévienne Remus Lupin."
 
-</div>

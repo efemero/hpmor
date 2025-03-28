@@ -1,4 +1,4 @@
-## Faire semblant d'être sage, partie 2
+# Faire semblant d'être sage, partie 2
 
 Tenant sa tasse de la manière exacte que le professeur Quirrell avait dû
 par trois fois lui montrer, Harry prit une gorgée, petite, et

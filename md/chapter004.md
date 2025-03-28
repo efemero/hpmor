@@ -1,34 +1,24 @@
-## L'hypothèse du Marché Efficient
+# L'hypothèse du Marché Efficient
 
+:::{.disclaimer}
 Avertissement : J.K. Rowling vous observe de là où elle a toujours
 attendu, dans le vide entre les mondes
+:::
 
- 
 
-------------------------------------------------------------------------
-
- 
-
+:::{.nda}
 Avis : Comme certains l'ont fait remarquer, les livres sont en
 contradiction les uns avec les autres pour ce qui est du pouvoir d'achat
 d'un Gallion ; je vais choisir une valeur fixe et m'y tenir. Cinq livres
 anglaises pour un Gallion ne cadre pas avec sept Gallions pour une
 baguette, ni avec des enfants utilisant des baguettes de seconde main.
+:::
 
- 
 
-------------------------------------------------------------------------
-
- 
-
+:::{.intro}
 "*Domination mondiale est une phrase si laide. Je préfère l'appeler
 optimisation mondiale."*
-
- 
-
-------------------------------------------------------------------------
-
- 
+:::
 
 Des tas de Gallions d'or. Des piles de Mornilles d'argent. Des monceaux
 de Noises de bronze.

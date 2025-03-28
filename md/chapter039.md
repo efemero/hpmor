@@ -1,4 +1,4 @@
-## Faire semblant d'être sage
+# Faire semblant d'être sage
 
 Siffle. Tick. Bzzzt. Ding. Glorp. Pop. Sploutch. Cling. Pouet. Pouf.
 Vring. Bloup. Bip. Crac. Woosh. Shhh. Pffft. Vrrr.

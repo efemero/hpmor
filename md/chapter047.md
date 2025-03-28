@@ -1,6 +1,5 @@
-## Théorie de l'identité individuelle
+# Théorie de l'identité individuelle
 
-<div markdown="1">
 
 NdT : J'utilise le mot anglais sentient à la façon de Guy Abadia dans sa
 traduction de *L'Étoile et le Fouet* (*Whipping Star* de Frank Herbert).
@@ -1616,4 +1615,3 @@ vraiment été Trié à Serdaigle ! *Tu es l'héritier de Serpentard !*"
 
 "LES SERPENTS SONT SENTIENTS ?"
 
-</div>

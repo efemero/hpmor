@@ -1,6 +1,5 @@
-## Rôles, partie 4
+# Rôles, partie 4
 
-<div markdown="1">
 
 Harry entra dans la grande salle, ne regarda autour de lui qu'une fois,
 consomma suffisamment de calories pour se sustenter, sortit, remit sa
@@ -491,4 +490,3 @@ Il ne pensait pas que cela suffirait.
 Ce n'est que le lendemain matin qu'il fut découvert que le corps de
 Hermione Granger avait disparu.
 
-</div>

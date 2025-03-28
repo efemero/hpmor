@@ -1,6 +1,5 @@
-## Échec, partie 2
+# Échec, partie 2
 
-<div markdown="1">
 
 Au moment même où il leva son arme, Harry sut qu'il commettait une
 erreur ; son cerveau antérieur le vit, essaya d'arrêter sa main, mais
@@ -159,4 +158,3 @@ puisqu'il était nu, et que la température baissait.
 *Tu sais*, dit la dernière voix dans Harry, la voix de l'espoir, *même
 moi, je commence à penser qu'on est mal barrés.*
 
-</div>

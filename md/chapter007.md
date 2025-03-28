@@ -1,4 +1,4 @@
-## Réciprocité
+# Réciprocité
 
 Waouh. Un porte-parole de l'agent de Rowling a dit qu'elle accepte
 l'existence de fanfictions tant que personne ne les fait payer et que
@@ -896,17 +896,13 @@ exactement au bon angle pour rabattre son regard et voir la portion de
 l'étal du vendeur consacrée à un journal nommé Le Chicaneur, qui portait
 le gros titre suivant :
 
-<div markdown="1" style="text-align: center;">
 
 *DRACO MALFOY TOMBE*
 
-</div>
 
-<div markdown="1" style="text-align: center;">
 
 *ENCEINTE DU SURVIVANT*
 
-</div>
 
 "*Gah* !" cria Draco alors que du liquide vert fluo était pulvérisé
 depuis Harry jusqu'à sa personne. Draco se tourna vers Harry, les yeux
@@ -925,17 +921,13 @@ Draco.
 
 Puis il leva à nouveau les yeux et fixa le gros titre du journal.
 
-<div markdown="1" style="text-align: center;">
 
 *DRACO MALFOY TOMBE*
 
-</div>
 
-<div markdown="1" style="text-align: center;">
 
 *ENCEINTE DU SURVIVANT*
 
-</div>
 
 Les lèvres de Harry s'ouvrirent et dirent : "buh-bluh-buh-buh"
 

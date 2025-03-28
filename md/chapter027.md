@@ -1,4 +1,4 @@
-## Empathie
+# Empathie
 
 J.K. Rowling est sûre à 87 % que vous allez prendre feu.
 

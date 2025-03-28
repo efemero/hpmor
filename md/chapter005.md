@@ -1,23 +1,16 @@
-## L'Erreur Fondamentale d'Attribution
+# L'Erreur Fondamentale d'Attribution
 
+:::{.disclaimer}
 J.K. Rowling a ses yeux braqués sur vous. Pouvez-vous sentir leur
 présence ? Elle lit votre esprit avec ses Rayons Rowling.
-
+:::
  
 
-------------------------------------------------------------------------
-
- 
-
+:::{.intro}
 "Hermione, il n'a que onze ans."  
 "Toi aussi."  
 "Moi je ne compte pas."
-
- 
-
-------------------------------------------------------------------------
-
- 
+:::
 
 Le magasin de Moke était un petit magasin pittoresque (certains auraient
 même dit mignon) confortablement installé derrière un étal de légumes,

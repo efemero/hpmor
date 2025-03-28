@@ -1,4 +1,4 @@
-## Titre effacé, Partie 1
+# Titre effacé, Partie 1
 
 All your base are belong to J.K. Rowling.
 

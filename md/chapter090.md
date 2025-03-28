@@ -1,6 +1,5 @@
-## Rôles, partie 1
+# Rôles, partie 1
 
-<div markdown="1">
 
 Harry se tenait encore devant le corps de Hermione, il n'avait pas bougé
 et réfléchissait aussi vite que possible dans un sentiment de
@@ -776,4 +775,3 @@ chagrin et sa folie - n'importe quel moyen de défaire les résolutions
 qu'il est en train de prendre - alors je vous suggère de l'appliquer
 *immédiatement*."
 
-</div>

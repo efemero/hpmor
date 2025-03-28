@@ -1,6 +1,5 @@
-## Réflexions, partie 2
+# Réflexions, partie 2
 
-<div markdown="1">
 
 L'air sévère de Dumbledore ne dura que le temps de laisser place à
 l'ahurissement. "Quirinus ? Que…"
@@ -247,4 +246,3 @@ Le Miroir se remit à montrer le reflet ordinaire de la salle de pierre
 blanche éclairée d'or. Il n'y avait plus aucune trace du lieu où Albus
 Dumbledore avait été.
 
-</div>

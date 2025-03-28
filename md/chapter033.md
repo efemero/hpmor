@@ -1,4 +1,4 @@
-## Problèmes de coordination, partie 1
+# Problèmes de coordination, partie 1
 
 \[NdT : La traduction officielle *française* de l'extrait de Procope de
 Césarée cité par Dumbledore dans ce chapitre est si différente la

@@ -1,6 +1,5 @@
-## Après-coup, quelque chose à protéger : Minerva McGonagall
+# Après-coup, quelque chose à protéger : Minerva McGonagall
 
-<div markdown="1">
 
 Nous étions le lendemain matin. Tous les élèves s'étaient assemblés
 silencieusement autour des quatre tables de Poudlard, Harry James
@@ -284,4 +283,3 @@ l'effleurèrent, des larmes commencèrent à couler sur ses joues ; puis
 l'oiseau s'élança vers une lucarne au-dessus de la Grande Salle et s'en
 fut.
 
-</div>

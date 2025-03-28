@@ -1,6 +1,5 @@
-## La Vérité, partie 4
+# La Vérité, partie 4
 
-<div markdown="1">
 
 Les feuilles en spirale du dieffenbachia donnaient à Harry l'impression
 de marcher sur un sol forestier. Elles soutenaient son poids sans avoir
@@ -547,4 +546,3 @@ ferait un élève de première année," dit le professeur de Défense.
 "Autant discuter pendant que nous attendons. Tu avais des questions,
 petit ? J'ai dit que j'y répondrai, alors, pose-les."
 
-</div>

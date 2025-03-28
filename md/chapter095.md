@@ -1,6 +1,5 @@
-## Rôles, partie 6
+# Rôles, partie 6
 
-<div markdown="1">
 
 *La troisième rencontre*
 
@@ -550,4 +549,3 @@ ramper à l'écart, en direction du lointain château.
 
 Debout dans la forêt, le garçon le regarda partir.
 
-</div>

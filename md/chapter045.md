@@ -1,6 +1,5 @@
-## Humanisme, partie 3
+# Humanisme, partie 3
 
-<div markdown="1">
 
 La chanson de Fumseck s'éteignit doucement.
 
@@ -530,4 +529,3 @@ Détraqueur.
 
 Dans la cage, la cape en lambeaux était vide.
 
-</div>

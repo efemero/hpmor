@@ -1,6 +1,5 @@
-## Accomplissement de soi, partie 6
+# Accomplissement de soi, partie 6
 
-<div markdown="1">
 
 "Eh bien," chuchota Daphné aussi bas qu'elle le pouvait, "au moins
 maintenant je n'ai plus l'impression d'être la seule personne saine
@@ -680,4 +679,3 @@ le général Soleil ?"
 "*Quoi?*" dit Rianne Felthorne soudain horrifiée et dégoûtée. "Elle est
 en *première année ! Berk !*"
 
-</div>
