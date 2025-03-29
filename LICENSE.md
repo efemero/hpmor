@@ -1,4 +1,4 @@
-Il n’y a pas de licence évidente pour ce projet.
+Il n’y a pas de licence évidente pour ce livre.
 
 J. K. Rowling autorise les fanfictions tant que c’est non commercial.
 

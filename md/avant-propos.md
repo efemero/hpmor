@@ -1,3 +1,6 @@
+:::{.frontmatter}
+:::
+
 # Avant-propos
 
 :::{.disclaimer}

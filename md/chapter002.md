@@ -10,7 +10,7 @@
 pourrait être responsable de quoi que ce soit. »*
 :::
 
-« Donc, juste pour être bien clair, » dit Harry, « Papa, si le
+« Donc, juste pour être bien clair » dit Harry, « Papa, si le
 professeur te fait vraiment léviter, alors que tu sais que tu n'as été
 attaché à aucun fil, ce sera une preuve suffisante. Tu ne vas pas
 changer d'avis et dire que c'était un truc de magicien. Ce ne serait pas
