@@ -19,6 +19,7 @@ jobs:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v4
       - uses: r-lib/actions/setup-pandoc@v2
+      - run: apt install texlive
       - run: cd $GITHUB_WORKSPACE
       - run: mkdir target
       - run: pandoc --top-level-division=chapter -o target/hpmor.epub book.yaml "md/avant-propos.md" md/chapter*.md  "md/colophon.md" --lua-filter=filters/filters.lua --css ./css/epub.css --epub-embed-font fonts/Parseltongue.ttf
