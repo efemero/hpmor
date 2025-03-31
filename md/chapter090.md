@@ -106,7 +106,7 @@ Potter avait glapit au phénix de ne pas faire ça, que ses émotions
 *soigner* comme si elles étaient une maladie. Après cela, Fumseck avait
 refusé de chanter.
 
-Albus pensait qu'elle était peut⁻être celle qui avait le plus de chance
+Albus pensait qu'elle était peut-être celle qui avait le plus de chance
 de pouvoir atteindre Harry Potter.
 
 Alors elle dut se reprendre, nettoyer son visage ; elle aurait le temps

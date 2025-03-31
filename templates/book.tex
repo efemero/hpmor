@@ -38,7 +38,7 @@
 % media settings
 % \setstocksize{8.5in}{5.675in}
 % \settrimmedsize{8.5in}{5.5in}{*}
-\setbinding{15mm}
+\setbinding{5mm}
 \setlrmarginsandblock{15mm}{15mm}{*}
 \setulmarginsandblock{15mm}{15mm}{*}
 
@@ -87,7 +87,7 @@
 
 % chapter title manipulation
 % padding with zero
-\renewcommand*\thechapter{\ifnum\value{chapter}<10 0\fi\arabic{chapter}}
+% \renewcommand*\thechapter{\ifnum\value{chapter}<10 0\fi\arabic{chapter}}
 % chapter title display
 \titleformat
 {\chapter}
@@ -144,18 +144,15 @@
 \titleM
 \clearpage
 % copyright page
-\noindent{\small{Il n’y a pas de licence évidente pour ce livre.
-
-J. K. Rowling autorise les fanfictions tant que c’est non commercial.
-
+\noindent{\small{Il n’y a pas de licence évidente pour ce livre.\\
+J. K. Rowling autorise les fanfictions tant que c’est non commercial.\\
 Eliezer Yudkowsky a implicitement mis son travail dans le domaine public avec la mention suivante:
 
-« Disclaimer: J. K. Rowling owns Harry Potter, and no one owns the methods of rationality. » dont la traduction est:
+« Disclaimer: J. K. Rowling owns Harry Potter, and no one owns the methods of rationality. »\\
+ dont la traduction est:
 
-« Avertissement : J.K. Rowling possède Harry Potter, et personne ne possède les méthodes de la rationalité »
-
-En conséquence, ce travail lui-même est sans doute dans le domaine public, mais rien n’est certain au pays magique des droits d’auteurs.
-
+« Avertissement : J.K. Rowling possède Harry Potter, et personne ne possède les méthodes de la rationalité »\\
+En conséquence, ce travail lui-même est sans doute dans le domaine public, mais rien n’est certain au pays magique des droits d’auteurs.\\
 Sentez-vous donc libre de modifier, corriger, utiliser cette version de HPMOR comme vous l’entendez.
 }}
 \clearpage
@@ -165,18 +162,14 @@ Sentez-vous donc libre de modifier, corriger, utiliser cette version de HPMOR co
 \itshape{\noindent{}}
 \end{center}
 
-% begin front matter
 \frontmatter
 \pagestyle{mystyle}
 % table of contents
 \clearpage
 \tableofcontents*
 
-% begin main matter
-\mainmatter
 $body$
 
-% begin back matter
 
 \end{document}
 % END THE DOCUMENT

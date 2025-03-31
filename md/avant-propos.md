@@ -1,6 +1,3 @@
-:::{.frontmatter}
-:::
-
 # Avant-propos
 
 :::{.disclaimer}
@@ -15,26 +12,26 @@ chapitre 10, laissez tomber.
 Rendez-vous sur HPMOR POINT COM pour y trouver :
 
 -   Des notification par email, RSS ou Twitter de la sortie de nouveaux
-    chapitres \[NdT : en anglais\].  
--   Les notes de l'auteur.  
--   Une version PDF de l'histoire faite par un fan.  
--   Une version du texte \[NdT : en anglais\] sans publicités.  
--   Des versions ePUB et MOBI de l'histoire.  
--   L'histoire en podcast \[NdT : en anglais\].  
--   Beaucoup, beaucoup de fan art.  
--   La liste des Caméos (personnages nommés d'après des fan artistes).  
--   Des fan-fanfictions de cette fanfiction.  
--   Des musiques, chansons et animations faites par des fans.  
--   Des traductions faites par des fans.  
--   Le mot-clé OKCupid pour les lecteurs de HPMOR.  
--   Des liens vers la page HPMOR de TV Tropes et leur forum.  
+    chapitres \[NdT : en anglais\].
+-   Les notes de l'auteur.
+-   Une version PDF de l'histoire faite par un fan.
+-   Une version du texte \[NdT : en anglais\] sans publicités.
+-   Des versions ePUB et MOBI de l'histoire.
+-   L'histoire en podcast \[NdT : en anglais\].
+-   Beaucoup, beaucoup de fan art.
+-   La liste des Caméos (personnages nommés d'après des fan artistes).
+-   Des fan-fanfictions de cette fanfiction.
+-   Des musiques, chansons et animations faites par des fans.
+-   Des traductions faites par des fans.
+-   Le mot-clé OKCupid pour les lecteurs de HPMOR.
+-   Des liens vers la page HPMOR de TV Tropes et leur forum.
 -   Des trigger warnings (qui vous avertissent quant à de possibles
     associations traumatiques ; pour éviter les spoilers, il n'y a aucun
-    trigger warning dans le texte lui-même).  
--   Comment apprendre tout ce que le personnage principal sait.  
+    trigger warning dans le texte lui-même).
+-   Comment apprendre tout ce que le personnage principal sait.
 -   Des offres d'emplois dans une organisation à but non lucratif en
-    rapport avec la rationalité.  
--   Et bien plus…  
+    rapport avec la rationalité.
+-   Et bien plus…
 
 \[…\]
 

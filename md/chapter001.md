@@ -1,12 +1,13 @@
+:::{.mainmatter}
+:::
+
 # Un jour à très faible probabilité
 
 :::{.intro}
 Sous la lune scintille un infime fragment d’argent, une fraction de
-ligne…
-
-(Des robes noires. Elles tombent.)
-
-…des litres de sang se répandent, et quelqu’un crie un mot.
+ligne…  
+(Des robes noires. Elles tombent.)  
+…des litres de sang se répandent, et quelqu’un crie un mot.  
 :::
 
 Chaque centimètre carré d’espace mural est caché derrière un pan de
@@ -30,7 +31,7 @@ vert-émeraude.
 Le professeur et sa femme discutent sèchement, mais ils ne crient pas.
 Le professeur trouverait cela fort peu civilisé.
 
-— Tu plaisantes, dit Michael à Pétunia. Son ton indiquait qu’il avait
+« Tu plaisantes », dit Michael à Pétunia. Son ton indiquait qu’il avait
 bien peur que non.
 
 « Ma sœur était une sorcière, » répéta-t-elle. Elle semblait effrayée,
