@@ -22,6 +22,7 @@ jobs:
       - run: cd $GITHUB_WORKSPACE
       - run: mkdir target
       - run: pandoc --top-level-division=chapter -o target/hpmor.epub book.yaml "md/avant-propos.md" md/chapter*.md  "md/colophon.md" --lua-filter=filters/filters.lua --css ./css/epub.css --epub-embed-font fonts/Parseltongue.ttf
+      - run: pandoc --top-level-division=chapter -o target/hpmor.pdf book.yaml "md/avant-propos.md" md/chapter*.md  "md/colophon.md" --lua-filter=filters/filters.lua --pdf-engine=xelatex
       - name: Create Release
         id: create_release
         uses: actions/create-release@v1
@@ -32,8 +33,8 @@ jobs:
           release_name: Release ${{ github.ref }}
           draft: true
           prerelease: false
-      - name: Upload Release Asset
-        id: upload-release-asset 
+      - name: Upload epub
+        id: upload-epub
         uses: actions/upload-release-asset@v1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -42,3 +43,13 @@ jobs:
           asset_path: ./target/hpmor.epub
           asset_name: hpmor.epub
           asset_content_type: application/epub
+      - name: Upload pdf
+        id: upload-pdf
+        uses: actions/upload-release-asset@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          upload_url: ${{ steps.create_release.outputs.upload_url }} # This pulls from the CREATE RELEASE step above, referencing it's ID to get its outputs object, which include a `upload_url`. See this blog post for more info: https://jasonet.co/posts/new-features-of-github-actions/#passing-data-to-future-steps 
+          asset_path: ./target/hpmor.pdf
+          asset_name: hpmor.pdf
+          asset_content_type: application/pdf
