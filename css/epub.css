@@ -1,29 +1,9 @@
 /* This defines styles and classes used in the book */
 
-.disclaimer {
-  font-size: 90%;
-  margin-left: 2em;
-}
-.disclaimer p::before {
-  content: "— ";
-}
-.disclaimer p::after {
-  content: " —";
-}
-.intro {
-  text-align: end;
-  font-style: italic;
-  font-size: 90%;
-  margin-left: 5em;
-}
 .serpent {
   font-family: Parseltongue;
 }
-.nda{
-  font-style: italic;
-  font-size: 90%;
-  margin-left: 2em;
-}
+
 @font-face {
    font-family: Parseltongue;
    font-style: normal;
