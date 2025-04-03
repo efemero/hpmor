@@ -1,26 +1,5 @@
 # Poser les mauvaises questions
 
-Elen sila J.K. Rowling omentielvo.
-
-MISE À JOUR : Ne paniquez pas. Je jure solennellement qu'il existe une
-explication logique, prévue, et conforme au canon à tout ce qui se passe
-dans ce chapitre. C'est un puzzle, vous êtes censé essayé de le
-résoudre, et sinon lisez juste le prochain chapitre.
-
- 
-
-------------------------------------------------------------------------
-
- 
-
-"*C'est une des énigmes les plus simples que j'ai jamais entendues."*
-
- 
-
-------------------------------------------------------------------------
-
- 
-
 Dès que Harry ouvrit les yeux, dans le dortoir des garçons de première
 année de Serdaigle, le matin de sa première journée complète à Poudlard,
 il sut que quelque chose n'allait pas.

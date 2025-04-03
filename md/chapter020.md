@@ -1,13 +1,5 @@
 # Le Théorème de Bayes
 
-Ce qui peut être détruit par la Rowling doit l'être.
-
- 
-
-------------------------------------------------------------------------
-
- 
-
 Harry leva les yeux vers le plafond gris de la petite pièce, allongé sur
 le lit portatif et pourtant confortable qui avait été placé ici. Il
 avait mangé une bonne partie des en-cas du professeur Quirrell - des

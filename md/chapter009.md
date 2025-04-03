@@ -1,50 +1,5 @@
 # Titre effacé, Partie 1
 
-All your base are belong to J.K. Rowling.
-
- 
-
-------------------------------------------------------------------------
-
- 
-
-1.000 CRITIQUES EN 26 JOURS WOOHOO MÉGA PUISSANCE ! 30 JOURS 1.189
-CRITIQUES LE COMBO CONTINUE ! YEAH ! VOUS ÊTES LES MEILLEURS ! CECI EST
-SPARTAAAAA !
-
-Hum.
-
-Une remarque *préliminaire* inhabituelle pour ce chapitre : Lee Jordan
-est le compère farceur de Fred et George (dans le canon). Je trouve que
-"Lee Jordan" ressemble à un nom de né-Moldu ; il serait donc capable
-d'enseigner certaines choses à Fred et George. Ce n'était pas autant
-évident pour certains lecteurs que ça ne l'était pour l'auteur.
-
-Les quarks de troisième génération étaient aussi nommés "vérité" et
-"beauté" avant que "dessus" et "dessous" ne remportent la bataille ; je
-suis né à peu près en même temps que Hermione et lorsque j'avais onze
-ans j'utilisais "vérité" et "beauté".
-
-Lorsque la Partie 1 de ce chapitre a été publiée pour la première fois,
-j'ai dit que si qui quelqu'un devinait le sujet de la dernière phrase
-avant la mise à jour suivante, celle du 3 avril, je lui dirais le reste
-de l'intrigue.
-
- 
-
-------------------------------------------------------------------------
-
- 
-
-"*On ne sait jamais quel petit événement va bouleverser le cours de
-votre grand projet."*
-
- 
-
-------------------------------------------------------------------------
-
- 
-
 "Abbott, Hannah !"
 
 Pause.

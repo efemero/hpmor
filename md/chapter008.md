@@ -1,54 +1,5 @@
 # Biais positif
 
-NdT : Dans le jargon de fanfiction, HPDM signifie une fanfiction au
-sujet d'une romance Harry Potter / Draco Malfoy ; mpreg signifie *Male
-Pregnancy*, grossesse masculine ; un nom séparé d'un attribut par un
-point d'exclamation (!) dénote un personnage affublé d'une
-caractéristique particulière ; FFN est le site sur lequel HPMR est
-publié. Dans le jargon de jeu de rôle, PJ signifie Personnage Joueur ;
-PNJ signifie Personnage Non Joueur.
-
- 
-
-------------------------------------------------------------------------
-
- 
-
-Tous ces mondes appartiennent à JKR sauf Europe. N'essayez pas d'y faire
-des fanfictions.
-
- 
-
-------------------------------------------------------------------------
-
- 
-
-Un alerte critique m'a demandé si, Luna était une voyante, cela voulait
-dire qu'il allait y avoir une fiction HPDM mpreg Draco!passif. Je
-regrette que FFN ne me laisse pas utiliser une plus grande police de
-caractère avec laquelle dire **NON**. Je n'avais honnêtement pas pensé
-au fait que Luna puisse être une *vraie* voyante - je vais devoir
-décider si je veux aller dans cette direction ou non - mais je pense que
-l'on peut présumer sans grand risque que si Luna *est* une voyante, elle
-a dit quelque chose au sujet de "la lumière plantant une graine dans la
-ténèbre", et Xenophilius, comme toujours, l'a plutôt mal interprété.
-
- 
-
-------------------------------------------------------------------------
-
- 
-
-"*Laisse-moi te prévenir que remettre mon ingénuité en doute est une
-dangereuse sorte de projet, et pourrait rendre ta vie beaucoup plus
-surréaliste.*"
-
- 
-
-------------------------------------------------------------------------
-
- 
-
 Personne n'avait demandé de l'aide, c'était ça le problème. Ils étaient
 juste restés là à parler, manger, ou regarder en l'air, pendant que
 leurs parents papotaient. Pour quelque étrange raison que ce soit,

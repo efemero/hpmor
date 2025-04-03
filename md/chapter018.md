@@ -1,30 +1,5 @@
 # Hiérarchies de dominance
 
-NdT : J'utilise le mot anglais *sentient* à la façon de Guy Abadia dans
-l'Étoile et le Fouet.
-
- 
-
-------------------------------------------------------------------------
-
- 
-
-Toute J.K. Rowling suffisamment avancée est indiscernable de la magie.
-
- 
-
-------------------------------------------------------------------------
-
- 
-
-"*Ça ressemble au genre de chose que j'ai l'habitude de faire, non ?"*
-
- 
-
-------------------------------------------------------------------------
-
- 
-
 C'était un vendredi matin à l'heure du petit déjeuner. Harry reprit une
 énorme bouchée de sa tartine puis essaya de rappeler à son cerveau que
 dévorer son petit déjeuner ne l'aiderait pas à aller aux donjons plus

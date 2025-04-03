@@ -1,14 +1,5 @@
 # Comparer la réalité à ses alternatives
 
-:::{.disclaimer}
-Si J.K. Rowling vous interroge sur cette histoire : vous ne savez rien.
-:::
-
-
-:::{.intro}
-« *Je n'ai pas de temps à consacrer à ça. »*
-:::
-
 « Mon Dieu, dit le barman en dévisageant Harry, est-ce… se pourrait-il
 que -? »
 

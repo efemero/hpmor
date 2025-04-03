@@ -1,15 +1,5 @@
 # L'hypothèse du Marché Efficient
 
-:::{.disclaimer}
-Avertissement : J.K. Rowling vous observe de là où elle a toujours
-attendu, dans le vide entre les mondes
-:::
-
-:::{.intro}
-"*Domination mondiale est une phrase si laide. Je préfère l'appeler
-optimisation mondiale."*
-:::
-
 Des tas de Gallions d'or. Des piles de Mornilles d'argent. Des monceaux
 de Noises de bronze.
 

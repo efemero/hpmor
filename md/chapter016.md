@@ -1,21 +1,5 @@
 # Pensée latérale
 
-La porte de l'ennemi est Rowling.
-
- 
-
-------------------------------------------------------------------------
-
- 
-
-*Je ne suis pas un psychopathe, je suis juste très créatif.*
-
- 
-
-------------------------------------------------------------------------
-
- 
-
 Mercredi, à l'instant où il posa le pied dans la salle du cours de
 Défense, Harry sut que *ce* cours allait être très *spécial*.
 

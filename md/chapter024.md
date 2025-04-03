@@ -1,21 +1,6 @@
 # Hypothèse de l'intelligence machiavélique
 
-J.K. Rowling serpente et frappe, invisible ; Orca encercle, dure et
-aride.
-
- 
-
-------------------------------------------------------------------------
-
- 
-
-Acte 3 :
-
- 
-
-------------------------------------------------------------------------
-
- 
+*Acte 3* :
 
 Draco attendait, l'estomac noué, dans une petite alcôve munie d'une
 fenêtre qu'il avait trouvée près de la Grande Salle.

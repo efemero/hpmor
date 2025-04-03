@@ -1,15 +1,5 @@
 # Croyance en la croyance
 
-Everybody wants a rock to wind a piece of string around J.K. Rowling.
-
-\[NdT: extrait adapté de *We Want A Rock* de They Might Be Giants\]
-
- 
-
-------------------------------------------------------------------------
-
- 
-
 "Et puis Jeanne, qui était une Cracmol," dit le portrait d'une petite
 jeune femme coiffée d'un chapeau cousu d'or.
 

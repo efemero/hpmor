@@ -1,32 +1,6 @@
 # L'illusion de la planification
 
-Bla bla avertissement bla bla Rowling bla bla droits de propriété.
-
- 
-
-------------------------------------------------------------------------
-
- 
-
-La partie "Après-coup" de ce chapitre fait partie de l'histoire et n'est
-*pas* omake (qui signifie non-canonique).
-
- 
-
-------------------------------------------------------------------------
-
- 
-
-*Vous pensez que votre journée était surréaliste ? Essayez la mienne
-pour voir.*
-
- 
-
-------------------------------------------------------------------------
-
- 
-
-*Certains* enfants auraient attendu d'avoir *terminer* leur premier
+*Certains* enfants auraient attendu d'avoir *terminé* leur premier
 voyage au Chemin de Traverse.
 
 "Sac de l'élément 79," dit Harry, et il retira sa main vide de la bourse

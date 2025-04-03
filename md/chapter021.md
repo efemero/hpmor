@@ -1,13 +1,5 @@
 # Rationalisation
 
-Qui fait le travail de Rowling est Rowling.
-
- 
-
-------------------------------------------------------------------------
-
- 
-
 Hermione Granger avait peur d'être devenue Mauvaise.
 
 La différence entre Bon et Mauvais était généralement simple à saisir,

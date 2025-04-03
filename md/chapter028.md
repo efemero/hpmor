@@ -1,16 +1,5 @@
 # Réductionnisme
 
-Tout ce qui peut devenir Rowling deviendra Rowling
-
-Cela devrait *à nouveau* aller *sans dire*, mais les points de vues
-exprimés par Severus Rogue ne sont pas nécessairement ceux de l'auteur.
-
- 
-
-------------------------------------------------------------------------
-
- 
-
 "D'accord," dit Harry en déglutissant. "D'accord Hermione, ça suffit, tu
 peux arrêter."
 

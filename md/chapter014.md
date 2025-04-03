@@ -1,22 +1,5 @@
 # L'inconnu et l'inconnaissable
 
-Melenkurion abatha! Duroc minas mill J.K. Rowling !
-
- 
-
-------------------------------------------------------------------------
-
- 
-
-Il y avait des questions mystérieuses, mais une réponse mystérieuse
-était une contradiction en soi.
-
- 
-
-------------------------------------------------------------------------
-
- 
-
 "Entrez," dit la voix étouffée du professeur McGonagall.
 
 Harry s'exécuta.

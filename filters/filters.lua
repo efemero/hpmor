@@ -8,8 +8,6 @@ function Div(el)
 		frontmatter = "\\frontmatter",
 		mainmatter = "\\mainmatter",
 		backmatter = "\\backmatter",
-		disclaimer = "\\disclaimer",
-		intro = "\\intro",
 	}
 
 	for class, cmd in pairs(class_map) do
@@ -19,8 +17,7 @@ function Div(el)
 				for _, block in ipairs(el.content) do
 					table.insert(content, pandoc.write(pandoc.Pandoc({ block }), "plain"))
 				end
-				local latex_content = table.concat(content, "\n"):gsub("#", "\\#")
-				local latex_code = cmd .. "{" .. latex_content .. "}"
+				local latex_code = cmd .. "{" .. content .. "}"
 				return pandoc.RawBlock("latex", latex_code)
 			elseif FORMAT == "html" then
 				local html_code = '<div class="' .. class .. '">' .. pandoc.utils.stringify(el.content) .. "</div>"

@@ -1,49 +1,5 @@
 # Réciprocité
 
-Waouh. Un porte-parole de l'agent de Rowling a dit qu'elle accepte
-l'existence de fanfictions tant que personne ne les fait payer et que
-tout le monde est d'accord avec le fait que les copyrights originaux lui
-appartiennent ? C'est vraiment sympa de sa part. Je ne savais pas. Donc
-merci, JKR, et vôtre soit le royaume !
-
- 
-
-------------------------------------------------------------------------
-
- 
-
-Je ressens le besoin de prévenir que certaines parties de ce chapitre ne
-sont pas des défouloirs. Je n'ai pas aucune rancœur contre qui que ce
-soit, c'est juste que l'histoire s'écrit elle-même, et quand on commence
-à lâcher des enclumes sur la tête d'un personnage, c'est dur de
-s'arrêter.
-
-Quelques critiques ont demandé si les informations scientifiques de
-cette histoire étaient vraies ou inventées. Oui, elles sont vraies, et
-si vous allez voir [mon
-profil](https://www.fanfiction.net/u/2269863/Less-Wrong), vous verrez un
-lien vers un certain site d'information qui vous enseignera à peu près
-tout ce que Harry James Potter-Evans-Verres sait *et un peu plus
-encore*.
-
-Merci à *tous* mes critiques. (Particulièrement à Darkandus on Viridan
-Dreams pour son commentaire étonnamment inspirant "Les poumons et le thé
-ne sont pas faits pour interagir.")
-
- 
-
-------------------------------------------------------------------------
-
- 
-
-"*Ton père est presque aussi génial que mon père."*
-
- 
-
-------------------------------------------------------------------------
-
- 
-
 Les lèvres de Pétunia Evans-Verres tremblaient et ses yeux larmoyaient
 pendant que Harry étreignait son buste sur le quai numéro neuf de la
 gare de King's Cross. "Tu es sûr que tu ne veux pas que je vienne avec

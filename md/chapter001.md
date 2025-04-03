@@ -1,14 +1,4 @@
-:::{.mainmatter}
-:::
-
 # Un jour à très faible probabilité
-
-:::{.intro}
-Sous la lune scintille un infime fragment d’argent, une fraction de
-ligne…  
-(Des robes noires. Elles tombent.)  
-…des litres de sang se répandent, et quelqu’un crie un mot.  
-:::
 
 Chaque centimètre carré d’espace mural est caché derrière un pan de
 bibliothèque. Chaque bibliothèque a six étagères et atteint presque le

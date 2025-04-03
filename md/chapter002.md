@@ -1,15 +1,5 @@
 # Tout ce que je crois est faux
 
-:::{.disclaimer}
-\#include "stddisclaimer.h"
-:::
- 
-
-:::{.intro}
-« *Bien sûr que c'était ma faute. Il n'y a personne d'autre ici qui
-pourrait être responsable de quoi que ce soit. »*
-:::
-
 « Donc, juste pour être bien clair » dit Harry, « Papa, si le
 professeur te fait vraiment léviter, alors que tu sais que tu n'as été
 attaché à aucun fil, ce sera une preuve suffisante. Tu ne vas pas

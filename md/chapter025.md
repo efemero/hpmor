@@ -1,38 +1,5 @@
 # Se retenir de proposer des solutions
 
-NdT : J'utilise le mot anglais *sentient* à la façon de Guy Abadia dans
-l'Étoile et le Fouet.
-
- 
-
-------------------------------------------------------------------------
-
- 
-
-Découvrir de nouvelles vies, et J.K. Rowling !
-
-Note : Étant donné que les faits scientifiques présentés dans cette
-histoire sont généralement tous vérifiés, je vous préviens que dans les
-chapitre 22 à 25 Harry a négligé de nombreuses possibilités, la plus
-importante étant qu'il puisse y avoir de nombreux gènes magiques mais
-qu'ils soient tous sur le même chromosome (ce qui ne pourrait pas
-survenir naturellement, mais le chromosome magique aurait pu être
-fabriqué). Dans ce cas, l'hérédité aurait un caractère mendélien, mais
-le chromosome magique pourrait quand même être dégradé par des
-croisements avec son homologue non-magique (Harry a découvert Mendel et
-les chromosomes dans des livres d'histoire de la science, mais il n'a
-pas assez étudié la génétique pour connaître les croisements
-chromosomiques. Hé, il n'a que onze ans). Cela dit, et bien qu'une revue
-scientifique moderne aurait trouvé *bien* des raisons d'ergoter, tout ce
-que Harry présente comme étant des indices de taille le sont en effet
-bel et bien - les autres possibilités sont *improbables*.
-
- 
-
-------------------------------------------------------------------------
-
- 
-
 *Acte 2* :
 
 (Le soleil luisait avec force dans la Grande Salle depuis la verrière

@@ -1,21 +1,5 @@
 # Contrôle des pulsions
 
-ph'nglui mglw'nafh J. K. Rowling wgah'nagl fhtagn
-
- 
-
-------------------------------------------------------------------------
-
- 
-
-"*Je me demande ce qui cloche chez* lui*"*
-
- 
-
-------------------------------------------------------------------------
-
- 
-
 "Turpin, Lisa !"
 
 Chuchotement chuchotement chuchotement Harry Potter chuchotement

@@ -36,7 +36,7 @@ Les fichiers finaux sont générés par pandoc via une [github action](.github/w
 ## Avancement du projet
 
 - [x] génération des fichiers epub et PDF
-- [ ] Retrait des en-têtes de chapitre (disclaimer sur J. K. Rowling et citations)
+- [ ] Retrait des en-têtes de chapitre (disclaimer sur J. K. Rowling et citations) OK -> 028
 - [ ] Traduction des noms des personnages cohérente avec la traduction française
 - [ ] Correction des problèmes de ponctuation et des typos
 - [ ] Amélioration visuelle des sauts de paragraphes (les lignes horizontales entre certains paragraphes)

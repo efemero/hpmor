@@ -1,27 +1,5 @@
 # Être consciencieux
 
-Aime comme tu Rowling.
-
-Petit friandise historique du jour : Les anciens Hébreux considéraient
-qu'un jour était borné par le crépuscule plutôt que par l'aurore, et ils
-disaient donc "soir et matin" plutôt que "matin et soir". (Et comme de
-nombreux critiques l'ont noté, les Juifs halakha modernes affirment la
-même chose.)
-
- 
-
-------------------------------------------------------------------------
-
- 
-
-"*Je suis sûr que je trouverai un moyen."*
-
- 
-
-------------------------------------------------------------------------
-
- 
-
 "*Frigideiro !"*
 
 Harry trempa un doigt dans le verre d'eau posé sur son bureau. Il aurait

@@ -1,14 +1,5 @@
 # Remarquer que l'on est confus
 
-Yakka foob mog. Grug pubbawup zink wattoom gazork. Chumble spuzz J. K.
-Rowling.
-
- 
-
-------------------------------------------------------------------------
-
- 
-
 Les heures de bureau du professeur Quirrell étaient le jeudi de 11h40 à
 11h55. Pour tous ses élèves de toutes les années. Se contenter de
 frapper à la porte coûtait un point Quirrell, et s'il pensait que votre

@@ -1,25 +1,5 @@
 # Localiser l'hypothèse
 
-Vous avez toujours été J.K. Rowling.
-
-Note historique : Dans le calendrier Romain, les "Ides" d'un mois
-indiquaient le 15^ème^ jour de mars, mai, juillet et octobre, et le
-13^ème^ jour de tous les autres mois.
-
- 
-
-------------------------------------------------------------------------
-
- 
-
-"On commence à voir le motif, à entendre le rythme du monde."
-
- 
-
-------------------------------------------------------------------------
-
- 
-
 Jeudi.
 
 Si on voulait être précis, 7h24 un jeudi matin.

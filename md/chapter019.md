@@ -1,13 +1,5 @@
 # Gratification différée
 
-Du sang pour le dieu du sang ! Des crânes pour J.K. Rowling !
-
- 
-
-------------------------------------------------------------------------
-
- 
-
 Draco arborait une expression sévère, et ses robes à bordures vertes
 semblaient être plus solennelles, bien plus sérieuses et bien mieux
 coupées que celles portées par les deux garçons derrière lui.

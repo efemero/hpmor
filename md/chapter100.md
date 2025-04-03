@@ -1,6 +1,5 @@
 # Mesures de précaution, partie 1
 
-
 *Le 13 mai 1992.*
 
 Sous la lumière de la lampe à huile qu'il brandissait, le visage d'Argus

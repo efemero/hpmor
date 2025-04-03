@@ -1,19 +1,5 @@
 # Empathie
 
-J.K. Rowling est sûre à 87 % que vous allez prendre feu.
-
-Roger Bacon vivait au 13^ème^ siècle et est reconnu comme l'un des
-premiers partisans de la méthode scientifique. Donner son journal de
-bord à un scientifique est un peu comme donner à un écrivain non pas la
-plume de Shakespeare mais celle de quelqu'un qui aurait participé à
-l'invention de l'écriture.
-
- 
-
-------------------------------------------------------------------------
-
- 
-
 Ce n'était pas tous les jours que vous pouviez voir Harry Potter
 supplier.
 
