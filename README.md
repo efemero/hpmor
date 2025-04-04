@@ -1,4 +1,4 @@
-# Harry Potter et les méthodes de la rationalité
+# Harry Potter et les Méthodes de la Rationalité
 
 Dernière version de l’epub: [hpmor.epub](https://github.com/efemero/hpmor/releases/latest/download/hpmor.epub)
 
@@ -6,7 +6,7 @@ Dernière version du pdf: [hpmor.pdf](https://github.com/efemero/hpmor/releases/
 
 ## But
 
-Ce projet a pour but de générer une version epub (pour liseuse) et PDF (pour impression) de « Harry Potter et les méthodes de la rationalité ».
+Ce projet a pour but de générer une version epub (pour liseuse) et PDF (pour impression) de « Harry Potter et les Méthodes de la Rationalité ».
 
 C’est une traduction en français de [Harry Potter and the Methods of Rationality](https://hpmor.com/) (souvent abbrégé par son acronyme HPMOR) de [Eliezer Yudkowsky](https://www.yudkowsky.net/).
 C’est une [fanfiction](https://fr.wikipedia.org/wiki/Fanfiction) dans l’univers de « Harry Potter » de [J. K. Rowling](https://www.jkrowling.com/).

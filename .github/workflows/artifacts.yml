@@ -1,4 +1,4 @@
-name: Create epub and pdf
+name: Create epub and PDF
 on:
   push:
     tags:

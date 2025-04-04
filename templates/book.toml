@@ -1,0 +1,8 @@
+[book]
+title = "Harry Potter et les Méthodes de la Rationalité"
+authors = ["Eliezer Yudkowsky"]
+language = "fr"
+
+
+[build]
+build-dir = "target/book"  
