@@ -69,7 +69,7 @@ jobs:
         uses: r-lib/actions/setup-pandoc@v1
       - run: find md -type f -name '*.md' -print0 | xargs -0 -n2 -P2 -I{} pandoc {} -o src/{} -t markdown --lua-filter=filters/filters.lua
       - name: Create mdbook
-        id: create mdbook
+        id: create-mdbook
         uses: peaceiris/actions-mdbook@v2
         with:
           mdbook-version: 'latest'
