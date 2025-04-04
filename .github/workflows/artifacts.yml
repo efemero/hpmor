@@ -67,7 +67,6 @@ jobs:
       - name: Convert markdown for mdbook
         id: convert-to-mdbook
         uses: r-lib/actions/setup-pandoc@v2
-      - run: pandoc --version
       - run: find md -type f -name '*.md' -print0 | xargs -0 -n2 -P2 -I{} pandoc {} -o src/{} -t markdown --lua-filter=filters/filters.lua
       - name: Create mdbook
         id: create-mdbook
@@ -77,7 +76,7 @@ jobs:
       - run: mdbook build
       - name: Deploy mdbook as github pages
         id: mdbook-ghpages
-        uses: peaceiris/actions-gh-pages@v3
+        uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./target/book
