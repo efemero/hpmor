@@ -74,6 +74,7 @@ jobs:
         with:
           mdbook-version: 'latest'
       - run: mdbook build
+      - run: ls target
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
