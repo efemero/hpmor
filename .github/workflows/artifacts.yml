@@ -67,6 +67,7 @@ jobs:
       - name: Convert markdown for mdbook
         id: convert-to-mdbook
         uses: r-lib/actions/setup-pandoc@v2
+      - run: pandoc --version
       - run: find md -type f -name '*.md' -print0 | xargs -0 -n2 -P2 -I{} pandoc {} -o src/{} -t markdown --lua-filter=filters/filters.lua
       - name: Create mdbook
         id: create-mdbook
