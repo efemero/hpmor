@@ -20,6 +20,13 @@ J’ai trouvé que la présentation du texte avait quelques imperfections, et j�
 
 Ce n’est aucunement un dénigrement du travail fourni par ces deux personnes, que du contraire, mais comme en sciences, je me repose [sur les épaules de géants](https://fr.wikipedia.org/wiki/Des_nains_sur_des_%C3%A9paules_de_g%C3%A9ants) pour apporter ma petite contribution et aller un peu plus loin.
 
+Mes choix (totalements subjectifs) sont:
+  - pour le PDF, se rapprocher au maximum de [cette version anglaise](https://github.com/TheAllSeeing/hpmor), et donc à terme le diviser en plusieurs livres, ainsi que pouvoir l’imprimer en format A5 en utilisant une simple imprimante A4
+  - pour l’epub, avoir une version simple et continue en un seul livre
+  - utiliser la police fourchelangue pour les 3 versions
+
+Je le répète, ces choix (et les autres qui viendront à mesure que le projet avance) sont purement subjectifs et peuvent ne pas plaire à tout le monde. Ma démarche est personnelle et vise à produire ce que j’aurais voulu lire.
+
 ## Technique
 
 La base est l’epub généré par yeKcim en version `22.04` disponible à l’adresse suivante: <https://github.com/yeKcim/hpmor/releases/tag/v22.04>.
@@ -32,12 +39,16 @@ où `$xhtml_file` représente un fichier `.xhtml` et `$md_file` est le fichier �
 
 Les fichiers `Sectionxxxx.md` ont ensuite été renommés en `chapterxxx.md` et c’est la base de travail de ce projet.
 
-Les fichiers finaux sont générés par pandoc via une [github action](.github/workflows/artifacts.yml) à chaque tag du projet.
+Les fichiers finaux PDF et epub sont générés par pandoc via une [github action](.github/workflows/artifacts.yml) à chaque tag du projet.
+
+Le livre en ligne est généré par [mdBook](https://github.com/rust-lang/mdBook) et déployé sur github pages.
 
 ## Avancement du projet
 
 - [x] génération des fichiers epub et PDF
+- [x] génération du mdBook et déploiement sur ghpages
 - [ ] Retrait des en-têtes de chapitre (disclaimer sur J. K. Rowling et citations) OK -> 028
+- [ ] Gestion des passages en fourchelangue
 - [ ] Traduction des noms des personnages cohérente avec la traduction française
 - [ ] Correction des problèmes de ponctuation et des typos
 - [ ] Amélioration visuelle des sauts de paragraphes (les lignes horizontales entre certains paragraphes)
