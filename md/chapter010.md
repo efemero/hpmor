@@ -1,30 +1,5 @@
 # Conscience de Soi, Partie 2
 
-All your base are still belong to Rowling.
-
- 
-
-------------------------------------------------------------------------
-
- 
-
-Je n'avais honnêtement pas pensé - bien que rétrospectivement ça semble
-évident - que de nombreux lecteurs auraient un très mauvais à priori sur
-les chansons dans les fanfictions. Tout ce que je peux faire est de
-m'excuser et de promettre de ne plus jamais le faire.
-
-J'ai cependant peur que, vu que *ce* chapitre était déjà écrit, vous
-*deviez* assister à l'interprétation de "My Immortal" de Evanescence par
-le Choixpeau Magique, ce qui n'est jamais arrivé avant.
-
-Je rigole.
-
- 
-
-------------------------------------------------------------------------
-
- 
-
 Au fond de lui-même, il se demandait si le Choixpeau Magique était
 réellement *conscient*, au sens d'être conscient de sa propre
 conscience, et si c'était le cas, si ça le satisfaisait de ne parler
