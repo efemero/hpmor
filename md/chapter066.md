@@ -166,7 +166,7 @@ Le général Soleil jeta un regard à son soldat. "Écoute," dit Hermione,
 "je ne pense pas que quelques semaines de pratique puissent transformer
 qui que ce soit en un combattant invincible. Et on *sait* déjà gérer les
 combattants invincibles. On concentrera notre feu sur lui et il tombera
-comme Draco l'a fait."
+comme Drago l'a fait."
 
 Le regard de la Poufsouffle était un mélange d'admiration et de
 scepticisme. "Tu n'es même pas, genre, *inquiète* ?"

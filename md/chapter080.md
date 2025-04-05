@@ -380,7 +380,7 @@ se soit effondrée en cendres et soit devenue noire, l'interrogatoire de
 Hermione prit fin.
 
 "S'il plaît à mes Lords," dit la voix de Lord Malfoy, "je souhaiterais
-voir lu à voix haute le témoignage de mon fils Draco obtenu sous deux
+voir lu à voix haute le témoignage de mon fils Drago obtenu sous deux
 gouttes de Veritaserum."
 
 *Jusqu'à ce qu'elle se mette à me chercher dans la dernière bataille, je
@@ -634,7 +634,7 @@ Serpentard, un Serpentard intelligent. Vous savez que c'est un complot.
 Hermione Granger a été placée de force sur l'échiquier, par la main qui
 se cache derrière ce complot, quelle qu'elle soit. *Vous* deviez
 sûrement agir exactement comme vous le faites maintenant – sauf que
-Draco Malfoy devait être mort et vous deviez avoir perdu la raison. Mais
+Drago Malfoy devait être mort et vous deviez avoir perdu la raison. Mais
 il est vivant et vous êtes sain d'esprit. Pourquoi vous conformez-vous
 au rôle prévu pour vous, dans un complot destiné à prendre la vie de
 votre fils ?"
@@ -650,7 +650,7 @@ articula-t-il enfin. Presque entièrement laissé à lui-même, son visage
 "Si je le savais," dit le garçon, "je l'aurais dit bien plus tôt. Mais
 tous ceux qui ont un jour été camarades avec Hermione Granger vous
 diront que c'est une meurtrière des plus improbables. Elle aide bel et
-bien les Poufsouffles à faire leurs devoirs. Cet événement n'a pas eu
+bien les Poufsouffle à faire leurs devoirs. Cet événement n'a pas eu
 lieu naturellement, Lord Malfoy."
 
 "Complot… Ou pas…" la voix de Lucius tremblait. "Cette Sang-de-Bourbe a
@@ -668,7 +668,7 @@ une fille de douze ans qui mérite votre courroux."
 "Et qu'avez-*vous* à faire de ce qui l'attend ?" la voix de Lucius
 montait. "Qu'avez-*vous* à gagner ici ?"
 
-"Elle est mon amie," dit le garçon, "tout comme Draco l'est. Il est
+"Elle est mon amie," dit le garçon, "tout comme Drago l'est. Il est
 possible que ce coup ait été dirigé vers moi, et pas du tout vers la
 maison Malfoy."
 
@@ -676,7 +676,7 @@ Les muscles du visage de Lucius tressautèrent à nouveau. "Et maintenant
 vous me mentez – comme vous avez menti à mon fils !"
 
 "Croyez-le ou non," dit doucement le garçon, "je n'ai jamais désiré
-autre chose pour Draco sinon qu'il connaisse la vérité…"
+autre chose pour Drago sinon qu'il connaisse la vérité…"
 
 "*Assez !"* s'écria Lord Malfoy. "Assez de vos mensonges ! Assez de vos
 *jeux* ! Vous ne comprenez pas – vous ne comprendriez jamais – ce que
@@ -701,7 +701,7 @@ contre Lucius, le détruire sur place pour son insolence et sa
 *stupidité* – mais Harry n'en avait pas le *pouvoir*, il n'avait même
 pas un vote au Magenmagot…
 
-Draco avait dit que pour une raison inconnue, Lucius avait peur de lui.
+Drago avait dit que pour une raison inconnue, Lucius avait peur de lui.
 Et Harry pouvait voir dans le rictus tiré et pincé qu'était devenu le
 visage de Lord Malfoy que ce dernier avait eu besoin de tout son courage
 pour dire à Harry de se taire.

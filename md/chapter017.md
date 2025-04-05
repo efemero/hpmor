@@ -288,24 +288,24 @@ Ce qui fit glousser les autres.
 Harry se retourna et les regarda. Ça semblait être le moment opportun
 pour se graver quelques visages en mémoire.
 
-Et Harry vit que Draco marchait nonchalamment vers lui, accompagné de M.
+Et Harry vit que Drago marchait nonchalamment vers lui, accompagné de M.
 Crabbe et de M. Goyle. M. Crabbe ne souriait pas. M. Goyle en revanche,
-si, et franchement. Draco lui-même avait une expression très contrôlée
-qui tressaillait parfois, et Harry en déduit que Draco trouvait la
+si, et franchement. Drago lui-même avait une expression très contrôlée
+qui tressaillait parfois, et Harry en déduit que Drago trouvait la
 situation hilarante mais ne voyait aucun avantage politique à en rire
 maintenant plutôt que plus tard, dans les donjons de Serpentard.
 
-"Eh bien, Potter," dit Draco d'une voix grave qui ne portait pas,
+"Eh bien, Potter," dit Drago d'une voix grave qui ne portait pas,
 toujours avec cette expression très contrôlée qui parfois tressaillait,
 "je voulais juste te dire que, quand tu tires parti d'une urgence pour
 démontrer que tu es un leader, il vaut mieux avoir l'air de contrôler
 totalement la situation, plutôt que, disons, d'avoir l'air d'être
-complètement paniqué." M. Goyle gloussa, et Draco lui jeta un regard de
+complètement paniqué." M. Goyle gloussa, et Drago lui jeta un regard de
 réprimande. "Mais tu as probablement gagné quelques points quand même.
 Besoin d'aide pour ranger ce kit de soin ?"
 
 Harry se tourna pour regarder le Pack de soins, ce qui détourna son
-visage de celui de Draco. "Je pense que ça ira," dit Harry. Il remit la
+visage de celui de Drago. "Je pense que ça ira," dit Harry. Il remit la
 seringue en place, refit les sangles, et se leva.
 
 Ernie Macmillan arriva juste quand Harry donnait le pack à manger à sa
@@ -314,7 +314,7 @@ bourse.
 "Merci, Harry Potter, de la part de Poufsouffle," dit solennellement
 Ernie Macmillan. "C'était une bonne idée, et tu as fait de ton mieux."
 
-"Une bonne idée, certainement," coassa Draco. "Pourquoi personne à
+"Une bonne idée, certainement," coassa Drago. "Pourquoi personne à
 Poufsouffle n'avait-il sa baguette sortie ? Peut-être que si vous aviez
 *tous* aidé, et pas juste Potter, vous l'auriez rattrapé. Je pensais que
 les Poufsouffle étaient censés se serrer les coudes ?"
@@ -322,12 +322,12 @@ les Poufsouffle étaient censés se serrer les coudes ?"
 Ernie avait l'air d'être déchiré entre la colère et la honte mortelle.
 "On n'y a pas pensé à temps -"
 
-"Ah," dit Draco, "pas *pensé* à temps, j'imagine que c'est pour ça qu'il
+"Ah," dit Drago, "pas *pensé* à temps, j'imagine que c'est pour ça qu'il
 vaut mieux être ami avec un seul Serdaigle qu'avec tous les
 Poufsouffle."
 
 Oh, bon sang, comment Harry allait-il jouer ça… "Tu n'aides pas
-vraiment," dit Harry d'un ton égal. Espérant que Draco interprète cela
+vraiment," dit Harry d'un ton égal. Espérant que Drago interprète cela
 comme *tu interfères avec mes plans, s'il te plaît tais-toi*.
 
 "Eh, qu'est-ce que c'est que ça ?" dit M. Goyle. Il se pencha et ramassa
@@ -354,28 +354,28 @@ airs.
 La mâchoire de Harry s'affaissa. Madame Bibine n'avait-elle pas dit
 qu'il serait *renvoyé* ?
 
-"*Imbécile* !" siffla Draco. Il ouvrit la bouche pour crier -
+"*Imbécile* !" siffla Drago. Il ouvrit la bouche pour crier -
 
 "*Eh !"* cria Ernie. "C'est à Neville ! *Rapporte-le* !"
 
 Les Serpentard commencèrent à acclamer et à siffler.
 
-La bouche de Draco se referma aussi sec. Harry surprit l'air
+La bouche de Drago se referma aussi sec. Harry surprit l'air
 d'indécision qui était brusquement apparu sur son visage.
 
-"Draco," dit Harry d'une voix basse, "si tu n'ordonnes pas à cet idiot
+"Drago," dit Harry d'une voix basse, "si tu n'ordonnes pas à cet idiot
 d'atterrir, le professeur va revenir et -"
 
 "*Viens le chercher, Poufsouffle !*" hurla M. Goyle, et des salves
 d'acclamations montèrent des Serpentard.
 
-"Je ne *peux pas* !" chuchota Draco. "Tout le monde à Serpentard pensera
+"Je ne *peux pas* !" chuchota Drago. "Tout le monde à Serpentard pensera
 que je suis *faible* !"
 
 "Et si M. Goyle est renvoyé," siffla Harry, "ton *père* va penser que tu
 es un *crétin* !"
 
-Le visage de Draco était déformé par l'agonie.
+Le visage de Drago était déformé par l'agonie.
 
 À cet instant -
 
@@ -395,7 +395,7 @@ Deux secondes plus tard -
 
 "*Baguettes, Gryffondor !*"
 
-"*Fais quelque chose, Potter !*" chuchota Draco. "*Je ne peux pas être
+"*Fais quelque chose, Potter !*" chuchota Drago. "*Je ne peux pas être
 celui qui arrête ça il faut que ce soit toi ! Je te devrai une faveur
 trouve juste quelque chose tu n'es pas censé être brillant ?"*
 
@@ -413,14 +413,14 @@ possession du Rapeltout de Neville !*"
 
 Il y eut une pause soudaine.
 
-"Oh, vraiment ?" dit Draco du coassement le plus fort que Harry avait
+"Oh, vraiment ?" dit Drago du coassement le plus fort que Harry avait
 jamais entendu. "Ça a l'air intéressant. Quel genre de concours,
 Potter ?"
 
 Euh…
 
 L'inspiration de Harry n'était pas allée au-delà de "concours". Quel
-genre de concours, il ne pouvait pas dire "échecs" parce que Draco ne
+genre de concours, il ne pouvait pas dire "échecs" parce que Drago ne
 pourrait pas accepter sans que ça ait l'air bizarre, il ne pouvait pas
 dire "bras de fer" parce que M. Goyle l'écrabouillerait -
 
@@ -434,12 +434,12 @@ abandonne toute prétention au Rapeltout et me le donne."
 Il y eut une autre pause tandis que l'expression de soulagement des gens
 alentour se transformait en une expression de confusion.
 
-"Ha, Potter !" dit Draco avec force. "J'aimerais bien te voir faire
+"Ha, Potter !" dit Drago avec force. "J'aimerais bien te voir faire
 *ça* ! M. Goyle accepte !"
 
 "C'est parti !" dit Harry.
 
-"Potter, *quoi ?*" chuchota Draco, ce qu'il parvint mystérieusement à
+"Potter, *quoi ?*" chuchota Drago, ce qu'il parvint mystérieusement à
 faire sans bouger ses lèvres.
 
 Harry ne savait pas comment répondre sans bouger les siennes.
@@ -544,29 +544,29 @@ Rapeltout ici -"
 as ma parole que celui que Ernie tient dans sa main est à Neville. Aucun
 commentaire en ce qui concerne celui de Gregory Goyle."
 
-Zabini se tourna vers Draco. "*Malfoy !* Tu ne vas pas le laisser s'en
+Zabini se tourna vers Drago. "*Malfoy !* Tu ne vas pas le laisser s'en
 tirer avec ce -"
 
-"Tais-toi, toi," gronda M. Crabbe, qui se tenait derrière Draco. "M.
+"Tais-toi, toi," gronda M. Crabbe, qui se tenait derrière Drago. "M.
 Malfoy n'a pas besoin que *tu* lui dises ce qu'il doit faire !"
 
 *Bon* laquais.
 
-"Mon pari était avec Draco, de la Noble et Ancienne Maison Malfoy," dit
+"Mon pari était avec Drago, de la Noble et Ancienne Maison Malfoy," dit
 Harry. "Pas avec toi, Zabini. J'ai fait ce que M. Malfoy a dit qu'il
 aimerait me voir faire, et pour le jugement de ce pari, je m'en
-remettrai à lui." Harry inclina sa tête vers Draco et releva légèrement
-ses sourcils. Ça devrait permettre à Draco de sauver la face.
+remettrai à lui." Harry inclina sa tête vers Drago et releva légèrement
+ses sourcils. Ça devrait permettre à Drago de sauver la face.
 
 Il y eut une pause.
 
-"Tu promets que c'est *vraiment* le Rapeltout de Neville ?" dit Draco.
+"Tu promets que c'est *vraiment* le Rapeltout de Neville ?" dit Drago.
 
 "Oui," dit Harry. "C'est celui qui reviendra à Neville, et c'était le
 sien au départ. Et celui que tient Gregory Goyle entrera en ma
 possession."
 
-Draco hocha la tête, l'air décidé. "Alors je ne remettrai pas en
+Drago hocha la tête, l'air décidé. "Alors je ne remettrai pas en
 question la parole de la Noble Maison de Potter, peu importe que tout
 cela ait été très étrange. Et la Noble et Ancienne Maison Malfoy tient
 aussi sa parole. M. Goyle, donnez cela à M. Potter -"
@@ -642,7 +642,7 @@ Le professeur McGonagall avait l'air *très* en colère.
 tout…"
 
 Harry laissa sa phrase en suspens. Il devenait soudain clair qu'il avait
-eu *beaucoup* d'autres options. Il aurait pu demander à *Draco* de
+eu *beaucoup* d'autres options. Il aurait pu demander à *Drago* de
 suggérer quelque chose, il aurait pu demander à la foule… son
 utilisation du Retourneur de Temps avait été inutile et flagrante. Il y
 avait eu un espace de possibilités immense, pourquoi avait-il choisi
@@ -1094,14 +1094,14 @@ semble probablement très charmant," dit Dumbledore. "Poli - avec toi du
 moins. Choisissant bien ses mots, peut-être même admiratif. Toujours
 prêt à aider, à faire une faveur, à prodiguer un conseil -"
 
-"Oh, *Draco Malfoy* !" dit Harry, se sentant plutôt soulagé qu'il ne
+"Oh, *Drago Malfoy* !" dit Harry, se sentant plutôt soulagé qu'il ne
 s'agisse pas de Hermione ou de quelqu'un d'autre. "Oh non, non non non,
 vous vous trompez complètement, il ne me convertit pas, c'est moi qui le
 convertis."
 
 Dumbledore se figea, toujours face au cadran. "Tu *quoi* ?"
 
-"Je vais éloigner Draco du Côté Obscur," dit Harry. "Vous savez, faire
+"Je vais éloigner Drago du Côté Obscur," dit Harry. "Vous savez, faire
 de lui un gentil."
 
 Dumbledore se raidit et se tourna vers Harry. Il arborait l'air le plus
@@ -1112,7 +1112,7 @@ pas juste un vœu pieux de ta part, Harry ? J'ai peur que ce que tu vois
 ne soit que l'attrait, l'appât -"
 
 "Hmm, peu probable," dit Harry. "Je veux dire, s'il essaie de se faire
-passer pour un gentil alors il est sacrément nul. Ce n'est pas que Draco
+passer pour un gentil alors il est sacrément nul. Ce n'est pas que Drago
 soit venu me voir, tout charmant, et que j'ai décidé qu'il devait avoir
 un noyau de bonté cachée au fond de lui. Je vise sa rédemption à lui en
 particulier parce qu'il est l'héritier de la Maison Malfoy, et que s'il
@@ -1120,7 +1120,7 @@ faut choisir une personne à sauver, c'est forcément lui."
 
 L'œil gauche de Dumbledore eut un léger mouvement convulsif. "Tu essaies
 de planter les graines de l'amour et de la gentillesse dans le cœur de
-Draco parce que tu t'attends à ce que l'héritier des Malfoy te soit
+Drago parce que tu t'attends à ce que l'héritier des Malfoy te soit
 utile ?"
 
 "Pas seulement à *moi* !" dit Harry d'une voix indignée. "À toute
@@ -1495,7 +1495,7 @@ n'arrivait pas tout à fait à faire taire, pesait les avantages
 potentiels qu'il y avait à être l'un des rares amis de ce vieux sorcier
 fou qui se trouvait aussi être directeur, Président et Manitou Suprême.
 Et malheureusement son Serpentard intérieur semblait attirer les gens
-vers le Côté Obscur bien mieux que ne le faisait Draco, parce qu'il
+vers le Côté Obscur bien mieux que ne le faisait Drago, parce qu'il
 disait des choses telles que *pauvre vieux, il a l'air d'avoir besoin de
 quelqu'un à qui parler, on ne dirait pas ?* et *tu ne voudrais pas qu'un
 homme si puissant se retrouve à accorder sa confiance à quelqu'un de

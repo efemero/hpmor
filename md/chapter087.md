@@ -420,7 +420,7 @@ dire.
 leur donner des noms, de les concevoir comme des individus différents et
 de les laisser débattre dans ma tête. Pour l'instant ceux qui persistent
 sont mes côtés Poufsouffle, Serdaigle, Gryffondor, et Serpentard, mon
-Critique Interne, mes copies simulées de toi, Neville, Draco, le
+Critique Interne, mes copies simulées de toi, Neville, Drago, le
 professeur McGonagall, le professeur Flitwick, le professeur Quirrell,
 Papa, Maman, Richard Feynman et Douglas Hofstadter."
 
@@ -450,8 +450,8 @@ apparemment inventé un moyen de transformer de petits animaux en tartes
 au citron, lorsqu'elle trouva enfin le courage de parler.
 
 "Harry ?" dit-elle. (Elle s'était un peu écartée de lui, mais elle ne
-s'en était pas rendue compte). "S'il y a une copie de Draco Malfoy dans
-ta tête, est-ce que ça veut dire que tu es ami avec Draco Malfoy ?"
+s'en était pas rendue compte). "S'il y a une copie de Drago Malfoy dans
+ta tête, est-ce que ça veut dire que tu es ami avec Drago Malfoy ?"
 
 "Eh bien…" dit Harry. Il soupira. "Ouais, je comptais t'en parler de
 toute façon. J'aurais bien aimé t'en parler plus tôt. Bref, comment dire
@@ -465,7 +465,7 @@ Elle resta bouche bée.
 
 "Tu sais, comme l'Empereur et Dark Vador, mais à l'envers."
 
-"*Draco Malfoy*," dit-elle. "Harry, est-ce que tu as la *moindre idée*…"
+"*Drago Malfoy*," dit-elle. "Harry, est-ce que tu as la *moindre idée*…"
 
 "Oui."
 
@@ -485,9 +485,9 @@ quelqu'un de pourri, parce que *quoiqu'il arrive* quelqu'un de bien ne
 pourrait *jamais*…
 
 "Tu as tort," dit Harry en la regardant droit dans les yeux. "Je peux
-imaginer ce que Draco a menacé de te faire, parce que la deuxième fois
+imaginer ce que Drago a menacé de te faire, parce que la deuxième fois
 que je l'ai rencontré, il parlait de le faire à une fille de dix ans.
-Mais est-ce que tu ne vois pas que le jour où Draco Malfoy est arrivé à
+Mais est-ce que tu ne vois pas que le jour où Drago Malfoy est arrivé à
 Poudlard, il avait passé toute sa vie élevé par des *Mangemorts*. Il
 aurait fallu une *intervention surnaturelle* pour qu'il ait *ta*
 moralité étant donné *son* cadre éducatif…"
@@ -526,7 +526,7 @@ niveau de l'oreille, "… c'est qu'il souffrent quand ils voient leurs
 préoccupation, quand c'est un membre de leur tribu. Cette sensation a un
 interrupteur, un bouton on-off étiqueté 'ennemi', 'étranger', ou parfois
 juste 'inconnu'. Les gens sont comme ça si on ne leur *apprend* rien
-d'autre. Donc non, le fait que Draco Malfoy a grandi en croyant que
+d'autre. Donc non, le fait que Drago Malfoy a grandi en croyant que
 c'est drôle de faire souffrir ses ennemis ne veut *pas* dire qu'il est
 inhumain, ni même inhabituellement mauvais…"
 
@@ -547,32 +547,32 @@ mal de brûler des chats, que c'est mal de brûler des sorcières, que
 l'esclavage est mal, que tous les êtres conscients devraient entrer dans
 ton cercle de préoccupation ? Est-ce que tu penses que tu aurais *fini*
 de comprendre tout ça à la fin ton premier jour à Poudlard ? Personne
-n'a jamais *dit* à Draco que c'est sa responsabilité personnelle de
+n'a jamais *dit* à Drago que c'est sa responsabilité personnelle de
 devenir plus éthiquement meilleur que la société dans laquelle il a
 grandi. Et *malgré ça* il ne lui a fallu que quatre mois pour en arriver
 au point où il attrape une née-Moldue par la main pour l'empêcher de
 tomber d'un bâtiment." Les yeux de Harry étaient plus virulents qu'elle
-ne les avait jamais vus. "Je n'ai pas *fini* de corrompre Draco Malfoy,
+ne les avait jamais vus. "Je n'ai pas *fini* de corrompre Drago Malfoy,
 mais je pense que jusque là il s'en sort *plutôt bien*."
 
 Le problème d'avoir une aussi bonne mémoire, c'était de *pouvoir* se
 souvenir.
 
-Elle se souvenait de Draco Malfoy saisissant son poignet avec tant de
+Elle se souvenait de Drago Malfoy saisissant son poignet avec tant de
 force qu'elle avait eu un bleu.
 
-Elle se souvenait de Draco l'aidant à se relever après que ce mystérieux
+Elle se souvenait de Drago l'aidant à se relever après que ce mystérieux
 sortilège l'ait faite trébucher dans l'assiette du capitaine de
 Quidditch Serpentard.
 
 Et elle se souvenait - c'était en fait la raison pour laquelle elle
 avait entamé cette conversation - de ce qu'elle avait ressentit quand
-elle avait entendu le témoignage sous Veritaserum de Draco Malfoy.
+elle avait entendu le témoignage sous Veritaserum de Drago Malfoy.
 
 "Pourquoi est-ce que tu ne m'as rien *dit* de tout ça ?" dit Hermione,
 et en dépit d'elle-même, sa voix monta d'un cran. "Si j'avais *su*…"
 
-"Ce n'était pas à moi de te révéler ce secret," dit Harry. "Draco aurait
+"Ce n'était pas à moi de te révéler ce secret," dit Harry. "Drago aurait
 été mis en danger si son père l'avait découvert."
 
 "Je ne suis pas stupide, M. Potter. Quelle est la *vraie* raison pour
@@ -582,7 +582,7 @@ avec M. Malfoy ?"
 "Ah. Eh bien…" Harry détourna le regard et baissa les yeux vers la
 table.
 
-"Draco Malfoy a dit aux Aurors, sous Veritaserum, qu'il avait désiré
+"Drago Malfoy a dit aux Aurors, sous Veritaserum, qu'il avait désiré
 savoir s'il pouvait me battre et qu'il m'avait donc provoquée en duel
 afin de le *tester empiriquement*. Ce furent ses *mots exacts*, selon la
 retranscription de son témoignage."
@@ -592,7 +592,7 @@ Bien *sûr* qu'elle se souviendrait des mots exacts. Peu importe qu'elle
 soit enchaînée à une chaise et accusée de meurtre devant tout le
 Magenmagot…"
 
-"Qu'est-ce que tu faisais *vraiment* avec Draco Malfoy ?"
+"Qu'est-ce que tu faisais *vraiment* avec Drago Malfoy ?"
 
 Harry grimaça et dit : "Probablement pas *exactement* ce que tu penses,
 mais…"
@@ -659,9 +659,9 @@ scientifiques* collaborent *tout le temps*, je ne pense pas avoir trompé
 qui que ce soit. Les scientifiques sont souvent discrets quant aux
 projets sur lesquels ils travaillent. Toi et moi faisons des recherches
 que nous gardons secrètes, et il y avait des raisons de ne pas en parler
-à Draco Malfoy en particulier - au début, il aurait entièrement arrêté
+à Drago Malfoy en particulier - au début, il aurait entièrement arrêté
 de passer du temps avec moi s'il avait su que j'étais ton ami et pas ton
-rival. Et Draco aurait été celui à risque si j'avais parlé de *lui* à
+rival. Et Drago aurait été celui à risque si j'avais parlé de *lui* à
 quelqu'un…"
 
 "C'est vraiment tout ?" dit-elle. "*Vraiment*, Harry ? Tu ne voulais pas

@@ -6,7 +6,7 @@ La différence entre Bon et Mauvais était généralement simple à saisir,
 elle n'avait jamais compris pourquoi les autres avaient tant de
 difficulté. À Poudlard, "Bon", c'était le professeur Flitwick et le
 professeur McGonagall et le professeur Chourave. "Mauvais", c'était le
-professeur Rogue et le professeur Quirrell et Draco Malfoy. Harry
+professeur Rogue et le professeur Quirrell et Drago Malfoy. Harry
 Potter… était un de ces cas inhabituels où on ne *pouvait pas* savoir
 juste en regardant. Elle essayait encore de décider à quel groupe il
 appartenait.
@@ -217,21 +217,21 @@ qui tenait un petit bâton vert luisant projetant une lumière pâle qui
 environnante.
 
 La lumière du couloir mourut quand la porte se referma derrière lui, et
-les yeux de Draco commencèrent à s'ajuster à la faible lueur.
+les yeux de Drago commencèrent à s'ajuster à la faible lueur.
 
 La silhouette se tourna lentement pour l'observer, révélant un visage
 ombragé, seulement partiellement éclairé par l'étrange lumière verte.
 
-Draco commençait déjà à aimer cette rencontre. Gardez la froide lumière
+Drago commençait déjà à aimer cette rencontre. Gardez la froide lumière
 verte, rendez-les tous deux plus grands, donnez-leur des capuches et des
 masques, déplacez-les d'une salle de classe à un cimetière, et ce serait
 exactement comme le début de la moitié des histoires que les amis de son
 père racontaient sur les Mangemorts.
 
-"Je veux que tu saches, Draco Malfoy," dit la silhouette avec un calme
+"Je veux que tu saches, Drago Malfoy," dit la silhouette avec un calme
 mortel, "que je ne te blâme pas pour ma récente défaite."
 
-Sans réfléchir, Draco ouvrit la bouche pour protester, il n'y avait
+Sans réfléchir, Drago ouvrit la bouche pour protester, il n'y avait
 absolument aucune raison pour qu'*il* soit blâmé.
 
 "C'était, plus que toute autre chose, dû à ma propre stupidité,"
@@ -243,15 +243,15 @@ fait demeure que j'ai perdu le concours d'un demi-livre. Les actes de
 ton idiot de compagnie, et la faveur que tu as demandée, et, oui, ma
 propre idiotie quant à la façon de t'accorder cette faveur, m'ont fait
 *perdre du temps*. Plus de temps que tu ne le sais. Du temps qui, à la
-fin, s'est avéré crucial. Le fait demeure, Draco Malfoy, que si tu ne
+fin, s'est avéré crucial. Le fait demeure, Drago Malfoy, que si tu ne
 m'avais pas demandé cette faveur, j'*aurais* gagné. Et non… pas…
 *perdu*."
 
-Draco avait déjà entendu parler de la défaite de Harry, et du gage que
+Drago avait déjà entendu parler de la défaite de Harry, et du gage que
 Hermione avait exigé de lui. La nouvelle avait circulé plus vite que des
 chouettes n'auraient pu la transporter.
 
-"Je comprends," dit Draco. "Je suis désolé." Il n'y avait rien d'autre
+"Je comprends," dit Drago. "Je suis désolé." Il n'y avait rien d'autre
 qu'il *puisse* dire s'il voulait que Harry Potter soit ami avec lui.
 
 "Je ne demande ni compassion ni chagrin," dit la sombre silhouette,
@@ -265,13 +265,13 @@ rose métamorphosés sur notre chemin. J'ai eu un rendez-vous galant,
 héritier de Malfoy. Mon *premier* rendez-vous galant. *Et quand je
 déclarerai que tu me dois cette faveur, tu la repaieras.*"
 
-Draco acquiesça solennellement. Avant d'arriver, il avait pris la
+Drago acquiesça solennellement. Avant d'arriver, il avait pris la
 prudente précaution d'apprendre tout détail disponible sur le
 rendez-vous de Harry afin d'en finir avec son hilarité hystérique avant
 l'heure de rencontre convenue, et de ne pas commettre de *faux pas* en
 gloussant jusqu'à en perdre conscience.
 
-"Penses-tu," dit Draco, "que quelque chose devrait arriver à cette
+"Penses-tu," dit Drago, "que quelque chose devrait arriver à cette
 Granger-"
 
 "Fais passer le mot à Serpentard que la Granger est *mienne* et que
@@ -281,7 +281,7 @@ puisque je ne suis pas à Gryffondor et que j'utilise la *ruse* plutôt
 que les attaques frontales immédiates, ils ne devraient pas paniquer en
 me voyant sourire à Granger."
 
-"Ou si tu es vu à un second rendez-vous ?" dit Draco, ne laissant percer
+"Ou si tu es vu à un second rendez-vous ?" dit Drago, ne laissant percer
 dans sa voix qu'une toute petite note de scepticisme.
 
 "*Il n'y aura pas de second rendez-vous*," dit la silhouette nimbée de
@@ -293,20 +293,20 @@ Ténèbres.
 Bien sûr c'*était* toujours la voix non muée d'un jeune garçon, et quand
 on la combinait avec les *mots qu'il avait prononcés*, eh bien, ça ne
 fonctionnait pas. Si Harry Potter *devenait* un jour le prochain
-Seigneur des Ténèbres, Draco utiliserait une Pensine pour conserver une
+Seigneur des Ténèbres, Drago utiliserait une Pensine pour conserver une
 copie de ce souvenir dans un endroit sûr, et Harry Potter n'oserait plus
 jamais le trahir.
 
 "Mais parlons d'affaires plus joyeuses," dit la silhouette aux ombres
-verdâtres. "Parlons de savoir et de pouvoir, Draco Malfoy, parlons de
+verdâtres. "Parlons de savoir et de pouvoir, Drago Malfoy, parlons de
 Science."
 
-"Oui," dit Draco. "Parlons donc."
+"Oui," dit Drago. "Parlons donc."
 
-Draco se demanda quelle partie de son visage était visible, et quelle
+Drago se demanda quelle partie de son visage était visible, et quelle
 partie était dans l'ombre, dans cette inquiétante lumière verte.
 
-Et bien que Draco ait gardé une expression sérieuse, il y avait un
+Et bien que Drago ait gardé une expression sérieuse, il y avait un
 sourire dans son cœur.
 
 Il avait *enfin* une vraie conversation d'adulte.
@@ -322,11 +322,11 @@ des tests et observeras ce qui se produit. Et tu devras accepter le sens
 de ces résultats quand ils te diront que tu as tort. Tu devras
 *apprendre à perdre*, pas contre moi, mais contre la Nature. Quand tu te
 retrouveras à débattre avec la réalité, tu devras laisser la réalité
-gagner. Ce sera douloureux, Draco Malfoy, et je ne sais pas si tu as la
+gagner. Ce sera douloureux, Drago Malfoy, et je ne sais pas si tu as la
 force nécessaire dans ce domaine. Maintenant que tu connais le prix,
 est-ce toujours ton souhait que d'apprendre le pouvoir humain ?"
 
-Draco prit une profonde inspiration. Il y avait déjà réfléchi. Et il
+Drago prit une profonde inspiration. Il y avait déjà réfléchi. Et il
 avait du mal à voir comment il pourrait répondre autrement. Il avait
 reçu l'instruction de s'engager dans toute voie pouvant mener à une
 amitié avec Harry Potter. Il ne faisait qu'*apprendre*, il ne promettait
@@ -334,19 +334,19 @@ pas de *faire* quoi que ce soit. Il pouvait toujours arrêter les leçons
 n'importe quand…
 
 Il y avait un certain nombre de choses dans cette situation qui lui
-donnaient l'air d'être un piège, mais honnêtement, Draco ne voyait pas
+donnaient l'air d'être un piège, mais honnêtement, Drago ne voyait pas
 comment cela pouvait mal tourner.
 
-En plus Draco voulait quand même diriger le monde.
+En plus Drago voulait quand même diriger le monde.
 
-"Oui," dit Draco.
+"Oui," dit Drago.
 
 "Excellent," dit la sombre silhouette. "J'ai eu ce qu'on pourrait
 appeler une *semaine encombrée*, et ça prendra du temps de planifier ton
 programme d'études-"
 
 "J'ai moi-même beaucoup de choses à faire pour consolider mon pouvoir à
-Serpentard," dit Draco, "sans parler des devoirs. Peut-être qu'on
+Serpentard," dit Drago, "sans parler des devoirs. Peut-être qu'on
 devrait juste commencer en octobre ?"
 
 "Ça m'a l'air raisonnable," dit la sombre silhouette, "mais ce que je
@@ -356,19 +356,19 @@ je t'explique l'esprit et le cerveau humain. La deuxième option est que
 je t'explique l'univers physique, ces arts qui pavent le chemin vers la
 Lune. Cela nécessite l'utilisation de beaucoup de nombres, mais pour un
 certain type d'esprit, ces nombres sont plus beaux que tout ce que la
-Science a à offrir. Aimes-tu les nombres, Draco ?"
+Science a à offrir. Aimes-tu les nombres, Drago ?"
 
-Draco secoua la tête.
+Drago secoua la tête.
 
 "Alors tant pis. Tu finiras par apprendre les mathématiques, mais je ne
 pense pas que ce sera pour tout de suite. La troisième option est que je
 t'enseigne la génétique et l'évolution et l'hérédité, ce que tu
 appellerais le sang -"
 
-"Celle-là," dit Draco.
+"Celle-là," dit Drago.
 
 La silhouette hocha la tête. "Je pensais que tu dirais ça. Mais je pense
-que ce sera le chemin le plus douloureux pour toi, Draco. Et si ta
+que ce sera le chemin le plus douloureux pour toi, Drago. Et si ta
 famille et tes amis, les puristes du sang, disent une chose, et que tu
 découvres que les tests expérimentaux en disent une autre ?"
 
@@ -379,11 +379,11 @@ Il y eut une pause, et la sombre silhouette se tint là, bouche béante,
 pendant quelques instants.
 
 "Euh," dit la sombre silhouette. "Ça ne marche pas vraiment comme ça.
-C'est ce contre quoi j'essayais de te mettre en garde, Draco. Tu ne
+C'est ce contre quoi j'essayais de te mettre en garde, Drago. Tu ne
 *peux pas* changer la réponse pour qu'elle te plaise."
 
 "On peut *toujours* faire en sorte que la réponse soit celle qui nous
-arrange," dit Draco. Ça avait pratiquement été la première chose que ses
+arrange," dit Drago. Ça avait pratiquement été la première chose que ses
 précepteurs lui avaient enseignée. "Le problème est juste de trouver les
 bons arguments."
 
@@ -418,10 +418,10 @@ changée par le débat* ! Ce que la science *peut* faire est de nous dire
 vraiment leurs pouvoirs de leurs parents, et si les nés-Moldus sont
 vraiment plus faibles ou plus forts -"
 
-"*Plus forts !*" dit Draco. Il avait essayé de suivre, un air perplexe
+"*Plus forts !*" dit Drago. Il avait essayé de suivre, un air perplexe
 sur le visage, il pouvait comprendre en quoi ça se tenait, mais ça ne
 ressemblait certainement pas à quoi que ce soit qu'il ait entendu avant.
-Et Harry Potter avait alors dit quelque chose que Draco ne pouvait
+Et Harry Potter avait alors dit quelque chose que Drago ne pouvait
 absolument pas laisser passer. "Tu penses que les sang-de-bourbe sont
 *plus forts* ?"
 
@@ -434,16 +434,16 @@ nés-Moldus sont plus forts, je croirai qu'ils sont plus forts. Sachant
 cela et d'autres faits, je gagnerai une certaine quantité de pouvoir -"
 
 "Et tu t'attends à ce que *je* crois tout ce que tu dis ?" demanda
-vivement Draco.
+vivement Drago.
 
 "Je m'attends à ce que tu exécutes les tests *toi-même*," dit calmement
 la sombre figure. "As-tu peur de ce que *tu* vas découvrir ?"
 
-Draco fixa la sombre silhouette pendant un moment, ses yeux étroits.
+Drago fixa la sombre silhouette pendant un moment, ses yeux étroits.
 "Bon piège, Harry," dit-il. "Il faudra que je m'en souvienne, c'est
 nouveau."
 
-La sombre silhouette secoua la tête. "Ce n'est pas un piège, Draco.
+La sombre silhouette secoua la tête. "Ce n'est pas un piège, Drago.
 Souviens-toi - je ne *sais pas* ce que nous allons découvrir. Mais on ne
 comprend pas l'univers en débattant avec lui ou en lui disant de revenir
 avec une autre réponse la prochaine fois. Quand tu enfiles les robes
@@ -456,24 +456,24 @@ Es-tu certain de ne pas préférer apprendre le fonctionnement du
 cerveau ?"
 
 "Et si je te dis que je préférerais apprendre le fonctionnement du
-cerveau," dit Draco, sa voix maintenant dure, "tu raconteras à tout le
+cerveau," dit Drago, sa voix maintenant dure, "tu raconteras à tout le
 monde que j'avais peur de ce que j'allais découvrir."
 
 "Non," dit la sombre silhouette. "Je ne ferai pas ça."
 
 "Mais tu feras peut-être le même genre de tests toi-même, et si tu
 obtiens la mauvaise réponse, je ne serai pas là pour dire quelque chose
-avant que tu ne la montres à quelqu'un d'autre." La voix de Draco était
+avant que tu ne la montres à quelqu'un d'autre." La voix de Drago était
 toujours dure.
 
-"Je te demanderais quand même avant, Draco," dit calmement la sombre
+"Je te demanderais quand même avant, Drago," dit calmement la sombre
 silhouette.
 
-Draco resta silencieux. Il ne s'était pas attendu à ça, il pensait avoir
+Drago resta silencieux. Il ne s'était pas attendu à ça, il pensait avoir
 vu le piège mais… "Tu le *ferais* ?"
 
 "Bien sûr. Comment saurais-*je* qui faire chanter et ce qu'on pourrait
-tirer d'eux ? Draco, je te dis à nouveau que ce n'est pas un piège que
+tirer d'eux ? Drago, je te dis à nouveau que ce n'est pas un piège que
 je te tends. Du moins pas à toi personnellement. Si tu avais d'autres
 opinions politiques, je serais en train de te dire : et si les tests
 montrent que les Sang-Pur sont plus forts ?"
@@ -483,7 +483,7 @@ montrent que les Sang-Pur sont plus forts ?"
 "*Oui !* C'est le prix que *tout le monde* doit payer pour devenir un
 scientifique !"
 
-Draco leva une main. Il devait réfléchir.
+Drago leva une main. Il devait réfléchir.
 
 La sombre silhouette nimbée de vert attendit.
 
@@ -491,12 +491,12 @@ En fait, ça ne prit pas longtemps d'y réfléchir. Si on écartait toutes
 les parties déroutantes… alors Harry Potter se préparait à jouer avec
 quelque chose qui pouvait provoquer une explosion politique gigantesque,
 et il serait dément de juste s'en aller et de le laisser le faire seul.
-"Nous étudierons le sang," dit Draco.
+"Nous étudierons le sang," dit Drago.
 
 "*Excellent,"* dit la silhouette, et elle sourit. "Je te félicite pour
 ton désir de poser la question."
 
-"Merci," dit Draco, ne parvenant pas tout à fait à masquer toute trace
+"Merci," dit Drago, ne parvenant pas tout à fait à masquer toute trace
 d'ironie de sa voix.
 
 "Hé, tu pensais qu'aller sur la Lune était *facile* ? Réjouis-toi que
@@ -508,7 +508,7 @@ humain !"
 Il y eut une courte pause, puis la silhouette hocha la tête. "C'est
 juste."
 
-"Écoute, Harry," dit Draco sans grand espoir, "je pensais que l'idée
+"Écoute, Harry," dit Drago sans grand espoir, "je pensais que l'idée
 était de prendre toutes les choses que les Moldus savent, de les
 combiner avec ce que les sorciers savent, et de devenir maîtres des deux
 mondes. Ne serait-il pas beaucoup plus simple de juste étudier les
@@ -524,9 +524,9 @@ puissant sorcier te parlait de ces portes qu'il ne faut pas ouvrir et de
 ces sceaux qui ne doivent pas être brisés avant que tu n'aies prouvé ton
 intelligence et ta discipline en survivant à de moindres périls."
 
-Un frisson descendit le long de la colonne vertébrale de Draco et il eut
+Un frisson descendit le long de la colonne vertébrale de Drago et il eut
 un soubresaut involontaire. Il savait que ça avait été visible même dans
-la faible lumière. "Très bien," dit Draco. "Je comprends." Père lui
+la faible lumière. "Très bien," dit Drago. "Je comprends." Père lui
 avait dit cela en de nombreuses occasions. Quand un sorcier plus
 puissant vous disait que vous n'étiez pas prêt à savoir, et que vous
 vouliez vivre, vous n'insistiez pas.
@@ -537,7 +537,7 @@ n'avaient pas vos traditions. Au début, ils ne comprenaient tout
 simplement pas la notion de savoir dangereux, et ils pensaient que l'on
 pouvait librement discuter de toute chose. Lorsque leurs recherches
 devinrent dangereuses, ils dirent à leurs hommes politiques des choses
-qui auraient dû rester secrètes - ne prends pas cet air, Draco, ce n'est
+qui auraient dû rester secrètes - ne prends pas cet air, Drago, ce n'est
 pas simplement de la stupidité. Ils devaient déjà être assez malins pour
 découvrir ce secret. Mais c'étaient des Moldus, et c'était la première
 fois qu'ils découvraient quelque chose de *vraiment* dangereux, et ils
@@ -548,7 +548,7 @@ s'ils ne parlaient *pas*, les scientifiques du pays *ennemi* parleraient
 de sens. "Ils ne détruisirent pas le monde. Mais il s'en est fallu de
 peu. Et *nous* n'allons pas reproduire cette erreur."
 
-"Tout à fait," dit Draco, sa voix maintenant très ferme. "Pas *nous*.
+"Tout à fait," dit Drago, sa voix maintenant très ferme. "Pas *nous*.
 Nous sommes des sorciers, et étudier la science ne fait pas de nous des
 Moldus."
 
@@ -561,7 +561,7 @@ sera aligné sur ton progrès dans cette discipline, et tu ne partageras
 pas ce savoir avec ceux n'ayant pas appris cette discipline. Acceptes-tu
 cela ?"
 
-"Oui," dit Draco. Qu'était-il censé faire, dire non ?
+"Oui," dit Drago. Qu'était-il censé faire, dire non ?
 
 "Bien. Et ce que tu découvriras toi-même, tu le garderas pour toi, à
 moins que tu ne penses que d'autres scientifiques sont prêts à
@@ -574,7 +574,7 @@ armes dangereuses, peu importe qu'une guerre fasse rage. À partir
 d'aujourd'hui, ce sera la tradition et la loi de la science parmi les
 sorciers. Sommes-nous d'accord là-dessus ?"
 
-"Oui," dit Draco. En fait, ça commençait *vraiment* à avoir l'air
+"Oui," dit Drago. En fait, ça commençait *vraiment* à avoir l'air
 sacrément attrayant. Les Mangemorts avaient essayé de prendre le pouvoir
 en étant plus effrayants que tout le monde, et ils n'avaient pas encore
 vraiment gagné. Peut-être était-il temps d'essayer de diriger à l'aide
@@ -588,7 +588,7 @@ Il y eut une très courte pause.
 "Nous aurons besoin de meilleures robes," dit la sombre silhouette,
 "avec des capuches et tout ça -"
 
-"Je *pensais justement* à ça," dit Draco. "Nous n'avons pas besoin de
+"Je *pensais justement* à ça," dit Drago. "Nous n'avons pas besoin de
 nouvelles robes intégrales, cela dit, juste des houppelandes à capuche à
 mettre par-dessus. J'ai une amie à Serpentard, elle prendra tes mesures
 -"
@@ -613,21 +613,21 @@ l'identification des nôtres trop facile ?"
 ses robes au-dessus de du bras droit' et que nos gars sont là 'oups,
 désolé, on dirait que je suis un espion' -"
 
-"*Oublie ce que je viens de dire*," dit immédiatement Draco, de la sueur
+"*Oublie ce que je viens de dire*," dit immédiatement Drago, de la sueur
 perlant soudain sur toute la surface de son corps. Il avait besoin d'une
 distraction, *vite* - "Et comment nous appellerons-nous ? Les
 Mangescience ?"
 
 "Non," dit lentement la sombre silhouette. "Ça ne sonne pas bien…"
 
-Du revers d'une de ses manches, Draco s'essuya le front, chassant des
+Du revers d'une de ses manches, Drago s'essuya le front, chassant des
 gouttes d'humidité. Mais à quoi *avait pensé* le Seigneur des Ténèbres ?
 Père avait dit que le Seigneur des Ténèbres était *intelligent* !
 
 "J'ai trouvé !" dit soudain la sombre silhouette. "Tu ne comprendras pas
 pour l'instant, mais crois moi, ça convient."
 
-Pour le moment, Draco aurait accepté 'Mangeurs Malfoy' du moment que ça
+Pour le moment, Drago aurait accepté 'Mangeurs Malfoy' du moment que ça
 changeait de sujet. "C'est quoi ?"
 
 Et, debout entre les pupitres poussiéreux d'une salle abandonnée des
@@ -644,7 +644,7 @@ la *Conspiration Bayésienne*."
 Une silhouette silencieuse marcha d'un pas lourd et fatigué à travers
 les couloirs de Poudlard en direction de Serdaigle.
 
-Harry s'était directement rendu au dîner après la réunion avec Draco, et
+Harry s'était directement rendu au dîner après la réunion avec Drago, et
 il y était resté à peine assez longtemps pour s'étouffer sur quelques
 bouchées rapides avant d'aller se coucher.
 
@@ -941,7 +941,7 @@ directeur, suivi par le professeur de Défense lui ordonnant de se faire
 battre en plein cours, suivi par le professeur de Défense se révélant
 être l'être humain le plus génial à encore marcher à la surface de cette
 planète… samedi il avait perdu un pari et avait été à son premier
-rendez-vous galant et avait commencé à racheter Draco… et puis ce matin
+rendez-vous galant et avait commencé à racheter Drago… et puis ce matin
 la prophétie non entendue du professeur Trelawney pourrait ou ne
 pourrait pas indiquer qu'un Seigneur des Ténèbres immortel était sur le
 point d'attaquer Poudlard.

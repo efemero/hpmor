@@ -35,7 +35,7 @@ même pas *mourir* sans réponses, sans que tout ait été réglé. Une
 histoire devait se conclure sur une réponse, pas sur des notes d'examen,
 et certainement pas sur une mort…
 
-Mais à moins de croire à la dernière théorie de Draco Malfoy, selon qui
+Mais à moins de croire à la dernière théorie de Drago Malfoy, selon qui
 le professeur Chourave avait mis plus de temps à rendre leurs copies aux
 élèves peu de temps avant que Hermione ne soit accusée de tentative de
 meurtre et avait donc forcément passé son temps à mettre en place le
@@ -215,7 +215,7 @@ Chaque seconde, le chrono avançait.
 À mesure qu'il avançait, des Poufsouffle toujours plus nombreux
 désiraient soudain venir s'asseoir sous la bannière de Harry.
 
-Lorsque le match s'étira passé neuf heures, de nombreux Gryffondors les
+Lorsque le match s'étira passé neuf heures, de nombreux Gryffondor les
 avaient rejoints.
 
 Lorsque le soleil se coucha et que Harry lança un Lumos pour lire ses
@@ -278,10 +278,10 @@ camps. De sales gêneurs proposaient des alternatives raisonnables à
 l'élimination pure et simple du Vif d'or, ce qui menaçait de diviser les
 votes et de freiner l'élan réformiste.
 
-Rétrospectivement, songea Harry, il aurait été bon de voir Draco
+Rétrospectivement, songea Harry, il aurait été bon de voir Drago
 dérouler sa bannière dans le camp d'en face, disant 'LES VIFS D'OR ON
 ADORE', afin d'établir les polarités du débat. Plus tôt, Harry avait
-scruté les gradins Serpentard, mais il n'avait vu Draco nulle part.
+scruté les gradins Serpentard, mais il n'avait vu Drago nulle part.
 Severus Rogue, qui aurait peut-être eu la gentillesse de bien vouloir
 jouer le rôle de l'infâme opposant, manquait aussi à l'appel.
 
@@ -343,13 +343,13 @@ futur n'agissait pas comme un *idiot*.
 Harry déroula le parchemin une fois de plus et le lut à nouveau.
 
 À y regarder de plus près… l'énigmatique parchemin ne disait pas que
-Harry ne pouvait emmener *personne* avec lui. Draco Malfoy… est-ce qu'il
+Harry ne pouvait emmener *personne* avec lui. Drago Malfoy… est-ce qu'il
 était absent parce que le futur Harry, plusieurs heures dans le passé,
-avait emmené Draco avec lui pour le soutenir ? Mais ça n'avait aucun
+avait emmené Drago avec lui pour le soutenir ? Mais ça n'avait aucun
 sens, emmener un autre élève de première année n'augmentait la sécurité
 que de façon marginale…
 
-…Draco Malfoy qui aurait certainement dû être présent ici, quoi qu'il
+…Drago Malfoy qui aurait certainement dû être présent ici, quoi qu'il
 pense du Quidditch, pour regarder Serpentard se saisir de la coupe des
 Maisons. Est-ce que quelque chose lui était arrivé ?
 
@@ -632,7 +632,7 @@ potions d'un ton doucereux. "Maintenant, expliquez-vous."
 "Sérieusement ?" répondit Susan Bones. "Vous êtes sérieusement en train
 de dire au professeur Rogue que Harry Potter a autorisé cette mission ?
 C'est votre idée d'un bluff ?" La jeune Poufsouffle se retourna vers le
-professeur Rogue. Sa voix était étrangement ferme : "Monsieur, Draco
+professeur Rogue. Sa voix était étrangement ferme : "Monsieur, Drago
 Malfoy a disparu et nous pensons qu'il est venu ici. C'est la vérité, et
 le temps presse…"
 
@@ -677,7 +677,7 @@ que Rogue faisait de sa main gauche avant d'entendre de soudains éclats
 de voix.
 
 "À vrai dire non," dit le professeur Rogue, sa main gauche maintenant
-serrée autour du col de Draco Malfoy. Hormis sa tête, le reste du corps
+serrée autour du col de Drago Malfoy. Hormis sa tête, le reste du corps
 de ce dernier était toujours masqué par une cape d'invisibilité. "Bien
 essayé, toutefois."
 
@@ -694,7 +694,7 @@ de franchir cette porte ? Pourquoi feriez-vous une chose pareille ?"
 Malfoy, on *doit* lui faire confiance, c'est le seul professeur qui
 prendra notre parti !"
 
-"Non !" s'écria la tête en lévitation de Draco Malfoy, une main toujours
+"Non !" s'écria la tête en lévitation de Drago Malfoy, une main toujours
 accrochée à son col. "Ne dites rien ! Taisez-vous !"
 
 "On doit tenter le coup !" cria Theodore. "Professeur Rogue, M. Malfoy a
@@ -726,10 +726,10 @@ dernière. "Je ne suis pas avec eux. Je les ai juste accompagnés pour
 leur éviter de faire quelque chose d'encore plus stupide."
 
 Severus Rogue regardait Theodore Nott et les autres. Puis il se retourna
-vers Draco Malfoy. "M. Malfoy," dit-il d'une voix traînante. "Comment
+vers Drago Malfoy. "M. Malfoy," dit-il d'une voix traînante. "Comment
 avez-vous découvert le plan de Dumbledore ?"
 
-"Je l'ai déduit à partir d'indices !" dit la tête de Draco Malfoy.
+"Je l'ai déduit à partir d'indices !" dit la tête de Drago Malfoy.
 
 Celle du professeur Rogue pivota vivement vers Theodore Nott. "Comment
 comptiez-vous récupérer la pierre cachée dans un miroir censé mettre
@@ -774,20 +774,20 @@ La personne qui ressemblait à Susan Bones semblait avoir envie de se
 taper la tête contre les murs. "Oui, Mlle Greengrass, il y a une
 véritable Susan Bones. Elle ne m'envoie que quand *vous* êtes sur le
 point de vous mettre dans de beaux draps. Professeur Rogue, je suis ici
-parce que Draco Malfoy avait disparu, et que ceux-là ont *soutenu* qu'il
+parce que Drago Malfoy avait disparu, et que ceux-là ont *soutenu* qu'il
 fallait aller le chercher plutôt que d'alerter les Aurors. Mlle Bones
 m'a dit qu'elle n'avait pas le temps de m'expliquer ses raisons, et je
 me rends compte maintenant que c'était stupide. Mais de jeunes élèves ne
 doivent pas s'aventurer seuls dans les couloirs et doivent être en
 permanence accompagnés d'un étudiant en sixième ou septième année. Et
-maintenant, on a Draco Malfoy et on peut tous rentrer. S'il vous plaît ?
+maintenant, on a Drago Malfoy et on peut tous rentrer. S'il vous plaît ?
 Avant que ça ne devienne encore plus ridicule ?
 
 "*Par Merlin, qu'est-ce qui se passe ici ?*"
 
 "Ah," dit le professeur Rogue, qui pointait toujours sa baguette vers
 une Susan Bones aux cheveux rouges et dont l'autre main tenait toujours
-le col de la tête sans corps de Draco Malfoy, et dont les pieds étaient
+le col de la tête sans corps de Drago Malfoy, et dont les pieds étaient
 à quelques centimètres du corps affalé du professeur de Défense.
 "Professeur Chourave, n'est-ce pas."
 
@@ -810,7 +810,7 @@ Harry espérait vraiment ne pas être remonté dans le temps pour faire
 tout ça… parce que c'était exactement le genre de chose qu'il aurait pu
 faire.
 
-Severus Rogue abaissa sa baguette. Son autre main relâcha Draco Malfoy.
+Severus Rogue abaissa sa baguette. Son autre main relâcha Drago Malfoy.
 "Professeur Chourave," dit le maître des potions, "je suis ici sur ordre
 du directeur afin de garder cette porte. Toutes les autres personnes
 présentes ici ne devraient *pas* l'être, et je vous prie de les faire
@@ -849,7 +849,7 @@ chaque étape déjà soupçonnée, la terrible compréhension répétée, plus
 sûre à chaque fois.
 
 Quelqu'un avait modifié les souvenirs de Hermione pour qu'elle croie
-avoir essayé de tuer Draco.
+avoir essayé de tuer Drago.
 
 Seul un professeur de Poudlard aurait pu le faire sans déclencher
 d'alarme.
@@ -878,7 +878,7 @@ laissa immobile au sol.
 Une Susan Bones aux cheveux roses était déjà enveloppée d'un halo bleu à
 facettes, et elle tira sort après sort vers le professeur Chourave.
 Celle-ci les ignora et invoqua des pousses qui enserrèrent les plus
-jeunes élèves qui essayaient de s'enfuir ; sauf Draco Malfoy, qui avait
+jeunes élèves qui essayaient de s'enfuir ; sauf Drago Malfoy, qui avait
 une fois de plus disparu sous sa cape d'invisibilité.
 
 Celle qui n'était pas Susan Bones cessa d'envoyer des sortilèges. Elle
@@ -937,10 +937,10 @@ professeur Chourave semblaient immobiles, mais elles paraissaient
 respirer.
 
 "Malfoy…" dit une fausse Susan aux cheveux roses, toujours haletante.
-"Draco Malfoy, où es-tu ? Est-ce que tu es là ? Appelle vite les
+"Drago Malfoy, où es-tu ? Est-ce que tu es là ? Appelle vite les
 Aurors ! Bordel de Merlin - *Hominum Revelio !*"
 
-Et Harry fut de nouveau visible, et vit dans son miroir un Draco Malfoy
+Et Harry fut de nouveau visible, et vit dans son miroir un Drago Malfoy
 à moitié visible derrière une cape miroitante, debout derrière
 pas-Susan, sa baguette pointée droit vers un trou dans le halo bleu de
 cette dernière.
@@ -960,11 +960,11 @@ sol.
 Harry franchit l'angle du couloir et dit "*Somnium Somnium Somnium
 Somnium Somnium Somnium.*"
 
-La silhouette miroitante de Draco s'effondra.
+La silhouette miroitante de Drago s'effondra.
 
 Harry prit un moment pour reprendre son souffle. Puis il dit
 "*Stupéfix !*" et vérifia que le sortilège d'étourdissement avait bien
-touché le corps de Draco.
+touché le corps de Drago.
 
 (On pouvait croire à tort qu'un Somnium avait touché sa cible. Harry
 avait vu assez de films d'horreur, sans parler de cette histoire avec le
@@ -1001,7 +1001,7 @@ plus beaucoup de temps. S'il te plaît… emmène-moi au miroir… aide-moi… �
 trouver la pierre."
 
 "La pierre *philosophale* ?" dit Harry. Il regarda les corps éparpillés
-autour de lui, mais Draco n'était plus visible, le sortilège de
+autour de lui, mais Drago n'était plus visible, le sortilège de
 révélation s'était dissipé. "Vous pensez que M. Nott avait *raison* ? Je
 ne pense pas que Dumbledore…"
 
@@ -1080,7 +1080,7 @@ les improbabilités qui n'ont pas de cause propre…*
 
 Le professeur Rogue avait déjà été là, puis le professeur Quirrell était
 arrivé, puis Harry (via Retourneur de Temps), puis le groupe
-d'aventuriers, Draco avait été révélé (et faisait partie du groupe),
+d'aventuriers, Drago avait été révélé (et faisait partie du groupe),
 puis le professeur Chourave s'était montrée.
 
 Trop de personnes étaient arrivées *en même temps*, la coïncidence était
@@ -1095,14 +1095,14 @@ Selon le professeur Rogue, le directeur l'avait envoyé garder la porte
 suite à une *perturbation* ; si le cerveau avait aussi provoqué cette
 perturbation, cela expliquait la présence de Severus.
 
-Harry n'était plus sûr que Draco ait été contrôlé par le cerveau. Cette
-hypothèse lui était venue sur le moment, mais Draco aurait pu essayer
+Harry n'était plus sûr que Drago ait été contrôlé par le cerveau. Cette
+hypothèse lui était venue sur le moment, mais Drago aurait pu essayer
 d'abattre pas-Susan pour pouvoir entrer dans le couloir sans être gêné…
 
 Non c'était la mauvaise façon d'attaquer le problème, changer de point
-de vue, essayer d'*expliquer* la présence de Draco et de son groupe à ce
+de vue, essayer d'*expliquer* la présence de Drago et de son groupe à ce
 moment, pas le temps de douter, *saisis l'hypothèse et fonce*, donc
-suppose que le cerveau derrière Chourave a envoyé Draco ou s'est arrangé
+suppose que le cerveau derrière Chourave a envoyé Drago ou s'est arrangé
 pour qu'il vienne.
 
 Cela expliquait trois arrivées.
@@ -1221,11 +1221,11 @@ bourse de Harry. Tu préfères falsifier l'écriture de Harry sur un
 parchemin de sorcier. Tu peux la falsifier parce que tu l'as vue sur des
 examens du ministère que tu as toi-même corrigés.
 
-Tu appelles Draco Malfoy 'la constellation' parce que tu sais que Harry
+Tu appelles Drago Malfoy 'la constellation' parce que tu sais que Harry
 Potter s'intéresse à l'astronomie, que tu es un sorcier, que tu as suivi
 des cours d'astronomie et que tu as mémorisé les noms des
 constellations. Mais ce n'est pas le code que Harry Potter aurait
-instinctivement utilisé pour parler de Draco Malfoy à lui-même. Il
+instinctivement utilisé pour parler de Drago Malfoy à lui-même. Il
 aurait dit "l'apprenti".
 
 Tu appelles le professeur Quirrell 'celui qui contemple les étoiles' et
@@ -1251,10 +1251,10 @@ sortilège d'Oubliettes soit attribué à un autre une fois les choses
 calmées, mais,
 
 Mais pourquoi le professeur Quirrell risquerait-il la fragile alliance
-entre Harry et Draco via la tentative de fausse accusation de meurtre
+entre Harry et Drago via la tentative de fausse accusation de meurtre
 
 (que le professeur Quirrell avait 'détectée' et 'empêchée' via un
-mouchard placé sur Draco)
+mouchard placé sur Drago)
 
 Pourquoi le professeur Quirrell tuerait-il Hermione
 

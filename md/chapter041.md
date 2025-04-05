@@ -10,7 +10,7 @@ fondue puis à nouveau gelée s'accrochaient encore au visage de pierre et
 réfléchissaient l'éclatante lumière du soleil. De loin, on aurait
 sûrement eu l'impression que Poudlard clignait de milles yeux.
 
-Une rafale soudaine fit tressaillir Draco et le poussa à essayer, bien
+Une rafale soudaine fit tressaillir Drago et le poussa à essayer, bien
 inutilement, d'approcher son corps de la pierre encore plus qu'il ne
 l'était déjà, une pierre qui ressemblait à de la glace et qui avait une
 odeur de glace. Un instinct profondément inutile le persuadait qu'il
@@ -18,7 +18,7 @@ odeur de glace. Un instinct profondément inutile le persuadait qu'il
 et que la meilleure façon d'empêcher que cela arrive était de s'agiter
 par pur réflexe moteur, et peut-être même de vomir.
 
-Draco essayait très fort de ne *pas* penser aux six étages de vide qui
+Drago essayait très fort de ne *pas* penser aux six étages de vide qui
 se trouvaient en dessous de lui, et de se concentrer plutôt sur la façon
 dont il allait tuer Harry Potter.
 
@@ -66,7 +66,7 @@ des blasons portant le signe d'un visage souriant enveloppé de flammes.
 Mais les soldats de Harry avaient noirci le leur - il n'avait pas l'air
 recouvert de peinture mais plutôt d'avoir été *brûlé* - et ils s'étaient
 battus à travers les niveaux supérieurs de Poudlard avec une furie
-désespérée. La rage froide que Draco voyait parfois en Harry semblait
+désespérée. La rage froide que Drago voyait parfois en Harry semblait
 s'être infiltrée dans ses soldats, qui s'étaient battus comme si ce
 n'était pas un jeu. Et Harry avait vidé tout son sac de techniques, il y
 avait eu de petites billes de métal (Granger les avait appelées
@@ -93,11 +93,11 @@ ensemble comme ils l'avaient pratiqué, pas pendant des heures mais
 pendant des semaines, et pourtant Londubat était mystérieusement parvenu
 à les atteindre *tous les deux* avant de s'effondrer.
 
-Et maintenant il y avait Draco et Granger et Padma et Samuel et Harry,
+Et maintenant il y avait Drago et Granger et Padma et Samuel et Harry,
 et vu la tête que faisait Samuel, son mur prismatique n'allait pas tenir
 encore bien longtemps.
 
-Draco avait déjà mis sa baguette au niveau de Harry, attendant que le
+Drago avait déjà mis sa baguette au niveau de Harry, attendant que le
 mur prismatique tombe de lui-même ; inutile de gâcher un sortilège de
 bris de bouclier avant que cela ne se produise. Padma avait mis sa
 propre baguette à hauteur de Samuel, Granger la sienne à hauteur de
@@ -119,13 +119,13 @@ feriez mieux de reconsidérer cette idée. Battez moi lorsque je combats
 sérieusement et je resterai battu ; mais perdez et la prochaine fois
 sera une répétition de la bataille d'aujourd'hui."
 
-Le garçon avança ses mains et Draco vit que Harry portait d'étranges
+Le garçon avança ses mains et Drago vit que Harry portait d'étranges
 gants, avec un matériau grisâtre très particulier sur le bout de ses
 doigts et des boucles qui accrochaient fermement les gants à ses
 poignets.
 
-À côté de Draco, le général Soleil eut un hoquet d'horreur ; et sans
-même prendre le temps de l'interroger, Draco jeta un sortilège de bris
+À côté de Drago, le général Soleil eut un hoquet d'horreur ; et sans
+même prendre le temps de l'interroger, Drago jeta un sortilège de bris
 de bouclier.
 
 Samuel flancha en laissant échapper un cri, mais il maintint le mur ; et
@@ -147,7 +147,7 @@ Et, alors qu'il ouvrait grand la fenêtre, sa voix froide dit :
 
 Le vent gelé hurlait tout autour d'eux.
 
-Les bras de Draco commençaient déjà à être fatigués.
+Les bras de Drago commençaient déjà à être fatigués.
 
 … il s'était avéré que, hier, Harry avait minutieusement démontré à
 Granger comment métamorphoser les gants qu'il portait en ce moment même,
@@ -163,7 +163,7 @@ où".
 Non pas que Padma les aurait suivis de toute façon. *Elle* n'était pas
 folle.
 
-Draco détacha sa main droite avec précaution, l'avançant autant qu'il le
+Drago détacha sa main droite avec précaution, l'avançant autant qu'il le
 pouvait, puis il la plaqua de nouveau contre la pierre. À côté de lui,
 Granger fit de même.
 
@@ -187,7 +187,7 @@ demande, après l'avoir tué."
 
 C'était incroyable ce qu'ils avaient en commun tous les deux.
 
-Draco n'avait pas vraiment envie de parler pour le moment mais il
+Drago n'avait pas vraiment envie de parler pour le moment mais il
 parvint à dire, à travers des dents serrées : "Ça pourrait être une
 vengeance. Pour le rendez-vous galant."
 
@@ -225,11 +225,11 @@ que vous l'auriez traversé en courant à grande vitesse…
 
 Alors vous auriez eu *tristement tort*.
 
-"*Luminos !"* cria Draco.
+"*Luminos !"* cria Drago.
 
 "*Luminos !*" cria Granger.
 
-"*Luminos !*" cria Draco.
+"*Luminos !*" cria Drago.
 
 "*Luminos !*" cria Granger.
 
@@ -242,24 +242,24 @@ Rétrospectivement, c'était inévitable. Dans la vraie vie vous ne pouviez
 pas *vraiment* courir à grande vitesse sur un toit verglacé.
 
 Inévitablement aussi, car cela arriva sans la moindre pensée consciente,
-Draco pivota et saisit le bras droit de Granger et il la *rattrapa*,
+Drago pivota et saisit le bras droit de Granger et il la *rattrapa*,
 seulement elle était déjà trop déséquilibrée, elle tombait et entraînait
-Draco avec elle, tout se passait si vite…
+Drago avec elle, tout se passait si vite…
 
-Il y eut un impact dur et douloureux, pas seulement du poids de Draco
+Il y eut un impact dur et douloureux, pas seulement du poids de Drago
 contre le toit mais aussi un peu de celui de Granger, et si elle l'avait
 heurté un tout petit peu plus près du bord ils auraient pu s'en sortir,
 mais au lieu de cela son corps bascula de nouveau et ses jambes
 glissèrent et son autre main chercha frénétiquement une prise…
 
-Et c'est ainsi que Draco se retrouva à retenir le bras de Granger d'une
+Et c'est ainsi que Drago se retrouva à retenir le bras de Granger d'une
 poigne blanche tandis que son autre main serrait frénétiquement le
 rebord du toit et que les bouts de ses chaussures s'enfonçaient sur la
 tranche d'une tuile.
 
 "*Hermione* !" glapit la voix distante de Harry.
 
-"Draco," chuchota Granger, et Draco baissa les yeux.
+"Drago," chuchota Granger, et Drago baissa les yeux.
 
 Cela avait peut-être été une erreur. Il y avait beaucoup de vide
 en-dessous d'eux, rien que du vide, ils étaient au bord d'un toit qui
@@ -276,17 +276,17 @@ sang-de-bourbe !*
 
 Elle n'aurait même pas *mal* *!*
 
-… le cerveau de Draco refusait d'écouter ce que Draco avait à lui dire.
+… le cerveau de Drago refusait d'écouter ce que Drago avait à lui dire.
 
 "Fais-le," chuchota Hermione, ses yeux étincelants, dénués de la moindre
-trace de peur, "fais-le, Draco, fais-le, tu peux le battre seul, Draco,
+trace de peur, "fais-le, Drago, fais-le, tu peux le battre seul, Drago,
 *il faut qu'on gagne !*"
 
 Il y eut le son de quelqu'un qui courait, et le son se rapprochait.
 
 *Oh, sois rationnel…*
 
-La voix dans la tête de Draco ressemblait horriblement à celle de Harry
+La voix dans la tête de Drago ressemblait horriblement à celle de Harry
 Potter lorsque celui-ci lui prodiguait des leçons.
 
 *… vas-tu laisser ton cerveau diriger ta vie ?*
@@ -311,7 +311,7 @@ Daphné, c'était une histoire déjà parfaite sans avoir besoin des
 "Et alors ?" glapirent Flora et Hestia Carrow.
 
 "Le général Granger a levé les yeux vers lui," dit Millicent d'une voix
-théâtrale, "et elle a dit :'Draco ! Tu dois me lâcher ! Ne t'en fais pas
+théâtrale, "et elle a dit :'Drago ! Tu dois me lâcher ! Ne t'en fais pas
 pour moi, je te promets que tout ira bien ! Et que pensez-vous que
 Malfoy a alors fait ?"
 

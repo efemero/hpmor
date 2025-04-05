@@ -30,7 +30,7 @@ prédéterminerait pas le résultat, mais elle ne l'avait pas mentionné -
 ce que Harry avait immédiatement accepté.
 
 Le lendemain, quasiment toutes les filles de Serdaigle âgées de plus de
-treize ans avaient voté pour que Draco fasse tomber Harry.
+treize ans avaient voté pour que Drago fasse tomber Harry.
 
 Hermione avait été légèrement déçue que ce soit si simple, même si
 c'était évidemment juste.
@@ -52,25 +52,25 @@ On ne pouvait pas distinguer les détails depuis le sommet, seulement un
 flot indistinct de visages féminins attentifs.
 
 "Tu n'as pas la moindre idée de ce dont il est question, n'est-ce pas ?"
-dit Draco d'un ton amusé.
+dit Drago d'un ton amusé.
 
 Harry avait lu un certain nombre de livres qu'il n'était pas censé lire,
 sans parler de quelques gros titres du *Chicaneur*.
 
-"Le Survivant fait tomber Draco Malfoy enceinte ?" dit Harry.
+"Le Survivant fait tomber Drago Malfoy enceinte ?" dit Harry.
 
-"D'accord, tu *sais* de quoi il est question," dit Draco. "Je croyais
+"D'accord, tu *sais* de quoi il est question," dit Drago. "Je croyais
 que les Moldus détestaient ça ?"
 
 "Seulement les idiots," dit Harry. "Mais, euh, ne sommes-nous pas, euh,
 un peu *jeunes ?*"
 
-"Pas trop jeunes pour *elles*," dit Draco. Il renifla. "Ah, les
+"Pas trop jeunes pour *elles*," dit Drago. Il renifla. "Ah, les
 *filles !*"
 
 Ils marchèrent en silence jusqu'au bord du toit.
 
-"Donc *je* fais ça par vengeance contre toi," dit Draco, "mais pourquoi
+"Donc *je* fais ça par vengeance contre toi," dit Drago, "mais pourquoi
 est-ce que *tu* le fais ?"
 
 L'esprit de Harry fit un calcul éclair, pesant les facteurs, décidant
@@ -87,12 +87,12 @@ Il y eut une pause.
 
 Puis -
 
-"Ouais," dit Draco. "Je comprends."
+"Ouais," dit Drago. "Je comprends."
 
 Harry ne sourit pas. Ça avait peut-être été le non-sourire le plus
 difficile de toute sa vie.
 
-Draco observa le rebord du toit et fit une grimace. "Ça va être beaucoup
+Drago observa le rebord du toit et fit une grimace. "Ça va être beaucoup
 plus difficile à faire exprès que par accident."
 
  
@@ -111,10 +111,10 @@ le dire à votre esprit inconscient.
 C'était tout aussi effrayant que ce que Harry avait imaginé que ça avait
 dû être pour Hermione, ce qui était fort juste, en somme.
 
-"Draco," dit Harry, il avait du mal à contrôler sa voix mais les filles
+"Drago," dit Harry, il avait du mal à contrôler sa voix mais les filles
 de Serdaigle lui avaient donné un script, "Tu dois me laisser tomber !"
 
-"D'accord !" dit Draco, et il lâcha le bras de Harry.
+"D'accord !" dit Drago, et il lâcha le bras de Harry.
 
 L'autre main de Harry s'accrocha désespérément au rebord, puis, sans
 qu'aucune décision n'ait été prise, ses doigts lui firent défaut et il
@@ -321,7 +321,7 @@ le cœur de l'interrompre plus directement.
 
 "Et c'est là que," dit Remus, les yeux brillants, "James réussit un
 *triple Plongeon renversé de Mulhanney* avec *effet coupé !* Toute la
-foule est partie en délire, même certains des Poufsouffles acclamaient
+foule est partie en délire, même certains des Poufsouffle acclamaient
 -"
 
 *J'imagine qu'il fallait être là*, pensa Harry - non que cela aurait

@@ -845,7 +845,7 @@ fuligineux de la Cape d'Invisibilité avant de l'offrir à Hermione pour
 la dernière fois. Harry dut forcer les mots à sortir : "C'est la
 Véritable Cape d'Invisibilité," dit-il en chuchotant presque, "la
 Relique de la Mort transmise par Ignotus Peverell à ses descendants puis
-aux Potters. Et maintenant, à toi…"
+aux Potter. Et maintenant, à toi…"
 
 "Harry !" s'exclama Hermione. Elle plaqua ses bras contre sa poitrine
 comme pour se protéger de l'attaque du cadeau. "Tu n'as pas à faire
@@ -948,7 +948,7 @@ gestes gracieux malgré le tremblement de ses doigts.
 
 "Voyons voir, quoi d'autre… le serment que tu as prêté à la maison
 Potter ne t'engageait que 'jusqu'au jour de ta mort', donc tu en es
-libérée. Et juste après ta mort, je me suis arrangé pour que les Malfoys
+libérée. Et juste après ta mort, je me suis arrangé pour que les Malfoy
 déclarent publiquement que tu étais innocente de tous les chefs
 d'accusations."
 

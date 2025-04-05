@@ -88,7 +88,7 @@ théorie ; mais enfin, puisqu'il s'agissait d'une déduction du
 Le professeur de Défense se contentait de regarder Harry, paupières
 légèrement baissées, comme en signe d'impatience.
 
-"Et oui," dit Harry, "je *suis* certain que Draco Malfoy n'est pas
+"Et oui," dit Harry, "je *suis* certain que Drago Malfoy n'est pas
 derrière ça."
 
 Un sifflement d'air expiré, comme un soupir. "Il est le fils de Lucius
@@ -98,10 +98,10 @@ son masque glissait et où vous croyiez avoir vu la vérité derrière
 celui-ci : tout cela peut aussi bien faire partie du visage qu'il
 choisit de vous montrer."
 
-*Seulement si Draco est capable de réussir à lancer un Patronus
+*Seulement si Drago est capable de réussir à lancer un Patronus
 uniquement pour garder sa couverture*. Mais Harry ne dit bien sûr pas
 cela à voix haute ; il eut juste un léger sourire et dit : "Donc soit
-vous n'avez *vraiment* jamais lu dans l'esprit de Draco, soit c'est
+vous n'avez *vraiment* jamais lu dans l'esprit de Drago, soit c'est
 juste ce que vous voulez que je croie."
 
 Il y eut un silence. L'une des mains se retourna et, d'un doigt, fit
@@ -250,7 +250,7 @@ ceux qui feraient du mal à Tracey Davis, peu importe ce qu'elle faisait
 à ce moment là, allaient, je cite, apprendre le véritable sens du mot
 chaos, fin de citation.
 
-C'est grâce à une maîtrise de lui-même considérable que Draco Malfoy
+C'est grâce à une maîtrise de lui-même considérable que Drago Malfoy
 parvint à s'empêcher de frapper sa tête plusieurs fois de suite contre
 son assiette remplie de pain grillé.
 
@@ -1182,7 +1182,7 @@ le cerveau de Daphné continuait encore : *Quoi ? Quoi ? Quoi ?*
 
 La salle était silencieuse et attendait que le professeur Rogue arrive.
 Lavande et Parvati étaient assises près d'un groupe d'autres
-Gryffondors, tous entourés de regards silencieux. Deux d'entre eux se
+Gryffondor, tous entourés de regards silencieux. Deux d'entre eux se
 corrigeaient mutuellement leurs devoirs avant le début du cours et
 personne ne leur parlait ni ne les aidait. Même Lavande, au sujet de
 laquelle Daphné aurait pu jurer que rien ne pouvait l'intimider,
@@ -1221,7 +1221,7 @@ moi !"
 L'annonce donna naissance à un silence glacé qui s'empara de toute la
 salle.
 
-"Excusez-moi, Mlle Davis," dit la voix cultivée de Draco Malfoy, qui
+"Excusez-moi, Mlle Davis," dit la voix cultivée de Drago Malfoy, qui
 semblait indifférent et relisait ses parchemins de potions. Cet autre
 héritier d'une maison Très Ancienne ne leva pas les yeux de son bureau
 même lorsque tout le monde se tourna pour le regarder. "Harry Potter
@@ -1314,17 +1314,17 @@ exécrables et rien ne les rend jamais heureux. Ils sont pleins
 "Dommage," dit Dean Thomas. "Tu es obligée maintenant que ton âme est
 partie."
 
-Pansy se retourna et tendit une main suppliante vers le bureau de Draco
-Malfoy. "Draco !" dit-elle d'un ton plaidant. "M. Malfoy ! S'il vous
+Pansy se retourna et tendit une main suppliante vers le bureau de Drago
+Malfoy. "Drago !" dit-elle d'un ton plaidant. "M. Malfoy ! S'il vous
 plaît, forcez Tracey à me rendre mon âme !"
 
 "Je ne peux pas," dit Tracey. "Je l'ai *mangée*."
 
 "Forcez-la à la vomir !" s'écria Pansy.
 
-L'héritier des Malfoys s'était effondré en avant et sa tête reposait
+L'héritier des Malfoy s'était effondré en avant et sa tête reposait
 entre ses mains pour que personne ne puisse voir son visage. "Pourquoi
-ma vie est-elle ainsi ?" dit Draco Malfoy.
+ma vie est-elle ainsi ?" dit Drago Malfoy.
 
 Un babillage de chuchotements incontrôlable commença à mesure que Tracey
 revenait à son bureau et souriait d'un air satisfait tandis que Pansy se

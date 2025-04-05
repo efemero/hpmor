@@ -14,7 +14,7 @@ ambiante, comme Harry pouvait l'entendre, avait trait au Quidditch ; un
 environnement sonore relativement pire que le bruit de tronçonneuses
 rouillées, mais supérieure aux imbécillités que la table Serdaigle
 racontait encore sur Hermione. Au moins Gryffondor avait initialement
-été moins sensible à la cause de Draco Malfoy et avait plus de raisons
+été moins sensible à la cause de Drago Malfoy et avait plus de raisons
 politiques de souhaiter que tout le monde se contente d'oublier certains
 faits malheureux ; et si ce n'était pas une bonne raison de se taire, au
 moins ils faisaient silence. Dean, Seamus et Lavande étaient tous partis
@@ -291,7 +291,7 @@ cette foule, parmi les élèves plus âgés.
 
 Tic.
 
-Harry regarda alors vers les Poufsouffles pour voir s'il pouvait repérer
+Harry regarda alors vers les Poufsouffle pour voir s'il pouvait repérer
 Neville, et bien que ce dernier soit debout derrière un élève beaucoup
 plus grand, le centre de traitement visuel de Harry parvint à le voir
 presque immédiatement. Hermione n'était pas non plus avec les
@@ -362,7 +362,7 @@ Tic.
 Puis l'idée vint à Harry que quelqu'un avait déjà essayé de faire
 accuser Hermione Granger de meurtre en utilisant des sortilèges de faux
 souvenir. À l'intérieur de Poudlard, sans déclencher d'alarme. En
-s'arrangeant pour que Draco meure si lentement que le système de
+s'arrangeant pour que Drago meure si lentement que le système de
 sécurité ne se déclenche qu'au moins six heures plus tard, quand
 personne ne pourrait utiliser un Retourneur de Temps pour voir ce qui
 s'était passé. Et que quiconque était assez intelligent pour faire

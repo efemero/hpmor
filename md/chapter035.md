@@ -97,7 +97,7 @@ fixa en retour sans ciller.
 idiots qui ont élu Cornelius Fudge ne s'intéressent pas aux complexités
 et à la prudence. Présentez leur quelque chose de plus nuancé qu'une
 acclamation rugissante et vous ferez face à votre guerre tout seul.
-*Cela*, M. Potter, a constitué votre erreur puérile, que Draco Malfoy
+*Cela*, M. Potter, a constitué votre erreur puérile, que Drago Malfoy
 n'aurait pas faite à huit ans. Cela aurait dû être évident, même pour
 *vous*, que vous auriez dû rester silencieux et *me consulter avant* au
 lieu de mentionner vos inquiétudes devant la foule !"
@@ -433,7 +433,7 @@ Blaise recula maladroitement, sentant une étrange réticence à l'idée de
 lui tourner le dos.
 
 Le chapeau s'inclina. "Oh, allons, petit Serpentard. Si tu étais
-vraiment l'égal de Harry Potter ou Draco Malfoy, tu te serais déjà rendu
+vraiment l'égal de Harry Potter ou Drago Malfoy, tu te serais déjà rendu
 compte que mes menaces voilées n'avaient pour but que d'assurer ton
 silence face à Albus. Aurais-je eu l'intention de te faire du mal, je
 n'aurais pas fait de sous-entendu ; si je n'avais rien dit, *alors* tu
@@ -546,7 +546,7 @@ exprès, Mlle Granger, mais je pense… eh bien, il *est* probablement vrai
 que le directeur a du mal à se souvenir de ce que c'est que d'être un
 enfant. Même lorsqu'il en était un, je suis sûre qu'il devait être
 brillant, un esprit et un cœur fort, avec assez de courage pour trois
-Gryffondors. Parfois le directeur en demande trop de la part de ses
+Gryffondor. Parfois le directeur en demande trop de la part de ses
 jeunes élèves, Mlle Granger, ou il ne prend pas assez de précautions
 pour qu'ils ne souffrent pas. C'est un homme bon, mais parfois ses
 intrigues peuvent aller trop loin."
@@ -569,7 +569,7 @@ Le professeur McGonagall se pencha au-dessus de son bureau. L'inquiétude
 s'agit pas de courage, il s'agit de ce qui est bon pour des jeunes
 filles ! Le directeur vous attire dans ses intrigues, Harry Potter vous
 donne des secrets à garder, et maintenant vous faites des alliances avec
-Draco Malfoy ! Et j'ai promis à votre mère que vous seriez en sécurité à
+Drago Malfoy ! Et j'ai promis à votre mère que vous seriez en sécurité à
 Poudlard !"
 
 Hermione ne savait tout simplement pas quoi répondre à cela. Mais l'idée
@@ -591,55 +591,55 @@ plus longtemps."
 
  
 
-*Après-coup, Draco Malfoy* *:*
+*Après-coup, Drago Malfoy* *:*
 
 Presque aucun d'eux ne voulait faire quoi que ce soit de compliqué ce
-samedi, pas après avoir combattu plus tôt. Alors Draco était juste assis
+samedi, pas après avoir combattu plus tôt. Alors Drago était juste assis
 dans une salle inoccupée et essayait de lire un livre intitulé *Penser
-la physique*. C'était une des choses les plus fascinantes que Draco
+la physique*. C'était une des choses les plus fascinantes que Drago
 avait lues de sa vie, du moins les parties qu'il pouvait comprendre, du
 moins quand le *maudit imbécile* qui refusait de laisser ses livres
 sortir de son champ de vision parvenait à se la *fermer* et à laisser
-Draco se *concentrer* -
+Drago se *concentrer* -
 
 "Hermione Granger est une *Sang-de-Bouuurbe*," chanta Harry Potter
-depuis un bureau non loin de celui de Draco, lisant lui-même un livre
+depuis un bureau non loin de celui de Drago, lisant lui-même un livre
 beaucoup plus pointu.
 
-"Je sais ce que tu essaies de faire," dit calmement Draco sans lever les
+"Je sais ce que tu essaies de faire," dit calmement Drago sans lever les
 yeux de son livre. "Ça ne va pas marcher. On va quand même s'allier et
 t'écraser."
 
 "Un *Maaaalfoy* travaille avec une *Sang-de-Bouuurbe*, qu'est-ce-que
 tous les *amiiiis* de ton père vont penser -"
 
-"Ils penseront que les Malfoys ne sont pas aussi simple à manipuler que
+"Ils penseront que les Malfoy ne sont pas aussi simple à manipuler que
 *tu* sembles le croire, *Potter* !"
 
 Le professeur de Défense était encore plus fou que Dumbledore, aucun
 futur sauveur du monde n'aurait pu être si *puérile* et *indigne* à
 quelque âge que ce soit.
 
-"Eh Draco, tu sais ce qui va être vraiment chiant ? *Tu* sais que
+"Eh Drago, tu sais ce qui va être vraiment chiant ? *Tu* sais que
 Hermione Granger a deux copies de l'allèle magique, comme toi et moi,
 mais tous tes camarades de Serpentard ne le savent pas et *tuuuuuu* n'as
 pas le droit de *l'expliqueeeer* -"
 
-Les doigts de Draco blanchissaient là où ils serraient le livre. Il
+Les doigts de Drago blanchissaient là où ils serraient le livre. Il
 était impossible que se faire battre puis cracher dessus exige un tel
 contrôle de soi, et s'il ne se vengeait pas rapidement, il allait faire
 quelque chose d'incriminant -
 
-"Et qu'est-ce que *tu* as souhaité la première fois ?" dit Draco.
+"Et qu'est-ce que *tu* as souhaité la première fois ?" dit Drago.
 
-Harry ne répondit rien, alors Draco leva les yeux de son livre et sentit
+Harry ne répondit rien, alors Drago leva les yeux de son livre et sentit
 un tiraillement de satisfaction malsaine à la vue de l'air triste sur le
 visage de Harry.
 
 "Hmm," dit Harry. "Beaucoup de gens m'ont demandé ça, mais je ne pense
 pas que le professeur Quirrell aurait voulu que j'en parle."
 
-Draco se donna un air sérieux. "Tu peux m'en parler à *moi*. Ce n'est
+Drago se donna un air sérieux. "Tu peux m'en parler à *moi*. Ce n'est
 probablement pas important comparé aux autres secrets que tu m'as
 révélés, et à quoi d'autres les amis servent-ils ?" *C'est ça, je suis
 ton ami ! Sens-toi coupable !*
@@ -655,7 +655,7 @@ Puis il dit, quelques secondes plus tard : "Ton père va probablement
 la fille Sang-de-Bourbe et que tu balaieras son armée, tout reviendra
 dans l'ordre et tu auras quand même tes cadeaux de Noël."
 
-Peut-être que si Draco et Granger le demandaient super poliment au
+Peut-être que si Drago et Granger le demandaient super poliment au
 professeur Quirrell et qu'ils utilisaient une partie de leurs points
 Quirrell, ils recevraient le droit de faire quelque chose d'un peu plus
 intéressant au général Chaos que de simplement l'endormir. 

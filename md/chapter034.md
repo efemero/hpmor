@@ -40,13 +40,13 @@ peut-être n'était-ce que leur humeur qui était à l'œuvre.
 
 "*Assez*," dit Granger. "J'en ai *assez* ! Plus de traîtres !"
 
-"Je suis entièrement d'accord avec vous, Mlle Granger," dit Draco d'un
+"Je suis entièrement d'accord avec vous, Mlle Granger," dit Drago d'un
 ton de glace. "Trop, c'est trop."
 
 "Et qu'est que *vous* comptez y faire ?" lâcha Harry Potter. "Le
 professeur Quirrell a déjà dit qu'il ne bannirait pas les espions !"
 
-"Nous les bannirons *pour* lui," dit Draco d'un ton sinistre. Il n'avait
+"Nous les bannirons *pour* lui," dit Drago d'un ton sinistre. Il n'avait
 même pas compris ce qu'il avait voulu dire lorsqu'il avait prononcé ces
 mots, mais l'acte de parler semblait avoir cristallisé un plan -
 
@@ -59,12 +59,12 @@ mots, mais l'acte de parler semblait avoir cristallisé un plan -
 La scène était bien réalisée, du moins pour un structure temporaire ;
 ses fabricants n'étaient pas tombés dans le piège habituel qui
 consistait à être impressionné par sa propre illusion de richesse, et
-ils s'y connaissaient en architecture et en style. De là où Draco se
+ils s'y connaissaient en architecture et en style. De là où Drago se
 tenait, l'endroit où il fallait évidemment qu'il se tienne, les
 étudiants qui le regarderaient le verraient entouré du halo né du léger
-scintillement des émeraudes ; et Granger, se tenant là où Draco l'avait
+scintillement des émeraudes ; et Granger, se tenant là où Drago l'avait
 subtilement placée, serait entourée du halo des saphirs Serdaigle. Quant
-à Harry Potter, Draco évitait pour l'instant de le regarder.
+à Harry Potter, Drago évitait pour l'instant de le regarder.
 
 Le professeur Quirrell s'était… éveillé, enfin il avait fait ce qu'il
 faisait d'habitude ; et il s'appuyait sur un podium de platine vide de
@@ -85,17 +85,17 @@ juste. Mais avant il y a un petit discours que je voudrais prononcer, et
 encore avant, il semble que M. Malfoy et Mlle Granger veuillent vous
 faire part quelque chose."
 
-Draco cligna des yeux, puis lui et Granger échangèrent des regards
-rapides - *je peux* - *oui, vas-y* - et Draco éleva la voix.
+Drago cligna des yeux, puis lui et Granger échangèrent des regards
+rapides - *je peux* - *oui, vas-y* - et Drago éleva la voix.
 
-"Le général Granger et moi voudrions tous les deux dire," dit Draco de
+"Le général Granger et moi voudrions tous les deux dire," dit Drago de
 sa voix la plus formelle, sachant qu'elle était amplifiée et entendue,
 "que nous n'accepterons plus l'aide d'aucun traître. Et si, à quelque
 bataille que ce soit, nous découvrons que Potter a accepté des traîtres
 venus de n'importe laquelle de nos armées, nous joindrons nos forces
 pour l'écraser."
 
-Et Draco jeta un regard de pure méchanceté au Survivant. *Prends ça,
+Et Drago jeta un regard de pure méchanceté au Survivant. *Prends ça,
 général Chaos !*
 
 Il y eut un susurrement de surprise chez les étudiants.
@@ -113,16 +113,16 @@ Quirrell en cette occasion, mais attendez-vous à en perdre cinquante la
 prochaine fois." Le professeur Quirrell avait un sourire amusé. "Et
 qu'avez-vous à dire à cela, M. Potter ?"
 
-Le regard de Harry Potter passa de Granger à Draco. Son visage semblait
-calme ; même si Draco était certain que *maîtrisé* aurait été un
+Le regard de Harry Potter passa de Granger à Drago. Son visage semblait
+calme ; même si Drago était certain que *maîtrisé* aurait été un
 meilleur terme.
 
 Harry Potter parla enfin, sa voix stable. "La légion du Chaos est
 toujours ravie d'accepter les traîtres. On se verra sur le champ de
 bataille."
 
-Draco savait que le choc était visible sur son visage ; il y eut des
-murmures abasourdis chez les étudiants, et lorsque Draco jeta un coup
+Drago savait que le choc était visible sur son visage ; il y eut des
+murmures abasourdis chez les étudiants, et lorsque Drago jeta un coup
 d'œil au premier rang il vit que même les chaotiques de Harry avaient
 été pris par surprise.
 
@@ -137,30 +137,30 @@ m'avez pas demandé de vous rejoindre, vous avez simplement essayé
 d'imposer votre volonté ; et parfois il faut vraiment vaincre l'ennemi
 pour pouvoir lui imposer sa volonté. Voyez-vous, je suis sceptique à
 l'idée que Hermione Granger, la plus grande star de Poudlard dans le
-domaine scolaire, et Draco, fils de Lucius, scion de l'Ancienne et Noble
+domaine scolaire, et Drago, fils de Lucius, scion de l'Ancienne et Noble
 maison Malfoy, puissent travailler ensemble pour vaincre leur ennemi
 commun, Harry Potter." Un sourire amusé passa sur le visage de Harry
-Potter. "Peut-être que je ferai juste ce que Draco a essayé de faire
+Potter. "Peut-être que je ferai juste ce que Drago a essayé de faire
 avec Zabini et que j'écrirai une lettre à Lucius Malfoy pour voir ce
 qu'*il* pense de ça."
 
 "*Harry* *!*" s'étrangla Hermione, l'air absolument atterrée, et il y
 eut aussi des bruits d'étranglements venant de l'audience.
 
-Draco contrôla la colère qui se déversait en lui. Dire cela en public
+Drago contrôla la colère qui se déversait en lui. Dire cela en public
 avait été un coup *stupide* de la part de Harry. Si Harry l'avait
-simplement *fait*, cela aurait pu fonctionner, même Draco n'y avait pas
+simplement *fait*, cela aurait pu fonctionner, même Drago n'y avait pas
 pensé, mais *maintenant*, si Père obtempérait, il aurait l'air de jouer
 le jeu de Harry -
 
 "Si vous pensez que mon père Lord Malfoy peut-être manipulé par *vous*
-si facilement," dit Draco avec froideur, "attendez-vous à être surpris,
+si facilement," dit Drago avec froideur, "attendez-vous à être surpris,
 Harry Potter."
 
-Puis Draco se rendit compte, alors que les mots achevaient de quitter sa
+Puis Drago se rendit compte, alors que les mots achevaient de quitter sa
 bouche, qu'il venait de coincer *son propre père*, plus ou moins sans le
 vouloir. Père n'allait probablement *pas* aimer ça, pas le moins du
-monde, mais il lui serait maintenant impossible de le dire… Draco allait
+monde, mais il lui serait maintenant impossible de le dire… Drago allait
 devoir s'excuser, ça *avait* été un accident sincère, mais il lui était
 malgré tout étrange de penser qu'il l'avait fait.
 
@@ -169,7 +169,7 @@ l'air toujours amusé. "Je ne peux pas gagner contre vos deux armées -
 pas si vous travaillez *vraiment* ensemble. Mais je me demande si je
 pourrais peut-être vous séparer avant cela."
 
-"Tu n'y arriveras pas, et nous *t'écraserons* !" dit Draco Malfoy.
+"Tu n'y arriveras pas, et nous *t'écraserons* !" dit Drago Malfoy.
 
 Et, à côté de lui, Hermione hocha vigoureusement la tête.
 
@@ -294,7 +294,7 @@ des Ténèbres a péri, Lucius Malfoy n'a pas uni les Mangemorts, ils ont
 sont trahis les uns les autres ! Lucius n'est pas assez fort pour être
 un vrai Seigneur, des Ténèbres ou pas."
 
-Les poings de Draco Malfoy étaient blancs, il y avait des larmes dans
+Les poings de Drago Malfoy étaient blancs, il y avait des larmes dans
 ses yeux, et de la furie, et une honte insupportable.
 
 "Non," dit le professeur Quirrell. "Je ne pense pas que Lucius Malfoy
@@ -368,12 +368,12 @@ et que la tension se relâchait.
 
  
 
-Dans l'esprit de Draco tourbillonnaient encore mille questions entourées
+Dans l'esprit de Drago tourbillonnaient encore mille questions entourées
 d'une stupeur horrifiée, alors que le professeur Quirrell se préparait à
 ouvrir les enveloppes dans lesquelles les trois avaient inscrit leurs
 vœux.
 
-Il n'était jamais venu à l'esprit de Draco que les Moldus qui savaient
+Il n'était jamais venu à l'esprit de Drago que les Moldus qui savaient
 voyager jusqu'à la Lune étaient une plus grande menace que le lent
 déclin de la sorcellerie, ni que Père s'était révélé trop faible pour
 les arrêter.
@@ -382,7 +382,7 @@ Et plus étrange encore, l'implication évidente : le professeur Quirrell
 pensait que *Harry* en était capable. Le professeur de Défense clamait
 n'avoir fait aucune recommandation, mais il avait mentionné Harry Potter
 encore et encore au fil de son discours ; d'autres pensaient
-probablement déjà à la même chose que Draco.
+probablement déjà à la même chose que Drago.
 
 C'était ridicule. Ce garçon avait recouvert un fauteuil rembourré de
 paillettes et avait appelé ça un trône -
@@ -401,7 +401,7 @@ propres pouvoirs de sorciers.*
 Mais s'il refuse ? Et s'il est trop faible ?
 
 *Alors*, dit cette voix intérieure, *ce devra être toi, n'est-ce pas,
-Draco Malfoy ?*
+Drago Malfoy ?*
 
 Et il y eut un nouveau silence dans la foule lorsque le professeur
 Quirrell ouvrit la première enveloppe.
@@ -411,7 +411,7 @@ gagne la coupe des Maisons."
 
 Il y eut un moment d'arrêt interloqué venant de l'audience attentive.
 
-"Oui, professeur," dit Draco d'une voix claire, sachant qu'elle serait
+"Oui, professeur," dit Drago d'une voix claire, sachant qu'elle serait
 de nouveau amplifiée. "Si vous ne le pouvez pas, alors autre chose pour
 Serpentard -"
 
@@ -420,7 +420,7 @@ Il se tapota une joue, l'air pensif. "Ce qui rend votre vœu assez
 difficile pour être intéressant. Voudriez-vous dire quelques mots quant
 à vos raisons, M. Malfoy ?"
 
-Draco se tourna vers le professeur de Défense, parcourut la foule du
+Drago se tourna vers le professeur de Défense, parcourut la foule du
 regard depuis la scène de platine et d'émeraudes. Tout Serpentard
 n'avait pas acclamé l'armée Dragon, il y avait même des factions
 anti-Malfoy qui avaient exprimées leur insatisfaction en soutenant le
@@ -429,7 +429,7 @@ encouragées par ce que Zabini avait fait. Il fallait qu'il leur rappelle
 que Serpentard voulait dire Malfoy et que Malfoy voulait dire Serpentard
 -
 
-"Non," dit Draco. "Ce sont des Serpentard, ils comprendront."
+"Non," dit Drago. "Ce sont des Serpentard, ils comprendront."
 
 Il y eut des rires venant de l'audience, en particulier chez les
 Serpentard, même chez certains élèves qui se seraient dit anti-Malfoy un
@@ -437,7 +437,7 @@ moment plus tôt.
 
 La flatterie était une chose bien délicieuse.
 
-Draco se tourna afin de regarder le professeur Quirrell de nouveau, et
+Drago se tourna afin de regarder le professeur Quirrell de nouveau, et
 il eut la surprise de voir un air embarrassé sur le visage de Granger.
 
 "Et pour Mlle Granger…" dit le professeur Quirrell. Il y eut le bruit
@@ -445,7 +445,7 @@ d'une enveloppe déchirée. "Votre vœu est que… Serdaigle gagne la coupe
 des Maisons ?"
 
 Il y eut une hilarité considérable venant de l'audience, y compris un
-gloussement de Draco. Il n'avait pas pensé que Granger aurait joué à ce
+gloussement de Drago. Il n'avait pas pensé que Granger aurait joué à ce
 jeu.
 
 "Eh bien, euh," dit Granger, l'air de soudain trébucher sur un discours
@@ -464,7 +464,7 @@ Maison vieille de huit cent ans."
 "Bien dit, Mlle Granger !", tonna la voix de Dumbledore.
 
 Harry Potter fronçait les sourcils, et quelque chose gratta à l'orée de
-la conscience de Draco.
+la conscience de Drago.
 
 "Un sentiment intéressant, Mlle Granger," dit le professeur Quirrell.
 "Mais il est bon, en certaines occasions, qu'un Serpentard ait des amis
@@ -477,7 +477,7 @@ enseignants et elle ne répondit pas.
 
 Le professeur Quirrell hocha la tête, comme s'il s'adressait à lui-même.
 Il se détourna vers le podium, puis il prit la dernière enveloppe et
-l'ouvrit. À côté de Draco, Harry se tendit visiblement lorsque le
+l'ouvrit. À côté de Drago, Harry se tendit visiblement lorsque le
 professeur Quirrell éleva le parchemin. "Et M. Potter souhaite que -"
 
 Il y eut une pause tandis que le professeur Quirrell regardait le
@@ -490,7 +490,7 @@ qui ne laissa qu'une poussière noire qui dériva loin de sa main.
 "Merci de vous en tenir au possible, M. Potter," dit le professeur
 Quirrell, d'un ton tout à fait sec.
 
-Il y eut une longue pause ; Harry, debout à côté de Draco, semblait
+Il y eut une longue pause ; Harry, debout à côté de Drago, semblait
 assez secoué.
 
 *Par Merlin, mais qu'est-ce qu'il a demandé* *?*
@@ -569,7 +569,7 @@ peu importe à quel point les règles sont stupides. Donc mon vœu, pour
 symboliser ce qui se passe lorsque les gens s'unissent dans la mauvaise
 direction, est qu'à Poudlard, on joue au Quidditch sans le Vif d'Or."
 
-"*QUOI ?"* hurlèrent cent voix dans la foule, et la mâchoire de Draco
+"*QUOI ?"* hurlèrent cent voix dans la foule, et la mâchoire de Drago
 s'affaissa.
 
 "Le Vif gâche tout le jeu," dit Harry Potter. "Tout ce que les autres
@@ -590,7 +590,7 @@ car l'émeute avait commencé.
 
 L'émeute prit fin environ quinze secondes plus tard, après qu'un
 gigantesque jet de feu ait jailli de la plus haute tour de Poudlard, au
-son de milles tonnerres. Draco n'avait pas su que Dumbledore pouvait
+son de milles tonnerres. Drago n'avait pas su que Dumbledore pouvait
 *faire* ça.
 
 Les élèves se rassirent avec beaucoup de précaution et de calme.
@@ -600,7 +600,7 @@ Potter. Votre volonté sera faite." Le professeur Quirrell s'interrompit
 délibérément. "Bien sûr, j'ai seulement promis *un* fourbe complot. Et
 c'est tout ce que vous trois aurez."
 
-Draco s'était presque attendu à ces mots un peu plus tôt, mais il fut
+Drago s'était presque attendu à ces mots un peu plus tôt, mais il fut
 malgré tout surpris ; il échangea des regards rapides avec Granger, ils
 auraient évidemment dû être alliés, mais leurs vœux étaient directement
 opposés l'un à l'autre -
@@ -611,7 +611,7 @@ d'accord sur un vœu ?"
 "Oh, ce serait bien *trop* vous demander," dit le professeur Quirrell.
 "Vous trois n'avez pas d'ennemi commun, que je sache ?"
 
-Et pendant un bref instant, si vite que Draco se demanda s'il aurait pu
+Et pendant un bref instant, si vite que Drago se demanda s'il aurait pu
 l'imaginer, les yeux du professeur de Défense clignèrent vers
 Dumbledore.
 
@@ -621,7 +621,7 @@ vœux au moyen d'une seule intrigue."
 Il y eut un silence confus.
 
 "Vous ne pouvez pas faire ça," dit catégoriquement Harry, à côté de
-Draco. "Même *moi* je ne peux pas le faire. Deux de ces vœux sont
+Drago. "Même *moi* je ne peux pas le faire. Deux de ces vœux sont
 mutuellement incompatibles. C'est *logiquement impossible* -" puis Harry
 s'interrompit.
 
@@ -637,6 +637,6 @@ longtemps morte par la main du Seigneur des Ténèbres. Je vous verrai
 tous lorsque les cours reprendront."
 
 Dans le silence absolu qui suivit ces mots, le professeur Quirrell
-marchant déjà vers la sortie de la scène, Draco entendit la voix du
+marchant déjà vers la sortie de la scène, Drago entendit la voix du
 professeur Quirrell dire, doucement, sans amplification, "Mais avec
 vous, M. Potter, je vais m'entretenir immédiatement." 

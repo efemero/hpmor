@@ -870,7 +870,7 @@ dépassait 0,01.
 
 Et il y avait la prophétie… qui avait peut-être *initialement* contenu
 un passage disant que le Seigneur des Ténèbres mourrait *immédiatement*
-s'il se confrontait aux Potters. Qu'Albus Dumbledore aurait ensuite ôté
+s'il se confrontait aux Potter. Qu'Albus Dumbledore aurait ensuite ôté
 de la mémoire de McGonagall afin de mener le Seigneur des Ténèbres à sa
 perte. Si un tel passage n'existait *pas*, la prophétie avait *plus ou
 moins* l'air de dire que Vous-Savez-Qui et le Survivant étaient destinés
@@ -1772,7 +1772,7 @@ Cela fit réfléchir Harry. Peut-être était-ce juste le biais rétrospectif
 mais il *semblait* que cela densifiait une partie de la masse de
 probabilité de cette hypothèse autour de la prise au piège de Hermione
 plutôt que de quelqu'un d'autre. De même, le professeur *avait* prédit à
-l'avance que Dumbledore pourrait prendre Draco pour cible…
+l'avance que Dumbledore pourrait prendre Drago pour cible…
 
 *Mais si vous êtes derrière tout ça, professeur, vous pourriez avoir
 arrangé vos plans pour prendre le directeur au piège et avoir pris la
@@ -1807,7 +1807,7 @@ fait face à cette situation plus d'une dizaine de fois."
 Le professeur de Défense donnait à Harry un de ces *regards* mi-clos qui
 voulaient dire qu'il était stupide.
 
-*Draco* ? Draco avait été interrogé sous Veritaserum…mais Lucius
+*Drago* ? Drago avait été interrogé sous Veritaserum…mais Lucius
 pourrait avoir eu assez de pouvoir pour manipuler les Aurors afin que…
 oh.
 
@@ -1839,13 +1839,13 @@ abandonné dans un orphelinat après l'Incident du Projet Scientifique."
 
 Le professeur de Défense ne réagit absolument pas à cela.
 
-Harry continua. "À ce que Draco en dit, Lucius le faisait passer avant
+Harry continua. "À ce que Drago en dit, Lucius le faisait passer avant
 des votes importants au Magenmagot. C'est une observation importante,
 car il y existe des moyens moins chers de mimer l'amour ; si l'on
 souhaite le mimer. Et ce n'est pas comme si la probabilité à priori
 qu'un parent aime son enfant était *faible*. J'imagine qu'il est
 possible que Lucius ait juste prit le *rôle* d'un père aimant et qu'il
-ait renoncé à ce rôle après avoir appris que Draco fomentait avec des
+ait renoncé à ce rôle après avoir appris que Drago fomentait avec des
 nés-Moldus. Mais comme on dit, professeur, il faut distinguer la
 possibilité de la probabilité."
 
@@ -1896,7 +1896,7 @@ extérieure ait Légilimancé un employé de Poudlard – et qu'il lui ait
 lancé Oubliettes ensuite, personne n'oublierait de faire ça. Mais je ne
 pense *pas* que Lucius Malfoy est un candidat probable au titre de
 cerveau de l'affaire. Il est possible, mais pas probable, que l'amour
-apparent de Lucius pour Draco n'ait été qu'un sens du devoir et qu'il
+apparent de Lucius pour Drago n'ait été qu'un sens du devoir et qu'il
 soit depuis parti en fumée. Il est possible, mais pas probable, que tout
 ce que Lucius a fait face au Magenmagot n'ait été qu'un rôle.
 L'extérieur des gens ne ressemble pas toujours à ce qu'ils sont à
@@ -2423,7 +2423,7 @@ que se débarrasser de lui soit gratuit. Il a sauvé ma vie deux fois…"
 
 "Une fois il a assommé un groupe de sorcière qui m'attiraient vers le
 sol, une fois il a compris que le Détraqueur m'aspirait à travers ma
-baguette. Et si ce n'est *pas* le professeur Quirrell qui a piégé Draco
+baguette. Et si ce n'est *pas* le professeur Quirrell qui a piégé Drago
 en premier lieu, alors il lui a sauvé la vie et les choses iraient
 beaucoup plus mal s'il ne l'avait pas fait. Si le professeur de Défense
 n'est pas derrière tout ça - alors il n'est *pas* quelqu'un qu'on peut

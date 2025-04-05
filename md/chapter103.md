@@ -6,24 +6,24 @@
 Daphné Greengrass était dans la salle commune des Serpentard et écrivait
 une lettre à Dame sa mère (étonnamment intransigeante quant au partage
 de son pouvoir alors même qu'elle n'était *même pas* à Poudlard)
-lorsqu'elle vit Draco Malfoy entrer par le portrait en chancelant, avec
+lorsqu'elle vit Drago Malfoy entrer par le portrait en chancelant, avec
 dans les bras au moins douze livres ; Vincent et Grégory étaient
 derrière lui et en portaient une autre douzaine. L'Auror qui
 accompagnait Malfoy glissa sa tête par le passage puis s'en fut on ne
 sait où.
 
-Draco regarda autour de lui et une idée brillante sembla soudain le
+Drago regarda autour de lui et une idée brillante sembla soudain le
 frapper . Il s'avança, toujours chancelant, Vincent et Grégory derrière
 lui.
 
-"Est-ce que tu pourrais m'aider à les lire ?" demanda Draco en
+"Est-ce que tu pourrais m'aider à les lire ?" demanda Drago en
 s'approchant, le souffle un peu court.
 
 "Quoi." Il n'y avait plus de cours, seulement des examens, et depuis
 quand un *Malfoy* demandait-il de l'aide à une *Greengrass* pour ses
 devoirs ?
 
-"Voici," dit Draco d'un ton solennel, "tous les livres empruntés à la
+"Voici," dit Drago d'un ton solennel, "tous les livres empruntés à la
 bibliothèque par Granger entre le 1er et le 16 avril. Je pensais les
 parcourir au cas où l'un d'eux renfermerait un indice, mais je me suis
 dit que *tu* devrais peut-être participer, vu que tu la connaissais
@@ -33,7 +33,7 @@ Daphné fixa les livres du regard. "Le Général a lu tout ça en *deux
 semaines* ?" Une pointe de douleur traversa son cœur, mais elle la
 réprima.
 
-"Eh bien, je ne sais pas si elle les a tous finis," dit Draco. Il éleva
+"Eh bien, je ne sais pas si elle les a tous finis," dit Drago. Il éleva
 un index, comme pour appeler à la prudence. "En fait, je ne sais pas si
 elle a lu un seul de ces livres, ni même si elle les a vraiment
 empruntés. En fait, tout ce qu'on a *observé*, c'est que le registre de
@@ -46,7 +46,7 @@ sur leur cerveau était *bizarre*. "M. Malfoy, je ne pourrais pas lire
 ces livres même si j'y passais tout l'été;"
 
 "Alors essayez de juste les parcourir, s'il vous plaît ?" répondit
-Draco. "Surtout si on y trouve, tu sais, d'étranges notes de sa main, ou
+Drago. "Surtout si on y trouve, tu sais, d'étranges notes de sa main, ou
 un marque-page laissé à l'intérieur, ou…"
 
 "Oui, j'ai vu ces pièces aussi, M. Malfoy," dit Daphné en levant les
@@ -111,7 +111,7 @@ Daphné s'était calmée après quelques minutes de lecture frénétique. Ce
 n'était qu'un examen, pas une *mise à mort* ; et si presque tous les
 élèves de première année rendaient des parchemins quasi-vierges,
 personne n'aurait à avoir honte. Mais même sans partager leur opinion,
-Daphné pouvait comprendre que les Poufsouffle et les Serdaigles voient
+Daphné pouvait comprendre que les Poufsouffle et les Serdaigle voient
 les choses autrement.
 
 "Il est maléfique," dit un Serdaigle d'une voix tremblante. "Cent pour

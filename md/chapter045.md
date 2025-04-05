@@ -390,7 +390,7 @@ dignement, en le protégeant. Et ils l'avaient fait.
 Se rendre compte que Hermione tenait sa cadence, et courait même plus
 vite que lui, qu'ils pourraient être de vrais rivaux et des amis.
 
-Ruser Draco pour qu'il sorte des ténèbres, le regarder se déplacer
+Ruser Drago pour qu'il sorte des ténèbres, le regarder se déplacer
 lentement vers la lumière.
 
 Neville et Seamus et Lavande et Dean et tous ceux qui l'admiraient, tous
@@ -429,7 +429,7 @@ ici, maintenant, aux plus précoces des jours de l'aube, alors qu'il y
 avait encore tant de ténèbres à combattre, et des nuisances temporaires
 telles que les Détraqueurs.
 
-Maman et Papa, l'amitié de Hermione et le voyage de Draco, Neville et
+Maman et Papa, l'amitié de Hermione et le voyage de Drago, Neville et
 Seamus et Lavande et Dean, le ciel bleu et le soleil brillant et toutes
 les choses radieuses, la Terre, les étoiles, la promesse, tout ce que
 l'humanité était et tout ce qu'elle deviendrait…

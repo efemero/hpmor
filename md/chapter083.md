@@ -11,7 +11,7 @@ La rumeur disait que les Aurors avaient découvert que le professeur de
 Défense s'était polynectaré en Granger pour avoir Malfoy.
 
 La rumeur disait que Hermione avait été liée par Serment Inviolable à
-être l'esclave de Draco.
+être l'esclave de Drago.
 
 La rumeur disait que Hermione avait reçu le baiser du Détraqueur.
 

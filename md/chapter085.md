@@ -76,11 +76,11 @@ Dumbledore pensait que c'était Voldemort, revenu des morts, qui jouait
 son premier coup contre le garçon qui l'avait auparavant vaincu.
 
 Le professeur Quirrell avait mis en place des barrières de détection
-autour de Draco car il craignait que le directeur fou de Poudlard essaie
+autour de Drago car il craignait que le directeur fou de Poudlard essaie
 de faire tomber Harry pour la mort du fils de Lucius.
 
 Ou le professeur Quirrell avait tout orchestré et c'était pour *ça*
-qu'il avait su où trouver Draco. Severus Rogue pensait que le professeur
+qu'il avait su où trouver Drago. Severus Rogue pensait que le professeur
 de Défense de Poudlard était un suspect évident, et même *le* suspect
 évident.
 
@@ -88,12 +88,12 @@ Et Severus Rogue lui-même pouvait aussi bien être fiable qu'être tout le
 contraire.
 
 *Quelqu'un* avait fait une déclaration de guerre à Harry, son premier
-coup avait été de prendre à la fois Draco et Hermione, et ce n'était que
+coup avait été de prendre à la fois Drago et Hermione, et ce n'était que
 d'un cheveu que Harry avait sauvé Hermione.
 
-On ne pouvait pas appeler cela une victoire. Draco avait été soustrait à
+On ne pouvait pas appeler cela une victoire. Drago avait été soustrait à
 Poudlard, et sans être fatal, il n'était pas dit que ce fut réversible
-ou que Draco serait le même à son retour. L'Angleterre magique pensait
+ou que Drago serait le même à son retour. L'Angleterre magique pensait
 maintenant que Hermione avait commis une tentative de meurtre, ce qui
 pouvait la conduire à choisir d'agir de façon sensée et de partir. Harry
 avait sacrifié toute sa fortune pour éviter cette perte et une telle
@@ -120,7 +120,7 @@ s'empêcher de regrouper en constellations.
 
 Et puis il y avait cette promesse que Harry avait faite.
 
-Draco aiderait Harry à réformer Serpentard. Et Harry se ferait ennemi de
+Drago aiderait Harry à réformer Serpentard. Et Harry se ferait ennemi de
 celui ou celle qui, selon le jugement de Harry en sa capacité de
 rationaliste, avait tué Narcissa Malfoy. Si jamais elle s'était salie
 les mains, si elle avait vraiment été brûlée vive, si le tueur n'avait
@@ -138,7 +138,7 @@ Dumbledore s'en était attribué le mérite.
 
 Harry secoua la tête et plaqua un côté de ses cheveux puis l'autre
 contre le sol de pierre. Il avait toujours une dernière échappatoire,
-Draco pouvait à tout moment le libérer de sa promesse. Il pourrait au
+Drago pouvait à tout moment le libérer de sa promesse. Il pourrait au
 moins décrire la situation et discuter des options possibles avec lui
 lorsqu'il le verrait à nouveau. Cela ne semblait pas très probable –
 mais l'idée d'en parler honnêtement satisfaisait la partie de Harry qui

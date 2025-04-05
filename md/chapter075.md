@@ -280,7 +280,7 @@ enjambées vers la tour Serdaigle après être partie du dîner bien avant
 qu'il ne se termine. "Tout le monde sauf toi et moi, Harry, et je veux
 dire *tout le monde* à Poudlard sauf nous, ils sont tous complètement
 fous. Et les filles de Serdaigle sont les *pires*, je ne sais ce que les
-Serdaigles plus âgées se mettent à lire quand elles grandissent mais je
+Serdaigle plus âgées se mettent à lire quand elles grandissent mais je
 suis certaine que ça n'est pas bon pour elles. Une sorcière nous a
 demandé si on avait lié nos âmes, et je vais faire des recherches à la
 bibliothèque cette nuit mais je suis relativement certaine que ça ne

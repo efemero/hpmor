@@ -47,14 +47,14 @@ remplir. Harry les ignora.
 
 "Potter ? Qu'est-ce que *tu* fais dans cette classe ?"
 
-*Cette* voix n'aurait pas dû être ici. Harry releva les yeux. "Draco ?
+*Cette* voix n'aurait pas dû être ici. Harry releva les yeux. "Drago ?
 Qu'est-ce que *tu* fais dans ma oh mon dieu tu as des *laquais*."
 
-L'un des garçons qui se tenaient derrière Draco semblait être vraiment
+L'un des garçons qui se tenaient derrière Drago semblait être vraiment
 très musclé pour un enfant de onze ans, et l'autre maintenait une
 posture suspicieusement équilibrée.
 
-Draco sourit avec beaucoup de suffisance et fit un geste vers l'arrière.
+Drago sourit avec beaucoup de suffisance et fit un geste vers l'arrière.
 "Potter, je te présente M. Crabbe," sa main passa de Muscles à
 Équilibre, "et M. Goyle. Vincent, Gregory, voici Harry Potter."
 
@@ -64,13 +64,13 @@ Crabbe dit "Ravi d'fair vot' connaissance," d'un ton qui laissait penser
 qu'il essayait de forcer sa voix vers des octaves aussi basses que
 possibles.
 
-Une expression consternée passa de façon fugace sur le visage de Draco,
+Une expression consternée passa de façon fugace sur le visage de Drago,
 mais fut rapidement remplacée par un air supérieur.
 
 "Tu as des *laquais* !" répéta Harry. "Où est-ce que *je* peux avoir des
 laquais ?"
 
-L'air supérieur de Draco se renforça. "Potter, j'ai bien peur que pour
+L'air supérieur de Drago se renforça. "Potter, j'ai bien peur que pour
 ça, la première étape ne soit d'être réparti à Serpentard -"
 
 "Quoi ? Ce n'est pas juste !"
@@ -94,7 +94,7 @@ bouche, l'air toujours menaçant.
 connaître tes gardes du corps, et que tu ne devais les rencontrer qu'au
 premier jour d'école."
 
-Cela fit disparaître l'air supérieur du visage de Draco. "Oui, Potter,
+Cela fit disparaître l'air supérieur du visage de Drago. "Oui, Potter,
 on sait tous que tu es brillant, toute l'école est au courant
 maintenant, tu peux arrêter de frimer -"
 
@@ -102,7 +102,7 @@ maintenant, tu peux arrêter de frimer -"
 et ils ont passé des *années* à s'imaginer à quoi des laquais sont
 censés ressembler -"
 
-Draco grimaça.
+Drago grimaça.
 
 "- et le pire, c'est qu'ils *se connaissent* et qu'ils se sont
 *entraînés* -"
@@ -116,18 +116,18 @@ craquer les jointures de l'autre.
 Ils eurent tous deux l'air un peu penaud et M. Goyle remit le cure-dent
 dans ses robes avec précipitation.
 
-Mais à l'instant où Draco se détourna d'eux pour faire à nouveau face à
+Mais à l'instant où Drago se détourna d'eux pour faire à nouveau face à
 Harry, ils reprirent leur air menaçant.
 
-"Je m'excuse," dit Draco avec raideur, "pour l'insulte que ces
+"Je m'excuse," dit Drago avec raideur, "pour l'insulte que ces
 *imbéciles* t'ont fait subir."
 
 Harry jeta un regard lourd de sens à M. Crabbe et à M. Goyle. "Je dirais
-que tu es un peu dur avec eux, Draco. *Je* pense que c'est exactement
+que tu es un peu dur avec eux, Drago. *Je* pense que c'est exactement
 comme ça que je voudrais voir *mes* laquais agir. Enfin, si j'avais des
 laquais."
 
-La mâchoire de Draco se décrocha.
+La mâchoire de Drago se décrocha.
 
 "Eh, Gregory, tu penserais pas qu'y essaie d'nou zappâter loin du
 boss ?"
@@ -143,7 +143,7 @@ offres pendant qu'on négocie ses conditions de travail, n'est-ce pas ?"
 
 "Je n'en ai pas la moindre idée, M. Crabbe."
 
-"*Taisez vous* tous les deux," dit Draco à travers des dents grinçantes.
+"*Taisez vous* tous les deux," dit Drago à travers des dents grinçantes.
 "C'est un *ordre*." Il lui fallut faire un effort visible pour de
 nouveau transférer son attention sur Harry. "Quoi qu'il en soit,
 qu'est-ce que tu fais au cours de Défense de Serpentard ?"
@@ -157,17 +157,17 @@ au cours où il était *censé* être, quel que soit ce cours. Dieu savait
 s'il aimait son Retourneur de Temps, et un jour, quand il serait assez
 vieux, ils se marieraient.
 
-"Non, c'est la bonne heure," dit Draco, les sourcils froncés. Son regard
+"Non, c'est la bonne heure," dit Drago, les sourcils froncés. Son regard
 parcourut le reste de l'auditorium, qui se remplissait de robes à
 bordures vertes et de…
 
-"*Gryffidiots !*" cracha Draco. "Qu'est ce *qu'ils* font ici ?"
+"*Gryffidiots !*" cracha Drago. "Qu'est ce *qu'ils* font ici ?"
 
 "Hmm," dit Harry. "Le professeur Quirrell a dit… j'ai oublié ses mots
 exacts… qu'il allait ignorer certaines des conventions éducatives de
 Poudlard. Peut-être qu'il a juste combiné toutes ses classes."
 
-"Euh," dit Draco. "Tu es le premier Serdaigle à être arrivé ici."
+"Euh," dit Drago. "Tu es le premier Serdaigle à être arrivé ici."
 
 "Ouep. Je suis arrivé tôt."
 
@@ -176,7 +176,7 @@ Poudlard. Peut-être qu'il a juste combiné toutes ses classes."
 Harry cligna des yeux. "Je sais pas, ça avait l'air d'être un bon
 endroit où s'asseoir ?"
 
-Draco renifla. "Tu ne pourrais pas être plus loin du professeur même si
+Drago renifla. "Tu ne pourrais pas être plus loin du professeur même si
 tu essayais." Puis il se pencha en avant, l'air soudain attentif. "À
 part ça, Potter, c'est vrai ce qu'on raconte sur ce que tu as dit à
 Derrick et à son équipe ?"
@@ -189,7 +189,7 @@ Derrick et à son équipe ?"
 
 "Que ce qu'il faisait n'était pas le moins du monde sournois ou
 ambitieux, et qu'il était une disgrâce à la mémoire de Salazar
-Serpentard." Draco regardait Harry avec une grande intensité.
+Serpentard." Drago regardait Harry avec une grande intensité.
 
 "C'était… c'était à peu près ça," dit Harry. "Je pense que c'était plus
 proche de : 'Cela fait-il partie d'un plan incroyablement malin vous
@@ -197,7 +197,7 @@ permettant d'obtenir un avantage futur, ou est-ce autant une inutile
 disgrâce du nom de Salazar Serpentard que ça en a l'air,' ou quelque
 chose comme ça. Je ne me souviens pas des mots exacts."
 
-Draco secoua la tête. "Tu nous envoies des messages contradictoires,
+Drago secoua la tête. "Tu nous envoies des messages contradictoires,
 Potter."
 
 "Hein ?" dit Harry, et il était honnêtement confus.
@@ -217,7 +217,7 @@ conséquence."
 M. Crabbe et M. Goyle ricanèrent tous deux, ce qui poussa M. Goyle à se
 flanquer une main sur sa bouche.
 
-"On ferait mieux de s'asseoir," dit Draco. Il hésita, et sembla devenir
+"On ferait mieux de s'asseoir," dit Drago. Il hésita, et sembla devenir
 un peu plus formel. "Potter, sans m'engager à quoi que ce soit, je tiens
 à te dire que je souhaite continuer notre conversation et que je suis
 prêt à accepter ta situation actuelle."
@@ -230,17 +230,17 @@ samedi après-midi ? Je suis en plein concours pour le moment."
 "Pour voir si je peux lire tous mes manuels aussi vite que Hermione
 Granger l'a fait."
 
-"Granger," répondit Draco comme en écho. Ses yeux se rétrécirent. "La
+"Granger," répondit Drago comme en écho. Ses yeux se rétrécirent. "La
 sang-de-Bourbe qui croit qu'elle est Merlin ? Si tu essaies de *lui* en
 remontrer, alors tout Serpentard te souhaite bonne chance, Potter, et je
-ne t'embêterai pas jusqu'à samedi." Draco inclina la tête dans un geste
+ne t'embêterai pas jusqu'à samedi." Drago inclina la tête dans un geste
 de respect mesuré et s'en fut, suivi par ses laquais.
 
 *Oh, ça va être vraiment amusant de jongler entre les deux, je peux déjà
 le voir venir.*
 
 La salle se remplissait maintenant rapidement avec les quatre couleurs
-d'ourlets : vert, rouge, jaune et bleu. Draco et ses deux amis
+d'ourlets : vert, rouge, jaune et bleu. Drago et ses deux amis
 semblaient être au beau milieu de l'acquisition de trois sièges de
 premier rang - déjà occupés bien sûr. M. Crabbe et M. Goyle menaçaient
 vigoureusement, mais ça ne semblait pas faire beaucoup d'effet.
@@ -612,17 +612,17 @@ Granger n'est pas l'élève la plus dangereuse de la salle. Qui ici pense
 Sans même y penser, les yeux de Harry se tournèrent vers le contingent
 de Serpentard.
 
-"Draco, de la Noble et Ancienne Maison Malfoy," dit le professeur
+"Drago, de la Noble et Ancienne Maison Malfoy," dit le professeur
 Quirrell. "Il semble que nombreux sont ceux qui regardent dans votre
 direction. Merci de vous avancer."
 
-Draco s'exécuta, et son port comportait un certain orgueil. Il alla
+Drago s'exécuta, et son port comportait un certain orgueil. Il alla
 jusqu'à l'estrade et regarda le professeur Quirrell en souriant.
 
 "M. Malfoy," dit le professeur Quirrell. "Feu."
 
 Harry aurait essayé de l'en empêcher s'il en avait eu le temps, mais
-d'un mouvement gracieux Draco avait tournoyé vers les Serdaigle, avait
+d'un mouvement gracieux Drago avait tournoyé vers les Serdaigle, avait
 levé sa baguette, avait dit "*Mahasu !*" comme si c'était un mot d'une
 seule syllabe, et Hermione avait dit "Ouh !" et c'était fini.
 
@@ -631,10 +631,10 @@ vous. Mais dites-moi, pourquoi avez-vous visé Mademoiselle Granger ?"
 
 Il y eut une pause.
 
-Draco dit enfin : "Parce que c'était celle qui ressortait le plus."
+Drago dit enfin : "Parce que c'était celle qui ressortait le plus."
 
 Les lèvres du professeur Quirrell formèrent un fin sourire. "Et voilà la
-véritable raison pour laquelle Draco Malfoy est dangereux. Si il avait
+véritable raison pour laquelle Drago Malfoy est dangereux. Si il avait
 choisi n'importe qui d'autre, cette personne lui en aurait probablement
 voulu d'avoir été choisie, et M. Malfoy se serait probablement fait un
 ennemi. Et bien que M. Malfoy aurait pu donner une autre justification
@@ -647,7 +647,7 @@ Quirrell de plus pour vous, M. Malfoy. Et comme vous venez de démontrer
 une vertu Serpentard, je pense que la Maison de Salazar a elle aussi
 gagné un point. Vous pouvez rejoindre vos amis."
 
-Draco s'inclina légèrement et retourna au contingent de Serpentard.
+Drago s'inclina légèrement et retourna au contingent de Serpentard.
 Quelques applaudissements s'élevèrent des robes à bordures vertes, mais
 le professeur Quirrell fit un geste cassant et le silence retomba.
 
@@ -755,7 +755,7 @@ d'elles."
 utilisées pour faire suffoquer un ennemi une fois enroulées plusieurs
 fois autour de sa tête, ou les robes de Hermione Granger, qui peuvent
 être découpées en bandelettes attachées l'une à l'autre pour pendre
-quelqu'un, ou les robes de Draco Malfoy, qui peuvent être utilisées pour
+quelqu'un, ou les robes de Drago Malfoy, qui peuvent être utilisées pour
 allumer un feu -"
 
 "Trois points," dit le professeur Quirrell, "plus de vêtements à
@@ -843,7 +843,7 @@ l'incommode afin d'atteindre son but : *tuer l'ennemi*. Pour lui, toute
 idée ne menant pas à cela ne méritait pas d'être prise en considération.
 Ceci reflète une qualité que nous pourrions nommer *intention de tuer*.
 Je l'ai. Harry Potter l'a, et c'est pour cela qu'il a pu regarder cinq
-Serpentard plus âgés droit dans les yeux. Draco Malfoy ne l'a pas, pas
+Serpentard plus âgés droit dans les yeux. Drago Malfoy ne l'a pas, pas
 encore. M. Malfoy n'éviterait certainement pas de discuter de meurtre
 ordinaire, mais même lui a été choqué - oui, vous l'étiez M. Malfoy, je
 regardais votre visage - lorsque M. Potter a décrit comment utiliser les
@@ -887,9 +887,9 @@ tout de suite.
 Doucement, comme s'il avait été sur une plaque chauffante, Harry pivota
 vers les Serpentard.
 
-Et les yeux de Harry rencontrèrent ceux de Draco.
+Et les yeux de Harry rencontrèrent ceux de Drago.
 
-Draco n'avait pas l'air le moins du monde effrayé. Il ne lui donnait
+Drago n'avait pas l'air le moins du monde effrayé. Il ne lui donnait
 aucun signe visible d'assentiment, tel que celui que Harry avait donné à
 Hermione, mais on pouvait difficilement s'attendre à ce qu'il le fasse.
 Les autres Serpentard auraient trouvé cela plutôt étrange.

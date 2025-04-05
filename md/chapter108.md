@@ -652,13 +652,13 @@ ait tant de pouvoir sur toi. J'avoue avoir été impressionné par la façon
 dont tu as exploité cette opportunité."
 
 Harry fit l'effort de desserrer les dents. "C'est après avoir échoué à
-*faire accuser* Hermione d'avoir tenté de tuer Draco et, échoué à
+*faire accuser* Hermione d'avoir tenté de tuer Drago et, échoué à
 *l'envoyer à Azkaban* pour… quoi ? Parce que vous n'aimiez pas
 l'influence qu'elle avait sur moi ?"
 
 "Ne sois pas ridicule," dit le professeur Quirrell. "Si j'avais
 uniquement souhaité supprimer Mlle Granger, je n'aurais pas fait entrer
-les Malfoy en jeu. J'ai observé ton jeu avec Draco Malfoy, et je l'ai
+les Malfoy en jeu. J'ai observé ton jeu avec Drago Malfoy, et je l'ai
 trouvé amusant, mais j'ai su qu'il ne continuerai pas bien longtemps
 avant que Lucius n'en ai vent et n'intervienne. Et alors tes
 emportements t'auraient coûté cher, car Lucius n'aurait pas pris cette
@@ -669,7 +669,7 @@ Lucius Malfoy, découvrant l'apparente perfidie de son fils, avait lancé
 un Imperius sur le professeur Chourave pour qu'elle utilise le sortilège
 de refroidissement du sang sur M. Malfoy et un sortilège de faux
 souvenirs sur Mlle Granger. Lucius aurait été éliminé de l'échiquier
-politique, envoyé en exil, voir à Azkaban ; Draco aurait hérité de la
+politique, envoyé en exil, voir à Azkaban ; Drago aurait hérité de la
 fortune de la maison Malfoy et ton influence sur lui aurait été sans
 conteste. Mais j'ai dû interrompre ce plan en pleine course. Tu es
 parvenu à complètement défaire le véritable plan, et ce faisant à

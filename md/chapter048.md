@@ -18,7 +18,7 @@ linguistique dont Harry avait jamais entendu parler était celui du
 perroquet gris d'Afrique, entraîné par Irene Pepperberg. Et c'était un
 protolangage sans structure, chez une espèce qui jouait à de complexes
 jeux adultérins et qui devait donc être capable de se représenter
-d'autres perroquets. En revanche, selon les souvenirs de Draco, les
+d'autres perroquets. En revanche, selon les souvenirs de Drago, les
 serpents parlaient Fourchelangue dans ce qui semblait être un langage
 humain normal, c'est à dire avec une grammaire complète et
 syntaxiquement récursive. Il avait fallut *longtemps* pour que, par le
@@ -37,14 +37,14 @@ télévision - après tout, il devait bien avoir entendu ce son *quelque
 part* - et *ça* ne lui avait pas semblé être un langage, ce qui avait
 été fort rassurant…
 
-… au début. Le problème, c'était que Draco avait aussi affirmé que les
+… au début. Le problème, c'était que Drago avait aussi affirmé que les
 Fourchelangue pouvaient aussi envoyer des serpents exécuter des missions
 complexes. Et si c'était vrai, alors il fallait que les Fourchelangue
 rendent les serpents *intelligents de façon permanente* en leur parlant.
 Dans le pire des cas, cela rendrai le serpent conscient de sa propre
 existence, comme ce que Harry avait accidentellement fait au Choixpeau.
 
-Et quand Harry avait offert *cette* hypothèse, Draco avait prétendu se
+Et quand Harry avait offert *cette* hypothèse, Drago avait prétendu se
 souvenir d'une histoire - Harry priait Cthulhu pour que *celle-ci* ne
 soit qu'un compte de fée, elle y ressemblait, mais l'histoire *existait*
 quand même - disant que Salazar Serpentard avait envoyé une jeune et
@@ -209,7 +209,7 @@ de manger mes carottes."
 "Tu ne penses pas qu'on a peut-être des choses plus *importantes* à
 faire ?"
 
-*On dirait Draco*, pensa Harry, mais il ne le dit évidemment pas. Ce
+*On dirait Drago*, pensa Harry, mais il ne le dit évidemment pas. Ce
 qu'il dit fut : "Qu'est qui *pourrait* être plus importante que la
 découverte que les plantes sont sentientes ?"
 
@@ -280,7 +280,7 @@ justifier auprès de ce genre de personne, plus cela entérine le fait
 qu'ils ont le *droit* de te remettre en question. Ça montre que tu
 penses qu'ils peuvent être tes inquisiteurs, et une fois que tu donnes
 ce genre de pouvoir à quelqu'un, il ne va faire qu'insister encore et
-encore." C'était l'une des leçons de Draco Malfoy que Harry avait
+encore." C'était l'une des leçons de Drago Malfoy que Harry avait
 trouvées assez intelligentes : les gens qui *essayaient* de se défendre
 se faisaient interroger sur chaque petit détail et n'arrivaient jamais à
 satisfaire leurs interrogateurs ; mais si vous faisiez clairement sentir
@@ -374,7 +374,7 @@ savoir comment lancer le Patronus ?"
 
 "Je…" Harry dut avaler une boule dans sa gorge. Il se vit soudain, lui,
 ne sachant *pas* pourquoi il n'arrivait pas à lancer le Patronus, ne
-pouvant *pas* le montrer à Draco, se faisant dire qu'il y avait une
+pouvant *pas* le montrer à Drago, se faisant dire qu'il y avait une
 raison, ne sachant rien de plus. "Hermione, ton Patronus brillerait de
 la même lumière mais il ne serait pas *normal*, il ne ressemblerait pas
 à ce que les gens attendent d'un Patronus, tous ceux qui le verraient

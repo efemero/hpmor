@@ -35,7 +35,7 @@ tous les trois en revue. "Général Malfoy. Pourquoi vous ais-je appelé
 ici ?"
 
 "Ce n'est plus équitable de mettre le général Potter seul contre nous
-deux," dit Draco Malfoy d'une voix basse.
+deux," dit Drago Malfoy d'une voix basse.
 
 "*Quoi ?"* laissa échapper Hermione. "On les *avait* presque, si Daphné
 ne s'était pas évanouie -"
@@ -97,7 +97,7 @@ répartis entre l'armée Dragon et le régiment Soleil -"
 
 "*Quoi ?"* éclata de nouveau Hermione, elle jeta un coup d'œil aux deux
 autres généraux et vit que Harry semblait aussi choqué qu'elle, tandis
-que Draco avait seulement l'air résigné.
+que Drago avait seulement l'air résigné.
 
 "Le général Potter est plus fort que vous deux réunis," dit le
 professeur Quirrell d'une calme précision. "Votre concours est fini, il
@@ -145,7 +145,7 @@ vous gagner !"
 Elle n'arrivait pas à répondre, elle en était incapable, tout craquerait
 si elle essayait de dire un seul mot.
 
-"Vraiment ?" dit Draco Malfoy. Le général Dragon avait encore cet air
+"Vraiment ?" dit Drago Malfoy. Le général Dragon avait encore cet air
 résigné. "Parce que tu sais, Quirrell a raison, c'est *suspicieux* que
 tu aies été capable d'abattre presque tout le monde dans nos deux armées
 dès que tu as voulu qu'on te pourchasse sur le toit. Et est-ce que tu
@@ -175,12 +175,12 @@ et l'écraser, c'était ça ?
 les yeux quand il était effrayant, comment avait-elle pu jamais croire
 qu'elle pourrait vraiment le battre ?
 
-Le couloir atteint un embranchement, Harry Potter et Draco Malfoy
+Le couloir atteint un embranchement, Harry Potter et Drago Malfoy
 prirent à gauche vers un escalier qui menait au deuxième étage et elle
 partit plutôt à droite ; elle ne savait pas où menait ce passage mais
 pour l'instant elle aurait préféré se perdre dans le château.
 
-"Excuse-moi, Draco," dit la voix de Harry, et il y eut alors une série
+"Excuse-moi, Drago," dit la voix de Harry, et il y eut alors une série
 de pas derrière elle.
 
 "Laisse-moi tranquille," dit-elle, le ton était sévère mais elle dut
@@ -300,7 +300,7 @@ roulée en boule, le dos contre la pierre fraîche, les jambes repliées,
 en pleurs.
 
 Même si elle perdait contre Harry Potter elle ne perdrait jamais,
-*jamais*, contre Draco Malfoy, c'était *absolument* inacceptable, et le
+*jamais*, contre Drago Malfoy, c'était *absolument* inacceptable, et le
 professeur Quirrell avait félicité le général Malfoy pour n'avoir pas
 ignoré les milles alternatives possibles ; et donc, après avoir épuisé
 toutes ses larmes, Hermione avait pensé à quatorze autre sortilèges

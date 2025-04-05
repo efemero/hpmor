@@ -292,7 +292,7 @@ tels prix !"
 
 "Et est-ce vrai ?" dit Harry. Il était saisi d'une sorte de
 bourdonnement, comme si son corps s'éloignait de plus en plus. "Ce que
-Draco a dit, que Narcissa Malfoy ne s'est jamais salie les mains,
+Drago a dit, que Narcissa Malfoy ne s'est jamais salie les mains,
 qu'elle n'était que la femme de Lucius ? C'était une acolyte, je
 comprends ça, mais je ne peux pas soutenir l'idée que cela mérite d'être
 *brûlé vif*."

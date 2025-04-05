@@ -177,7 +177,7 @@ le leur ai *dit*, M. Potter, la réponse est que vous découvrirez que
 l'ambiguïté est un grand allié sur la route vers le pouvoir. Donnez des
 signes de Serpentard un jour, contredisez-les le lendemain avec des
 signes de Gryffondor ; et les Serpentard pourront croire ce qu'ils
-souhaitent croire tandis que les Gryffondors se persuaderont de vous
+souhaitent croire tandis que les Gryffondor se persuaderont de vous
 soutenir. Tant qu'il y a incertitude, les gens peuvent croire ce qui
 semble être à leur avantage. Et tant que vous semblez fort, tant que
 vous semblez gagner, leurs instincts leur disent qu'il est à leur

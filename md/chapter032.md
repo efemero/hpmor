@@ -155,7 +155,7 @@ détourné sous le coup de l'ennui tandis que vous, dans un accès de
 puérilité, récupériez vos cinq Gallions une Noise à la fois ?"
 
 "Eh bien, la méthode la plus simple aurait été d'emprunter de l'argent à
-Draco Malfoy," dit Harry.
+Drago Malfoy," dit Harry.
 
 Le professeur Quirrell gloussa brièvement. "Sérieusement, M. Potter."
 

@@ -429,30 +429,30 @@ sur deux chaises l'une en face de l'autre, séparées par un bureau.
 
 C'était le deuxième rassemblement de la Conspiration Bayésienne.
 
-Draco Malfoy n'avait pas su s'il devait l'attendre avec impatience.
+Drago Malfoy n'avait pas su s'il devait l'attendre avec impatience.
 
 Harry Potter, à en juger par l'expression de son visage, ne semblait pas
 avoir le moindre doute quant à l'humeur appropriée.
 
 Harry Potter avait l'air d'être prêt à tuer quelqu'un.
 
-"Hermione Granger," dit Harry Potter alors que Draco ouvrait la bouche.
+"Hermione Granger," dit Harry Potter alors que Drago ouvrait la bouche.
 "*Ne pose pas de questions*."
 
 *Il n'aurait pas été à un deuxième rendez-vous galant quand même ?*
-pensa Draco, mais ça n'avait aucun sens.
+pensa Drago, mais ça n'avait aucun sens.
 
-"Harry," dit Draco, "je suis désolé, mais je dois quand même te
+"Harry," dit Drago, "je suis désolé, mais je dois quand même te
 demander, as-tu *vraiment* commandé une bourse en peau de Moke très
 coûteuse pour l'anniversaire de la fille sang-de-bourbe ?"
 
 "Oui, en effet. Bien sûr, tu as déjà compris pourquoi."
 
-Mû par un sentiment de frustration, Draco leva son bras et se ratissa le
+Mû par un sentiment de frustration, Drago leva son bras et se ratissa le
 cuir chevelu, sa houppelande frottant l'arrière de sa main. Il n'avait
 *pas* été certain de la raison, mais maintenant il ne pouvait pas le
 dire. Et Serpentard *savait* qu'il faisait la cour à Harry Potter, il
-avait rendu cela évident en cours de Défense. "Harry," dit Draco, "les
+avait rendu cela évident en cours de Défense. "Harry," dit Drago, "les
 gens savent que je suis ton ami, ils ne sont pas au courant pour la
 Conspiration, bien sûr, mais ils savent qu'on est amis, et quand tu fais
 ce genre de choses, ça nuit à *mon* image."
@@ -463,24 +463,24 @@ quelqu'un que l'on aime pas réellement devrait être donné à manger à des
 serpents de compagnie."
 
 "Il y a beaucoup de gens à Serpentard qui ne le *comprennent pas*," dit
-Draco avec sérieux. "La plupart des gens sont stupides, et il faut quand
+Drago avec sérieux. "La plupart des gens sont stupides, et il faut quand
 même avoir une bonne image auprès d'eux." Harry Potter *devait*
 comprendre ça s'il voulait parvenir à quoi que ce soit dans sa vie.
 
 "Quelle importance, ce que les autres pensent de toi ? Vas-tu vraiment
 passer toute ta vie à devoir expliquer tout ce que tu fais aux pires
 idiots de Serpentard, à *les* laisser *te* juger ? Je suis désolé,
-Draco, mais je n'abaisserai pas mes fourbes complots à un niveau que le
+Drago, mais je n'abaisserai pas mes fourbes complots à un niveau que le
 plus idiot de Serpentard pourra comprendre juste parce que sinon, tu
 aurais une mauvaise image. Même notre amitié ne vaut pas ça. La vie ne
 serait *plus amusante du tout*. Dis-moi que *tu* n'as jamais pensé ça de
 quelqu'un à Serpentard trop stupide pour respirer ; que c'est en-deçà de
 la dignité d'un Malfoy que de devoir les satisfaire."
 
-Draco n'y avait sincèrement pas pensé. Jamais. Satisfaire les idiots,
+Drago n'y avait sincèrement pas pensé. Jamais. Satisfaire les idiots,
 c'était comme de respirer, vous le faisiez sans réfléchir.
 
-"Harry," finit par dire Draco. "Ce n'est pas malin de juste faire ce que
+"Harry," finit par dire Drago. "Ce n'est pas malin de juste faire ce que
 tu veux sans te soucier de l'image que ça donne. Le Seigneur des
 Ténèbres se souciait de son image ! Il était craint et haï, il savait
 *exactement* quelle sorte de peur et de haine il voulait créer. *Tout le
@@ -495,14 +495,14 @@ et pas parce que c'est le résultat d'un calcul fait de sang-froid.
 Rappelle-toi, j'ai été battu et malmené par des Serpentard plus âgés
 pendant quinze minutes, et je me suis ensuite levé et je les ai
 pardonnés. Exactement comme le bon et vertueux Survivant se doit de
-faire. Mais mes calculs faits de sang-froid, Draco, me disent que les
+faire. Mais mes calculs faits de sang-froid, Drago, me disent que les
 pires idiots de Serpentard ne me sont *d'aucune utilité*, puisque *je
 n'ai pas de serpent de compagnie*. Je n'ai donc aucune raison de me
 soucier de ce qu'ils pensent de la façon dont je conduis mon duel avec
 Hermione Granger."
 
-Draco ne ferma pas ses poings sous l'effet de la frustration. "C'est
-juste une sang-de-bourbe," dit Draco, se maîtrisant pour garder sa voix
+Drago ne ferma pas ses poings sous l'effet de la frustration. "C'est
+juste une sang-de-bourbe," dit Drago, se maîtrisant pour garder sa voix
 calme et pour ne pas crier. "Si tu ne l'aimes pas, pousse-la dans les
 escaliers."
 
@@ -532,7 +532,7 @@ Ils s'arrêtèrent tous les deux, et, presque parfaitement à l'unisson,
 commencèrent à prendre de profondes inspirations pour se calmer.
 
 "Désolé," dit Harry après quelques moments, essuyant de la sueur de son
-front. "Désolé, Draco. Tu as beaucoup de pouvoir politique et c'est
+front. "Désolé, Drago. Tu as beaucoup de pouvoir politique et c'est
 logique que tu veuilles le conserver. Tu *devrais* analyser ce que
 Serpentard pense. C'est un jeu important et je n'aurais pas dû
 l'insulter. Mais tu ne peux pas *me* demander d'abaisser mon niveau de
@@ -540,16 +540,16 @@ jeu au sein de Serdaigle juste pour que tu puisses passer du temps avec
 moi sans avoir une mauvaise image. Dis à Serpentard que tu grinces des
 dents tout en prétendant être mon ami."
 
-C'était exactement ce que Draco *avait* dit à Serpentard, et il ne
+C'était exactement ce que Drago *avait* dit à Serpentard, et il ne
 savait toujours pas si c'était vrai.
 
-"De toute façon," dit Draco. "En parlant de ton image. J'ai peur d'avoir
+"De toute façon," dit Drago. "En parlant de ton image. J'ai peur d'avoir
 de mauvaises nouvelles. Rita Skeeter a entendu certaines histoires te
 concernant et elle a été poser des questions."
 
 Harry Potter leva les sourcils. "Qui ?"
 
-"Elle écrit pour *La Gazette du sorcier,"* dit Draco. Il essaya de ne
+"Elle écrit pour *La Gazette du sorcier,"* dit Drago. Il essaya de ne
 pas paraître soucieux. La *Gazette du sorcier* était l'un des principaux
 outils de Père, il l'utilisait comme il aurait usé d'une baguette
 magique. "C'est le journal auquel les gens prêtent vraiment attention.
@@ -560,46 +560,46 @@ trouver de rumeur te concernant, elle s'en fabriquera une."
 "Je *vois*," dit Harry Potter. Sous la houppelande, son visage verdâtre
 semblait fort pensif.
 
-Draco hésita quant à ce qu'il devait dire ensuite. Quelqu'un devait déjà
+Drago hésita quant à ce qu'il devait dire ensuite. Quelqu'un devait déjà
 avoir informé Père du fait qu'il faisait la cour à Harry Potter, et Père
-saurait aussi que Draco ne lui en avait pas parlé dans ses lettres, et
-Père comprendrait que Draco ne pensait pas qu'il pouvait réellement
-garder ça secret, ce qui envoyait un message clair disant que Draco
-jouait à son propre jeu, mais toujours du côté de Père, puisque si Draco
+saurait aussi que Drago ne lui en avait pas parlé dans ses lettres, et
+Père comprendrait que Drago ne pensait pas qu'il pouvait réellement
+garder ça secret, ce qui envoyait un message clair disant que Drago
+jouait à son propre jeu, mais toujours du côté de Père, puisque si Drago
 avait succombé à la tentation, il aurait envoyé de faux rapports.
 
-Par conséquent, Père avait probablement anticipé ce que Draco allait
+Par conséquent, Père avait probablement anticipé ce que Drago allait
 dire.
 
 Jouer au jeu avec Père était une sensation plutôt déroutante. Même s'ils
-étaient dans le même camp. D'un côté, c'était exaltant, mais Draco
+étaient dans le même camp. D'un côté, c'était exaltant, mais Drago
 savait aussi qu'à la fin, il s'avérerait que Père avait mieux joué que
 lui. Il était impossible que ça finisse autrement.
 
-"Harry," dit enfin Draco. "Ce n'est pas une suggestion. Ce n'est pas mon
+"Harry," dit enfin Drago. "Ce n'est pas une suggestion. Ce n'est pas mon
 conseil. C'est juste une information. Mon père pourrait presque
 certainement étouffer cet article. Mais il t'en coûterait."
 
-Que Père se soit attendu à ce que Draco dise exactement cela à Harry
-Potter ne fut pas quelque chose que Draco dit tout haut. Harry Potter le
+Que Père se soit attendu à ce que Drago dise exactement cela à Harry
+Potter ne fut pas quelque chose que Drago dit tout haut. Harry Potter le
 comprendrait de lui même, ou pas.
 
 Mais au lieu de ça, Harry Potter secoua la tête, souriant sous sa
 houppelande. "Je n'ai aucune intention d'étouffer Rita Skeeter."
 
-Draco n'essaya même pas de cacher son incrédulité. "Tu ne *peux pas* me
+Drago n'essaya même pas de cacher son incrédulité. "Tu ne *peux pas* me
 dire que tu ne te soucies pas de ce qu'un *journal* dit sur toi !"
 
 "Je m'en soucie moins que tu ne pourrais le penser," dit Harry Potter.
 "Mais j'ai mes propres méthodes pour traiter avec Skeeter et ses
 semblables. Je n'ai pas besoin de l'aide de Lucius."
 
-Un air inquiet apparut sur le visage de Draco avait qu'il ne puisse l'en
+Un air inquiet apparut sur le visage de Drago avait qu'il ne puisse l'en
 empêcher. Quel que soit le prochain coup de Harry, c'était quelque chose
-auquel Père ne s'attendait pas, et cela rendait Draco très nerveux que
+auquel Père ne s'attendait pas, et cela rendait Drago très nerveux que
 d'imaginer où ça pourrait mener.
 
-Draco se rendit aussi compte qu'il suait sous sa houppelande. Il n'avait
+Drago se rendit aussi compte qu'il suait sous sa houppelande. Il n'avait
 jamais vraiment porté une de ces choses auparavant, et il ne s'était pas
 rendu compte que les houppelandes de Mangemort avaient probablement des
 Charmes Rafraîchissants et d'autres choses comme ça.
@@ -608,22 +608,22 @@ Harry Potter essuya de nouveau un peu de sueur de son front, grimaça,
 sortit sa baguette, pointa vers le haut, prit une profonde inspiration,
 et dit "*Frigideiro* !"
 
-Quelques instants plus tard, Draco sentit le courant d'air froid.
+Quelques instants plus tard, Drago sentit le courant d'air froid.
 
 "*Frigideiro ! Frigideiro ! Frigideiro ! Frigideiro ! Frigideiro !"*
 
 Puis Harry Potter rabaissa sa baguette, même si sa main semblait un peu
 tremblante, et il la rangea dans ses robes.
 
-Toute la pièce était sensiblement plus fraîche. Draco aurait aussi pu le
+Toute la pièce était sensiblement plus fraîche. Drago aurait aussi pu le
 faire, mais quand même, pas mal.
 
-"Donc," dit Draco. "La Science. Tu vas me parler du sang."
+"Donc," dit Drago. "La Science. Tu vas me parler du sang."
 
 "Nous allons *découvrir* le sang," dit Harry Potter. "En faisant des
 expériences."
 
-"Très bien," dit Draco. "Quel genre d'expériences ?"
+"Très bien," dit Drago. "Quel genre d'expériences ?"
 
 De sous sa houppelande, Harry Potter sourit d'un air maléfique : "À toi
 de me le dire."
@@ -634,7 +634,7 @@ de me le dire."
 
  
 
-Draco avait entendu parler de quelque chose nommé la méthode socratique,
+Drago avait entendu parler de quelque chose nommé la méthode socratique,
 qui consistait à enseigner en posant des questions (nommée d'après
 l'ancien philosophe qui avait été trop intelligent pour être un vrai
 Moldu et avait donc été un sorcier sang-pur en couverture). L'un de ses
@@ -643,16 +643,16 @@ agaçant mais efficace.
 
 Et il y avait la méthode Harry Potter, qui était cinglée.
 
-Pour être honnête, Draco devait admettre que Harry Potter avait d'abord
+Pour être honnête, Drago devait admettre que Harry Potter avait d'abord
 essayé la méthode Socratique et que ça n'avait pas très bien marché.
 
-Harry Potter avait demandé comment Draco ferait pour *réfuter*
+Harry Potter avait demandé comment Drago ferait pour *réfuter*
 l'hypothèse des puristes du sang selon laquelle les sorciers ne
 pouvaient pas faire les super trucs qu'ils avaient fait il y a huit
 siècles parce qu'ils s'étaient métissés avec les nés-Moldus et les
 Cracmols.
 
-Draco avait dit qu'il ne comprenait pas comment Harry Potter pouvait
+Drago avait dit qu'il ne comprenait pas comment Harry Potter pouvait
 rester assis là à le regarder en face et à dire que ce n'était pas un
 piège.
 
@@ -664,19 +664,19 @@ les scientifiques opéraient, et elle disait que vous deviez essayer de
 réfuter vos propres théories, et si vous faisiez un effort honnête et
 que vous échouiez, alors vous aviez gagné.
 
-Draco avait essayé de faire remarquer la prodigieuse stupidité de cette
+Drago avait essayé de faire remarquer la prodigieuse stupidité de cette
 méthode en suggérant que la clé pour survivre à un duel était de se
 jeter Avada Kedavra sur le pied et de manquer.
 
 Harry Potter avait *acquiescé*.
 
-Draco avait secoué la tête.
+Drago avait secoué la tête.
 
 Harry Potter avait alors introduit l'idée que les scientifiques
 regardaient les idées se battre pour voir lesquelles gagnaient, et qu'on
-*ne pouvait pas se battre sans opposant*, alors Draco devait trouver des
+*ne pouvait pas se battre sans opposant*, alors Drago devait trouver des
 opposants à l'hypothèse des puristes du sang, pour qu'elle puisse les
-combattre et gagner, ce que Draco comprit un peu mieux, même si Harry
+combattre et gagner, ce que Drago comprit un peu mieux, même si Harry
 Potter l'avait dit d'un air plutôt répugné. Par exemple : il était clair
 que si le purisme du sang était la façon dont le monde fonctionnait
 vraiment, alors le ciel devait être bleu. Et si une autre théorie était
@@ -685,10 +685,10 @@ ciel, alors vous alliez dehors, regardiez, et les puristes du sang
 gagnaient ; et après que ça ait eu lieu six fois de suite, les gens
 commenceraient à remarquer la tendance.
 
-Harry Potter avait ensuite prétendu que tous les opposants que Draco
+Harry Potter avait ensuite prétendu que tous les opposants que Drago
 inventait étaient trop faibles, et que le purisme du sang n'aurait pas
 de mérite à les vaincre parce que la bataille ne serait pas assez
-impressionnante. Draco avait aussi compris cela. *Les sorciers sont
+impressionnante. Drago avait aussi compris cela. *Les sorciers sont
 devenus plus faibles parce que les elfes de maison volent notre magie*
 ne lui avait pas semblé très impressionnant à lui non plus.
 
@@ -698,11 +698,11 @@ devenus plus fort au fil du temps, et même dessiner une image
 représentant l'augmentation de la force des elfes de maison et une autre
 image représentant la diminution de la force des sorciers et si les deux
 images correspondaient ça désignerait les elfes de maison, le tout dit
-d'un ton si sérieux que Draco avait ressenti l'impulsion d'aller poser
+d'un ton si sérieux que Drago avait ressenti l'impulsion d'aller poser
 quelques questions précises à un Dobby sous Veritaserum avant de
 reprendre ses esprits.)
 
-Et Harry Potter avait enfin dit que Draco *ne pouvait pas* truquer la
+Et Harry Potter avait enfin dit que Drago *ne pouvait pas* truquer la
 bataille, les scientifiques n'étaient pas stupides, ce serait *évident*
 si on la truquait, ça devait être un *vrai combat*, entre deux théories
 qui pourraient *vraiment* être vraies, avec un test que seule la *vraie*
@@ -710,19 +710,19 @@ hypothèse devrait réussir, quelque chose qui *aurait* des conséquences
 différentes selon que l'une ou l'autre hypothèse soit vraie. Harry
 Potter avait prétendu qu'il voulait juste savoir *comment le sang
 fonctionnait vraiment* et que pour ça, il avait besoin de voir le
-purisme de sang gagner *pour de vrai* et que Draco n'allait pas le
+purisme de sang gagner *pour de vrai* et que Drago n'allait pas le
 tromper avec des théories qui n'attendaient que d'être abattues.
 
 C'est alors que Harry Potter avait dit, plutôt frustré, qu'il ne pouvait
-pas concevoir que Draco ait *vraiment* autant de mal à considérer
+pas concevoir que Drago ait *vraiment* autant de mal à considérer
 différents points de vue, il y avait *certainement* des Mangemorts qui
 avaient joué le rôle d'ennemis du purisme du sang et avaient trouvé des
 arguments bien plus plausibles contre leur propre camp que ceux que
-Draco avait offerts. Si Draco avait essayé de jouer le rôle d'un membre
+Drago avait offerts. Si Drago avait essayé de jouer le rôle d'un membre
 de la faction de Dumbledore, et avait trouvé l'hypothèse des elfes de
 maison, il n'aurait pas pour un instant trompé qui que ce soit.
 
-Draco avait été forcé d'admettre que Harry marquait un point.
+Drago avait été forcé d'admettre que Harry marquait un point.
 
 D'où la méthode Harry Potter.
 
@@ -730,15 +730,15 @@ D'où la méthode Harry Potter.
 n'acceptez-vous pas mon article ?"
 
 Harry Potter avait dû répéter la phrase "fais juste semblant de faire
-semblant d'être un scientifique" trois fois avant que Draco ne
+semblant d'être un scientifique" trois fois avant que Drago ne
 comprenne.
 
-À cet instant, Draco s'était rendu compte qu'il y avait quelque chose de
+À cet instant, Drago s'était rendu compte qu'il y avait quelque chose de
 profondément *tordu* dans le cerveau de Harry, et que quiconque
 s'essaierait à la Legilimancie à son encontre ne reviendrait
 probablement jamais.
 
-Harry Potter était alors entré dans des détails considérables : Draco
+Harry Potter était alors entré dans des détails considérables : Drago
 devait faire semblant d'être Dr. Malfoy, un Mangemort faisant semblant
 d'être rédacteur en chef d'une revue scientifique qui voulait rejeter
 l'article de son ennemi le Dr. Potter, "De la transmission héréditaire
@@ -752,17 +752,17 @@ alors il perdrait son poste de rédacteur en chef.
 Il était merveilleux que le Choixpeau ne soit pas à Sainte-Mangouste en
 train de baragouiner comme un dément.
 
-On n'avait aussi jamais demandé à Draco de jouer un rôle aussi complexe
+On n'avait aussi jamais demandé à Drago de jouer un rôle aussi complexe
 et il n'aurait refusé le défi pour rien au monde.
 
 Pour l'instant, comme Harry Potter avait dit, ils se mettaient dans
 l'ambiance.
 
 "Dr. Potter, j'ai bien peur que vous ayez écrit ceci avec une encre de
-la mauvaise couleur," dit Draco. "Suivant !"
+la mauvaise couleur," dit Drago. "Suivant !"
 
 Le visage du Dr. Potter se débrouilla très bien pour se décomposer sous
-l'effet du désespoir et Draco ne put s'empêcher de ressentir un éclair
+l'effet du désespoir et Drago ne put s'empêcher de ressentir un éclair
 de la joie du Dr. Malfoy, même si le Mangemort faisait seulement
 semblant d'être le Dr. Malfoy.
 
@@ -796,7 +796,7 @@ demandais si la *Revue des Résultats Impossibles à Reproduire* pourrait
 envisager la publication de mon article intitulé 'De la transmission
 héréditaire des capacités magiques'."
 
-Draco regarda le parchemin, souriant pendant qu'il envisageait des
+Drago regarda le parchemin, souriant pendant qu'il envisageait des
 motifs de refus possibles. S'il avait été un professeur, il aurait
 rejeté cet essai parce qu'il était trop court, donc…
 
@@ -832,7 +832,7 @@ On était en fait samedi.
 Le Dr. Potter essaya de rappeler ce fait et se vit répondre :
 "Suivant !"
 
-(Draco commençait à comprendre pourquoi Rogue avait utilisé son emprise
+(Drago commençait à comprendre pourquoi Rogue avait utilisé son emprise
 sur Dumbledore juste pour obtenir un poste qui le laisserait être
 horrible envers les élèves.)
 
@@ -858,7 +858,7 @@ impatience.)
 Le Dr. Malfoy prit le parchemin et le parcourut avec attention.
 
 Le fait qu'il ne soit pas un vrai scientifique commençait à rendre le
-Mangemort nerveux, et Draco essayait de se rappeler comment parler comme
+Mangemort nerveux, et Drago essayait de se rappeler comment parler comme
 Harry Potter.
 
 "Vous, ah, devez prendre en compte d'autres explications possibles pour
@@ -869,10 +869,10 @@ elfes de maison volent notre magie* ? Mes données n'admettent qu'une
 seule conclusion possible, Dr. Malfoy. Il n'y *a* pas d'autres
 hypothèses plausibles."
 
-Draco essayait furieusement d'ordonner à son cerveau de penser à ce
+Drago essayait furieusement d'ordonner à son cerveau de penser à ce
 qu'il dirait s'il faisait semblant d'être dans le camp de Dumbledore, ce
 qu'*ils* prétendaient être l'explication pour le déclin de la
-sorcellerie, Draco ne s'était jamais embêté à vraiment poser cette
+sorcellerie, Drago ne s'était jamais embêté à vraiment poser cette
 question…
 
 "Si vous n'arrivez pas à imaginer une autre explication possible pour
@@ -886,7 +886,7 @@ elle-même n'est pas en train de disparaître ?"
 
 Le temps s'arrêta.
 
-Draco et Harry Potter échangèrent des regards horrifiés.
+Drago et Harry Potter échangèrent des regards horrifiés.
 
 Puis Harry Potter cracha quelque chose qui était probablement un mot
 extrêmement grossier si on avait été élevé par des Moldus. *"Je n'avais
@@ -894,13 +894,13 @@ pas pensé à ça !*" dit Harry Potter. "Et j'aurais dû. La magie s'en va.
 *Mince, mince, mince* !"
 
 Le ton alarmé de la voix de Harry Potter était contagieux. Sans même y
-penser, la main de Draco alla trouver sa baguette dans ses robes et la
+penser, la main de Drago alla trouver sa baguette dans ses robes et la
 serra. Il avait pensé que la Maison des Malfoy était *en sécurité*, tant
 que vous épousiez des membres de familles capables de retracer leur
 lignée sur quatre générations, vous étiez censés être *en sécurité*, ça
 ne lui était jamais venu à l'esprit que personne ne pouvait rien faire
 pour arrêter la fin de la magie. "Harry, on fait quoi ?" la voix de
-Draco montait vers la panique. "*On fait quoi* ?"
+Drago montait vers la panique. "*On fait quoi* ?"
 
 "*Laisse-moi réfléchir !*"
 
@@ -912,7 +912,7 @@ quelque chose.
 "On arrivera à le comprendre," dit Harry, la gorge serrée, "si la magie
 disparaît, on trouvera à quelle vitesse elle s'en va, et combien de
 temps il nous reste pour faire quelque chose, et alors on trouvera
-pourquoi elle disparaît, et on fera quelque chose. Draco, les pouvoirs
+pourquoi elle disparaît, et on fera quelque chose. Drago, les pouvoirs
 des sorciers ont-il décliné à un taux constant, ou y a-t-il eu des
 chutes soudaines ?"
 
@@ -923,7 +923,7 @@ Poudlard. Donc ça continue depuis au moins huit siècles ? Tu ne peux pas
 te rappeler d'une histoire sur des problèmes apparaissant soudainement
 il y a cinq siècles ou quelque chose comme ça ?"
 
-Draco essayait frénétiquement de réfléchir. "J'ai toujours entendu dire
+Drago essayait frénétiquement de réfléchir. "J'ai toujours entendu dire
 que personne n'a été aussi bon que Merlin, et après ça, personne n'a été
 aussi bon que les fondateurs de Poudlard."
 
@@ -934,7 +934,7 @@ les Moldus ont commencé à utiliser un genre de technologie qui arrête de
 fonctionner à proximité de la magie et je me demandais si la réciproque
 aurait aussi pu être vraie."
 
-Draco explosa sur son siège, tellement en colère qu'il pouvait à peine
+Drago explosa sur son siège, tellement en colère qu'il pouvait à peine
 parler. "Ce sont les *Moldus…*"
 
 "*Bon sang !*" rugit Harry. "Est-ce que *tu* t'écoutes au moins parler ?
@@ -946,11 +946,11 @@ nous empêche de découvrir ce qui se passe *vraiment*, alors un matin
 viendra où tu te réveilleras pour découvrir que ta baguette n'est qu'un
 bout de bois !"
 
-La respiration de Draco se bloqua dans sa gorge. Son père avait souvent
+La respiration de Drago se bloqua dans sa gorge. Son père avait souvent
 dit *nos baguettes se briseront dans nos mains* dans ses discours, mais
-Draco n'avait jamais pensé à ce que ça *voulait dire*, après tout, ça
+Drago n'avait jamais pensé à ce que ça *voulait dire*, après tout, ça
 n'allait pas lui arriver à *lui*. Et maintenant ça semblait très réel.
-*Juste un bout de bois*. Draco pouvait imaginer ce que ça serait de
+*Juste un bout de bois*. Drago pouvait imaginer ce que ça serait de
 sortir sa baguette et d'essayer de jeter un sort et de découvrir que
 rien ne se produisait…
 
@@ -961,28 +961,28 @@ avec quelques légendes de ce que leurs ancêtres avaient été capables de
 faire. Certains des Moldus s'appelleraient Malfoy, et c'est tout ce qui
 resterait du nom.
 
-Pour la première fois de sa vie, Draco comprit pourquoi les Mangemorts
+Pour la première fois de sa vie, Drago comprit pourquoi les Mangemorts
 existaient.
 
 Il avait toujours considéré comme acquis que devenir un Mangemort,
 c'était quelque chose qu'on faisait quand on devenait adulte. Maintenant
-Draco *comprenait*, il savait pourquoi Père et les amis de Père avaient
+Drago *comprenait*, il savait pourquoi Père et les amis de Père avaient
 juré de donner leur vie pour empêcher le cauchemar d'avoir lieu, il y
 avait des choses que vous ne pouviez pas regarder se produire sans rien
 faire. Mais si ça allait avoir lieu *de toute façon*, et si tous ces
 sacrifices, tous les amis perdus victimes de Dumbledore, toute la
 *famille* qu'ils avaient perdue, et si tout avait été pour *rien*.
 
-"La magie ne *peut pas* être en train de disparaître," dit Draco. Sa
+"La magie ne *peut pas* être en train de disparaître," dit Drago. Sa
 voix de brisait. "Ça ne serait pas *juste*."
 
 Harry s'arrêta de griffonner et leva les yeux. Son visage affichait de
 la colère. "Ton père ne t'a jamais dit que la vie n'est pas juste ?"
 
-Père avait dit cela à chaque fois que Draco avait utilisé ce mot. "Mais,
+Père avait dit cela à chaque fois que Drago avait utilisé ce mot. "Mais,
 mais, c'est juste trop horrible d'y croire…"
 
-"Draco, laisse-moi te présenter quelque chose que j'appelle la Litanie
+"Drago, laisse-moi te présenter quelque chose que j'appelle la Litanie
 de Tarski. Elle change à chaque fois que tu l'utilises. Cette fois-ci,
 elle se prononce ainsi : *Si la magie disparaît du monde, je veux croire
 que la magie disparaît du monde. Si la magie ne disparaît pas du monde,
@@ -997,20 +997,20 @@ qui nous reste. Ne pas le croire ne l'empêchera pas d'arriver. Donc la
 en quoi nous voulons croire. Litanie de Gendlin : *Ce qui est vrai l'est
 déjà, l'admettre ne le rend pas pire.* Dis-le."
 
-"Ce qui est vrai l'est déjà," répéta Draco, la voix tremblante,
+"Ce qui est vrai l'est déjà," répéta Drago, la voix tremblante,
 "l'admettre ne le rend pas pire."
 
 "Si la magie disparaît, je veux croire que la magie disparaît. Si la
 magie ne disparaît pas, je veux ne pas croire que la magie disparaît.
 Dis-le."
 
-Draco répéta les mots, la nausée soulevant son estomac.
+Drago répéta les mots, la nausée soulevant son estomac.
 
 "Bien," dit Harry, "souviens-toi, ça n'est peut-être *pas* en train
 d'arriver, et alors tu ne devras pas non plus y croire. *D'abord*, on
 veut juste savoir ce qui se passe vraiment, dans quel monde nous vivons
 vraiment." Harry revint à son travail, griffonna un peu plus, puis
-tourna le parchemin pour que Draco puisse le voir. Draco se pencha sur
+tourna le parchemin pour que Drago puisse le voir. Drago se pencha sur
 le bureau et Harry rapprocha la lumière verte.
 
 *<span style="text-decoration: underline;">Observation :</span>*
@@ -1031,7 +1031,7 @@ chose d'autre à part le sang les fait devenir plus faible.*
 
 *5. La technologie Moldue interfère avec la magie (depuis 1000 ans ?).*
 
-*6. Les sorciers plus puissants ont moins d'enfants (Draco = fils
+*6. Les sorciers plus puissants ont moins d'enfants (Drago = fils
 unique ? Vérifier si trois sorciers puissants, Quirrell / Dumbledore /
 Seigneur des Ténèbres ont eu des enfants).*
 
@@ -1045,7 +1045,7 @@ besoin de tests rapides pour établir une distinction entre ces
 hypothèses. Des observations qui seraient différentes pour au moins
 l'une d'elles par rapport aux autres."
 
-Draco regarda la liste, choqué. Il se rendit soudain compte qu'il
+Drago regarda la liste, choqué. Il se rendit soudain compte qu'il
 connaissait une effroyable quantité de Sang-Purs qui étaient enfant
 uniques. Lui-même, Vincent, Gregory, presque *tout le monde*. Les deux
 sorciers les plus puissants dont tout le monde parlait étaient
@@ -1072,17 +1072,17 @@ diminue. Quel test produit un résultat différent selon que l'une de ces
 trois hypothèses est vraie ? Que pourrions-nous observer qui voudrait
 dire qu'une de ces trois est fausse ?"
 
-"*Je* ne sais pas !" laissa échapper Draco. "Pourquoi tu me demandes ?
+"*Je* ne sais pas !" laissa échapper Drago. "Pourquoi tu me demandes ?
 C'est toi le scientifique !"
 
-"Draco," dit Harry d'un ton qui s'approchait légèrement du plaidoyer
+"Drago," dit Harry d'un ton qui s'approchait légèrement du plaidoyer
 désespéré, "je ne sais que ce que savent les scientifiques moldus ! Tu
 as grandi dans le monde magique, pas moi ! Tu connais plus de magie que
 moi, tu en sais plus *sur* la magie que moi et c'est toi qui as eu
 l'idée à la base, alors commence à penser comme un scientifique et
 résous ça !"
 
-Draco avala sa salive avec difficulté et fixa le papier.
+Drago avala sa salive avec difficulté et fixa le papier.
 
 La magie disparaît… les sorciers se métissent avec les Moldus… le savoir
 est perdu…
@@ -1092,7 +1092,7 @@ est perdu…
 deviner, pas moi ! Imagine que tu racontes une histoire sur le sujet,
 qu'est-ce qui se passe dans l'histoire ?"
 
-Draco imagina. "Des sorts qui fonctionnaient ne fonctionnent plus." *Les
+Drago imagina. "Des sorts qui fonctionnaient ne fonctionnent plus." *Les
 sorciers se réveillent et découvrent que leur baguettes sont des bouts
 de bois…*
 
@@ -1103,7 +1103,7 @@ faire."
 
 "À quoi ressemble le monde si le savoir est perdu ?"
 
-"Les gens ne savent même plus comment jeter des sorts…" dit Draco. Il
+"Les gens ne savent même plus comment jeter des sorts…" dit Drago. Il
 s'arrêta, s'étant lui-même surpris. "C'est un test, non ?"
 
 Harry hocha la tête avec fermeté. "C'en est un." Il l'écrivit sur le
@@ -1118,7 +1118,7 @@ La magie disparaît, le sang s'affaiblit, comment pourrait-on faire la
 différence ?"
 
 "Quel genre de sorts les étudiants jetaient-ils dans leur première année
-à Poudlard ?" dit Draco. "S'ils jetaient des sorts bien plus puissants,
+à Poudlard ?" dit Drago. "S'ils jetaient des sorts bien plus puissants,
 leur sang était plus fort -"
 
 Harry Potter secoua sa tête. "Ou la magie elle-même était plus forte.
@@ -1132,13 +1132,13 @@ les mêmes…" Les déambulations de Harry s'accélérèrent. "Ce n'est pas un
 très bon test, ça distingue plutôt entre la perte de la sorcellerie
 puissante et la perte de toute la sorcellerie, car le sang de quelqu'un
 pourrait être trop faible pour la sorcellerie puissante mais assez fort
-pour les sorts simples… Draco, sais-tu si les sorciers les plus
+pour les sorts simples… Drago, sais-tu si les sorciers les plus
 puissants d'*une* époque, par exemple les sorciers puissants de ce
 siècle, étaient plus puissants que les autres enfants ? Si le Seigneur
 des Ténèbres avait jeté le sort de Refroidissement, aurait-il pu geler
 la salle entière ?"
 
-Le visage de Draco se tordit tandis qu'il essayait de se souvenir. "Je
+Le visage de Drago se tordit tandis qu'il essayait de se souvenir. "Je
 n'arrive pas à me rappeler avoir entendu quoi que ce soit au sujet du
 Seigneur des Ténèbres, mais je pense que Dumbledore est censé avoir fait
 quelque chose d'incroyable lors de ses BUSEs de Métamorphose en
@@ -1169,12 +1169,12 @@ connaissances scientifiques sur le sang, j'expliquerai plus tard.*
 "OK," dit Harry, "on peut au moins essayer de déterminer la différence
 entre 1, 2 et 3, alors commençons tout de suite par ça, on pourra
 toujours trouver *d'autres* tests après avoir terminé ceux-ci. Cela dit,
-ça va avoir l'air un petit peu étrange si Draco Malfoy et Harry Potter
+ça va avoir l'air un petit peu étrange si Drago Malfoy et Harry Potter
 se promènent en posant plein de questions ensemble, alors voilà mon
 idée : tu traverses Poudlard et tu trouves des vieux portraits et tu les
 interroges sur les sorts qu'ils ont appris à jeter pendant leurs
 premières années. Ce sont des portraits, alors ils ne sauront pas que
-c'est étrange que Draco Malfoy pose une question comme ça.
+c'est étrange que Drago Malfoy pose une question comme ça.
 J'interrogerai des portraits récents et des vivants au sujet des sorts
 qu'on connaît mais qu'on ne peut pas jeter, personne ne trouvera ça
 inhabituel que Harry Potter pose des questions bizarres. Et je devrai
@@ -1184,12 +1184,12 @@ question scientifique. C'est une question simple, et tu devrais pouvoir
 trouver la réponse en interrogeant les portraits. Tu vas peut-être
 vouloir noter ça, tu es prêt ?"
 
-Draco s'assit à nouveau et fouilla son cartable à la recherche d'un
-parchemin et d'une plume. Lorsqu'ils furent installés au bureau, Draco
+Drago s'assit à nouveau et fouilla son cartable à la recherche d'un
+parchemin et d'une plume. Lorsqu'ils furent installés au bureau, Drago
 releva les yeux, l'air déterminé. "Vas-y."
 
 "Trouve des portraits qui connaissaient un couple de Cracmols mariés -
-ne fais pas cette tête Draco, c'est une information importante. Demande
+ne fais pas cette tête Drago, c'est une information importante. Demande
 juste aux portraits récents de Gryffondor, je ne sais pas. Interroge les
 portraits qui connaissaient un tel couple assez bien pour connaître les
 noms de tous leurs enfants. Note le nom de chaque enfant, et si cet
@@ -1204,16 +1204,16 @@ pour connaître leur nom. Essaie au moins d'obtenir quarante noms si tu
 peux, et si tu as le temps d'en avoir plus, encore mieux. Tu as noté
 tout ça ?"
 
-"Répète," dit Draco quand il eut fini d'écrire, et Harry se répéta.
+"Répète," dit Drago quand il eut fini d'écrire, et Harry se répéta.
 
-"C'est noté," dit Draco, "mais pourquoi…"
+"C'est noté," dit Drago, "mais pourquoi…"
 
 "Ça a à voir avec l'un des secrets du sang que les scientifiques ont
 déjà découvert. Je t'expliquerai quand tu reviendras. Séparons-nous et
 retrouvons-nous ici dans une heure, ce qui devrait faire 18h22. On est
 prêt à y aller ?"
 
-Draco hocha la tête avec fermeté. Tout cela était très précipité, mais
+Drago hocha la tête avec fermeté. Tout cela était très précipité, mais
 il avait appris à se précipiter il y a bien longtemps.
 
 "Alors *vas-y* !" dit Harry Potter, et il rejeta sa houppelande et la
@@ -1222,7 +1222,7 @@ que sa bourse ait terminé, il pivota et commença à avancer à grandes
 enjambées vers la porte de la salle, se cognant dans un bureau et
 tombant presque dans sa hâte.
 
-Quand Draco eut fini d'ôter sa propre houppelande et de la ranger dans
+Quand Drago eut fini d'ôter sa propre houppelande et de la ranger dans
 son cartable, Harry Potter était parti.
 
-Draco courut presque vers la sortie. 
+Drago courut presque vers la sortie. 

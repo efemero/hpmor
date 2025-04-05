@@ -24,9 +24,9 @@ On était dimanche, dimanche premier mars. Le professeur Quirrell avait
 suffisamment récupéré pour recommencer à superviser les batailles et ils
 devaient tous rattraper le retard.
 
-Draco Malfoy, le général Dragon, regarda les deux compas qu'il tenait,
+Drago Malfoy, le général Dragon, regarda les deux compas qu'il tenait,
 un dans chaque main. L'un avait la couleur du Soleil et l'autre avait un
-lustre iridescent et multicolore qui signifiait le Chaos. Draco savait
+lustre iridescent et multicolore qui signifiait le Chaos. Drago savait
 que les deux autres généraux avaient chacun reçu leurs compas ; sauf
 qu'une main de Hermione Granger et une main de Harry Potter tenaient un
 compas rouge-orange dont les reflets vacillaient tels une flamme et
@@ -37,12 +37,12 @@ Sans ces deux compas, ils auraient pu se chercher pendant des jours et
 des jours sans jamais se trouver, ce qui constituait un des risques du
 terrain une fois aux plus hauts étages de Poudlard.
 
-Draco avait un mauvais pressentiment quant à ce qu'il se passerait
+Drago avait un mauvais pressentiment quant à ce qu'il se passerait
 lorsque l'armée Dragon trouverait la légion du Chaos. Harry Potter avait
 changé depuis que Bellatrix Black s'était échappée ; l'héritier de
 Serpentard commençait vraiment à avoir l'air d'un vrai seigneur (et
 comment le professeur Quirrell avait-il su que cela se produirait ?).
-Draco se serait sentit beaucoup mieux avec Hermione Granger à ses côtés,
+Drago se serait sentit beaucoup mieux avec Hermione Granger à ses côtés,
 accompagnée de ses vingt-trois soldats Soleil en rangs, mais non, le
 général Soleil et sa stupide fierté refusaient d'accepter une alliance
 contre le général Potter. Elle lui avait dit qu'elle voulait abattre
@@ -59,8 +59,8 @@ ne pas laisser sa maison se faire entraîner dans la chute du seigneur
 qu'elle servait. C'était là la tradition Malfoy, perfectionnée par des
 siècles de pratique.
 
-Et Père avait donc minutieusement expliqué à Draco que s'il rencontrait
-quelqu'un d'évidemment plus fort que lui, Draco ne lui en voudrait
+Et Père avait donc minutieusement expliqué à Drago que s'il rencontrait
+quelqu'un d'évidemment plus fort que lui, Drago ne lui en voudrait
 *pas*, il ne le nierait *pas*, il ne piquerait *pas* une crise capable
 de saboter sa potentielle future position mais il *s'assurerait* que sa
 place dans la prochaine structure de pouvoir ne descendrait pas
@@ -79,7 +79,7 @@ pas appeler à la traîtrise si on avait l'intention de vraiment *aider*
 l'autre armée.
 
 Un son de cloche aigu retentit à travers les couloirs pour marquer le
-signal du début de bataille ; Draco cria "*Allez !*" un instant plus
+signal du début de bataille ; Drago cria "*Allez !*" un instant plus
 tard et les Dragons commencèrent à courir. Cela fatiguerait ses soldats,
 cela aurait un coût même après qu'ils se soient arrêtés et qu'ils aient
 repris leur respiration, mais il *fallait* qu'ils mettent Chaos
@@ -442,43 +442,43 @@ s'écrasa contre un mur.
 
  
 
-"*Somnium* !" glapit Draco, puis au bout de quelques secondes pour se
+"*Somnium* !" glapit Drago, puis au bout de quelques secondes pour se
 recharger : "*SOMNIUM, BON SANG !*"
 
 Il *savait* qu'il touchait Theodore car l'autre garçon n'essayait même
 pas d'éviter, mais l'héritier de Nott se contenta d'avoir un sourire
 aussi maléfique que celui de son père, de lever sa baguette -
 
-Draco parvint à bondir de côté lorsque Theodore dit "*Somnium !*" mais
+Drago parvint à bondir de côté lorsque Theodore dit "*Somnium !*" mais
 l'essoufflement le gagnait et il ne pouvait pas maintenir ce rythme ;
-Theodore ne se fatiguait pas à éviter, Draco bougeait sans cesse,
+Theodore ne se fatiguait pas à éviter, Drago bougeait sans cesse,
 c'était de la *folie*.
 
 Il avait regagné assez de force pour faire feu à nouveau mais -
 
 *La stupidité consiste à refaire la même chose en s'attendant à un
 résultat différent*, avait dit Harry, et c'était *là* l'œuvre de
-*Harry*, ça ne pouvait plus être un objet moldu, mais Draco n'avait
+*Harry*, ça ne pouvait plus être un objet moldu, mais Drago n'avait
 n'arrivait pas à imaginer ce que ça *pouvait* être, et il aurait dû
 penser à des hypothèses et à des façons de les tester mais il était trop
 occupé à désespérément éviter les autre sortilèges de sommeil que
-Theodore lui lançait en riant ; Draco sentit un léger engourdissement au
+Theodore lui lançait en riant ; Drago sentit un léger engourdissement au
 flanc cette-fois ci, ça l'avait raté de très très peu, et il finit par
 en avoir assez, il ne se fatigua même pas à détailler la théorie qu'il
 testait ni pourquoi et il se contenta de -
 
-"*Luminos !*" s'écria Draco, et Theodore fut entouré d'une lumière
+"*Luminos !*" s'écria Drago, et Theodore fut entouré d'une lumière
 rouge, "*Dulak !*" et il s'éteignit de nouveau (donc Theodore *était*
 toujours affecté par la magie), "*Expelliarmus !*" et la baguette de
-Theodore s'envola (et Draco se rendit alors compte que de toute façon ça
-aurait été un bon sortilège à lancer), mais Theodore fonçait vers Draco
-bras tendus en avant pour le saisir si bien que Draco hurla
+Theodore s'envola (et Drago se rendit alors compte que de toute façon ça
+aurait été un bon sortilège à lancer), mais Theodore fonçait vers Drago
+bras tendus en avant pour le saisir si bien que Drago hurla
 "*Flipendo !*", les pied de l'autre garçon se renversèrent abruptement -
 
 \- et son dos heurta le sol dans un fracas *métallique* étonnamment
 fort.
 
-Draco voyait trouble après avoir lancé quatre sortilèges si rapidement,
+Drago voyait trouble après avoir lancé quatre sortilèges si rapidement,
 Theodore se relevait déjà du mieux qu'il pouvait, il n'y n'avait même
 pas le temps de penser en mots mais il parvint à dire "*Somnium !*" et
 *cette fois* il visa le visage de Theodore plutôt que sa poitrine.
@@ -486,13 +486,13 @@ pas le temps de penser en mots mais il parvint à dire "*Somnium !*" et
 Theodore évita (il *évita !*) et hurla :"*Code sept sur Malfoy !*"
 
 "*Prismatis !*" cria la voix de Padma et un arc-en-ciel chatoyant
-apparut soudain devant Draco au moment même où quatre voix chaotiques
+apparut soudain devant Drago au moment même où quatre voix chaotiques
 s'écriaient *Somnium !*
 
 Puis il y eut un silence tandis que tout le monde observait l'immense
 sphère prismatique qui protégeait les restes de l'armée Dragon.
 
-Lancer ce cinquième sort avait mis Draco à genoux mais il releva les
+Lancer ce cinquième sort avait mis Drago à genoux mais il releva les
 yeux et parvint à dire aussi clairement que possible : "Si le sortilège
 de sommeil - ne fonctionne pas - visez leur visage - je pense que les
 Lieutenants portent des hauts de métal."
@@ -503,7 +503,7 @@ Gryffondor eut un rire démoniaque. Il le faisait maintenant presque
 aussi bien que Harry Potter, et les autres légionnaires du Chaos se
 mirent rapidement à rire avec lui.
 
-Draco pouvait voir du coin de l'œil Gregory et Vincent, inconscients.
+Drago pouvait voir du coin de l'œil Gregory et Vincent, inconscients.
 Padma maintenait encore la sphère prismatique, la plus grande qu'il
 l'ait jamais vue lancer ; mais sa respiration était hachée, elle était
 encore recouverte de sueur, épuisée depuis le moment où ils avaient tous
@@ -512,7 +512,7 @@ mais pas *athlétique*.
 
 Il espérait vraiment que le général Granger arriverait vite et
 attaquerait Chaos par derrière. Le général Potter et Neville du Chaos
-manquaient à l'appel et Draco pouvait deviner quelle avait été leur
+manquaient à l'appel et Drago pouvait deviner quelle avait été leur
 destination, mais deux soldats ne pouvaient pas faire prendre trop de
 retard au régiment Soleil à eux seuls, si ?
 

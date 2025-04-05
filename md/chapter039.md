@@ -7,7 +7,7 @@ Ce lundi, le professeur Flitwick avait sans mot dire passé un parchemin
 à Harry pendant le cours de sortilèges et enchantements, et la note
 disait que Harry devait rendre visite au directeur quand cela lui
 conviendrait mais en faisant en sorte que personne ne le remarque, en
-particulier Draco Malfoy et le professeur Quirrell. Son mot de passe à
+particulier Drago Malfoy et le professeur Quirrell. Son mot de passe à
 usage unique pour la gargouille serait "ossifrage chochotte". La note
 avait été accompagnée d'un dessin à l'encre remarquablement bien réalisé
 qui représentait le professeur Flitwick le regardant d'un air sévère
@@ -483,7 +483,7 @@ définir par cela. La science est-elle aussi importante que l'amour ? Que
 la gentillesse ? Que l'amitié ? Est-ce la science qui te donne ton
 affection pour Minerva McGonagall ? Est-ce la science qui fait que tu te
 soucies de Hermione Granger ? Est-ce vers la science que tu te tournes
-lorsque tu essaies de faire naître de la chaleur dans le cœur de Draco
+lorsque tu essaies de faire naître de la chaleur dans le cœur de Drago
 Malfoy ?"
 
 *Vous savez, ce qui est triste, c'est que vous pensez probablement avoir
@@ -988,13 +988,13 @@ qui se déversait dans son esprit, contre la condescendance de Dumbledore
 et contre tout le rire que les sages vieux idiots avaient toujours
 utilisé en lieu et place d'un argument. "C'est drôle, vous savez, je
 pensais que ce serait à ce point qu'il serait impossible de dialoguer
-avec Draco Malfoy, et au lieu de cela, dans son innocence enfantine, il
+avec Drago Malfoy, et au lieu de cela, dans son innocence enfantine, il
 a été cent fois plus fort que vous."
 
 Un air d'incompréhension passa sur le visage du vieux sorcier. "Que
 veux-tu dire ?"
 
-"Je veux dire," dit Harry, la voix mordante, "que Draco *prenait ses
+"Je veux dire," dit Harry, la voix mordante, "que Drago *prenait ses
 propres croyances au sérieux* et *considérait* mes mots au lieu de
 simplement les *jeter par la fenêtre* en souriant avec une aimable
 supériorité. Vous êtes si vieux et sage que vous ne pouvez même pas

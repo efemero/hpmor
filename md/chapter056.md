@@ -396,7 +396,7 @@ jamais attendue, c'était d'être accepté, félicité et aidé…
 *Tu n'as pas à te battre seul*, dit silencieusement Harry à l'intention
 de son côté obscur. *Le reste de ma personne t'aidera. Je ne me
 laisserai pas mourir, et je ne laisserai pas mes amis mourir non plus.
-Pas toi/moi, pas Hermione, pas Maman ni Papa, pas Neville, pas Draco ni
+Pas toi/moi, pas Hermione, pas Maman ni Papa, pas Neville, pas Drago ni
 personne, c'est la volonté de protéger…* il visualisa des ailes de
 lumière solaire semblables aux ailes de Patronus qu'il avait déployées
 donner abri et réconfort à cet enfant effrayé.

@@ -63,7 +63,7 @@ Euh, Harry s'en occuperait un autre jour.
 professeur McGonagall cligna des yeux). "Euh… je pense qu'un sort a été
 ajouté au Choixpeau magique sans qu'il s'en rende compte, quelque chose
 qui se déclenche quand le Choixpeau magique dit Serpentard. J'ai entendu
-un message et je suis plutôt certain que les Serdaigles ne sont pas
+un message et je suis plutôt certain que les Serdaigle ne sont pas
 censés l'entendre. Ça a eu lieu au moment où le Choixpeau a quitté ma
 tête et que j'ai senti la connexion se couper. Ça ressemblait à la fois
 à de l'anglais et à un sifflement," il y eut une brusque inspiration

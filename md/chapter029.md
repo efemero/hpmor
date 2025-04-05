@@ -346,7 +346,7 @@ Quelques heures plus tard et elle était dans une salle d'étude de
 Poufsouffle avec Hannah, Susan, Leanne et Megan. Le professeur Flitwick,
 étonnamment timide pour un enseignant, lui avait demandé si elle
 pourrait peut-être aider les quatre élèves pour leurs devoirs de charmes
-et sortilèges, même si elles n'étaient pas Serdaigles, et Hermione
+et sortilèges, même si elles n'étaient pas Serdaigle, et Hermione
 s'était senti si fière qu'elle en avait presque pris feu.
 
 Elle prit une feuille de parchemin, répandit un peu d'encre à la surface
@@ -502,7 +502,7 @@ Et elle accéléra le pas, laissant Harry bouche bée derrière elle.
 
  
 
-"Professeur Quirrell," dit Draco de sa voix la plus formelle, "je me
+"Professeur Quirrell," dit Drago de sa voix la plus formelle, "je me
 dois de protester contre la nomination de Hermione Granger au poste de
 troisième général."
 
@@ -510,26 +510,26 @@ troisième général."
 chaise, un air nonchalant et détendu sur le visage. "Protestez donc, M.
 Malfoy."
 
-"Granger n'est pas apte à tenir ce poste," dit Draco.
+"Granger n'est pas apte à tenir ce poste," dit Drago.
 
 Le professeur Quirrell tapota d'un doigt sur sa joue, l'air pensif.
 "Mais si, elle l'est. Avez-vous d'autres protestations ?"
 
-"Professeur Quirrell," dit Harry Potter, qui se tenait à côté de Draco,
+"Professeur Quirrell," dit Harry Potter, qui se tenait à côté de Drago,
 "avec tout le respect que je dois aux nombreux talents scolaires de
 mademoiselle Granger et aux points Quirrell qu'elle a fort justement
 obtenu lors de vos cours, sa personnalité ne correspond pas à la tâche
 de commandeur militaire."
 
-Draco avait été soulagé quand Harry avait accepté de l'accompagner dans
+Drago avait été soulagé quand Harry avait accepté de l'accompagner dans
 le bureau du professeur Quirrell. Ce n'était pas *seulement* que Harry
 était un le plus grand des chouchou qui soit aux yeux du professeur
-Quirrell. Draco avait aussi commencé à s'inquiéter de la possibilité que
+Quirrell. Drago avait aussi commencé à s'inquiéter de la possibilité que
 Harry soit *réellement* ami avec Granger, ça faisait un bout de temps
 maintenant et Harry ne l'avait *toujours pas* attaquée… mais voilà qui
 était mieux.
 
-"Je suis d'accord avec M. Potter," dit Draco. "La nommer général va
+"Je suis d'accord avec M. Potter," dit Drago. "La nommer général va
 transformer tout cela en une farce."
 
 "Sévèrement formulé," dit Harry, "mais je ne peux faire autrement que de
@@ -541,7 +541,7 @@ raisins mûrs."
 répondit le professeur Quirrell avec douceur, "vous ne me dites rien que
 je ne sais déjà."
 
-C'était à Draco de dire quelque chose mais il semblait que la
+C'était à Drago de dire quelque chose mais il semblait que la
 conversation venait soudain d'attraper le hoquet. Cette réponse n'avait
 *pas* fait partie des possibilités que lui et Harry avaient envisagées
 lorsqu'ils s'étaient creusés les méninges avant de venir ici. Que
@@ -557,7 +557,7 @@ Le silence continua un moment.
 Quirrell. "Ne puis-je jamais créer du chaos pour le plaisir de le
 faire ?"
 
-Draco faillit s'étrangler.
+Drago faillit s'étrangler.
 
 "Pas dans votre cours de magie de combat," dit Harry, armé d'une calme
 certitude. "En d'autres lieux peut-être, mais pas ici."
@@ -566,31 +566,31 @@ Le professeur Quirrell leva lentement ses sourcils.
 
 Harry lui rendit son regard avec assurance.
 
-Draco frissonna.
+Drago frissonna.
 
 "Eh bien dans ce cas," dit le professeur Quirrell, "il semble qu'aucun
 de vous n'a envisagé une très simple question. Qui pourrais-je nommer à
 la place de mademoiselle Granger ?"
 
-"Blaise Zabini," dit Draco sans hésiter.
+"Blaise Zabini," dit Drago sans hésiter.
 
 "D'autres suggestions ?" dit le professeur Quirrell, l'air très amusé.
 
-*Anthony Goldstein et Ernie Macmillan* vinrent à l'esprit de Draco avant
+*Anthony Goldstein et Ernie Macmillan* vinrent à l'esprit de Drago avant
 que son bon sens ne prenne le dessus et n'exclue tout Sang-de-Bourbe et
 tout Poufsouffle, peu importe leur agressivité lors des duels. Au lieu
-de cela, Draco se contenta de dire : "Qu'est ce qui ne va pas avec
+de cela, Drago se contenta de dire : "Qu'est ce qui ne va pas avec
 Zabini ?"
 
 "Je vois…" dit lentement Harry.
 
-"Moi *pas*," dit Draco. "Pourquoi pas Zabini ?"
+"Moi *pas*," dit Drago. "Pourquoi pas Zabini ?"
 
-Le professeur Quirrell regarda Draco. "Parce que, M. Malfoy, peut
+Le professeur Quirrell regarda Drago. "Parce que, M. Malfoy, peut
 importe les efforts qu'il y mettra, il ne sera jamais à votre hauteur,
 ni à celle de M. Potter."
 
-Le choc stupéfia Draco. "Vous ne pouvez pas croire que *Granger* va -"
+Le choc stupéfia Drago. "Vous ne pouvez pas croire que *Granger* va -"
 
 "Il parie sur elle," dit doucement Harry. "Ce n'est pas garanti. Les
 chances ne sont même pas bonnes. Elle ne ne nous tiendra probablement
@@ -598,7 +598,7 @@ jamais tête, et même si elle le fait, elle pourrait mettre des mois à
 apprendre. Mais elle est la seule dans notre année à avoir la moindre de
 chance de devenir capable de nous battre."
 
-Les mains de Draco se tordirent mais ne devinrent pas des poings. Se
+Les mains de Drago se tordirent mais ne devinrent pas des poings. Se
 faire passer pour votre partisan pour ensuite se retirer était une
 tactique de sapage classique, donc Harry Potter *était* avec Granger et
 *cela* impliquait que -
@@ -606,17 +606,17 @@ tactique de sapage classique, donc Harry Potter *était* avec Granger et
 "Mais professeur," enchaîna naturellement Harry, "je suis inquiet à
 l'idée que Hermione soit *malheureuse* à ce poste de général. Je parle
 en tant qu'ami à présent, professeur Quirrell. La compétition nous fait
-peut-être du bien à Draco et à moi, mais ce que vous demandez d'elle ne
+peut-être du bien à Drago et à moi, mais ce que vous demandez d'elle ne
 lui fera pas de *bien* !"
 
-*Au temps pour moi*, songea Draco.
+*Au temps pour moi*, songea Drago.
 
 "Votre amitié pour Hermione Granger vous fait honneur," dit sèchement le
 professeur Quirrell. "Tout particulièrement parce que vous parvenez à
-être en même temps ami avec Draco Malfoy. En voilà une belle prouesse."
+être en même temps ami avec Drago Malfoy. En voilà une belle prouesse."
 
 Harry eut soudain l'air un peu nerveux, ce qui voulait dire qu'il se
-sentait probablement *beaucoup* plus nerveux, et Draco jura en son for
+sentait probablement *beaucoup* plus nerveux, et Drago jura en son for
 intérieur. Bien sûr que Harry n'allait pas tromper le professeur
 Quirrell.
 
@@ -624,7 +624,7 @@ Quirrell.
 amicale," dit le professeur Quirrell. "C'est elle qui m'a demandé le
 poste, M. Potter, ce n'est pas moi qui suis allé la voir."
 
-Harry se tut pendant un moment. Puis il jeta à Draco un rapide coup
+Harry se tut pendant un moment. Puis il jeta à Drago un rapide coup
 d'œil d'excuse et de mise en garde mêlées, disant à la fois *Désolé,
 j'ai fait de mon mieux* et *On ne devrait pas insister*.
 
@@ -634,9 +634,9 @@ suspecte qu'il lui sera bien plus facile de supporter les rigueurs de
 son poste qu'aucun de vous deux ne pourrait l'imaginer, et qu'elle vous
 tiendra tête bien plus tôt que vous ne le pensez."
 
-Harry et Draco manquèrent d'oxygène sous le coup de l'horreur.
+Harry et Drago manquèrent d'oxygène sous le coup de l'horreur.
 
-"Vous n'allez pas la *conseiller* quand même ?" dit Draco, absolument
+"Vous n'allez pas la *conseiller* quand même ?" dit Drago, absolument
 effaré.
 
 "Je ne me suis jamais inscrit à un combat contre *vous* !" dit Harry.
@@ -650,7 +650,7 @@ batailles."
 "Oh, ne vous en faites pas," dit le professeur Quirrell. "Elle a rejeté
 mon offre. Comme je m'y attendais."
 
-Les yeux de Draco se rétrécirent.
+Les yeux de Drago se rétrécirent.
 
 "Allons, M. Potter," dit le professeur Quirrell, "personne ne vous
 a-t-il jamais dit qu'il était mal élevé de fixer les gens ?"
@@ -659,7 +659,7 @@ a-t-il jamais dit qu'il était mal élevé de fixer les gens ?"
 
 "Ferais-je une chose pareille ?" dit le professeur Quirrell.
 
-"Oui," dirent Harry et Draco à l'unisson.
+"Oui," dirent Harry et Drago à l'unisson.
 
 "Je suis blessé par votre manque de confiance. Eh bien dans ce cas, je
 promets de ne pas aider le général Granger à votre insu de quelque façon
@@ -672,36 +672,36 @@ affaires militaires. Novembre approche à grand pas."
 
  
 
-Ils émergeaient du bureau du professeur Quirrell, et Draco vit les
+Ils émergeaient du bureau du professeur Quirrell, et Drago vit les
 implications avant que la porte ne se soit totalement refermée.
 
 Harry avait un jour dédaigneusement parlé des "trucs politiques".
 
-Et c'était le seul espoir de Draco.
+Et c'était le seul espoir de Drago.
 
 Pourvu qu'il ne se rende pas compte, pourvu qu'il ne se rende pas
 compte…
 
 "On devrait juste attaquer Granger d'abord et la faire sortir du
-tableau," dit Draco. "Après l'avoir écrasée, nous pourrons avoir notre
+tableau," dit Drago. "Après l'avoir écrasée, nous pourrons avoir notre
 combat sans être distraits."
 
 "Ça ne me semble pas très équitable," dit Harry d'une voix égale.
 
-"Qu'est-ce que *tu* en as à faire ?" dit Draco. "C'est bien ta rivale ?"
+"Qu'est-ce que *tu* en as à faire ?" dit Drago. "C'est bien ta rivale ?"
 Alors, avec juste la bonne touche de soupçon dans la voix, "ne me dis
 pas que tu as commencé à *vraiment* bien l'aimer, après avoir été son
 rival tout ce temps…"
 
 "Les fondateurs m'en gardent," dit Harry. "Que veux-tu que je te dise,
-Draco ? J'ai simplement un sens de la justice instinctif. Granger aussi,
+Drago ? J'ai simplement un sens de la justice instinctif. Granger aussi,
 tu sais. Elle a une très bonne maîtrise des notions de bien et de mal,
 et elle va probablement commencer par attaquer le mal. Tu sais, il faut
 vraiment le chercher pour s'appeler 'Malfoy'."
 
 *BON SANG !*
 
-"Harry," dit Draco d'un ton blessé et peut-être un peu supérieur, "ne
+"Harry," dit Drago d'un ton blessé et peut-être un peu supérieur, "ne
 veux tu pas te battre de façon *équitable* contre moi ?"
 
 "Tu veux dire plutôt que de t'attaquer après que tu aies déjà perdu
@@ -709,14 +709,14 @@ quelques une de tes troupes en vainquant Granger ?" dit Harry. "Oh, je
 ne sais pas. Peut-être qu'une fois que je me serais ennuyé de gagner
 j'essaierai la méthode 'équitable'."
 
-"Peut-être qu'elle t'attaquera *toi*," dit Draco. "*Tu* es son rival."
+"Peut-être qu'elle t'attaquera *toi*," dit Drago. "*Tu* es son rival."
 
 "Mais je suis son *ami* rival," dit Harry, un méchant sourire dessiné
 sur le visage. "Je lui ai offert un beau cadeau d'anniversaire et tout.
 Ça ne serait pas bien vu d'aller saboter son ami rival comme ça."
 
 "Et que dis-tu de l'idée de saboter les chances que ton *ami* ait un
-combat équitable ?" dit Draco avec colère. "Je pensais qu'on était
+combat équitable ?" dit Drago avec colère. "Je pensais qu'on était
 amis !"
 
 "Laisse-moi reformuler," dit Harry. "*Granger* ne saboterait pas un ami
@@ -745,14 +745,14 @@ méchant faisait face au héros.
 Nous étions mercredi 30 octobre, et la première bataille aurait lieu ce
 dimanche.
 
-Draco se tenait dans le bureau du général Granger, une pièce de la
-taille d'une petite salle de classe (Draco ne savait pas exactement
+Drago se tenait dans le bureau du général Granger, une pièce de la
+taille d'une petite salle de classe (Drago ne savait pas exactement
 *pourquoi* les bureaux des généraux étaient si grands. Une chaise et un
 bureau lui auraient suffit. Et en premier lieu, il n'était même pas
 certain que les généraux aient besoin d'un bureau puisque tous leurs
 soldats savaient ou les trouver. À moins que le professeur Quirrell
 n'ait délibérément organisé les choses afin de leur fournir une marque
-de statut, auquel cas Draco était tout à fait en faveur de l'idée).
+de statut, auquel cas Drago était tout à fait en faveur de l'idée).
 
 Granger était assise sur la seule chaise de la salle, comme si cela
 avait été un trône, et elle se situait loin à l'autre de bout de la
@@ -764,8 +764,8 @@ avait des fenêtres le long d'un des murs, et un rayon de soleil venait
 toucher le dessus des cheveux de Granger pour lui faire une couronne
 lumineuse.
 
-Ça aurait été bien si Draco avait pu s'avancer lentement. Mais il y
-avait une table qui lui barrait le chemin, Draco aurait dû faire le tour
+Ça aurait été bien si Drago avait pu s'avancer lentement. Mais il y
+avait une table qui lui barrait le chemin, Drago aurait dû faire le tour
 par la diagonale, et il était impossible de le faire d'une façon
 théâtrale et empreinte de dignité. Cela avait-il été délibéré ? S'il
 s'était agit de son père, ça l'aurait sûrement été ; mais c'était
@@ -774,16 +774,16 @@ Granger, donc probablement pas.
 Il n'avait nulle part où s'asseoir, et Granger ne s'était pas non plus
 levée.
 
-Draco se garda bien d'exprimer le moindre outrage.
+Drago se garda bien d'exprimer le moindre outrage.
 
-"Eh bien, M. Draco Malfoy," dit Granger une fois qu'il fut arrivé
+"Eh bien, M. Drago Malfoy," dit Granger une fois qu'il fut arrivé
 jusqu'à elle, "vous avez sollicité une audience et j'ai eu la grâce de
 vous l'octroyer. Quelle est votre requête ?"
 
 *Viens me rendre visite au manoir Malfoy, mon père et moi voudrions te
 montrer quelques sorts intéressants.*
 
-"Potter, votre rival, m'a fait une offre," dit Draco, arborant un air
+"Potter, votre rival, m'a fait une offre," dit Drago, arborant un air
 sérieux. "Il n'était pas gêné à l'idée de perdre contre moi, mais se
 serait sentit humilié par votre victoire. Il veut donc joindre ses
 forces aux miennes et vous éradiquer immédiatement, pas seulement lors
@@ -794,70 +794,70 @@ qu'il lancera une attaque de toute ses forces en début de bataille."
 "Je vois," dit Granger, l'air surprise. "Et vous offrez de m'aider
 contre lui ?"
 
-"Bien sûr," enchaîna immédiatement Draco. "Je n'ai pas trouvé que ce
+"Bien sûr," enchaîna immédiatement Drago. "Je n'ai pas trouvé que ce
 qu'il comptait vous faire était très juste."
 
 "Voyons, mais c'est très gentil de votre part, M. Malfoy," dit Granger.
 "Je suis navrée la façon dont je vous ai parlé plus tôt. Nous devrions
 être amis. Puis-je vous appeler Draky ?"
 
-Des sirènes d'alarmes se mirent à sonner dans la tête de Draco, mais il
+Des sirènes d'alarmes se mirent à sonner dans la tête de Drago, mais il
 y avait une *chance* qu'elle soit sincère…
 
-"Bien sûr," dit Draco, "si je peux vous appeler Hermy."
+"Bien sûr," dit Drago, "si je peux vous appeler Hermy."
 
-Draco fut presque certain d'avoir vu son visage tressaillir.
+Drago fut presque certain d'avoir vu son visage tressaillir.
 
-"Quoi qu'il en soit," dit Draco, "je pensais que ça donnerait une bonne
+"Quoi qu'il en soit," dit Drago, "je pensais que ça donnerait une bonne
 leçon à Potter si nous l'attaquions tous les deux et l'éradiquions."
 
 "Mais ne serait-ce pas injuste envers M. Potter ?" dit Granger.
 
-"Je pense que ce serait très juste," dit Draco. "Il comptait déjà vous
+"Je pense que ce serait très juste," dit Drago. "Il comptait déjà vous
 infliger cette trahison."
 
 Granger le regardait d'un air sévère qui aurait peut-être pu l'intimider
 s'il avait été un Poufsouffle et pas un Malfoy. "Vous pensez que je suis
 assez stupide, n'est-ce pas M. Malfoy ?"
 
-Draco eut un sourire charmeur. "Non, mademoiselle Granger, mais je me
+Drago eut un sourire charmeur. "Non, mademoiselle Granger, mais je me
 suis dit que je devrais au moins vérifier. Alors, que voulez-vous ?"
 
 "Êtes-vous en train d'essayer de me *soudoyer* ?" dit Granger.
 
-"Tout à fait," dit Draco. "Puis-je juste vous filer Gallion et vous voir
+"Tout à fait," dit Drago. "Puis-je juste vous filer Gallion et vous voir
 combattre Potter plutôt que moi jusqu'à la fin de l'année ?"
 
 "Non," dit Granger, "mais vous pouvez m'offrir dix Gallions et me voir
 vous combattre de façon équitable au lieu que je me concentre sur vous."
 
-"Dix Gallions représentent une forte somme," dit prudemment Draco.
+"Dix Gallions représentent une forte somme," dit prudemment Drago.
 
-"Je ne savais pas que les Malfoys étaient pauvres," dit Granger.
+"Je ne savais pas que les Malfoy étaient pauvres," dit Granger.
 
-Draco fixa Granger.
+Drago fixa Granger.
 
 Il commençait à trouver cette situation étrange.
 
 Cette réponse en particulier ne ressemblait pas à ce que cette fille en
 particulier avait l'habitude de dire.
 
-"Eh bien," dit Draco, "on ne devient pas riche en jetant son argent par
+"Eh bien," dit Drago, "on ne devient pas riche en jetant son argent par
 les fenêtres, vous savez."
 
 "Je ne sais pas si vous savez ce qu'est un dentiste, M. Malfoy, mais mes
 parents sont *dentistes*, et toute somme inférieure à dix Gallions ne
 mérite pas que je m'y attarde."
 
-"Trois Gallions," dit Draco, plus pour sonder le terrain qu'autre chose.
+"Trois Gallions," dit Drago, plus pour sonder le terrain qu'autre chose.
 
 "Non," dit Granger. "Pas si vous voulez un combat équitable pour tous,
 et je ne pense pas qu'un Malfoy désire un combat équitable moins qu'il
 ne désire dix Gallions."
 
-Draco commençait à trouver cette situation *très* étrange.
+Drago commençait à trouver cette situation *très* étrange.
 
-"Non," dit Draco.
+"Non," dit Drago.
 
 "Non ?" dit Granger. "Cette offre a une date d'expiration, M. Malfoy.
 Êtes-vous certain de vouloir risquer une année entière pendant laquelle
@@ -868,11 +868,11 @@ C'était un argument très persuasif, un argument très difficile à
 rejeter, mais vous ne deveniez pas riche en dépensant son argent quand
 votre cœur vous disait que c'était un piège.
 
-"Non," dit Draco.
+"Non," dit Drago.
 
 "À dimanche," dit Granger.
 
-Draco fit demi-tour et sortit du bureau sans prononcer un mot de plus.
+Drago fit demi-tour et sortit du bureau sans prononcer un mot de plus.
 
 Ça ne s'était *pas bien* passé…
 

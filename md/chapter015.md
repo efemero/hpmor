@@ -16,7 +16,7 @@ regard tout autour du cours de Sortilèges afin de s'assurer que personne
 ne regardait, avait pris une profonde inspiration, et s'était mis en
 colère. Il avait pensé aux Serpentard malmenant Neville et au jeu où on
 faisait tomber vos livres à chaque fois que vous essayez de les
-ramasser. Il avait pensé à ce que Draco Malfoy avait dit au sujet de la
+ramasser. Il avait pensé à ce que Drago Malfoy avait dit au sujet de la
 fille Lovegood, âgée de dix ans, et à la façon dont le Magenmagot
 fonctionnait vraiment…
 

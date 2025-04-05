@@ -53,10 +53,10 @@ que le professeur Quirrell n'allait pas donner d'autres indices, non pas
 que Harry les aurait acceptés.
 
 Puis l'esprit de Harry établit enfin la connexion, et il fronça les
-sourcils. "Dumbledore tue Draco, fait croire que c'est ma faute, et
+sourcils. "Dumbledore tue Drago, fait croire que c'est ma faute, et
 Lucius sacrifie son jeu contre Dumbledore pour m'atteindre ? Cela… ne
 ressemble pas au *style* du directeur, professeur Quirrell…" L'esprit de
-Harry eut un flash où Draco lui prodiguait une mise en garde semblable,
+Harry eut un flash où Drago lui prodiguait une mise en garde semblable,
 et à laquelle Harry avait répondu la même chose.
 
 Le professeur Quirrell haussa les épaules et sirota son thé.

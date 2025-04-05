@@ -399,14 +399,14 @@ le visage *qu'est-ce* qui se tient à côté de toi ?"
 
 L'air horrifié de Ron fut remplacé par de la haine absolue. "*Toi !*"
 
-Harry tourna la tête ; et c'était bien Draco Malfoy, qui avait peut-être
+Harry tourna la tête ; et c'était bien Drago Malfoy, qui avait peut-être
 été forcé de revêtir les robes réglementaires de l'école mais se
 rattrapait avec une malle à l'air au moins aussi magique et bien plus
 élégante que celle de Harry, décorée d'argent et d'émeraudes et portant
 ce que Harry devina être les armoiries de la famille Malfoy, un
 magnifique serpents à crocs surmontant des baguettes d'ivoire.
 
-"Draco !" dit Harry. "Euh, ou Malfoy si tu préfères, même si je trouve
+"Drago !" dit Harry. "Euh, ou Malfoy si tu préfères, même si je trouve
 que ça fait un peu penser à Lucius. Je suis content de voir que tu vas
 si bien après notre dernière, euh, notre dernière rencontre. Voici Ron
 Weasley. J'essaie de rester incognito, alors appelle moi, euh," Harry
@@ -417,7 +417,7 @@ regarda ses robes, "Monsieur Black."
 Harry cligna des yeux. "Pourquoi pas ?" Ça *sonnait* joliment sombre,
 comme un homme mystérieux international -
 
-"Je dirais que c'est un *excellent* nom," dit Draco, "mais la Noble et
+"Je dirais que c'est un *excellent* nom," dit Drago, "mais la Noble et
 Ancienne Maison des Black pourrait y trouver à redire. Que penses-tu de
 M. Argent ?"
 
@@ -428,18 +428,18 @@ Harry leva une main apaisante. "Je me ferai appeler M. Bronze, merci
 pour le schéma d'appellation. Et Ron, euh," Harry lutta pour trouver une
 façon agréable de dire : "Je suis heureux que tu sois si…enthousiaste à
 l'idée de me protéger, mais ça ne me dérange pas particulièrement de
-discuter avec Draco -"
+discuter avec Drago -"
 
 Ce fut apparemment un coup fatal pour Ron, qui se tourna vers Harry avec
 des yeux à présent enflammés par l'outrage. "*Quoi* ? *Sais*-tu qui il
 est ?"
 
 "Oui, Ron," dit Harry, "tu te souviens peut-être que je l'ai appelé
-Draco sans qu'il ait besoin de se présenter."
+Drago sans qu'il ait besoin de se présenter."
 
-Draco ricana. Puis ses yeux s'éclairèrent lorsqu'il vit la chouette
+Drago ricana. Puis ses yeux s'éclairèrent lorsqu'il vit la chouette
 blanche posée sur l'épaule de Ron. "Oh, qu'est ce que c'est que *ça* ?"
-dit Draco avec un second ricanement plein de malveillance. "Où est le
+dit Drago avec un second ricanement plein de malveillance. "Où est le
 fameux rat de la famille Weasley ?"
 
 "Enterré dans le jardin," dit Ron froidement.
@@ -452,7 +452,7 @@ raconter, Weasley ?"
 Le visage de Ron se contorsionna. "Tu ne trouverais pas ça drôle si ça
 arrivait à *ta* famille !"
 
-"Oh," ronronna Draco, "mais ça n'*arriverait* jamais aux Malfoys."
+"Oh," ronronna Drago, "mais ça n'*arriverait* jamais aux Malfoy."
 
 Les mains de Ron devinrent des poings -
 
@@ -462,7 +462,7 @@ contenu, c'était un souvenir douloureux pour le garçon roux. "Si Ron ne
 veut pas en parler, il n'y est pas obligé, et je te demanderai de ne pas
 en parler non plus."
 
-Draco jeta un regard surprit à Harry, et Ron acquiesça. "C'est ça
+Drago jeta un regard surprit à Harry, et Ron acquiesça. "C'est ça
 Harry ! Je veux dire M. Bronze ! Tu vois le genre de personne qu'il
 est ? Maintenant dis-lui de s'en aller !"
 
@@ -474,7 +474,7 @@ aussi efficace. "Ron," dit Harry calmement, "Je ne vais pas lui dire de
 s'en aller. Il peut me parler si il le veut."
 
 "Eh bien je n'ai pas l'intention de traîner avec quelqu'un qui traîne
-avec Draco Malfoy," annonça Ron froidement.
+avec Drago Malfoy," annonça Ron froidement.
 
 Harry haussa les épaules. "Ça te regarde. *Je* ne compte pas laisser qui
 que ce soit me dire avec qui je peux et ne peux pas passer du temps." Et
@@ -486,7 +486,7 @@ expression, comme si il s'était vraiment attendu à ce que sa réplique
 fasse effet. Puis il fit demi-tour, tira la laisse de son bagage et
 partit précipitamment du quai.
 
-"Si tu ne l'aimais pas," dit Draco avec curiosité, "pourquoi n'es-tu pas
+"Si tu ne l'aimais pas," dit Drago avec curiosité, "pourquoi n'es-tu pas
 simplement parti ?"
 
 "Euh… sa mère m'a aidé à comprendre comment aller sur ce quai depuis la
@@ -494,12 +494,12 @@ gare de King's Cross, donc c'était un peu difficile de lui dire d'aller
 se faire voir. Et puis ce n'est pas que je le *déteste*," dit Harry,
 "c'est juste que je, que je…" Harry chercha ses mots.
 
-"…ne vois aucune raison justifiant son existence ?" proposa Draco.
+"…ne vois aucune raison justifiant son existence ?" proposa Drago.
 
 "À peu près."
 
 "Quoi qu'il en soit, Potter… si tu a vraiment été éduqué par des Moldus
--" Draco s'interrompit, comme s'il attendait une dénégation, mais Harry
+-" Drago s'interrompit, comme s'il attendait une dénégation, mais Harry
 ne dit rien "- alors tu ne te rends peut-être pas compte de ce que c'est
 que d'être connu. Les gens vont vouloir te prendre *tout* ton temps. Tu
 *dois* apprendre à dire non."
@@ -517,7 +517,7 @@ Weasley."
 Harry acquiesça à nouveau. "Si ça ne te dérange pas que je te le
 demande, comment m'as-tu reconnu ?"
 
-"*M. Bronze*," lâcha Draco, "Je t'*ai* rencontré, souviens-toi. Je t'ai
+"*M. Bronze*," lâcha Drago, "Je t'*ai* rencontré, souviens-toi. Je t'ai
 même très bien rencontré. J'ai vu quelqu'un se promenant avec une
 écharpe enroulée autour de sa tête et à l'air *complètement ridicule*.
 Alors j'ai fait une *folle supposition*."
@@ -526,9 +526,9 @@ Harry inclina la tête, acceptant le compliment. "Je suis *profondément*
 désolé, à ce propos," dit Harry. "Je veux dire, notre première
 rencontre. Je ne voulais pas t'embarrasser devant Lucius."
 
-Draco rejeta l'excuse d'un mouvement de la main tout en regardant Harry
+Drago rejeta l'excuse d'un mouvement de la main tout en regardant Harry
 d'une étrange façon. "J'aurais juste aimé que Père soit arrivé pendant
-que *tu* me flattais *moi* -" rit Draco. "Mais *merci* d'avoir dit ce
+que *tu* me flattais *moi* -" rit Drago. "Mais *merci* d'avoir dit ce
 que tu as dit à Père. Sans ça, j'aurais eu beaucoup plus de mal à tout
 expliquer."
 
@@ -547,7 +547,7 @@ sujet de la famille Malfoy."
 
 Harry hocha la tête. "Heureux t'entendre que tu es hors du pétrin -"
 
-Draco sourit. "Père a, hum, un sens de l'humour assez *raffiné*, mais il
+Drago sourit. "Père a, hum, un sens de l'humour assez *raffiné*, mais il
 *comprend* ce que c'est que d'avoir des amis. Il le comprend *très*
 bien. En fait, il m'a fait répéter ceci chaque soir avant d'aller au lit
 pendant tout le mois dernier : 'Je me ferai des amis à Poudlard.'
@@ -558,18 +558,18 @@ offert une glace."
 La mâchoire de Harry se décrocha. "*Tu as réussi à transformer ça en une
 glace* ?"
 
-Draco acquiesça, et il avait l'air aussi fier de lui que cet exploit le
+Drago acquiesça, et il avait l'air aussi fier de lui que cet exploit le
 méritait. "Eh bien, père *savait* ce que je faisais, bien sûr, mais
 c'est lui qui m'avait apprit *comment* le faire, et si je souris comme
 il faut *pendant* que je le fais, ça devient une blague père-fils et
 alors il *doit* m'acheter une glace ou sinon je lui donne un regard
 triste, comme si je pensais l'avoir déçu."
 
-Harry observa Draco d'un air calculateur, sentant qu'il était en
+Harry observa Drago d'un air calculateur, sentant qu'il était en
 présence d'un autre maître. "Tu as reçu des *leçons* sur la façon de
 manipuler les gens ?"
 
-"Depuis aussi longtemps que je me souvienne," dit Draco fièrement. "Père
+"Depuis aussi longtemps que je me souvienne," dit Drago fièrement. "Père
 m'a payé des précepteurs."
 
 "Wow," dit Harry. Avoir lu *Influence et Manipulation* de Robert
@@ -577,18 +577,18 @@ Cialdini n'était probablement pas à la hauteur, comparé à ça (même si
 c'était quand même un sacré livre). "Ton père est presque aussi génial
 que mon père."
 
-Les sourcils de Draco s'élevèrent noblement. "Oh ? Et qu'est ce que
+Les sourcils de Drago s'élevèrent noblement. "Oh ? Et qu'est ce que
 *ton* père fait ?"
 
 "Il m'achète des livres."
 
-Draco considéra l'affirmation. "Ça n'a pas l'air très impressionnant."
+Drago considéra l'affirmation. "Ça n'a pas l'air très impressionnant."
 
 "Il faut y être pour comprendre. En tout cas, je suis content d'entendre
 ça. Vu la façon dont Lucius te regardait, j'ai cru qu'il allait te
 c-crucifier."
 
-"Mon père m'aime vraiment," dit Draco avec fermeté. "Il ne ferait
+"Mon père m'aime vraiment," dit Drago avec fermeté. "Il ne ferait
 certainement pas une chose pareille."
 
 "Euh…" dit Harry. Il se souvint de la figure parfaite en robe noire et
@@ -597,7 +597,7 @@ magnifique cane à poignée d'argent. C'était juste tellement difficile de
 visualiser ce tueur parfait sous les traits d'un papa gâteau. "Ne le
 prends pas mal, mais comment *sais*-tu ça ?"
 
-"Hein ?" Il était clair que ce n'était pas une question que Draco se
+"Hein ?" Il était clair que ce n'était pas une question que Drago se
 posait très souvent.
 
 "Je pose la question fondamentale de la rationalité : Pourquoi crois-tu
@@ -605,7 +605,7 @@ ce que tu crois ? Que penses-tu savoir et comment penses-tu que tu le
 sais ? Qu'as-tu *vu* qui te fasse penser que Lucius ne te sacrifierait
 pas comme il sacrifierait toute autre pièce de son jeu ?"
 
-Draco jeta un nouveau regard à Harry. "Que sais-*tu* au juste de Père ?"
+Drago jeta un nouveau regard à Harry. "Que sais-*tu* au juste de Père ?"
 
 "Hmm… siège au Magenmagot, siège au Conseil des Gouverneurs de Poudlard,
 incroyablement riche, a l'attention du ministre Fudge, a la confiance du
@@ -617,7 +617,7 @@ est sorti en disant qu'il était sous un sort d'Impérium, ce qui était
 ridiculement peu vraisemblable et à peu près tout le monde le savait…
 méchant avec un 'M' capital et tueur né… je crois que c'est tout."
 
-Les yeux de Draco devinrent si étroits qu'on aurait dit des fentes. "Je
+Les yeux de Drago devinrent si étroits qu'on aurait dit des fentes. "Je
 vois que McGonagall t'a tout dit."
 
 "Non, elle a refusé de me dire *quoi que ce soit* au sujet de Lucius, à
@@ -627,21 +627,21 @@ l'Incident au Magasin de Potions, pendant que le Professeur McGonagall
 garder sous contrôle, j'ai attrapé l'un des clients et je l'ai interrogé
 *lui* au sujet de Lucius."
 
-Les yeux de Draco s'agrandirent à nouveau. "Tu as *vraiment* fait ça ?"
+Les yeux de Drago s'agrandirent à nouveau. "Tu as *vraiment* fait ça ?"
 
-Harry jeta un regard perplexe à Draco. "Si j'ai menti la première fois,
+Harry jeta un regard perplexe à Drago. "Si j'ai menti la première fois,
 je ne vais pas te dire la vérité juste parce que tu me poses encore la
 question."
 
-Il y eut une pause, tandis que Draco absorbait cette information.
+Il y eut une pause, tandis que Drago absorbait cette information.
 
 "Tu vas tellement aller à Serpentard."
 
 "Je vais tellement aller à Serdaigle, merci bien. Je veux le pouvoir
 juste pour avoir les livres."
 
-Draco gloussa. "Ouais, bien sûr. Enfin bref… pour répondre à ta
-question…" Draco prit une profonde inspiration, et son visage devint
+Drago gloussa. "Ouais, bien sûr. Enfin bref… pour répondre à ta
+question…" Drago prit une profonde inspiration, et son visage devint
 sérieux. "Père a manqué un vote du Magenmagot pour moi. J'étais sur un
 balai et je suis tombé et je me suis brisé de nombreuses côtes. Ça
 faisait vraiment mal. Je n'avais jamais eu aussi mal et je pensais que
@@ -650,40 +650,40 @@ j'allais mourir. Alors Père a raté ce vote très important, parce qu'il
 promettant que tout irait bien."
 
 Harry regarda ailleurs, mal à l'aise, puis, avec effort, se força à
-regarder à nouveau Draco. "Pourquoi me dis-tu *ça* ? Ça semble assez…
+regarder à nouveau Drago. "Pourquoi me dis-tu *ça* ? Ça semble assez…
 intime…"
 
-Draco regarda Harry avec grand sérieux. "L'un de mes précepteurs m'a dit
+Drago regarda Harry avec grand sérieux. "L'un de mes précepteurs m'a dit
 un jour que les gens forment des amitiés fortes en connaissant des
 choses intimes l'un sur l'autre, et la raison pour laquelle la plupart
 des gens n'ont pas d'amis proches est qu'ils sont trop gênés pour
-partager quoi que ce soit de vraiment intime." Draco ouvrit ses paumes
+partager quoi que ce soit de vraiment intime." Drago ouvrit ses paumes
 d'un air invitant. "À ton tour ?"
 
-Harry observa que savoir que l'expression pleine d'espoir de Draco lui
+Harry observa que savoir que l'expression pleine d'espoir de Drago lui
 avait été instillée par des mois de pratique ne la rendait pas moins
 efficace. En fait, si, ça la *rendait moins* efficace, mais
 malheureusement pas *sans effet*. On pouvait dire la même chose au sujet
-de la façon intelligente dont Draco poussait à la réciprocité en offrant
+de la façon intelligente dont Drago poussait à la réciprocité en offrant
 un cadeau non sollicité, une technique que Harry avait découverte dans
 ses livres de psychologie sociale (une expérience avait montré qu'un
 cadeau inconditionnel de 5 \$ était deux fois plus efficace qu'une offre
 conditionnelle de 50 \$ à pousser les gens à répondre à des
-questionnaires). Draco avait fait cadeau d'une confidence non sollicitée
+questionnaires). Drago avait fait cadeau d'une confidence non sollicitée
 à Harry, et il l'invitait maintenant à offrir une confidence en retour…
 et le truc, c'était que Harry *se sentait* poussé à le faire. Un refus,
 Harry en était certain, se heurterait à un air triste regard déçu, et
 peut être à une petite quantité de mépris indiquant que Harry avait
 perdu des points.
 
-"Draco," dit Harry, "il faut que tu sache que je sais exactement ce que
+"Drago," dit Harry, "il faut que tu sache que je sais exactement ce que
 tu es en train de faire. Mes livres appellent ça *réciprocité* et ils
 parlent du fait qu'il a été prouvé que, pour obtenir de quelqu'un qu'il
 fasse quelque chose, il était deux fois plus efficace de simplement lui
 donner deux Mornilles que de lui en promettre vingt…" Harry laissa sa
 phrase en suspens.
 
-Draco avait l'air triste et déçu. "Ce n'était pas censé être un piège,
+Drago avait l'air triste et déçu. "Ce n'était pas censé être un piège,
 Harry. C'est une véritable technique pour devenir amis."
 
 Harry leva une main. "Je n'ai pas dit que je n'allais pas te répondre.
@@ -693,14 +693,14 @@ pas me brusquer à faire quelque chose." Un moment de réflexion
 permettait de désamorcer de nombreuses techniques de conformisation, une
 fois que vous saviez les reconnaître.
 
-"Très bien," dit Draco. "J'attendrai pendant que tu trouves quelque
+"Très bien," dit Drago. "J'attendrai pendant que tu trouves quelque
 chose. Oh, et s'il te plaît, enlève ton écharpe pendant que tu me le
 dis."
 
 *Simple mais efficace*.
 
 Et Harry ne pouvait s'empêcher de remarquer à quel point, comparé à
-Draco, il avait été maladroit, embarrassé et sans grâce dans ses
+Drago, il avait été maladroit, embarrassé et sans grâce dans ses
 tentatives de résister à la manipulation / de sauver la face / de
 frimer. *J'ai besoin de ces précepteurs*.
 
@@ -710,11 +710,11 @@ visage, dévoilant tout sauf la cicatrice. "Euh… il semble que tu puisses
 vraiment compter sur ton père. Je veux dire… si tu lui parles
 sérieusement, il va toujours t'écouter et te prendre au sérieux."
 
-Draco hocha la tête.
+Drago hocha la tête.
 
 "Parfois," dit Harry, et il avala sa salive. C'était étonnamment
 difficile, mais c'était censé l'être. "Parfois je souhaite que Papa soit
-plus comme le tien." Les yeux de Harry fuirent ceux de Draco plus ou
+plus comme le tien." Les yeux de Harry fuirent ceux de Drago plus ou
 moins automatiquement, et Harry se força à le regarder à nouveau.
 
 Puis Harry fut frappé par *l'énormité de ce qu'il venait de dire*, et il
@@ -722,7 +722,7 @@ ajouta hâtivement, "Non pas que je souhaite que mon Papa soit un
 instrument de mort parfait comme Lucius, je voulais juste dire que je
 voudrais qu'il me prenne au sérieux -"
 
-"Je comprends," dit Draco avec un sourire. "Et voilà… maintenant il
+"Je comprends," dit Drago avec un sourire. "Et voilà… maintenant il
 semble qu'on s'est un peu rapproché du statut d'amis, non ?"
 
 Harry hocha la tête. "Ouais. En effet. Euh… sans vouloir t'offenser je
@@ -733,13 +733,13 @@ avoir à gérer -"
 
 Harry enroula à nouveau l'écharpe tout autour de son visage.
 
-"Mon père prend tous ses alliés au sérieux," dit Draco. "C'est pourquoi
+"Mon père prend tous ses alliés au sérieux," dit Drago. "C'est pourquoi
 il a beaucoup d'alliés. Tu devrais peut-être le rencontrer."
 
 "J'y penserai," dit Harry d'une voix neutre. Il secoua la tête avec
 incrédulité. "Alors comme ça tu es vraiment son seul point faible. Heh."
 
-Maintenant Draco jetait un regard *vraiment* bizarre à Harry. "Tu veux
+Maintenant Drago jetait un regard *vraiment* bizarre à Harry. "Tu veux
 aller boire quelque chose, ou trouver un endroit où nous asseoir ?"
 
 Harry se rendit compte qu'il était resté debout au même endroit trop
@@ -753,7 +753,7 @@ que des canettes vert néon empilées.
 
 Le vendeur, à vrai dire, était penché en arrière, et buvait depuis l'une
 des canettes vert néon au moment même où il repéra l'élégant et raffiné
-Draco Malfoy s'approcher aux côtés d'un garçon mystérieux à l'air
+Drago Malfoy s'approcher aux côtés d'un garçon mystérieux à l'air
 incroyablement stupide avec une écharpe attachée autour de la tête, ce
 qui poussa le vendeur à subir une quinte de toux soudaine au milieu
 d'une gorgée et à faire dégouliner une grande quantité de liquide vert
@@ -767,14 +767,14 @@ surprenant aura lieu et ça vous fera renverser du thé sur vous ou
 quelqu'un d'autre. Mais il est enchanté pour se dissiper quelques
 secondes plus tard -" La tache sur sa barbe disparaissait en effet déjà.
 
-"Que c'est drôle," dit Draco. "Que c'est bien drôle. Venez, M. Bronze,
+"Que c'est drôle," dit Drago. "Que c'est bien drôle. Venez, M. Bronze,
 allons trouver un autre -"
 
 "Attends," dit Harry.
 
 "*Oh allez !* C'est juste, juste *puéril* !"
 
-"Non Draco, je suis navré, je *dois* étudier ça. Qu'est ce qui se passe
+"Non Drago, je suis navré, je *dois* étudier ça. Qu'est ce qui se passe
 si je bois de l'Hilari-Thé tout en faisant de mon mieux pour garder la
 conversation complètement sérieuse ?"
 
@@ -790,7 +790,7 @@ satanée *boisson* puisse manipuler la réalité pour produire des
 *situations comiques*, ou je vais abandonner et prendre ma retraite aux
 Bahamas -"
 
-Draco grogna. "Allons-nous *vraiment* faire ça ?"
+Drago grogna. "Allons-nous *vraiment* faire ça ?"
 
 "Cinq Noises la canette," dit le vendeur.
 
@@ -799,19 +799,19 @@ Draco grogna. "Allons-nous *vraiment* faire ça ?"
 "quatre Mornilles, quatre Noises," et les abattit sur le comptoir. "Deux
 douzaines de canettes s'il vous plaît."
 
-"J'en prendrai une aussi," soupira Draco, et il commença à tendre la
+"J'en prendrai une aussi," soupira Drago, et il commença à tendre la
 main vers ses poches.
 
 Harry secoua rapidement la tête. "Non, c'est pour moi, et ça ne compte
 pas comme une faveur non plus, je veux voir si ça marche sur toi aussi."
-Il jeta une canette à Draco et commença à nourrir sa bourse, dont
+Il jeta une canette à Drago et commença à nourrir sa bourse, dont
 l'Ouverture Élargissante mangea les canettes, accompagnant l'opération
 de petits bruits de rot, ce qui ne restaura pas vraiment la foi de Harry
 dans le fait qu'un jour il trouverait une explication raisonnable à tout
 ça.
 
 Vingt-deux rots plus tard, Harry avait la dernière canette achetée dans
-sa main. Draco le regardait, dans l'expectative, et ils décapsulèrent
+sa main. Drago le regardait, dans l'expectative, et ils décapsulèrent
 leurs canettes au même instant.
 
 Harry souleva son écharpe pour exposer sa bouche, et ils penchèrent
@@ -860,10 +860,10 @@ le gros titre suivant :
 *ENCEINTE DU SURVIVANT*
 
 
-"*Gah* !" cria Draco alors que du liquide vert fluo était pulvérisé
-depuis Harry jusqu'à sa personne. Draco se tourna vers Harry, les yeux
+"*Gah* !" cria Drago alors que du liquide vert fluo était pulvérisé
+depuis Harry jusqu'à sa personne. Drago se tourna vers Harry, les yeux
 en feu, et il serra sa canette. "Fils de sang-de-bourbe ! Voyons comment
-*tu* aimes qu'on te crache dessus !" Draco prit délibérément une lampée
+*tu* aimes qu'on te crache dessus !" Drago prit délibérément une lampée
 juste alors que ses yeux tombaient sur le gros titre.
 
 Par réflexe, Harry essaya de protéger son visage alors que le spray de
@@ -873,7 +873,7 @@ liquide vert éclabousser son épaule.
 
 Harry regarda la canette dans sa main tout en s'étouffant et en
 postillonnant, et la couleur verte commença à disparaître des robes de
-Draco.
+Drago.
 
 Puis il leva à nouveau les yeux et fixa le gros titre du journal.
 
@@ -905,22 +905,22 @@ Harry grogna, jeta violemment la canette dans une poubelle proche, et
 revint rôder près du vendeur. "Un exemplaire du *Chicaneur* s'il vous
 plaît." Il paya quatre Noises de plus, récupéra une nouvelle canette
 d'Hilari-Thé de sa bourse, puis rôda vers la zone de pique-nique où
-Draco fixait sa propre canette de soda avec une expression de franche
+Drago fixait sa propre canette de soda avec une expression de franche
 admiration.
 
-"Je retire ce que j'ai dit," dit Draco, "c'était plutôt sympa."
+"Je retire ce que j'ai dit," dit Drago, "c'était plutôt sympa."
 
-"Hey, Draco, tu sais ce qui est encore mieux pour devenir amis
+"Hey, Drago, tu sais ce qui est encore mieux pour devenir amis
 qu'échanger des secrets ? Commettre un meurtre."
 
-"J'ai un précepteur qui dit ça," accorda Draco. Il passa sa main sous
+"J'ai un précepteur qui dit ça," accorda Drago. Il passa sa main sous
 ses robes et se gratta d'un mouvement simple et naturel. "Qui as-tu en
 tête ?"
 
 Harry abattit *Le Chicaneur* sur la table de pique-nique. "Celui qui a
 inventé cette manchette."
 
-Draco grogna. "Pas un homme. Une fille. Une fille *de dix ans*, si tu
+Drago grogna. "Pas un homme. Une fille. Une fille *de dix ans*, si tu
 peux y croire. Elle est devenue folle après que sa mère meure, et son
 père, qui possède le journal, est *convaincu* que c'est une voyante,
 donc quand il ne sait pas, il demande à Luna Lovegood et croit *tout* ce
@@ -930,8 +930,8 @@ Sans vraiment y penser, Harry décapsula une nouvelle canette
 d'Hilari-Thé et se prépara à boire. "Tu veux rire ? C'est encore pire
 que le journalisme Moldu, ce qui semble physiquement impossible."
 
-Draco grogna à nouveau. "Elle a une espèce d'obsession perverse au sujet
-des Malfoys en plus, et son père nous est politiquement opposé, donc il
+Drago grogna à nouveau. "Elle a une espèce d'obsession perverse au sujet
+des Malfoy en plus, et son père nous est politiquement opposé, donc il
 imprime tout ce qu'elle dit à notre sujet. Dès que je serai assez vieux
 je vais la violer."
 
@@ -940,11 +940,11 @@ qui couvrait toujours cette zone. L'Hilari-Thé et les poumons n'étaient
 pas faits pour interagir, et Harry passa les quelques secondes suivantes
 à tousser frénétiquement.
 
-Draco regarda durement Harry. "Quelque chose ne va pas ?"
+Drago regarda durement Harry. "Quelque chose ne va pas ?"
 
 C'est à ce moment que Harry réalisa soudainement que (a) les sons venant
 du reste du quai s'étaient transformés en un bruit continu et flou à peu
-près au moment où Draco s'était gratté sous ses robes, et que (b)
+près au moment où Drago s'était gratté sous ses robes, et que (b)
 lorsqu'il avait précédemment parlé du meurtre comme méthode permettant
 de créer des liens, il y avait eu exactement une personne dans la
 conversation qui avait cru qu'ils blaguaient tous les deux.
@@ -959,13 +959,13 @@ conversation de ce cul-de-sac, "que j'étais surpris par la façon dont tu
 étais prêt à en discuter si ouvertement, tu n'avais pas l'air d'avoir
 peur d'être pris."
 
-Draco renifla. "Tu plaisantes ? La parole de *Luna Lovegood* contre la
+Drago renifla. "Tu plaisantes ? La parole de *Luna Lovegood* contre la
 mienne ?"
 
 Bon sang de bonsoir. "J'imagine qu'il n'y a pas de détecteur de mensonge
 magique ?" *Ou de test ADN… pas encore.*
 
-Draco regarda aux alentours. Ses yeux se rétrécirent. "C'est vrai, tu ne
+Drago regarda aux alentours. Ses yeux se rétrécirent. "C'est vrai, tu ne
 sais rien. Écoute, je vais t'expliquer certaines choses, je veux dire la
 façon dont les choses fonctionnent vraiment, comme si tu étais à
 Serpentard et que tu me posais cette même question. Mais tu dois me
@@ -975,7 +975,7 @@ promettre de ne rien en dire à personne."
 parlé, c'est ça ? C'est à dire que si un autre Serpentard me pose la
 même question un jour où l'autre…"
 
-Draco marqua une pause. "Répète ça."
+Drago marqua une pause. "Répète ça."
 
 Harry obtempéra.
 
@@ -1002,7 +1002,7 @@ qui lui disaient de garder un visage et une voix normaux. *Note à
 moi-même : Renverser le gouvernement de l'Angleterre magique à la
 première occasion.*
 
-Harry toussa à nouveau pour s'éclaircir la gorge. "Draco, s'il te plaît
+Harry toussa à nouveau pour s'éclaircir la gorge. "Drago, s'il te plaît
 s'il te plaît *s'il te plaît* ne le prends pas mal, je n'ai qu'une
 parole, mais comme tu l'as dit je pourrais être à Serpentard et je veux
 vraiment te poser cette question par pure curiosité, que se passerait-il
@@ -1010,10 +1010,10 @@ vraiment te poser cette question par pure curiosité, que se passerait-il
 ça ?"
 
 "Alors si j'étais n'importe quelle personne sauf un Malfoy, je serais
-dans le pétrin," répondit Draco avec suffisance. "Mais puisque je *suis*
+dans le pétrin," répondit Drago avec suffisance. "Mais puisque je *suis*
 un Malfoy… Père a les votes. Et après ça il t'écraserait… eh bien, pas
 facilement je suppose, puisque tu *es* le Survivant, mais Père est
-plutôt doué pour ces choses là." Draco fronça les sourcils. "Au fait,
+plutôt doué pour ces choses là." Drago fronça les sourcils. "Au fait,
 *tu* étais prêt à discuter de son meurtre, alors pourquoi n'étais-tu pas
 inquiet de *me* voir témoigner le jour où on la retrouverait morte ? Je
 ne suis pas aussi connu que toi mais si tu fais quelque chose de mal,
@@ -1030,7 +1030,7 @@ et esquiver une condamnation pour le viol d'une petite fille."
 veut dire que si c'est toi qui la viole, ça rend la chose exceptionnelle
 de ton point de vue ? Parce que je te laisserai la première place avec
 plaisir si c'est le cas. Mec, imagine Lovegood L'allumée essayant de
-prétendre qu'elle a été violée par Draco Malfoy *et* par le Survivant,
+prétendre qu'elle a été violée par Drago Malfoy *et* par le Survivant,
 même *Dumbledore* ne la croirait pas."
 
 Heureusement que Harry ne buvait *pas* d'Hilari-Thé à ce moment précis.
@@ -1042,7 +1042,7 @@ moyen de décaler la conversation.
 Après avoir découvert que cette manchette provenait d'une fille d'un an
 ma cadette, je ne pensais plus vraiment au meurtre *ni* au viol."
 
-"Uh ? Dis moi donc," dit Draco, et il commença à boire une autre lampée
+"Uh ? Dis moi donc," dit Drago, et il commença à boire une autre lampée
 de son Hilari-Thé.
 
 Harry ne savait pas si l'enchantement fonctionnait plus d'une fois par
@@ -1051,14 +1051,14 @@ qui allait se produire si il choisissait parfaitement son moment :
 
 "Je pensais : *un jour, je vais épouser cette femme.*"
 
-Draco fit un horrible bruit d'éclaboussure et laissa couler du fluide
+Drago fit un horrible bruit d'éclaboussure et laissa couler du fluide
 vert par les coins de sa bouche comme un radiateur de voiture cassé.
 "*Tu es dingue ?*"
 
 "Bien au contraire, je suis tellement sain d'esprit que ça brûle comme
 de la glace."
 
-Draco gloussa d'un bruit aigu et juvénile. "Tu as des goûts encore plus
+Drago gloussa d'un bruit aigu et juvénile. "Tu as des goûts encore plus
 bizarres que ceux d'un Lestrange. Mais tu pourrais quand même la violer.
 Elle est probablement assez folle pour aimer ça et j'ai entendu dire que
 beaucoup de mariages commençaient comme ça. Et sinon tu pourrais
@@ -1070,18 +1070,18 @@ t'embêterait de *me* laisser me soucier de ça ? Si tu considérais
 sérieusement l'idée de la violer je pourrais toujours te devoir une
 faveur -"
 
-Draco agita la main. "Non, c'est cadeau."
+Drago agita la main. "Non, c'est cadeau."
 
 Harry regarda la canette dans sa main, la froideur s'installant dans son
-sang. Charmant, heureux, généreux dans ses faveurs à ses amis, Draco
+sang. Charmant, heureux, généreux dans ses faveurs à ses amis, Drago
 n'était pas un psychopathe. C'était la partie triste et terrible :
-connaître assez de psychologie humaine pour *savoir* que Draco n'était
+connaître assez de psychologie humaine pour *savoir* que Drago n'était
 *pas* un monstre. Il y avait eu dix mille sociétés durant le cours de
 l'Histoire du monde où cette conversation aurait pu avoir lieu. Non, le
 monde aurait été certainement très différent si il y avait eu besoin
-d'un *mutant maléfique* pour dire ce que Draco avait dit. C'était très
+d'un *mutant maléfique* pour dire ce que Drago avait dit. C'était très
 simple, très humain, c'était ce qui se passait par défaut en l'absence
-d'intervention extérieure. Pour Draco, ses ennemis n'étaient pas des
+d'intervention extérieure. Pour Drago, ses ennemis n'étaient pas des
 gens.
 
 Et dans le temps ralenti de ce pays ralenti, ici et là, comme dans les
@@ -1099,7 +1099,7 @@ descendance qui, semblait-il, n'incluait pas l'Angleterre magique,
 puisqu'ici les seules contaminations interculturelles avaient été des
 choses comme les canettes de soda.
 
-*Et si Draco ne change pas d'avis sur son envie de vengeance et que je
+*Et si Drago ne change pas d'avis sur son envie de vengeance et que je
 ne gâche pas ma chance d'être heureux dans la vie en épousant une pauvre
 fille folle, alors tout ce que j'ai fait c'est de gagner du temps, et
 pas beaucoup…*
@@ -1123,7 +1123,7 @@ Harry fixa le ciel, ainsi que la pâle forme de la Lune, visible ce matin
 *Le monde est cassé et imparfait et fou et cruel et sanglant et noir.
 C'est une nouvelle ? Tu l'avais de toute façon toujours su…*
 
-"Tu as l'air bien sérieux," dit Draco. "Laisse moi deviner, tes parents
+"Tu as l'air bien sérieux," dit Drago. "Laisse moi deviner, tes parents
 Moldus t'ont dit que ce genre de choses est mal."
 
 Harry hocha la tête, ne faisant pas vraiment confiance à sa voix.
@@ -1131,25 +1131,25 @@ Harry hocha la tête, ne faisant pas vraiment confiance à sa voix.
 "Eh bien, comme dit Père, il y a peut-être quatre maisons, mais à la fin
 tout le monde appartient soit à Serpentard soit à Poufsouffle. Et
 franchement, tu n'es pas du genre Poufsouffle. Si tu décides de t'allier
-secrètement aux Malfoys… notre pouvoir et notre réputation… te
+secrètement aux Malfoy… notre pouvoir et notre réputation… te
 permettraient des choses que même *moi* je ne peux pas faire. Tu veux
 *essayer* pendant quelques temps ? Voir comment c'est ?
 
 *Ne voilà-t-il pas un intelligent petit serpent. Onze ans et déjà à
 amadouer ta proie hors de sa cachette. Est-il trop tard pour te sauver,
-Draco ?*
+Drago ?*
 
-Harry réfléchit, étudia, et choisit son arme. "Draco, pourrais-tu
+Harry réfléchit, étudia, et choisit son arme. "Drago, pourrais-tu
 m'expliquer toute cette histoire de pureté du sang ? C'est assez nouveau
 pour moi."
 
-Un grand sourire s'étira sur le visage de Draco. "Tu devrais vraiment
+Un grand sourire s'étira sur le visage de Drago. "Tu devrais vraiment
 rencontrer Père et *lui* demander, c'est notre chef."
 
 "Donne moi juste le discours de l'ascenseur. La version qui tient en
 trente secondes, je veux dire."
 
-"D'accord," dit Draco. Il prit une profonde inspiration, et sa voix
+"D'accord," dit Drago. Il prit une profonde inspiration, et sa voix
 devint légèrement plus grave, et prit une cadence. "Nos pouvoirs ont
 faibli génération après génération alors que la souillure Sang-de-Bourbe
 grandit. Là où Salazar et Godric et Rowena et Helga ont un jour érigé
@@ -1161,7 +1161,7 @@ vivre. Si la souillure n'est pas arrêtée, bientôt nos baguettes se
 briseront et notre art cessera, la lignée de Merlin s'achèvera et le
 sang d'Atlantis échouera. Nos enfants devront gratter la terre pour
 survivre comme de simples Moldus et la Ténèbre recouvrira le monde
-entier pour toujours." Draco prit une autre lampée de sa canette, l'air
+entier pour toujours." Drago prit une autre lampée de sa canette, l'air
 satisfait. Ça semblait être l'argument final en ce qui le concernait.
 
 "Persuasif," dit Harry, utilisant le mot de façon descriptive plutôt que
@@ -1172,7 +1172,7 @@ descendante. Et le modèle avait aussi un *contre*… "Je dois cependant te
 corriger sur un fait. Ton information au sujet des Moldus est un peu
 obsolète. Nous ne grattons plus vraiment la terre."
 
-La tête de Draco fit un mouvement sec vers Harry. "*Quoi* ? Qu'est ce
+La tête de Drago fit un mouvement sec vers Harry. "*Quoi* ? Qu'est ce
 que tu veux dire, *nous* ?"
 
 "Nous. Les scientifiques. La lignée de Francis Bacon et le sang des
@@ -1188,12 +1188,12 @@ maintenir en vie si la magie échoue. Ce serait une tragédie et nous
 devrions tous vouloir l'empêcher, mais ce ne serait pas littéralement la
 fin de toute la lumière du monde. Je dis ça comme ça."
 
-Draco avait reculé d'un bon mètre et son visage était un mélange entre
+Drago avait reculé d'un bon mètre et son visage était un mélange entre
 la peur et l'incrédulité. "*Par Merlin, mais de quoi parles-tu,
 Potter ?*"
 
 "Eh, j'ai écouté *ton* histoire, tu ne veux pas écouter la mienne ?"
-*Maladroit*, se semonça Harry, mais Draco arrêta bien de reculer et
+*Maladroit*, se semonça Harry, mais Drago arrêta bien de reculer et
 sembla écouter.
 
 "Bien," dit Harry, "Je dis que tu n'as pas l'air d'avoir prêté attention
@@ -1204,13 +1204,13 @@ accordait à la misère quotidienne du Burundi. "Bon. Rapide vérification.
 Les sorciers sont-ils jamais allés sur la Lune ? Tu sais, ce truc ?"
 Harry pointa du doigt en direction de l'énorme globe lointain.
 
-"*Quoi* ?" dit Draco. Il était assez clair que cette pensée ne s'était
+"*Quoi* ?" dit Drago. Il était assez clair que cette pensée ne s'était
 jamais présentée au garçon. "*Aller* sur la - c'est juste un -" Son
 doigt pointa en direction de la petite chose pâle dans le ciel. "On ne
 peut pas Transplaner à un endroit où on est jamais *allé* et comment qui
 que ce soit irait sur la Lune la *première* fois ?"
 
-"Attends," dit Harry à Draco, "Je voudrais te montrer un livre que j'ai
+"Attends," dit Harry à Drago, "Je voudrais te montrer un livre que j'ai
 apporté avec moi, je crois me souvenir dans quelle boîte il se trouve."
 Harry se leva et s'agenouilla et sortit les escaliers qui menaient au
 niveau caverne de sa malle, puis descendit les escaliers à la cavalcade,
@@ -1226,7 +1226,7 @@ génétique.)
 
 Et Harry courut en haut des escaliers et fourra la cage d'escalier dans
 la malle d'un coup de talon, puis, haletant, tourna les pages de son
-livre jusqu'à ce qu'il ait trouvé l'image qu'il voulait montrer à Draco.
+livre jusqu'à ce qu'il ait trouvé l'image qu'il voulait montrer à Drago.
 
 Celle avec le terrain blanc, sec et couvert de cratères, et les gens en
 combinaison, et le globe blanc-bleu suspendu au-dessus.
@@ -1238,21 +1238,21 @@ Cette image.
 "*Ça*,", dit Harry, sa voix tremblante parce qu'il ne pouvait contenir
 sa fierté, "c'est à ça que la Terre ressemble depuis la Lune."
 
-Draco se pencha lentement. Il y avait une étrange expression sur son
+Drago se pencha lentement. Il y avait une étrange expression sur son
 visage. "Si c'est une *vraie* image, pourquoi ne bouge-t-elle pas ?"
 
 *Bouger* ? Oh. "Les Moldus peuvent faire des images qui bougent mais ils
 ont besoin d'une plus grande boite pour les montrer, ils ne peuvent pas
 encore les faire tenir sur des pages de livres."
 
-Le doigt de Draco se posa sur une des combinaisons. "Qu'est ce que
+Le doigt de Drago se posa sur une des combinaisons. "Qu'est ce que
 c'est ?" Sa voix commençait à vaciller.
 
 "Ce sont des humains. Ils portent des combinaisons qui recouvrent tout
 leur corps afin de leur donner de l'air, car il n'y a pas d'air sur la
 Lune."
 
-"C'est impossible," murmura Draco. Il y avait de la terreur dans ses
+"C'est impossible," murmura Drago. Il y avait de la terreur dans ses
 yeux, ainsi qu'une confusion absolue. "Aucun Moldu ne pourrait jamais
 faire ça. *Comment…*"
 
@@ -1260,19 +1260,19 @@ Harry reprit le livre, tourna les pages jusqu'à ce qu'il ait trouvé ce
 qu'il cherchait. "C'est une fusée qui s'élève. Le feu la pousse toujours
 plus haut, jusqu'à ce qu'elle arrive à la Lune." Tourna d'autres pages.
 "C'est une fusée au sol. Cette petite poussière à coté est une
-personne." Draco s'étouffa. "Aller sur la lune coûte l'équivalent de…
-probablement autour de deux mille millions de Gallions." Draco
+personne." Drago s'étouffa. "Aller sur la lune coûte l'équivalent de…
+probablement autour de deux mille millions de Gallions." Drago
 s'étrangla. "Et ça a demandé les efforts de… probablement plus de
 personnes que le nombre total d'habitants de l'Angleterre magique." *Et
 lorsqu'ils arrivèrent, ils laissèrent une plaque disant : 'Nous venons
 en paix, pour toute l'humanité.' Tu n'es pas encore prêt à entendre ces
-mots, Draco, mais j'espère que tu le seras un jour…*
+mots, Drago, mais j'espère que tu le seras un jour…*
 
-"Tu dis la vérité," dit lentement Draco. "Tu ne fabriquerais pas un
+"Tu dis la vérité," dit lentement Drago. "Tu ne fabriquerais pas un
 livre entier juste pour me raconter ça - et puis je peux l'entendre dans
 ta voix. Mais… mais…"
 
-"Comment, sans baguettes ni magie ? C'est une longue histoire, Draco. La
+"Comment, sans baguettes ni magie ? C'est une longue histoire, Drago. La
 science ne fonctionne pas en agitant des baguettes et en chantonnant des
 sortilèges, elle fonctionne en sachant comment l'univers fonctionne à un
 niveau si profond que l'on sait exactement comment faire faire à
@@ -1299,10 +1299,10 @@ sorciers également. Donc tu vois, ton problème n'est pas aussi grave
 qu'il en a l'air, parce que dans quelques décennies la science pourra le
 résoudre pour toi."
 
-"Mais…" dit Draco. Sa voix tremblait. "Si les *Moldus* ont ce genre de
+"Mais…" dit Drago. Sa voix tremblait. "Si les *Moldus* ont ce genre de
 pouvoir… alors… que sommes *nous* ?"
 
-"Non Draco, tu n'y es pas. Ne vois-tu pas ? La science exploite le
+"Non Drago, tu n'y es pas. Ne vois-tu pas ? La science exploite le
 pouvoir de la compréhension humaine pour observer le monde et comprendre
 comment il fonctionne. Elle ne peut échouer sans que l'humanité
 n'échoue. Ta magie pourrait s'éteindre, et tu le haïrais, mais tu serais
@@ -1314,9 +1314,9 @@ découvrir les nouvelles lois, comme ça a été fait auparavant. Ce n'est
 pas propre aux *Moldus*, c'est propre aux *humains*, ça ne fait
 qu'affiner le pouvoir que tu utilises à chaque fois que tu regardes
 quelque chose que tu ne comprends pas et que tu demandes 'Pourquoi ?'.
-Tu es un Serpentard, Draco, ne vois-tu pas l'implication ?"
+Tu es un Serpentard, Drago, ne vois-tu pas l'implication ?"
 
-Draco leva les yeux du livre et regarda Harry. Son visage exhibait une
+Drago leva les yeux du livre et regarda Harry. Son visage exhibait une
 compréhension naissante. "Les sorciers peuvent apprendre à utiliser ce
 pouvoir."
 
@@ -1325,9 +1325,9 @@ l'hameçon… "Si tu peux te voir comme un *humain* plutôt que comme un
 *sorcier* alors tu peux entraîner et affiner tes pouvoirs d'humain."
 
 Et si *cette* consigne n'était pas dans *tous* les curriculums
-scientifiques, Draco n'avait pas besoin de le savoir, n'est-ce pas ?
+scientifiques, Drago n'avait pas besoin de le savoir, n'est-ce pas ?
 
-Les yeux de Draco semblaient profondément pensifs. "As-tu…déjà fait
+Les yeux de Drago semblaient profondément pensifs. "As-tu…déjà fait
 ça ?"
 
 "Jusqu'à un certain point," accorda Harry. "Ma formation n'est pas pas
@@ -1337,12 +1337,12 @@ affamés, et c'était parce que Harry avait un cycle de sommeil de 26
 heures - qu'est ce que le Professeur McGonagall allait *faire* à ce
 sujet ? - mais laissons cela de côté pour le moment…
 
-Lentement, Draco hocha la tête. "Penses-tu que tu puisses maîtriser les
-*deux* arts, ajouter leurs pouvoirs, et…" Draco fixa Harry. "Devenir le
+Lentement, Drago hocha la tête. "Penses-tu que tu puisses maîtriser les
+*deux* arts, ajouter leurs pouvoirs, et…" Drago fixa Harry. "Devenir le
 Seigneur des deux mondes ?"
 
 Harry eut un rire maléfique, à ce point de la conversation ça semblait
-venir naturellement. "Draco, il faut que tu te rendes compte que
+venir naturellement. "Drago, il faut que tu te rendes compte que
 l'intégralité du monde que tu connais, toute l'Angleterre magique, n'est
 qu'une case d'un plateau de jeu bien plus grand. Le plateau de jeu
 inclut des endroits comme la Lune, et les étoiles dans le ciel nocturne,
@@ -1354,26 +1354,26 @@ même pas qu'elles existent. Mais je *suis* vraiment un Serdaigle, tu
 sais, pas un Serpentard. Je ne veux pas diriger l'univers. Je pense
 juste qu'il pourrait être mieux organisé."
 
-Le visage de Draco témoignait d'une crainte révérencielle. "Pourquoi
+Le visage de Drago témoignait d'une crainte révérencielle. "Pourquoi
 *me* dis tu ça ?"
 
 "Oh… il n'y a pas beaucoup de gens qui savent faire de la *vraie*
 science - comprendre quelque chose pour la première fois, même si ça les
 rend incroyablement confus. Ça m'aiderait d'avoir de l'aide."
 
-Draco fixa Harry la bouche ouverte.
+Drago fixa Harry la bouche ouverte.
 
-"Mais ne t'y trompes pas Draco, la vraie science *n'est pas* comme de la
+"Mais ne t'y trompes pas Drago, la vraie science *n'est pas* comme de la
 magie, tu ne peux pas la pratiquer et t'en aller inchangé, comme quand
 tu apprends les mots d'un nouveau sort. Le pouvoir a un prix, un prix si
 élevé que la plupart des gens refusent de le payer."
 
-Draco hocha la tête, comme si finalement, il entendait quelque chose
+Drago hocha la tête, comme si finalement, il entendait quelque chose
 qu'il pouvait comprendre. "À quel prix ?"
 
 "Apprendre à admettre qu'on a tort."
 
-"Euh," dit Draco, après que la pause dramatique se soit étiré durant
+"Euh," dit Drago, après que la pause dramatique se soit étiré durant
 quelques instants. "Tu vas expliquer ça ?"
 
 "En essayant de comprendre comment quelque chose fonctionne à un niveau
@@ -1389,7 +1389,7 @@ changes qui tu es. Mais je mets la charrue avant les bœufs. Bien avant
 les bœufs. Je veux juste que tu saches… que je t'offre de partager un
 peu de mon savoir. Si tu le veux. Il y a juste une condition."
 
-"Oh oh," dit Draco. "Tu sais, Père dit que quand quelqu'un te dit ça, ce
+"Oh oh," dit Drago. "Tu sais, Père dit que quand quelqu'un te dit ça, ce
 n'est jamais, jamais un bon signe."
 
 Harry acquiesça. "Maintenant ne te méprends pas en t'imaginant que
@@ -1398,10 +1398,10 @@ dont il s'agit. C'est juste que je veux pouvoir avoir affaire à
 quelqu'un de mon âge, plutôt que ce soit une histoire entre moi et
 Lucius. Je pense que ton père serait d'accord avec ça, il sait que tu
 dois grandir un jour. Mais tes coups dans ta partie doivent être les
-tiens. C'est ma condition - que j'ai affaire à toi, Draco, pas à ton
+tiens. C'est ma condition - que j'ai affaire à toi, Drago, pas à ton
 père."
 
-"Assez," dit Draco. Il se leva. "Beaucoup trop d'un coup. Je dois y
+"Assez," dit Drago. Il se leva. "Beaucoup trop d'un coup. Je dois y
 aller et réfléchir à tout ça. Sans parler du fait qu'il est grand temps
 de monter dans le train."
 
@@ -1409,7 +1409,7 @@ de monter dans le train."
 offre exclusive, même si tu l'acceptes. La vraie science nécessite
 parfois plus d'une personne."
 
-Les sons du quai gagnèrent en netteté alors que Draco s'éloignait.
+Les sons du quai gagnèrent en netteté alors que Drago s'éloignait.
 
 Harry regarda la montre à son poignet, un simple modèle mécanique que
 son père lui avait acheté dans l'espoir qu'elle continue de fonctionner
@@ -1435,7 +1435,7 @@ vous convaincre de vous joindre à l'Ordre du Chaos ?"
 
 *Après-coup*
 
-Peu de temps après ça, une fois l'agitation de la journée tassée, Draco
+Peu de temps après ça, une fois l'agitation de la journée tassée, Drago
 se pencha au-dessus d'un bureau la plume à la main. Il avait une chambre
 privée dans les donjons de Serpentard, avec son propre bureau et son
 propre feu - malheureusement même *lui* ne méritait pas une connexion au
@@ -1446,31 +1446,31 @@ des dortoirs. Il n'y avait pas beaucoup de chambres privées, vous deviez
 au moins *cela* pouvait être considéré comme évident avec la maison
 Malfoy.
 
-*Cher Père*, écrit Draco.
+*Cher Père*, écrit Drago.
 
 Et il s'arrêta.
 
 De l'encre coula lentement de sa plume, tachant le parchemin, non loin
 des mots.
 
-Draco n'était pas stupide. Il était jeune, mais ses précepteurs lui
+Drago n'était pas stupide. Il était jeune, mais ses précepteurs lui
 avaient appris à reconnaître certaines choses par simple reconnaissance
-de formes. Draco savait que Potter se sentait probablement beaucoup plus
+de formes. Drago savait que Potter se sentait probablement beaucoup plus
 proche de la faction de Dumbledore qu'il ne le laissait entendre… bien
-que Draco pensait tout de même que Potter pouvait être tenté. Mais il
-était clair comme du cristal que Potter essayait de tenter Draco tout
-autant que Draco essayait de le tenter.
+que Drago pensait tout de même que Potter pouvait être tenté. Mais il
+était clair comme du cristal que Potter essayait de tenter Drago tout
+autant que Drago essayait de le tenter.
 
 Et il était tout aussi clair que Potter était brillant, et bien plus que
 légèrement fou, et jouait un grand jeu qu'il ne comprenait pas lui-même,
 improvisant à toute vitesse avec la subtilité d'un Nundu déchaîné. Mais
-Potter était parvenu à choisir une tactique que Draco ne pouvait tout
-simplement pas refuser. Il avait offert à Draco une partie de son propre
-pouvoir, pariant sur le fait que Draco ne pourrait pas l'utiliser sans
+Potter était parvenu à choisir une tactique que Drago ne pouvait tout
+simplement pas refuser. Il avait offert à Drago une partie de son propre
+pouvoir, pariant sur le fait que Drago ne pourrait pas l'utiliser sans
 devenir comme lui. Son père lui avait dit que c'était une technique très
-avancée, et avait prévenu Draco qu'elle échouait souvent.
+avancée, et avait prévenu Drago qu'elle échouait souvent.
 
-Draco savait qu'il n'avait pas tout compris de ce qui s'était passé…
+Drago savait qu'il n'avait pas tout compris de ce qui s'était passé…
 mais Potter *lui* avait offert une chance de jouer et cette chance était
 maintenant *sienne*. Et si il crachait tout maintenant, ça deviendrait
 la chance de père.
@@ -1483,7 +1483,7 @@ sur un type de personne qui ne s'y attendait généralement pas, et si ça
 fonctionnait vous pouviez le réutiliser.) Mais lorsqu'on trouvait le
 levier ultime d'une personne, ça n'avait plus d'importance qu'ils
 sachent que vous saviez. Potter, dans sa folle précipitation, avait
-deviné l'une des clés de l'âme de Draco. Et si Draco savait que Potter
+deviné l'une des clés de l'âme de Drago. Et si Drago savait que Potter
 le savait - même si ça avait été plutôt évident -, ça ne changeait rien.
 
 Donc cette fois, pour la première fois de sa vie, il avait de vrais
@@ -1493,7 +1493,7 @@ que tout allait bien.
 
 Laissant les taches d'encre en place - il y avait là un message, un
 message que son père comprendrait, car ils avaient joué au jeu des
-subtilités bien plus d'une fois - Draco écrit la seule question qui
+subtilités bien plus d'une fois - Drago écrit la seule question qui
 l'avait vraiment rongé dans toute cette affaire, la partie qu'il, il le
 pensait, *aurait dû* comprendre, mais qu'il ne comprenait pas, pas du
 tout.
@@ -1505,12 +1505,12 @@ encore membre de notre cercle de connaissances, qui t'a appelé un
 'instrument de mort parfait' et a dit que j'étais ton 'seul point
 faible'. Qu'aurais-tu à dire sur lui ?*
 
-Il fallut peu de temps pour qu'une chouette apporte la réponse à Draco.
+Il fallut peu de temps pour qu'une chouette apporte la réponse à Drago.
 
 *Mon fils bien-aimé,*
 
 *Je dirais que tu as eu la chance de rencontrer quelqu'un qui savoure
 les confidences intimes de Severus Rogue, notre ami et allié de valeur.*
 
-Draco fixa la lettre pendant un moment, et la jeta finalement dans le
+Drago fixa la lettre pendant un moment, et la jeta finalement dans le
 feu.

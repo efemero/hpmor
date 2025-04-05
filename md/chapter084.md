@@ -68,7 +68,7 @@ nécessaire pour propager ces changements dans son esprit.
 meurtrière !"
 
 "Mais j'ai…" son excellente mémoire lui repassa le souvenir avec
-obligeance pour la millième fois : Draco Malfoy lui disant avec un
+obligeance pour la millième fois : Drago Malfoy lui disant avec un
 sourire méprisant qu'elle ne le battrait jamais s'il était en pleine
 forme et prouvant immédiatement cette affirmation en dansant comme un
 duelliste entre les trophées sous bonne garde tandis qu'elle courait
@@ -125,7 +125,7 @@ Elle n'avait rien dit.
 Elle s'était réveillée, elle s'était souvenu de ce que s'était passé la
 nuit précédente, et ça avait été comme… Comme… Elle ne pouvait pas
 trouver les mots, même en pensée, pour décrire ce qu'elle avait
-ressenti. Mais elle avait su que Draco Malfoy était déjà mort et elle
+ressenti. Mais elle avait su que Drago Malfoy était déjà mort et elle
 n'avait rien dit, elle n'avait pas été voir le professeur Flitwick pour
 avouer. Elle s'était juste habillée et elle était allée prendre son
 petit déjeuner en *essayant de se comporter normalement* pour que
@@ -133,7 +133,7 @@ personne ne soit jamais au courant, et elle avait su que c'était mal,
 mal, Mal et atrocement atrocement MAL mais elle avait eu… Tellement
 peur…
 
-Même si Harry Potter avait raison, même si le duel contre Draco Malfoy
+Même si Harry Potter avait raison, même si le duel contre Drago Malfoy
 était un mensonge, elle avait fait *ce* choix toute seule. Elle ne
 méritait pas d'oublier cela ni qu'on la pardonne de l'avoir fait.
 
@@ -785,7 +785,7 @@ dans son propre lit.
 
 Elle mangea en silence. Une partie d'elle voulait demander au professeur
 Flitwick s'*il* pensait qu'elle avait reçut un sortilège de faux
-souvenirs ou s'il pensait qu'elle avait essayé de tuer Draco de son
+souvenirs ou s'il pensait qu'elle avait essayé de tuer Drago de son
 plein gré…
 
 *…comme elle se souvenait l'avoir fait…*
@@ -854,14 +854,14 @@ un croassement, mais non.
 "Eh bien…" dit Harry en hésitant visiblement. "Ce que tu dois
 comprendre, Hermione, c'est que tu avais beaucoup de gens pour te
 défendre au petit déjeuner d'aujourd'hui, mais que tous les gens de ton
-côté… *inventaient n'importe quoi*. Draco a essayé de te tuer en
+côté… *inventaient n'importe quoi*. Drago a essayé de te tuer en
 premier, des choses dans le genre. C'était Granger contre Malfoy, c'est
 comme ça que les gens l'ont vu, comme s'il y avait une scie et
 qu'appuyer de son côté ferait remonter le tien. Je leur ai dit que vous
 étiez probablement *tous les deux* innocents, que vous aviez tous les
 deux reçu un sortilège de faux souvenirs. Ils n'ont pas écouté, les deux
 camps m'ont traité comme un traître à la recherche d'un juste milieu.
-Puis des gens ont entendu que Draco avait attesté sous Veritaserum qu'il
+Puis des gens ont entendu que Drago avait attesté sous Veritaserum qu'il
 avait essayé de t'aider avant la bataille – arrête de faire cette tête,
 Hermione, tu ne lui as pas réellement fait du mal. Bref, tout le monde
 en a tiré que le camp pro-Malfoy avait eu raison et que le camp
@@ -926,7 +926,7 @@ froid, comme si elle venait de sortir d'un piscine non chauffée.
 *croyance*, ça leur semble être un *état du monde*. Toi et moi nous
 tenons dans cette petite sphère privée de l'univers où Hermione Granger
 a reçu un sortilège de faux souvenirs. Le reste du monde vit dans un
-monde où Hermione Granger a essayé de tuer Draco Malfoy. Si Ernie
+monde où Hermione Granger a essayé de tuer Drago Malfoy. Si Ernie
 Macmillan…"
 
 Hermione bloqua une inspiration à mi-parcours. *Le capitaine Macmillan…*

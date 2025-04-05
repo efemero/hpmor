@@ -604,6 +604,6 @@ dire que mettre fin à la guerre des sorciers ne comptait pas comme
 circonstance atténuante. Mais cela… *l'embêtait quand même beaucoup*.
 
 Et l'heure était venue, et même depuis longtemps passée, de demander à
-Draco Malfoy ce que l'*autre* camp de cette guerre avait à dire sur la
+Drago Malfoy ce que l'*autre* camp de cette guerre avait à dire sur la
 personnalité d'Albus Percival Wulfric Brian Dumbledore.
 

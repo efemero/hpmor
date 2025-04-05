@@ -118,7 +118,7 @@ L'idée suivante de ce raisonnement était évidemment que ça avait un
 rapport avec "Atlantis".
 
 Plus tôt, Harry avait interrogé Hermione à ce sujet - sur le train vers
-Poudlard, après avoir entendu Draco le prononcer - et pour ce qu'elle en
+Poudlard, après avoir entendu Drago le prononcer - et pour ce qu'elle en
 savait, on n'en savait pas plus que le mot lui-même.
 
 Ça aurait pu être une pure légende. Mais il était aussi plausible qu'une
@@ -239,7 +239,7 @@ puisse excuser -"
 Le vieux sorcier se raidit sous le coup de l'horreur soudaine. "Harry,
 *qu'as-tu fait* ?"
 
-"J'ai manipulé Draco pour qu'il croit que je l'avais manipulé pour qu'il
+"J'ai manipulé Drago pour qu'il croit que je l'avais manipulé pour qu'il
 participe à un rituel qui a sacrifié sa croyance dans le purisme du
 sang. Ce qui veut dire qu'il ne pourra pas devenir un Mangemort quand il
 sera grand. Professeur, il avait tout perdu."
@@ -261,7 +261,7 @@ fait d'amener quelqu'un à la *repentance* en utilisant le mensonge et la
 manipulation ?"
 
 "Je l'ai fait sans dire de mensonge direct, et puisque nous parlons de
-Draco Malfoy, je pense que le mot que vous cherchez est *congruent*." Le
+Drago Malfoy, je pense que le mot que vous cherchez est *congruent*." Le
 garçon avait l'air plutôt fier.
 
 Le vieux sorcier secoua sa tête avec désespoir. "Et c'est *ça* le héros.

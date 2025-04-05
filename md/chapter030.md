@@ -1,6 +1,6 @@
 # Travail de groupe, partie 1
 
-Nous étions le lundi 3 novembre et bientôt, Harry Potter, Draco Malfoy
+Nous étions le lundi 3 novembre et bientôt, Harry Potter, Drago Malfoy
 et Hermione Granger, les trois puissants de cette année, allaient
 débuter leur combat pour la domination suprême.
 
@@ -39,16 +39,16 @@ fasse main basse sur les rubans, ça ne tenait qu'à vous.
 
 Harry avait essayé d'avoir le nom Armée du Dragon.
 
-Draco avait fait une crise en disant que cela dérouterait tout le monde.
+Drago avait fait une crise en disant que cela dérouterait tout le monde.
 
-Le professeur Quirrell avait décrété que Draco avait un droit préalable
+Le professeur Quirrell avait décrété que Drago avait un droit préalable
 au nom s'il le souhaitait.
 
 Donc maintenant Harry combattait l'Armée du Dragon.
 
 Ce n'était probablement pas bon signe.
 
-Pour leur emblème, au lieu du trop-évident dragon crachant du feu, Draco
+Pour leur emblème, au lieu du trop-évident dragon crachant du feu, Drago
 avait choisi de s'en tenir au feu. Élégant, euphémique, mortel. *C'est
 ce qui reste après notre passage*. Très Malfoy.
 
@@ -142,7 +142,7 @@ année.
 Pas *quatre*.
 
 Et certainement *pas* divisées par maisons… sauf qu'à part M. Crabbe et
-M. Goyle, aucun Serpentard n'avait été assigné à Draco.
+M. Goyle, aucun Serpentard n'avait été assigné à Drago.
 
 C'était ce genre de chose qui rassurait Harry quant à l'idée que le
 professeur Quirrell, en dépit de ses airs sombres et de sa prétention à
@@ -231,7 +231,7 @@ mais on a *vraiment* besoin de ces informations. Pour le Chaos !"
 d'enthousiasme.
 
 Harry s'était attendu à ce que Hermione lance une attaque immédiate sur
-Draco, auquel cas il mettrait ses troupes en position et commencerait à
+Drago, auquel cas il mettrait ses troupes en position et commencerait à
 la soutenir, mais seulement après qu'elle ait subit des pertes sévères
 et causé quelque dommage. Si possible, il donnerait à l'opération
 l'apparence d'un sauvetage héroïque ; après tout, il ne faudrait pas
@@ -240,13 +240,13 @@ laisser Soleil croire que Chaos n'était pas son ami.
 Mais juste au cas où elle ne le ferait *pas*… eh bien c'était pour cela
 que la Légion du Chaos ne bougerait pas avant le retour de Green Leader.
 
-Les mouvements de Draco seraient dans son intérêt personnel. Il était
+Les mouvements de Drago seraient dans son intérêt personnel. Il était
 prévisible qu'il prépare son armée à se défendre contre Hermione ; il
 pouvait s'être rendu compte, ou ne pas s'être rendu compte, que Harry
 avait menti lorsqu'il avait parlé d'attendre que la bataille soit
 terminée avant d'attaquer. Harry avait tout de même mis deux balais sur
 l'Armée du Dragon juste au cas où ils *feraient* quelque chose, et juste
-au cas où Draco ou M. Goyle ou M. Crabbe seraient assez bon pour abattre
+au cas où Drago ou M. Goyle ou M. Crabbe seraient assez bon pour abattre
 un balais haut dans le ciel.
 
 Mais c'était le général Granger qui était imprévisible, et Harry ne
@@ -265,34 +265,34 @@ moins denses. Il regardait ses troupes avec une calme satisfaction. Six
 unités de trois membres chacune, l'unité aérienne composée de quatre
 membres (à laquelle Grégory était assigné), et l'unité de commandement
 qui comprenait Vincent et lui-même. Ils n'avaient répété que pendant une
-courte période le samedi mais Draco avait la certitude d'avoir su
+courte période le samedi mais Drago avait la certitude d'avoir su
 expliquer les bases. Restez avec vos équipiez, surveillez leurs arrières
 et faites-leur confiance pour surveiller les vôtres. Bougez comme un
 seul homme. Obéissez aux ordres et ne révélez aucune frayeur. Visez,
 tirez, bougez, visez encore, tirez encore.
 
 Les six unités se placèrent le long d'un périmètre défensif autour de
-Draco, observant la forêt avec vigilance. Ils se tenaient, dos à dos,
+Drago, observant la forêt avec vigilance. Ils se tenaient, dos à dos,
 les baguettes maintenues basses jusqu'à ce que vienne le moment de
 frapper.
 
-Ils ressemblaient déjà remarquablement aux unités d'Aurors dont Draco
+Ils ressemblaient déjà remarquablement aux unités d'Aurors dont Drago
 avait observé l'entraînement pendant les inspections de son père.
 
 Chaos et Soleil ne sauraient pas ce qui s'était abattu sur eux.
 
 "Votre attention, s'il vous plaît," dit le général Malfoy.
 
-Les six unités se détachèrent et pivotèrent vers Draco ; les visages des
+Les six unités se détachèrent et pivotèrent vers Drago ; les visages des
 membres des forces aériennes se retournèrent, balais déjà en main.
 
-Draco avait décidé d'attendre de gagner la première bataille avant
+Drago avait décidé d'attendre de gagner la première bataille avant
 d'exiger des saluts martiaux, lorsque les Gryffondor et des Poufsouffle
 seraient plus prêts à accepter de saluer un Malfoy.
 
 Mais ses soldats se tenaient déjà si droits, surtout les Gryffondor, que
-Draco se demanda s'il avait eu besoin de délayer l'ordre. Grégory avait
-écouté en silence et avait confié à Draco que son initiative consistant
+Drago se demanda s'il avait eu besoin de délayer l'ordre. Grégory avait
+écouté en silence et avait confié à Drago que son initiative consistant
 à soutenir Harry Potter en cours de Défense la fois où le professeur
 Quirrell avait enseigné à Harry comment perdre lui avait déjà valu
 d'être reconnu comme un chef acceptable. Du moins si vous vous
@@ -300,17 +300,17 @@ retrouviez assigné à son armée. *Tous les Serpentard ne se ressemblent
 pas ; il y a des Serpentard et des Serpentard* était la phrase que
 répétaient les Gryffondor de son armée à leurs camarades de maison.
 
-Draco était franchement stupéfait par la facilité de la chose. Il avait
+Drago était franchement stupéfait par la facilité de la chose. Il avait
 d'abord protesté contre le fait de n'avoir aucun Serpentard, et le
 professeur Quirrell lui avait dit que s'il voulait être le premier
 Malfoy à obtenir le contrôle total de la politique du pays, il lui
 faudrait apprendre comment gouverner les trois autres quarts de la
-population. C'était ce genre de chose qui rassurait Draco quant au fait
+population. C'était ce genre de chose qui rassurait Drago quant au fait
 que le professeur Quirrell avait bien plus de sympathies pour les
 gentils qu'il ne le laissait paraître.
 
 La bataille en elle-même ne serait pas simple, en particulier si Granger
-commençait par attaquer les Dragons. Draco s'était torturé l'esprit,
+commençait par attaquer les Dragons. Drago s'était torturé l'esprit,
 hésitant à immédiatement engager toutes ses forces dans une frappe
 préventive contre Granger, mais il s'était inquiété que 1) Harry l'ait
 complètement induit en erreur au sujet de ce que Granger risquait de
@@ -324,7 +324,7 @@ par les deux armées en même temps…
 Il était presque l'heure, et cela voulait dire que le moment du discours
 d'avant-bataille qu'il avait composé et mémorisé était venu.
 
-"La bataille est sur le point de commencer," dit Draco. Sa voix était
+"La bataille est sur le point de commencer," dit Drago. Sa voix était
 calme et précise. "Souvenez-vous de tout ce que moi-même, M. Crabbe et
 M. Goyle vous avons montré. Une armée gagne parce qu'elle est
 disciplinée et mortelle. Le général Potter et la Légion du Chaos ne
@@ -405,7 +405,7 @@ restaient attendirent que les rapports aériens arrivent. Cela n'aurait
 pas dû prendre longtemps, les balais étaient rapides et les distances
 dans la forêt n'était pas très grandes -
 
-Deux balais approchèrent à grande vitesse depuis le camp de Draco et
+Deux balais approchèrent à grande vitesse depuis le camp de Drago et
 tous les soldats se tendirent. Ils n'exécutaient pas les manœuvres qui
 étaient le code du jour pour signaler un balais *ami*.
 
@@ -417,7 +417,7 @@ essaya de trouver les balais dans le ciel -
 "C'est bon !" cria une voix. "Ils repartent !"
 
 Harry haussa mentalement les épaules. Il aurait été impossible
-d'empêcher Draco d'obtenir cette information, et il avait seulement
+d'empêcher Drago d'obtenir cette information, et il avait seulement
 appris qu'ils se tenaient immobiles.
 
 Et les Chaotiques émergèrent lentement de la forêt -
@@ -462,11 +462,11 @@ puis nous irons obscurcir un peu de soleil."
 
  
 
-Draco écouta les rapports des escadrilles en gardant un visage calme,
+Drago écouta les rapports des escadrilles en gardant un visage calme,
 tout le choc masqué à l'intérieur. À quoi pouvait donc *penser*
 Hermione ?
 
-Puis Draco comprit.
+Puis Drago comprit.
 
 *C'est une feinte*.
 
@@ -571,7 +571,7 @@ deux balais de Soleil avaient été bien plus difficiles à abattre et
 s'étaient rendus responsables de la perte de trois chaotiques avant
 d'être submergés par un feu sol-air nourri.
 
-Hermione n'était pas parmi ceux qui étaient tombés. Draco avait dû
+Hermione n'était pas parmi ceux qui étaient tombés. Drago avait dû
 l'avoir et cela mettait Harry en *colère* pour une raison qui lui était
 incompréhensible, il ne savait pas s'il ressentait un devoir de
 protection envers Hermione ou s'il se sentait floué de ne pas avoir pu
@@ -592,7 +592,7 @@ ceci. Ça sera beaucoup plus amusant. Partons d'ici."
 Un balais s'abattit depuis le ciel, s'approchant effroyablement vite,
 puis il se cabra et décéléra si rapidement qu'on pouvait presque
 entendre l'air hurler et protester, et le balais s'immobilisa juste à
-côté de Draco.
+côté de Drago.
 
 Ce n'était pas de la prise de risque inconsciente. Grégory Goyle était
 *bon à ce point* et il ne perdait pas de temps.
@@ -601,20 +601,20 @@ Ce n'était pas de la prise de risque inconsciente. Grégory Goyle était
 traînante habituelle. "Ils ont encore leurs quatre balais, tu veux que
 je les descende ?"
 
-"Non," dit sèchement Draco. "Combattre au-dessus de leur armée leur
+"Non," dit sèchement Drago. "Combattre au-dessus de leur armée leur
 donne un trop grand avantage, ils te tireront dessus depuis le sol et
 même toi ne pourras peut-être pas les éviter. Attends que toutes les
 forces se soient engagées dans le combat."
 
-Draco avait perdu quatre dragons contre douze soleils. Apparemment le
+Drago avait perdu quatre dragons contre douze soleils. Apparemment le
 généralement Granger *avait été* aussi incroyablement stupide qu'elle en
 avait donné l'impression, même si elle n'avait pas fait partie des
-attaquants, et Draco n'avait donc eu l'opportunité ni de la railler ni
+attaquants, et Drago n'avait donc eu l'opportunité ni de la railler ni
 de lui demander ce à quoi elle avait bien pu penser.
 
 Comme tous le savaient, la vraie bataille serait contre Harry Potter.
 
-"Préparez-vous !" rugit Draco à l'intention de ses troupes. "Restez avec
+"Préparez-vous !" rugit Drago à l'intention de ses troupes. "Restez avec
 vos camarades, agissez comme une seule unité, tirez dès que l'ennemi est
 à portée !"
 
@@ -671,7 +671,7 @@ presque à portée. Neville pouvait voir les formes en uniforme des
 dragons qui se déplaçaient à travers le dense feuillage de la forêt, et
 les dragons devaient eux aussi les voir -
 
-"*Attaque !*" dit un cri au loin, la voix de Draco Malfoy, et le général
+"*Attaque !*" dit un cri au loin, la voix de Drago Malfoy, et le général
 Potter mugit : "*Chargez -*"
 
 Toute l'adrénaline du sang de Neville fut libérée, ses jambes prirent le
@@ -688,7 +688,7 @@ de Neville. Si d'autres sorts avaient été tirés, ils n'avaient pas
 atteint leur cible.
 
 Neville vit le bref regard de peur sur le visage de Wayne Hopkins, qui
-se tenait à côté de deux Gryffondors que Neville ne reconnaissait pas,
+se tenait à côté de deux Gryffondor que Neville ne reconnaissait pas,
 et alors -
 
 \- Neville abaissa son bouclier simple et fit feu sur Wayne -
@@ -761,7 +761,7 @@ prendre le temps de viser.
 
 "*Le dernier est à moi* !" hurla Neville, et il commença à sprinter
 droit vers Justin, qui avait été méchant avec lui jusqu'à ce que des
-Poufsouffles plus âgés ne lui fassent la morale. Neville était entouré
+Poufsouffle plus âgés ne lui fassent la morale. Neville était entouré
 par ses camarades et *ça* voulait dire -
 
 "*Attaque spéciale, bond chaotique !*" cria Neville tout en courant, et
@@ -899,7 +899,7 @@ Harry se releva en poussant au sol avec une certaine difficulté.
 Utiliser toute la magie n'épuisait pas les muscles, mais courir entre
 les arbres, si.
 
-Il tituba jusqu'à l'hémisphère iridescent qui contenait Draco Malfoy,
+Il tituba jusqu'à l'hémisphère iridescent qui contenait Drago Malfoy,
 lequel tenait sa baguette levée pour maintenir le bouclier et souriait
 froidement en regardant Harry.
 
@@ -910,16 +910,16 @@ remémorer le nom. "J'ai jeté un sort de sommeil sur le bouclier et il a
 rebondit et a touché Lavande, je veux dire, le sort n'aurait pas dû
 rebondir selon cet angle mais ça l'a quand même touché…"
 
-Draco avait un sourire en coin.
+Drago avait un sourire en coin.
 
-"Laisse-moi deviner," dit Harry en regardant Draco droit dans les yeux,
+"Laisse-moi deviner," dit Harry en regardant Drago droit dans les yeux,
 "ces jolis petits trios sont la formation utilisée par les organisations
 militaires magiques professionnelles ? Composés de soldats entraînés qui
 peuvent facilement toucher des cibles en mouvement si leurs mains sont
 stables et qui peuvent combiner leurs capacités défensives tant qu'ils
 restent ensemble ? Contrairement à *tes* soldats ?"
 
-Le sourire avait disparu du visage de Draco et il était maintenant dur
+Le sourire avait disparu du visage de Drago et il était maintenant dur
 et lugubre.
 
 "Tu sais," dit Harry d'un ton léger, sachant qu'aucun de ses soldats ne
@@ -930,7 +930,7 @@ toujours un sens de le faire dans le contexte qui te préoccupe. Au fait,
 n'oublie pas d'appliquer ce conseil à la vie de tous les jours. Et merci
 pour les cibles lentes et ramassées."
 
-Car Draco avait déjà entendu cette leçon, et, Harry le suspectait,
+Car Drago avait déjà entendu cette leçon, et, Harry le suspectait,
 l'avait ignorée, soupçonnant Harry de vouloir éloigner sa loyauté des
 traditions Sang-Pur. Ce que Harry *voulait*, bien sûr. Mais cet exemple
 fournirait une excellente excuse, le samedi suivant, pour soutenir la
@@ -939,10 +939,10 @@ pratique de la vie de tous les jours. Et Harry mentionnerait aussi les
 expériences qu'il avait faites, d'abord avec des individus puis avec des
 groupes, pour vérifier que ses idées concernant l'importance de la
 vitesse était en effet *correctes*, afin de bien faire rentrer la notion
-que Draco devait en permanence rester à l'affût d'occasions d'appliquer
+que Drago devait en permanence rester à l'affût d'occasions d'appliquer
 cette méthode au quotidien.
 
-"Vous n'avez pas *encore* gagné, général Potter !" gronda Draco.
+"Vous n'avez pas *encore* gagné, général Potter !" gronda Drago.
 "Peut-être que le temps va te manquer et que le professeur Quirrell
 déclarera un match nul."
 
@@ -960,7 +960,7 @@ Chaos.
 "Très bien," dit Harry. "Quelqu'un ici sait-il quoi que ce soit au sujet
 du sort de défense du général Malfoy ?"
 
-Il apparut que le bouclier de Draco était une version du *Protego*
+Il apparut que le bouclier de Drago était une version du *Protego*
 standard qui incluait plusieurs désavantages, le plus important étant
 que le bouclier ne pouvait pas bouger avec le sorcier.
 
@@ -971,13 +971,13 @@ L'avantage - ou du point de vue de Harry, le désavantage - était qu'il
 Il leur faudrait marteler le bouclier avec des sorts d'attaquer pour le
 faire tomber.
 
-Et apparemment, Draco pouvait exercer un certain contrôle sur l'angle de
+Et apparemment, Drago pouvait exercer un certain contrôle sur l'angle de
 réflexion selon lequel les sorts rebondissaient.
 
 L'idée vint à Harry d'utiliser Wingardium Leviosa pour empiler de lourds
-rochers sur le bouclier jusqu'à ce que Draco ne puisse plus le maintenir
+rochers sur le bouclier jusqu'à ce que Drago ne puisse plus le maintenir
 sous une telle pression… mais les rochers pourraient alors tomber et
-heurter Draco, et blesser le général ennemi pour de vrai ne faisait pas
+heurter Drago, et blesser le général ennemi pour de vrai ne faisait pas
 partie des objectifs du jour.
 
 "Donc," dit Harry. "Existe-t-il des sorts spécialisés dans le perçage de
@@ -989,7 +989,7 @@ Harry demanda si l'un de ses soldats en connaissait.
 
 Aucun n'en connaissait.
 
-Dans le bouclier, Draco avait de nouveau son sourire en coin.
+Dans le bouclier, Drago avait de nouveau son sourire en coin.
 
 Harry demanda s'il existait des sorts d'attaque qui ne rebondiraient
 *pas*.
@@ -1000,26 +1000,26 @@ réfléchis par les boucliers.
 … personne ne savait jeter le moindre sort ressemblant de près ou de
 loin à un éclair.
 
-Draco pouffa.
+Drago pouffa.
 
 Harry soupira.
 
 Il déposa sa baguette au sol d'un geste délibéré.
 
 Et il annonça d'un ton assez las qu'il ferait tomber le bouclier de
-Draco lui-même à l'aide d'une méthode qui demeurerait mystérieuse et que
-tout le monde devrait tirer sur Draco au moment où le bouclier
+Drago lui-même à l'aide d'une méthode qui demeurerait mystérieuse et que
+tout le monde devrait tirer sur Drago au moment où le bouclier
 tomberait.
 
 Les Légionnaires du Chaos eurent l'air nerveux.
 
-Draco avait l'air calme, c'est à dire qu'il se contrôlait parfaitement.
+Drago avait l'air calme, c'est à dire qu'il se contrôlait parfaitement.
 
 Un couverture fine et repliée émergea de la bourse de Harry.
 
 Il s'assit à côté du bouclier iridescent et se passa la couverture sur
 la tête pour que personne ne puisse voir ce qu'il faisait - à part
-Draco, bien sûr.
+Drago, bien sûr.
 
 De la bourse émergèrent une batterie de voiture et une paire de câbles
 de démarrage.
@@ -1033,14 +1033,14 @@ suivis d'un crépitement venant de sous la couverture. La luminosité du
 bouclier augmenta, et ils entendirent la voix de Harry dire : "Ne soyez
 pas distraits s'il vous plaît, restez concentrés sur le général Malfoy."
 
-On pouvait voir la tension augmenter sur le visage de Draco, ainsi que
+On pouvait voir la tension augmenter sur le visage de Drago, ainsi que
 la furie, l'agacement et la frustration.
 
 Harry lui sourit et mima de ses lèvres *te dirai plus tard*.
 
 Et c'est alors qu'une spirale d'énergie verte jaillit de la forêt et se
 fracassa sur le bouclier qui fit un bruit de morceaux de verre frottés
-les uns contre les autres. Draco tituba.
+les uns contre les autres. Drago tituba.
 
 Dans un mouvement de panique soudain et frénétique, Harry détacha les
 câbles de démarrage de la batterie et les donna à manger à sa bourse,
@@ -1055,11 +1055,11 @@ même pas dans quelle direction orienter son bouclier. "Quelqu'un a-t-il
 vu d'où cela venait ?" Des têtes se secouèrent. "Et général Malfoy, cela
 vous embêterait-t-il de me dire si *vous* avez eu le général Granger ?"
 
-"Bien sûr," dit Draco d'une voix acide, "bien sûr que ça m'embêterait."
+"Bien sûr," dit Drago d'une voix acide, "bien sûr que ça m'embêterait."
 
 *Oh bon sang*.
 
-L'esprit de Harry commença à faire des calculs, Draco dans le bouclier,
+L'esprit de Harry commença à faire des calculs, Drago dans le bouclier,
 passablement épuisé, Harry épuisé aussi, Hermione dans les bois dieu
 savait où, Harry et quatre autres chaotiques encore debout…
 
@@ -1079,16 +1079,16 @@ venant de tout autour d'eux.
 "*N'aies pas peur ne sois pas triste,  
 On ne fait du mal qu'aux méchants…"*
 
-"*Granger a triché !*" cracha Draco depuis l'intérieur du bouclier.
+"*Granger a triché !*" cracha Drago depuis l'intérieur du bouclier.
 "Elle a réveillé ses soldats ! Pourquoi le professeur Quirrell ne -"
 
 "Laisse-moi deviner," dit Harry, la nausée nouant déjà son estomac. Il
 détestait vraiment perdre. "C'était une bataille très facile, non ? Ils
 sont tous tombés comme des mouches ?"
 
-"Oui," dit Draco. "Nous les avons tous eus du premier coup -"
+"Oui," dit Drago. "Nous les avons tous eus du premier coup -"
 
-Le regard de compréhension horrifiée se répandit de Draco jusqu'aux
+Le regard de compréhension horrifiée se répandit de Drago jusqu'aux
 Légionnaires du Chaos.
 
 "Non," dit Harry, "on ne les a pas eus."
@@ -1097,10 +1097,10 @@ Des formes en camouflage apparaissaient parmi les arbres.
 
 "Alliés ?" dit Harry.
 
-"Alliés," dit Draco.
+"Alliés," dit Drago.
 
 "Bien," dit la voix du général Granger, et une spirale d'énergie verte
-jaillit des bois et réduisit le bouclier de Draco en miettes.
+jaillit des bois et réduisit le bouclier de Drago en miettes.
 
  
 

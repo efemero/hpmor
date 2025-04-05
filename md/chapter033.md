@@ -29,7 +29,7 @@ au-delà de la première année ; ils étaient devenu les armées de ceux qui
 n'en avaient pas. Les élèves portaient des brassards au signe du feu, du
 sourire ou de la main levée, et ils se jetaient des sortilèges dans les
 couloirs. Les trois généraux de première année leurs avaient dit
-d'arrêter - même Draco avait amèrement acquiescé après avoir écouté
+d'arrêter - même Drago avait amèrement acquiescé après avoir écouté
 jusqu'au bout - mais leurs partisans n'avaient rien voulu entendre.
 
 Dumbledore parcourut les tables du regard, l'air distant. "Il y a
@@ -102,15 +102,15 @@ Ce qui était le plus effrayant, c'était la vitesse à laquelle l'affaire
 avait échappé à tout contrôle.
 
 La première bataille de décembre avait été… *brouillon*, c'est du moins
-ce que Draco avait entendu dire.
+ce que Drago avait entendu dire.
 
 La deuxième avait été *dérangée*.
 
 Et la prochaine serait *pire* à moins qu'ils ne réussissent tous les
 trois dans leur dernière tentative désespérée de l'arrêter.
 
-"Professeur Quirrell, c'est de la folie," dit Draco sur le ton de
-l'évidence. "Ce n'est plus Serpentard, c'est juste…" Draco manquait de
+"Professeur Quirrell, c'est de la folie," dit Drago sur le ton de
+l'évidence. "Ce n'est plus Serpentard, c'est juste…" Drago manquait de
 mots. Il agita les mains avec impuissance. "On ne peut pas intriguer
 quand ce genre de choses se passe. À la dernière bataille, l'un de mes
 soldats a feint son suicide. On a des *Poufsouffle* qui essaient de
@@ -124,7 +124,7 @@ penser qu'elle ne s'était jamais attendue à s'entendre dire une chose
 pareille. "Autoriser les traîtres ne fonctionne pas, professeur
 Quirrell."
 
-Draco avait essayé d'interdire à quiconque dans son armée de comploter
+Drago avait essayé d'interdire à quiconque dans son armée de comploter
 mis à part lui, et cela avait juste fait continuer les complots de façon
 souterraine, personne ne voulait être hors du coup, pas quand les
 soldats des *autres* armées avaient la chance de comploter. Après avoir
@@ -134,11 +134,11 @@ propres plans en mouvement sans la moindre forme de coordination
 centrale.
 
 Après avoir entendu tous les plans, ou ce que ses soldats disaient être
-les plans, Draco avait essayé d'en esquisser un qui permette de
+les plans, Drago avait essayé d'en esquisser un qui permette de
 remporter la bataille finale. Cela avait nécessité que bien plus de
-trois choses se déroulent comme prévu et Draco avait utilisé *Incendio*
+trois choses se déroulent comme prévu et Drago avait utilisé *Incendio*
 suivi de *Everto* pour faire disparaître les cendres, car si Père
-l'avait vu, Draco aurait été déshérité.
+l'avait vu, Drago aurait été déshérité.
 
 Les yeux du professeur Quirrell étaient mis-clos, son menton reposait
 sur ses mains et il était penché sur son bureau. "Et vous M. Potter ?"
@@ -148,13 +148,13 @@ dit le professeur de Défense. "Êtes-vous d'accord avec eux ?"
 démarrer la première guerre mondiale," dit Harry. "C'est le chaos
 complet. Je suis carrément pour."
 
-"*Harry !*" dit Draco, profondément choqué.
+"*Harry !*" dit Drago, profondément choqué.
 
 Il lui fallut une seconde pour se rendre compte qu'il l'avait dit
 exactement au même moment et avec le même ton d'indignation choquée que
 Granger.
 
-Granger lui jeta un regard surpris et Draco conserva un visage
+Granger lui jeta un regard surpris et Drago conserva un visage
 prudemment neutre. Oups.
 
 "Eh ouais !" dit Harry. "Je vous trahis ! Tous les deux ! Encore ! Ha
@@ -172,7 +172,7 @@ moins bien."
 Harry Potter apprenait trop vite.
 
 Les yeux du professeur Quirrell se déplacèrent sous leur paupière en
-direction de Draco, puis de Granger. "En vérité, M. Malfoy, Mlle
+direction de Drago, puis de Granger. "En vérité, M. Malfoy, Mlle
 Granger, je ne pourrais tout simplement pas me regarder en face si
 j'arrêtais le grand débâcle avant son paroxysme. L'un de vos soldats est
 même devenu un agent quadruple."
@@ -186,7 +186,7 @@ quadruple dans l'Histoire, ou une armée avec une fraction si élevée de
 vrais et de faux traîtres. Nous explorons de nouveaux territoires, Mlle
 Granger, et nous ne pouvons plus rebrousser chemin."
 
-Draco quitta le bureau du professeur de Défense avec ses dents grinçant
+Drago quitta le bureau du professeur de Défense avec ses dents grinçant
 avec force les unes contre les autres, et Granger à côté, avait l'air
 encore plus irritée.
 
@@ -198,10 +198,10 @@ jeu, et pourquoi les généraux comme nous devraient-ils être les seuls à
 avoir le droit de comploter ? Et puis, qu'est-ce que vous allez y faire,
 tous les deux ? Vous allier contre moi ?"
 
-Draco échangea des regards avec Granger, sachant que son propre visage
+Drago échangea des regards avec Granger, sachant que son propre visage
 était aussi pincé que le sien. Harry s'était appuyé, de plus en plus
-ouvertement et avec de plus en plus de jubilation, sur le refus de Draco
-de faire cause commune avec une fille Sang-de-Bourbe ; et Draco
+ouvertement et avec de plus en plus de jubilation, sur le refus de Drago
+de faire cause commune avec une fille Sang-de-Bourbe ; et Drago
 commençait à être *malade* qu'on utilise ça contre lui. Si ça continuait
 un peu plus longtemps il *allait* s'allier avec Granger juste pour
 écraser Harry Potter, et on verrait bien si le fils de Sang-de-Bourbe
@@ -234,7 +234,7 @@ sûr.
 Sa question avait fait naître un sourire ironique sur le jeune visage du
 Serpentard. Blaise Zabini avait toujours semblé légèrement dédaigneux
 envers elle, mais il ne semblait pas éprouver une aversion franche à son
-égard ; rien de semblable à la dérision dans laquelle il tenait Draco
+égard ; rien de semblable à la dérision dans laquelle il tenait Drago
 Malfoy ou le ressentiment qu'il avait développé contre Harry Potter.
 Elle s'était d'abord inquiétée que Zabini la trahisse, mais le garçon
 semblait désespérément vouloir montrer que les deux autres généraux
@@ -369,7 +369,7 @@ fonctionner ?"
 parchemin de mains de Neville, faisant de son mieux pour faire comme
 s'il s'étouffait sur de la poussière. Cela faisait un total de soixante.
 
-Que Draco *essaie* de gérer ça. Qu'il *essaie*.
+Que Drago *essaie* de gérer ça. Qu'il *essaie*.
 
 Et pour Blaise Zabini…
 
@@ -395,7 +395,7 @@ maléfique. "Il arrive, précisément au moment où je m'y attendais.
 Invitez-le donc à entrer, et vous-même à sortir."
 
 Et les quatre lieutenants du Chaos s'éparpillèrent, jetant des regards
-noirs à Draco tandis que le général ennemi entrait dans le repère secret
+noirs à Drago tandis que le général ennemi entrait dans le repère secret
 de Harry.
 
 S'il n'avait pas le droit de faire ça une fois devenu adulte, Harry
@@ -412,21 +412,21 @@ de sang danser à la surface du sol situé derrière la chaise rembourrée à
 taille adulte de Harry Potter, chaise qu'il avait recouverte de
 paillettes or et argent et qu'il s'évertuait à appeler son trône.
 
-(Draco commençait à être de plus en plus persuadé qu'il avait eu raison
+(Drago commençait à être de plus en plus persuadé qu'il avait eu raison
 de décider de renverser Harry Potter avant que celui-ci ne puisse
-conquérir le monde. Draco n'arrivait même pas à *imaginer* ce que ça
+conquérir le monde. Drago n'arrivait même pas à *imaginer* ce que ça
 pourrait être que de vivre sous son règne).
 
 "Bonsoir, général Dragon," dit Harry Potter d'un murmure brutal. "Vous
 voilà, comme je m'y attendais."
 
-Ce n'était pas surprenant puisque Draco et Harry s'étaient mis d'accord
+Ce n'était pas surprenant puisque Drago et Harry s'étaient mis d'accord
 sur l'heure de leur rendez-vous.
 
-Et aussi, on n'était pas le soir, mais à ce stade, Draco avait assez
+Et aussi, on n'était pas le soir, mais à ce stade, Drago avait assez
 d'expérience pour savoir qu'il valait mieux ne rien dire.
 
-"Général Potter," dit Draco avait autant de dignité qu'il en était
+"Général Potter," dit Drago avait autant de dignité qu'il en était
 capable, "vous savez que nos deux armées doivent travailler ensemble
 pour qu'*un* d'entre nous ait une chance de remporter le vœu du
 professeur Quirrell ?"
@@ -440,7 +440,7 @@ l'autre l'a trahi. Et vous et moi, qui savons cela, serons tenté de
 trahir l'autre et de prétendre que c'est une tromperie de Granger. Et
 Granger sait aussi *cela*."
 
-Draco hocha la tête. Évident jusque là. "Et… nous voulons tous deux
+Drago hocha la tête. Évident jusque là. "Et… nous voulons tous deux
 gagner et *rien d'autre*, et il n'y a personne pour nous punir si nous
 trahissons l'autre…"
 
@@ -465,7 +465,7 @@ Et les deux prisonniers devaient prendre leur décision sans connaître le
 choix de l'autre, et aucun n'aurait la chance de revenir sur sa
 décision.
 
-Draco avait fait remarquer que si les deux prisonniers avaient été des
+Drago avait fait remarquer que si les deux prisonniers avaient été des
 Mangemorts pendant la guerre des sorciers, le Seigneur des Ténèbres
 aurait tué tout traître.
 
@@ -474,7 +474,7 @@ le dilemme du prisonnier - et que de fait, c'était pour cette exacte
 raison que les deux Mangemorts *auraient voulu* qu'il y ait un Seigneur
 des Ténèbres.
 
-(Draco avait demandé à Harry de s'interrompre et de le laisser y
+(Drago avait demandé à Harry de s'interrompre et de le laisser y
 réfléchir un moment avant qu'ils ne continuent. Cela avait expliqué
 *beaucoup* quant à la raison pour laquelle Père et ses amis avaient
 accepté de servir un Seigneur des Ténèbres qui était bien souvent peu
@@ -491,7 +491,7 @@ trahissaient. Les gens se laissaient donc être dirigés par des
 gouvernements, tout comme les Mangemorts s'étaient laissés diriger par
 le Seigneur des Ténèbres.
 
-(Draco avait demandé à Harry de s'interrompre une fois de plus. Draco
+(Drago avait demandé à Harry de s'interrompre une fois de plus. Drago
 avait toujours tenu pour acquis que les sorciers ambitieux s'emparaient
 du pouvoir parce qu'ils voulaient diriger et que les gens se laissaient
 être dirigés parce qu'ils étaient de petits Poufsouffle effrayés. Et, à
@@ -504,7 +504,7 @@ pas la *seule* raison possible de coopérer au dilemme du prisonnier.
 Imagine, avait dit Harry, que tu joues à un jeu contre une copie
 identique de toi-même créée par magie.
 
-Draco avait dit que s'il y avait deux Dracos, bien sûr qu'aucun Draco ne
+Drago avait dit que s'il y avait deux Dragos, bien sûr qu'aucun Drago ne
 voudrait que quelque chose de mal arrive à l'autre, sans parler du fait
 qu'aucun Malfoy n'accepterait jamais de passer pour un traître.
 
@@ -545,16 +545,16 @@ pour répandre ce genre de 'rationalité', parce qu'un pays ou une
 conspiration pleins de gens 'rationnels' se seraient dissolus dans le
 chaos. Vous parleriez de la 'rationalité' à vos *ennemis*.
 
-Sur le moment, tout cela avait *semblé* raisonnable à Draco, mais
+Sur le moment, tout cela avait *semblé* raisonnable à Drago, mais
 *maintenant* la pensée lui venait que…
 
-"*Tu* as dit," dit Draco, "que la solution rationnelle au dilemme du
+"*Tu* as dit," dit Drago, "que la solution rationnelle au dilemme du
 prisonnier est de coopérer. Mais bien sûr que *tu* voudrais que je crois
-ça." Et si Draco se faisait duper et coopérait, Harry dirait juste, *ha
+ça." Et si Drago se faisait duper et coopérait, Harry dirait juste, *ha
 ha, je t'ai encore trahi* ! et il se moquerait ensuite de lui.
 
 "Je ne me permettrai pas de falsifier les leçons," dit Harry avec
-sérieux. "Mais Draco, je dois te rappeler que je n'ai pas dit que tu
+sérieux. "Mais Drago, je dois te rappeler que je n'ai pas dit que tu
 devrais juste automatiquement coopérer. Pas dans un *vrai* dilemme du
 prisonnier tel que celui-ci. Ce que j'ai dit, c'est que quand tu
 choisis, tu ne devrais pas penser comme si tu choisissais seulement pour
@@ -567,7 +567,7 @@ prédictions correctes te concernant, pour que tu n'aies jamais à
 regretter d'avoir été rationnel à cause des prédictions correctes que
 les autres auraient fait à ton sujet - rappelle moi de te parler un jour
 du problème de Newcomb. La question que nous devons donc tous les deux
-poser, Draco, est celle-ci : sommes-nous suffisamment similaires pour
+poser, Drago, est celle-ci : sommes-nous suffisamment similaires pour
 avoir de fortes chances de faire *la même chose*, quelle qu'elle soit,
 et pour les mêmes raisons générales ? Ou : nous connaissons-nous assez
 pour nous prédire l'un l'autre, pour que *je* puisse prédire si tu
@@ -575,23 +575,23 @@ coopéreras ou si tu trahiras, et que *tu* puisses prédire si j'ai décidé
 de faire la même chose que j'ai prédit que tu feras, parce que *je* sais
 que tu peux prédire que je le déciderai ?"
 
-… et Draco ne pouvait pas s'empêcher de penser que, vu qu'il avait
+… et Drago ne pouvait pas s'empêcher de penser que, vu qu'il avait
 besoin de faire un effort pour comprendre *la moitié* de ce que Harry
 venait de dire, la réponse était évidemment 'Non'.
 
-"Oui," dit Draco.
+"Oui," dit Drago.
 
 Il y eut une pause.
 
 "Je vois," dit Harry, l'air déçu. "Eh bien. Dans ce cas, j'imagine que
 nous allons devoir trouver un autre moyen."
 
-Draco n'avait pas pensé que cela allait fonctionner.
+Drago n'avait pas pensé que cela allait fonctionner.
 
-Draco et Harry en discutèrent encore et encore. Bien plus tôt, ils
+Drago et Harry en discutèrent encore et encore. Bien plus tôt, ils
 s'étaient mis d'accord sur le fait que leurs actes sur le champ de
 bataille ne *compteraient pas* comme des promesses rompues dans la vraie
-vie - même si Draco était un peu en colère au sujet de ce que Harry
+vie - même si Drago était un peu en colère au sujet de ce que Harry
 avait fait dans le bureau du professeur Quirrell, et il le dit à Harry.
 
 Mais si aucun d'eux ne pouvait compter sur l'honneur ou l'amitié, cela
@@ -650,14 +650,14 @@ l'explosion.
 
  
 
-Draco avait espéré qu'ils se battraient de nouveau dans les étages
+Drago avait espéré qu'ils se battraient de nouveau dans les étages
 supérieurs de Poudlard. Le professeur Quirrell avait dit que les
 véritables combats risquaient plus d'avoir lieu dans des villes que dans
 des forêts, et se battre dans les couloirs et les salles de classes
 était censé le simuler, avec des rubans pour délimiter les zones
 autorisées. L'armée Dragon s'en était bien sortie lors de ces combats.
 
-Au lieu de cela, et comme Draco l'avait craint, le professeur Quirrell
+Au lieu de cela, et comme Drago l'avait craint, le professeur Quirrell
 avait eu une idée *spéciale* pour ce combat.
 
 Le champ de bataille serait le lac de Poudlard.
@@ -698,12 +698,12 @@ les soldats éteindraient les lumières dès qu'ils commenceraient les
 manœuvres. Il n'y avait aucun avantage à laisser l'ennemi vous voir
 avant que vous ne l'ayez vous-même aperçu.
 
-Draco battit des jambes plusieurs fois, se propulsant jusqu'à une
+Drago battit des jambes plusieurs fois, se propulsant jusqu'à une
 position plus haute d'où il put observer l'endroit où ses soldats se
 tenaient, suspendus dans l'eau.
 
 Les conversations moururent presque instantanément sous le regard de
-glace de Draco, ses soldats levant les yeux vers lui avec de
+glace de Drago, ses soldats levant les yeux vers lui avec de
 gratifiantes expressions de peur et d'inquiétude.
 
 "Écoutez-moi avec très attentivement," dit le général Malfoy. Sa voix
@@ -714,25 +714,25 @@ vaincre Soleil. *Ensuite*, nous nous battons contre Potter et nous
 gagnons. Ça *doit* se passer comme ça, compris ? Peu importe ce qui se
 passe par ailleurs, cette partie *doit* avoir lieu ainsi -"
 
-Et Draco expliqua le plan que lui et Harry avait concocté.
+Et Drago expliqua le plan que lui et Harry avait concocté.
 
 Des regards effarés furent échangés parmi les soldats.
 
-"- et si l'un de *vos* complots fait obstacle à ceci," conclut Draco,
+"- et si l'un de *vos* complots fait obstacle à ceci," conclut Drago,
 "je vous immolerai après que nous soyons sortis de l'eau."
 
 Il y eut un chorus nerveux de *ouimsieur*.
 
 "Et tous ceux avec des ordres secrets, assurez-vous de les exécuter *à
-la lettre*," dit Draco.
+la lettre*," dit Drago.
 
 Environ la moitié de ses soldats *hochèrent ouvertement la tête*, et
-Draco les marqua comme devant être tués après son ascension au pouvoir.
+Drago les marqua comme devant être tués après son ascension au pouvoir.
 
 Bien sûr, tous les ordres privés étaient faux, comme celui où un Dragon
 devait offrir une fausse commission de traître à un autre Dragon, le
 second Dragon ayant reçu l'ordre lors d'une confidence murmurée de faire
-part de tout ce que le premier Dragon dirait. Draco avait dit à chaque
+part de tout ce que le premier Dragon dirait. Drago avait dit à chaque
 Dragon que toute la guerre pouvait dépendre de cet ordre secret, et
 qu'il espérait qu'ils comprenaient que c'était plus important que les
 plans qu'ils avaient jusqu'alors eu en tête. Avec de la chance, cela
@@ -740,13 +740,13 @@ maintiendrait tous ces idiots dans un état de bonne humeur et
 permettrait peut-être d'évacuer quelques espions si les rapports ne
 correspondaient pas aux instructions.
 
-Les vrais plans de Draco pour vaincre Chaos… et bien, c'était plus
+Les vrais plans de Drago pour vaincre Chaos… et bien, c'était plus
 simple que celui qu'il avait brûlé, mais Père ne l'aurait toujours pas
-apprécié. Même en essayant, Draco n'avait pas réussi à avoir une
+apprécié. Même en essayant, Drago n'avait pas réussi à avoir une
 meilleure idée. C'était un plan qui n'aurait *jamais* pu fonctionner
 contre quelqu'un d'autre que Harry Potter. À vrai dire, cela *avait* été
 le plan original de Harry, à ce qu'en avait dit le traître, même si
-Draco l'avait deviné sans avoir besoin qu'on le lui dise. Draco et le
+Drago l'avait deviné sans avoir besoin qu'on le lui dise. Drago et le
 traître l'avaient juste modifié quelque peu…
 
  
@@ -1061,7 +1061,7 @@ lumière solaire se déplaçant sur son uniforme de camouflage, le nuage de
 ses cheveux châtain.
 
 Et si Harry avait essayé de se dérober, de ne pas être celui qui
-l'abattrait… non seulement Draco aurait compris ce que cela voulait dire
+l'abattrait… non seulement Drago aurait compris ce que cela voulait dire
 mais *Hermione* aurait été offensée.
 
 *Elle n'est pas morte*, dit Harry à son cerveau, ses pieds battant pour
@@ -1092,8 +1092,8 @@ nouveau deux bancs de poissons.
 Le général Granger avait perdu dix-sept points et prit trois chaotiques
 et deux dragons avec elle ; et un chaotique et deux dragons avaient été
 abattu pour trahison. Elle avait perdu sept points en tout, Harry en
-avait perdu un, Draco en avait perdu deux ; cela donnait à Soleil un
-avantage de vingt points sur Draco et de dix-sept points sur Chaos.
+avait perdu un, Drago en avait perdu deux ; cela donnait à Soleil un
+avantage de vingt points sur Drago et de dix-sept points sur Chaos.
 Chaos pourrait facilement gagner s'ils exterminaient les vingt Dragons
 restant. Le joker, bien sûr, était les sept soldats Soleil restants…
 
@@ -1115,7 +1115,7 @@ pendant cette bataille, ne pas dépenser le moindre effort sur des plans
 non approuvés par le commandeur ; se contenter de nager, de se protéger
 et de tirer.*
 
-Hermione et Draco avaient tous deux combattus leurs soldats, essayés de
+Hermione et Drago avaient tous deux combattus leurs soldats, essayés de
 les empêcher de comploter par eux-mêmes pendant tout décembre. Harry
 avait encouragé les siens et avait soutenu leurs manigances pendant les
 deux dernières batailles… tout en leur disant qu'à un moment *futur* il
@@ -1123,7 +1123,7 @@ leur demanderait peut-être d'interrompre un complot ou deux, ce qu'ils
 avaient promptement accepté. Et maintenant, lors de cette bataille
 critique, ils étaient heureux d'obéir.
 
-Harry était certain que ni Hermione ni Draco n'auraient pu donner cet
+Harry était certain que ni Hermione ni Drago n'auraient pu donner cet
 ordre avec succès. C'était la différence entre des soldats qui vous
 voyaient comme un allié dans leur conspiration et des soldats qui vous
 voyaient comme un vieux schnock rabat-joie qui ne voulait pas qu'ils
@@ -1178,44 +1178,44 @@ Granger : 237 / Malfoy : 220 / Potter : 226
 
  
 
-La tête de Draco changeait frénétiquement de direction, essayant de
+La tête de Drago changeait frénétiquement de direction, essayant de
 mesurer ce qui se passait ; étrangement, malgré ses forces supérieures,
 il avait *perdu l'initiative*. Quatre petites forces chaotiques étaient
 poursuivies par quatre forces dragons plus importantes, mais le fait que
-les forces de Draco soient celles qui essayaient de provoquer un
+les forces de Drago soient celles qui essayaient de provoquer un
 engagement signifiait qu'il leur fallait *suivre* la *fuite* de Chaos,
 et d'une façon ou d'une autre cela créait des concentrations de forces
 chaotiques qui tiraient dans les flancs exposés de Dragon -
 
 Ça se produisait *à nouveau* !
 
-*"Prismatis !"* cria Draco en levant sa baguette, et apparut ce bouclier
+*"Prismatis !"* cria Drago en levant sa baguette, et apparut ce bouclier
 qu'on pouvait voir même à travers l'eau, un mur plat et étincelant de
-toutes les couleurs, assez large pour protéger Draco et les cinq autre
+toutes les couleurs, assez large pour protéger Drago et les cinq autre
 dragons qui l'accompagnaient de la force chaotique qui venait de
 commencer à leur tirer dessus en profitant de leur approche latérale, et
 *cela* laissa aux cinq autres dragons le loisir de rediriger *leur*
 attention sur les forces chaotique qu'ils avaient pourchassées -
 
 Il y eut un moment de tension tandis que les sorts de sommeil
-s'écrasaient les uns après les autres dans le mur prismatique de Draco,
-et Draco priait Merlin qu'aucun de ces quatre chaotiques n'ait appris le
+s'écrasaient les uns après les autres dans le mur prismatique de Drago,
+et Drago priait Merlin qu'aucun de ces quatre chaotiques n'ait appris le
 sort de bris de bouclier -
 
 Puis il y eut le son de cloche d'une victoire Dragon, et la force
 chaotique inversa ses têtes et ses pieds et commença à s'éloigner ; et
-Draco, ses mains tremblant à présent légèrement, relâcha le mur
+Drago, ses mains tremblant à présent légèrement, relâcha le mur
 prismatique et abaissa sa baguette.
 
 Combattre sous l'eau était plus épuisant que de combattre sur des
 balais.
 
-"*Ne les poursuivez pas !*" cria Draco à l'intention de ses soldats, qui
+"*Ne les poursuivez pas !*" cria Drago à l'intention de ses soldats, qui
 commençaient à suivre, puis : "*Sonorus ! EN FORMATION AUTOUR DE MOI !*"
 
-Les forces dragons convergèrent vers Draco et les forces chaotiques
+Les forces dragons convergèrent vers Drago et les forces chaotiques
 pivotèrent et commencèrent à *poursuivre* les dragons à cet instant
-même - Draco jura à voix haute quand il entendit le son de cloche d'une
+même - Drago jura à voix haute quand il entendit le son de cloche d'une
 victoire chaotique, quelqu'un avait mal orienté son bouclier simple -
 puis les forces Dragon furent à bonne distance pour se protéger l'une
 l'autre et les chaotiques repartirent vers les remous lointains.
@@ -1226,7 +1226,7 @@ en retour, et il avait entendu un espion Dragon se faire exécuter. Soit
 Harry Potter avait eu beaucoup de bonnes idées très rapidement, ou pour
 une raison inimaginable il avait déjà passé beaucoup de temps à
 réfléchir à la meilleure façon de combattre sous l'eau. Cela ne
-fonctionnait pas, et Draco avait besoin de réfléchir à nouveau.
+fonctionnait pas, et Drago avait besoin de réfléchir à nouveau.
 
 Il semblait aussi que tout le monde avait du mal à viser en nageant, la
 bataille durerait peut-être assez longtemps pour que le temps maximal
@@ -1234,26 +1234,26 @@ expire… la lointaine lune sous-marine était à moitié pleine maintenant,
 ça n'était pas bon… il lui fallait penser *vite*…
 
 "Qu'y a-t-il ?" dit Padma Patil, et elle et sa force nagèrent en
-direction de Draco.
+direction de Drago.
 
 Padma était sa commandante en second ; elle était maline et puissante,
 et encore mieux, elle haïssait Granger et voyait Harry comme un rival,
 ce qui la rendait *digne de confiance*. Travailler avec Padma lui avait
 permis de se rendre compte de la véracité du vieil adage selon lequel
-Serdaigle était sœur de Serpentard ; Draco avait été surpris lorsque son
+Serdaigle était sœur de Serpentard ; Drago avait été surpris lorsque son
 père lui avait dit que c'était une maison acceptable pour sa future
 femme, mais il comprenait maintenant pourquoi.
 
-"Attendez que nous soyons tous là," dit Draco. À vrai dire, il avait
+"Attendez que nous soyons tous là," dit Drago. À vrai dire, il avait
 besoin de reprendre son souffle. C'était le problème quand on était le
 général *et* le sorcier le plus puissant, il fallait sans cesse utiliser
 sa magie.
 
 Zabini vint ensuite, commandant une force de deux Soleil et quatre
-Dragons, dont l'un était Gregory et qui gardait un œil sur Zabini. Draco
-ne faisait pas confiance à Zabini. Et ni Draco ni Zabini ne faisaient
+Dragons, dont l'un était Gregory et qui gardait un œil sur Zabini. Drago
+ne faisait pas confiance à Zabini. Et ni Drago ni Zabini ne faisaient
 assez confiance aux Soleil pour leur donner la majorité d'une escouade ;
-ils étaient *censés* être loyaux, soit directement à Draco, soit à
+ils étaient *censés* être loyaux, soit directement à Drago, soit à
 Granger qui avait été trompée par la promesse que les dragons seraient
 trahis à la fin après que les deux forces aient été diminuées, tout
 comme les chaotiques en lesquels Harry avait le plus confiance auraient
@@ -1267,7 +1267,7 @@ ne gagnait pas comme son avantage numérique aurait dû le faire advenir…
 L'unité suivante était réduite, trois soldats tenant leur baguette
 braquée sur deux autres soldats qui nageaient les mains vides.
 
-Draco grinça des dents. Encore des problèmes de trahison. Il fallait
+Drago grinça des dents. Encore des problèmes de trahison. Il fallait
 qu'il parle au professeur Quirrell d'un moyen permettant au moins de
 *punir* les traîtres, des conditions comme celles-ci n'était pas
 *réalistes*, dans la vraie vie on torturait les traîtres à mort.
@@ -1282,22 +1282,22 @@ Bogdan a abattu Specter -"
 "*Si* !" hurla Cesi. "Général Malfoy, c'est *elle* l'espion, j'aurais dû
 m'en ren-"
 
-"*Somnium*," dit Draco.
+"*Somnium*," dit Drago.
 
 Il y eut le triple son de cloche d'une perte d'un point pour Dragon, et
 le corps mou de Kellah commença alors à dériver loin d'eux.
 
-À ce stade, Draco *avait* entendu le mot 'récursion', et il savait
+À ce stade, Drago *avait* entendu le mot 'récursion', et il savait
 reconnaître un complot de Harry Potter quand il en avait un sous les
 yeux.
 
-(Malheureusement, Draco n'avait *pas* entendu parler des maladies
+(Malheureusement, Drago n'avait *pas* entendu parler des maladies
 auto-immunes, et la pensée ne lui vint *pas* naturellement qu'un virus
 malin commencerait son attaque en créant les symptômes d'une maladie
 auto-immune pour pousser le corps à ne plus faire confiance à son
 système immunitaire…)
 
-"*Ordre général* !" dit Draco, élevant sa voix. "Personne ne peut
+"*Ordre général* !" dit Drago, élevant sa voix. "Personne ne peut
 abattre d'espions à par moi, Gregory, Padma et Terry. Si quelqu'un voit
 quelque chose de suspect, qu'il vienne *nous* voir."
 
@@ -1305,7 +1305,7 @@ Et alors -
 
 Il y eut la cloche de Soleil gagnant deux points.
 
-"*Quoi* ?" dirent Draco et Zabini presque au même instant ; leurs têtes
+"*Quoi* ?" dirent Drago et Zabini presque au même instant ; leurs têtes
 pivotèrent. Personne ne semblait avoir été touché et tous les soldats de
 Soleil étaient présents (à part Parvati qui s'était fait abattre par un
 traître encore inconnu dans l'équipe de Padma ; et bien sûr Padma avait
@@ -1321,7 +1321,7 @@ Chaos sur Soleil -"
 
 "*Quoi !*" dit Zabini. "Mais pourquoi -"
 
-Et Draco comprit. *Bon sang !* "Parce que Potter croit qu'il est
+Et Drago comprit. *Bon sang !* "Parce que Potter croit qu'il est
 tranquille pour ce qui est de sa marge vis à vis de Soleil, mais pas vis
 à vis de *nous* ! Alors il ne veut pas perdre un seul point en exécutant
 un traître ! *Ordre général* ! Si vous avez un traître dans vos rangs,
@@ -1337,39 +1337,39 @@ Dragon après -"
 Granger : 253 / Malfoy : 252 / Potter : 252
 
 Le corps de Londubat dérivait chaotiquement dans l'eau, bras et jambes
-désordonnés. Après que Draco soit enfin parvenu à le toucher ils lui
+désordonnés. Après que Drago soit enfin parvenu à le toucher ils lui
 avaient tous tiré dessus *à nouveau*, juste pour être sûr.
 
 Non loin se trouvait Harry Potter, maintenant protégé par une sphère
 prismatique, les regardant tous d'un air sinistre tandis que le dernier
 éclat du croissant de lune diminuait lentement, quelque part, très loin.
-Si Londubat était parvenu à abattre un soldat de plus (Draco savait que
+Si Londubat était parvenu à abattre un soldat de plus (Drago savait que
 Harry songeait), si les deux chaotiques étaient parvenus à tenir juste
 un peu plus longtemps, ils auraient pu *gagner*…
 
-Après que Draco ait rassemblé ses forces et ait frappé de nouveau, la
+Après que Drago ait rassemblé ses forces et ait frappé de nouveau, la
 bataille qui avait suivi et l'exécution des espions au nom de Soleil
 avaient laissé Soleil exactement un point devant Dragon et Chaos. Une
-fois que Harry avait commencé à le faire, Draco n'avait pas eu d'autre
+fois que Harry avait commencé à le faire, Drago n'avait pas eu d'autre
 choix que de l'imiter.
 
 Mais à présent, le général Chaos était surpassé à trois contre un, les
 survivants de l'armée Dragon et le dernier traître Soleil encore
-debout : Draco, Padma et Zabini.
+debout : Drago, Padma et Zabini.
 
-Et Draco, qui n'était pas un idiot, avait ordonné à Padma de prendre la
+Et Drago, qui n'était pas un idiot, avait ordonné à Padma de prendre la
 baguette de Zabini après que Londubat ait abattu Gregory et soit ensuite
-tombé par la main de Draco. Le garçon lui avait jeté un regard insulté,
+tombé par la main de Drago. Le garçon lui avait jeté un regard insulté,
 lui avait dit qu'il lui en devrait une, et lui avait donné sa baguette.
 
-Cela laissait Draco et Padma pour descendre le général Chaos.
+Cela laissait Drago et Padma pour descendre le général Chaos.
 
-"J'imagine que tu ne voudrais pas te rendre ?" dit Draco, souriant du
+"J'imagine que tu ne voudrais pas te rendre ?" dit Drago, souriant du
 sourire le plus démoniaque qu'il ait jamais adressé à Harry Potter.
 
 "Le sommeil plutôt que de se rendre !" tonna le général Chaos.
 
-"Juste pour que tu saches," dit Draco, "Zabini n'a pas *vraiment* une
+"Juste pour que tu saches," dit Drago, "Zabini n'a pas *vraiment* une
 grande sœur que tu pourrais sauver des griffes de brutes de Gryffondor.
 Mais Zabini *a* une mère qui ne voit pas d'un bon œil les nés-Moldus
 tels que Granger, et je lui ai écrit quelques mots, et j'ai offert
@@ -1380,13 +1380,13 @@ encore que Zabini était vraiment de ton côté."
 
 Le visage de Harry devint encore plus sinistre.
 
-Draco leva sa baguette et commença à respirer en rythme, accumulant de
+Drago leva sa baguette et commença à respirer en rythme, accumulant de
 la force pour le sort de bris de bouclier. La sphère prismatique de
-Granger était maintenant presque aussi forte que celle de Draco, et
+Granger était maintenant presque aussi forte que celle de Drago, et
 celle de Harry n'était pas beaucoup plus faible, où ces deux-là
 trouvaient-ils le *temps* ?
 
-"*Lagann !*" dit Draco, y mettant tout ce qu'il avait encore en lui, et
+"*Lagann !*" dit Drago, y mettant tout ce qu'il avait encore en lui, et
 la spirale verte jaillit et le bouclier de Harry vola en éclats, et
 presque au même moment -
 
@@ -1425,7 +1425,7 @@ de la fille Gryffondor. "Et merci à *toi* aussi," s'inclinant vers
 Zabini. "Tu sais, quand tu es venu me voir avec ce plan, je me suis
 demandé si tu étais génial ou fou, et j'ai décidé que tu étais les deux.
 Au fait," dit Harry, se tournant maintenant comme pour s'adresser au
-corps de Draco, "Zabini *a* un cousin -"
+corps de Drago, "Zabini *a* un cousin -"
 
 "*Somnium*," dit la voix de Zabini.
 
@@ -1471,7 +1471,7 @@ mère n'aime pas Hermione."
 
 "J'imagine," dit Zabini, toujours avec ce rictus supérieur. "Mais
 certains d'entre nous sont plus disposés à agacer un parent que ne l'est
-Draco Malfoy."
+Drago Malfoy."
 
 "Et Harry Potter a dit que tu as un cousin -"
 

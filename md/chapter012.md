@@ -78,7 +78,7 @@ courant. Et que ça avait été déclenché quand le Choixpeau avait dit
 "SERPENTARD !", et peut-être que d'autres conditions avaient été
 satisfaites. Et qu'un Serdaigle tel que lui n'était *vraiment, vraiment
 pas censé l'avoir entendu.* Et que si il pouvait trouver une façon sûre
-de faire jurer le secret à Draco pour qu'il puisse l'interroger à ce
+de faire jurer le secret à Drago pour qu'il puisse l'interroger à ce
 sujet, ce serait un moment parfait pour boire de l'Hilari-Thé.
 
 *Jeune garçon, tu te résous à ne pas suivre le chemin d'un Seigneur des
@@ -189,7 +189,7 @@ Avec un grand effort, Harry s'empêcha de baisser les yeux vers
 l'incriminante canette d'Hilari-Thé qu'il avait en main.
 
 Après tout, l'Hilari-Thé n'avait pas arbitrairement *matérialisé* un
-gros titre du Chicaneur au sujet de Draco et lui. Draco l'avait expliqué
+gros titre du Chicaneur au sujet de Drago et lui. Drago l'avait expliqué
 d'une façon qui donnait l'impression que tout avait eu lieu…
 naturellement ? Comme si l'Hilari-Thé avait *altéré l'histoire pour que
 tout concorde ?*
@@ -265,7 +265,7 @@ face de lui, des saucisses bleues avec des petits morceaux brillants,
 wahou.
 
 "À quoi pensais-tu, le Triage -" commença Padma Patil, l'un des
-Serdaigles de première année.
+Serdaigle de première année.
 
 "On n'importune pas pendant les repas !" dit un chorus d'au moins trois
 personnes. "Règle de Maison !" ajouta un autre. "Autrement nous
@@ -336,8 +336,8 @@ recherche-et-obtention-d'information existent ; si il y en a. La magie
 de bibliothèques n'est pas aussi importante que la magie de l'esprit
 mais elle a une priorité bien plus élevée.*
 
-*Option 3b : Chercher un sort pouvant lier Draco à un secret, ou
-vérifier de façon magique la sincérité de la promesse de Draco de garder
+*Option 3b : Chercher un sort pouvant lier Drago à un secret, ou
+vérifier de façon magique la sincérité de la promesse de Drago de garder
 un secret (Veritaserum ?), puis l'interroger sur le message de
 Serpentard…*
 
@@ -383,7 +383,7 @@ vingt ans plus tard, c'était maintenant. Modifier le passé lointain
 était facile du moment qu'on y pensait au bon moment.
 
 Ou… c'était encore *plus* contre-intuitif… il pourrait même en informer,
-oh, disons *le Professeur McGonagall*, au lieu de Draco *ou* Hermione.
+oh, disons *le Professeur McGonagall*, au lieu de Drago *ou* Hermione.
 Et il pourrait réunir quelques personnes choisies et enlever ce petit
 sort supplémentaire du Choixpeau.
 

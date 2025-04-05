@@ -56,7 +56,7 @@ attaché au dossier de son lit, face vers l'extérieur.
 
 Le papier disait :
 
-*Mes chers Serdaigles,*
+*Mes chers Serdaigle,*
 
 *Ce fut une journée particulièrement longue. Merci de me laisser dormir
 tard et ne vous en faites pas pour mon petit déjeuner. Je n'ai pas
@@ -271,7 +271,7 @@ JOLIS SOUS-VÊTEMENTS
 C'EST TA MÈRE QUI LES A CHOISIS ?
 
 Harry broya la note dans sa main, le visage écarlate et brûlant.
-L'injure de Draco lui revint. *Fils de sang-de-bourbe* -
+L'injure de Drago lui revint. *Fils de sang-de-bourbe* -
 
 Il en savait à présent assez pour ne pas le dire tout haut. Il recevrait
 probablement une Pénalité de Profanité.
@@ -502,13 +502,13 @@ En de moments pareils, Harry avait une excuse pour sprinter à fond sans
 se préoccuper de conserver son énergie ou de faire les exercices
 d'échauffement adaptés ou de s'inquiéter de percuter quelque chose, une
 course frénétique et soudaine qui s'arrêta presque aussi soudainement
-lorsqu'il faillit dépasser un groupe de six Poufsouffles de première
+lorsqu'il faillit dépasser un groupe de six Poufsouffle de première
 année…
 
 … qui étaient blottis les uns contre les autres et avaient l'air plutôt
 effrayés et semblaient désespérément vouloir faire quelque chose mais
 sans savoir exactement quoi, ce qui avait probablement quelque chose à
-voir avec le groupe de cinq Serpentards plus âgés qui avaient l'air
+voir avec le groupe de cinq Serpentard plus âgés qui avaient l'air
 d'entourer un autre jeune garçon.
 
 Harry devint soudain plutôt coléreux.
@@ -518,8 +518,8 @@ Harry devint soudain plutôt coléreux.
 Ça n'était peut-être pas forcément nécessaire. Les gens le regardaient
 déjà. Mais ça permettait certainement de figer la situation.
 
-Harry dépassa le groupe de Poufsouffles et se dirigea vers les
-Serpentards.
+Harry dépassa le groupe de Poufsouffle et se dirigea vers les
+Serpentard.
 
 Ils le regardèrent avec des expressions allant de la rage à l'amusement
 à la délectation.
@@ -529,8 +529,8 @@ garçons bien plus grands et bien plus âgés, qui pourraient l'aplatir.
 
 Une autre partie disait sèchement que quiconque vu pendant qu'il
 aplatissait le Survivant aurait une *montagne* d'ennuis, en particulier
-si il faisait partie d'une bande de Serpentards plus âgés et que sept
-Poufsouffles l'avaient vu, et que les chances qu'ils lui causent des
+si il faisait partie d'une bande de Serpentard plus âgés et que sept
+Poufsouffle l'avaient vu, et que les chances qu'ils lui causent des
 dommages permanents face à des témoins étaient quasi nulles. La seule
 véritable arme que les garçons plus âgés avaient contre lui était sa
 propre peur, si il le permettait.
@@ -544,11 +544,11 @@ auprès de Neville, et ça voulait dire que Neville était *sien*, comment
 osaient-ils ?
 
 Harry tendit la main, attrapa Neville par le poignet et le *tira
-brusquement* depuis le centre du cercle formé par les Serpentards ; le
+brusquement* depuis le centre du cercle formé par les Serpentard ; le
 garçon, choqué, trébucha alors que Harry le tirait et presque dans le
 même mouvement se projetait lui-même par le passage ainsi ouvert.
 
-Et Harry se tint au centre des Serpentards, là où Neville s'était tenu,
+Et Harry se tint au centre des Serpentard, là où Neville s'était tenu,
 le regard levé vers les garçons bien plus vieux, bien plus grands et
 bien plus forts.
 
@@ -563,7 +563,7 @@ de ramasser ses livres puis les faisiez tomber à nouveau. Harry ne se
 souvenait pas avoir été lui-même l'objet de ce jeu, mais il avait une
 bonne imagination et cette imagination le rendait furieux. Eh bien
 lorsque la situation serait réglée ce serait assez simple pour Neville
-de revenir et de ramasser ses affaires, du moment que les Serpentards
+de revenir et de ramasser ses affaires, du moment que les Serpentard
 restaient trop concentrés sur Harry pour faire quoi que ce soit aux
 livres.
 
@@ -577,9 +577,9 @@ permettant d'obtenir un avantage futur, ou est-ce autant une inutile
 disgrâce du nom de Salazar Serpentard que ça en a -"
 
 Le plus grand des garçons poussa Harry Potter avec force, et ce dernier
-s'étala hors du cercle de Serpentards sur le dur sol de Poudlard.
+s'étala hors du cercle de Serpentard sur le dur sol de Poudlard.
 
-Et les Serpentards rirent.
+Et les Serpentard rirent.
 
 Harry se leva dans un mouvement qui lui sembla être horriblement lent.
 Il ne savait pas encore comment utiliser sa baguette, mais il n'y avait
@@ -587,33 +587,33 @@ aucune raison de laisser cela l'arrêter, au vu des circonstances.
 
 "Je voudrais payer *autant de points que nécessaire* pour me débarrasser
 de cette personne," dit Harry, pointant son doigt vers le plus grand des
-Serpentards.
+Serpentard.
 
 Puis Harry leva son autre main, dit "Abracadabra," et claqua des doigts.
 
-Au son d'*Abracadabra*, deux des Poufsouffles hurlèrent, y compris
-Neville, trois autres Serpentards se jetèrent désespérément loin de la
+Au son d'*Abracadabra*, deux des Poufsouffle hurlèrent, y compris
+Neville, trois autres Serpentard se jetèrent désespérément loin de la
 direction vers laquelle pointait le doigt de Harry, et le plus grand des
-Serpentards fit un pas chancelant en arrière avec un air choqué. Une
+Serpentard fit un pas chancelant en arrière avec un air choqué. Une
 grande éclaboussure rouge décorait son visage, son cou et sa poitrine.
 
 Harry ne s'était *pas* attendu à ça.
 
-Lentement, le plus grand des Serpentards porta la main à sa tête et
+Lentement, le plus grand des Serpentard porta la main à sa tête et
 décolla le plat de tarte à la cerise dont il venait d'être drapé. Il
 tint le plat dans sa main un moment en le regardant, puis il le laissa
 tomber au sol.
 
 Ce n'était probablement pas le meilleur moment possible pour qu'un des
-Poufsouffles commence à rire, mais c'est exactement ce qu'un des
-Poufsouffles était en train de faire.
+Poufsouffle commence à rire, mais c'est exactement ce qu'un des
+Poufsouffle était en train de faire.
 
 Puis Harry remarqua la note en-dessous du plat.
 
 "Attends," dit Harry, et il s'élança pour récupérer la note. "Cette note
 est pour moi je pense -"
 
-"*Toi,*" grogna le plus grand des Serpentards, "*toi, tu, vas -"*
+"*Toi,*" grogna le plus grand des Serpentard, "*toi, tu, vas -"*
 
 "*Regardez*-moi ça !" cria Harry, brandissant la note devant le
 Serpentard plus âgé. "Franchement, *regardez* ça ! Pouvez-vous croire
@@ -624,16 +624,16 @@ transport ? Des frais logistiques ? Comment peut-on payer des *frais
 logistiques* pour une *tarte* ?"
 
 Il y eut une de ces pauses gênantes. Harry eut des pensées mortelles
-envers celui des Poufsouffles qui ne pouvait s'empêcher de glousser, cet
+envers celui des Poufsouffle qui ne pouvait s'empêcher de glousser, cet
 idiot allait le mettre dans le pétrin.
 
 Harry fit un pas en arrière et jeta son meilleur regard mortel aux
-Serpentards. "Maintenant partez ou je continuerai à rendre votre
+Serpentard. "Maintenant partez ou je continuerai à rendre votre
 existence de plus en plus surréaliste jusqu'à ce que vous vous
 exécutiez. Laissez-moi vous prévenir… que se frotter à *ma* vie aura
 tendance à rendre la *vôtre*… *légèrement épouvantable*. Vu ?"
 
-Dans un terrible mouvement, le plus grand des Serpentards fit jaillir sa
+Dans un terrible mouvement, le plus grand des Serpentard fit jaillir sa
 baguette et la pointa vers Harry, et au même moment une nouvelle tarte
 le frappait sur la tête, celle-ci à la myrtille.
 
@@ -662,23 +662,23 @@ choses commencent à échapper à notre contrôle par ici. Et si tu
 retournais à Serpentard et que je retournais à Serdaigle et que nous
 nous calmions tous un peu, d'accord ?"
 
-"J'ai une meilleure idée," siffla le plus grand des Serpentards. "Et si
+"J'ai une meilleure idée," siffla le plus grand des Serpentard. "Et si
 tu te cassais accidentellement tous tes doigts ?"
 
 "Comment, au nom de Merlin, pourrais-tu mettre en scène un accident
 crédible après avoir fait cette menace devant une douzaine de personnes,
 espèce *d'idiot* -"
 
-Le plus grand des Serpentards tendit sa main vers celle de Harry,
+Le plus grand des Serpentard tendit sa main vers celle de Harry,
 lentement, délibérément, et Harry se figea, le partie de son cerveau qui
 s'était rendue compte de l'âge et de la force du garçon parvenant enfin
 à se faire entendre, criant : *MAIS QU'EST CE QUE JE SUIS EN TRAIN DE
 FAIRE ?*
 
-"Attends !" dit l'un des autres Serpentards, sa voix soudain paniquée.
+"Attends !" dit l'un des autres Serpentard, sa voix soudain paniquée.
 "Arrête, tu ne devrais pas le faire pour de vrai !"
 
-Le plus grand des Serpentards l'ignora, prit fermement la main droite de
+Le plus grand des Serpentard l'ignora, prit fermement la main droite de
 Harry dans sa main gauche, et prit l'index de Harry dans sa main droite.
 
 Harry regarda le Serpentard droit dans les yeux. Une partie de Harry
@@ -707,8 +707,8 @@ heureux que Harry n'avait jamais entendu de sa vie.
 Alors qu'il pivotait, une petite femme boulotte se faufila dans son
 champ de vision. Elle avait des cheveux gris hirsute et bouclés, et ses
 vêtements étaient couverts de poussière. Elle pointa un doigt accusateur
-en direction des Serpentards. "Expliquez-vous," dit-elle. "Que
-faites-vous avec mes Poufsouffles et…" elle le regarda, "mon excellent
+en direction des Serpentard. "Expliquez-vous," dit-elle. "Que
+faites-vous avec mes Poufsouffle et…" elle le regarda, "mon excellent
 étudiant, Harry Potter."
 
 *Oh oh. C'est vrai ça, c'était SA classe qu'il avait ratée ce matin.*
@@ -739,7 +739,7 @@ C'était maintenant à Harry que le Professeur Sprout jetait un regard
 sceptique. "J'imagine que ce garçon s'est jeté deux tartes sur
 *lui-même* alors."
 
-"Il n'a *pas* utilisé sa baguette !" lâcha l'un des jeunes Poufsouffles.
+"Il n'a *pas* utilisé sa baguette !" lâcha l'un des jeunes Poufsouffle.
 "Je ne sais pas non plus comment il a fait, il a claqué des doigts, et
 il y avait une tarte !"
 
@@ -759,17 +759,17 @@ baguette et mes manuels qu'il y a quelques jours."
 Sprout hocha la tête. "Alors nous avons un clair cas de magie
 accidentelle de la part d'un garçon qui se sentait menacé. Et les règles
 disent clairement que vous ne serez pas tenu pour responsable. En ce qui
-*vous* concerne…" elle se tourna vers les Serpentards. Ses yeux
+*vous* concerne…" elle se tourna vers les Serpentard. Ses yeux
 descendirent délibérément vers les livres de Neville, étalés au sol.
 
 Il y eut un long silence pendant lequel elle regarda les cinq
-Serpentards.
+Serpentard.
 
 "Trois points ôtés de Serpentard, *chacun*," dit-elle enfin. "Et six de
 *lui*," pointant le garçon couvert de tarte. "Ne touchez plus *jamais* à
-mes Poufsouffles, ni à mon étudiant Harry Potter. Maintenant *partez*."
+mes Poufsouffle, ni à mon étudiant Harry Potter. Maintenant *partez*."
 
-Elle n'eut pas à se répéter ; les Serpentards firent demi-tour et s'en
+Elle n'eut pas à se répéter ; les Serpentard firent demi-tour et s'en
 furent très rapidement.
 
 Neville alla ramasser ses livres. Il semblait pleurer mais un petit peu
@@ -900,7 +900,7 @@ pour ça que je m'excuse -"
 "Tu m'as fait mal," dit Neville. "À l'instant. Quand tu m'as attrapé et
 m'a tiré loin d'eux." Neville tendit son bras et indiqua l'endroit où
 Harry l'avait saisi. "J'aurai peut-être un bleu ici plus tard, tellement
-tu as tiré fort. En fait, tu m'as fait plus mal qu'aucun des Serpentards
+tu as tiré fort. En fait, tu m'as fait plus mal qu'aucun des Serpentard
 ne l'avait fait en me poussant."
 
 "*Neville !*" siffla Ernie. "Il essayait de te *sauver* !"

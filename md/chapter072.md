@@ -705,7 +705,7 @@ Susan ne savait pas quoi répondre à cela. Elle ne pensait pas que hurler
 à s'en faire éclater les poumons au sujet de leur stupidité flagrante et
 du fait qu'elles étaient FOUTUES serait persuasif. Et elle ne pouvait
 pas juste *quitter* les autres filles non plus. Comme si ça ne suffisait
-pas d'être maudit par le zèle, pourquoi fallait-il que les Poufsouffles
+pas d'être maudit par le zèle, pourquoi fallait-il que les Poufsouffle
 soient *loyaux* en plus de tout le reste ?
 
 "Au fait, Lavande," dit Padma. "Par les sous-vêtements de Merlin,
@@ -845,23 +845,23 @@ Daphné se retourna, abasourdie, la bouche béante.
 
 "*Récurvite*" dit la voix mielleuse, et la purée disparut du visage de
 Hermione, révélant une expression de surprise sur le visage de la
-Serdaigle lorsque Draco Malfoy s'approcha, rengaina sa baguette puis
+Serdaigle lorsque Drago Malfoy s'approcha, rengaina sa baguette puis
 posa un genoux à terre et lui offrit sa main.
 
-"Navré pour tout ceci, Mlle Granger," dit la voix polie de Draco Malfoy.
+"Navré pour tout ceci, Mlle Granger," dit la voix polie de Drago Malfoy.
 "Je suppose que quelqu'un s'est crû drôle."
 
-Hermione prit la main de Draco et Daphné comprit soudain ce qui allait
+Hermione prit la main de Drago et Daphné comprit soudain ce qui allait
 se produire -
 
-Mais Draco Malfoy *ne laissa pas* Hermione se lever à moitié avant de la
+Mais Drago Malfoy *ne laissa pas* Hermione se lever à moitié avant de la
 laisser retomber par terre.
 
 Il la mit juste sur pieds.
 
 "Merci," dit Hermione.
 
-"De rien," dit Draco d'une voix forte, sans regarder autour de lui, où
+"De rien," dit Drago d'une voix forte, sans regarder autour de lui, où
 les quatre maisons de Poudlard le regardaient dans un état de
 stupéfaction absolue. "Souvenez-vous juste qu'être rusé et ambitieux ne
 signifie pas qu'on se comporte forcément d'une façon pareille."
@@ -882,12 +882,12 @@ Plusieurs personnes, assez lentement, se rassirent.
 
  
 
-Le cœur de Draco tambourinait dans sa poitrine si fort qu'il se
+Le cœur de Drago tambourinait dans sa poitrine si fort qu'il se
 demandait si celui-ci n'allait pas exploser dans une gerbe de sang,
 comme avec ce sortilège qu'Amycus Carrow avait un jour utilisé sur un
 bébé chien.
 
-Le visage de Draco demeura parfaitement neutre car il savait (on le lui
+Le visage de Drago demeura parfaitement neutre car il savait (on le lui
 avait fait rentrer dans le crâne encore et encore) que s'il montrait le
 moindre signe de ce qu'il ressentait à ses camarades, ceux-ci le
 réduiraient en miettes comme un essaim d'Acromentules.
@@ -897,20 +897,20 @@ planifier, juste l'instant où il s'était rendu compte que le moment de
 commencer à sauver la réputation de Serpentard était *maintenant*.
 
 De tous côté de la longue table Serpentard, des visages en colère
-regardaient Draco.
+regardaient Drago.
 
 Mais les visage perplexes étaient en surnombre.
 
-"D'accord, j'abandonne," dit un garçon de sixième année que Draco ne
+"D'accord, j'abandonne," dit un garçon de sixième année que Drago ne
 reconnut pas, assit en face de lui, deux places sur la droite. "Pourquoi
-tu as fait ça, Draco ?"
+tu as fait ça, Drago ?"
 
-Même si sa bouche était très sèche, Draco ne déglutit pas. Cela aurait
+Même si sa bouche était très sèche, Drago ne déglutit pas. Cela aurait
 été un signe de peur. Au lieu de cela, il prit une bouchée de carottes,
 qui étaient l'aliment le plus humide sa son assiette, mâcha et avala
 tout en réfléchissant le plus rapidement possible.
 
-"Tu sais," dit Draco, d'une voix aussi tranchante qu'il en était
+"Tu sais," dit Drago, d'une voix aussi tranchante qu'il en était
 capable - alors que son cœur battait encore plus fort dans sa poitrine,
 alors que tout le monde s'était arrêté de parler et l'écoutait - "il y a
 *probablement* un moyen de donner encore plus mauvaise réputation à
@@ -923,7 +923,7 @@ Les visages qui étaient perplexes le demeurèrent.
 "Quoi ?" dit le garçon en sixième année, et "Attends, *quel* bénéfice ?"
 dit une fille en cinquième année assise à sa gauche.
 
-"Ça donne une bonne réputation à Serpentard," dit Draco.
+"Ça donne une bonne réputation à Serpentard," dit Drago.
 
 Les Serpentard autour de lui jetaient des regards mi-interloqués
 mi-moqueurs, comme s'il venait d'essayer de leur expliquer ce qu'était
@@ -935,7 +935,7 @@ l'algèbre.
 année. "Comment est-ce que *ça* c'est censé nous donner une bonne
 réputation ?"
 
-La gorge de Draco se clôt. Son cerveau vivait un hideux
+La gorge de Drago se clôt. Son cerveau vivait un hideux
 dysfonctionnement qui l'empêchait de trouver autre chose à répondre que
 la vérité -
 
@@ -994,21 +994,21 @@ Et elle écouta ce que son soldat Soleil avait à dire…
 
 "Tu ne *comprends pas* ?" dit la voix de Daphné qui était à peine
 au-dessous d'un glapissement. "Ce n'est pas parce que quelqu'un est
-gentil avec toi qu'il veut être ton ami ! C'est *Draco Malfoy !* Son
+gentil avec toi qu'il veut être ton ami ! C'est *Drago Malfoy !* Son
 père est un Mangemort, tous les parents de tous ses amis sont des
 Mangemorts - Nott, Goyle, Crabbe, *tous les gens qui l'entourent*, tu
 comprends ? Ils méprisent *tous* les nés-Moldus, ils veulent que les
 gens comme toi *meurent*, ils pensent que tu n'es bonne qu'à être
-*sacrifiée* pour d'horribles rituels noirs ! Draco est le *prochain Lord
+*sacrifiée* pour d'horribles rituels noirs ! Drago est le *prochain Lord
 Malfoy*, il a été éduqué depuis la naissance pour te haïr et pour
 *mentir* !" Les yeux gris-vert de Daphné demandaient farouchement un
 assentiment ou le signe d'une compréhension.
 
 "Il -" dit Hermione d'une voix hésitante. Elle se souvint du toit, de
 l'horrible secousse lorsqu'elle avait commencé à tomber, de la main de
-Draco Malfoy qui avait attrapé la sienne et qui l'avait serrée si fort
+Drago Malfoy qui avait attrapé la sienne et qui l'avait serrée si fort
 qu'elle en avait ensuite eu des ecchymoses. Elle avait dû lui demander
-deux fois avant qu'il ne la laisse enfin tomber. "Peut-être que Draco
+deux fois avant qu'il ne la laisse enfin tomber. "Peut-être que Drago
 Malfoy n'est pas comme eux -"
 
 Le chuchotement de Daphné était presque un cri. "S'il ne finit *pas* par
@@ -1035,16 +1035,16 @@ Malfoy !*"
 
  
 
-Draco s'assit et mangea son steak au chou-fleur rôti et à la sauce
+Drago s'assit et mangea son steak au chou-fleur rôti et à la sauce
 Ashwinder (qui n'était pas faite à partir de vrais œufs Ashwinder et
 avait exactement le goût du feu) en essayant de ne pas rire et de ne pas
 pleurer non plus.
 
 Il avait *entendu parler* du concept de déni plausible mais il n'avait
 pas compris à quel point c'était important jusqu'au jour où il avait
-découvert que les Malfoys n'en avaient pas du tout.
+découvert que les Malfoy n'en avaient pas du tout.
 
-"Tu veux connaître mon plan ?" dit Draco. "*Voilà* mon plan. Je ne vais
+"Tu veux connaître mon plan ?" dit Drago. "*Voilà* mon plan. Je ne vais
 *rien faire* cette fois et comme ça la *prochaine* fois que les gens
 penseront que je fomente quelque chose, ils n'en seront pas certains."
 
@@ -1245,7 +1245,7 @@ sourire de Severus Rogue.
 
  
 
-Ce soir là, Draco reçut la visite de la chouette de son père, Tanaxu,
+Ce soir là, Drago reçut la visite de la chouette de son père, Tanaxu,
 qui n'était pas verte uniquement parce que les chouettes vertes
 n'existaient pas. Le mieux que Père avait pu trouver était une chouette
 aux ailes de l'argent le plus pur, aux yeux verts étincelants et au bec
@@ -1254,34 +1254,34 @@ autour de la jambe de Tanaxu était court et allait droit au but :
 
 *Mon fils, que fais-tu ?*
 
-Le parchemin que Draco renvoya était tout aussi court et disait :
+Le parchemin que Drago renvoya était tout aussi court et disait :
 
 *J'essaie de mettre fin au mal commis contre la réputation de
 Serpentard, père.*
 
 En autant de temps qu'il fallait à une chouette pour voler de Poudlard
 au manoir Malfoy puis d'en revenir, la chouette familiale porta un
-nouveau message à Draco, et celui-ci disait seulement :
+nouveau message à Drago, et celui-ci disait seulement :
 
 *Que fais-tu vraiment ?*
 
-Draco regarda le parchemin qu'il avait déroulé de la jambe de la
+Drago regarda le parchemin qu'il avait déroulé de la jambe de la
 chouette. Ses mains tremblaient alors qu'il le tenait à la lumière de
 son feu de cheminée. Quatre mots gravés d'une encre noire n'auraient pas
 dû être plus effrayants que la mort.
 
 Il n'avait pas beaucoup de temps pour réfléchir. Père savait exactement
 combien de temps un message mettait à aller du manoir à Poudlard et à en
-revenir ; il saurait si Draco avait différé sa réponse afin de rédiger
+revenir ; il saurait si Drago avait différé sa réponse afin de rédiger
 un mensonge méticuleux.
 
-Mais Draco attendit encore jusqu'à ce que sa main cesse de trembler
+Mais Drago attendit encore jusqu'à ce que sa main cesse de trembler
 avant d'écrire sa réponse, la seule réponse dont il pensait que Père
 pourrait l'accepter :
 
 *Je me prépare à la prochaine guerre.*
 
-Draco enroula le parchemin autour de la jambe de la chouette, l'attacha,
+Drago enroula le parchemin autour de la jambe de la chouette, l'attacha,
 et envoya Tanaxu voler hors de sa chambre à travers les couloirs de
 Poudlard et dans la nuit.
 

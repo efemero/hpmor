@@ -167,9 +167,9 @@ Ses dettes attendraient un jour de plus.
 
  
 
-*Après-coup*, *Draco Malfoy* :
+*Après-coup*, *Drago Malfoy* :
 
-Draco remit ses robes en place et s'assura que la bordure verte était
+Drago remit ses robes en place et s'assura que la bordure verte était
 bien droite. Il agita sa baguette au-dessus de sa tête et prononça un
 sortilège que Père lui avait enseigné alors que les autres enfants
 jouaient encore dans la boue, un sortilège qui garantissait que pas une
@@ -204,18 +204,18 @@ deux élèves aux robes bordées de vert et leur hurlait dessus alors que
 Rogue se dirigeait vers le chaos -
 
 Le bruit diminua un peu à mesure que l'on remarquait la présence de
-Draco, que certains visages se tournaient vers lui et se taisaient.
+Drago, que certains visages se tournaient vers lui et se taisaient.
 
 La nourriture apparut sur la table. Personne ne la regarda.
 
 Et Rogue pivota sur ses talons, abandonnant ainsi sa cible, et se
-dirigea droit vers Draco.
+dirigea droit vers Drago.
 
-Le cœur de Draco se serra sous l'effet de la peur, quelque chose
+Le cœur de Drago se serra sous l'effet de la peur, quelque chose
 était-il arrivé à Père - non, Père le lui aurait sûrement dit - quoi
 qu'il se soit produit, pourquoi Père ne lui avait-il pas dit -
 
-Lorsque Rogue s'approcha, Draco vit que l'on pouvait voir des cernes
+Lorsque Rogue s'approcha, Drago vit que l'on pouvait voir des cernes
 sous ses yeux ; le maître des potions n'avait jamais été des plus chics
 (et c'était un euphémisme) mais ce matin là, ses robes étaient encore
 plus sales et désordonnées que jamais, couvertes de nouvelles taches de
@@ -228,7 +228,7 @@ assez près. "De grâce, ne vous faites-vous pas livrer le journal ?"
 
 "On a fait sortir Bellatrix Black d'Azkaban !"
 
-"*Quoi ?*" dit Draco sous l'effet de la surprise, et au même moment
+"*Quoi ?*" dit Drago sous l'effet de la surprise, et au même moment
 Grégory dit quelque chose qu'il n'aurait vraiment pas dû dire et Vincent
 s'étrangla.
 
@@ -236,7 +236,7 @@ Rogue le regarda avec des yeux étroits puis hocha abruptement la tête.
 "Lucius ne vous a donc rien dit. Je vois." Rogue eut un reniflement et
 se détourna -
 
-"Professeur !" dit Draco. Il commençait tout juste à comprendre ce que
+"Professeur !" dit Drago. Il commençait tout juste à comprendre ce que
 cela impliquait et son esprit tournait à plein régime. "Professeur, que
 devrais-je faire - Père ne m'a pas donné d'instructions -"
 
@@ -244,21 +244,21 @@ devrais-je faire - Père ne m'a pas donné d'instructions -"
 s'éloigner d'un pas vif, "que vous *disiez* cela, Malfoy, comme votre
 père s'y attend !"
 
-Draco se retourna et jeta un coup d'œil à Vincent et Grégory tout en se
+Drago se retourna et jeta un coup d'œil à Vincent et Grégory tout en se
 demandant à quoi bon : bien sûr, ils avaient l'air encore plus perplexes
 que lui.
 
 Puis il s'avança jusqu'à la table de Serpentard et s'assit à une
 extrémité qui était encore vide.
 
-Draco plaça une omelette à la saucisse dans son assiette et commença à
+Drago plaça une omelette à la saucisse dans son assiette et commença à
 manger par gestes automatiques.
 
 On a fait sortir Bellatrix Black d'Azkaban.
 
 On a fait sortir Bellatrix Black d'Azkaban… ?
 
-Draco ne savait pas quoi faire de cela, c'était aussi inattendu que
+Drago ne savait pas quoi faire de cela, c'était aussi inattendu que
 l'extinction du Soleil - enfin, le Soleil s'éteindrait comme prévu dans
 six milliards d'années, mais c'était aussi inattendu que l'extinction du
 soleil *demain*. Père n'aurait pas fait ça, Dumbledore n'aurait pas fait
@@ -272,7 +272,7 @@ n'était plus là ?
 "Hé," dit Vincent depuis sa chaise, "j'comprends pas, patron, pourquoi
 on a fait ça ?"
 
-"*On* ne l'a pas fait, abruti !" rétorqua Draco. "Oh, par Merlin, si
+"*On* ne l'a pas fait, abruti !" rétorqua Drago. "Oh, par Merlin, si
 même *toi* tu penses qu'on - ton père ne t'a jamais raconté d'histoires
 sur Bellatrix Black ? Elle a déjà torturé Père, elle a déjà torturé
 *ton* père, elle a torturé tout le monde ; un jour le Seigneur des
@@ -290,12 +290,12 @@ Il ne leva pas les yeux. Gregory et Vincent auraient ses arrières.
 "- d'entendre qu'un Mangemort a été libéré, Malfoy !"
 
 Amycus Carrow avait toujours une de ces *autres* personnes à problèmes,
-et Père avait un jour dit à Draco de se débrouiller pour ne jamais être
+et Père avait un jour dit à Drago de se débrouiller pour ne jamais être
 seul dans la même pièce que lui…
 
-Draco se retourna et envoya à Flora et à Hestia son Rictus Méprisant
+Drago se retourna et envoya à Flora et à Hestia son Rictus Méprisant
 Numéro Trois, celui qui disait : "J'appartiens à une maison Noble, pas
-vous, et oui, c'est important." Draco dit, vaguement dans leur
+vous, et oui, c'est important." Drago dit, vaguement dans leur
 direction, ne daignant certainement pas à s'adresser à *eux* en
 particulier : "Il y a Mangemort et Mangemort," puis il revint à son
 assiette.
@@ -307,7 +307,7 @@ Serpentard.
 Quelques minutes plus tard, Millicent Bulstrode courut jusqu'à eux et
 dit, visiblement essoufflé : "M. Malfoy, vous avez entendu ?"
 
-"Au sujet de Bellatrix Black ?" dit Draco. "Ouais -"
+"Au sujet de Bellatrix Black ?" dit Drago. "Ouais -"
 
 "Non, au sujet de Potter !"
 
@@ -319,9 +319,9 @@ dit que le phénix l'a emmené à Azkaban pour essayer d'arrêter Bellatrix,
 qu'il se sont battus en duel et qu'ils ont fait sauter la moitié de la
 forteresse !"
 
-"*Quoi ?*" dit Draco. "Il est tout simplement *impossible* que -"
+"*Quoi ?*" dit Drago. "Il est tout simplement *impossible* que -"
 
-Draco s'interrompit.
+Drago s'interrompit.
 
 Il avait dit cela au sujet de Harry Potter un certain nombre de fois et
 il avait commencé à remarquer la tendance.
@@ -330,7 +330,7 @@ Millicent s'en fut raconter l'histoire à quelqu'un d'autre.
 
 "Vous ne pensez pas *vraiment* que -" dit Gregory.
 
-"Franchement, je ne sais plus quoi penser," dit Draco.
+"Franchement, je ne sais plus quoi penser," dit Drago.
 
 Quelques minutes plus tard, après que Theodore Nott se soit assis en
 face de lui et que William Rosier soit allé s'asseoir avec les jumeaux
@@ -338,19 +338,19 @@ Carrow, Vincent lui donna un coup de coude et dit : "Là."
 
 Harry Potter était entré dans la Grande Salle.
 
-Draco ne le quitta pas des yeux.
+Drago ne le quitta pas des yeux.
 
 Il ne pouvait voir ni inquiétude ni surprise ni indice de traumatisme
 sur le visage de Harry, il avait juste l'air…
 
 C'était le même air distant et introspectif que Harry revêtait lorsqu'il
-essayait de trouver la réponse à une question que Draco ne pouvait même
+essayait de trouver la réponse à une question que Drago ne pouvait même
 pas encore comprendre.
 
-Draco se leva avec hâte du banc Serpentard, dit "restez en arrière" et
+Drago se leva avec hâte du banc Serpentard, dit "restez en arrière" et
 s'avança à une vitesse honorable en direction de Harry.
 
-Harry sembla remarquer son approche au moment où Draco frôla la table
+Harry sembla remarquer son approche au moment où Drago frôla la table
 Serdaigle, et ce dernier -
 
 \- jeta un rapide regard à Harry -
@@ -358,21 +358,21 @@ Serdaigle, et ce dernier -
 \- avant de continuer tout droit vers la sortie de la Grande Salle.
 
 Une minute plus tard, Harry apparut au coin du petit renfoncement de
-pierre où Draco l'avait attendu ; même si cela n'avait peut-être pas
+pierre où Drago l'avait attendu ; même si cela n'avait peut-être pas
 trompé tout le monde, le déni serait plausible.
 
-"Sourdinam,*" dit Harry.* "Draco, qu'est-ce qui -"
+"Sourdinam,*" dit Harry.* "Drago, qu'est-ce qui -"
 
-Draco sortit l'enveloppe de ses robes. "J'ai un message de Père pour
+Drago sortit l'enveloppe de ses robes. "J'ai un message de Père pour
 toi."
 
-"*Hein ?*" dit Harry. Il prit l'enveloppe des mains de Draco, la déchira
+"*Hein ?*" dit Harry. Il prit l'enveloppe des mains de Drago, la déchira
 d'une façon bien peu soignée, en sortit une feuille de parchemin qu'il
 déplia et -
 
 Harry inspira subitement.
 
-Puis il regarda Draco.
+Puis il regarda Drago.
 
 Puis il rabaissa les yeux vers le parchemin.
 
@@ -380,21 +380,21 @@ Il y eut un silence.
 
 Harry dit : "Lucius t'a-t-il demandé de lui rapporter ma réaction ?"
 
-Draco ne répondit rien pendant un moment, soupesant les possibilités,
+Drago ne répondit rien pendant un moment, soupesant les possibilités,
 puis il ouvrit la bouche -
 
-"Je vois donc qu'il te l'a demandé," continua Harry, et Draco se maudit.
+"Je vois donc qu'il te l'a demandé," continua Harry, et Drago se maudit.
 Il aurait dû le savoir, mais ça *avait* été difficile de décider. "Que
 vas-tu lui dire ?"
 
-"Que tu étais surpris," dit Draco.
+"Que tu étais surpris," dit Drago.
 
 "Surpris," dit Harry d'un ton catégorique. "Ouais. Bien. Dis-lui ça."
 
-"Qu'est-ce que c'*est* ?" dit Draco. Puis, remarquant que Harry semblait
+"Qu'est-ce que c'*est* ?" dit Drago. Puis, remarquant que Harry semblait
 hésiter : "Si tu mijotes avec Père derrière mon dos -"
 
-Et Harry, sans dire un mot, donna la feuille à Draco.
+Et Harry, sans dire un mot, donna la feuille à Drago.
 
 Elle disait :
 
@@ -405,7 +405,7 @@ Elle disait :
 "J'allais *te* le demander," dit Harry. "As-tu la *moindre* idée de ce
 qui a pris à ton père ?"
 
-Draco fixa Harry.
+Drago fixa Harry.
 
 Puis il dit : "*Est-ce que* tu l'as fait ?"
 
@@ -416,14 +416,14 @@ vouloir - *comment* est-ce que je pourrais -"
 
 "Non !" dit Harry. "Bien sûr que non !"
 
-Draco avait écouté avec attention et n'avait détecté ni hésitation ni
+Drago avait écouté avec attention et n'avait détecté ni hésitation ni
 vacillement.
 
 Il hocha donc la tête et dit : "Je n'ai pas la moindre idée de ce que
 Père pense mais il est *impossible*, il n'y a pas la *moindre chance*
 que ce soit bon signe. Et, euh… les gens disent aussi…"
 
-"Quoi," dit Harry d'une voix usée, "que disent les gens, Draco ?"
+"Quoi," dit Harry d'une voix usée, "que disent les gens, Drago ?"
 
 "Est-ce qu'un phénix t'a *vraiment* emmené à Azkaban pour que tu essaies
 d'empêcher Bellatrix Black de s'échapper -"
@@ -440,7 +440,7 @@ Harry venait juste de s'asseoir à la table Serdaigle pour la première
 fois de la journée avec l'espoir de manger un morceau en vitesse. Il
 savait qu'il devait s'isoler et réfléchir à certaines choses, mais il
 restait un minuscule fragment de la paix du phénix (même après sa
-rencontre avec Draco) à laquelle il voulait encore s'accrocher, comme un
+rencontre avec Drago) à laquelle il voulait encore s'accrocher, comme un
 magnifique rêve dont il n'aurait pu rien se remémorer mis à part sa
 beauté ; et la partie de lui qui ne ressentait *pas* cette paix
 attendait que toutes les enclumes aient fini de lui tomber de la tête
@@ -1681,7 +1681,7 @@ tort ?*
 
 *À vrai dire*, continua Serdaigle, *je dois remarquer que toutes ces
 histoires politiques ont l'air extraordinairement ennuyeuses. Et si on
-laissait l'électoralisme à Draco et qu'on s'en tenait à la science ?
+laissait l'électoralisme à Drago et qu'on s'en tenait à la science ?
 C'est là qu'on est vraiment doué, et on a déjà pu voir la science
 améliorer la condition humaine, tu sais.*
 
@@ -1763,7 +1763,7 @@ Pourquoi se sentait-il si seul à présent ?
 
 Il y avait certainement d'autres personnes, peut-être même meilleures, à
 qui donner son amitié et sa confiance ? Le professeur McGonagall, le
-professeur Flitwick, Hermione, Draco, sans parler de Maman et de Papa,
+professeur Flitwick, Hermione, Drago, sans parler de Maman et de Papa,
 ce n'était pas comme si Harry était *seul*…
 
 Sauf que…
@@ -1771,7 +1771,7 @@ Sauf que…
 La gorge de Harry se serra lorsqu'il comprit.
 
 Sauf que le professeur McGonagall, le professeur Flitwick, Hermione et
-Draco, même s'ils savaient parfois des choses que Harry ignorait…
+Drago, même s'ils savaient parfois des choses que Harry ignorait…
 
 Ils ne le dépassaient pas en excellence *dans* son domaine ; tout génie
 qu'ils possédaient n'était pas semblable au sien, et le sien n'était pas
@@ -1871,7 +1871,7 @@ chaise -
 Quelques instants plus tard Harry était assis face à elle et il reposait
 sa baguette après avoir lancé un sortilège de Silence autour d'eux.
 
-(Un sacré paquet de Serdaigles essayaient de ne pas avoir l'air de
+(Un sacré paquet de Serdaigle essayaient de ne pas avoir l'air de
 regarder).
 
 "Hé," dit Harry. Sa voix vacilla. "Tu m'as manqué. Tu… vas me reparler

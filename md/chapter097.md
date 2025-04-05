@@ -3,7 +3,7 @@
 Pour la seconde fois de la journée, les yeux de Harry s'emplirent de
 larmes. Sans prêter attention aux regards interloqués des Serdaigle
 présents dans la salle commune, il s'avança vers la créature d'argent
-que Draco Malfoy avait envoyée et la berça dans ses bras comme si elle
+que Drago Malfoy avait envoyée et la berça dans ses bras comme si elle
 était vivante ; puis il s'orienta vers sa chambre en chancelant, comme à
 moitié aveugle, et se dirigea vers le fond de sa malle, le serpent
 d'argent silencieux entre ses bras.
@@ -146,12 +146,12 @@ aussi créancier de Harry à hauteur de quarante Gallions, qui appartenait
 aussi à la maison Malfoy et qui, techniquement, était donc concerné par
 la résolution du Magenmagot à l'origine de cette rencontre.
 
-*Draco.* Harry ne parla pas à voix haute, il ne laissa pas l'expression
+*Drago.* Harry ne parla pas à voix haute, il ne laissa pas l'expression
 de son visage changer. Il ne savait quoi dire. Même *Pardon* ne semblait
 pas convenable. Il n'avait pas non plus osé dire cela au Patronus de
-Draco, lorsqu'ils avaient organisé cette rencontre en quelques échanges
+Drago, lorsqu'ils avaient organisé cette rencontre en quelques échanges
 brefs ; et pas seulement parce que Lucius risquait d'écouter. Apprendre
-que la pensée heureuse de Draco l'était toujours et qu'il pouvait encore
+que la pensée heureuse de Drago l'était toujours et qu'il pouvait encore
 désirer que Harry le sache avait suffit à satisfaire ce dernier.
 
 Lucius Malfoy parla d'abord, voix neutre, visage décidé. "Je ne
@@ -185,14 +185,14 @@ auxquels, à en croire les dire de mon *fils* pendant qu'il était sous
 m'expliquiez, sur-le-champ, cette *démence absolue* dont vous êtes
 *l'auteur*."
 
-Harry se retourna vers Draco dont le visage alternait entre la contrôle
+Harry se retourna vers Drago dont le visage alternait entre la contrôle
 de soi-même et une grande nervosité.
 
-"Moi aussi," dit Draco d'une voix aiguë et vacillante, "j'aimerais
+"Moi aussi," dit Drago d'une voix aiguë et vacillante, "j'aimerais
 comprendre, Potter."
 
 Harry ferma les yeux et parla sans regarder. "Un garçon élevé par des
-Moldus qui se croyait malin. Tu m'as vu, Draco, et tu as songé qu'il
+Moldus qui se croyait malin. Tu m'as vu, Drago, et tu as songé qu'il
 serait éminemment utile de se lier d'amitié avec le Survivant, plus
 qu'avec tous les autres enfants de ton année, afin de lui montrer le
 monde tel qu'il est. Et j'ai pensé la même chose à ton sujet. Sauf que
@@ -203,11 +203,11 @@ croyances vraies ou fausses…"
 
 "Tu m'as menti."
 
-Harry ouvrit les yeux et regarda Draco. "Je préférerais dire," répondit
+Harry ouvrit les yeux et regarda Drago. "Je préférerais dire," répondit
 Harry d'une voix pas tout à fait assurée, "que les choses que je t'ai
 dites étaient vraies d'un certain point de vue."
 
-"*Un certain point de vue ?*" La colère de Draco Malfoy semblait aussi
+"*Un certain point de vue ?*" La colère de Drago Malfoy semblait aussi
 justifiée que celle de Luke Skywalker, et lui non plus n'était pas
 d'humeur à accepter les excuses d'Obi-Wan. "Il y a un mot pour les
 choses vraies d'un certain point de vue. On les appelle des
@@ -224,7 +224,7 @@ peuvent pas se forcer à croire que bleu est vert par la seule force de
 leur volonté, mais ils *croient* qu'ils en sont capables, et ça peut
 être presque aussi grave."
 
-"Tu m'as *utilisé*," dit Draco Malfoy.
+"Tu m'as *utilisé*," dit Drago Malfoy.
 
 "Seulement d'une façon qui t'a rendu plus fort. C'est ça, être utilisé
 par un ami."
@@ -234,8 +234,8 @@ par un ami."
 Lucius Malfoy parla de nouveau. "Dans quel but ? À quelle fin ?" Même la
 voix de Malfoy senior n'était pas très stable. "*Pourquoi ?*"
 
-Harry l'observa un moment puis se tourna vers Draco. "Ton père ne va
-probablement pas y croire," dit Harry. "Mais toi, Draco, tu devrais être
+Harry l'observa un moment puis se tourna vers Drago. "Ton père ne va
+probablement pas y croire," dit Harry. "Mais toi, Drago, tu devrais être
 capable de voir que tout ce qui s'est produit est compatible avec cette
 hypothèse. Et qu'une hypothèse plus cynique n'expliquerait pas pourquoi
 je n'ai pas plus insisté quand tu pensais que j'avais l'avantage sur
@@ -254,12 +254,12 @@ Dites-moi qui a lâché le troll dans Poudlard."
 
 "J'ai quatre suspects. L'un d'eux est le professeur Rogue…"
 
-"*Rogue ?*" laissa échapper Draco.
+"*Rogue ?*" laissa échapper Drago.
 
 "Le deuxième est bien sûr le professeur de Défense de Poudlard, juste
 parce qu'il est professeur de Défense." Harry aurait voulu éviter de le
 mentionner car il ne souhaitait pas porter le professeur Quirrell à
-l'attention des Malfoy au cas où il serait innocent, mais Draco aurait
+l'attention des Malfoy au cas où il serait innocent, mais Drago aurait
 pu lui faire remarquer cette omission. "Le troisième, vous ne me
 croiriez pas. Le quatrième est une catégorie fourre-tout que j'appelle
 Le Reste." *Et je pense que je ne devrais pas mentionner devant vous le
@@ -278,11 +278,11 @@ désirer, je remarque qu'il est simplement impossible, dans la situation
 actuelle, que je vous parle de ce troisième suspect et que vous pensiez
 que ce soupçon est autre chose qu'une ruse de ma part."
 
-Draco parla alors. "C'est Père, c'est ça ?"
+Drago parla alors. "C'est Père, c'est ça ?"
 
-Harry jeta un regard surpris à Draco.
+Harry jeta un regard surpris à Drago.
 
-Draco parla d'un ton neutre. "Tu soupçonnes Père d'avoir envoyé le troll
+Drago parla d'un ton neutre. "Tu soupçonnes Père d'avoir envoyé le troll
 dans Poudlard pour se venger de Granger, c'est ça ? C'est ce que tu
 penses, hein ?"
 
@@ -292,7 +292,7 @@ une fois dans sa vie parvint à réfléchir et à se taire.
 "Je vois…" dit-il lentement. "Alors c'est de *ça* qu'il s'agit. Lucius
 Malfoy annonce publiquement que Hermione ne s'en sortira pas comme ça,
 et, oh surprise, un troll la tue." Harry sourit alors et découvrit ses
-dents. "Et si je nie cela ici, alors Draco, qui n'est pas Occlumens,
+dents. "Et si je nie cela ici, alors Drago, qui n'est pas Occlumens,
 pourra témoigner sous Veritaserum que le Survivant ne soupçonne *pas*
 Lucius Malfoy d'avoir envoyé un troll à Poudlard tuer Hermione Granger,
 assermentée à la maison Potter, dont la dette de sang avait récemment
@@ -308,7 +308,7 @@ faire devant tout le Magenmagot."
 Harry découvrit une fois de plus ses dents par ce non-sourire. "Eh bien
 dans *ce* cas, quelqu'un *d'autre* doit avoir tué Hermione après s'être
 joué du système de sécurité de Poudlard, la même personne qui a essayé
-*plus tôt* de *faire accuser Hermione du meurtre de Draco Malfoy*. Soit
+*plus tôt* de *faire accuser Hermione du meurtre de Drago Malfoy*. Soit
 vous avez tué Hermione Granger après reçu un paiement en échange de sa
 vie, soit vous avez accusé une fille innocente de tentative de meurtre
 sur votre fils avant de prendre tout l'argent de ma famille pour de faux
@@ -320,12 +320,12 @@ sévérité.
 
 "Alors *je* n'aurais pas donné tout mon argent pour la sauver en premier
 lieu. Comme vous le savez déjà. N'insultez pas mon intelligence, Lucius
-Malfoy… non, attendez, désolé, vous deviez *dire* ça au cas où Draco
+Malfoy… non, attendez, désolé, vous deviez *dire* ça au cas où Drago
 devrait pouvoir en témoigner, oubliez ça."
 
 Lucius Malfoy se rassit dans sa chaise et contempla Harry.
 
-"J'ai essayé de vous le dire, Père," dit Draco dans un souffle, "mais
+"J'ai essayé de vous le dire, Père," dit Drago dans un souffle, "mais
 personne ne peut imaginer à quoi ressemble Harry Potter avant de l'avoir
 *rencontré*…"
 
@@ -354,7 +354,7 @@ influents ne sont pas aussi raisonnables."
 
 "Ouais. Compris." Harry hocha la tête.
 
-Lucius jeta un coup d'œil à Draco. "Le reste de ce qu'il a dit - est ce
+Lucius jeta un coup d'œil à Drago. "Le reste de ce qu'il a dit - est ce
 que c'était important ?"
 
 "Non, Père, pas du tout."
@@ -398,7 +398,7 @@ trompeuses, mais vous n'êtes maintenant plus dupe."
 qu'il est assez probable que vous vous préoccupiez plus du bien-être à
 long terme de la maison Malfoy que de la marotte politique du Seigneur
 des Ténèbres raté de la génération précédente." Harry jeta un regard
-lourd de sens vers Draco. "La prochaine génération dessine ses propres
+lourd de sens vers Drago. "La prochaine génération dessine ses propres
 lignes de front et forme de nouvelles alliances. Votre fils peut en être
 exclu, ou alors il peut grimper directement au sommet. Cela n'a-t-il pas
 plus de valeur pour vous que quarante mille Gallions auxquels vous ne
@@ -453,7 +453,7 @@ chemin. Celui qui a lancé le troll après Hermione devra t'avoir aussi
 pris pour cible et t'avoir frappé d'une malédiction qui transforme les
 anciens Mangemorts en un tas de boue. Que c'est triste.*
 
-"Père," dit Draco d'une petite voix. "Je pense que vous devriez
+"Père," dit Drago d'une petite voix. "Je pense que vous devriez
 réfléchir à cette offre, père."
 
 Lucius Malfoy regarda son fils. "Tu veux rire."
@@ -470,7 +470,7 @@ pas d'argent, il s'agit de ce qu'il appelle l'honneur."
 
 Harry Potter inclina la tête. Il souriait toujours.
 
-"Mais soyons clair sur un point," dit Draco en le regardant droit dans
+"Mais soyons clair sur un point," dit Drago en le regardant droit dans
 les yeux. Une lueur féroce brillait dans ses yeux. "*Tu m'as trompé.* Et
 *tu es mon débiteur*."
 
@@ -511,7 +511,7 @@ promettre à mes gardiens de ne rien signer qui vienne de vous. Je me
 suis donc assuré de rédiger ceci moi-même et de le signer avant de
 partir."
 
-Draco s'étrangla dans un petit rire.
+Drago s'étrangla dans un petit rire.
 
 Lucius lit le contrat et sourit sans gaieté. "C'est d'une simplicité
 charmante."
@@ -538,7 +538,7 @@ Lorsqu'il eut fini, Lord Malfoy tendit son bras au-dessus de la table,
 saisit le stylo et le regarda pensivement. "L'un de vos ustensiles
 moldus, je suppose ? Que fait celui-ci, fils ?"
 
-"Il écrit sans encrier," répondit Draco.
+"Il écrit sans encrier," répondit Drago.
 
 "Je peux le constater. J'imagine que certains pourraient voir là un
 amusant colifichet." Lucius aplanit le contrat à la surface de la table,
@@ -577,7 +577,7 @@ m'avait offerte au début de l'année. Ce n'est pas une preuve, mais c'est
 suspect. Et si vous pensez que ce n'est pas le style de Dumbledore de
 tuer l'une de ses élèves, eh bien, la même pensée m'est venue."
 
-"Ce n'est *pas* son style ?" dit Draco Malfoy.
+"Ce n'est *pas* son style ?" dit Drago Malfoy.
 
 Lucius Malfoy secoua la tête d'un mouvement mesuré, prudent. "Pas tout à
 fait, mon fils. Dumbledore a une certaine façon de faire le mal." Lord
@@ -589,7 +589,7 @@ présence, Lord Malfoy." Harry inspira. "Laissez-*moi* être clair sur ce
 point. Je n'essaie pas de vous faire gober l'idée que Dumbledore est
 derrière cela, je ne fais que mettre en avant la possibilité…"
 
-Draco Malfoy parla alors. "L'appareil que Dumbledore t'a donné - est-ce
+Drago Malfoy parla alors. "L'appareil que Dumbledore t'a donné - est-ce
 que c'était fait pour tuer les trolls ? Je veux dire *juste* les
 trolls ? Peux-tu nous dire cela ?"
 
@@ -598,7 +598,7 @@ Lucius tourna la tête et regarda son fils avec une certaine surprise.
 "Non…" dit lentement Harry. "Ce n'était pas une épée spécialement faite
 pour pourfendre les trolls ou quelque chose comme ça."
 
-Les yeux de Draco étaient braqués sur lui. "L'appareil aurait-il
+Les yeux de Drago étaient braqués sur lui. "L'appareil aurait-il
 fonctionné contre un assassin ?"
 
 *Pas si ses boucliers avaient été levés.* "Non."
@@ -609,14 +609,14 @@ fonctionné contre un assassin ?"
 "Non. Je ne pense pas qu'il était censé être utilisé contre des
 humains."
 
-Draco hocha la tête. "Donc seulement des créatures magiques. Est-ce
+Drago hocha la tête. "Donc seulement des créatures magiques. Est-ce
 qu'il aurait constitué une bonne arme contre un hippogriffe en colère ou
 quelque chose comme ça ?"
 
 "Est-ce que le sortilège d'étourdissement fonctionne sur les
 hippogriffes ?" dit lentement Harry.
 
-"Je ne sais pas," dit Draco.
+"Je ne sais pas," dit Drago.
 
 "Oui," dit Lucius Malfoy.
 
@@ -632,7 +632,7 @@ façon étrange, ça aurait pu n'être qu'une de ses lubie…"
 "Non," dit lentement Lucius Malfoy. "*Pas* une lubie. Pas une
 coïncidence. Pas Dumbledore."
 
-"Alors, c'est lui," dit Draco. Ses yeux se plissèrent lentement et il
+"Alors, c'est lui," dit Drago. Ses yeux se plissèrent lentement et il
 eut un hochement de tête mauvais. "C'est lui *depuis le début*. Le
 Legilimens de la cour a *dit* que quelqu'un avait utilisé la
 Légilimancie sur Granger. Dumbledore a *admit* que c'était lui. Et je
@@ -643,7 +643,7 @@ le sort mais que Dumbledore l'a juste *ignoré*."
 à son avantage de remettre cette idée en question. "Quel serait son
 *motif* ? Allons-nous dire qu'il est méchant et en rester là ?"
 
-Draco Malfoy sauta de sa chaise et commença à déambuler à travers la
+Drago Malfoy sauta de sa chaise et commença à déambuler à travers la
 pièce. Ses robes noires flottaient derrière lui et les gardes gobelins
 le regardèrent, assez surpris, à travers leurs lunettes enchantées.
 "Pour comprendre un plan tordu, il faut regarder ce qui se passe et se
@@ -659,7 +659,7 @@ Dumbledore !"
 J'ai dit que c'était suspect mais je n'ai pas dit que ça avait le
 moindre sens."
 
-Draco hocha pensivement la tête. "Peut-être que Dumbledore pensait que
+Drago hocha pensivement la tête. "Peut-être que Dumbledore pensait que
 tu arrêterais le troll avant qu'il n'arrive jusqu'à Granger, et qu'alors
 il aurait pu blâmer Père. Beaucoup de gens seraient très en colère s'ils
 pensaient que père avait ne serait-ce qu'*essayé* de faire une chose
@@ -686,7 +686,7 @@ Mais quelqu'un à la limite de la sénilité aurait pu *s'attendre* à ce
 qu'il marche et un phénix était peut-être incapable de faire la
 différence.
 
-"Ou," continua Draco en déambulant toujours, "peut-être que Dumbledore a
+"Ou," continua Drago en déambulant toujours, "peut-être que Dumbledore a
 un troll enchanté sous le coude et qu'il s'attendait à ce que tu le
 vainques une autre fois, lors d'un autre plan, mais qu'il a fini par
 décider d'utiliser le troll contre Granger. Je ne peux pas imaginer que
@@ -695,7 +695,7 @@ Dumbledore avait prévu *tout* ça depuis notre première semaine d'école…"
 "Je peux l'imaginer," dit Lucius Malfoy d'un ton bas. "J'ai déjà vu
 chose semblable, venant de Dumbledore."
 
-Draco eut un hochement de tête appuyé. "Alors je n'ai jamais été *censé*
+Drago eut un hochement de tête appuyé. "Alors je n'ai jamais été *censé*
 mourir lors du premier plan. Dumbledore savait que le professeur
 Quirrell me surveillait, ou bien il comptait s'arranger pour que
 quelqu'un me découvre à temps - ma mort lui aurait fait perdre la face
@@ -710,14 +710,14 @@ Lucius Malfoy leva ses yeux verts après avoir regardé son fils avec une
 surprise non dissimulée. "Si c'est vrai… mais je me demande si Harry
 Potter ne fait que simuler sa réticence à y croire."
 
-"Peut-être," dit Draco. "Mais je suis à peu près sûr que non."
+"Peut-être," dit Drago. "Mais je suis à peu près sûr que non."
 
 "Alors, si c'est vrai…" la voix de Lucius Malfoy demeura en suspens. Une
 lente furie s'allumait dans ses yeux.
 
 "Que *ferions-nous*, exactement ?" dit Harry.
 
-"Cela aussi me semble clair," dit Draco. Il fit un demi-tour et leva un
+"Cela aussi me semble clair," dit Drago. Il fit un demi-tour et leva un
 doigt en l'air. "Nous trouverons la preuve de la culpabilité de
 Dumbledore et le présenterons à la justice !"
 
@@ -734,12 +734,12 @@ accompli aujourd'hui."
 pas des Aurors, et nous ne nous en remettons pas au bon vouloir d'un
 procès."
 
-Les yeux de Draco se ternirent un peu. "Oh."
+Les yeux de Drago se ternirent un peu. "Oh."
 
 "Je, ah, j'ai un certain faible pour les procès," lança Harry. *Je
 n'arrive pas à croire que je suis vraiment en train de parler de ça*. Il
 avait besoin de rentrer chez lui puis de prendre un papier et un crayon
-pour voir si le raisonnement de Draco se tenait *vraiment*. "Et pour les
+pour voir si le raisonnement de Drago se tenait *vraiment*. "Et pour les
 preuves."
 
 Lucius Malfoy se retourna alors vers Harry Potter ; ses yeux
@@ -773,17 +773,17 @@ compromis de dernière minute destiné à éviter la guerre civile. Ce ne
 sera peut-être pas ce que certains de vos alliés auraient préféré, mais
 de nombreux partis neutres seront heureux de cette perspective de
 stabilité. Le marché sera qu'au lieu de vous donner le pouvoir à vous,
-tout de suite, ils le donneront à Draco Malfoy lorsqu'il sera assez
+tout de suite, ils le donneront à Drago Malfoy lorsqu'il sera assez
 âgé."
 
-"*Quoi ?*" dit Draco.
+"*Quoi ?*" dit Drago.
 
-"Draco a témoigné sous Veritaserum qu'il a essayer d'aider Hermione
+"Drago a témoigné sous Veritaserum qu'il a essayer d'aider Hermione
 Granger. Je parie qu'il y aura de nombreux opposants qui choisiront de
 tenter leur chance avec lui plutôt que de se battre. Je ne sais pas
 exactement comment ce sera mis en vigueur - un Serment Inviolable, un
 contrat de Gringotts ou quelque chose comme ça - mais il y aura une
-sorte d'accord disant que le pouvoir reviendra à Draco après ses études
+sorte d'accord disant que le pouvoir reviendra à Drago après ses études
 à Poudlard. J'encouragerai tous les partisans que peut avoir le
 Survivant à ratifier ce marché. J'essaierai de persuader Londubat,
 Bones, et les autres. Notre premier plan ouvrira la voie au reste, si

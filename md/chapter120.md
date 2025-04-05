@@ -1,4 +1,4 @@
-# Après-coup, quelque chose à protéger : Draco Malfoy
+# Après-coup, quelque chose à protéger : Drago Malfoy
 
 Le garçon était assis dans un bureau non loin de l'ancien bureau de la
 directrice adjointe. Ses larmes s'étaient asséchées des heures plus tôt.
@@ -17,23 +17,23 @@ Ils étaient tous morts.
 Son père était mort, son parrain MacNair aussi, tout comme son parrain
 de secours, M. Avery. Même Sirius Black, le cousin de sa mère, avait
 réussi à y passer, et tout ce qui restait de la maison Black éprouvait
-peu d'amitié pour les Malfoys.
+peu d'amitié pour les Malfoy.
 
 Ils étaient tous morts.
 
 On frappa à la porte du bureau ; et quand le garçon ne répondit pas, la
 porte s'ouvrit pour révéler…
 
-"Vas-t'en," dit Draco Malfoy au Survivant. Il ne parvint pas à prononcer
+"Vas-t'en," dit Drago Malfoy au Survivant. Il ne parvint pas à prononcer
 les mots avec force.
 
 "Je partirai bientôt," dit Harry Potter en entrant. "Mais une décision
 doit être prise, et toi seul en es capable."
 
-Draco se tourna vers le mur, parce que la simple vue de Harry Potter lui
+Drago se tourna vers le mur, parce que la simple vue de Harry Potter lui
 demandait plus d'efforts qu'il ne pouvait en fournir.
 
-"Tu dois décider," dit Harry, "ce qui va arriver à Draco Malfoy. Je ne
+"Tu dois décider," dit Harry, "ce qui va arriver à Drago Malfoy. Je ne
 veux pas être menaçant ; quoi qu'il arrive, tu deviendras le riche
 héritier d'une Noble et Très Ancienne Maison. Le truc," dit Harry d'une
 voix à présent vacillante, "le truc, c'est qu'il y a quelque chose
@@ -45,7 +45,7 @@ pas. Et ce serait mal. Je ne… je ne veux plus faire ça, je ne veux plus
 te *manipuler*. Je t'ai fait trop de mal."
 
 *Alors arrête d'essayer d'être mon ami, tu t'y prends mal de toute
-façon.* Les mots surgirent dans la conscience de Draco et ses lèvres les
+façon.* Les mots surgirent dans la conscience de Drago et ses lèvres les
 rejetèrent. Il avait déjà le sentiment d'avoir presque entièrement perdu
 Harry, à cause de la façon dont ce dernier avait joué avec leur amitié,
 à cause de ses mensonges, de ses manipulations ; et pourtant l'idée de
@@ -59,7 +59,7 @@ lieutenant du Chaos. Tout ce qui restait de la maison Malfoy était une
 tradition ; et cette tradition disait qu'il était idiot de dire au
 gagnant de la guerre de partir, de rejeter son amitié."
 
-"Très bien," dit Draco d'une voix vide. "Dis-moi."
+"Très bien," dit Drago d'une voix vide. "Dis-moi."
 
 "C'est ce que je vais faire," dit Harry. "Et ensuite la directrice va
 venir après mon départ et sceller ta dernière demi-heure de souvenirs.
@@ -71,7 +71,7 @@ morte en couches et il a grandi dans un orphelinat Moldu jusqu'à ce que
 sa lettre de Poudlard lui soit apportée par Dumbledore…"
 
 Le Survivant continua de parler et les mots s'écrasèrent sur l'esprit de
-Draco comme une boule de démolition.
+Drago comme une boule de démolition.
 
 *Le Seigneur des Ténèbres était un Sang-Mêlé. Il n'a jamais cru à la
 pureté du sang.*
@@ -93,7 +93,7 @@ serait accusé de rien.
 
 Et la dernière horreur.
 
-"Tu…" murmura Draco Malfoy. "Tu…"
+"Tu…" murmura Drago Malfoy. "Tu…"
 
 "C'est moi qui ai tué ton père et tous les autres Mangemorts, cette
 nuit-là. Ils avaient reçu l'ordre de me tirer dessus à la seconde où je
@@ -120,7 +120,7 @@ premiers, bla bla bla etc. Mais là, je me sens juste malade de t'avoir
 infligé tout ça. Une fois de plus. Je sens que," sa voix vacilla un peu,
 "tout ce que je fais te fait du mal, en dépit de mes *bonnes
 intentions*, qu'être à côté de moi ne t'a occasionné que des pertes.
-Alors, si tu me dis de ne plus fréquenter Draco Malfoy, c'est ce que je
+Alors, si tu me dis de ne plus fréquenter Drago Malfoy, c'est ce que je
 ferai. Et si tu veux que j'essaie d'être vraiment ton ami, sans jamais
 réessayer de te manipuler, sans jamais t'utiliser ou prendre le risque
 de te faire du mal, alors je le ferai, je te le jure."
@@ -153,7 +153,7 @@ quelle qu'elle soit. Il ne voulait pas laisser le gagnant et leurs amis
 communs l'abandonner, et il n'allait pas non plus donner à Harry
 l'absolution qu'il désirait.
 
-Draco Malfoy se refusa donc à répondre, et les souvenirs de celui-ci
+Drago Malfoy se refusa donc à répondre, et les souvenirs de celui-ci
 disparurent.
 
  
@@ -183,7 +183,7 @@ poli, elle s'ouvrit pour révéler la directrice McGonagall, habillée
 comme à son habitude. "M. Malfoy," dit la famille de son ennemi
 victorieux. "Venez avec moi, s'il vous plaît."
 
-Draco Malfoy se leva avec indifférence et la suivit hors du bureau. Voir
+Drago Malfoy se leva avec indifférence et la suivit hors du bureau. Voir
 Harry Potter debout devant la porte l'interloqua, mais son esprit écarta
 simplement la pensée.
 
@@ -195,7 +195,7 @@ avant parce que je pensais que ça t'influencerait injustement. Si tu
 étais quelqu'un de bien, que tu n'avais jamais tué ni menti, mais que tu
 devais faire l'un ou l'autre, qu'est-ce qui serait pire ?"
 
-Draco l'ignora, continua après la directrice McGonagall, et laissa un
+Drago l'ignora, continua après la directrice McGonagall, et laissa un
 Harry à l'air chagriné derrière lui.
 
 Ils se rendirent au vieux bureau de la directrice où cette dernière
@@ -203,7 +203,7 @@ alluma la cheminée d'un mouvement de baguette et dit à la flamme verte :
 "Bureau des voyages de Gringotts" avant de s'y plonger, un regard ferme
 posé sur lui.
 
-N'ayant pas d'autre choix, Draco Malfoy la suivit.
+N'ayant pas d'autre choix, Drago Malfoy la suivit.
 
  
 

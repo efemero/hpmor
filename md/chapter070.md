@@ -696,7 +696,7 @@ sur le sujet.
 
 "Eh bien," dit Parvati, "est-ce que tout le monde ici a déjà traversé le
 couloir du troisième étage de Dumbledore ? Parce que tous les
-Gryffondors l'ont déjà fait -"
+Gryffondor l'ont déjà fait -"
 
 "*Attendez !*" dit Hermione avec désespoir. "Je ne veux pas que vous
 fassiez quoi que ce soit de *dangereux* !"

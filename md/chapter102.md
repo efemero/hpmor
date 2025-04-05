@@ -108,7 +108,7 @@ un cube noir posé à côté du lit. Ce n'était donc pas la magie du
 professeur de Défense mais un appareil quelconque.
 
 Le livre était "Penser la physique", de Einstein, le même livre que
-Harry avait prêté à Draco quelques mois auparavant. Harry avait cessé de
+Harry avait prêté à Drago quelques mois auparavant. Harry avait cessé de
 se tracasser quant aux mauvais usages que l'on pourrait en faire
 plusieurs semaines plus tôt.
 
@@ -509,7 +509,7 @@ crédibilité de l'explication.
 Comme si être fautif était la seule façon qu'il avait de porter le
 deuil.
 
-Un trio de Serpentards de septième année dépassèrent la forme invisible
+Un trio de Serpentard de septième année dépassèrent la forme invisible
 de Harry dans les couloirs, en direction de l'infirmerie, où attendait
 le professeur. Ils avaient l'air fort sérieux, fort soucieux. Était-ce
 ainsi que les autres portaient le deuil ?

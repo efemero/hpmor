@@ -24,7 +24,7 @@ Avait-elle appris des notions de tactique dans un livre d'histoire
 militaire ? Mais ça n'avait pas été qu'une seule tactique, elle avait
 parfaitement disposé ses forces de façon à bloquer toute retraite, et
 elles avaient été mieux coordonnées que les siennes *ou* que celles de
-Draco…
+Drago…
 
 Le professeur Quirrell avait-il brisé sa promesse de ne pas l'aider ?
 Lui avait-il donné le journal du général Tacticus ou quelque chose du
@@ -53,7 +53,7 @@ professeur Quirrell.
 
  
 
-Dans sa chambre individuelle de Serpentard, Draco Malfoy fixait le vide
+Dans sa chambre individuelle de Serpentard, Drago Malfoy fixait le vide
 comme si le mur devant son bureau avait été la chose la plus fascinante
 du monde.
 
@@ -66,21 +66,21 @@ mais Granger n'était pas *censée* être fourbe ! Elle avait été trop
 Poufsouffle pour jeter un sort d'attaque simple ! Le professeur Quirrell
 l'avait-il conseillée en dépit de sa promesse ou…
 
-Et Draco comprit enfin ce qu'il aurait dû faire bien plus tôt.
+Et Drago comprit enfin ce qu'il aurait dû faire bien plus tôt.
 
 Ce que Harry Potter lui avait *dit* de faire, ce qu'il l'avait
 *entraîné* à faire, et Harry l'avait malgré cela prévenu que son cerveau
 aurait besoin de temps avant de se rendre compte que les méthodes
-s'appliquaient à la vie de tous les jours, et Draco ne l'avait pas
+s'appliquaient à la vie de tous les jours, et Drago ne l'avait pas
 *compris* avant aujourd'hui. Il aurait pu éviter chacune de ses erreurs
 s'il avait juste *appliqué* les choses que Harry lui avait déjà *dites*
 
-Draco dit à voix haute : "Je remarque que je suis confus."
+Drago dit à voix haute : "Je remarque que je suis confus."
 
 *Ta force en tant que rationaliste est d'être plus facilement rendu
 confus par la fiction que par la réalité.*
 
-Draco était confus.
+Drago était confus.
 
 Donc l'une de ses croyances était une fiction.
 
@@ -91,7 +91,7 @@ Donc elle n'en avait probablement pas été capable.
 *Je promets de ne pas aider le général Granger à votre insu de quelque
 façon que ce soit.*
 
-Dans un moment de compréhension soudaine et horrifiée, Draco fit
+Dans un moment de compréhension soudaine et horrifiée, Drago fit
 voltiger des feuilles, fouillant le fatras qu'était son bureau jusqu'à
 ce qu'il trouve ce qu'il cherchait.
 
@@ -102,7 +102,7 @@ chacune des trois armées.
 
 *Maudit* professeur Quirrell !
 
-Draco l'avait *lu* et malgré cela il ne l'avait pas *vu* 
+Drago l'avait *lu* et malgré cela il ne l'avait pas *vu* 
 
  
 
@@ -155,7 +155,7 @@ corps*".
 
 Hermione se leva en s'étirant. "Je vais essayer de découvrir à quoi
 Harry Potter pense et le colonel Zabini va essayer de découvrir ce que
-Draco Malfoy risque de faire la prochaine fois, et après avoir découvert
+Drago Malfoy risque de faire la prochaine fois, et après avoir découvert
 quelque chose nous nous joindrons à vous. Je vais marcher tout en
 réfléchissant. Zabini, vous voulez m'accompagner ?"
 

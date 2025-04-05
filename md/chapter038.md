@@ -101,7 +101,7 @@ c'est qui est secrètement la même personne."
 "Vous n'en faites pas la moitié," répondit aimablement le vendeur.
 
 "Et je suis fiancé à Hermione Granger, *et* à Bellatrix Black, *et* à
-Luna Lovegood, et oh oui, à Draco Malfoy aussi…"
+Luna Lovegood, et oh oui, à Drago Malfoy aussi…"
 
 "En v'la un mariage qui va être intéressant," dit le vendeur.
 
@@ -127,7 +127,7 @@ Le vendeur fixa Harry.
 Harry s'éloigna pour lire son journal.
 
 Il ne s'assit pas à la table, située non loin, où il s'était assis avec
-Draco la *première* fois qu'il s'était préparé à embarquer dans le
+Drago la *première* fois qu'il s'était préparé à embarquer dans le
 train. Il lui semblait que ça aurait été comme de donner à l'Histoire la
 tentation de se répéter.
 
@@ -181,8 +181,8 @@ rencontrer."
 
 "Je n'ai reçu aucune de vos chouettes," dit Harry calmement. "Je suppose
 que Dumbledore les a interceptées. Mais je n'y aurais pas répondu si je
-les avais reçues, sauf par l'entremise de Draco. Car avoir directement
-affaire avec vous, sans que Draco le sache, constituerait un abus de
+les avais reçues, sauf par l'entremise de Drago. Car avoir directement
+affaire avec vous, sans que Drago le sache, constituerait un abus de
 notre amitié."
 
 *Va-t-en s'il te plaît, va-t-en s'il te plaît…*
@@ -199,7 +199,7 @@ compte. Bah. Ha. Ha."
 La trace d'un fin sourire déplaça les lèvres de Lucius. "Oui, cela
 ressemble à l'un des plans de Dumbledore. Et ce n'en est *pas* un."
 
-"En effet,'" dit Harry. "Cela fait partie de mon jeu avec Draco, et ne
+"En effet,'" dit Harry. "Cela fait partie de mon jeu avec Drago, et ne
 résulte d'aucun acte de Dumbledore, et c'est tout ce que j'en dirai."
 
 "Passons-nous de jeux," dit Malfoy senior, les yeux gris se durcissant
@@ -237,7 +237,7 @@ De toute façon, ils étaient dans une gare, en public -
 
 "Je trouve intéressant," dit Harry, mettant de l'acier dans sa voix,
 "que vous pensez que je pourrais tirer bénéfice d'un tort que je
-causerais à Draco. Mais c'est sans rapport avec le sujet, Lucius. *Il*
+causerais à Drago. Mais c'est sans rapport avec le sujet, Lucius. *Il*
 est mon ami, et je ne trahis pas mes amis."
 
 "*Quoi ?*" murmura Lucius. Son visage montrait un choc profond.
@@ -389,29 +389,29 @@ je ne suis pas en train de te corrompre."
 
  
 
-Draco avait l'air *très* inquiet. Il n'arrêtait pas de jeter des coups
+Drago avait l'air *très* inquiet. Il n'arrêtait pas de jeter des coups
 d'œil autour de lui, en dépit du fait qu'il avait insisté pour qu'ils se
 rendent dans la malle de Harry et qu'ils utilisent un Vrai sort de
 Silence et pas seulement la barrière d'étouffement sonore.
 
-"*Qu'est-ce* que tu as dit à Père ?" lâcha Draco au moment où le sort de
+"*Qu'est-ce* que tu as dit à Père ?" lâcha Drago au moment où le sort de
 Silence fut jeté et que les sons de la plate-forme 9 3/4 eurent disparu.
 
 "Je… écoute, peux-tu me dire ce qu'il *t'a* dit avant de te déposer ?"
 dit Harry.
 
 "Que je devrais le lui dire tout de suite si tu semblais me menacer,"
-dit Draco. "Que je devrais le lui dire tout de suite s'il y avait quoi
+dit Drago. "Que je devrais le lui dire tout de suite s'il y avait quoi
 que ce soit que *je* faisais qui pourrait *te* menacer ! Père pense que
 tu es *dangereux*, Harry, quoi que tu lui aies dit, ça lui a fait
 *peur* ! *Ce n'est pas une bonne idée de faire peur à Père !*"
 
 *Oh, bon sang…*
 
-"De *quoi* avez-vous parlé ?" exigea Draco.
+"De *quoi* avez-vous parlé ?" exigea Drago.
 
 Harry s'enfonça péniblement dans la petite chaise pliante posée au fond
-de la caverne de sa malle. "Tu sais Draco, tout comme la question
+de la caverne de sa malle. "Tu sais Drago, tout comme la question
 fondamentale de la rationalité est 'Pourquoi est-ce que je pense ce que
 je pense et comment est-ce que je sais que je le sais ?', il y a aussi
 un péché mortel, une façon de penser qui est l'opposé de celle-ci. Comme
@@ -424,11 +424,11 @@ permettant de discriminer *cette* possibilité parmi toutes les *autres*
 possibilités imaginables, des éléments de preuve qu'ils auraient eu bien
 peu de chances de rencontrer si leur théorie n'avait *pas* été vraie -"
 
-"*Harry,*" dit Draco, la voix tendue, "*De quoi avez-vous parlé avec
+"*Harry,*" dit Drago, la voix tendue, "*De quoi avez-vous parlé avec
 Père ?*"
 
 "À vrai dire, je ne sais pas," dit Harry, "et il est donc très important
 que me contente *pas* d'inventer quelque chose -"
 
-Jamais auparavant Harry n'avait jamais entendu Draco glapir d'horreur à
+Jamais auparavant Harry n'avait jamais entendu Drago glapir d'horreur à
 une octave si élevée.

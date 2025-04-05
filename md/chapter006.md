@@ -311,7 +311,7 @@ achèterait jamais un kit de premiers soins ? Ne le prenez pas mal,
 Professeur McGonagall, mais *de quelle sorte d'enfants fous avez-vous
 l'habitude de vous occuper* ?"
 
-"Des Gryffondors," cracha le Professeur McGonagall, le mot transportait
+"Des Gryffondor," cracha le Professeur McGonagall, le mot transportait
 un convoi d'amertume et de désespoir tel qu'on aurait dit une
 malédiction éternelle jetée sur tout l'héroïsme et la vivacité de la
 jeunesse.
@@ -393,7 +393,7 @@ la main sur la bouche pour faire bonne mesure.
 La visage de McGonagall devint un peu plus triste. "Vous *devez*
 apprendre à penser avant de parler, M. Potter. Sinon vous traverserez
 l'existence avec bien peu d'amis. Ça a été le sort de bien des
-Serdaigles, et j'espère que ce ne sera pas le vôtre."
+Serdaigle, et j'espère que ce ne sera pas le vôtre."
 
 Harry voulait juste s'enfuir en courant. Il voulait faire jaillir une
 baguette et effacer toute l'histoire de la mémoire de McGonagall, être à

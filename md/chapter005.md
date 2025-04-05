@@ -257,14 +257,14 @@ demi seconde de frustration il décida que c'en était assez.
 "Grands dieux," murmura Harry, "ce n'est pas possible." Il laissa ses
 yeux se dilater. "Votre… nom, monsieur ?"
 
-"Draco Malfoy," dit Draco Malfoy, l'air un peu perplexe.
+"Drago Malfoy," dit Drago Malfoy, l'air un peu perplexe.
 
-"C'*est* vous ! Draco Malfoy. Je - Je ne pensais pas avoir un jour
+"C'*est* vous ! Drago Malfoy. Je - Je ne pensais pas avoir un jour
 l'honneur, monsieur." Harry aurait aimé pouvoir faire sortir des larmes
 de ses yeux. Les autres commençaient généralement à pleurer à ce moment
 là de la conversation.
 
-"Oh," dit Draco d'un ton légèrement confus. Puis ses lèvres s'étirèrent
+"Oh," dit Drago d'un ton légèrement confus. Puis ses lèvres s'étirèrent
 en un sourire suffisant. "Il est agréable de rencontrer quelqu'un qui
 connaît sa place."
 
@@ -276,7 +276,7 @@ Juste ineffablement ravi. Et aller à Poudlard la même année que vous !
 Mon cœur se pâme."
 
 Oups. Cette dernière partie avait peut-être été un peu étrange, comme si
-il flirtait avec Draco.
+il flirtait avec Drago.
 
 "Et mon propre cœur est illuminé de constater que je puis m'attendre à
 être traité avec le respect dû à la famille Malfoy," renvoya Malfoy avec
@@ -290,7 +290,7 @@ mes vêtements seront apprêtés, monsieur, accepterez-vous de me serrer la
 main ? Rien d'autre ne saurait parachever ce jour, non, ce mois, et à
 vrai dire, ma vie entière."
 
-Draco le foudroya du regard. "Je pense que vous demandez de ma personne
+Drago le foudroya du regard. "Je pense que vous demandez de ma personne
 une familiarité bien déplacée ! Qu'avez vous jamais fait pour la famille
 Malfoy qui vous donne droit à une pareille requête ?"
 
@@ -299,7 +299,7 @@ qui essaie de me serrer la main*. Harry inclina sa tête. "Non, non
 monsieur, je comprends. Je suis désolé de vous l'avoir demandé. Je
 devrais plutôt me sentir honoré de nettoyer vos bottes."
 
-"En effet," lâcha Draco. Son visage dur s'éclaira plus ou moins. "Cela
+"En effet," lâcha Drago. Son visage dur s'éclaira plus ou moins. "Cela
 étant dit, votre souhait est compréhensible. Dites moi, dans quelle
 Maison pensez-vous être trié ? Je suis destiné à Serpentard bien sûr,
 comme mon père Lucius avant moi. Et pour vous, je devine la Maison
@@ -313,30 +313,30 @@ sans aucun doute à Serdaigle si le Choixpeau magique ne crie pas
 d'horreur si fort qu'aucun d'entre nous ne peut comprendre ce qu'il dit,
 fin de citation."
 
-"Wow," dit Draco, l'air légèrement impressionné. Il fit une sorte de
+"Wow," dit Drago, l'air légèrement impressionné. Il fit une sorte de
 soupir mélancolique. "Votre flatterie était excellente, ou du moins je
 le pensais - vous réussiriez à Serpentard aussi. C'est généralement
 devant mon père que les gens s'aplatissent. J'*espère* que les autres
-Serpentards me lécheront les bottes maintenant que je suis à Poudlard…
+Serpentard me lécheront les bottes maintenant que je suis à Poudlard…
 j'imagine donc que c'est bon signe."
 
 Harry toussa. "À vrai dire, désolé, mais je ne sais absolument pas qui
 tu es."
 
-"*Non mais franchement* !" dit Draco, violemment déçu. "Pourquoi
-ferais-tu ça ?" les yeux de Draco s'élargirent dans un élan de suspicion
-soudain. "Et comment peux-tu ne *pas* connaître les Malfoys ? Et quels
+"*Non mais franchement* !" dit Drago, violemment déçu. "Pourquoi
+ferais-tu ça ?" les yeux de Drago s'élargirent dans un élan de suspicion
+soudain. "Et comment peux-tu ne *pas* connaître les Malfoy ? Et quels
 sont ces *vêtements* que tu portes ? Tes parents sont-ils *Moldus* ?"
 
 "Deux des mes parents sont morts", dit Harry. Il éprouva un pincement au
 cœur. Lorsqu'il le formulait ainsi - "Mes deux autres parents sont des
 Moldus, et ce sont eux qui m'ont éduqué."
 
-"*Quoi* ?" dit Draco. "Qui *es*-tu ?"
+"*Quoi* ?" dit Drago. "Qui *es*-tu ?"
 
 "Harry Potter, ravi de te faire ta connaissance."
 
-"*Harry Potter ?"* haleta Draco. "*Le* Harry -" et le garçon s'arrêta
+"*Harry Potter ?"* haleta Drago. "*Le* Harry -" et le garçon s'arrêta
 brusquement.
 
 Il y eut un bref silence.
@@ -344,9 +344,9 @@ Il y eut un bref silence.
 Puis, avec un enthousiasme éclatant : "Harry Potter ? *Le* Harry
 Potter ? Mon dieu, j'ai toujours voulu te rencontrer !"
 
-L'assistante qui s'occupait de Draco émit un son qui donnait
+L'assistante qui s'occupait de Drago émit un son qui donnait
 l'impression qu'elle s'étranglait mais elle continua son travail,
-soulevant les bras de Draco pour enlever la robe damée avec attention.
+soulevant les bras de Drago pour enlever la robe damée avec attention.
 
 "Tais toi," suggéra Harry.
 
@@ -365,7 +365,7 @@ vainqueur du Seigneur des Ténèbres ! Le héros de tous, Harry Potter !
 J'ai toujours voulu devenir comme toi quand je serai plus grand pour
 pouvoir vaincre des Seigneur des Ténèbres moi aus-"
 
-Draco s'interrompit au beau milieu de sa phrase. Son visage de pétrifia
+Drago s'interrompit au beau milieu de sa phrase. Son visage de pétrifia
 dans une expression d'horreur absolue.
 
 Grand, cheveux blancs, froidement élégant dans des robes noires de la
@@ -378,7 +378,7 @@ interdit, mais une activité aussi routinière que respirer.
 C'était l'homme qui avait, à cet instant, nonchalamment franchi le seuil
 de la porte ouverte.
 
-"Draco," dit l'homme, d'une voix basse et très en colère, "*qu'es-tu* en
+"Drago," dit l'homme, d'une voix basse et très en colère, "*qu'es-tu* en
 train de *dire* ?"
 
 En une demi seconde de panique compatissante, Harry formula un plan de
@@ -409,7 +409,7 @@ magasin, et le Professeur McGonagall déboula une seconde plus tard.
 Il y avait une telle horreur sur son visage que la bouche de Harry
 s'ouvrit automatiquement, puis se bloqua sur rien-à-dire.
 
-"Professeur McGonagall !" s'écria Draco. "Est-ce vraiment vous ? Mon
+"Professeur McGonagall !" s'écria Drago. "Est-ce vraiment vous ? Mon
 père m'a tellement parlé de vous, j'ai pensé à me faire trier à
 Gryffondor afin de -"
 
@@ -418,7 +418,7 @@ parfaitement à l’unisson, debout l'un à coté de l'autre. Leurs têtes
 pivotèrent symétriquement et ils se regardèrent, puis ils s'éloignèrent
 l'un de l'autre comme si ils interprétaient une danse synchronisée.
 
-Il y eut une grande agitation alors que Lucius s'emparait de Draco et le
+Il y eut une grande agitation alors que Lucius s'emparait de Drago et le
 traînait hors du magasin.
 
 Puis tout fut silencieux.
@@ -445,7 +445,7 @@ Potter, dixit cette horloge."
 "Je ne faisais que plaisanter", protesta Harry, alors que les rires
 hystériques continuaient non loin.
 
-"*Draco Malfoy a dit face à son père qu'il souhaitait être trié à
+"*Drago Malfoy a dit face à son père qu'il souhaitait être trié à
 Gryffondor !* Plaisanter *ne suffit pas* à en *venir* là !" McGonagall
 pausa, respirant lourdement. "Quelle partie de 'se faire prendre ses
 mesures' avez-vous interprété comme voulant dire *s'il vous plaît jetez
@@ -458,7 +458,7 @@ de son point de vue -"
 Jamais. Il y a certaines choses que je ne suis pas censée savoir, et
 c'est une de ces choses. Quelle que soit la force de chaos démoniaque
 qui vous habite, elle est *contagieuse*, et je ne veux pas finir comme
-ce pauvre Draco Malfoy, cette pauvre madame Malkin, ou ses deux pauvres
+ce pauvre Drago Malfoy, cette pauvre madame Malkin, ou ses deux pauvres
 assistantes."
 
 Harry soupira. Il était clair que le Professeur McGonagall n'était pas

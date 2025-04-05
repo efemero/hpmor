@@ -446,7 +446,7 @@ devras un jour apprendre toute la vérité sur cette affaire.
 Promettras-tu de ne jamais en parler à un autre avant que je ne te le
 permette ?"
 
-Harry aurait aimé pouvoir le dire à Draco mais - "Je promets," dit-il.
+Harry aurait aimé pouvoir le dire à Drago mais - "Je promets," dit-il.
 
 "Grindelwald possédait un objet terrible et ancien," dit Dumbledore.
 "Tant qu'il l'avait en sa possession, je ne pouvais briser ses défenses.
@@ -788,7 +788,7 @@ pensiez. Prenez un peu de temps pour y réfléchir, mon ami."
 
  
 
-*Après-coup : Draco Malfoy et…*
+*Après-coup : Drago Malfoy et…*
 
 Un hémisphère arc-en-ciel, un dôme de force lui-même doté de peu de
 chromaticité mais qui renvoyait la lumière incidente sous forme de
@@ -801,20 +801,20 @@ aucune des armées du professeur Quirrell, qui obtenait des notes
 passables au mieux en cours de Défense et qui n'aurait pas pu lancer une
 barrière prismatique même si sa vie en avait dépendu.
 
-"Oh, arrêtez ça," dit Draco Malfoy en essayant de prendre un ton ennuyé
+"Oh, arrêtez ça," dit Drago Malfoy en essayant de prendre un ton ennuyé
 en dépit de la sueur qui venait d'apparaître sous ses robes et en
 gardant sa baguette pointée vers la barrière qui protégeait Millicent
 Bulstrode.
 
 Il n'arrivait pas à se rappeler avoir pris une décision, il y avait
 juste eu deux garçons plus âgés sur le point de lancer un maléfice à
-Millicent tandis que la salle commune regardait en silence et Draco
+Millicent tandis que la salle commune regardait en silence et Drago
 avait alors juste sorti sa baguette et lancé sa barrière, laissant à son
 cœur le soin de le remplir d'adrénaline pendant que son pauvre et triste
 cerveau se torturait désespérément à la recherche d'explications…
 
 Les deux garçons plus âgés se redressaient de leur posture menaçante
-au-dessus de Millicent et se tournaient vers Draco en le regardant d'un
+au-dessus de Millicent et se tournaient vers Drago en le regardant d'un
 air stupéfait mêlé de colère. Gregory et Vincent, à côté de lui, avaient
 déjà sorti leurs baguettes, mais elles n'étaient pas pointées. De toute
 façon, ils n'auraient pas pu gagner à trois.
@@ -823,10 +823,10 @@ Mais les garçons plus âgés ne l'attaquèrent pas. Personne n'était assez
 stupide pour attaquer le prochain Lord Malfoy.
 
 Ce n'était pas la peur d'être attaqué qui avait déclenché les sueurs de
-Draco, dont il espérait d'ailleurs que les gouttelettes sur son front
+Drago, dont il espérait d'ailleurs que les gouttelettes sur son front
 n'étaient pas visibles.
 
-Draco suait à cause de la certitude naissance et écœurante qui lui
+Drago suait à cause de la certitude naissance et écœurante qui lui
 disait que même en s'en tirant cette fois-ci, s'il continuait ainsi, le
 temps viendrait où tout s'écroulerait ; et alors il ne serait peut-être
 plus le prochain Lord Malfoy.
@@ -834,7 +834,7 @@ plus le prochain Lord Malfoy.
 "M. Malfoy," dit le garçon qui avait l'air le plus âgé. "Pourquoi la
 protégez-vous ?"
 
-"Vous avez donc localisé la maîtresse de la conspiration," dit Draco
+"Vous avez donc localisé la maîtresse de la conspiration," dit Drago
 avec son sourire méprisant numéro deux, "et c'est, autant être clair
 maintenant, une fille en première année prénommée Millicent Bulstrode.
 Elle n'est qu'une *passeuse*, espèce de cornigaud !"
@@ -842,8 +842,8 @@ Elle n'est qu'une *passeuse*, espèce de cornigaud !"
 "Et alors ?" demanda le garçon plus âgé. "Elle les a quand même
 aidées !"
 
-Draco leva sa baguette et la sphère prismatique disparut instantanément.
-Toujours d'une voix ennuyée, Draco dit : "*Saviez*-vous ce que vous
+Drago leva sa baguette et la sphère prismatique disparut instantanément.
+Toujours d'une voix ennuyée, Drago dit : "*Saviez*-vous ce que vous
 faisiez, Mlle Bulstrode ?"
 
 "N-non," bégaya Millicent, toujours assise à son bureau.
@@ -852,9 +852,9 @@ faisiez, Mlle Bulstrode ?"
 
 "Non !" dit Millicent.
 
-"Merci," dit Draco. "Vous tous, merci de la laisser tranquille, elle
+"Merci," dit Drago. "Vous tous, merci de la laisser tranquille, elle
 n'est qu'un pion. Mlle Bulstrode, vous pouvez considérer que la faveur
-que vous m'avez faite en février a été rendue." Et Draco revint à ses
+que vous m'avez faite en février a été rendue." Et Drago revint à ses
 devoirs de potions, en priant Merlin et les autres que Millicent ne
 dirait rien de stupide, comme par exemple : 'Quelle faveur ?'…
 
@@ -862,20 +862,20 @@ dirait rien de stupide, comme par exemple : 'Quelle faveur ?'…
 "ces sorcières allaient-elles exactement là où Millicent leur disait
 d'aller ?"
 
-Suant encore plus, Draco leva la tête pour regarder Randolph Lee. "Que
-disait le faux message, exactement ?" demanda Draco. Était-ce : 'Je vous
+Suant encore plus, Drago leva la tête pour regarder Randolph Lee. "Que
+disait le faux message, exactement ?" demanda Drago. Était-ce : 'Je vous
 ordonne de vous y rendre, au nom de la Dame des Ténèbres Bulstrode' ou
 'Merci de me retrouver ici, amicalement, Millicent' ?"
 
 Randolph Lee ouvrit la bouche, hésita pendant une fraction de seconde -
 
-"C'est ce que je pensais," dit Draco. "Ce n'était pas un très bon test,
+"C'est ce que je pensais," dit Drago. "Ce n'était pas un très bon test,
 M. Lee, ça… ça peut…" Un instant de supplice nerveux désespéré pendant
 lequel il essaya de trouver comment le dire sans utiliser des mots de
 Harry comme *faux positif*. "Ça peut amener les sorcières n'importe où
 du moment que l'une d'entre elles est *amie* avec Millicent."
 
-Comme si l'affaire avait été entièrement réglée, Draco baissa de nouveau
+Comme si l'affaire avait été entièrement réglée, Drago baissa de nouveau
 les yeux vers ses devoirs de potions en ignorant entièrement (mis à part
 cette sensation de terreur écœurante dans son estomac) les chuchotement
 de la pièce.
@@ -889,7 +889,7 @@ fixement.
 
  
 
-Les yeux posés sur ses devoirs d'astronomie, Draco n'arrivait pas à se
+Les yeux posés sur ses devoirs d'astronomie, Drago n'arrivait pas à se
 concentrer dans cette pièce. Si vous ne vouliez pas penser à ce que
 Harry Potter pouvait vous avoir dit, la pire chose à faire était
 probablement de regarder les images du ciel étoilées de votre manuel et
@@ -898,12 +898,12 @@ les planètes se déplaçaient. L'astronomie était un art noble et
 prestigieux, un signe d'éducation et de connaissance, mais seuls les
 Moldus modernes possédaient des artefacts secrets permettant de la
 pratiquer un million de milliard de fois mieux en utilisant des méthodes
-que Harry avait essayé d'expliquer et que Draco ne pouvait toujours pas
+que Harry avait essayé d'expliquer et que Drago ne pouvait toujours pas
 commencer à comprendre, mis à part qu'apparemment, il n'y avait même pas
 besoin de *magie* pour que des *objets* soient capables de faire de
 l'*Arithmancie*.
 
-Draco regarda les images des constellations et se demanda si c'était
+Drago regarda les images des constellations et se demanda si c'était
 pareil dans les autres maisons, si les gens se menaçaient en permanence
 à Serdaigle.
 
@@ -912,7 +912,7 @@ bataille ne se battaient pas vraiment pour leur pays. Le patriotisme les
 amenait peut-être jusqu'au champ de bataille, mais une fois là, ils se
 battaient pour se protéger *les uns les autres*, leurs amis avec qui ils
 s'étaient entraînés aux côtés desquels ils se trouvaient. Harry avait
-fait remarquer, et Draco avait su qu'il disait vrai, qu'on ne pouvait
+fait remarquer, et Drago avait su qu'il disait vrai, qu'on ne pouvait
 pas utiliser la loyauté envers un chef pour alimenter un Patronus, que
 ce n'était pas *exactement* le bon type de pensée réjouissante et
 heureuse. Mais en pensant à protéger quelqu'un à ses côtés…
@@ -931,7 +931,7 @@ pas vraiment été sa faute. Il n'y avait rien que Père *aurait pu* faire
 après avoir hérité de Mangemorts qui n'étaient pas vraiment *amis*.
 
 Et même si c'était Serpentard qu'il était censé défendre - que c'était
-pour *sauver* Serpentard que Harry et lui avaient fait un pacte - Draco
+pour *sauver* Serpentard que Harry et lui avaient fait un pacte - Drago
 ne pouvait s'empêcher de penser que c'était juste moins *épuisant* quand
 il dirigeait les entraînements de son armée. Quand il travaillait avec
 des élèves des trois autres maisons, avec des élèves qui n'étaient pas
@@ -940,26 +940,26 @@ nommer, vous ne pouviez plus vous *empêcher* de les voir et ça devenait
 chaque jour de plus en plus *agaçant*.
 
 "M. Malfoy ?" dit la voix de Gregory Goyle depuis le sol de la chambre
-de Draco, certes petite mais privée. Gregory faisait ses devoirs de
+de Drago, certes petite mais privée. Gregory faisait ses devoirs de
 métamorphose, pour lesquels il avait souvent besoin d'aide.
 
 À ce stade, n'importe quelle distraction était la bienvenue. "Oui ?" dit
-Draco.
+Drago.
 
 "Vous ne maniganciez rien du tout contre Granger," dit Gregory, "en
 fait, non ?"
 
-La sensation qui se répandit jusqu'à l'estomac de Draco ressemblait
+La sensation qui se répandit jusqu'à l'estomac de Drago ressemblait
 beaucoup à la voix qu'avait eu Gregory : malade et apeurée.
 
 "Vous l'aidiez, en fait, le jour où vous l'avez aidée à se relever," dit
 Gregory ."Et avant ça, la fois où vous l'avez empêchée de tomber du
 toit. Vous avez *aidé une Sang-de-Bourbe* -"
 
-"Bien sûr," dit immédiatement Draco d'un ton sarcastique, sans la
+"Bien sûr," dit immédiatement Drago d'un ton sarcastique, sans la
 moindre hésitation, en revenant à ses devoirs d'Astronomie comme s'il
 n'était pas le moins du monde nerveux. Tout se déroulait exactement
-comme Draco l'avait craint, mais au moins cela voulait dire qu'il avait
+comme Drago l'avait craint, mais au moins cela voulait dire qu'il avait
 rejoué cette conversation dans sa tête, encore et encore, et qu'il avait
 trouvé un bon gambit d'ouverture. "Allons, Gregory, tu t'es battu contre
 le général Granger, tu *sais* à quel point ses sortilèges sont
@@ -970,7 +970,7 @@ Père ? Elle est *adoptée*. Ses parents sont morts pendant la guerre et
 quelqu'un la collée avec un couple de Moldus pour la cacher. Il est
 *impossible* que le général Granger soit une Sang-de-Bourbe."
 
-Une pulsation silencieuse traversa la chambre de Draco. Il voulait
+Une pulsation silencieuse traversa la chambre de Drago. Il voulait
 savoir, il avait besoin de savoir à quoi ressemblait le visage de
 Gregory. Mais il ne *pouvait pas* lever les yeux de son bureau, pas
 avant que Gregory ne parle.
@@ -979,7 +979,7 @@ Et alors -
 
 "C'est *ça* que Harry Potter vous a dit ?" demanda Gregory.
 
-La voix vacilla et se brisa. Lorsque Draco leva les yeux de ses devoirs,
+La voix vacilla et se brisa. Lorsque Drago leva les yeux de ses devoirs,
 il vit que des larmes perlaient aux yeux de Gregory.
 
 Apparemment, ça n'avait pas fonctionné.
@@ -990,28 +990,28 @@ il ne va pas aimer ça, M. Malfoy !"
 
 *Ce n'est pas à toi de décider ce que Père aimera, Goyle -*
 
-Draco pouvait entendre les mots dans son esprit ; ils avaient la voix de
+Drago pouvait entendre les mots dans son esprit ; ils avaient la voix de
 Père, la même dureté. C'était le genre de choses que Père lui avait
 *dit* de dire si Vincent ou Gregory le remettaient jamais en question,
 et si cela ne fonctionnait pas, il devrait leur lancer un sortilège.
 Père avait dit qu'ils n'étaient *pas* des amis sur un pied d'égalité et
-que Draco ne devrait jamais l'oublier. C'était lui qui dirigeait, ils
-étaient ses serviteurs, et si Draco ne pouvait faire en sorte que cela
+que Drago ne devrait jamais l'oublier. C'était lui qui dirigeait, ils
+étaient ses serviteurs, et si Drago ne pouvait faire en sorte que cela
 reste ainsi alors il n'était pas apte à hériter de la maison Malfoy…
 
-"Tout va bien, Gregory," dit Draco avec autant de gentillesse que
+"Tout va bien, Gregory," dit Drago avec autant de gentillesse que
 possible. "Tout ce dont tu dois t'inquiéter, c'est de me protéger.
 Personne ne va te blâmer parce que tu as suivi mes ordres, ni mon père
 ni le tien." Il mit toute la chaleur qu'il avait dans sa voix, comme
 s'il essayait de lancer un Patronus. "Et de toute façon, la prochaine
 guerre ne va pas ressembler à la précédente. La maison Malfoy était là
-longtemps avant le Seigneur des Ténèbres, et tous les Malfoys n'agissent
+longtemps avant le Seigneur des Ténèbres, et tous les Malfoy n'agissent
 pas de la même façon. Père le sait."
 
 "Vraiment ?" dit Gregory d'une voix tremblante. "Il le sait *vraiment*
 ?"
 
-Draco hocha la tête. "Le professeur Quirrell le sait aussi," dit Draco.
+Drago hocha la tête. "Le professeur Quirrell le sait aussi," dit Drago.
 "C'est le but des armées. Le professeur de Défense a raison : quand la
 prochaine guerre surviendra, Père n'arrivera pas à unir tout le pays car
 les gens se souviendront de la *dernière* guerre. Mais tous ceux qui se
@@ -1027,7 +1027,7 @@ Gregory leva une main et s'essuya les yeux avant de se replonger dans
 ses devoirs de métamorphose. "D'accord," dit-il d'une voix chancelante,
 "si vous le dites, M. Malfoy."
 
-Draco hocha de nouveau la tête, ignora la sensation de néant qui
+Drago hocha de nouveau la tête, ignora la sensation de néant qui
 s'emparait de lui face aux mensonges qu'il venait de dire à son ami et
 revint aux étoiles.
 

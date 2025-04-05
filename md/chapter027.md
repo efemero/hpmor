@@ -382,7 +382,7 @@ de Sourdinam et les malles magiques n'étaient-ils pas merveilleux. Il
 avait pris son petit déjeuner à la table Gryffondor.
 
 Mais Harry n'avait pas pu éviter le cours de Botanique, et les
-Serdaigles en avaient parlé avant le cours, et après le cours, et
+Serdaigle en avaient parlé avant le cours, et après le cours, et
 *pendant* le cours jusqu'à ce que Harry ait relevé les yeux du bébé
 furcot dont il changeait la couche et qu'il ait annoncé d'une voix forte
 que certains ici essayaient d'apprendre quelque chose au sujet des
@@ -407,7 +407,7 @@ En d'autres mots, attraper un moustique doré valait 150 points.
 Harry n'arrivait même pas à *imaginer* ce qu'il devrait faire pour
 mériter cent cinquante points.
 
-À part, vous savez, sauver *cent cinquante Poufsouffles*, ou trouver
+À part, vous savez, sauver *cent cinquante Poufsouffle*, ou trouver
 *quinze idées aussi bonnes que celle consistant à ajouter une coque
 protectrice autour des machines à remonter le temps*, ou inventer *mille
 cinq cent façons créatives de tuer des gens*, ou être Hermione Granger
@@ -598,7 +598,7 @@ Les yeux de Harry s'écarquillèrent involontairement.
 promesse que vous ne parlerez pas de notre conversation à *quiconque*.
 En ce qui concerne l'école, nous discutons de vos devoirs de Potions.
 Qu'ils le croient ou non n'a aucune importance. En ce qui concerne
-Dumbledore et McGonagall, je trahis les confidences que Draco Malfoy m'a
+Dumbledore et McGonagall, je trahis les confidences que Drago Malfoy m'a
 faites, et aucun de nous deux ne pense qu'il serait de bon ton d'en dire
 plus long sur les détails."
 
@@ -624,7 +624,7 @@ réponse est que j'en sais très peu au sujet de James Potter."
 
 Severus hocha la tête, comme s'il s'adressait à lui-même. "Il y a un
 Serpentard en cinquième année. Un garçon nommé Lesath Lestrange. Il est
-malmené par des Gryffondors. Je suis… restreint dans mes capacités à
+malmené par des Gryffondor. Je suis… restreint dans mes capacités à
 gérer une telle situation. *Vous* pourriez peut-être l'aider. Si vous le
 souhaitiez. Je ne vous demande pas une faveur et je ne vous en devrai
 aucune. Il s'agit simplement d'une opportunité de faire ce que vous
@@ -676,7 +676,7 @@ dans les escaliers, pas que j'ai entendu."
 "Ou lu dans son esprit," dit Harry.
 
 L'expression de Severus était glacée. "Je n'ai pas envahi son intimité,
-Potter. J'ai plutôt regardé dans les Gryffondors. Il constitue une cible
+Potter. J'ai plutôt regardé dans les Gryffondor. Il constitue une cible
 commode pour la satisfaction de leurs petites envies."
 
 Un douche froide de colère courut le long de l'épine dorsale de Harry,
@@ -687,7 +687,7 @@ d'information.
 Survivant, pourrait s'avérer efficace."
 
 "En effet," dit Severus Rogue, et il dit à Harry où et quand les
-Gryffondors avaient prévu leur prochain petit jeu.
+Gryffondor avaient prévu leur prochain petit jeu.
 
  
 
@@ -767,7 +767,7 @@ Londubat -*
 
 Neville n'arrivait pas à le dire.
 
-"Je pense que c'est un *traître*," dit l'un des autres Gryffondors, et
+"Je pense que c'est un *traître*," dit l'un des autres Gryffondor, et
 l'estomac de Neville se noua soudain.
 
 Il l'avait su, il l'avait juste su. Enfin de compte, Harry Potter avait
@@ -795,7 +795,7 @@ rivés sur l'angle du couloir, sur la sortie.
 "Amis," dit Neville. Sa voix était maintenant montée d'une octave. "Oui,
 j'ai des amis. L'un d'eux est le Survivant."
 
-Deux des Gryffondors eurent soudain l'air inquiet. Le plus beau ne
+Deux des Gryffondor eurent soudain l'air inquiet. Le plus beau ne
 broncha pas. "Harry Potter n'est pas là", dit-il, la voix dure, "et s'il
 l'était, je ne pense pas qu'il aimerait voir un Londubat défendre un
 Lestrange."
@@ -824,7 +824,7 @@ Puis il ouvrit les yeux.
 
 Lesath Lestrange le fixait.
 
-Les quatre Gryffondors le fixaient.
+Les quatre Gryffondor le fixaient.
 
 Le plus beau commença à ricaner, ce qui fit partir les trois autres.
 
@@ -896,7 +896,7 @@ fille de Poufsouffle qui porte un ruban blanc dans les cheveux -"
 
 La mâchoire du chef s'affaissa sous l'effet du choc.
 
-"Aaaah !" dit l'un des autres Gryffondors d'une voix aiguë, et il pivota
+"Aaaah !" dit l'un des autres Gryffondor d'une voix aiguë, et il pivota
 sur ses talons puis il s'élança et dépassa l'angle du corridor. On
 entendit le battement de ses pas rapide s'estomper peu à peu.
 
@@ -910,7 +910,7 @@ Kirke avant d'avoir à faire face à des, disons à des problèmes."
 mettre de la colère dans sa voix plutôt vacillante. "Les rapporteurs, il
 leur arrive des bricoles !"
 
-Les deux autres Gryffondors commencèrent à reculer lentement.
+Les deux autres Gryffondor commencèrent à reculer lentement.
 
 Harry Potter se mit à rire. "Oh, tu ne viens pas de dire ça. Essaies-tu
 *vraiment* de m'intimider ? *Moi* ? Non sincèrement, tu te crois plus
@@ -920,7 +920,7 @@ que Tu-Sais-Qui ?"
 Même le chef de bande vacilla en entendant cela.
 
 Harry Potter leva sa main, prêt à claquer des doigts, et les trois
-Gryffondors se jetèrent en arrière, et l'un d'eux laissa échapper :
+Gryffondor se jetèrent en arrière, et l'un d'eux laissa échapper :
 "Non, ne… !"
 
 "Vous voyez," dit Harry Potter, "c'est là que je claque des doigts et
@@ -930,7 +930,7 @@ c'est que des gens en qui j'ai confiance n'arrêtent pas de me dire de ne
 pas faire ça. Le professeur McGonagall m'a dit que je choisissais la
 solution de facilité, et le professeur Quirrell a dit que je devais
 apprendre à perdre. Vous vous rappelez de cette histoire où je me suis
-laissé battre par des Serpentards plus âgés ? On pourrait faire ça. Vous
+laissé battre par des Serpentard plus âgés ? On pourrait faire ça. Vous
 pourriez me brutaliser un moment et je pourrais vous laisser faire.
 Seulement, vous vous rappelez le moment à la fin où je dis à mes très
 nombreux amis de ne rien faire pour me venger ? Cette fois-ci on sautera

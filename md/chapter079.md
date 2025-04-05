@@ -2,7 +2,7 @@
 
 
 "*Hermione Granger," dit l'Auror Komodo d'une voix sans timbre, "vous
-êtes en état d'arrestation pour avoir tenté d'assassiner Draco Malfoy."*
+êtes en état d'arrestation pour avoir tenté d'assassiner Drago Malfoy."*
 
 Les mots chutèrent dans l'esprit de Harry et brisèrent ses pensées en un
 milliers d'éclats d'incrédulité. Le choc causé par l'adrénaline causa
@@ -25,7 +25,7 @@ trois gouttes de Veritaserum…"
 qu'il se levait violemment de la table Serdaigle, un instant avant que
 la main de l'Auror Butnaru ne se pose avec force sur son épaule. Harry
 l'ignora. "Vous essayez d'arrêter *Hermione Granger*, la plus gentille
-fille de Serdaigle, elle aide les Poufsouffles à faire leurs devoirs,
+fille de Serdaigle, elle aide les Poufsouffle à faire leurs devoirs,
 elle *mourrait* plutôt que d'essayer de tuer *qui que ce soit…"*
 
 Le visage de Hermione s'était effondré. "Je l'ai fait," chuchota-t-elle.
@@ -87,7 +87,7 @@ de glace.
 
 À six heures et trente-trois minutes du matin, Quirinus Quirrell avait
 appelé Sainte Mangouste par cheminette depuis son propre bureau pour y
-faire immédiatement récupérer Draco Malfoy. Le professeur Quirrell avait
+faire immédiatement récupérer Drago Malfoy. Le professeur Quirrell avait
 trouvé M. Malfoy dans la salle des trophées de Poudlard, à l'article de
 la mort, victime des effets prolongés d'un sortilège de refroidissement
 sanguin qui avait lentement abaissé la température de son corps. Le
@@ -100,11 +100,11 @@ avant de disparaître dans la cheminette : les Aurors, avisés par Sainte
 Mangouste, avaient requis sa présence afin qu'il soit questionné.
 
 Il était clair que l'intention derrière le sortilège de refroidissement
-sanguin avait été de tuer Draco Malfoy si lentement que les systèmes de
+sanguin avait été de tuer Drago Malfoy si lentement que les systèmes de
 sécurité de Poudlard, réglés pour détecter les blessures, ne se
 déclenchent pas. Interrogé par les Aurors, le professeur Quirrell leur
 avait dit qu'il avait lancé plusieurs sortilèges de surveillance sur
-Draco Malfoy après son retour des vacances de Yule. Il avait lancé ces
+Drago Malfoy après son retour des vacances de Yule. Il avait lancé ces
 sortilèges de surveillance car il avait appris l'existence d'une
 personne qui possédait un motif de faire du mal à M. Malfoy. Le
 professeur Quirrell avait refusé d'identifier cette personne. Les
@@ -169,7 +169,7 @@ je l'ai appris. Mais lorsque j'ai atteint la salle des trophées, M.
 Malfoy était déjà inconscient et Mlle Granger était partie…"
 
 "Non," dit Harry Potter. "Vous avez atteint la salle des trophées et
-avez vu Draco inconscient. C'est tout ce que vous avez observé, M. le
+avez vu Drago inconscient. C'est tout ce que vous avez observé, M. le
 directeur. Vous n'avez pas *vu* Hermione dans la salle, pas plus que
 vous ne l'avez vue partir. Distinguons les observations des inférences."
 Le visage du garçon se tourna vers elle. "Imperius, Oubliettes,
@@ -244,11 +244,11 @@ folie de Mlle Granger devrait être *guidée*…"
 
 "Ah !" dit soudain Harry. "J'ai compris. Le *premier* sortilège de faux
 souvenirs a été lancé sur Hermione après que le professeur Rogue lui ait
-crié dessus et lui montrait, disons, que Draco et le professeur Rogue
+crié dessus et lui montrait, disons, que Drago et le professeur Rogue
 complotaient dans le but de la tuer. La nuit dernière, le faux souvenir
 a été *enlevé* par un sortilège d'Oubliettes, laissant derrière les
-souvenirs de sa fixation sans raison apparente sur Draco, et au même
-moment, lui et Draco ont reçu de faux souvenirs du duel."
+souvenirs de sa fixation sans raison apparente sur Drago, et au même
+moment, lui et Drago ont reçu de faux souvenirs du duel."
 
 Minerva cilla de surprise. Elle n'aurait pas pensé à cette possibilité
 en mille ans de réflexion.
@@ -452,7 +452,7 @@ certainement pas satisfait de ne voir que sa baguette confisquée."
 "Très bien," dit Harry avec autorité. "Comme je vois les choses, nous
 avons essentiellement deux plans d'action. Premier plan, trouver le
 véritable coupable. Second plan, pouvoir influencer Lucius. Le
-professeur Quirrell a sauvé la vie de Draco, cela créé-t-il une dette de
+professeur Quirrell a sauvé la vie de Drago, cela créé-t-il une dette de
 sang de la maison Malfoy envers lui qu'il pourrait racheter pour annuler
 celle de Hermione ?"
 
@@ -471,25 +471,25 @@ avoir un dette de sang envers une maison Noble, mais pas l'inverse. Je
 ne sais pas pourquoi mais je ne suis pas surpris. Mais la maison Potter
 *est* une maison Noble, à ce que j'ai compris. M. le directeur, je sais
 que j'ai dit que je ne le ferai pas – mais étant donné les circonstances
-– cette fois où Draco m'a lancé un sortilège de torture, est-ce une
+– cette fois où Drago m'a lancé un sortilège de torture, est-ce une
 dette suffisante pour…"
 
 "Non," dit le vieux sorcier (au moment même où elle lâchait un "Quoi ?"
 et où Severus soulevait un sourcil). "Cela n'aurait pas suffit, et ce
 n'est plus une dette du tout. Tu es un Occlumens et tu ne peux pas
-témoigner sous Veritaserum. Draco Malfoy pourrait être purgé de son
+témoigner sous Veritaserum. Drago Malfoy pourrait être purgé de son
 souvenir de l'événement avant de pouvoir témoigner…" Albus hésita.
-"Harry… quoi que tu aies fait avec Draco, tu dois partir du principe que
+"Harry… quoi que tu aies fait avec Drago, tu dois partir du principe que
 Lucius Malfoy sera bientôt au courant."
 
 La tête de Harry plongea dans ses mains. "Il va donner du Veritaserum à
-Draco."
+Drago."
 
 "Oui," dit doucement Albus.
 
 Le Survivant ne dit rien, assit, la tête entre les mains.
 
-Le maître des potions avait l'air sincèrement abasourdi. "Draco essayait
+Le maître des potions avait l'air sincèrement abasourdi. "Drago essayait
 *vraiment* d'aider Mlle Granger," dit-il. "Vous… Potter, vous l'avez
 *vraiment*…"
 
@@ -503,7 +503,7 @@ entre ses mains. "Il a pris deux de nos pièces d'un seul… non. J'aurais
 dû le voir plus tôt. Il a pris deux des pièces de *Harry* d'un seul
 coup. Voldemort a recommencé son jeu, pas contre moi mais contre
 *Harry*. Voldemort connaît la prophétie, il sait qui sera son dernier
-ennemi. Il n'attend pas d'avoir à faire face à Hermione Granger et Draco
+ennemi. Il n'attend pas d'avoir à faire face à Hermione Granger et Drago
 Malfoy aux côtés de Harry lorsqu'ils auront grandi. Il s'en prend à eux
 *maintenant*."
 
@@ -700,7 +700,7 @@ Avec moi, maintenant !"
 Il y eut un hoquet collectif et lorsque Fred et George eurent commencé à
 descendre l'échelle à la suite du directeur, toute la classe spéculait
 déjà sur le rôle qu'ils avaient joué dans la tentative de meurtre à
-l'encontre de Draco Malfoy.
+l'encontre de Drago Malfoy.
 
 La trappe venait à peine de se refermer au-dessus d'eux que tous les
 sons environnants diminuèrent, le vieux sorcier pivota, tendit une main
@@ -752,7 +752,7 @@ yeux et les regarda tous les deux d'un regard sévère. "Je vous la
 rendrai plus tard, fils des Weasley. Retournez en cours."
 
 "Oui, M. le directeur," dirent-ils, et il hésitèrent. "Ah… à propos de
-Hermione Granger, va-t-elle vraiment devoir servir Draco pour toujours
+Hermione Granger, va-t-elle vraiment devoir servir Drago pour toujours
 comme sa…"
 
 "*Partez*," dit le vieux sorcier.
@@ -940,11 +940,11 @@ plus fort que Mandy.
 
 Padma regardait son assiette.
 
-Draco était le général de son armée.
+Drago était le général de son armée.
 
 Hermione était la fondatrice de la SPEHS.
 
-Draco lui avait fait confiance, l'avait nommée commandante en second.
+Drago lui avait fait confiance, l'avait nommée commandante en second.
 
 Hermione était Serdaigle, comme elle.
 
@@ -976,7 +976,7 @@ professeurs, mais cette fois, cela n'attira le regards que de quelques
 "Je voulais déjeuner," dit Harry Potter, "et retourner à mon enquête,
 donc je ne comptais pas parler. Mais vous vous comportez tous comme des
 *idiots* et quand la vérité éclatera vous regretterez ce que vous avez
-dit au sujet de gens innocents. Draco n'a rien fait, Hermione n'a rien
+dit au sujet de gens innocents. Drago n'a rien fait, Hermione n'a rien
 fait, ils ont tous les deux été victimes d'une sortilège de faux
 souvenirs !" La voix de Harry Potter s'était élevée sur ces derniers
 mots. "*Comment est-ce que ça peut ne pas CREVER LES YEUX ?"*
@@ -1097,7 +1097,7 @@ une seule journée.
 Harry avait parlé à tous les amis de Hermione qui acceptaient encore de
 lui parler et aucun d'eux ne se souvenait avoir entendu Hermione dire
 quoi que ce soit de précis quant à la raison pour laquelle elle croyait
-que Draco complotait contre elle.
+que Drago complotait contre elle.
 
 Le professeur Quirrell n'était pas revenu du ministère à l'heure du
 dîner. Les élèves plus âgés semblaient penser que le professeur de

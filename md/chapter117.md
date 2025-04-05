@@ -130,7 +130,7 @@ compter parmi les victimes…"
 non non non non non non NON NON NON NON
 
 Comme attirés par un horrible aimant, les yeux de Harry se fixèrent sur
-l'image d'horreur absolue qu'était le visage de Draco Malfoy alors même
+l'image d'horreur absolue qu'était le visage de Drago Malfoy alors même
 que le coton réconfortant qui enveloppait les pensées de Harry était
 arraché comme du tissu.
 
@@ -146,9 +146,9 @@ Daniel Gibson. Jason Gross. Elsie Ambrose…"
 
 *Peut-être que Lucius a compris, peut-être qu'il a été assez malin pour
 ne pas venir, peut-être qu'il a compris que c'était Voldemort qui s'en
-était pris à Draco…*
+était pris à Drago…*
 
-"… Theodore Nott. Vincent Crabbe. Gregory Goyle. Draco Malfoy. C'est
+"… Theodore Nott. Vincent Crabbe. Gregory Goyle. Drago Malfoy. C'est
 tout."
 
 Un élève de Gryffondor poussa un cri de joie et fut immédiatement giflé
@@ -168,13 +168,13 @@ potions, même si elle était faible, le Serpentard se tut. "Robert. Le
 Seigneur des Ténèbres a tué votre père."
 
 Robert Jugson poussa un cri de furie terrifiée et se rua hors de la
-salle ; Draco se replia sur lui-même comme une maison qui s'écroule et
+salle ; Drago se replia sur lui-même comme une maison qui s'écroule et
 émit des sons que personne n'entendit parce les bavardages avaient déjà
 commencé.
 
 Harry se leva à moitié et s'arrêta
 
-qu'est-ce que tu dirais à Draco il n'y a rien à lui dire tu ne peux pas
+qu'est-ce que tu dirais à Drago il n'y a rien à lui dire tu ne peux pas
 aller le voir faire semblant d'être son ami
 
 tu veux arranger les choses améliorer les choses mais tu ne peux pas
@@ -182,7 +182,7 @@ c'est impossible qu'est-ce que tu lui as fait qu'est-ce que tu as fait à
 Vincent à Gregory qu'est-ce que tu as fait à Theodore
 
 Le monde devant Harry se brouilla, il vit à peine Padma Patil se lever,
-s'avancer vers la table Serpentard et vers Draco, Seamus s'avancer vers
+s'avancer vers la table Serpentard et vers Drago, Seamus s'avancer vers
 Theodore.
 
 Et parce qu'il avait lu les livres de science-fiction et de fantasy et
@@ -219,7 +219,7 @@ d'une rapide vérification des conséquences à long terme de son acte, au
 cas où elles auraient été catastrophiques, et lors de la découverte que
 ces conséquences seraient plutôt bienvenues. Et cette vérification avait
 oublié que les Mangemorts avaient des enfants à Poudlard et que l'un
-d'eux ressemblait beaucoup au père de Draco. Cela n'aurait rien changé.
+d'eux ressemblait beaucoup au père de Drago. Cela n'aurait rien changé.
 Cela n'aurait rien changé du tout. Mais, avec seulement quelques
 secondes pour agir, c'était là tout ce que l'esprit de Harry avait
 calculé.

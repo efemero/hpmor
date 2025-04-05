@@ -259,7 +259,7 @@ aurait eu des ratés, mais il ne voyait vraiment pas comment ça pourrait
 
  
 
-L'annonce que Draco Malfoy avait failli être mangé par quelque horreur
+L'annonce que Drago Malfoy avait failli être mangé par quelque horreur
 avait suffit à faire revenir Dumbledore du lieu inconnu où il était
 parti, à réveiller Lord Malfoy ainsi que le beau mari de Lady Greengrass
 et à faire venir Amelia Bones. La supposée présence de l'horreur avait
@@ -301,7 +301,7 @@ venir la police, et les responsables devraient être renvoyés.
 dans l'espoir que quelque chose d'horrible lui arriverait, parce qu'il
 pensait que le père de l'enfant avait tué son chat. Il n'a pas semblé
 avoir été alarmé par la présence des trois autres enfants en compagnie
-de Draco. J'aurais bien requis une peine de prison, mais dans ce pays,
+de Drago. J'aurais bien requis une peine de prison, mais dans ce pays,
 votre concept de prison, c'est Azkaban. Je noterais aussi que Rusard
 était remarquablement déplaisant envers les enfant de Poudlard et je
 m'attends à ce que l'indice hédonique de l'école augmente suite à son
@@ -334,7 +334,7 @@ passage, n'aura donc pas lieu non plus.
 Harry dit lentement : "Mais… vous nous avez dit que M. Hagrid avait un
 angle mort lorsqu'il s'agissait des menaces que les créatures magiques
 pouvaient poser aux sorciers. Que M. Hagrid a un déficit cognitif et
-qu'il n'a pas la capacité d'imaginer Draco ou Tracey en train de
+qu'il n'a pas la capacité d'imaginer Drago ou Tracey en train de
 souffrir, et que c'est pour cela que M. Hagrid n'a pas trouvé
 problématique de les laisser seuls, dans la Forêt interdite, de nuit.
 N'est-ce pas ?"

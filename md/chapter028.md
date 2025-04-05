@@ -199,7 +199,7 @@ dit Harry en essayant de mettre une note de défi dans sa voix. Pour être
 honnête, il sentait une partie de la fatigue de Hermione. Aucune des
 *bonnes* idées ne fonctionnaient jamais. Il avait fait une seule
 découverte qui mérite d'être mentionnée, le motif Mendélien, et il ne
-pouvait pas en parler à Hermione sans briser sa promesse envers Draco.
+pouvait pas en parler à Hermione sans briser sa promesse envers Drago.
 
 "Non," dit Hermione. Son jeune visage semblait très sérieux et très
 adulte. "Je veux dire que pour l'instant on devrait *étudier* toute la
@@ -411,7 +411,7 @@ Très bien. Suivant sur la liste.
 On pouvait uniquement transformer les objets dans leur intégralité. On
 ne pouvait pas transformer la *moitié* d'une allumette en épingle, il
 fallait métamorphoser *l'objet entier*. Quand Harry s'était retrouvé
-enfermé dans cette salle par Draco, ça avait été la raison pour laquelle
+enfermé dans cette salle par Drago, ça avait été la raison pour laquelle
 il n'avait pas pu juste métamorphoser en éponge un coupe cylindrique des
 murs et percer un trou dans la pierre assez large pour passer au travers
 de celui-ci. Il aurait fallu imposer une nouvelle forme au mur dans son

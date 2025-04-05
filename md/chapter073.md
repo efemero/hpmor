@@ -94,7 +94,7 @@ plausible, contrairement à ce que Daphné Greengrass en pense, qu'il
 essaie vraiment de montrer un voie meilleure à Serpentard. On devrait…
 on devrait vraiment essayer de suivre son mouvement, Hermione."*
 
-(Bon, Harry semblait penser que Draco Malfoy était un type bien. Mais le
+(Bon, Harry semblait penser que Drago Malfoy était un type bien. Mais le
 problème, c'était que Harry avait aussi tendance à faire confiance au
 professeur Quirrell).
 

@@ -81,7 +81,7 @@ apparaître une baguette de sous ses robes. La main de Daphné se resserra
 sur la sienne, mais elle reconnut alors la position des doigts, la
 posture que la silhouette adoptait, et elle inspira soudain…
 
-"*Expecto Patronum*," dit clairement Draco Malfoy.
+"*Expecto Patronum*," dit clairement Drago Malfoy.
 
 Une lumière d'argent bondit de l'extrémité de la baguette de Malfoy - et
 se condensa pour former un serpent de lumière qui parut se lover en
@@ -89,7 +89,7 @@ l'air, comme s'il se reposait là.
 
 Elle en fut bouche bée.
 
-"J'ai *vraiment* essayé d'aider Hermione Granger," dit Draco Malfoy
+"J'ai *vraiment* essayé d'aider Hermione Granger," dit Drago Malfoy
 d'une voix neutre. "Parce que je connais la maladie qui ronge le cœur de
 la maison Serpentard, la raison pour laquelle nous sommes si nombreux à
 ne plus pouvoir lancer le Patronus. C'est notre haine. Les gens
@@ -102,7 +102,7 @@ L'esprit de Daphné était comme assommé. Ses yeux vérifièrent
 nerveusement l'espace sous les portes pour vérifier que du sang n'en
 sortait pas, comme la dernière fois que Quelque Chose s'était Brisé.
 
-"Et j'ai aussi compris," dit doucement Draco Malfoy, alors que le
+"Et j'ai aussi compris," dit doucement Drago Malfoy, alors que le
 serpent d'argent continuait de briller de sa lumière et de son
 indéniable chaleur, "que Hermione Granger n'a jamais vraiment essayé de
 me tuer. Peut-être qu'elle a subit un sortilège de faux souvenirs,
@@ -115,7 +115,7 @@ principale."
 Daphné se brisa. Si Lucius Malfoy entendait que son fils avait dit ça il
 *l'écorcherait* et il en ferait un *pantalon* !
 
-Draco Malfoy sourit, sa robe métallique scintillante sous la lumière de
+Drago Malfoy sourit, sa robe métallique scintillante sous la lumière de
 son Patronus complet ; c'était un sourire à la fois arrogant et
 dangereux, comme si s'inquiéter qu'on puisse le transformer en un
 pantalon de cuir était indigne de lui. "Oui," dit-il, "mais ça n'a plus
@@ -129,11 +129,11 @@ pourrait alors se réveiller de ce rêve.
 robes étincelantes. "Pour tous ceux à Serpentard capables de lancer le
 Patronus et tous ceux capables de l'apprendre. C'est grâce à cela que
 nous pourrons nous faire confiance quand nous nous retrouverons entre
-Serpentards Scintillants." D'un geste théâtral, Draco Malfoy releva sa
+Serpentard Scintillants." D'un geste théâtral, Drago Malfoy releva sa
 capuche. "Mais ça ne marchera pas sans *toi*, Daphné Greengrass. Toi et
 ta famille. Ta mère négociera cela avec Père, mais je voudrais que les
 Greengrass entendent d'abord la proposition de ta bouche." La voix de
-Draco Malfoy devint plus basse, plus sinistre. "Nous avons beaucoup à
+Drago Malfoy devint plus basse, plus sinistre. "Nous avons beaucoup à
 nous dire avant le dîner."
 
  
@@ -237,7 +237,7 @@ auprès du directeur.
 Peu de temps après que les desserts eurent disparus, un élève se leva de
 la table Serpentard et s'avança rapidement, non pas vers la grande table
 mais vers le mur opposé aux quatre tables de Poudlard. Quelques murmures
-s'élevèrent à la vue des cheveux blond-blanc coupés court lorsque Draco
+s'élevèrent à la vue des cheveux blond-blanc coupés court lorsque Drago
 Malfoy se tint à ce qui avait été l'arrière des tables et regarda
 Poudlard en silence. Il n'avait presque rien dit depuis son retour
 surprise et avait été encore moins vu. Le Serpentard n'avait daigné ni
@@ -245,7 +245,7 @@ confirmer ni nier qu'il était revenu parce que, une fois Hermione
 Granger tuée par la famille de ce dernier, il n'avait plus rien à
 craindre.
 
-Puis Draco Malfoy prit une cuillère dans une main, un verre d'eau dans
+Puis Drago Malfoy prit une cuillère dans une main, un verre d'eau dans
 l'autre, et commença à taper le verre avec la cuillère, produisant ainsi
 un clair tintement.
 
@@ -254,17 +254,17 @@ différents professeurs regardèrent avec perplexité le directeur assit
 dans sa grande chaise, mais il ne leur fit aucun signe, et les
 professeurs ne firent donc rien.
 
-Draco Malfoy continua de taper le verre de sa cuillère jusqu'à ce que la
+Drago Malfoy continua de taper le verre de sa cuillère jusqu'à ce que la
 pièce se taise et attende.
 
 Puis un autre élève se leva de la table Serdaigle et s'avança jusqu'à
-Draco Malfoy avant de se retourner pour faire face à Poudlard à son
+Drago Malfoy avant de se retourner pour faire face à Poudlard à son
 côté. Des souffles furent coupés par l'ébahissement ; il était
 impossible que ces deux-là soient aujourd'hui autre chose que les pires
 de tous les ennemis.
 
 "Moi et mon Père, le Lord de la noble et très ancienne maison Malfoy,"
-dit Draco Malfoy d'une voix claire, "nous sommes rendus compte que des
+dit Drago Malfoy d'une voix claire, "nous sommes rendus compte que des
 forces néfastes sont à l'œuvre à Poudlard. Que ces forces néfastes
 souhaitaient clairement nuire à Hermione Granger. Que Hermione Granger a
 peut-être été forcée, contre sa volonté propre, à lever sa baguette
@@ -286,12 +286,12 @@ Puis Harry Potter commença à repartir vers la table Serdaigle et, face à
 cette réalité fracturée, un bavardage explosa, né de la plus pure, de la
 plus profonde des confusions.
 
-Draco Malfoy recommença à taper sa cuillère contre son verre d'eau,
+Drago Malfoy recommença à taper sa cuillère contre son verre d'eau,
 produisant un clair tintement, jusqu'à ce que la pièce se taise une fois
 de plus.
 
 Et d'autres élèves se levèrent, venus d'autres tables, et s'avancèrent
-jusqu'à Draco Malfoy, se placèrent à côté de lui, derrière lui ou devant
+jusqu'à Drago Malfoy, se placèrent à côté de lui, derrière lui ou devant
 lui.
 
 Il y avait un terrible silence dans la grande salle, le sentiment d'un
@@ -303,7 +303,7 @@ ma mère, la Dame de la Noble et très Ancienne Maison de Greengrass," dit
 Daphné Greengrass.
 
 "Et mon patriarche, Charles, de la maison Nott," dit l'ancien lieutenant
-Nott, autrefois Théodore du Chaos, à présent derrière Draco Malfoy.
+Nott, autrefois Théodore du Chaos, à présent derrière Drago Malfoy.
 
 "Et ma grande-tante, Amélia, de la maison Bones, aussi directrice du
 département de justice magique," dit Susan Bones, qui se tenait contre
@@ -353,7 +353,7 @@ mission. Ils se déployèrent immédiatement, deux à chacune des quatre
 tables et le dernier en garde à côté de la grande tables. Il y eut
 d'autres hoquets de stupeur.
 
-"Troisième décret !" dit Draco Malfoy d'une voix impérieuse. Malfoy
+"Troisième décret !" dit Drago Malfoy d'une voix impérieuse. Malfoy
 semblait avoir mémorisé son discours puisque Daphné ne pouvait rien voir
 d'écrit sur sa main. "Face à un ennemi commun qui ne recule pas devant
 le meurtre d'élèves, quelle que soit leur maison, les quatre maisons de
@@ -406,7 +406,7 @@ toujours menaçant.
 "Mais nous savons qui l'ennemi attaque," dit Susan, aussi féroce que
 lorsqu'elle avait battu trois élèves de septième année.
 
-"L'ennemi attaque les élèves de Poudlard," dit Draco Malfoy d'une voix
+"L'ennemi attaque les élèves de Poudlard," dit Drago Malfoy d'une voix
 claire et impérieuse, comme si tout ceci était pour lui une seconde
 nature.
 

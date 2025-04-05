@@ -1,10 +1,10 @@
 # Gratification différée
 
-Draco arborait une expression sévère, et ses robes à bordures vertes
+Drago arborait une expression sévère, et ses robes à bordures vertes
 semblaient être plus solennelles, bien plus sérieuses et bien mieux
 coupées que celles portées par les deux garçons derrière lui.
 
-"Parle," dit Draco.
+"Parle," dit Drago.
 
 "Ouais ! Parle !"
 
@@ -26,17 +26,17 @@ récupéré, mais…
 moment de détente.
 
 Harry s'enfonça dans sa chaise et octroya un regard d'une grande
-solennité à Draco et à ses laquais.
+solennité à Drago et à ses laquais.
 
 "Vous demandez notre but ?" déclama Harry. "Je puis répondre par un mot.
 C'est la victoire. La victoire à tout prix - la victoire au prix de
 toutes les terreurs - la victoire, aussi longue et difficile que puisse
 être la route, car sans victoire il n'est point de -"
 
-"*Parle-moi de Rogue*," siffla Draco. "*Qu'est-ce que tu as fait ?*"
+"*Parle-moi de Rogue*," siffla Drago. "*Qu'est-ce que tu as fait ?*"
 
 Harry se débarrassa de sa fausse solennité et jeta un regard plus
-sérieux à Draco.
+sérieux à Drago.
 
 "Tu l'as vu," dit Harry. "Tout le monde l'a vu. J'ai claqué des doigts."
 
@@ -49,52 +49,52 @@ sentir mal s'il n'y répondait pas d'une façon ou d'une autre…
 Harry se tapota les oreilles et jeta un regard lourd de sens en
 direction des laquais.
 
-"Ils ne parleront pas," dit Draco.
+"Ils ne parleront pas," dit Drago.
 
-"Draco," dit Harry, "je vais être cent pour cent honnête et te dire que,
+"Drago," dit Harry, "je vais être cent pour cent honnête et te dire que,
 hier, je n'ai pas été particulièrement impressionné par la fourberie de
 M. Goyle."
 
 M. Goyle fit la grimace.
 
-"Moi non plus," dit Draco. "Je lui ai expliqué que j'avais fini par te
+"Moi non plus," dit Drago. "Je lui ai expliqué que j'avais fini par te
 devoir une faveur à cause de ça." (M. Goyle fit de nouveau la grimace)
 "Mais il y *a* une grande différence entre ce genre d'erreur et
 l'indiscrétion. On les a vraiment entraînés à comprendre ça depuis leur
 enfance."
 
 "Alors très bien," dit Harry. Il baissa la voix même si le bruit ambiant
-était déjà devenu flou en présence de Draco. "Je suis parvenu à déduire
+était déjà devenu flou en présence de Drago. "Je suis parvenu à déduire
 l'un des secrets de Severus et je lui ai fait un peu de chantage."
 
-Le visage de Draco se durcit. "Bon, maintenant dis-moi quelque chose que
+Le visage de Drago se durcit. "Bon, maintenant dis-moi quelque chose que
 tu n'as pas confié en stricte confidence aux idiots de Gryffondor, c'est
 à dire l'histoire que tu *voulais* voir répandue dans l'école."
 
-Harry sourit involontairement, et il sut que Draco l'avait remarqué.
+Harry sourit involontairement, et il sut que Drago l'avait remarqué.
 
 "Que dit Severus ?" dit Harry.
 
 "Qu'il ne s'était pas rendu compte à quel point les émotions des jeunes
-enfants étaient sensibles," dit Draco. "Même aux Serpentard ! Même à
+enfants étaient sensibles," dit Drago. "Même aux Serpentard ! Même à
 *moi* !"
 
 "Es-tu certain," dit Harry, "de vouloir savoir quelque chose que même le
 Directeur de ta Maison préférerait te voir ignorer ?"
 
-"Oui," dit Draco sans hésitation.
+"Oui," dit Drago sans hésitation.
 
 *Intéressant*. "Alors tu vas vraiment commencer par renvoyer tes
 laquais, parce que je ne suis pas certain de pouvoir croire tout ce que
 tu dis à leur sujet."
 
-Draco hocha la tête. "D'accord."
+Drago hocha la tête. "D'accord."
 
 M. Crabbe et M. Goyle avaient l'air *vraiment* mécontents. "Patron -"
 dit M. Crabbe.
 
 "Vous n'avez donné aucune raison à M. Potter de vous faire confiance,"
-dit Draco. "Partez !"
+dit Drago. "Partez !"
 
 Ils s'en furent.
 
@@ -102,15 +102,15 @@ Ils s'en furent.
 pas *entièrement* certain qu'ils ne rapporteraient pas ce que je dis à
 Lucius."
 
-"Père ne *ferait* pas ça !" dit Draco, l'air vraiment horrifié. "Ils
+"Père ne *ferait* pas ça !" dit Drago, l'air vraiment horrifié. "Ils
 sont à *moi* !"
 
-"Je suis désolé, Draco," dit Harry. "Je ne suis pas certain de pouvoir
+"Je suis désolé, Drago," dit Harry. "Je ne suis pas certain de pouvoir
 croire tout ce que tu crois au sujet de ton père. Imagine que c'était
 ton secret, et que je te disais que mon père ne ferait pas une chose
 pareille."
 
-Draco hocha lentement la tête. "Tu as raison. *Je suis* désolé, Harry.
+Drago hocha lentement la tête. "Tu as raison. *Je suis* désolé, Harry.
 J'avais tort de te demander ça."
 
 *Comment ai-je fait pour être autant promu ? Ne devrait-il pas me
@@ -131,12 +131,12 @@ ne poserait pas de problème même si ça se savait… "Ce que j'ai dit était
 vrai. J'ai découvert l'un des secrets de Severus, et j'ai fait un peu de
 chantage. Mais Severus n'était pas la seule personne impliquée."
 
-"*Je le savais* !" dit Draco, exultant.
+"*Je le savais* !" dit Drago, exultant.
 
 L'estomac de Harry se serra. Il avait apparemment dit quelque chose de
 très important et il ne savait pas pourquoi. Ce n'était pas bon signe.
 
-"Très bien," dit Draco. Il avait maintenant un grand sourire sur le
+"Très bien," dit Drago. Il avait maintenant un grand sourire sur le
 visage. "Alors voilà à quoi ressemblait la réaction à Serpentard.
 D'abord, tous les idiots étaient là, 'On déteste Harry Potter ! Allons
 lui mettre une raclée !'"
@@ -144,7 +144,7 @@ lui mettre une raclée !'"
 Harry s'étouffa. "Qu'est ce qui *cloche* avec le Choixpeau Magique ? Ce
 n'est pas du Serpentard, c'est du *Gryffondor* -"
 
-"Tous les enfants ne sont pas des prodiges," dit Draco, mais il souriait
+"Tous les enfants ne sont pas des prodiges," dit Drago, mais il souriait
 d'un air vilain et conspirateur comme pour sous-entendre qu'en son for
 intérieur il était d'accord avec Harry. "Et ça a pris à peu près quinze
 secondes pour leur expliquer en quoi ce ne serait pas vraiment faire une
@@ -167,7 +167,7 @@ Severus ne s'était pas fait renvoyer. Et ils en avaient conclu que
 Severus faisait chanter Dumbledore. Cela pouvait-il être vrai ? Mais
 Dumbledore n'avait pas semblé agir comme si c'était le cas…
 
-Draco continua de parler. "Et ce que les gens intelligents ont *ensuite*
+Drago continua de parler. "Et ce que les gens intelligents ont *ensuite*
 fait remarquer, c'était que si tu pouvais mettre assez de pression sur
 Rogue pour le forcer à laisser tranquille la moitié de Poudlard, alors
 ça voulait dire que tu avais probablement assez de pouvoir pour te
@@ -177,7 +177,7 @@ mais tu nous as laissé notre Directeur de Maison."
 
 Harry laissa son sourire grandir.
 
-"Et alors les gens *vraiment* intelligents," dit Draco, le visage
+"Et alors les gens *vraiment* intelligents," dit Drago, le visage
 maintenant sérieux, "sont partis, et ils ont eu une petite discussion
 privée juste entre eux, et quelqu'un a fait remarquer que ce serait très
 stupide de laisser un ennemi dans les parages comme ça. Si tu avais pu
@@ -191,7 +191,7 @@ Le visage de Harry était à présent neutre. Il n'avait pas pensé à ça et
 il aurait vraiment, vraiment dû. "Et de ça tu as conclu…?"
 
 "L'emprise de Rogue vient d'un secret de Dumbledore et *tu as ce
-secret* !" Draco exultait. "Il ne peut pas être assez puissant pour
+secret* !" Drago exultait. "Il ne peut pas être assez puissant pour
 totalement détruire Dumbledore, sinon Rogue l'aurait déjà utilisé. Rogue
 refuse d'utiliser son emprise pour autre chose que de rester roi de
 Serpentard, et même là il n'obtient pas toujours ce qu'il veut, alors ça
@@ -201,7 +201,7 @@ Père essaie de le tirer du nez de Rogue depuis des *années* !"
 "Et," dit Harry, "maintenant Lucius pense que *je* peux le lui dire.
 As-tu déjà envoyé une chouette -"
 
-"Je le ferai ce soir," dit Draco, et il rit. "La réponse dira," sa voix
+"Je le ferai ce soir," dit Drago, et il rit. "La réponse dira," sa voix
 prit une cadence différente, plus formelle, "*Mon fils bien-aimé : je
 t'ai déjà parlé de l'importance potentielle de Harry Potter. Comme tu
 t'en es déjà rendu compte, celle-ci est à présent devenue plus grande et
@@ -213,7 +213,7 @@ Eh ben. "Alors," dit Harry, "sans commenter sur la véracité de l'édifice
 compliqué qu'est ta théorie, laisse-moi juste dire que nous ne sommes
 pas encore de si bons amis que ça."
 
-"Je sais," dit Draco. Puis son visage devint *très* sérieux, et sa voix
+"Je sais," dit Drago. Puis son visage devint *très* sérieux, et sa voix
 fut difficile à entendre, même dans ce flou sonore. "Harry, t'est-il
 venu à l'esprit que si tu sais quelque chose que Dumbledore ne souhaite
 pas que tu saches, Dumbledore peut simplement te faire exécuter ? Et ça
@@ -223,14 +223,14 @@ potentiel à celui de martyr de valeur."
 "Pas de commentaire," dit de nouveau Harry. Il n'avait pas pensé à ça
 non plus. Ça ne *ressemblait* pas au style de Dumbledore… mais…
 
-"Harry," dit Draco, "tu as clairement un talent *incroyable*, mais tu
+"Harry," dit Drago, "tu as clairement un talent *incroyable*, mais tu
 n'as aucun entraînement et pas de mentors et tu fais parfois des choses
 stupides et *tu as vraiment besoin d'un conseiller qui sait s'y prendre
-ou tu vas te faire mal !"* Le visage de Draco était plein de ferveur.
+ou tu vas te faire mal !"* Le visage de Drago était plein de ferveur.
 
 "Ah," dit Harry. "Un conseiller, comme Lucius ?"
 
-"Comme *moi* !" dit Draco. "Je promets de garder tes secrets à l'abri de
+"Comme *moi* !" dit Drago. "Je promets de garder tes secrets à l'abri de
 Père, à l'abri de *tout le monde*, je t'aiderai juste à accomplir ce que
 tu veux accomplir !"
 
@@ -238,14 +238,14 @@ Wow.
 
 Harry vit zombie-Quirrell passer les portes de la salle en titubant.
 
-"Le cours est sur le point de commencer," dit Draco, "c'est trop tôt. Tu
+"Le cours est sur le point de commencer," dit Drago, "c'est trop tôt. Tu
 vois ? Je te donne des bons conseils même si ça me dessert. Mais on
 devrait peut-être *se dépêcher* de devenir des amis plus proches."
 
 "Je suis ouvert à ça," dit Harry, qui essayait déjà de trouver un moyen
 d'exploiter cette possibilité.
 
-"Un autre conseil," dit Draco en vitesse tandis que Quirrell traînait
+"Un autre conseil," dit Drago en vitesse tandis que Quirrell traînait
 des pieds jusqu'à son bureau, "pour l'instant tout le monde à Serpentard
 se pose des questions à ton sujet, alors si tu nous fais la cour, comme
 je pense que tu es en train de le faire, tu devrais faire quelque chose
@@ -256,13 +256,13 @@ demain."
 Serpentard n'a pas suffi ?" Aucune raison pour que Harry ne s'attribue
 pas le mérite de ça.
 
-Les yeux de Draco tressaillirent au moment où il comprit, puis il dit
+Les yeux de Drago tressaillirent au moment où il comprit, puis il dit
 rapidement : "Ce n'est pas pareil, crois-moi, ça doit être quelque chose
 d'évident. Pousse ta rivale sang-de-bourbe Granger dans un mur ou
 quelque chose du style, tout le monde à Serpentard comprendra ce que ça
 veut dire -"
 
-"Ce n'est *pas* comme ça que Serdaigle fonctionne, Draco ! Si tu dois
+"Ce n'est *pas* comme ça que Serdaigle fonctionne, Drago ! Si tu dois
 pousser quelqu'un contre un mur, ça veut dire que ton cerveau est trop
 *faible* pour le vaincre comme il se doit, et tout le monde à Serdaigle
 *sait ça* -"
@@ -293,20 +293,20 @@ Le regard du professeur Quirrell parcourut la rangée de sièges. Harry
 grimaça depuis son siège dans la dernière rangée. Il avait l'impression
 de savoir qui allait être appelé.
 
-"Draco, de la Noble et Ancienne Maison de Malfoy," dit le professeur
+"Drago, de la Noble et Ancienne Maison de Malfoy," dit le professeur
 Quirrell.
 
 Pfiou.
 
-"Oui, professeur ?" dit Draco. Sa voix était amplifiée et semblait venir
+"Oui, professeur ?" dit Drago. Sa voix était amplifiée et semblait venir
 de l'écran-relais sur le pupitre de Harry qui montrait le visage de
-Draco en train de parler. Puis l'écran revint au professeur Quirrell,
+Drago en train de parler. Puis l'écran revint au professeur Quirrell,
 qui dit :
 
 "Est-ce votre ambition que de devenir le prochain Seigneur des
 Ténèbres ?"
 
-"C'est une drôle de question, professeur," dit Draco. "Je veux dire, qui
+"C'est une drôle de question, professeur," dit Drago. "Je veux dire, qui
 serait assez stupide pour admettre ça ?"
 
 Quelques étudiants rirent, mais pas beaucoup.
@@ -753,25 +753,25 @@ forcer la conversation vers l'étroit chemin qui permettrait aux gens de
 se rendre compte qu'il n'était pas un Seigneur des Ténèbres après tout…
 *pourquoi* le professeur Quirrell était-il si suspicieux à son égard ?
 
-"Professeur," dit la voix non amplifiée de Draco. "Ce n'est pas non plus
+"Professeur," dit la voix non amplifiée de Drago. "Ce n'est pas non plus
 mon ambition que de devenir un Seigneur des Ténèbres stupide."
 
 Il y eut un silence choqué dans la salle.
 
 *Tu n'as pas à faire ça !* faillit lâcher Harry, mais il se maîtrisa à
-temps ; Draco ne souhaitait peut-être pas que l'on sache qu'il faisait
+temps ; Drago ne souhaitait peut-être pas que l'on sache qu'il faisait
 cela par amitié pour Harry… ou par désir d'avoir l'air amical…
 
 Appeler ça *désir d'avoir l'air amical* donna à Harry la sensation qu'il
-était petit et méchant. Si Draco avait eut l'intention de
+était petit et méchant. Si Drago avait eut l'intention de
 l'impressionner, ça marchait à la perfection.
 
-Le professeur Quirrell regardait Draco d'un air grave. "*Vous* avez peur
+Le professeur Quirrell regardait Drago d'un air grave. "*Vous* avez peur
 de ne pas pouvoir faire semblant de perdre, M. Malfoy ? Ce défaut qui
 décrit M. Potter vous décrit vous aussi ? Votre père vous a
 *certainement* mieux éduqué que ça."
 
-"Lorsqu'il s'agit de parler, peut-être," dit Draco, maintenant sur
+"Lorsqu'il s'agit de parler, peut-être," dit Drago, maintenant sur
 l'écran-relais. "Pas lorsqu'il s'agit d'être poussé en tous sens et
 projeté au sol. Je veux être au moins aussi fort que vous, professeur
 Quirrell."
@@ -786,7 +786,7 @@ comme M. Potter a échoué aujourd'hui, je ferais les préparatifs
 appropriés et m'excuserais auprès de vous et de toute personne que vous
 auriez blessée. Je ne pense cependant pas que cela sera nécessaire."
 
-"Je comprends, professeur," dit Draco.
+"Je comprends, professeur," dit Drago.
 
 Le professeur Quirrell regarda la classe. "Quelqu'un d'autre
 souhaite-t-il devenir fort ?"
@@ -795,7 +795,7 @@ Quelques étudiants regardèrent autour d'eux nerveusement. Certains,
 pensa Harry depuis le dernier rang, semblaient avoir ouvert leurs
 bouches, mais ils ne disaient rien. Personne ne se décida à parler.
 
-"Draco Malfoy sera l'un des généraux des armées de cette année," dit le
+"Drago Malfoy sera l'un des généraux des armées de cette année," dit le
 professeur Quirrell, "s'il daigne s'impliquer dans cette activité du
 soir. Et maintenant, M. Potter, merci de vous avancer."
 
@@ -1009,14 +1009,14 @@ des Serpentard plus âgés.
 "Et je crois que l'héritier de Malfoy a quelque chose qu'il aimerait
 aussi vous expliquer," conclut le professeur Quirrell.
 
-La voix de Draco commença à parler. Elle semblait aussi tranchante que
+La voix de Drago commença à parler. Elle semblait aussi tranchante que
 celle du professeur Quirrell, elle avait acquis la même cadence que
-celle que Draco utilisait pour imiter son père, et il disait des choses
+celle que Drago utilisait pour imiter son père, et il disait des choses
 telles que *aurait pu mettre en danger la Maison Serpentard* et *qui
 sait combien d'alliés dans cette école* et *absence totale de jugeote,
 sans parler de la ruse* et *pauvres voyous*, *seulement bons à faire des
 laquais* et quelque chose au fond du cerveau de Harry, en dépit de tout
-ce qu'il savait, désigna Draco comme étant un allié.
+ce qu'il savait, désigna Drago comme étant un allié.
 
 Harry avait mal partout, il était probablement contusionné, il avait
 froid, son esprit était complètement épuisé. Il essaya de penser à la
@@ -1024,7 +1024,7 @@ chanson de Fumseck, mais sans la présence du phénix, il n'arrivait pas à
 se souvenir de la mélodie, et quand il essaya de l'imaginer, il ne
 sembla pas capable de penser à autre chose qu'à un gazouillis d'oiseau.
 
-Puis Draco se tut et le professeur Quirrell dit aux Serpentard plus âgés
+Puis Drago se tut et le professeur Quirrell dit aux Serpentard plus âgés
 qu'ils étaient congédiés, et Harry ouvrit les yeux et eut du mal à se
 mettre en posture assise, "Attendez," dit Harry, forçant les mots à
 franchir ses lèvres, "il y a quelque chose… que je veux, leur dire, à
@@ -1102,7 +1102,7 @@ Harry ne pouvait pas dissimuler son air abasourdi. Il risqua un regard
 vers ses camarades et il vit leurs visages montrer non pas de la pitié
 mais de l'admiration. Les applaudissements venaient de Serdaigle et de
 Gryffondor et de Poufsouffle et même de Serpentard, probablement parce
-que Draco Malfoy applaudissait lui aussi. Certains étudiants se levaient
+que Drago Malfoy applaudissait lui aussi. Certains étudiants se levaient
 de leurs chaises et la moitié de Gryffondor se tenait sur ses pupitres.
 
 Alors Harry se tint là, chancelant, laissant le respect qu'ils
@@ -1154,7 +1154,7 @@ encore moins qu'il pouvait produire de bonnes suggestions.
 travers sa gorge brûlante. "Vous êtes tout ce qu'un membre de votre
 Maison devrait être, et je pense que vous devez être exactement ce que
 Salazar Serpentard avait à l'esprit lorsqu'il participa à la fondation
-de Poudlard. Je vous remercie, vous et votre Maison," Draco hochait la
+de Poudlard. Je vous remercie, vous et votre Maison," Drago hochait la
 tête très doucement et tournait légèrement l'un de ses doigts,
 *continue*, "et je pense que ça mérite trois acclamations pour
 Serpentard. Avec moi, tout le monde ?" Harry marqua une pause.
@@ -1163,7 +1163,7 @@ Serpentard. Avec moi, tout le monde ?" Harry marqua une pause.
 "*Huzzah* !" C'était presque tout Serdaigle, quelques Poufsouffle
 éparpillés, et près d'un quart de Gryffondor.
 
-La main de Draco leva son pouce d'un petit geste rapide.
+La main de Drago leva son pouce d'un petit geste rapide.
 
 La plupart des Serpentard affichaient des expressions de choc absolu.
 Quelques-uns fixaient le professeur Quirrell avec émerveillement. Blaise

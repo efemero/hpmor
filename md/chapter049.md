@@ -87,7 +87,7 @@ mythique d'une sorcière nommée la Dame des Écureuils Volants.
 
 Ce que Harry *voulait* faire, c'était en parler au professeur Quirrell.
 Le problème était que le professeur Quirrell était *trop malin*. À en
-juger par la réaction de Draco, cette histoire d'Héritier de Serpentard
+juger par la réaction de Drago, cette histoire d'Héritier de Serpentard
 était une bombe, et Harry n'était pas certain de vouloir mettre qui que
 ce soit d'autre au courant. Et au moment où Harry parlerait de
 Fourchelangue, le professeur Quirrell le fixerait de ses yeux bleu pâle
@@ -364,7 +364,7 @@ Harry souriait à présent, un sourire très maléfique. *Nouvelle
 priorité : Trouver tout ce qui à Poudlard ressemble de près ou de loin à
 un serpent et essayer de lui parler. En commençant avec tout ce que tu
 as déjà essayé, mais en parlant en Fourchelangue et pas en anglais -
-arranges-toi pour que Draco te laisse entrer dans les dortoirs
+arranges-toi pour que Drago te laisse entrer dans les dortoirs
 Serpentard -*
 
 "Ne vous réjouissez pas trop, M. Potter, dit le professeur Quirrell. Le

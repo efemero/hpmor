@@ -96,7 +96,7 @@ bancs rembourrés comme s'il se reposait et semblait parfaitement,
 naturellement à son aise en l'étouffante compagnie du quorum votant du
 conseil d'administration de Poudlard qui était passé par là en ce doux
 samedi pour apprendre quelles colleries pouvaient bien se dérouler à
-Poudlard en général et avec Draco Malfoy, Théodore Nott, Daphné
+Poudlard en général et avec Drago Malfoy, Théodore Nott, Daphné
 Greengrass, Susan Bones et Neville Londubat en particulier. Le nom de
 Harry Potter avait lui aussi été beaucoup mentionné.
 
@@ -266,7 +266,7 @@ inspectèrent le périmètre, observèrent les arbres alentours.
 
 "Susan ?" dit Hermione d'une petite voix après qu'elles se furent
 retrouvées plus loin des autres. "Est-ce que tu penses que Daphné a
-raison quand elle dit que Draco Malfoy manigance quelque chose ?"
+raison quand elle dit que Drago Malfoy manigance quelque chose ?"
 
 "Oui," répondit immédiatement Susan sans même y réfléchir. "C'est facile
 à savoir : il y a les lettres M, A, L, F, O et Y dans son nom de
@@ -298,33 +298,33 @@ Dans la zone de la forêt proche de Poudlard qui leur avait été assignée,
 le général Dragon et les guerriers de l'armée Dragon attendaient là où
 une flamme rouge les avait guidés sous le ciel gris.
 
-À la droite de Draco se tenait Padma Patil, sa commandante en second,
-qui avait un jour mené toute l'armée Dragon un jour où Draco s'était
+À la droite de Drago se tenait Padma Patil, sa commandante en second,
+qui avait un jour mené toute l'armée Dragon un jour où Drago s'était
 fait assommer. Derrière lui se trouvait Vincent, le fils des Crabbe, une
-famille qui avait servi les Malfoys depuis des temps oubliés. Le garçon
+famille qui avait servi les Malfoy depuis des temps oubliés. Le garçon
 musclé était vigilant, comme il l'était toujours, qu'une bataille ait
 été déclarée ou non. Plus loin en arrière, Grégory des Goyles se tenait
 à côté de l'un des deux balais qui avaient été fournis à l'armée
-Dragon ; et si les Goyles n'avaient pas servi les Malfoys aussi
+Dragon ; et si les Goyles n'avaient pas servi les Malfoy aussi
 longtemps que les Crabbes, ils ne l'avaient pas moins bien fait.
 
-À la gauche de Draco se tenait maintenant Dean Thomas de Gryffondor, un
+À la gauche de Drago se tenait maintenant Dean Thomas de Gryffondor, un
 Sang-de-Bourbe ou peut-être un Sang-Mêlé qui ignorait tout de son père.
 
 Envoyer Dean Thomas à l'armée Dragon avait été un geste délibéré de la
-part Harry, Draco en était certain. Trois autres anciens chaotiques
-avaient été transférés vers l'armée Dragon et ils scrutaient tous Draco
+part Harry, Drago en était certain. Trois autres anciens chaotiques
+avaient été transférés vers l'armée Dragon et ils scrutaient tous Drago
 pour voir s'il insultait l'ancien lieutenant de quelque façon que ce
 soit.
 
-Certains auraient appelé cela du sabotage, mais Draco n'était pas dupe.
+Certains auraient appelé cela du sabotage, mais Drago n'était pas dupe.
 Harry avait aussi envoyé le lieutenant Finnigan au régiment Soleil alors
 que le mandat du professeur Quirrell n'avait requis l'abandon que *d'un
 seul* lieutenant. Cela aussi avait été fait délibérément, dans le but de
 rendre parfaitement clair à tous que Harry ne se débarrassait *pas* des
 soldats qu'il aimait le moins.
 
-En un sens, il aurait pu être plus simple pour Draco de gagner la
+En un sens, il aurait pu être plus simple pour Drago de gagner la
 loyauté de ses nouveaux soldats si ceux-ci avaient cru que Harry ne
 voulait pas d'eux. Mais vu sous un autre angle… c'était difficile à
 exprimer en mots. Harry lui avait donné de bons soldats à l'amour-propre
@@ -334,13 +334,13 @@ seulement que Harry jouait franc jeu mais aussi un comportement qu'on…
 qu'on ne pouvait s'empêcher de mettre en opposition avec la façon dont
 le jeu se jouait au sein de Serpentard.
 
-Draco n'avait donc pas fait la plus petite insulte à M. Thomas mais
+Drago n'avait donc pas fait la plus petite insulte à M. Thomas mais
 l'avait plutôt positionné à ses côtés, le plaçant en dessous de lui et
-de Padma mais de personne d'autre. C'était un test, avait dit Draco à M.
+de Padma mais de personne d'autre. C'était un test, avait dit Drago à M.
 Thomas et aux autres, pas une promotion. M. Thomas devrait se montrer
 digne de son rang dans l'armée Dragon - mais il aurait sa chance,
 offerte avec bonne foi. M. Thomas avait semblé surpris par l'aspect
-cérémonieux de la chose (Draco avait entendu dire que la légion du Chaos
+cérémonieux de la chose (Drago avait entendu dire que la légion du Chaos
 n'appréciait pas les formalités) mais le Gryffondor s'était légèrement
 raidi et avait hoché la tête.
 
@@ -354,7 +354,7 @@ idée sur la façon de vaincre la légion du Chaos.
 Le Gryffondor avait joyeusement répondu que Harry avait prédit que le
 général Malfoy s'arrangerait pour que l'un des soldats de ce dernier lui
 pose la question et qu'il avait reçu du général Chaos un message disant
-que Draco devrait se demander quel était son avantage relatif, ce qu'il
+que Drago devrait se demander quel était son avantage relatif, ce qu'il
 pouvait faire ou ce que l'armée Dragon pouvait faire qui soit impossible
 à la légion du Chaos, puis de s'essayer à exploiter cet avantage au
 maximum. Dean Thomas n'avait aucune idée de ce que cet avantage pourrait
@@ -362,8 +362,8 @@ maximum. Dean Thomas n'avait aucune idée de ce que cet avantage pourrait
 lui venait, il leur en ferait part. Après tout, Harry lui avait ordonné
 de le faire.
 
-Puisqu'il était exclu qu'il le fasse haut et fort, Draco avait soupiré
-intérieurement. Mais le conseil était bon et Draco l'avait suivi, assis
+Puisqu'il était exclu qu'il le fasse haut et fort, Drago avait soupiré
+intérieurement. Mais le conseil était bon et Drago l'avait suivi, assis
 au bureau de sa chambre muni d'une plume et d'un parchemin, listant tout
 ce qui pourrait s'avérer constituer un avantage relatif.
 
@@ -418,13 +418,13 @@ Dragon comme elle lui aurait fait offrande d'un sacrifice.
 "mais il me faut croire qu'il a de bonnes raisons de le faire."
 
 Toute l'armée Dragon s'arrêta un instant lorsque Padma fit glisser le
-gant sur sa main gauche, attacha la sangle et le présenta à Draco Malfoy
+gant sur sa main gauche, attacha la sangle et le présenta à Drago Malfoy
 qui s'arrêta lui aussi, prit quelques profondes inspirations, leva sa
 baguette, exécuta huit mouvements précis et mugit : "*Collaporta !*"
 
 La guerrière Dragon leva alors sa main, fit jouer ses articulations et
-offrit un petit salut à Draco Malfoy qui lui en rendit un encore plus
-léger tout en chancelant un peu. Padma retourna alors au côté de Draco
+offrit un petit salut à Drago Malfoy qui lui en rendit un encore plus
+léger tout en chancelant un peu. Padma retourna alors au côté de Drago
 et les dragons se remirent en marche.
 
 "Alors," dit Augusta Londubat, "j'imagine que personne ne voudrait
@@ -432,7 +432,7 @@ expliquer… ?" Amelia Bones fronçait légèrement les sourcils en regardant
 l'écran.
 
 "Pour une raison ou une autre," dit la voix amusée du professeur
-Quirrell, "il semble que l'héritier des Malfoys est capable de manier
+Quirrell, "il semble que l'héritier des Malfoy est capable de manier
 une magie étonnamment puissante pour un élève de première année. À cause
 de la pureté de son sang, bien sûr. Lord Malfoy n'aurait certainement
 pas bafoué les lois sur la magie des mineurs en s'arrangeant pour que
@@ -474,7 +474,7 @@ fraîche.
 Le professeur Quirrell s'enfonça dans son siège et les pâles yeux bleus
 perdirent brièvement leur mise au point lorsque l'une des fenêtres
 changea de point de vue et zooma pour montrer la sueur qui se trouvait à
-présent sur le front de Draco. "C'est une idée si belle que M. Malfoy a
+présent sur le front de Drago. "C'est une idée si belle que M. Malfoy a
 négligé sa difficulté pratique."
 
 "Quelqu'un pourrait-il m'expliquer cela ?" dit Lady Greengrass. "Nous ne
@@ -725,25 +725,25 @@ Potter. Je n'ai pas pu les avoir ni perturber leur métamorphose, Tracey
 Davis m'a bloquée. Neville Londubat est sur un balais et il est toujours
 exécrable en vol mais il vise vraiment bien."
 
-Draco écouta, fronça les sourcils puis regarda vers Padma et Dean Thomas
+Drago écouta, fronça les sourcils puis regarda vers Padma et Dean Thomas
 qui secouaient tous les deux la tête, indiquant par là qu'ils n'avaient
 pas idée de ce qui pourrait être grand, gris et en forme de chaudron.
 
-"Autre chose ?" dit Draco. Si c'était tout, ils auraient perdu un balais
+"Autre chose ?" dit Drago. Si c'était tout, ils auraient perdu un balais
 pour rien -
 
 "L'autre chose étrange que j'ai vue," dit Gregory d'un ton perplexe,
 "c'était que certain chaotiques portaient… des sortes de lunettes ?"
 
-Draco y réfléchit sans remarquer qu'il avait cessé de marcher et que
+Drago y réfléchit sans remarquer qu'il avait cessé de marcher et que
 toute l'armée Dragon s'était automatiquement arrêtée avec lui.
 
 "Ces lunettes avaient-elles quoi que ce soit de spécial ?" demanda
-Draco.
+Drago.
 
 "Euh…" dit Gregory. "Elles étaient… verdâtres, peut-être ?"
 
-"D'accord," dit Draco. De nouveau sans s'en rendre compte, il recommença
+"D'accord," dit Drago. De nouveau sans s'en rendre compte, il recommença
 à marcher et ses dragons le suivirent. "Voilà notre nouvelle stratégie.
 Nous allons envoyer onze dragons contre la légion du Chaos, pas
 quatorze. Cela devrait suffire à les battre maintenant qu'on peut
@@ -756,7 +756,7 @@ considérablement surpris.
 
 "Que font-ils ?" demanda Padma.
 
-"Je n'en ai pas la moindre idée," dit Draco avec un sourire d'une
+"Je n'en ai pas la moindre idée," dit Drago avec un sourire d'une
 suffisance des plus raffinées. "Nous ferons juste ce qu'il y a de plus
 évident à faire."
 
@@ -1144,17 +1144,17 @@ camouflées et ternes des Soleil commençaient à apparaître entre les
 arbres lointains et pourtant personne ne parlait, personne ne mugissait
 de charger.
 
-Draco était maintenant en tête de ses soldats, Vincent derrière lui et
+Drago était maintenant en tête de ses soldats, Vincent derrière lui et
 Padma à peine plus loin en arrière ; si eux trois pouvaient soutenir
 l'impact des meilleurs de Soleil, le reste de l'armée Dragon avait
 peut-être une chance.
 
-Puis Draco vit une Soleil le regarder au loin, depuis l'avant-garde de
+Puis Drago vit une Soleil le regarder au loin, depuis l'avant-garde de
 sa propre armée, le regarder avec un air de furie -
 
 Leurs regards se croisèrent au-dessus du champ de bataille.
 
-Draco n'eut qu'une fraction de seconde pour s'interroger à demi
+Drago n'eut qu'une fraction de seconde pour s'interroger à demi
 consciemment sur ce qui pouvait avoir mis Hermione autant en colère
 avant que le cri ne s'élève dans leurs armées respectives ; et ils
 chargèrent alors tous, Hermione et lui placés sur une trajectoire qui
@@ -1322,7 +1322,7 @@ pratique de la magie."
 
  
 
-"*Expelliarmus !"* s'écria Draco en essayant d'empêcher sa voix de se
+"*Expelliarmus !"* s'écria Drago en essayant d'empêcher sa voix de se
 briser et en esquivant en même temps le jet rouge que Hermione Granger
 avait tiré vers lui. Ses muscles se tordirent pour bondir dans la
 mauvaise direction : elle avait pointé vers la gauche puis d'une
@@ -1330,12 +1330,12 @@ mystérieuse convulsion avait tiré vers la droite…
 
 Hermione évita le rapide sortilège de duelliste et s'écria sans s'être
 le moins du monde interrompue : "*Steleus !"*, un maléfice à effet de
-zone que Draco ne pouvait pas éviter, mais il réussit à diriger sa
+zone que Drago ne pouvait pas éviter, mais il réussit à diriger sa
 baguette vers son propre visage et à s'écrier "*Quiescus !"* avant que
 le besoin soudain d'inspirer de l'air ne se transforme en une quinte de
 tout qui aurait mis fin à la bataille.
 
-Draco Malfoy était déjà à moitié épuisé suite à tous les sortilèges
+Drago Malfoy était déjà à moitié épuisé suite à tous les sortilèges
 d'emprisonnement et à toutes les métamorphoses précédentes, mais son
 état de confusion commençait à laisser place à un coup de sang
 bouillonnant. Il ne savait pas *pourquoi* Granger l'attaquait soudain
@@ -1356,7 +1356,7 @@ duel d'adulte à mesure que les deux première année aux magies les plus
 fortes recouraient à des sortilèges plus exotiques que le sortilège de
 sommeil habituel).
 
-…même si Draco commençait à se rendre compte que lorsque lui, Harry et
+…même si Drago commençait à se rendre compte que lorsque lui, Harry et
 le professeur Quirrell avaient dédaigné Mlle Granger, lui attribuant
 autant d'intention de tuer que n'en aurait un bol de raisins mûrs, *ils
 ne l'avaient pas encore vue en colère.*
@@ -1579,16 +1579,16 @@ Cette bataille continua bien plus longtemps.
 
 "*Stupéfix !"* s'écria le général Soleil.
 
-Draco n'évita ni ne contra car il n'avait plus assez d'énergie pour
+Drago n'évita ni ne contra car il n'avait plus assez d'énergie pour
 faire l'un ou l'autre ; il ne put que vite mettre sa main en position et
 espérer…
 
-Le tir rouge se dissipa de nouveau sur le gant *Collaporté* de Draco
+Le tir rouge se dissipa de nouveau sur le gant *Collaporté* de Drago
 qu'il avait métamorphosé et magiquement attaché à sa main, comme il
 l'avait fait pour le reste de l'armée Dragon. Ce bouclier était
 maintenant la seule chose qui le sauvait.
 
-Ça aurait dû être le moment de contre-attaquer mais Draco ne put rien
+Ça aurait dû être le moment de contre-attaquer mais Drago ne put rien
 faire d'autre que reprendre son souffle alors qu'ils dansaient tous deux
 d'avant en arrière au gré des mouvements infinis de leur duel à l'ombre
 des feuillages. Face à lui, le général Granger avait le souffle très
@@ -1596,7 +1596,7 @@ court. Le visage de la jeune fille luisait tant de sueur qu'il semblait
 couvert de rosée et ses cheveux châtains formaient des tresses humides
 plus sombres. Son uniforme de camouflage était taché de cercles moites,
 ses épaules tremblaient visiblement sous le coup de l'épuisement mais sa
-baguette était d'une stabilité de pierre, toujours pointée vers Draco,
+baguette était d'une stabilité de pierre, toujours pointée vers Drago,
 quels que soient les mouvements de ce dernier. Ses yeux étincelaient,
 ses joues étaient empourprées de rage.
 
@@ -1604,7 +1604,7 @@ ses joues étaient empourprées de rage.
 une grande aujourd'hui ?*
 
 La raillerie lui vint à l'esprit mais il ne pensait pas avoir besoin
-d'une Granger encore plus en colère ; alors Draco dit juste – bien qu'il
+d'une Granger encore plus en colère ; alors Drago dit juste – bien qu'il
 puisse entendre sa propre voix se briser - "Tu as une raison
 particulière de m'en vouloir, Granger ?"
 
@@ -1613,22 +1613,22 @@ sais ce que tu prépares," dit Hermione Granger, montant d'une octave.
 "Je sais ce que Rogue et toi préparez, Malfoy, et je sais qui est
 derrière ça !"
 
-"Hein ?" dit Draco sans même réfléchir.
+"Hein ?" dit Drago sans même réfléchir.
 
 Cela ne sembla qu'augmenter la furie de Granger, ses doigts se
 blanchirent sur la baguette qu'elle tenait braquée sur lui.
 
-Et Draco comprit alors, et son sang en bouillit. Même *elle* pensait
+Et Drago comprit alors, et son sang en bouillit. Même *elle* pensait
 qu'il manigançait secrètement quelque chose contre elle…
 
-"*Toi aussi ?"* cria Draco. "*Je t'ai aidée, petite morveuse aux dents
+"*Toi aussi ?"* cria Drago. "*Je t'ai aidée, petite morveuse aux dents
 de lapin ! Tu, tu, tu,"* - il bégaya entre tous les sortilèges noirs qui
 lui vinrent à l'esprit jusqu'à trouver quelque chose qu'il puisse
 vraiment lui lancer - "*DENSAUGEO !"*
 
 Mais Granger bondit et tourbillonna autour du sortilège d'allongement
 dentaire puis sa propre baguette acheva de tourner et se retrouva
-pointée presque à bout portant sur Draco au moment où celui-ci levait sa
+pointée presque à bout portant sur Drago au moment où celui-ci levait sa
 main gauche en guise de bouclier, plaçant ainsi le gant magiquement
 fermé entre lui et ce qu'elle était sur le point de tirer, quand le
 général Soleil poussa un cri audible à travers tout le champ de
@@ -1640,7 +1640,7 @@ Le temps aurait dû s'arrêter.
 
 Il ne s'arrêta pas.
 
-Mais le gant cadenassé sur la main de Draco luit d'un gris bref puis le
+Mais le gant cadenassé sur la main de Drago luit d'un gris bref puis le
 cadenas émit un clic et tomba.
 
 Juste comme ça.
@@ -1658,10 +1658,10 @@ magie surmontée par celle d'une née-Moldue.
 Hermione Granger ne s'arrêta pas de combattre, elle n'émit aucun signe
 indiquant qu'elle savait même ce qu'elle venait de faire ; mais son pied
 jaillit et donna un coup à la manière moldue qui fit sauter la baguette
-de Draco hors de sa main. Le corps et l'esprit encore choqués de Draco
-avaient réagit un peu trop lentement. Draco plongea sur sa baguette,
+de Drago hors de sa main. Le corps et l'esprit encore choqués de Drago
+avaient réagit un peu trop lentement. Drago plongea sur sa baguette,
 fouilla le sol avec frénésie, mais de derrière lui la voix brisée d'une
-fille dit "*Somnium !"*, et Draco Malfoy tomba pour ne pas se relever.
+fille dit "*Somnium !"*, et Drago Malfoy tomba pour ne pas se relever.
 
 Il y eut un autre moment de silence figé. Le général Soleil vacillait et
 donnait l'impression de risquer de s'évanouir.
@@ -1773,7 +1773,7 @@ Par trois fois, Augusta Londubat applaudit bruyamment.
 
 *Nous avons gagné.*
 
-C'était la première chose que Draco avait entendue quand il s'était
+C'était la première chose que Drago avait entendue quand il s'était
 réveillé sur le champ de bataille : Padma qui lui racontait comment ses
 soldats s'étaient rassemblés après qu'il fut tombé. Comment, grâce à la
 prévoyance du général Dragon, M. Thomas avait mené son détachement
@@ -1790,7 +1790,7 @@ parvenue à mener l'armée dont elle avait héritée jusqu'à la victoire.
 
 À en voir la lumière dans les yeux de cette dernière et le sourire
 arrogant qui aurait rendu un Malfoy fier, elle s'attendait à des
-félicitations. Draco parvint à siffler quelque chose qui ressemblait à
+félicitations. Drago parvint à siffler quelque chose qui ressemblait à
 une éloge entre ses dents serrées, mais il n'aurait su dire ce qu'elle
 avait été un instant plus tard. Il semblait que la sorcière, née à
 l'étranger, ignorait entièrement ce qui venait de se produire ou ce que
@@ -1801,15 +1801,15 @@ cela signifiait.
 Les Dragons traînaient les pieds jusqu'à Poudlard sous un ciel gris, de
 lourdes gouttes froides tombaient une à une sur la peau de Malfoy. Elle
 avait commencé pendant qu'il était étourdi, la pluie longtemps promise
-commençant enfin à tomber. Draco n'avait maintenant plus qu'une seule
+commençant enfin à tomber. Drago n'avait maintenant plus qu'une seule
 option. Un coup forcé, comme l'aurait appelé M. MacNair, qui avait
-enseigné les échecs à Draco. Harry Potter n'aimerait probablement pas ça
+enseigné les échecs à Drago. Harry Potter n'aimerait probablement pas ça
 s'il était vraiment amoureux de Hermione, comme tout le monde le disait.
 Mais le coup forcé, tel que M. MacNair l'avait définit, était un coup
 qu'on devait faire si l'on voulait que la partie puisse seulement
 continuer.
 
-Il continua à se jouer en boucle dans l'esprit de Draco, encore et
+Il continua à se jouer en boucle dans l'esprit de Drago, encore et
 encore, alors que celui-ci franchissait en automate l'immense portail de
 Poudlard, renvoyait Vincent et Gregory de deux mots acerbes et s'isolait
 dans sa chambre privée, assis sur son lit, face au mur derrière son
@@ -1819,7 +1819,7 @@ bureau. Il remplissait son esprit comme si un Détraqueur l'avait attaché
 Le flash gris venu de son gant, le loquet qui émettait un cliquetis et
 tombait…
 
-Draco savait, il *savait* où il s'était trompé. Il avait été tellement
+Drago savait, il *savait* où il s'était trompé. Il avait été tellement
 fatigué après avoir lancé vingt-sept sortilèges d'Emprisonnement pour
 tous les autres guerriers Dragon. Moins d'une minute ne suffisait pas à
 récupérer après chaque sortilège. Et il avait donc *seulement* lancé
@@ -1833,7 +1833,7 @@ et tout le monde n'y verrait qu'une excuse.
 
 *Granger bondit, tourbillonna et s'écria 'ALOHOMORA !'…*
 
-L'esprit de Draco rejouait le souvenir encore et encore, à mesure que la
+L'esprit de Drago rejouait le souvenir encore et encore, à mesure que la
 rancœur s'accumulait. Il avait *aidé* Granger… il avait coopéré avec
 elle afin de bannir les traîtres… il lui avait tenu la main lorsqu'elle
 pendait du toit… il avait empêché une émeute de se déclencher autour
@@ -1854,17 +1854,17 @@ vaincre en un contre un, en public, pas avec des techniques de duel
 astucieuses mais en *l'écrasant* de sa magie. La battre à plates
 coutures, complètement, la *broyer* aussi parfaitement que le Seigneur
 des Ténèbres lui-même avait broyé ses ennemis. Le rendre parfaitement
-clair à tous, empêcher que quiconque en doute : Draco Malfoy avait
+clair à tous, empêcher que quiconque en doute : Drago Malfoy avait
 simplement été épuisé à force de lancer le sortilège autant de fois
 d'affilée. Prouver que le sang Malfoy était plus fort que celui de
 n'importe quel Sang-de-Bourbe…
 
 *Sauf qu'il ne l'est pas*, murmura la voix de Harry Potter dans l'esprit
-de Draco. *Il est facile d'oublier ce qui est réellement vrai, Draco,
+de Drago. *Il est facile d'oublier ce qui est réellement vrai, Drago,
 quand on commence à essayer de gagner en politique. Mais en réalité, il
 n'y a qu'une seule chose qui fait de toi un sorcier, tu t'en souviens ?*
 
-Draco le sut alors, il sut la raison derrière l'anxiété de ses
+Drago le sut alors, il sut la raison derrière l'anxiété de ses
 arrières-pensées, face au mur vide derrière son bureau, contemplant son
 coup forcé. Cela aurait dû être simple – lorsqu'on avait qu'un seul coup
 à jouer, il suffisait de le jouer – mais…
@@ -1875,7 +1875,7 @@ siens, maléfice et contre-maléfice, des chauves-souris incandescentes
 volant vers son visage, et de bout en bout, la furie dans les yeux de
 Granger…*
 
-Une partie de Draco avait *admiré* cela, avant que tout tourne mal,
+Une partie de Drago avait *admiré* cela, avant que tout tourne mal,
 admiré la furie de Granger et son pouvoir ; une partie de lui avait
 exulté de vivre son premier *vrai* combat, contre…
 
@@ -1883,7 +1883,7 @@ exulté de vivre son premier *vrai* combat, contre…
 
 S'il défiait Granger et *perdait*…
 
-Cela n'aurait pas dû être possible, Draco avait obtenu sa baguette deux
+Cela n'aurait pas dû être possible, Drago avait obtenu sa baguette deux
 années entières avant que qui que ce soit d'autre ne l'obtienne à
 Poudlard.
 
@@ -1894,9 +1894,9 @@ temps on avait eu une une baguette en main. L'anniversaire de Granger
 avait eu lieu seulement quelques jours après le début de l'année,
 lorsque Harry lui avait offert sa bourse. Ce qui voulait dire qu'elle
 avait maintenant douze ans, qu'elle avait eu douze ans presque depuis le
-début de Poudlard. Et pour tout dire, Draco ne s'était pas beaucoup
+début de Poudlard. Et pour tout dire, Drago ne s'était pas beaucoup
 entraîné en dehors des cours, probablement beaucoup moins que Hermione
-Granger de Serdaigle. Draco n'avait pas pensé qu'il avait *besoin* de
+Granger de Serdaigle. Drago n'avait pas pensé qu'il avait *besoin* de
 plus de pratique pour rester en tête…
 
 *Et Granger était épuisée elle aussi*, chuchota la Voix des Preuves du
@@ -1904,7 +1904,7 @@ Contraire dans sa tête. Granger devait être épuisée après tous ces
 sortilèges d'étourdissement, et même dans cet état, elle était parvenue
 à défaire son sortilège d'Emprisonnement.
 
-Et Draco ne *pouvait pas* se permettre de défier Granger en public, un
+Et Drago ne *pouvait pas* se permettre de défier Granger en public, un
 contre un, pas d'excuses, puis de *perdre*.
 
 Il savait ce qu'on était censé faire dans ce genre de situation. On
@@ -1912,20 +1912,20 @@ Il savait ce qu'on était censé faire dans ce genre de situation. On
 serait *désastreux*, une manne à chantage parfaite même sans jamais être
 découvert, et tous les Serpentard le *sauraient*, ils *chercheraient*…
 
-Si vous l'aviez observé, vous auriez alors vu Draco Malfoy se lever de
+Si vous l'aviez observé, vous auriez alors vu Drago Malfoy se lever de
 son lit, se rendre à son bureau, tirer une feuille de son parchemin en
 peau de mouton le plus fin ainsi qu'un encrier creusé dans une perle
 remplit d'une encre d'un argent verdâtre qui avait été faite à partir de
 véritable argent et d'émeraudes broyées. De l'immense coffre au pied de
 son lit, le Serpentard en tira un livre lui aussi relié d'argent et
 d'émeraudes intitulé *Étiquette des maisons d'Angleterre*. Et avec une
-nouvelle plume propre, Draco Malfoy commença à écrire en regardant
+nouvelle plume propre, Drago Malfoy commença à écrire en regardant
 fréquemment le livre ouvert en référence à côté de lui. Le visage du
 garçon portait un sourire sinistre, ce qui faisait grandement ressembler
 le jeune Malfoy à son père tandis qu'il traçait précautionneusement
 chaque lettre comme si chacune avait été une œuvre d'art à part entière.
 
-*De Draco, fils de Lucius, fils d'Abraxis, Lords de la Noble et Très
+*De Drago, fils de Lucius, fils d'Abraxis, Lords de la Noble et Très
 Ancienne maison Malfoy, aussi fils de Narcissa, fille de Druella Dame de
 la Noble et Très Ancienne maison Black, descendant et héritier de la
 Noble et Très Ancienne maison Malfoy :*
@@ -1937,9 +1937,9 @@ longtemps quand elle avait été inventée ; de nos jours, après des
 siècles à être utilisée pour s'adresser à des Sang-de-Bourbe, elle
 portait avec elle un délicieux soupçon de venin raffiné).
 
-*Moi, Draco, d'une Très Ancienne maison, demande réparation pour*
+*Moi, Drago, d'une Très Ancienne maison, demande réparation pour*
 
-Draco s'interrompit, déplaçant précautionneusement la plume afin qu'elle
+Drago s'interrompit, déplaçant précautionneusement la plume afin qu'elle
 ne goutte pas. Il avait besoin d'un prétexte pour cela, du moins s'il
 voulait pouvoir imposer ses conditions de duel. La personne provoquée
 avait le choix des termes *à moins* d'avoir insulté une maison Noble. Il
@@ -1947,16 +1947,16 @@ lui fallait donner l'impression que Granger l'avait insulté…
 
 Mais à quoi songeait-il donc ? Granger *l'avait* insulté.
 
-Draco fit défiler les pages jusqu'à atteindre celle des formules
+Drago fit défiler les pages jusqu'à atteindre celle des formules
 standard et en trouva une qui lui sembla appropriée.
 
-*Moi, Draco, d'une Très Ancienne maison, demande réparation, pour vous
+*Moi, Drago, d'une Très Ancienne maison, demande réparation, pour vous
 avoir par trois fois aidé et offert seulement ma bienveillance et qu'en
 retour vous m'accusiez
 <span style="text-decoration: underline;">faussement</span> de comploter
 contre vous,*
 
-Draco dut s'arrêter, reprendre son souffle et forcer la colère
+Drago dut s'arrêter, reprendre son souffle et forcer la colère
 bouillonnante à retomber. Il commençait à vraiment *ressentir* l'insulte
 à présent, et il venait d'écrire la dernière phrase et de la souligner
 sans y penser, comme si c'était une lettre ordinaire. Après y avoir
@@ -1966,21 +1966,21 @@ un ton brut et colérique qui semblait approprié.
 
 *Insulte que vous avez commise face aux yeux d'Angleterre.*
 
-*Ainsi, moi, Draco, vous assujettis, Hermione, par tradition, par droit,
+*Ainsi, moi, Drago, vous assujettis, Hermione, par tradition, par droit,
 par*
 
-"La dix-septième décision du trente et unième Magenmagot," dit Draco à
+"La dix-septième décision du trente et unième Magenmagot," dit Drago à
 voix haute et sans vérifier, une réplique donnée dans de nombreuses
 pièces ; il se raidit en la disant et sentit chaque once du pouls de
 sang noble qui coulait dans ses veines.
 
-*Ainsi, moi, Draco, vous assujettis, Hermione, par tradition, par droit,
+*Ainsi, moi, Drago, vous assujettis, Hermione, par tradition, par droit,
 par la 17^ème^ décision du 31^ème^ Magenmagot, à me faire face lors d'un
 duel magique selon les termes suivants : que nous nous présentions tous
 deux seuls et en silence, que nous n'en parlions à personne ni avant ni
 après,*
 
-Si le duel se déroulait mal, Draco pourrait juste se taire et en rester
+Si le duel se déroulait mal, Drago pourrait juste se taire et en rester
 là. Et s'il battait Granger, il aurait appris de façon expérimentale
 qu'il pouvait la battre *de nouveau* lors d'un défi public. Ce n'était
 pas tricher mais c'était de la Science, et c'était presque aussi bien.
@@ -1988,7 +1988,7 @@ pas tricher mais c'était de la Science, et c'était presque aussi bien.
 *que nous combattions par magie uniquement, sans mort ni blessure
 durable,*
 
-…où ? Draco avait entendu parler d'une pièce de Poudlard qui était
+…où ? Drago avait entendu parler d'une pièce de Poudlard qui était
 propice aux duels, où tous les objets de valeur étaient déjà protégés
 par les lieux et où il n'y avait aucun portrait pour cafarder… quelle
 était cette pièce déjà…
@@ -2003,9 +2003,9 @@ combattre Granger pour la première fois *cette nuit*.
 
 *Au dernier coup de minuit qui mettra fin à ce jour même.*
 
-*Draco, de la Noble et Très Ancienne maison Malfoy.*
+*Drago, de la Noble et Très Ancienne maison Malfoy.*
 
-Draco signa le parchemin officiel puis tira un parchemin ordinaire et
+Drago signa le parchemin officiel puis tira un parchemin ordinaire et
 inférieur ainsi que son encre habituelle, pour son post-scriptum :
 
 *Si tu ne connais pas les règles, Granger, voilà comment ça fonctionne.
@@ -2015,11 +2015,11 @@ venir Flitwick dans la salle des trophées, ou même en en parlant à qui
 que ce soit d'autre, mon père t'amènera toi et ton honneur de pacotille
 droit au Magenmagot.*
 
-*Draco Malfoy*
+*Drago Malfoy*
 
 Sa plume s'appuya sur la dernière lettre avec tant de hargne sur son bec
 se brisa, créant une traînée d'encre et une légère éraflure à la surface
-du parchemin que Draco jugea elles aussi être de de circonstance.
+du parchemin que Drago jugea elles aussi être de de circonstance.
 
  
 
@@ -2028,7 +2028,7 @@ du parchemin que Draco jugea elles aussi être de de circonstance.
  
 
 Ce soir là au dîner, Susan Bones alla voir Harry Potter et lui dit
-qu'elle soupçonnait que Draco Malfoy allait mettre son plan contre
+qu'elle soupçonnait que Drago Malfoy allait mettre son plan contre
 Hermione à exécution très bientôt. Elle prévenait tous les membres de la
 S.P.E.H.S., elle avait prévenu le professeur Chourave et le professeur
 Flitwick, elle allait envoyer une lettre à sa tante ce soir là, et
@@ -2067,8 +2067,8 @@ l'autre bout de la table, et il sentit en lui une réticence à l'embêter
 alors qu'elle était déjà de mauvaise humeur.
 
 Il se dit donc qu'il était probablement plus raisonnable de parler
-d'abord à Draco Malfoy juste pour pouvoir définitivement et
-irrévocablement assurer Hermione que Draco ne complotait vraiment rien
+d'abord à Drago Malfoy juste pour pouvoir définitivement et
+irrévocablement assurer Hermione que Drago ne complotait vraiment rien
 contre elle.
 
 Et plus tard au dîner, quand Harry descendit à la cave Serpentard et
@@ -2083,7 +2083,7 @@ déplaisant mais de nécessaire.
 Cette pensée lui traversa vraiment l'esprit.
 
 Puis Harry James Potter-Evans-Verres décida qu'il parlerait juste à
-Draco Malfoy le lendemain matin après le petit déjeuner du dimanche et
+Drago Malfoy le lendemain matin après le petit déjeuner du dimanche et
 qu'il parlerait *ensuite* à Hermione.
 
 Les humains faisaient ce genre de chose en permanence.
@@ -2102,18 +2102,18 @@ transformaient parfois les tables de chaque maison, faisant pâlir les
 visages et donnant brièvement aux élèves l'allure de fantômes.
 
 Harry était à la table Serdaigle et mangeait une gaufre avec lassitude,
-attendant que Draco fasse son apparition afin de pouvoir commencer à
+attendant que Drago fasse son apparition afin de pouvoir commencer à
 débrouiller toute l'affaire. Un exemplaire du *Chicaneur* qu'on passait
 de mains en mains avait réussir à placer Hannah et Daphné sur sa
 couverture mais le journal n'avait pas encore atteint la place de Harry.
 
 Quelques minutes plus tard Harry finit de manger sa gaufre et regarda
-*encore* autour de lui pour voir si Draco était arrivé à la table
+*encore* autour de lui pour voir si Drago était arrivé à la table
 Serpentard pour prendre son petit déjeuner.
 
 C'était étrange.
 
-Draco Malfoy n'était presque jamais en retard.
+Drago Malfoy n'était presque jamais en retard.
 
 Puisque Harry regardait vers la table Serpentard, il ne vit pas que
 Hermione Granger était entrée, franchissant les immenses portes de la
@@ -2209,5 +2209,5 @@ trois côtés.
 "Oui ?" dit Harry aussi normalement que possible. "Qu'y a-t-il ?"
 
 "Hermione Granger," dit Auror Komodo d'une voix sans timbre, "vous êtes
-en état d'arrestation pour avoir tenté d'assassiner Draco Malfoy."
+en état d'arrestation pour avoir tenté d'assassiner Drago Malfoy."
 
