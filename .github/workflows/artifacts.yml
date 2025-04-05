@@ -10,7 +10,7 @@ on:
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
   # This workflow contains a single job called "build"
-  # build:
+  # build-epub-pdf:
   #   # The type of runner that the job will run on
   #   runs-on: ubuntu-latest
   #   container: ghcr.io/informatica-global/pandoc-texlive-full
@@ -53,7 +53,7 @@ jobs:
   #         asset_path: ./target/hpmor.pdf
   #         asset_name: hpmor.pdf
   #         asset_content_type: application/pdf
-  build:
+  build-mdbook:
     # The type of runner that the job will run on
     runs-on: ubuntu-latest
     permissions:
@@ -87,7 +87,10 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./target/book
 
-  deploy:
+  deploy-gh-pages:
+    permissions:
+      id-token: write
+      contents: write
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
