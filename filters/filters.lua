@@ -1,74 +1,40 @@
--- Échappe les caractères LaTeX dangereux
-function escape_latex(str)
-	return str:gsub("\\", "\\textbackslash{}"):gsub("#", "\\#"):gsub("%%", "\\%%"):gsub("{", "\\{"):gsub("}", "\\}")
-end
-
--- Utilitaires : rendu markdown brut
-function inline_to_markdown(inlines)
-	local buffer = {}
-	for _, inline in ipairs(inlines) do
-		table.insert(buffer, pandoc.write(pandoc.Pandoc({ pandoc.Para({ inline }) }), "markdown"))
-	end
-	return table.concat(buffer):gsub("\n", " ")
-end
-
-function block_to_markdown(blocks)
-	local buffer = {}
-	for _, block in ipairs(blocks) do
-		table.insert(buffer, pandoc.write(pandoc.Pandoc({ block }), "markdown"))
-	end
-	return table.concat(buffer)
-end
-
--- Utilitaires : rendu HTML
-function inline_to_html(inlines)
-	return pandoc.write(pandoc.Pandoc({ pandoc.Para(inlines) }), "html")
-end
-
-function block_to_html(blocks)
-	return pandoc.write(pandoc.Pandoc(blocks), "html")
-end
-
--- Traitement des Spans avec classes
 function Span(el)
-	if #el.classes == 0 then
-		return el
+	if #el.classes > 0 then
+		local class = el.classes[1]
+		if FORMAT == "latex" then
+			local latex_content = pandoc.write(pandoc.Pandoc({ pandoc.Para(el.content) }), "latex")
+			latex_content = latex_content:gsub("\n+$", "") -- supprime les fins de ligne
+			return pandoc.RawInline("latex", "\\" .. class .. "{" .. latex_content .. "}")
+		elseif FORMAT == "html" or FORMAT == "markdown" then
+			local md_content = pandoc.write(pandoc.Pandoc({ pandoc.Para(el.content) }), "markdown")
+			md_content = md_content:gsub("^%s+", ""):gsub("%s+$", ""):gsub("\n", "")
+			local html = '<span class="' .. class .. '">' .. md_content .. "</span>"
+			return pandoc.RawInline("markdown", html)
+		end
 	end
-	local class_attr = ' class="' .. table.concat(el.classes, " ") .. '"'
-
-	-- Utiliser uniquement la première classe pour générer le nom de la macro
-	local class_name = el.classes[1]
-
-	if FORMAT == "latex" then
-		local latex_open_block = pandoc.RawInline("latex", "\\" .. class_name .. "{")
-		local latex_close_block = pandoc.RawInline("latex", "}")
-		table.insert(el.content, 1, latex_open_block)
-		table.insert(el.content, latex_close_block)
-	elseif FORMAT == "markdown" then
-		local content = inline_to_markdown(el.content)
-		return pandoc.RawInline("markdown", "<div" .. class_attr .. ">" .. content .. "</div>")
-	end
-
 	return el
 end
 
--- Traitement des Divs avec classes
 function Div(el)
 	if #el.classes > 0 then
-		-- Utiliser uniquement la première classe pour générer le nom de la macro
-		local class_name = el.classes[1]
-		local class_attr = ' class="' .. class_name .. '"'
-
+		local class = el.classes[1]
 		if FORMAT == "latex" then
-			local latex_open_block = pandoc.RawBlock("latex", "\\" .. class_name .. "{")
-			local latex_close_block = pandoc.RawBlock("latex", "}")
-			table.insert(el.content, 1, latex_open_block)
-			table.insert(el.content, latex_close_block)
-		elseif FORMAT == "markdown" then
-			local content = block_to_markdown(el.content)
-			return pandoc.RawBlock("markdown", "<div" .. class_attr .. ">" .. content .. "</div>")
+			local content = {}
+			for _, block in ipairs(el.content) do
+				local block_tex = pandoc.write(pandoc.Pandoc({ block }), "latex")
+				block_tex = block_tex:gsub("\n+$", "")
+				table.insert(content, block_tex)
+			end
+			local body = table.concat(content, "\n\n")
+			return pandoc.RawBlock("latex", "\\" .. class .. "{" .. body .. "}")
+		elseif FORMAT == "html" or FORMAT == "markdown" then
+			local html = '<div class="' .. class .. '">\n'
+			for _, block in ipairs(el.content) do
+				html = html .. pandoc.write(pandoc.Pandoc({ block }), "markdown")
+			end
+			html = html .. "</div>"
+			return pandoc.RawBlock("markdown", html)
 		end
 	end
-
 	return el
 end

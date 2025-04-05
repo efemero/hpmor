@@ -1,3 +1,6 @@
+:::{.mainmatter}
+:::
+
 # Un jour à très faible probabilité
 
 Chaque centimètre carré d’espace mural est caché derrière un pan de
