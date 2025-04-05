@@ -62,7 +62,6 @@
 - [L'Expérience de Prison de Stanford, partie 11 : Secret et franchise](md/chapter061.md)
 - [L'Expérience de Prison de Stanford, Fin](md/chapter062.md)
 - [L'Expérience de Prison de Stanford, Après coups](md/chapter063.md)
-- [Dossiers Omake 3 : Parallèles alternatif](md/chapter064.md)
 - [Mensonges contagieux](md/chapter065.md)
 - [Accomplissement de soi, partie 1](md/chapter066.md)
 - [Accomplissement de soi, partie 2](md/chapter067.md)
