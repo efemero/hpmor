@@ -5,5 +5,5 @@ language = "fr"
 
 
 [build]
-build-dir = "../target/book"  
+build-dir = "target/book"  
 create-missing = false
