@@ -1,0 +1,353 @@
+<!DOCTYPE HTML>
+<html lang="fr" class="light sidebar-visible" dir="ltr">
+    <head>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>Humanisme, partie 2 - Harry Potter et les Méthodes de la Rationalité</title>
+
+
+        <!-- Custom HTML head -->
+
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff">
+
+        <link rel="icon" href="../favicon.svg">
+        <link rel="shortcut icon" href="../favicon.png">
+        <link rel="stylesheet" href="../css/variables.css">
+        <link rel="stylesheet" href="../css/general.css">
+        <link rel="stylesheet" href="../css/chrome.css">
+        <link rel="stylesheet" href="../css/print.css" media="print">
+
+        <!-- Fonts -->
+        <link rel="stylesheet" href="../FontAwesome/css/font-awesome.css">
+        <link rel="stylesheet" href="../fonts/fonts.css">
+
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" id="highlight-css" href="../highlight.css">
+        <link rel="stylesheet" id="tomorrow-night-css" href="../tomorrow-night.css">
+        <link rel="stylesheet" id="ayu-highlight-css" href="../ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+
+
+        <!-- Provide site root and default themes to javascript -->
+        <script>
+            const path_to_root = "../";
+            const default_light_theme = "light";
+            const default_dark_theme = "navy";
+        </script>
+        <!-- Start loading toc.js asap -->
+        <script src="../toc.js"></script>
+    </head>
+    <body>
+    <div id="body-container">
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script>
+            try {
+                let theme = localStorage.getItem('mdbook-theme');
+                let sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script>
+            const default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? default_dark_theme : default_light_theme;
+            let theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            const html = document.documentElement;
+            html.classList.remove('light')
+            html.classList.add(theme);
+            html.classList.add("js");
+        </script>
+
+        <input type="checkbox" id="sidebar-toggle-anchor" class="hidden">
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script>
+            let sidebar = null;
+            const sidebar_toggle = document.getElementById("sidebar-toggle-anchor");
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            } else {
+                sidebar = 'hidden';
+            }
+            sidebar_toggle.checked = sidebar === 'visible';
+            html.classList.remove('sidebar-visible');
+            html.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <!-- populated by js -->
+            <mdbook-sidebar-scrollbox class="sidebar-scrollbox"></mdbook-sidebar-scrollbox>
+            <noscript>
+                <iframe class="sidebar-iframe-outer" src="../toc.html"></iframe>
+            </noscript>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle">
+                <div class="sidebar-resize-indicator"></div>
+            </div>
+        </nav>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                <div id="menu-bar-hover-placeholder"></div>
+                <div id="menu-bar" class="menu-bar sticky">
+                    <div class="left-buttons">
+                        <label id="sidebar-toggle" class="icon-button" for="sidebar-toggle-anchor" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                            <i class="fa fa-bars"></i>
+                        </label>
+                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                            <i class="fa fa-paint-brush"></i>
+                        </button>
+                        <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="default_theme">Auto</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                        </ul>
+                        <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                            <i class="fa fa-search"></i>
+                        </button>
+                    </div>
+
+                    <h1 class="menu-title">Harry Potter et les Méthodes de la Rationalité</h1>
+
+                    <div class="right-buttons">
+                        <a href="../print.html" title="Print this book" aria-label="Print this book">
+                            <i id="print-button" class="fa fa-print"></i>
+                        </a>
+
+                    </div>
+                </div>
+
+                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script>
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <h1 id="humanisme-partie-2"><a class="header" href="#humanisme-partie-2">Humanisme, partie 2</a></h1>
+<p>"Fumseck," dit Albus Dumbledore d'une voix qui se brisait, "s'il te
+plaît, aides-le..."</p>
+<p>Un créature flamboyante aux reflets rouges et or apparut dans son champ
+de vision et le regarda d'un air railleur. Elle commença à chanter.</p>
+<p>Les pépiements dépourvus de sens glissèrent sur le néant, il n'y avait
+rien auquel ils pouvaient s'accrocher.</p>
+<p>"Tu es bruyant," dit la voix, "tu devrais mourir."</p>
+<p>"Chocolat," dit Albus Dumbledore, "tu as besoin de chocolat et de tes
+amis - mais je n'ose pas te ramener -"</p>
+<p>Puis un corbeau de lumière apparut et parla de la voix du professeur
+Flitwick ; ce sur quoi Albus Dumbledore s'étrangla sous le coup de la
+compréhension soudaine, et il jura haut et fort contre sa stupidité.</p>
+<p>La chose vide rit en voyant cela, car elle avait gardé la capacité
+d'être amusée.</p>
+<p> </p>
+<hr />
+<p> </p>
+<p>Et un moment plus tard ils avaient tous disparut dans un éclat de feu.</p>
+<p>Il ne semblait s'être écoulé qu'un instant entre le moment où le corbeau
+de Flitwick s'était envolé et celui où Albus Dumbledore était réapparu
+dans un autre craquement de feu rouge et or avec Harry dans ses bras ;
+mais Hermione était mystérieusement parvenue à remplir ses mains de
+chocolats pendant cet intervalle.</p>
+<p>Mais avant que Hermione ne l'atteigne, du chocolat s'était déjà envolé
+de la table pour atterrir directement dans la bouche de Harry, et une
+partie de son esprit songea que c'était injuste, <em>il</em> avait eu une
+chance de le faire pour <em>elle</em> -</p>
+<p>Harry recracha le chocolat.</p>
+<p>"Vas-t-en," dit une voix si vide qu'elle n'était même pas froide.</p>
+<p>...</p>
+<p>Tout sembla se figer, tous ceux qui s'étaient dirigés vers Harry
+s'arrêtèrent, tous les mouvements se brisèrent sous le choc de ces deux
+mots morts.</p>
+<p>Puis : "Non," dit Albus Dumbledore, "je refuse," et le temps reprit son
+cours alors qu'un autre morceau de chocolat s'envolait de table vers la
+bouche de Harry.</p>
+<p>Hermione était à présent assez près pour voir que l'expression de Harry
+s'était chargée de haine lorsque sa bouche avait commencé à mâcher, d'un
+rythme mécanique et artificiel.</p>
+<p>La voix du directeur avait la dureté de l'acier. "Filius, appelle
+Minerva, dis-lui qu'elle doit venir le plus vite possible."</p>
+<p>Le professeur Flitwick chuchota quelque chose à son corbeau d'argent,
+qui s'envola dans les airs et disparut.</p>
+<p>Un autre morceau de chocolat flotta jusqu'à la bouche de Harry, et la
+mastication mécanique continua.</p>
+<p>Plus d'étudiants se trouvaient maintenant autour de l'endroit où le
+directeur surveillait Harry d'un regard dur : Neville, Seamus, Dean,
+Lavender, Ernie, Anthony, aucun n'osait s'approcher plus près que ne
+l'avait fait Hermione.</p>
+<p>"Que pouvons-nous faire ?" dit Dean d'une voix tremblante.</p>
+<p>"Reculez et donnez-lui plus d'espace -" dit la voix sèche du professeur
+Quirrell.</p>
+<p>"Non !" l'interrompit le directeur. "Qu'il soit entouré de ses amis."</p>
+<p>Harry avala son chocolat et dit de cette voix vide : "Ils sont stupides.
+Ils devraient mouri<em>mmmppphhh</em>" alors qu'un autre morceau de chocolat
+entrait dans sa bouche.</p>
+<p>Hermione vit l'expression choquée qui passa sur leur visage.</p>
+<p>"Il ne le pense pas vraiment, hein ?" dit Samus d'un ton suppliant.</p>
+<p>"Vous ne comprenez pas," dit Hermione, sa voix se brisait, "<em>ce n'est
+pas Harry -"</em> et elle se tut avant d'en dire plus, mais il avait <em>fallu</em>
+qu'elle dise au moins cela.</p>
+<p>En le regardant, elle vit que Neville comprenait, et elle vit aussi que
+les autres ne comprenaient pas. Si Harry n'avait jamais vraiment pensé
+ainsi, alors être exposé à un Détraqueur pendant moins d'une minute ne
+l'aurait jamais poussé à dire des choses pareilles. C'était probablement
+ce qu'ils pensaient.</p>
+<p>Une exposition à un Détraqueur de moins d'une minute ne pouvait pas
+créer une toute nouvelle personne maléfique à l'intérieur de quelqu'un,
+pas à partir de rien.</p>
+<p>Mais si cette personne était <em>déjà là -</em></p>
+<p><em>Le directeur est-il au courant ?</em></p>
+<h2>Hermione leva les yeux vers le directeur et vit qu'Albus Dumbledore la
+regardait <em>elle</em> et que ses yeux bleus étaient soudain devenus perçants</h2>
+<p>Des mots apparurent dans son esprit.</p>
+<p><em>N'en parle pas</em>, lui dit la volonté de Dumbledore.</p>
+<p><em>Vous savez</em>, pensa Hermione. <em>Pour son côté obscur.</em></p>
+<p><em>Je sais. Mais cela va encore plus loin. Là où il est maintenant perdu,
+même la chanson de Fumseck ne peut l'atteindre.</em></p>
+<p><em>Que pouvons-nous -</em></p>
+<p><em>J'ai un plan</em>, lui envoya le directeur. <em>Patience.</em></p>
+<p>Quelque chose dans le ton de cette pensée rendit Hermione nerveuse.
+<em>Quel genre de plan ?</em></p>
+<p><em>Il vaut mieux que tu ne saches pas</em>, envoya le directeur.</p>
+<p>Maintenant Hermione devenait <em>vraiment</em> nerveuse. Elle ne savait pas <em>à
+quel point</em> le directeur était au courant pour le côté obscur de Harry -</p>
+<p><em>Une remarque valide</em>, envoya le directeur. <em>Je vais te le dire ;
+contrôle-toi afin de ne pas réagir. Es-tu prête ? Bien. Je vais faire
+semblant de jeter le sort de Mort sur le professeur McGonagall - NE
+RÉAGIS PAS, Hermione !</em></p>
+<p>Ce fut difficile. Le directeur était vraiment fou ! Cela ne ferait pas
+<em>sortir</em> Harry de son côté obscur, il serait pris de <em>folie furieuse</em>,
+il <em>tuerait</em> le directeur -</p>
+<p><em>Mais ce ne sera pas maléfique</em>, envoya Albus Dumbledore. <em>Ce sera
+protecteur, ce sera de l'amour. Fumseck pourra alors l'atteindre. Et
+lorsque Harry verra que Minerva est en fin de compte bien vivante, il
+reviendra totalement à lui.</em></p>
+<p>La pensée vint à Hermione -</p>
+<p><em>Je doute que cela fonctionnera</em>, dit le directeur, <em>et tu pourrais ne
+pas apprécier la façon dont il réagiras si tu essaies. Mais tu peux
+essayer, si tu le souhaites.</em></p>
+<p>Elle ne l'avait pas envisagé sérieusement ! C'était trop -</p>
+<p>Ses yeux glissèrent, échappant au regard du directeur, allant jusqu'au
+garçon qui observait son entourage de ses yeux vides et méprisants,
+alors que sa bouche continuait de mâcher et d'avaler barre après barre
+de chocolat, sans effet. Elle en eut le cœur brisé, et soudain beaucoup
+de choses semblèrent ne plus avoir d'importance hormis le fait qu'il y
+avait encore une chance.</p>
+<p> </p>
+<hr />
+<p> </p>
+<p>Il y avait une force qui le contraignait à mâcher et à avaler du
+chocolat. C'était agaçant. La réponse à cette force était le meurtre.</p>
+<p>Des gens l'avaient entouré et le regardaient. C'était agaçant. La
+réponse à l'agacement était le meurtre.</p>
+<p>D'autres personnes discutaient à l'arrière-plan. C'était insolent. La
+réponse à l'insolence était d'infliger de la douleur, mais puisqu'aucun
+d'eux n'était utile, les tuer serait plus simple.</p>
+<p>Tuer toutes ces personnes serait difficile. Mais nombre d'entre eux
+n'avaient pas confiance en Quirrell, et il était fort. Trouver le bon
+déclencheur pourrait les pousser à tous s'entre-tuer.</p>
+<p>Puis quelqu'un se pencha et entra dans son champ de vision, et cette
+personne fit quelque chose de profondément bizarre, quelque chose qui
+appartenait à un mode de pensée qui lui était étranger, pour laquelle il
+n'existait qu'une seule réponse, enregistrée en un unique endroit -</p>
+<p> </p>
+<hr />
+<p> </p>
+<p>Elle entendit des gens s'étrangler autour d'elle, et ils n'avaient pas
+d'importance, elle maintint le baiser sur ces lèvres barbouillées de
+chocolat alors que les larmes s'amoncelaient dans ses yeux.</p>
+<p>Et les bras de Harry s'élevèrent et la repoussèrent, et ses lèvres
+crièrent : "<em>Je t'ai dit pas de bisou !"</em></p>
+<p> </p>
+<hr />
+<p> </p>
+<p>"Je pense que ça va aller maintenant," dit le directeur, regardant vers
+l'endroit où Harry était en train de pleurer à grands sanglots tandis
+que Fumseck chantait au-dessus de lui. "Très bon travail, Mlle Granger.
+Savez-vous que même moi je ne me serais pas attendu à ce que cela
+fonctionne ?"</p>
+<p>La chanson du phénix ne lui était pas destinée, Hermione le savait, mais
+elle avait quand même le pouvoir de l'apaiser. Et elle en aurait besoin,
+parce que sa vie était officiellement foutue.</p>
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                            <a rel="prev" href="../md/chapter043.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                                <i class="fa fa-angle-left"></i>
+                            </a>
+
+                            <a rel="next prefetch" href="../md/chapter045.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                                <i class="fa fa-angle-right"></i>
+                            </a>
+
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                    <a rel="prev" href="../md/chapter043.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                        <i class="fa fa-angle-left"></i>
+                    </a>
+
+                    <a rel="next prefetch" href="../md/chapter045.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                        <i class="fa fa-angle-right"></i>
+                    </a>
+            </nav>
+
+        </div>
+
+
+
+
+        <script>
+            window.playground_copyable = true;
+        </script>
+
+
+        <script src="../elasticlunr.min.js"></script>
+        <script src="../mark.min.js"></script>
+        <script src="../searcher.js"></script>
+
+        <script src="../clipboard.min.js"></script>
+        <script src="../highlight.js"></script>
+        <script src="../book.js"></script>
+
+        <!-- Custom JS scripts -->
+
+
+    </div>
+    </body>
+</html>

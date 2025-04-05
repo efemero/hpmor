@@ -1,0 +1,427 @@
+<!DOCTYPE HTML>
+<html lang="fr" class="light sidebar-visible" dir="ltr">
+    <head>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>Après-coup, quelque chose à protéger, partie 0 - Harry Potter et les Méthodes de la Rationalité</title>
+
+
+        <!-- Custom HTML head -->
+
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff">
+
+        <link rel="icon" href="../favicon.svg">
+        <link rel="shortcut icon" href="../favicon.png">
+        <link rel="stylesheet" href="../css/variables.css">
+        <link rel="stylesheet" href="../css/general.css">
+        <link rel="stylesheet" href="../css/chrome.css">
+        <link rel="stylesheet" href="../css/print.css" media="print">
+
+        <!-- Fonts -->
+        <link rel="stylesheet" href="../FontAwesome/css/font-awesome.css">
+        <link rel="stylesheet" href="../fonts/fonts.css">
+
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" id="highlight-css" href="../highlight.css">
+        <link rel="stylesheet" id="tomorrow-night-css" href="../tomorrow-night.css">
+        <link rel="stylesheet" id="ayu-highlight-css" href="../ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+
+
+        <!-- Provide site root and default themes to javascript -->
+        <script>
+            const path_to_root = "../";
+            const default_light_theme = "light";
+            const default_dark_theme = "navy";
+        </script>
+        <!-- Start loading toc.js asap -->
+        <script src="../toc.js"></script>
+    </head>
+    <body>
+    <div id="body-container">
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script>
+            try {
+                let theme = localStorage.getItem('mdbook-theme');
+                let sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script>
+            const default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? default_dark_theme : default_light_theme;
+            let theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            const html = document.documentElement;
+            html.classList.remove('light')
+            html.classList.add(theme);
+            html.classList.add("js");
+        </script>
+
+        <input type="checkbox" id="sidebar-toggle-anchor" class="hidden">
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script>
+            let sidebar = null;
+            const sidebar_toggle = document.getElementById("sidebar-toggle-anchor");
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            } else {
+                sidebar = 'hidden';
+            }
+            sidebar_toggle.checked = sidebar === 'visible';
+            html.classList.remove('sidebar-visible');
+            html.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <!-- populated by js -->
+            <mdbook-sidebar-scrollbox class="sidebar-scrollbox"></mdbook-sidebar-scrollbox>
+            <noscript>
+                <iframe class="sidebar-iframe-outer" src="../toc.html"></iframe>
+            </noscript>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle">
+                <div class="sidebar-resize-indicator"></div>
+            </div>
+        </nav>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                <div id="menu-bar-hover-placeholder"></div>
+                <div id="menu-bar" class="menu-bar sticky">
+                    <div class="left-buttons">
+                        <label id="sidebar-toggle" class="icon-button" for="sidebar-toggle-anchor" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                            <i class="fa fa-bars"></i>
+                        </label>
+                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                            <i class="fa fa-paint-brush"></i>
+                        </button>
+                        <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="default_theme">Auto</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                        </ul>
+                        <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                            <i class="fa fa-search"></i>
+                        </button>
+                    </div>
+
+                    <h1 class="menu-title">Harry Potter et les Méthodes de la Rationalité</h1>
+
+                    <div class="right-buttons">
+                        <a href="../print.html" title="Print this book" aria-label="Print this book">
+                            <i id="print-button" class="fa fa-print"></i>
+                        </a>
+
+                    </div>
+                </div>
+
+                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script>
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <h1 id="après-coup-quelque-chose-à-protéger-partie-0"><a class="header" href="#après-coup-quelque-chose-à-protéger-partie-0">Après-coup, quelque chose à protéger, partie 0</a></h1>
+<p>Au début, Anna avait été ravie de voir la finale de la coupe de
+Quidditch durer si longtemps - en tant que Gryffondor, elle n'était
+qu'un simple témoin de l'événement, car ce n'était pas comme si
+Gryffondor l'avait déjà gagnée. Contrairement à celle-ci, la finale de
+la coupe du monde de Quidditch, pour laquelle sa famille avait acheté
+des tickets à prix d'or, s'était finie en <em>dix minutes</em>, ce qui avait
+été <em>horrible</em>. Les jeux de Quidditch modernes ne duraient plus assez
+longtemps, le Vif se faisait attraper bien trop vite. Les aficionados du
+genre parlaient beaucoup de ce problème : les enchantements pour balai
+avaient progressé tandis que le Vif s'en était tenu à la vitesse
+réglementaire, si bien que les matchs avaient été de plus en plus
+courts. À un niveau professionnel, le sport s'était réduit à la
+profondeur des poches de l'équipe qui pourrait offrir le meilleur balai
+de course expérimental à son Attrapeur. Les autres joueurs auraient
+aussi bien pu regarder le match depuis les gradins.</p>
+<p>Tout le monde savait qu'il fallait agir, la situation avait empiré
+pendant des <em>siècles</em> et était devenue <em>intolérable</em>. Mais le Comité de
+Quidditch de la Confédération Internationale des Sorciers baignait dans
+l'amertume habituelle de la C.I.S. : des concours de hurlements entre
+Allemands et Bulgares. Personne ne pouvait se mettre d'accord sur la
+<em>façon</em> de réparer les règles. Pour Anna, la réponse semblait évidente :
+rendre le Vif assez rapide pour restaurer les parties de quatre à cinq
+heures du début du dix-neuvième siècle, l'Âge d'Or du Quidditch. Sauf
+que les Belges trouvaient qu'un match professionnel devait durer deux
+heures, comme à <em>La Belle Époque</em>, où la Belgique avait dominé le
+Quidditch, ces lunatiques d'Italiens voulaient revenir aux parties
+longues d'une semaine du quatorzième siècle, et les Puristes du Sang
+Anglais, encore plus fous, n'avaient cesse de mentionner les
+occasionnels matchs de plus de vingt-quatre heures comme preuve que les
+balais ne pouvaient pas <em>vraiment</em> s'être améliorés, puisque tout était
+mieux avant - même si <em>ce n'était pas comme ça que l'Interdit de Merlin
+fonctionnait</em>.</p>
+<p>Elle était à cent pour cent du côté de Harry Potter : il était temps que
+Poudlard laisse tomber ces lambins bredouillants et change simplement
+les règles, dès aujourd'hui. Mais pas en <em>éliminant le Vif</em>, ç'aurait
+été revenir au <em>Kwidditch du onzième siècle</em>. Peu importe que la
+directrice de Poufsouffle ait alors introduit cette innovation parce que
+l'un de ses élèves qui avait voulu jouer au jeu s'était révélé inadapté
+aux postes existants. Un match qui pouvait se terminer n'importe quand
+était plus palpitant, et les Vifs avaient saisi l'attention du monde
+entier.</p>
+<p>Anna avait s'était époumonée à défendre ce point de vue pendant une
+demi-heure, et elle avait tout à fait cessé de suivre la partie. Par
+chance, elle s'était retrouvée assise à côté du Survivant et de son
+panneau, et elle était donc parvenue à asseoir sa position dès le début.</p>
+<p>Elle savait, pas tout à fait consciemment, que si les règles du
+Quidditch changeaient vraiment aujourd'hui, ce serait <em>la chose la plus
+importante qu'elle aurait jamais faite</em>. Elle pouvait presque <em>sentir</em>
+la pression du Temps autour d'elle, comme si le destin du Quidditch
+serait écrit le jour même et qu'elle se tenait au centre des
+événements... mais elle n'avait évidemment pas eu une note de Divination
+assez bonne pour véritablement pouvoir sentir ce genre de choses.</p>
+<p>Quand le Survivant se leva pour aller aux toilettes, elle le remarqua à
+peine.</p>
+<p>Mais elle lui jeta un regard lorsqu'il revint en traînant les pieds :
+Harry Potter avait l'air un peu fatigué et vacillant. Pourtant, son
+uniforme était en parfait état, comme s'il venait d'en enfiler un
+nouveau.</p>
+<p>Elle lui prêta de nouveau attention une demi-heure plus tard, quand il
+parut tanguer, puis se pencher, et que ses mains couvrirent son front ;
+il avait l'air d'appuyer sur sa cicatrice. L'idée l'inquiéta un peu :
+tout le monde savait que <em>quelque chose</em> clochait chez lui, et si sa
+cicatrice lui faisait mal, peut-être qu'une horreur scellée était sur le
+point de jaillir hors de son front et de manger tout le monde. Elle
+abandonna cette idée et continua d'expliquer le Quidditch aux ignorants
+de son Histoire, à pleins poumons.</p>
+<p>Elle lui prêta une attention toute particulière quand il se leva, ses
+mains toujours sur son front, et qu'il les baissa alors pour révéler que
+sa célèbre cicatrice en forme d'éclair était rouge vif, irritée. Elle
+<em>saignait</em>, et le sang coulait sur son front.</p>
+<p>Elle se tut au beau milieu d'une phrase. D'autres personnes se
+retournèrent, suivirent son regard.</p>
+<p>"Professeur McGonagall ?" dit Harry d'une voix instable. Il avait des
+larmes au coin des yeux, ce qui la surprit ; le Survivant n'avait pas
+l'air d'être du genre à éclater en sanglots. Il éleva un peu plus la
+voix, donnant l'impression qu'il avait du mal à parler. "Euh, professeur
+McGonagall ?"</p>
+<p>Le professeur McGonagall se détourna de l'équipe de Quidditch
+Poufsouffle avec qui elle était en plein débat. Sous l'effet de la
+surprise, la directrice de Gryffondor écarquilla les yeux, et elle se
+mit alors à fendre la foule en courant presque. "Harry !" dit-elle.
+"Votre <em>cicatrice</em> !"</p>
+<p>Un silence se répandait autour de ce point central.</p>
+<p>"Je crois," dit Harry d'une voix toujours instable mais plus forte, "je
+crois qu'il est revenu. Je crois que je vois par l'esprit de
+Voldemort..."</p>
+<p>Lorsqu'elle entendit le nom de Vous-Savez-Qui, Anna fit un pas en
+arrière et faillit trébucher sur un gradin. À côté d'elle, un garçon
+plus âgé laissa échapper un cri effarouché, et soudain le Survivant
+glapit encore plus fort.</p>
+<p>"IL LES TUE !" hurla Harry Potter.</p>
+<p>La moitié du stade de Quidditch se tourna vers lui.</p>
+<p>"Le rituel !" s'écria Harry Potter. "Le sang de ses serviteurs ! Le
+sang, la vie ! Il les appelle, il prend leur tête, leur sang, leur vie,
+pour rebâtir la sienne - LE SEIGNEUR DES TÉNÈBRES SE RELÈVE, VOLDEMORT
+EST REVENU !"</p>
+<p>Madame Bibine poussa un coup de sifflet strident et les balais de
+Quidditch qui ne s'étaient pas encore arrêtés commencèrent à ralentir.
+Elle n'était pas certaine que ce soit une blague : si c'était le cas,
+Survivant ou pas, il s'était mis dans un sacré pétrin.</p>
+<p>Le professeur McGonagall leva sa baguette pour lancer un sortilège de
+silence et Harry Potter lui attrapa la main.</p>
+<p>"Attendez..." haleta Harry Potter d'une voix plus basse, mais toujours
+assez fort pour qu'elle et les gens proches puissent l'entendre
+clairement. "On peut l'arrêter... je vois son esprit, son erreur... on
+peut l'arrêter <em>maintenant</em> ... LE PORTAIL EST TOUJOURS OUVERT ! ELLE LE
+SUIT ! CELLE QU'IL A TUÉE !" Sa voix monta d'un cran et la bouche de
+Anna s'ouvrit grand, dans un signe d'ahurissement soudain. "REVIENS !
+REVIENS, REVIENS, RANIME-TOI ET ARRÊTE-LE ! ARRÊTE-LE, HERMIONE !"</p>
+<p>Puis il se tut. Il rendit leur regard à ceux qui le dévisageaient.</p>
+<p>Elle venait de décider que tout ceci devait être une blague d'un mauvais
+goût <em>incroyable</em> quand un BOUM lointain mais très net retentit.</p>
+<p>Harry Potter vacilla et tomba à genoux, et son cœur manqua un battement.
+Une explosion de babillages agités les entoura.</p>
+<p>Elle pouvait toujours entendre ce que Harry Potter disait, à côté du
+professeur McGonagall, qui s'était agenouillé. "Ça a marché,"
+haleta-t-il, "elle l'a eu, il est parti."</p>
+<p>"<em>Quoi ?</em>" s'écria le professeur McGonagall, et elle regarda autour
+d'elle. "<em>Silence ! Silence, vous tous !</em> Harry, qu'est-ce qui s'est
+passé ?"</p>
+<p>Harry Potter parlait vite, mais fort. "Voldemort... a essayé de
+revenir... il a fait venir les Mangemorts <em>et il les a tués</em>, il leur a
+volé leur sang et leur vie... le corps de Hermione était là, je ne sais
+pas pourquoi, peut-être que Voldemort voulait en faire usage...
+Voldemort est revenu, il s'est ressuscité, mais Hermione <em>l'a suivi</em> et
+elle l'a <em>détruit</em>, il est parti, c'est fini. Ça s'est passé dans un
+cimetière près de Poudlard, c'est..." il se leva, toujours vacillant,
+"je crois que c'est par là." Il indiqua la direction d'où le BOUM était
+venu, "je ne sais pas si c'est très loin. Le son a mis environ vingt
+secondes à arriver, alors peut-être deux minutes en balai..."</p>
+<p>D'un geste si gracieux qu'il parut inconscient, le professeur McGonagall
+se mit en position et dit : "<em>Expecto Patronum.</em>" Elle s'adressa au chat
+lumineux dès qu'il apparut. "Vas voir Albus, dis-lui de venir
+immédiatement..."</p>
+<p>"Dumbledore est parti !" s'écria Harry Potter. "Le directeur est parti,
+professeur McGonagall ! Le Seigneur des Ténèbres l'a piégé, il a inversé
+une sorte de piège que le directeur avait prévu et Dumbledore est piégé
+hors du Temps, il est parti !"</p>
+<p>Les bavardages horrifiés autour d'eux montèrent d'une octave.</p>
+<p>"Vas voir Albus !" dit le professeur McGonagall à son Patronus.</p>
+<p>Le chat nimbé de Lune se contenta de regarder tristement le professeur
+McGonagall, et Anna inspira avec horreur, sentant que quelqu'un venait
+de lui donner un coup à l'estomac. C'était réel, tout cela était réel,
+ce n'était pas une blague.</p>
+<p>"Professeur McGonagall, Hermione est en <em>vie</em> !" Harry Potter éleva à
+nouveau la voix. "Elle est vraiment en vie, ce n'est pas un Inferius ni
+rien, et elle est toujours là-bas, dans le cimetière !"</p>
+<p>"<em>Un balai !</em>" hurla le professeur McGonagall. Elle se tourna vers les
+joueurs qui flottaient, immobiles au-dessus du terrain de Quidditch.
+"J'ai besoin d'un balai. MAINTENANT !"</p>
+<p>En dépit de tout, Anna leva une main en signe de protestation muette,
+puis se ressaisit au moment où les Attrapeurs Serdaigle et Serpentard
+arrivèrent à toute vitesse (une excellente décision stratégique
+puisqu'ils ne faisaient effectivement rien).</p>
+<p>Harry Potter récupérait déjà un autre balai de sa bourse, muni plusieurs
+sièges.</p>
+<p>Le professeur McGonagall vit cela et hocha fermement la tête. "Vous
+restez ici, M. Potter, à moins que vous n'ayez une excellente raison de
+venir. J'y vais tout de suite."</p>
+<p>"Non !" glapit le professeur Flitwick qui s'était frayé un petit chemin
+dans la foule, parfois en passant entre des jambes. Il avait les yeux
+écarquillés et semblait être sur le point défaillir. "Vous devez rester
+à Poudlard, Minerva ! Vous... vous êtes la..." il semblait avoir du mal
+à parler.</p>
+<p>Le professeur McGonagall pivota pour lui faire face et s'arrêta soudain.
+Son sang avait quitté son visage.</p>
+<p>Puis elle prit le balai des mains de Harry Potter et le tendit au petit
+demi-gobelin. "Filius," dit-elle vivement. Tout début de panique avait
+quitté sa voix, et elle parlait maintenant de son sec accent Écossais,
+comme si elle avait donné cours. "Cherchez le cimetière dont a parlé M.
+Potter, trouvez Mlle Granger. Transplanez-la à Sainte Mangouste et
+restez à ses côtés."</p>
+<p>"Je pense..." dit Harry Potter d'une voix rauque. "Je pense que des
+Métamorphoses ont pu être utilisées pendant la bataille... le professeur
+Quirrell a essayé de combattre Voldemort... faites attentions..."</p>
+<p>Filius Flitwick hocha la tête sans s'interrompre et partit sur le balai.</p>
+<p>"Le professeur Quirrell est mort !" vagit Harry Potter. La souffrance
+dans sa voix était clairement audible. "Il est mort ! Le Seigneur des
+Ténèbres l'a tué ! Son corps..." Harry Potter s'étrangla. "Il est là,
+dans le cimetière."</p>
+<p>Elle flancha à nouveau, comme un autre coup porté à l'estomac. Le
+professeur Quirrell avait été... l'un de ses professeurs préférés, de
+loin. Il lui avait fait revoir tout ce qu'elle avait pensé de
+Serpentard ; elle avait su, sans le ressentir, qu'il allait probablement
+mourir très bientôt, mais d'entendre qu'il était vraiment, véritablement
+mort...</p>
+<p>Le Survivant s'assit sur le banc comme si ses jambes ne pouvaient plus
+le soutenir.</p>
+<p>Le professeur McGonagall se tourna vers la foule et toucha sa gorge de
+sa baguette. "LE QUIDDITCH EST TERMINÉ," tonna sa voix amplifiée.
+"RETOURNEZ À VOS DORTOIRS..."</p>
+<p>"<em>Non !</em>" s'écria Harry Potter.</p>
+<p>Le professeur McGonagall se tourna vers lui.</p>
+<p>Des larmes coulaient le long des joues du Survivant et on aurait dit que
+l'interruption l'avait surpris autant qu'elle avait surpris les autres.
+"C'était le dernier plan du professeur Quirrell," dit-il d'une voix
+brisée. Le survivant regarda les joueurs de Quidditch qui s'étaient
+rapprochés, comme pour s'adresser directement à eux. "Son dernier plan."</p>
+<p>Harry Potter fut lévité jusqu'à l'infirmerie par le professeur
+McGonagall. Les autres professeurs coururent gérer on-ne-sait-quoi, ne
+laissant que les professeurs Sinistra et Bibine derrière. Dans le stade,
+les rumeurs couraient follement ; Anna faisait de son mieux pour répéter
+tout ce qu'elle avait entendu. Quelque chose était arrivé à Dumbledore,
+des Mangemorts avaient été appelés puis tués (non, Harry Potter n'avait
+pas précisé lesquels), le professeur Quirrell était allé faire face au
+Seigneur des Ténèbres et y avait perdu la vie, Vous-Savez-Qui était
+revenu pour mourir une fois de plus, le professeur Quirrell était mort,
+il était mort.</p>
+<p>La plupart des élèves finirent par errer jusqu'à leurs dortoirs pour
+tenter d'y dormir.</p>
+<p>Anna resta dans le stade et regarda la fin du match, faisant fi de son
+besoin de sommeil et de ses yeux qui s'humectaient souvent de larmes.</p>
+<p>L'équipe Serdaigle combattit vaillamment.</p>
+<p>Mais ce jour-là, aucune équipe de Quidditch au monde n'aurait pu vaincre
+les Serpentard.</p>
+<p>L'aube illuminait le ciel quand les Serpentard remportèrent leur dernier
+match, la coupe de Quidditch, et la coupe des Maisons.</p>
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                            <a rel="prev" href="../md/chapter115.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                                <i class="fa fa-angle-left"></i>
+                            </a>
+
+                            <a rel="next prefetch" href="../md/chapter117.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                                <i class="fa fa-angle-right"></i>
+                            </a>
+
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                    <a rel="prev" href="../md/chapter115.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                        <i class="fa fa-angle-left"></i>
+                    </a>
+
+                    <a rel="next prefetch" href="../md/chapter117.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                        <i class="fa fa-angle-right"></i>
+                    </a>
+            </nav>
+
+        </div>
+
+
+
+
+        <script>
+            window.playground_copyable = true;
+        </script>
+
+
+        <script src="../elasticlunr.min.js"></script>
+        <script src="../mark.min.js"></script>
+        <script src="../searcher.js"></script>
+
+        <script src="../clipboard.min.js"></script>
+        <script src="../highlight.js"></script>
+        <script src="../book.js"></script>
+
+        <!-- Custom JS scripts -->
+
+
+    </div>
+    </body>
+</html>

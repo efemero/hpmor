@@ -1,0 +1,472 @@
+<!DOCTYPE HTML>
+<html lang="fr" class="light sidebar-visible" dir="ltr">
+    <head>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>Un jour à très faible probabilité - Harry Potter et les Méthodes de la Rationalité</title>
+
+
+        <!-- Custom HTML head -->
+
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff">
+
+        <link rel="icon" href="../favicon.svg">
+        <link rel="shortcut icon" href="../favicon.png">
+        <link rel="stylesheet" href="../css/variables.css">
+        <link rel="stylesheet" href="../css/general.css">
+        <link rel="stylesheet" href="../css/chrome.css">
+        <link rel="stylesheet" href="../css/print.css" media="print">
+
+        <!-- Fonts -->
+        <link rel="stylesheet" href="../FontAwesome/css/font-awesome.css">
+        <link rel="stylesheet" href="../fonts/fonts.css">
+
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" id="highlight-css" href="../highlight.css">
+        <link rel="stylesheet" id="tomorrow-night-css" href="../tomorrow-night.css">
+        <link rel="stylesheet" id="ayu-highlight-css" href="../ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+
+
+        <!-- Provide site root and default themes to javascript -->
+        <script>
+            const path_to_root = "../";
+            const default_light_theme = "light";
+            const default_dark_theme = "navy";
+        </script>
+        <!-- Start loading toc.js asap -->
+        <script src="../toc.js"></script>
+    </head>
+    <body>
+    <div id="body-container">
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script>
+            try {
+                let theme = localStorage.getItem('mdbook-theme');
+                let sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script>
+            const default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? default_dark_theme : default_light_theme;
+            let theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            const html = document.documentElement;
+            html.classList.remove('light')
+            html.classList.add(theme);
+            html.classList.add("js");
+        </script>
+
+        <input type="checkbox" id="sidebar-toggle-anchor" class="hidden">
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script>
+            let sidebar = null;
+            const sidebar_toggle = document.getElementById("sidebar-toggle-anchor");
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            } else {
+                sidebar = 'hidden';
+            }
+            sidebar_toggle.checked = sidebar === 'visible';
+            html.classList.remove('sidebar-visible');
+            html.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <!-- populated by js -->
+            <mdbook-sidebar-scrollbox class="sidebar-scrollbox"></mdbook-sidebar-scrollbox>
+            <noscript>
+                <iframe class="sidebar-iframe-outer" src="../toc.html"></iframe>
+            </noscript>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle">
+                <div class="sidebar-resize-indicator"></div>
+            </div>
+        </nav>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                <div id="menu-bar-hover-placeholder"></div>
+                <div id="menu-bar" class="menu-bar sticky">
+                    <div class="left-buttons">
+                        <label id="sidebar-toggle" class="icon-button" for="sidebar-toggle-anchor" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                            <i class="fa fa-bars"></i>
+                        </label>
+                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                            <i class="fa fa-paint-brush"></i>
+                        </button>
+                        <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="default_theme">Auto</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                        </ul>
+                        <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                            <i class="fa fa-search"></i>
+                        </button>
+                    </div>
+
+                    <h1 class="menu-title">Harry Potter et les Méthodes de la Rationalité</h1>
+
+                    <div class="right-buttons">
+                        <a href="../print.html" title="Print this book" aria-label="Print this book">
+                            <i id="print-button" class="fa fa-print"></i>
+                        </a>
+
+                    </div>
+                </div>
+
+                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script>
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <h1 id="un-jour-à-très-faible-probabilité"><a class="header" href="#un-jour-à-très-faible-probabilité">Un jour à très faible probabilité</a></h1>
+<p>Chaque centimètre carré d'espace mural est caché derrière un pan de
+bibliothèque. Chaque bibliothèque a six étagères et atteint presque le
+plafond. Certaines étagères sont pleines à ras bord de manuels :
+science, mathématiques, histoire et ainsi de suite. D'autres ont deux
+rangées chacune de livres de science-fiction, et les rangées du fond
+sont juchées sur de vieilles boîtes de mouchoirs ou de petites planches
+de bois pour que l'on puisse les voir. Mais cela ne suffit pas. D'autres
+livres débordent des tables et des canapés ; d'autres encore forment de
+petits tas sous les fenêtres.</p>
+<p>C'est le salon de la maison où vivent l'éminent professeur Michael
+Verres-Evans, sa femme Mme Pétunia Evans-Verres, et leur fils adoptif :
+Harry James Potter-Evans-Verres.</p>
+<p>Il y a une lettre sur la table du salon, et une enveloppe sans timbre
+faite d'un parchemin jaunâtre, adressées à un M. H. Potter d'une encre
+vert-émeraude.</p>
+<p>Le professeur et sa femme discutent sèchement, mais ils ne crient pas.
+Le professeur trouverait cela fort peu civilisé.</p>
+<p>« Tu plaisantes », dit Michael à Pétunia. Son ton indiquait qu'il avait
+bien peur que non.</p>
+<p>« Ma sœur était une sorcière, » répéta-t-elle. Elle semblait effrayée,
+mais elle tenait bon. « Son mari était un sorcier. »</p>
+<p>« C'est absurde ! » répondit sèchement Michael. « Ils étaient à notre
+mariage... Ils nous avait rendu visite à Noël... »</p>
+<p>« Je leur ai dit que tu ne devais pas être mis au courant, » murmura
+Pétunia. « Mais c'est vrai. J'ai vu des choses... »</p>
+<p>Le professeur leva les yeux au ciel. « Ma chérie, il me semble que tu ne
+connais pas bien la littérature sceptique. Tu ne comprends probablement
+pas à quel point un magicien bien formé peut facilement avoir l'air
+d'accomplir l'impossible. Est-ce que tu te souviens de la fois où j'ai
+appris à Harry comment tordre des petites cuillères ? Et s'ils avaient
+l'air de toujours savoir ce que tu avais à l'esprit, c'était ce qu'on
+appelle la lecture à froid... »</p>
+<p>« Ils ne tordaient pas de cuillères... »</p>
+<p>« Ils faisaient quoi, alors ? »</p>
+<p>Pétunia se mordit la lèvre. « Je ne peux pas te le dire. Tu penseras que
+je suis... » Elle déglutit. « Écoute. Michael. Je n'ai pas toujours
+été... comme ça... » Elle se désigna elle-même, comme pour faire
+référence à sa silhouette bien proportionnée. « C'est grâce à Lily.
+Parce que je... parce que je l'ai <em>suppliée</em>. Pendant des années. Elle
+avait <em>toujours</em> été plus belle que moi, et ça m'avait rendue...
+méchante envers elle. Et puis elle a eu des <em>pouvoirs</em>. Est-ce que tu
+peux imaginer ce que j'ai ressenti ? Alors je l'ai <em>suppliée</em> d'utiliser
+sa magie pour que je puisse être belle moi aussi. Au moins, même si je
+n'avais pas sa magie, je pourrais être belle. »</p>
+<p>Des larmes s'étaient accumulées dans les yeux de Pétunia.</p>
+<p>« Et elle refusait, elle inventait les excuses les plus fantasques.
+Comme quoi ce serait la fin du monde si elle acceptait d'aider sa sœur,
+ou qu'un centaure l'avait mise en garde... je la haïssais de me donner
+ces excuses minables. Et puis, juste après l'université, je sortais avec
+ce garçon, Vernon Dursley. Il était gros et c'était le seul garçon qui
+voulait bien me parler. Et il m'a dit qu'il voulait avoir des enfants,
+que son premier fils s'appellerait Dudley. Et je me demandais <em>quel
+genre de parent appellerait son enfant Dudley Dursley</em>. C'était comme si
+j'avais vu ma vie future défiler devant moi, et je n'ai pas pu le
+supporter. Alors j'ai écrit à ma sœur, et je lui ai dit que si elle ne
+m'aidait pas, alors autant... »</p>
+<p>Elle se tut.</p>
+<p>« Enfin, » continua-t-elle d'une petite voix, « elle a cédé. Elle m'a
+dit que c'était dangereux, je lui ai dit que je m'en fichais, j'ai bu sa
+potion et j'ai été malade pendant des semaines. Mais une fois remise, ma
+peau avait perdu ses boutons, j'avais enfin des formes et... j'étais
+belle. Les gens étaient <em>gentils</em> avec moi. » Sa voix se brisa. « Après,
+je n'ai plus pu haïr ma sœur. Surtout quand j'ai appris ce que sa magie
+lui avait fait... »</p>
+<p>« Ma chérie, » dit Michael avec gentillesse, « tu es tombée malade, tu
+as pris du poids pendant ta convalescence, et ta peau s'est arrangée
+toute seule. Ou alors la maladie t'a fait changer de régime
+alimentaire... »</p>
+<p>« C'était une sorcière », répéta Pétunia. « Je l'ai vu. »</p>
+<p>« Pétunia, » dit Michael. L'exaspération devenait audible. « Tu <em>sais</em>
+que c'est impossible. Dois-je vraiment t'expliquer pourquoi ? »</p>
+<p>Pétunia se tordit les mains. Elle semblait être sur le point de pleurer.
+« Mon amour, je sais que je ne peux pas remporter ce genre de débat avec
+toi, mais s'il te plaît, tu dois me faire confiance là... »</p>
+<p>« <em>Papa ! Maman !</em> »</p>
+<p>Ils se turent et regardèrent Harry comme s'ils avaient oublié qu'une
+troisième personne se trouvait là, avec eux.</p>
+<p>Harry inspira lentement. « Maman, <em>tes</em> parents avaient-ils des pouvoirs
+magiques ? »</p>
+<p>« Non », dit Pétunia d'un ton interloqué.</p>
+<p>« Alors personne chez toi ne connaissait la magie quand Lily a reçu sa
+lettre. Comment est-ce qu'ils <em>vous</em> ont convaincus ? »</p>
+<p>« Ah... » dit Pétunia. « Ils n'ont pas fait qu'envoyer une lettre. Ils
+ont envoyé un professeur de Poudlard. Il... » elle regarda brièvement
+Michael. « Il nous a fait une démonstration de sa magie. »</p>
+<p>« Alors pas la peine de vous battre, » dit Harry d'un ton ferme. Il
+espérait contre toute attente que cette fois, cette fois seulement, ils
+l'écouteraient. « Si c'est vrai, on n'a qu'à faire venir un professeur
+de Poudlard et voir cette magie nous-mêmes. Papa devra admettre que
+c'est bien réel. Et sinon, alors maman devra admettre que ça n'existe
+pas. C'est à ça que sert la méthode expérimentale. Pour qu'on n'ait pas
+à tout résoudre à force de débats. »</p>
+<p>Le professeur se retourna et baissa les yeux vers son fils avec son air
+dédaigneux habituel. « Allons Harry. Vraiment, de la <em>magie</em> ? Je
+pensais que toi au moins, tu aurais l'intelligence de ne pas prendre ça
+au sérieux, même si tu n'as que dix ans. Il n'y a rien de moins
+scientifique que la magie ! »</p>
+<p>Harry serra les lèvres avec amertume. Son père l'avait bien traité.
+Probablement mieux que la plupart des pères biologiques ne traitaient
+leur enfant. Il avait été aux meilleures écoles primaires, et quand les
+choses s'étaient mal passées, on l'avait confié à des précepteurs venus
+de ce puits sans fond que sont les doctorants affamés. On l'avait
+toujours encouragé à étudier ce qui l'intéressait le plus, on lui avait
+acheté tous les livres qu'il désirait, on l'avait soutenu à tous les
+concours mathématiques et scientifiques auxquels il avait participé. On
+lui donnait tout ce qu'il pouvait raisonnablement désirer, sauf
+peut-être la moindre trace de respect. On pouvait difficilement
+s'attendre à ce qu'un professeur de biochimie employé à Oxford écoute
+les conseils d'un petit garçon. Il fallait, bien sûr, toujours montrer
+son intérêt : voilà ce que faisaient les bons parents, et donc ce que
+faisaient ceux qui se voyaient comme de bons parents. Mais prendre un
+enfant de dix ans <em>au sérieux</em> ? Certainement pas.</p>
+<p>Harry avait parfois envie de hurler sur son père.</p>
+<p>« Maman, » dit Harry. « Si tu veux remporter ce débat contre papa,
+regarde le chapitre deux du premier manuel de physique de Feynman. Il
+parle de ce que racontent les philosophes sur la méthode scientifique,
+et il explique qu'ils ont tous tort, que la seule règle en science,
+c'est que l'observation est maîtresse. Qu'il suffit d'observer le monde
+et de rendre compte de ce que l'on a vu. Et... je n'arrive pas à me
+souvenir de tête d'une source qui explique que l'un des idéaux de la
+science est de régler les désaccords par l'expérimentation plutôt que
+par le débat... »</p>
+<p>Sa mère baissa les yeux et lui sourit. « Merci Harry. Mais... » elle
+releva les yeux et regarda son mari. « Je ne veux pas remporter un
+débat. Je veux que mon mari... je veux qu'il écoute sa femme qui l'aime
+et qu'il lui fasse confiance au moins pour cette fois. »</p>
+<p>Harry ferma brièvement les yeux. <em>C'était sans espoir</em>. Ses deux parents
+étaient des causes perdues.</p>
+<p>Voilà qu'ils reprenaient une de <em>ces</em> disputes. Où sa mère essayait de
+faire culpabiliser son père, et où ce dernier essayait de la faire se
+sentir stupide.</p>
+<p>« Je vais dans ma chambre » annonça Harry. Sa voix tremblait un peu.
+« Essayez de ne pas trop vous battre, papa et maman. On aura la réponse
+bien assez vite, non ? »</p>
+<p>« Bien sûr Harry, » dit son père, sa mère lui envoya un baiser rassurant
+et ils continuèrent de se disputer pendant que Harry grimpait les
+escaliers jusqu'à sa chambre.</p>
+<p>Il ferma la porte et essaya de réfléchir.</p>
+<p>Il remarqua avec amusement qu'il aurait <em>dû</em> être du côté de son père.
+Personne n'avait jamais vu de magie, alors que maman disait qu'un monde
+magique entier existait. Comment pouvait-on garder ce genre de choses
+secret ? Avec plus de magie ? C'était plutôt suspect, comme excuse.</p>
+<p>Ça aurait dû être une alternative simple entre : maman faisait une
+blague, maman mentait, maman était folle -- par ordre d'horreur
+croissant. Si elle avait envoyé la lettre elle-même, cela expliquait son
+arrivée dans la boîte aux lettres malgré l'absence de timbre. Un peu de
+folie était bien moins incroyable qu'un univers rempli de magie.</p>
+<p>Sauf que quelque chose en Harry était foncièrement convaincu que la
+magie était bien réelle, depuis l'instant où il avait vu la lettre
+soi-disant venue de l'École de Sorcellerie de Poudlard.</p>
+<p>Il se frotta le front en grimaçant. <em>Ne crois pas tout ce que tu
+penses</em>, disait l'un de ses livres.</p>
+<p>Mais cette étrange certitude... il <em>s'attendait</em> tout simplement à ce
+qu'un professeur de Poudlard apparaisse, agite une baguette, et fasse de
+la magie. Cette étrange certitude ne faisait aucun effort pour prévenir
+de possibles réfutations ; elle n'était pas accompagnée d'excuses
+préalables au cas où aucun professeur ne viendrait, ou au cas où le
+professeur ne ferait rien d'autre que tordre de petites cuillères.</p>
+<p><em>D'où viens-tu, étrange petite prédiction ?</em> dit-il à la pensée nichée
+dans son cerveau. <em>Pourquoi est-ce que je crois ce que je crois ?</em></p>
+<p>Habituellement, Harry pouvait fort bien répondre à cette question. Mais
+dans ce cas, il ignorait <em>totalement</em> où son cerveau pouvait bien avoir
+été pêcher ça.</p>
+<p>Il eut un haussement d'épaules mental. Tout comme une plaque de métal
+sur une porte était faite pour être poussée, tout comme une poignée
+était faite pour qu'on la tire, lorsque l'on était face à une hypothèse,
+il fallait la tester.</p>
+<p>Il se saisit d'une feuille de papier et commença à écrire.</p>
+<p><em>Chère directrice adjointe,</em></p>
+<p>Harry s'interrompit et réfléchit. Puis il jeta la feuille au profit
+d'une autre et fit sortir un autre millimètre de graphite de son
+critérium. Cela méritait un effort calligraphique plus méticuleux.</p>
+<p><em>Chère directrice adjointe, Minerva McGonagall,</em></p>
+<p><em>Ou à toute personne concernée :</em></p>
+<p><em>J'ai récemment reçu votre lettre d'admission à Poudlard, adressée à M.
+H. Potter. Peut-être ignorez-vous que mes parents biologiques, James
+Potter et Lily Potter (anciennement Lily Evans) sont morts. J'ai été
+adopté par Pétunia Evans-Verres, la sœur de Lily, et par son mari,
+Michael Verres-Evans.</em></p>
+<p><em>Je désire ardemment me rendre à Poudlard, si tant est qu'un tel lieu
+existe effectivement. Seule ma mère Pétunia dit connaître l'existence de
+la magie, et elle est elle-même incapable de la pratiquer. Mon père est
+très sceptique. Je suis moi-même hésitant. J'ignore aussi comment me
+procurer les livres et l'équipement que vous mentionnez dans la lettre
+d'admission.</em></p>
+<p><em>Ma mère a dit que vous aviez envoyé un représentant de Poudlard chez
+Lily Potter (Lily Evans à cette époque) afin de démontrer la réalité de
+la magie à sa famille et, je suppose, d'aider Lily à se procurer ses
+affaires de classe. Il serait fort utile que vous fassiez de même avec
+ma famille.</em></p>
+<p><em>Bien à vous,</em></p>
+<p><em>Harry James Potter-Evans-Verres.</em></p>
+<p>Harry ajouta son adresse puis il plia la lettre, la mit dans une
+enveloppe, et l'adressa à Poudlard. Quelques instants de réflexion le
+poussèrent à se procurer une bougie et à faire tomber de la cire sur le
+rabat de l'enveloppe dans laquelle il grava H.J.P.E.V à l'aide d'un
+canif. Quitte à devenir fou, autant que ce soit avec classe.</p>
+<p>Il ouvrit enfin la porte de sa chambre et descendit les escaliers. Son
+père était dans le salon et lisait un livre de mathématiques avancées
+pour montrer à quel point il était intelligent ; sa mère était dans la
+cuisine et préparait l'un des plats favoris de son mari pour montrer à
+quel point elle était aimante. La discussion semblait être close. Aussi
+effrayantes que les disputes puissent être, leur <em>absence</em> pouvait être
+bien pire.</p>
+<p>« Maman, » dit Harry au milieu de ce silence troublant, « je vais tester
+mon hypothèse. Que dit ta théorie sur la meilleure façon d'envoyer une
+chouette à Poudlard ? »</p>
+<p>Sa mère se détourna de l'évier et le regarda d'un air surpris. « Je...
+je ne sais pas, je crois qu'il faut avoir une chouette magique. »</p>
+<p>Cela aurait dû être fort suspect. <em>Oh, alors on ne peut pas tester ta
+théorie ?</em> Mais l'étrange certitude en Harry était prête à aller plus
+loin.</p>
+<p>« Bon, la lettre est bien arrivée jusqu'ici, » dit-il, « alors je vais
+l'agiter dehors en disant "Lettre pour Poudlard !" pour voir si une
+chouette vient la ramasser. Papa, tu veux venir regarder ? »</p>
+<p>Son père secoua lentement la tête et continua sa lecture. <em>Bien sûr</em>,
+songea Harry. La magie était une de ces croyances honteuses pour
+nigauds ; si son père allait jusqu'à <em>tester</em> l'hypothèse, s'il allait
+jusqu'à <em>observer</em> le test, ce serait comme de <em>s'associer</em> à
+celle-ci...</p>
+<p>Ce n'est qu'en sortant par la porte de derrière et vers le jardin qu'il
+comprit que, si jamais une chouette venait vraiment récupérer la lettre,
+il aurait bien du mal à l'expliquer à son père.</p>
+<p><em>Mais... c'est impossible, non ? Même si mon cerveau a l'air d'y croire.
+Si une chouette vient vraiment prendre cette enveloppe, j'aurai des
+soucis beaucoup plus sérieux que l'opinion de papa.</em></p>
+<p>Il inspira profondément et leva l'enveloppe en l'air.</p>
+<p>Il déglutit.</p>
+<p>S'écrier <em>Lettre pour Poudlard !,</em> du fond de son jardin, avec une
+enveloppe au bout de son bras dressé... Réflexion faite, c'était
+vraiment ridicule.</p>
+<p><em>Non. Je vaux mieux que papa. J'utiliserai la méthode scientifique, même
+si je me sens stupide.</em></p>
+<p>« Lettre... » dit Harry, mais ce fut plutôt une espèce de coassement
+chuchoté.</p>
+<p>Il rassembla son courage et cria vers le ciel vide : « <em>Lettre pour
+Poudlard ! Est-ce que je peux avoir une chouette ?</em> »</p>
+<p>« Harry ? » dit une voix de femme déconcertée. C'était l'une des
+voisines.</p>
+<p>Il baissa sa main comme si elle avait pris feu et cacha l'enveloppe dans
+son dos comme si c'était de l'argent sale. La honte lui brûlait les
+joues.</p>
+<p>Le visage d'une vieille femme émergea par-dessus une clôture. Des
+cheveux grisonnants s'échappaient de la résille qu'elle portait sur la
+tête. C'était Mlle Figg, qui lui servait parfois de baby-sitter.
+« Harry, qu'est-ce que tu fais ? »</p>
+<p>« Rien, » dit-il d'une voix étranglée. « Je... teste juste une théorie
+idiote... »</p>
+<p>« Est-ce que Poudlard t'a envoyé ta lettre d'admission ? »</p>
+<p>Il se figea.</p>
+<p>« Oui, » répondirent ses lèvres quelques instants plus tard. « J'ai reçu
+une lettre de Poudlard. Ils disent qu'ils veulent avoir reçu ma chouette
+avant le 31 juillet, mais... »</p>
+<p>« Mais tu n'as <em>pas</em> de chouette. Pauvre petit ! Comment ont-ils pu être
+assez <em>bêtes</em> pour t'envoyer la lettre habituelle ? »</p>
+<p>Un bras ridé passa par-dessus la clôture et ouvrit une main. À peine
+capable de réfléchir, Harry lui donna l'enveloppe.</p>
+<p>« Laisse-la-moi, mon petit, » dit Mlle Figg, « et je ferai venir
+quelqu'un en un rien de temps. »</p>
+<p>Puis son visage disparut derrière la clôture.</p>
+<p>Il y eut un long silence.</p>
+<p>Et la voix d'un petit garçon dit calmement et doucement : « Quoi ? »</p>
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                            <a rel="prev" href="../md/avant-propos.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                                <i class="fa fa-angle-left"></i>
+                            </a>
+
+                            <a rel="next prefetch" href="../md/chapter002.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                                <i class="fa fa-angle-right"></i>
+                            </a>
+
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                    <a rel="prev" href="../md/avant-propos.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                        <i class="fa fa-angle-left"></i>
+                    </a>
+
+                    <a rel="next prefetch" href="../md/chapter002.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                        <i class="fa fa-angle-right"></i>
+                    </a>
+            </nav>
+
+        </div>
+
+
+
+
+        <script>
+            window.playground_copyable = true;
+        </script>
+
+
+        <script src="../elasticlunr.min.js"></script>
+        <script src="../mark.min.js"></script>
+        <script src="../searcher.js"></script>
+
+        <script src="../clipboard.min.js"></script>
+        <script src="../highlight.js"></script>
+        <script src="../book.js"></script>
+
+        <!-- Custom JS scripts -->
+
+
+    </div>
+    </body>
+</html>
