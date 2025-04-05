@@ -47,7 +47,7 @@ Le livre en ligne est généré par [mdBook](https://github.com/rust-lang/mdBook
 
 - [x] génération des fichiers epub et PDF
 - [x] génération du mdBook et déploiement sur ghpages
-- [ ] Retrait des en-têtes de chapitre (disclaimer sur J. K. Rowling et citations) OK -> 028
+- [x] Retrait des en-têtes de chapitre (disclaimer sur J. K. Rowling et citations)
 - [ ] Gestion des passages en fourchelangue
 - [ ] Traduction des noms des personnages cohérente avec la traduction française
 - [ ] Correction des problèmes de ponctuation et des typos

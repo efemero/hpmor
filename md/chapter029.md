@@ -1,25 +1,5 @@
 # Biais égocentrique
 
-Et il faut que tu saches que, malheureusement, si tu veux découvrir ce
-qu'est J.K. Rowling, tu devras l'explorer toi-même.
-
-Préambules scientifiques : Luosha fait remarquer que la théorie de
-l'empathie du chapitre 27 (nous utiliserions notre cerveau pour simuler
-ceux des autres) n'est pas exactement un fait scientifique avéré. Les
-données pointent dans cette direction, mais nous n'avons pas
-suffisamment analysé la circuiterie cérébrale pour pouvoir le prouver.
-De même, les formulations intemporelles de la mécanique quantique
-(auxquelles il a été fait allusion dans le chapitre 28) sont si
-élégantes que je serais choqué d'apprendre que la théorie finale inclut
-la notion de temps ; mais ces formulations ne sont pour le moment pas
-non plus établies.
-
- 
-
-------------------------------------------------------------------------
-
- 
-
 Dernièrement, il y avait eu un malaise dans l'estomac de Hermione à
 chaque fois qu'elle avait entendu les autres élèves parler d'elle et de
 Harry. Alors qu'elle prenait une douche le matin même, elle avait

@@ -1,16 +1,5 @@
 # Rôles, partie 7
 
-
-*Note de l'auteur : Pour ceux qui n'ont pas lu l'histoire originale : la
-pancarte a quelque peu changé, mais l'inscription est la même que dans
-la version de J.K. Rowling.*
-
- 
-
-------------------------------------------------------------------------
-
- 
-
 *La quatrième rencontre :  
 (Le 17 avril 1992 à 16h38)*
 

@@ -1,14 +1,5 @@
 # Compromis Tabous, partie 2 : Le halo d'infamie
 
-
-NdT : PJ signifie Personnage Joueur.
-
- 
-
-------------------------------------------------------------------------
-
- 
-
 La Chambre Très Ancienne du Magenmagot est froide, sombre et dotée de
 demi-cercles concentriques de pierres qui s'élèvent du point le plus bas
 de son centre ainsi que de simples bancs de bois disposés sur ces

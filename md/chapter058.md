@@ -1,22 +1,5 @@
 # L'Expérience de Prison de Stanford, partie 8 : Cognition sous contraintes
 
-
-Note de l'auteur : Une bande annonce du film *Evil Dead 3* proche de
-celle que Harry a vue : [THV1KkPXIxQ sur
-YouTube](https://www.youtube.com/watch?v=THV1KkPXIxQ).
-
-La citation clé est la suivante, prononcée par un homme des temps
-moderne à l'attention d'une audience Moyenâgeuse :
-
-"Très bien, bande de nazes primitifs ! Écoutez-moi ! Vous voyez ça ?
-Ceci est… mon *balais de feu* !"
-
- 
-
-------------------------------------------------------------------------
-
- 
-
 Dans le noir absolu, un garçon appuyait sa baguette contre le mur de
 métal d'Azkaban et s'essayait à une magie à laquelle seulement trois
 autres habitants du monde magique auraient pu croire et qu'aucun d'eux

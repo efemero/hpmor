@@ -1,37 +1,5 @@
 # Dossiers Omake 3 : Parallèles alternatif
 
-
-Si vous auriez dû être au lit il y a plus de cinq heures et que vous
-lisez encore ceci, puis-je vous suggérer d'aller dormir un peu ? Cette
-histoire sera encore là demain… à moins bien sûr que *quelque chose* ne
-lui arrive, que vous ne trouviez en vous réveillant qu'un 404 à cette
-adresse et qu'il ne vous reste plus qu'un souvenir qui s'estompe ainsi
-que l'éternel regret de ne pas être resté debout plus longtemps pour
-lire tant que vous pouviez encore le faire… mais hé, quelles sont les
-chances que ça arrive ?
-
-Cette histoire se propage par blogs, tweets, bouche à oreille, ajouts de
-favoris, mentions sur des forums et adjonctions à des listes ; et
-souvenez-vous que si d'autres lecteurs avant vous n'avaient pas pris un
-moment pour le faire, vous ne l'auriez probablement jamais trouvée. Si
-ça ne suffit pas à vous motiver, laissez-moi ajouter que si vous n'aidez
-pas à propager la rationalité, Hermione sera triste. Dites, vous ne
-voudriez pas qu'elle soit triste ?
-
-N'oubliez pas de visiter LessWrong point com et de lire les Séquences,
-la véritable réalité dont cette histoire n'est qu'une ombre. Je
-recommande de commencer par la séquence *Comment vraiment changer
-d'avis*.
-
-Et maintenant, tous les univers étant la propriété de leur créateur
-respectifs, je présente :
-
- 
-
-------------------------------------------------------------------------
-
- 
-
 **DOSSIER OMAKE \#3 :**
 
 **LES AUTRES FANFICTIONS  

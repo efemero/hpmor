@@ -1,35 +1,5 @@
 # Problèmes de coordination, partie 1
 
-\[NdT : La traduction officielle *française* de l'extrait de Procope de
-Césarée cité par Dumbledore dans ce chapitre est si différente la
-version officielle *anglaise* que j'ai modifié la traduction *française*
-pour ne pas trop m'éloigner du sens précis des paroles de Dumbledore
-dans le contexte de cette histoire. Par souci de transparence, voici [la
-source où j'ai trouvé la version
-française](http://books.google.com/books?id=LaSDKWqZZ2oC&pg=PA79&lpg=PA79&dq=procopec%C3%A9sar%C3%A9e%22deuxpartis%22&source=bl&ots=KRyS9lQT2Y&sig=T9whMnEOaskHpkcIxOpvyrdSj1o&hl=en&ei=UhZUTqb5GsbNsgaHnuUX&sa=X&oi=book_result&ct=result&resnum=1&sqi=2&ved=0CBUQ6AEwAA#v=onepage&q=deux%20partis&f=false).
-J'en ai fait une retranscription partielle en français moderne.\]
-
- 
-
-------------------------------------------------------------------------
-
- 
-
-Je me contente de me le répéter, encore et encore, jusqu'à pouvoir
-décider de m'endormir : on en revient toujours à J.K. Rowling.
-
-La version de la théorie de la décision utilisée dans ce chapitre n'est
-pas celle qui domine dans les milieux académiques. Elle est basée sur
-quelque chose nommé "théorie de la décision intemporelle" qui est en
-cours de développement par (entre autres) Gary Drescher, Wei Dai,
-Vladimir Nesov, et, eh bien… (*toussote plusieurs fois)* moi.
-
- 
-
-------------------------------------------------------------------------
-
- 
-
 Ce qui était le plus effrayant, c'était la vitesse à laquelle l'affaire
 avait échappé à tout contrôle.
 

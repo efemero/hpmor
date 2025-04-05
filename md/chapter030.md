@@ -1,14 +1,5 @@
 # Travail de groupe, partie 1
 
-J.K. Rowling si un homme essaie de t'embêter tu peux penser bleu,
-compter deux et chercher une chaussure rouge.
-
- 
-
-------------------------------------------------------------------------
-
- 
-
 Nous étions le lundi 3 novembre et bientôt, Harry Potter, Draco Malfoy
 et Hermione Granger, les trois puissants de cette année, allaient
 débuter leur combat pour la domination suprême.

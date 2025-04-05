@@ -1,15 +1,5 @@
 # Théorie de l'identité individuelle
 
-
-NdT : J'utilise le mot anglais sentient à la façon de Guy Abadia dans sa
-traduction de *L'Étoile et le Fouet* (*Whipping Star* de Frank Herbert).
-
- 
-
-------------------------------------------------------------------------
-
- 
-
 Tout complot voit advenir un moment où la victime commence à avoir des
 soupçons ; et, jetant un regard en arrière, elle voit une série
 d'événements pointant tous dans une unique direction. Et Père avait

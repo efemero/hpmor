@@ -1,34 +1,5 @@
 # Après-coup, quelque chose à protéger : Draco Malfoy
 
-
-*Annonce de l'auteur : Adieu, Terry Pratchett, 1948-2015. Vos
-personnages m'ont inspirés et je comprends maintenant tout ce qu'ils
-m'ont appris sur l'Intelligence des Personnages de niveau 1 et 3 : que
-la conscience de soi se manifeste souvent par l'humour ou la
-connaissance de son genre littéraire ; qu'un étincelle d'optimisation
-peut briller aussi vivement chez les personnages que l'on dit (mais qui
-ne se montrent pas) être humbles et stupides ; que les personnages
-intelligents peuvent être accompagnés d'une étincelle de bonté à travers
-leur histoire, plutôt que par du cynisme. J'aurais aimé vous rencontrer
-et vous parler de vos méthodes. Nombreux sont ceux qui vous aimaient, et
-au moins l'un d'eux aurait été jusqu'à disloquer les fondements de la
-réalité pour vous sauver ; mais votre cerveau est maintenant mort et
-chaud, et votre histoire se conclut donc.*
-
-*Que meurent les étoiles du ciel*  
-*Nos péchés resteront éternels.*  
-*Aucune mort ne sera oubliée*  
-*Au départ du soleil dernier.* *Et dans le noir silencieux et froid*  
-*Quand s'éteindront matière et éclat*  
-*D'un dernier regard en arrière,*  
-*À l'ami absent, nous lèverons nos verres.*
-
- 
-
-------------------------------------------------------------------------
-
- 
-
 Le garçon était assis dans un bureau non loin de l'ancien bureau de la
 directrice adjointe. Ses larmes s'étaient asséchées des heures plus tôt.
 Il ne lui restait que l'attente de son devenir, celui d'un orphelin de

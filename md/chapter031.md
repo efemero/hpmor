@@ -74,7 +74,6 @@ aurait besoin de temps avant de se rendre compte que les méthodes
 s'appliquaient à la vie de tous les jours, et Draco ne l'avait pas
 *compris* avant aujourd'hui. Il aurait pu éviter chacune de ses erreurs
 s'il avait juste *appliqué* les choses que Harry lui avait déjà *dites*
--
 
 Draco dit à voix haute : "Je remarque que je suis confus."
 
@@ -103,7 +102,7 @@ chacune des trois armées.
 
 *Maudit* professeur Quirrell !
 
-Draco l'avait *lu* et malgré cela il ne l'avait pas *vu* -
+Draco l'avait *lu* et malgré cela il ne l'avait pas *vu* 
 
  
 
