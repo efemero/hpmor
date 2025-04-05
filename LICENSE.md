@@ -1,6 +1,6 @@
 Il n’y a pas de licence évidente pour ce livre.
 
-J. K. Rowling autorise les fanfictions tant que c’est non commercial.
+J. K. Rowling autorise les fanfictions tant que c’est non commercial. Sans doute quelque chose qui se rapproche d’une licence [CC-BY-NC](https://creativecommons.org/licenses/by-nc/4.0/deed.fr), mais en plus restrictif.
 
 Eliezer Yudkowsky a implicitement mis son travail dans le domaine public avec la mention suivante:
 
