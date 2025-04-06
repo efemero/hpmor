@@ -431,12 +431,12 @@ s'accroupit à côté de lui. "M. Potter," dit-elle, gentiment cette fois,
 "ce n'est pas votre responsabilité que de prendre soin des étudiants de
 Poudlard. C'est la mienne. Je ne laisserai rien vous arriver, ni à qui
 que ce soit d'autre. Poudlard est l'endroit le plus sûr de toute
-l'Angleterre magique, et madame Pomfrey a un cabinet de guérisseur
+l'Angleterre magique, et madame Pomfresh a un cabinet de guérisseur
 complet. Vous n'avez pas besoin d'un kit de soin."
 
 "Mais *si* !" éclata Harry. "*Aucun endroit* n'est parfaitement sûr ! Et
 si mes parents avaient une crise cardiaque ou un accident quand je
-rentrais à Noël - Madame Pomfrey ne serait pas là, j'aurais besoin
+rentrais à Noël - Madame Pomfresh ne serait pas là, j'aurais besoin
 d'avoir mon propre kit de soin -"
 
 "Par Merlin, *qu'est-ce qui*…" dit McGonagall. Elle se leva, et regarda

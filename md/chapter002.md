@@ -155,7 +155,7 @@ maintenant. »
 
 McGonagall fit un long *hmmmmm*. « Je ne me souviens pas avoir entendu
 parler d'un cas pareil auparavant… » dit-elle lentement. « Je vérifierai
-avec Madame Pomfrey si elle connaît un remède. » Puis son visage
+avec Madame Pomfresh si elle connaît un remède. » Puis son visage
 s'éclaircit. « Non, je suis sûre qu'il n'y aura pas de problème - Je
 trouverai une solution d'une façon ou d'une autre. Maintenant, » et son
 regard devint dur à nouveau, « quelles sont ces *autres* raisons ? »
