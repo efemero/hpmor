@@ -592,7 +592,7 @@ c-crucifier."
 certainement pas une chose pareille."
 
 "Euh…" dit Harry. Il se souvint de la figure parfaite en robe noire et
-aux cheveux blancs qui était entrée chez Madame Malkin, maniant sa
+aux cheveux blancs qui était entrée chez Madame Guipure, maniant sa
 magnifique cane à poignée d'argent. C'était juste tellement difficile de
 visualiser ce tueur parfait sous les traits d'un papa gâteau. "Ne le
 prends pas mal, mais comment *sais*-tu ça ?"
