@@ -24,6 +24,8 @@ Mes choix (totalements subjectifs) sont:
   - pour le PDF, se rapprocher au maximum de [cette version anglaise](https://github.com/TheAllSeeing/hpmor), et donc à terme le diviser en plusieurs livres, ainsi que pouvoir l’imprimer en format A5 en utilisant une simple imprimante A4
   - pour l’epub, avoir une version simple et continue en un seul livre
   - utiliser la police fourchelangue pour les 3 versions
+  - utilisation de l’orthographe rectifiée de 1990
+  - un petit geste militant pour les générations futures: pas d’accord du participe passé avec « avoir ».Les règles archaïques, je ne les ai pas appliqué!
 
 Je le répète, ces choix (et les autres qui viendront à mesure que le projet avance) sont purement subjectifs et peuvent ne pas plaire à tout le monde. Ma démarche est personnelle et vise à produire ce que j’aurais voulu lire.
 
