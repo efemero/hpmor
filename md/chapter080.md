@@ -33,7 +33,7 @@ sache les construire.
 Sur le plus haut des demi-cercles surélevés du Magenmagot, à l'étage
 pierre noire le plus élevé, se trouve un podium. Et sur ce podium se
 tient un vieil homme au visage ridé de souci et à la barbe d'argent qui
-tombe en-dessous de sa ceinture : c'est Albus Percival Wulfric Brian
+tombe en-dessous de sa ceinture : c'est Albus Perceval Wulfric Brian
 Dumbledore. Sa main droite porte une baguette de pouvoir et sur son
 épaule perche un oiseau de feu. Sa main gauche tient un bâton court, fin
 et sans atours, forgé de la même pierre noire que les murs, et il s'agit

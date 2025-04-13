@@ -339,7 +339,7 @@ leur faisait face s'ouvrit sans avoir été touchée.
 Derrière un bureau de chêne noir muni de dizaines de tiroirs orientés
 dans toutes les directions possibles et semblant avoir des tiroirs
 incrustés *dans* d'autres tiroirs, le directeur à barbe d'argent de
-Poudlard se tenait sur son trône ; Albus Percival Wulfric Brian
+Poudlard se tenait sur son trône ; Albus Perceval Wulfric Brian
 Dumbledore, dans les doux et pétillants yeux duquel elle regarda pendant
 environ trois secondes avant d'être distraite par tous les autres objets
 présents dans la pièce.

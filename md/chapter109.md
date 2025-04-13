@@ -386,7 +386,7 @@ plausible. En utilisant la capacité du Miroir à montrer leurs désirs
 profonds aux autres… Albus Dumbledore se verrait réunit avec sa famille.
 Il se verrait uni avec eux *dans la mort*, il voudrait mourir plutôt que
 de les voir revenir à la vie. Son frère Aberforth, sa sœur Ariana, ses
-parents Kendra et Percival… et je pense que Dumbledore aurait donné la
+parents Kendra et Perceval… et je pense que Dumbledore aurait donné la
 pierre à Aberforth. Le Miroir saurait-il que c'est Aberforth en
 particulier qui a reçu la Pierre ? Ou n'importe quel parent mort
 ferait-il l'affaire, si celui qui fait face au miroir croit que l'esprit

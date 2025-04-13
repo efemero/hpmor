@@ -422,7 +422,7 @@ pierre de Poudlard fut de nouveau remplit.
 
 Et devant eux, vêtus de robes violet vif qui n'étaient probablement
 hideuses qu'aux yeux d'un né-Moldu, se tenait l'immense silhouette
-d'Albus Percival Wulfric Brian Dumbledore, directeur de Poudlard,
+d'Albus Perceval Wulfric Brian Dumbledore, directeur de Poudlard,
 sorcier en chef du Magenmagot, Manitou suprême de la confédération
 internationale des sorciers, vainqueur du Seigneur des Ténèbres
 Grindelwald, protecteur de l'Angleterre, redécouvreur des légendaires
@@ -585,7 +585,7 @@ pierre au rythme du mouvement de sa chair.
 
 Les immenses et horribles silhouettes attendirent brièvement, leurs yeux
 gris et morts braqués droit devant elles tels des vigies silencieuses,
-tandis qu'Albus Percival Wulfric Brian Dumbledore, souriant d'un air
+tandis qu'Albus Perceval Wulfric Brian Dumbledore, souriant d'un air
 aussi bienveillant que lorsqu'il avait émergé de son bureau, remontait
 dans l'Enchantement des Escaliers Infinis.
 

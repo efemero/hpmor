@@ -605,5 +605,5 @@ circonstance atténuante. Mais cela… *l'embêtait quand même beaucoup*.
 
 Et l'heure était venue, et même depuis longtemps passée, de demander à
 Drago Malfoy ce que l'*autre* camp de cette guerre avait à dire sur la
-personnalité d'Albus Percival Wulfric Brian Dumbledore.
+personnalité d'Albus Perceval Wulfric Brian Dumbledore.
 

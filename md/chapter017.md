@@ -854,7 +854,7 @@ gauche.
 Au milieu de tout ce chaos se trouvait un bureau en chêne noir bien
 rangé. Devant le bureau se trouvait un tabouret en chêne. Et derrière le
 bureau se trouvait un trône bien rembourré dans lequel était assis Albus
-Percival Wulfric Brian Dumbledore, qui était orné d'une longue barbe
+Perceval Wulfric Brian Dumbledore, qui était orné d'une longue barbe
 d'argent, d'un chapeau ressemblant à un immense champignon écrasé, et de
 ce qui à des yeux moldus aurait ressemblé à trois couches de pyjamas
 rose vif.

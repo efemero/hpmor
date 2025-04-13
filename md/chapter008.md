@@ -132,7 +132,7 @@ je ne sache pas pourquoi, dont l'emplacement avait été révélé par Sirius
 Black bien qu'ils n'aient pas précisé comment ils savaient que c'était
 lui. Tu as été retrouvé en vie avec la cicatrice sur ton front dans les
 ruines de la maison de tes parents non loin des restes calcinés du corps
-de Tu-Sais-Qui. Le président du Magenmagot Albus Percival Wulfric Brian
+de Tu-Sais-Qui. Le président du Magenmagot Albus Perceval Wulfric Brian
 Dumbledore t'a envoyé quelque part, personne ne sait où. *La montée et
 le déclin des Arts Sombres* prétend que tu as survécu grâce à l'amour de
 ta mère et que ta cicatrice contient tous les pouvoirs du Seigneur des

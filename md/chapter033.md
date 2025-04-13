@@ -629,7 +629,7 @@ Seigneur des Ténèbres, et de nombreux autres faits apparaissaient dans
 son esprit les uns après les autres tandis que sa gorge émettait
 d'embarrassants petits couinements.
 
-"À vrai dire," dit Albus Percival Wulfric Brian Dumbledore, "c'est un
+"À vrai dire," dit Albus Perceval Wulfric Brian Dumbledore, "c'est un
 heureux hasard que nous nous soyons ainsi rentrés dedans. Allons, je me
 demandais justement, et avec curiosité, ce que vous trois comptiez
 demander pour votre vœu…"

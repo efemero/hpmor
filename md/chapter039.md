@@ -868,7 +868,7 @@ de l'utiliser pour *tout le monde* !"
 
 Tick, crac, fzzt…
 
-Albus Percival Wulfric Brian Dumbledore était immobile et fixait Harry,
+Albus Perceval Wulfric Brian Dumbledore était immobile et fixait Harry,
 la bouche grande ouverte, l'air hébété.
 
 (Harry se décerna un point pour lundi puisqu'il était parvenu à

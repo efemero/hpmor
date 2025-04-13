@@ -63,7 +63,7 @@ Tous les regards étaient braqués sur elle.
 Minerva. À son accent Écossais sec se mêlait de la tristesse. "Et la
 plupart sont terribles. D'abord. Si c'est moi qui m'adresse à vous,
 c'est parce que le directeur de Poudlard, Albus," elle buta sur le mot,
-"Percival Wulfric Brian Dumbledore nous a été pris. Vous-Savez-Qui l'a
+"Perceval Wulfric Brian Dumbledore nous a été pris. Vous-Savez-Qui l'a
 enfermé hors du Temps et nous ignorons si nous pourrons un jour le
 ramener. Nous… nous avons perdu… celui qui a peut-être été le meilleur
 directeur… que Poudlard ait jamais eu."

@@ -587,7 +587,7 @@ comprends pas pourquoi vous *donnez des gens à manger aux Détraqueurs !
 Azkaban n'est pas une prison, c'est une salle de torture où vous
 torturez les gens jusqu'à la MORT !*"
 
-"Percival," dit le vieux sorcier d'une voix rauque, "Percival
+"Perceval," dit le vieux sorcier d'une voix rauque, "Perceval
 Dumbledore, mon propre père, Harry, mon propre père est mort à Azkaban !
 Je sais, je sais que c'est horrible ! *Mais que voudrais-tu me voir
 faire ?* Entrer à Azkaban de force ? Voudrais-tu me voir déclarer une

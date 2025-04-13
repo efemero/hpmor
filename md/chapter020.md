@@ -571,7 +571,7 @@ effrayante qu'il ait jamais vue s'en allait, remplacée par une partie de
 lui capable d'absorber le choc.
 
 *Aucune* des facettes de Harry n'était contente de se faire interrompre
-en pleine observation stellaire. "Professeur Albus Percival -" commença
+en pleine observation stellaire. "Professeur Albus Perceval -" commença
 Harry d'un ton de glace.
 
 *BLAM*. La main du professeur Quirrell s'abattit avec force sur son

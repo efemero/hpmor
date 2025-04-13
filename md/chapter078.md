@@ -85,7 +85,7 @@ la considérait comme une figure importante d'une faction mineure du
 Magenmagot.
 
 À côté de madame Londubat ne se trouvait nul autre que l'Enchanteur en
-Chef, le Manitou suprême, Albus Percival Wulfric Brian Dumbledore,
+Chef, le Manitou suprême, Albus Perceval Wulfric Brian Dumbledore,
 légendaire vainqueur de Grindelwald, protecteur d'Angleterre,
 redécouvreur des mythiques douze usages du sang de dragon, le plus
 puissant sorcier du monde, etc.
@@ -1229,7 +1229,7 @@ encore de stupéfaction, "semblent venir des bancs Poufsouffle."
 
 "Après tout, c'est la maison de la loyauté, ma chère" dit Amelia.
 
-"Albus Percival Wulfric Brian Dumbledore ! *Nom de Merlin, qu'est-ce qui
+"Albus Perceval Wulfric Brian Dumbledore ! *Nom de Merlin, qu'est-ce qui
 se passe dans cette école !*"
 
 Lucius Malfoy regardait les écrans avec un sourire ironique tandis que
