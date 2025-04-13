@@ -75,7 +75,7 @@ déplia.
 
 *VOYANTE BOURRÉE CRACHE LE MORCEAU :  
 LE SEIGNEUR DES TÉNÈBRES VA REVENIR,  
-MARIÉ À DRACO MALFOY*
+MARIÉ À DRAGO MALFOY*
 
 "C'est gratuit," dit le vendeur, "pour *vous*, je veux dire -"
 

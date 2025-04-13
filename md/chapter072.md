@@ -65,7 +65,7 @@ L'espace d'un instant, Hermione imagina ses parents lisant un article de
 journal à son sujet sauf qu'au lieu de parler de sa victoire nationale
 au concours d'orthographe ou de n'importe lequel des autres moyens par
 lesquels elle s'était imaginée finir dans le journal, le gros titre
-disait : "DRACO MALFOY TOMBE ENCEINTE DE HERMIONE GRANGER".
+disait : "DRAGO MALFOY TOMBE ENCEINTE DE HERMIONE GRANGER".
 
 Ça suffisait à vous faire réfléchir à deux fois à l'idée de se lancer
 dans une carrière d'héroïne.
