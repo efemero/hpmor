@@ -234,7 +234,7 @@ Ne sachant que trop bien ce qu'elle allait voir, Minerva se tourna pour
 observer le reste de la table d'honneur.
 
 Trelawney s'éventait frénétiquement, Flitwick observait avec curiosité,
-Hagrid applaudissait au rythme de la musique, Sprout avait l'air sévère,
+Hagrid applaudissait au rythme de la musique, Chourave avait l'air sévère,
 Vector et Sinistra s'amusaient, et Quirrell regardait dans la vide.
 Albus avait un sourire bienveillant. Et Rogue serrait sa coupe de vin
 vide, ses jointures blanches, avec tant de force que l'argent de la

@@ -701,7 +701,7 @@ plus âgée.
 Le plus grand des Serpentard relâcha la main de Harry et fit un bond en
 arrière comme si elle était brûlante.
 
-"Professeur Sprout !" s'écria l'un des Poufsouffle, d'un ton plus
+"Professeur Chourave !" s'écria l'un des Poufsouffle, d'un ton plus
 heureux que Harry n'avait jamais entendu de sa vie.
 
 Alors qu'il pivotait, une petite femme boulotte se faufila dans son
@@ -723,19 +723,19 @@ publiques !"
 Un troisième Serpentard ne put s'empêcher de rire puis s'arrêta de façon
 abrupte lorsque les autres garçons lui jetèrent des regards mortels.
 
-Le Professeur Sprout avait adopté une expression plutôt sceptique. "Et
+Le Professeur Chourave avait adopté une expression plutôt sceptique. "Et
 de quelle menace mortelle s'agirait-il exactement ?"
 
 "Le Sort de Mort ! Il a feint d'utiliser le Sort de Mort sur nous !"
 
-Le Professeur Sprout se tourna et regarda Harry. "Oui, une menace
+Le Professeur Chourave se tourna et regarda Harry. "Oui, une menace
 vraiment terrible venant d'un garçon de onze ans. Mais tout de même pas
 quelque chose que vous devriez *jamais* rêver de feindre, Harry Potter."
 
 "Je ne connais même pas les *mots* du Sort de Mort," dit promptement
 Harry. "Et je n'ai sorti ma baguette à aucun moment."
 
-C'était maintenant à Harry que le Professeur Sprout jetait un regard
+C'était maintenant à Harry que le Professeur Chourave jetait un regard
 sceptique. "J'imagine que ce garçon s'est jeté deux tartes sur
 *lui-même* alors."
 
@@ -743,20 +743,20 @@ sceptique. "J'imagine que ce garçon s'est jeté deux tartes sur
 "Je ne sais pas non plus comment il a fait, il a claqué des doigts, et
 il y avait une tarte !"
 
-"Vraiment," dit le Professeur Sprout après une pause. Elle tira sa
+"Vraiment," dit le Professeur Chourave après une pause. Elle tira sa
 propre baguette. "Je ne l'exigerai pas vu que vous semblez être la
 victime, mais accepteriez-vous que j'examine votre baguette pour
 vérifier ça ?"
 
 Harry sortit sa baguette. "Qu'est ce que je -"
 
-"*Priori Incantatem*," dit Sprout. Elle fronça les sourcils. "C'est
+"*Priori Incantatem*," dit Chourave. Elle fronça les sourcils. "C'est
 étrange, votre baguette semble n'avoir jamais été utilisée."
 
 Harry haussa les épaules. "C'est le cas à vrai dire, je n'ai eu ma
 baguette et mes manuels qu'il y a quelques jours."
 
-Sprout hocha la tête. "Alors nous avons un clair cas de magie
+Chourave hocha la tête. "Alors nous avons un clair cas de magie
 accidentelle de la part d'un garçon qui se sentait menacé. Et les règles
 disent clairement que vous ne serez pas tenu pour responsable. En ce qui
 *vous* concerne…" elle se tourna vers les Serpentard. Ses yeux
@@ -776,7 +776,7 @@ Neville alla ramasser ses livres. Il semblait pleurer mais un petit peu
 seulement. Ç'aurait pu être l'effet différé du choc, ou ç'aurait pu être
 parce que les autres garçons l'aidaient.
 
-"Merci *beaucoup*, Harry Potter," lui dit le Professeur Sprout. "Sept
+"Merci *beaucoup*, Harry Potter," lui dit le Professeur Chourave. "Sept
 points à Serdaigle, un pour chaque Poufsouffle que vous avez protégé. Et
 je ne dirai rien de plus."
 
@@ -784,9 +784,9 @@ Harry cligna des yeux. Il s'était attendu à quelque chose ressemblant à
 une conférence sur l'importance de rester à l'écart des ennuis, et une
 réprimande plutôt sévère pour avoir raté son tout premier cours.
 
-Peut-être qu'il aurait *dû* aller à Poufsouffle. Sprout était cool.
+Peut-être qu'il aurait *dû* aller à Poufsouffle. Chourave était cool.
 
-"*Récurvite*," dit Sprout au fatras de tartes qui était sur le sol, qui
+"*Récurvite*," dit Chourave au fatras de tartes qui était sur le sol, qui
 disparut promptement.
 
 Et elle partit, marchant le long du couloir qui menait à la salle
@@ -951,9 +951,9 @@ que la vieille dame dans le tableau lui aurait dit qu'à ce sujet, la
 seule opinion qui comptait était la sienne.
 
 Et Harry se demandait aussi si le Contrôleur du Jeu avait envoyé le
-Professeur Sprout. C'était logique : la note avait menacé d'avertir les
-autorités du Jeu, et le Professeur Sprout était arrivé. Peut-être que le
-Professeur Sprout *était* le Contrôleur du Jeu, la *Directrice de la
+Professeur Chourave. C'était logique : la note avait menacé d'avertir les
+autorités du Jeu, et le Professeur Chourave était arrivé. Peut-être que le
+Professeur Chourave *était* le Contrôleur du Jeu, la *Directrice de la
 Maison Poufsouffle* était la *dernière* personne que quiconque aurait
 soupçonne, ce qui devait la mettre presque en haut de la liste de Harry.
 Il avait aussi lu un ou deux mystères policiers.
