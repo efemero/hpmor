@@ -43,7 +43,7 @@ Harry s’ébouriffa les cheveux. Peut-être était-ce à cause de l’étrange
 partie de lui qui avait *déjà* été convaincue, mais… « Voilà qui est un
 peu décevant, » dit Harry. « Vous penseriez qu’il y aurait une sorte
 d’évènement mental spectaculaire au moment d’une mise à jour au sujet
-d’une probabilité infinitésimale — » Harry s’interrompit. Maman,
+d’une probabilité infinitésimale — » Harry s’interrompit. Maman,
 McGonagall, et même Papa lui jetaient à nouveau *ce regard*. « Je veux
 dire au moment où on se rend compte que tout ce qu’on croit est faux. »
 
@@ -109,7 +109,7 @@ que les vraies lois étaient parfaitement universelles et n’avaient
 d’exception nulle part et prenaient la forme de simples mathématiques
 gouvernant les parties infinitésimales des choses ; *sans parler du
 fait* que l’esprit était le cerveau et que le cerveau était fait de
-neurones, qu’un cerveau était une personne, *était* —
+neurones, qu’un cerveau était une personne, *était* —
 
 Puis une femme s’était transformée en chat, et tant pis pour tout le
 reste.
@@ -153,7 +153,7 @@ maintenant. »
 McGonagall fit un long « hmmmmm ». « Je ne me souviens pas avoir entendu
 parler d’un cas pareil auparavant… » dit-elle lentement. « Je vérifierai
 auprès de Madame Pomfresh si elle connait un remède. » Puis son visage
-s’éclaircit. « Non, je suis sure qu’il n’y aura pas de problème — je
+s’éclaircit. « Non, je suis sure qu’il n’y aura pas de problème — je
 trouverai une solution d’une façon ou d’une autre. Maintenant, » et son
 regard devint dur à nouveau, « quelles sont ces *autres* raisons ? »
 

@@ -37,7 +37,7 @@ générale du monde.
 Il y eut le son d’une porte interwagon qui s’ouvrait, puis des pas et
 un étrange bruit de glissement venant du couloir. Hermione mit
 *L’Histoire de Poudlard* de côté, se leva, pencha sa tête dans le
-couloir — juste au cas où quelqu’un aurait besoin d’aide — et elle vit
+couloir — juste au cas où quelqu’un aurait besoin d’aide — et elle vit
 un jeune garçon habillé de robes de sorciers, probablement en première
 ou deuxième année vu sa taille, à l’air passablement idiot avec une
 écharpe enroulée autour de sa tête. Une petite malle se tenait à ses
@@ -46,8 +46,8 @@ compartiment, fermé, et dit d’une voix légèrement étouffée par
 l’écharpe : « Excusez-moi, pourrais-je vous poser une question rapide ? »
 
 Elle n’entendit pas la réponse venue de l’intérieur du compartiment,
-mais après que le garçon ait ouvert la porte, elle crut l’entendre dire —
-à moins qu’elle n’ait mal compris — « Quelqu’un ici connait-il les six
+mais après que le garçon ait ouvert la porte, elle crut l’entendre dire —
+à moins qu’elle n’ait mal compris — « Quelqu’un ici connait-il les six
 quarks, ou bien l’endroit où je pourrais trouver une fille de première
 année nommée Hermione Granger ? »
 
@@ -98,7 +98,7 @@ Granger ! »
 j’ai juste dit que tu étais Hermione Granger. Si tu veux savoir comment
 je le sais, c’est parce que je sais tout. Bonsoir mesdames et messieurs,
 mon nom est Harry James Potter-Evans-Verres ou Harry Potter pour faire
-plus court, je sais que, pour une fois ça ne *te* dira rien — »
+plus court, je sais que, pour une fois ça ne *te* dira rien — »
 
 Le cerveau de Hermione fit enfin le rapprochement. La cicatrice sur son
 front, la forme en éclair. « Harry Potter ! Tu es dans *Histoire Magique
@@ -154,7 +154,7 @@ rêvé qu’elle le soit, mais j’ai dû lire mes manuels cinq fois avant de
 les avoir tous mémorisés. »
 
 « Vraiment, » dit le garçon d’une voix subtilement étranglée. « J’espère
-que ça ne te dérange pas si je teste ça — ce n’est pas que je ne te
+que ça ne te dérange pas si je teste ça — ce n’est pas que je ne te
 crois pas, mais, comme on dit : “Fais confiance, mais vérifie”. Pas la
 peine que je m’interroge quand je peux juste faire une expérience. »
 
@@ -169,7 +169,7 @@ Instantanément, Hermione voulut posséder l’une de ces bourses plus
 qu’elle n’avait jamais désiré autre chose.
 
 Le garçon ouvrit le livre quelque part au milieu et lut. « Si tu faisais
-de *l’huile de perspicacité* — »
+de *l’huile de perspicacité* — »
 
 « Je peux *voir* la page d’ici, tu sais ! »
 
@@ -192,7 +192,7 @@ bien. Je voudrais vous faire une proposition, Mademoiselle Granger. »
 pas écouter ce genre de choses.
 
 C’est aussi à ce moment que Hermione se rendit compte de l’autre
-détail — enfin, l’un des détails — étrange chez ce garçon. Apparemment,
+détail — enfin, l’un des détails — étrange chez ce garçon. Apparemment,
 les gens *des* livres *ressemblaient* à des livres quand ils parlaient.
 C’était une découverte pour le moins surprenante.
 
@@ -270,7 +270,7 @@ vêtements ! »
 « Pas de panique ! » dit le garçon. « Je peux t’arranger ça. Regarde ! » Il
 leva une main et claqua des doigts.
 
-« Tu vas — » puis elle baissa les yeux.
+« Tu vas — » puis elle baissa les yeux.
 
 Le fluide vert était encore là, mais, alors même qu’elle le regardait, il
 commença à disparaitre, à s’effacer, et en seulement quelques instants
@@ -286,7 +286,7 @@ Puis elle se souvint de ce qu’elle avait lu, hoqueta, et s’écarta de
 lui. *Tout le pouvoir du Seigneur des Ténèbres ! Dans sa cicatrice !*
 
 Elle se leva hâtivement. « J’ai, j’ai, j’ai besoin d’aller aux lavabos,
-attends ici — » il fallait qu’elle trouve un adulte pour le leur dire —
+attends ici — » il fallait qu’elle trouve un adulte pour le leur dire —
 
 Le sourire du garçon disparu. « C’était juste un tour, Hermione. Je suis
 désolé, je ne voulais pas te faire peur. »
@@ -324,9 +324,9 @@ passa des vitesses, vrombit, et cracha les instructions nécessaires à la
 réalisation d’un projet scientifique pour une kermesse d’école
 primaire :
 
-*Étape1 : Former une hypothèse.  
-Étape 2 : Faire une expérience pour tester l’hypothèse.  
-Étape 3 : Mesurer les résultats.  
+*Étape1 : Former une hypothèse.
+Étape 2 : Faire une expérience pour tester l’hypothèse.
+Étape 3 : Mesurer les résultats.
 Étape 4 : Faire une affiche en carton.*
 
 L’étape 1 était de former une hypothèse. Cela voulait dire : essayer de
@@ -367,7 +367,7 @@ et je n’ai pas envie que ça se produise. »
 « Fais-le sur les miennes, » dit le garçon, « comme ça tu n’as pas à
 t’inquiéter que tes robes soient tachées. »
 
-« Mais — » dit Hermione. Il y avait quelque chose qui *clochait* avec
+« Mais — » dit Hermione. Il y avait quelque chose qui *clochait* avec
 cette façon de penser, mais elle ne savait pas comment le formuler
 précisément.
 
@@ -375,7 +375,7 @@ précisément.
 
 « Mais tu n’as nulle part où te changer, » objecta Hermione. Puis elle
 révisa son opinion. « Bien que je suppose que je pourrais sortir et
-fermer la porte — »
+fermer la porte — »
 
 « J’ai aussi un endroit où me changer dans ma malle. »
 
@@ -418,8 +418,8 @@ n’était pas ensorcelée. Mais à moins de lire des livres bien, bien
 meilleurs, tes livres ne t’apprendront pas à pratiquer la science
 *correctement*. Je veux dire assez bien pour trouver la bonne réponse,
 et pas juste pondre une publication de plus comme celles dont Papa se
-plaint toujours. Alors, laisse-moi essayer de t’expliquer — sans te
-donner la réponse — ce que tu as mal fait cette fois, et je te donnerai
+plaint toujours. Alors, laisse-moi essayer de t’expliquer — sans te
+donner la réponse — ce que tu as mal fait cette fois, et je te donnerai
 une autre chance. »
 
 Elle commençait à ne pas apprécier le ton oh-si-supérieur du garçon,
@@ -429,7 +429,7 @@ trompée. « Très bien. »
 
 L’expression du garçon devint plus intense. « C’est un jeu basé sur une
 expérience connue nommée l’exercice 2-4-6, et voilà comment elle se
-déroule. J’ai une *règle* — connue par moi, mais pas par toi — qui
+déroule. J’ai une *règle* — connue par moi, mais pas par toi — qui
 correspond à des triplets de trois nombres, mais pas à certains autres.
 2-4-6 est un exemple de triplet qui correspond à la règle. En fait…
 laisse-moi écrire la règle, juste pour que tu saches qu’elle est fixe,
@@ -443,12 +443,12 @@ solidement ses yeux pendant qu’il écrivait.
 ça dans ta poche, » et elle s’exécuta.
 
 « Maintenant, la façon dont ce jeu fonctionne, » dit le garçon, « c’est que
-tu me donnes un triplet de trois nombres, et je te dis “Oui” si les
-trois nombres correspondent à la règle, et “Non” s’ils ne correspondent
+tu me donnes un triplet de trois nombres, et je te dis « Oui » si les
+trois nombres correspondent à la règle, et « Non » s’ils ne correspondent
 pas. Je suis la Nature, la règle est une de mes lois, et tu m’étudies.
-Tu sais déjà que 2-4-6 donne un “Oui”. Une fois que tu as effectué tous
-les tests supplémentaires que tu souhaites — que tu m’as soumis autant
-de triplets que tu juges nécessaires — tu t’arrêtes et tu devines la
+Tu sais déjà que 2-4-6 donne un « Oui ». Une fois que tu as effectué tous
+les tests supplémentaires que tu souhaites — que tu m’as soumis autant
+de triplets que tu juges nécessaires — tu t’arrêtes et tu devines la
 règle, et là tu peux déplier la feuille et voir si tu as réussi.
 Comprends-tu le jeu ? »
 
@@ -510,15 +510,15 @@ encontre, que le garçon était un sale petit menteur tricheur pourri,
 mais, lorsqu’elle chercha dans ses souvenirs, elle ne put trouver une
 seule mauvaise réponse parmi celles qu’il avait données.
 
-« Ce que tu viens de découvrir est appelé “biais positif”, dit le garçon.
+« Ce que tu viens de découvrir est appelé « biais positif », dit le garçon.
 « Tu avais une règle en tête, et tu as continué à penser à des triplets
-qui feraient dire “Oui” à la règle. Mais tu n’as pas essayé de tester
-autant de triplets que possible qui feraient dire “Non” à la règle. En
-fait, tu n’as pas eu un *seul* “Non”, donc “trois nombres, n’importe
-lesquels” aurait tout aussi bien pu être la règle. C’est comme quand les
+qui feraient dire « Oui » à la règle. Mais tu n’as pas essayé de tester
+autant de triplets que possible qui feraient dire « Non » à la règle. En
+fait, tu n’as pas eu un *seul* « Non », donc « trois nombres, n’importe
+lesquels » aurait tout aussi bien pu être la règle. C’est comme quand les
 gens imaginent des expériences qui pourraient confirmer leurs hypothèses
 au lieu d’essayer d’imaginer des expériences qui pourraient les
-falsifier — ce n’est pas exactement la même erreur, mais presque. Tu
+falsifier — ce n’est pas exactement la même erreur, mais presque. Tu
 dois apprendre à regarder le côté négatif des choses, à regarder dans
 les ténèbres. Lorsque cette expérience est réalisée, seuls 20 % des
 adultes trouvent la bonne réponse. Et nombreux sont ceux parmi les
@@ -581,8 +581,8 @@ timidité, et même avec *réticence*.
 Le garçon se détourna, regarda par la fenêtre, et dit : « Je ne porte pas
 mon écharpe, tu peux y aller ? »
 
-C’est à ce moment-là que Hermione comprit pourquoi le garçon — non, le
-Garçon-qui-avait-survécu, Harry Potter — avait commencé à porter
+C’est à ce moment-là que Hermione comprit pourquoi le garçon — non, le
+Garçon-qui-avait-survécu, Harry Potter — avait commencé à porter
 l’écharpe sur sa tête, et elle se sentit un peu idiote de ne pas s’en
 être rendu compte plus tôt. C’était en fait assez étrange, car elle
 aurait cru que Harry Potter était le genre de garçon qui se montrerait
@@ -607,7 +607,7 @@ Hermione. « Je t’aiderai. Mon nom est Hermione Granger, au fait. »
 
 On aurait dit que le garçon allait s’évanouir de gratitude.
 
-« Attends, » fit la voix de *l’autre* garçon — Harry Potter. « Je ne suis
+« Attends, » fit la voix de *l’autre* garçon — Harry Potter. « Je ne suis
 pas certain que ce soit la meilleure façon de faire. »
 
 Sur ce Neville sembla être au bord des larmes, et Hermione pivota,
@@ -627,24 +627,23 @@ tortue. Nous ne sommes qu’en première année.
 
 Cette idée… *était* beaucoup plus sensée.
 
-“Penses-tu pouvoir te rendre seul à la voiture des préfets par toi
-même ?” demanda Harry Potter. “J’ai plusieurs raisons de ne pas vouloir
-trop montrer mon visage.”
+« Penses-tu pouvoir te rendre seul à la voiture des préfets par toi
+même ? » demanda Harry Potter. « J’ai plusieurs raisons de ne pas vouloir
+trop montrer mon visage. »
 
-Neville s’étrangla soudain et fit un pas en arrière. “Je me souviens de
+Neville s’étrangla soudain et fit un pas en arrière. « Je me souviens de
 cette voix ! Tu es l’un des Seigneurs du Chaos ! *Tu es celui qui m’a
-donné des bonbons !*”
+donné des bonbons !* »
 
 Quoi ? Quoi quoi *quoi* ?
 
-Harry Potter se détourna de la fenêtre et se leva dans un élan théâtral.
- »*Jamais !* » dit-il, la voix pleine d’indignation. « Est-ce que je
+Harry Potter se détourna de la fenêtre et se leva dans un élan théâtral. »*Jamais !* » dit-il, la voix pleine d’indignation. « Est-ce que je
 ressemble à quelqu’un qui donnerait des bonbons à un enfant ? »
 
 Les yeux de Neville s’agrandirent. « *Tu* es Harry Potter ? *Le* Harry
 Potter ? *Toi* ? »
 
-« Non, juste un Harry Potter, nous sommes trois à bord de ce train — »
+« Non, juste un Harry Potter, nous sommes trois à bord de ce train — »
 
 Neville poussa un petit cri aigu et s’enfuit. Il y eut un crépitement de
 bruits de pas frénétiques suivis du son d’une porte de wagon s’ouvrant
@@ -658,31 +657,31 @@ d’une voix faible. Elle se demandait si trainer avec Harry Potter
 voulait dire qu’elle serait toujours autant déroutée.
 
 « Oh, eh bien, ce qui s’est passé c’est que Fred et George et moi avons vu
-ce pauvre petit garçon à la gare — la femme qui l’accompagnait était
+ce pauvre petit garçon à la gare — la femme qui l’accompagnait était
 partie un moment, et il avait l’air vraiment effrayé, comme s’il était
 certain qu’il allait être attaqué par des Mangemorts ou quelque chose
 comme ça. Et il y a un dicton qui dit que la peur est souvent pire que
 l’objet de la peur, donc je me suis dit que c’était un type à qui ça
 pourrait être bénéfique de voire son pire cauchemar devenir réalité et
 de se rendre compte que ce n’était pas si grave que ce qu’il craignait
-—  »
+— »
 
 Hermione resta assise, la bouche grande ouverte.
 
-« — et Fred et George ont trouvé ce sort qui assombrit et floute les
+« — et Fred et George ont trouvé ce sort qui assombrit et floute les
 écharpes enroulées autour d’un visage, comme si nous étions des rois
-morts-vivants et que c’étaient nos linceuls — »
+morts-vivants et que c’étaient nos linceuls — »
 
 Elle n’aimait pas du tout où cette histoire allait.
 
 « - et après que nous avons fini de lui donner tous les bonbons que
-j’avais acheté, on s’est dit : “Donnons-lui de l’argent ! Ha ha ha !
-Voilà des Noises, garçon ! Prends une Mornille d’argent !” en dansant
+j’avais acheté, on s’est dit : « Donnons-lui de l’argent ! Ha ha ha !
+Voilà des Noises, garçon ! Prends une Mornille d’argent ! » en dansant
 autour de lui et en riant d’un air maléfique et tout ça. Je pense qu’il
 y avait quelques personnes dans la foule qui voulaient intervenir, mais
 l’apathie du témoin les a retenu assez longtemps pour qu’ils aient le
 temps de voir ce qu’on faisait, et ensuite ils étaient bien trop confus
-pour faire quoi que ce soit. Il a finit par dire “allez-vous en” en
+pour faire quoi que ce soit. Il a finit par dire « allez-vous en » en
 chuchotant très doucement, alors nous sommes parties tous les trois en
 criant et en courant, et en disant quelque chose à propos de la lumière
 qui brulait. J’espère qu’il n’aura pas autant peur de se faire malmener
@@ -706,7 +705,7 @@ garçon effrayé est concerné et ainsi de suite, mais ce n’est
 certainement pas le problème clé, non ? Au fait, ça s’appelle le
 *conséquentialisme*, et ça signifie qu’un acte n’est pas bon ou mauvais
 parce qu’il a *l’air* bon ou mauvais, ou autre chose du genre ; la seule
-question est celle du résultat final — quelles sont les conséquences. »
+question est celle du résultat final — quelles sont les conséquences. »
 
 Hermione ouvrit la bouche pour dire quelque chose de *cinglant*, mais il
 semblait malheureusement qu’elle avait négligé l’étape où elle pensait
@@ -735,7 +734,7 @@ et beaucoup de science cognitive, et j’ai lu le *Cours de Physique de
 Feynman* (du moins le volume 1) et *Jugement dans l’Incertitude :
 Euristiques et Biais* et *Langage dans la Pensée et l’Action* et
 *Influence et Manipulation* et *Choix Rationnel dans un Monde Incertain*
-et *Gödel, Escher, Bach* et *Un pas plus loin* et — »
+et *Gödel, Escher, Bach* et *Un pas plus loin* et — »
 
 Le quiz et le contrequiz qui suivirent durèrent plusieurs minutes avant
 d’être interrompus par un autre coup timide frappé à la porte. « Entrez »
@@ -772,7 +771,7 @@ compte dans un hoquet mental qu’ils avaient presque la même taille, et
 pourtant, une partie d’elle-même insistait sur le fait que Harry Potter
 faisait au moins trente centimètres de plus, et Neville quinze de moins.
 
-« *Reste !* », lui lâcha Harry Potter — non, en fait, à sa *malle* — et il
+« *Reste !* », lui lâcha Harry Potter — non, en fait, à sa *malle* — et il
 ferma la porte fermement et s’en fut.
 
 Elle aurait probablement dû y aller avec eux, mais, pendant un bref

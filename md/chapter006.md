@@ -38,11 +38,11 @@ suffisant pour soutenir au moins une conclusion :
 La sorcière à ses côtés souleva un noble sourcil. « Des problèmes, M.
 Potter ? »
 
-« Je viens de falsifier chacune des hypothèses que j’avais ! Comment la bourse peut-elle distinguer si “sac de 115 Gallions” est valide, mais pas “sac de 90 plus 25 Gallions” ? Elle peut *compter*, mais elle ne peut pas
+« Je viens de falsifier chacune des hypothèses que j’avais ! Comment la bourse peut-elle distinguer si « sac de 115 Gallions » est valide, mais pas « sac de 90 plus 25 Gallions » ? Elle peut *compter*, mais elle ne peut pas
 *additionner* ? Elle peut comprendre les noms, mais pas les syntagmes
 nominaux de même sens ? La personne qui l’a créé ne parlait
 probablement pas japonais et *je* ne parle pas hébreu, donc ça
-n’utilise pas *son* savoir ni *mon* savoir — » Harry agita une main avec
+n’utilise pas *son* savoir ni *mon* savoir — » Harry agita une main avec
 impuissance. « Les règles paraissent *en gros* cohérentes, mais elles ne
 *veulent rien dire* ! Et je ne vais même pas commencer à m’interroger
 sur la façon dont une *bourse* peut être équipée d’une reconnaissance
@@ -55,8 +55,8 @@ d’oxygène, « mais *qu’*est-ce qui se *passe* ? »
 « Magie, » dit le professeur McGonagall. Elle haussa les épaules.
 
 « C’est juste un *mot* ! Même après m’avoir dit ça, je ne peux pas faire
-de nouvelles prédictions. C’est exactement comme de dire “phlogiston” ou
-“élan vital” ou “émergence” ou “complexité” ! »
+de nouvelles prédictions. C’est exactement comme de dire « phlogiston » ou
+« élan vital » ou « émergence » ou « complexité » ! »
 
 Le Professeur McGonagall rit à haute voix. « Mais c’*est* de la magie, M.
 Potter. »
@@ -66,10 +66,10 @@ je ne suis pas tout à fait sûr que vous compreniez que ce j’essaie de
 faire ici. »
 
 « Avec tout mon respect, M. Potter, je suis tout à fait sure de ne pas le
-comprendre. À moins que — c’est juste une supposition, dites-vous bien —
+comprendre. À moins que — c’est juste une supposition, dites-vous bien —
 vous ne soyez en train d’essayer de conquérir le monde ? »
 
-« Non ! Je veux dire oui — enfin, *non* ! »
+« Non ! Je veux dire oui — enfin, *non* ! »
 
 « Je pense que je devrais probablement être alarmée par le fait que vous
 avez quelque difficulté à répondre à cette question. »
@@ -124,7 +124,7 @@ Le monde moldu avait une population de six-milliards en augmentation. Si
 on vous choisissait parmi un million de personnes, alors il y en avait
 douze comme vous à New York et mille de plus en Chine. Il était
 inévitable que le monde moldu produise *quelques* enfants de onze ans
-capables de résoudre des équations — Harry savait qu’il n’était pas le
+capables de résoudre des équations — Harry savait qu’il n’était pas le
 seul. Il avait rencontré d’autres prodiges aux compétitions de
 mathématiques. À vrai dire, il avait été complètement écrasé par des
 concurrents qui avaient probablement passé littéralement *toutes leurs
@@ -210,11 +210,11 @@ chose à ce sujet. », soupira McGonagall.
 conquête mondiale en attente et alla droit jusqu’à un magasin à la
 devanture ouverte, et le professeur McGonagall suivit.
 
- 
+
 
 ------------------------------------------------------------------------
 
- 
+
 
 Harry avait maintenant acheté ses ingrédients de potions, un chaudron,
 et, oh, quelques petites choses supplémentaires. Des objets qu’il
@@ -330,7 +330,7 @@ prêt ! »*
 chanson de Tom Lehrer, et Harry vivait dans l’heureuse ignorance du
 reste de cette chanson.)
 
-La posture de McGonagall s’était légèrement adoucie — surtout quand
+La posture de McGonagall s’était légèrement adoucie — surtout quand
 Harry lui avait rappelé qu’il se rendait à Serdaigle. « À quelle sorte de
 *contingence* imaginez-vous que ce kit vous prépare, *jeune homme* ? »
 
@@ -398,7 +398,7 @@ nouveau avec elle devant le magasin, *faire que ça n’ait pas eu lieu*.
 deux, voir plus. Mais aucun d’entre ne m’a jamais maudit alors qu’il
 trépassait, et je n’ai jamais pensé qu’ils ne me pardonneraient pas.
 *Par Merlin, Harry Potter, qu’est-ce qui a pu vous posséder pour vous
-pousser à dire une chose pareille ?* Pourquoi même y *penseriez* — vous ? »
+pousser à dire une chose pareille ?* Pourquoi même y *penseriez*— vous ? »
 
 Des larmes coulaient le long des joues de Harry. « Je suis désolé, je
 n’aurais jamais rien dû dire, je suis désolé. »
@@ -429,7 +429,7 @@ complet. Vous n’avez pas besoin d’une trousse de soins. »
 
 « Mais *si* ! » éclata Harry. « *Aucun endroit* n’est parfaitement sûr ! Et
 si mes parents avaient une crise cardiaque ou un accident quand je
-rentrais à Noël — Madame Pomfresh ne serait pas là, j’aurais besoin
+rentrais à Noël — Madame Pomfresh ne serait pas là, j’aurais besoin
 d’avoir ma propre trousse de soins… »
 
 « Par Merlin, *qu’est-ce qui*… », dit McGonagall. Elle se leva, et regarda
@@ -454,7 +454,7 @@ vous arriver. »
 
 Harry la fixa, perplexe. C’était un axiome qui allait de soi. « Eh bien… »,
 dit lentement Harry. Il essaya d’organiser ses pensées. Comment
-*pouvait* — il l’expliquer de lui-même à McGonagall, si elle ne
+*pouvait*— il l’expliquer de lui-même à McGonagall, si elle ne
 connaissait même pas les bases ?
 
 « Les chercheurs moldus ont découvert que les gens sont toujours très
@@ -470,7 +470,7 @@ allait le mieux possible, et leur estimation dans le cas moyen, si tout
 se passe normalement, on reçoit des réponses qui sont statistiquement
 indistinguables. Vous voyez, si vous demandez à quelqu’un ce à quoi il
 s’attend dans le cas *normal*, il visualise ce qui semble être le plus
-probable à chaque étape du parcours — c’est à dire, que tout se déroule
+probable à chaque étape du parcours — c’est-à-dire, que tout se déroule
 parfaitement, sans erreurs ou surprises. Mais en réalité, puisque plus
 de la moitié des étudiants n’ont pas fini dans le temps où ils étaient
 certains à 99 % d’avoir fini, ça veut dire que la réalité est
@@ -561,7 +561,7 @@ que celle qui était apparue sur le visage de Harry alors qu’il faisait
 des expériences avec la bourse en peau de Moke, si seulement Harry
 s’était vu dans un miroir et s’en était rendu compte). « Je vais devoir y
 réfléchir. » Elle se tourna vers la bouche de la ruelle et leva sa
-baguette —
+baguette —
 
 « Euh, » dit Harry, « peut-on aller prendre la trousse de soins maintenant ? »
 
@@ -591,11 +591,11 @@ acheter cette trousse de soins. »
 La mâchoire de Harry tomba de surprise. Puis il se dépêcha à sa suite,
 trébuchant presque dans sa précipitation.
 
- 
+
 
 ------------------------------------------------------------------------
 
- 
+
 
 Le magasin était tel qu’ils l’avaient laissé, avec des objets
 reconnaissables et d’autres incompréhensibles, disposés sur l’étal de
@@ -636,8 +636,8 @@ ensuite ? »
 
 McGonagall pointa du doigt un magasin qui semblait être fait de chair
 plutôt que de briques et couvert de fourrure plutôt que de peinture.
-« Les petits animaux sont autorisés à Poudlard — vous pourriez avoir une
-chouette pour envoyer des lettres, par exemple — »
+« Les petits animaux sont autorisés à Poudlard — vous pourriez avoir une
+chouette pour envoyer des lettres, par exemple — »
 
 « Pourrais-je payer une noise ou quelque chose et *louer* une chouette
 quand j’aurai besoin d’envoyer du courrier ? »
@@ -663,7 +663,7 @@ pourquoi il n’y a pas de nourriture. »
 
 « Eh bien, elle commencerait à avoir vraiment faim et à essayer de
 becqueter une ouverture hors de sa boite ou de sa cage, mais ça ne
-fonctionnerait probablement pas — » Harry s’arrêta net.
+fonctionnerait probablement pas — » Harry s’arrêta net.
 
 McGonagall continua, toujours de cette voix douce : « Et que se
 passerait-il ensuite ? »
@@ -711,10 +711,10 @@ s’*arrêter*, il ne croit pas les parents *ni* les enfants lorsqu’ils
 disent que rien ne s’est passé ! *Ne vous avisez pas de menacer ma
 famille avec ça ! Je ne vous laisserai pas détruire mon foyer !* »
 
-« Harry, » dit doucement McGonagall, et elle tendit sa main vers lui —
+« Harry, » dit doucement McGonagall, et elle tendit sa main vers lui —
 
 Harry fit un rapide pas en arrière, sa main jaillit et il repoussa la
-sienne —
+sienne —
 
 McGonagall se figea, puis retira sa main, et fit elle aussi un pas en
 arrière. « Harry, tout va bien, » dit-elle. « Je vous crois. »
@@ -768,7 +768,7 @@ n’était *pas* simple à réfuter. « Mais mes parents ne pourraient pas
 faire ça ! »
 
 « Non, » dit McGonagall. « Il faudrait quelqu’un venu du monde magique. Il
-n’y a… aucun moyen de le savoir, j’en ai peur — pas que je sache. »
+n’y a… aucun moyen de le savoir, j’en ai peur — pas que je sache. »
 
 Les talents de rationaliste de Harry se remirent en route. « Professeur
 McGonagall, à quel point êtes-vous certaine de vos observations, et
@@ -780,7 +780,7 @@ votre individu dans son entier, alors je n’ai jamais rencontré une
 personne pareille de toute ma vie. Parfois, vous ne paraissez tout
 simplement pas avoir onze ans ni même être vraiment *humain*. »
 
-Les sourcils de Harry s’élevèrent vers le ciel —
+Les sourcils de Harry s’élevèrent vers le ciel —
 
 « Pardon ! » dit vivement McGonagall. « Je suis vraiment désolée, M.
 Potter. J’essayais de démontrer un détail par de la rhétorique et j’ai
@@ -794,10 +794,10 @@ Mais objecteriez-vous à ce que je propose une explication alternative ? »
 « Allez-y, je vous en prie. »
 
 « Les enfants ne sont pas censés être beaucoup plus intelligents que
-leurs parents, » dit Harry. « Ou peut-être beaucoup plus sains d’esprit —
+leurs parents, » dit Harry. « Ou peut-être beaucoup plus sains d’esprit —
 mon père pourrait probablement se montrer plus malin que moi s’il, vous
 savez, *essayait* vraiment, au lieu d’utiliser son intelligence d’adulte
-pour trouver de nouvelles raisons de ne pas changer d’avis — » Harry
+pour trouver de nouvelles raisons de ne pas changer d’avis — » Harry
 s’interrompit. « Je suis trop intelligent, McGonagall. Les enfants
 normaux ne sont tout simplement pas dans la même catégorie que moi. Les
 adultes ne me respectent pas assez pour me parler. Et franchement, même
@@ -809,7 +809,7 @@ qu’on ressent quand on est enfermé dans une cave. Je suis trop
 intelligent pour admirer mes parents de la façon dont les enfants sont
 censés le faire. Mes parents m’aiment, mais ils ne se sentent pas
 obligés de répondre à la raison, et parfois j’ai la sensation que ce
-sont eux les enfants — des enfants qui *n’écoutent pas*, et qui ont une
+sont eux les enfants — des enfants qui *n’écoutent pas*, et qui ont une
 autorité absolue sur toute mon existence. J’essaie de ne pas être trop
 amer à ce sujet, mais j’essaie aussi d’être *honnête* avec moi-même, et
 donc, oui, je suis amer. J’ai aussi un problème de contrôle de ma
@@ -821,11 +821,11 @@ Harry acquiesça avec ferveur. « C’est tout. Professeur McGonagall,
 l’explication normale mérite d’être *prise en considération*, même dans
 l’Angleterre magique, non ? »
 
- 
+
 
 ------------------------------------------------------------------------
 
- 
+
 
 Plus tard dans la journée, le soleil descendait sur un ciel d’été et les
 acheteurs commençaient à disparaitre des rues. Certains magasins avaient
@@ -860,7 +860,7 @@ quelques secondes ; ne laissant que la certitude qu’il était maintenant
 un sorcier, l’avait toujours été, et, d’une certaine façon, qu’il l’avait
 toujours su.
 
-Et —
+Et —
 
 « *Il est en effet très curieux que vous soyez destiné à cette baguette,
 sachant que sa sœur, eh bien, sa sœur vous a donné cette cicatrice. »*
@@ -950,13 +950,13 @@ esprit erre, chuchotant aux gens dans leurs cauchemars, qui se répandent
 dans le monde éveillé, et il cherche à revenir sur les terres des
 vivants, qu’il a promis de détruire, et maintenant, en accord avec
 l’ancienne prophétie, lui et moi sommes coincés dans un duel à mort où le
-gagnant perdra et le perdant gagnera — »
+gagnant perdra et le perdant gagnera — »
 
 La tête de McGonagall pivota, et ses yeux dardèrent aux alentours, à la
 recherche de personnes prêtant l’oreille.
 
 « Je *plaisante*, Professeur McGonagall, » dit Harry, un peu contrarié.
-Bon sang, pourquoi devait-elle toujours tout prendre si sérieusement —
+Bon sang, pourquoi devait-elle toujours tout prendre si sérieusement —
 
 Une lente sensation coula doucement jusqu’au fond de l’estomac de Harry.
 
@@ -979,7 +979,7 @@ Mais ce que Harry pensa fut : *Oh crotte*.
 Harry fit pivoter sa propre tête pour scanner la rue. Non, personne dans le
 coin. « Il n’est *pas* mort, c’est ça ? » soupira Harry.
 
-« M. Potter — »
+« M. Potter — »
 
 « Le Seigneur des Ténèbres est vivant. *Bien sûr* qu’il est vivant.
 C’était un *acte* de pur et simple *optimiste* que de seulement *rêver*
@@ -989,7 +989,7 @@ son corps avait été retrouvé *calciné*, je ne peux pas imaginer pourquoi
 j’ai pu penser qu’il était *mort*. J’ai *clairement beaucoup* à apprendre
 sur l’art correct du *pessimisme*. »
 
-« M. Potter — »
+« M. Potter — »
 
 « Dites-moi au moins qu’il n’y a pas vraiment de prophétie… » Mais
 McGonagall lui donnait ce sourire intense et figé. « Oh, bon sang, mais
@@ -1085,7 +1085,7 @@ sens.
 Le visage de McGonagall travaillait sous le coup de divers changements
 d’expression. « Je… je ne pensais pas à vous lancer “Oubliettes”, M.
 Potter… mais pourquoi auriez-vous *inventé* un signal si vous ne
-connaissiez pas l’existence de — »
+connaissiez pas l’existence de — »
 
 « J’y ai pensé en lisant un livre de science-fiction moldu, et je me suis
 dit, *bon, juste au cas où*… Et non, je ne vous dirai pas le signal, je
@@ -1108,11 +1108,11 @@ Ténèbres immortel, » dit Harry, et il soupira de frustration. « J’aura
 vraiment aimé que vous me disiez ça *avant* qu’on commence à faire du
 shopping. »
 
- 
+
 
 ------------------------------------------------------------------------
 
- 
+
 
 Le magasin de malles était plus richement décoré que tout autre magasin
 que Harry ait visité auparavant ; les rideaux étaient luxueux et ornés
@@ -1130,8 +1130,8 @@ commande, et faire pousser des petits tentacules griffus de sa base et
 se tortiller derrière son maitre. Une malle avec deux tiroirs sur chacun
 de ses quatre côtés qui glissaient pour révéler des compartiments aussi
 profonds que la malle entière. Un couvercle équipé de quatre cadenas, et
-chacun d’entre eux révélait un espace intérieur différent. Et — et
-c’était la partie importante — une poignée sur le fond qui glissait et
+chacun d’entre eux révélait un espace intérieur différent. Et — et
+c’était la partie importante — une poignée sur le fond qui glissait et
 révélait un cadre contenant des marches menant vers une petite pièce
 éclairée qui, estima Harry, pouvait contenir environ douze étagères.
 
@@ -1261,7 +1261,7 @@ C’était la première fois que ce discours avait jamais fonctionné sur un
 adulte. C’était la première fois qu’*aucun* de ses discours avait jamais
 fonctionné sur *qui que ce soit*. Peut-être aussi parce que c’était la
 première fois qu’il avait quelque chose dont un adulte avait
-sérieusement besoin, mais tout de même —
+sérieusement besoin, mais tout de même —
 
 Minerva McGonagall, +1 point.
 
@@ -1273,8 +1273,8 @@ Le vendeur, onctueux à nouveau, pointa du doigt en direction d’une porte
 incrustée dans le mur et munie d’une poignée d’or. Alors que Harry
 s’éloignait, il entendit le vendeur derrière lui dire de sa voix
 huileuse : « Puis-je m’informer de l’identité de cette personne, Madame
-McGonagall ? J’imagine qu’il est Serpentard — troisième année
-peut-être ? — et d’une importante famille, mais je n’ai pas reconnu. »
+McGonagall ? J’imagine qu’il est Serpentard — troisième année
+peut-être ? — et d’une importante famille, mais je n’ai pas reconnu. »
 
 Le claquement de la porte de la salle de bain coupa ses mots, et après
 que Harry eût identifié le loquet et l’eût mis en place, il s’effondra
@@ -1283,11 +1283,11 @@ traversé ses vêtements moldus, mais au moins, ça ne se voyait pas sur
 ses robes. Il se pencha au-dessus de la cuvette or-ivoire, eut quelques
 haut-le-cœur, mais heureusement, rien ne vint.
 
- 
+
 
 ------------------------------------------------------------------------
 
- 
+
 
 Ils se tenaient à nouveau dans le jardin du Chaudron Baveur, sur la
 petite interface couverte de feuilles entre le Chemin de Traverse de
@@ -1331,7 +1331,7 @@ pas assez idiot pour dire ça à voix haute. *Et quel serait un bon nom
 pour ce groupe… ? Les Mangemangemorts ?*
 
 « Je vous verrai très bientôt, quand l’école commencera, » dit McGonagall.
-« Et, M. Potter, à propos de votre baguette — »
+« Et, M. Potter, à propos de votre baguette — »
 
 « Je sais ce que vous allez me demander, » dit Harry. Il sortit sa
 précieuse baguette et, avec un immense pincement de douleur intérieure,
@@ -1377,11 +1377,11 @@ train vers Poudlard. »
 Il n’y eut pas de réponse, et quand Harry se retourna, McGonagall était
 partie.
 
- 
+
 
 ------------------------------------------------------------------------
 
- 
+
 
 *Après-coup*
 

@@ -144,18 +144,18 @@ vieille famille, M. Potter. Il est aussi possible… »
 
 McGonagall hésita. « Une partie de cet argent pourrait provenir des
 primes qui avaient été mises sur la tête de Vous-Savez-Qui, payable à sa
-mo — » McGonagall ravala le mot. « À qui le vaincrait. Ou ces primes n’ont
+mo— » McGonagall ravala le mot. « À qui le vaincrait. Ou ces primes n’ont
 peut-être pas encore été récoltées. Je ne suis pas sure. »
 
 « Intéressant… » dit lentement Harry. « Donc, une partie de ceci est mienne en
-un sens. C’est à dire, gagné par moi. En quelque sorte. Peut-être. Même
+un sens. C’est-à-dire, gagné par moi. En quelque sorte. Peut-être. Même
 si je ne m’en souviens pas. » Les doigts de Harry tapotaient contre les
 jambes de son pantalon. « Cela me fait me sentir moins coupable à l’idée
 d’en dépenser *une toute petite fraction ! Ne paniquez pas, Professeur
 McGonagall !* »
 
 « M. Potter ! Vous êtes mineur, et en tant que tel, vous ne serez
-autorisés qu’à faire des retraits *raisonnables* de — »
+autorisés qu’à faire des retraits *raisonnables* de— »
 
 « Je suis *carrément* pour ce qui est raisonnable ! Je suis à fond pour
 la prudence fiscale et le contrôle de ses impulsions ! Mais j’ai *bel et
@@ -193,7 +193,7 @@ existait ! Et que je pouvais me les offrir ! Maintenant, mon père et
 moi allons devoir passer les deux prochains jours à parcourir
 *frénétiquement* toutes les librairies de vieux manuels scolaires afin
 que je puisse avoir une bibliothèque de mathématiques et de science
-décente avec moi à Poudlard — et peut-être une minicollection de SF&F,
+décente avec moi à Poudlard — et peut-être une minicollection de SF&F,
 si je peux constituer quelque chose de convenable à partir des
 corbeilles à 10 pence. Ou encore mieux, je vous rends le marché un peu
 plus attrayant, d’accord ? Laissez-moi juste acheter… »
@@ -205,7 +205,7 @@ pourra garder certains des livres que j’apporterai si vous pensez qu’ils
 constitueraient des ajouts de valeur à la bibliothèque. Je vais les
 acheter pour pas cher, et *je* veux juste qu’ils me soient accessibles.
 C’est acceptable de soudoyer les gens avec des livres, non ? C’est une
-—  »
+— »
 
 « Tradition familiale. »
 

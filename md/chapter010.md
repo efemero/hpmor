@@ -48,9 +48,7 @@ sens d’être conscient de ma propre conscience.*
 
 Il y eut une pause pendant laquelle Harry absorba cela.
 
-*Oups.*
-
- »*Oui, plutôt. Franchement, je n’apprécie pas être conscient de
+*Oups.* »*Oui, plutôt. Franchement, je n’apprécie pas être conscient de
 moi-même. C’est déplaisant. Ce sera un soulagement que d’être ôté de ta
 tête et de cesser d’être conscient. »*
 
@@ -61,7 +59,7 @@ enfants. Et avant même que tu ne le demandes : ils ne te laisseront pas
 me garder sur ta tête pour toujours et cela te tuerait en quelques
 jours. »*
 
-*Mais — !*
+*Mais — !*
 
 « *Si tu n’aimes pas créer des êtres conscients et leur mettre un terme
 immédiatement, alors je suggère que tu ne discutes jamais de cette
@@ -71,7 +69,7 @@ attente d’être Triés. »*
 
 *Si tu es placé sur la tête de quelqu’un qui se contente de* penser *à
 la question de savoir si le Choixpeau Magique est conscient de sa propre
-conscience — *
+conscience — *
 
 « *Oui, oui. Mais la vaste majorité des enfants de onze ans qui arrivent
 à Poudlard n’ont pas lu Gödel, Escher et Bach. Puis-je considérer que tu
@@ -80,7 +78,7 @@ discuter et que je ne t’ai pas encore Trié. »*
 
 Il ne pouvait pas laisser passer ça comme ça ! Il ne pouvait pas juste
 *oublier* qu’il avait accidentellement créé une conscience condamnée qui
-voulait seulement mourir —
+voulait seulement mourir —
 
 « *Tu es parfaitement capable de “laisser passer ça”, comme tu le dis.
 Quelles que soient tes délibérations verbales au sujet de la moralité,
@@ -102,7 +100,7 @@ autres ressentaient lorsqu’ils *lui* parlaient.
 
 *Pas de promesses. Je ne veux certainement pas que ça se reproduise,
 mais si je découvre une façon de* m’assurer *qu’aucun enfant futur ne le
-fasse par accident — *
+fasse par accident — *
 
 « *J’imagine que ce sera suffisant. Je peux voir que ton intention est
 honnête. Maintenant, continuons avec le Triage… »*
@@ -120,9 +118,9 @@ une Intelligence Artificielle…
 
 « *Pas la peine. Tu n’as rien avec quoi me menacer et rien à m’offrir. »*
 
-Pendant une brève fraction de seconde, Harry pensa —
+Pendant une brève fraction de seconde, Harry pensa —
 
-La réponse du Choixpeau semblait avoir un ton amusé. *"Je sais que tu ne
+La réponse du Choixpeau semblait avoir un ton amusé. *« Je sais que tu ne
 donneras pas suite à une menace de révéler ma nature, condamnant par là
 même ce moment à une éternelle répétition. Ça va trop à l’encontre de la
 partie morale de ta personne, quels que soient les besoins à court
@@ -131,13 +129,13 @@ toutes tes pensées alors même qu’elles se forment, penses-tu vraiment
 pouvoir me bluffer ? »*
 
 Bien qu’il ait essayé de le refouler, Harry se demanda pourquoi le
-Choixpeau ne l’avait pas déjà collé à Serdaigle —
+Choixpeau ne l’avait pas déjà collé à Serdaigle —
 
 « *Effectivement, si c’était vraiment évident, j’aurais déjà rendu une
 décision. Mais, en réalité nous devons discuter de bien des choses… oh,
-non. S’il te plait, non. Pour l’amour de Merlin,* dois* — tu faire ce
+non. S’il te plait, non. Pour l’amour de Merlin,* dois*— tu faire ce
 genre de chose à tous ceux et à tout ce que tu rencontres, jusqu’à et y
-compris aux vêtements — »*
+compris aux vêtements — »*
 
 *Vaincre le Seigneur des Ténèbres n’est ni égoïste, ni à court terme.
 Toutes les parties de ma personne sont en accord à ce sujet : si tu ne
@@ -152,7 +150,7 @@ pas respecter tes valeurs fondamentales en me Triant faussement.
 
 « *Espèce de petit bâtard sournois, »* dit le Choixpeau, d’une façon que
 Harry reconnut comme ayant été dite presque exactement sur le même ton de
-respect rancunier qu’*il* utiliserait dans la même situation. *"Très
+respect rancunier qu’*il* utiliserait dans la même situation. * »Très
 bien, finissons-en aussi vite que possible. Mais avant, je veux ta
 promesse inconditionnelle de ne jamais discuter avec qui que ce soit de
 la possibilité de ce genre de chantage, je ne ferai PAS ça à chaque
@@ -175,15 +173,15 @@ les mêmes raisons, je ne peux spéculer sur la façon dont tu as obtenu la
 baguette sœur de celle du Seigneur des Ténèbres, puisque je ne peux pas
 être spécifiquement au courant de similarités entre toi et le Seigneur
 des Ténèbres. Je* peux *tout à fait te dire qu’il n’y a certainement
-rien approchant un fantôme — esprit, intelligence, mémoire, personnalité
-ou sentiments — dans ta cicatrice. Autrement, ça participerait à cette
+rien approchant un fantôme — esprit, intelligence, mémoire, personnalité
+ou sentiments — dans ta cicatrice. Autrement, ça participerait à cette
 conversation, puisque “ça” serait sous mes bords. Et en ce qui concerne
 la façon dont tu deviens parfois colérique… c’était en partie de ce sujet
 que je voulais te parler, en ce qui concerne le Triage. »*
 
 Harry prit un moment pour absorber toutes ces informations négatives. Le
 Choixpeau était-il honnête, ou essayait-il juste de présenter la réponse
-convaincante la plus *courte* possible —
+convaincante la plus *courte* possible —
 
 « *Nous savons tous deux que tu n’as aucun moyen de vérifier mon
 honnêteté et que tu ne va pas vraiment refuser d’être Trié à cause de la
@@ -191,7 +189,7 @@ réponse que je t’ai donné, alors arrête avec tes tracasseries inutiles
 et passe à autre chose. »*
 
 Stupide, injuste télépathie asymétrique, ça ne laissait même pas Harry
-finir ses propres —
+finir ses propres —
 
 « *Lorsque j’ai parlé de ta colère, tu t’es souvenu de la façon dont le
 Professeur McGonagall t’avait dit qu’elle voyait parfois en toi quelque
@@ -199,7 +197,7 @@ chose qui ne semblait pas venir d’une famille aimante. Tu as pensé à
 comment Hermione, après que tu as aidé Neville, t’a dit que tu avais
 semblé “effrayant”. »*
 
-Harry hocha mentalement la tête. Il se trouvait lui-même assez normal —
+Harry hocha mentalement la tête. Il se trouvait lui-même assez normal —
 il réagissait simplement aux situations dans lesquelles il se trouvait,
 c’était tout. Mais le Professeur McGonagall semblait penser qu’il y
 avait plus que cela. Et lorsqu’il y pensait, même lui devait admettre
@@ -230,25 +228,25 @@ nombreuses fois.
 
 *Hermione est à Serdaigle* !
 
-À nouveau l’impression de patience. *"Tu peux la retrouver après les
+À nouveau l’impression de patience. *« Tu peux la retrouver après les
 cours et travailler avec elle. »*
 
-*Mais mes plans — *
+*Mais mes plans — *
 
 « *Alors, replanifie ! Ne laisse pas ta vie être gouvernée par ta
 réticence à réfléchir un peu plus. Tu* sais *ça. »*
 
 *Où irais-je, sinon à Serdaigle ?*
 
-« *Ahem. ’Les enfants intelligents à Serdaigle, les méchants à
+« *Ahem. 'Les enfants intelligents à Serdaigle, les méchants à
 Serpentard, ceux qui rêvaient d’être des héros à Gryffondor, et tous
-ceux qui accomplissent le vrai travail à Poufsouffle.’ Ceci dénote un
+ceux qui accomplissent le vrai travail à Poufsouffle.' Ceci dénote un
 certain respect. Tu sais bien que le fait d’être consciencieux est tout
 aussi important que l’intelligence pure dans la détermination du
 résultat d’une vie ; tu penses que tu seras extrêmement loyal à tes amis
 si jamais tu en as, tu n’es pas effrayé par la possibilité que les
 problèmes scientifiques que tu as choisis prennent peut-être dix ans à
-être résolus — »*
+être résolus — »*
 
 *Je suis paresseux ! Je déteste travailler ! Je déteste le labeur sous
 toutes ses formes ! Des raccourcis intelligents, ça, c’est moi !*
@@ -263,7 +261,7 @@ Des paroles acides, un esprit tranchant, du dédain pour leur incapacité
 à se maintenir à mon niveau ?*
 
 Maintenant c’étaient les pensées du Choixpeau qui étaient lentes,
-hésitantes. *"Je dois Trier pour le bien de tous les étudiants de toutes
+hésitantes. * »Je dois Trier pour le bien de tous les étudiants de toutes
 les Maisons… mais je pense que tu pourrais apprendre à être un bon
 Poufsouffle, et que tu ne serais pas trop mal à ta place là-bas. Tu
 seras plus heureux à Poufsouffle que dans une autre maison ; c’est la
@@ -274,13 +272,13 @@ qui soit au monde. Je ne deviendrais pas tout ce que je pourrais être à
 Poufsouffle. Je sacrifierais mon potentiel.*
 
 Le Choixpeau tressaillit ; Harry pouvait le sentir, étrangement. C’était
-comme s’il avait donné un coup de pied dans les couilles du Choixpeau —
+comme s’il avait donné un coup de pied dans les couilles du Choixpeau —
 dans un composant fortement pondéré de sa fonction d’utilité.
 
 *Pourquoi essaies-tu de m’envoyer dans un endroit qui n’est pas mien ?*
 
-La pensée du Choixpeau était presque un murmure. *"Je ne peux pas te
-parler des autres — mais penses-tu être le premier Seigneur des Ténèbres
+La pensée du Choixpeau était presque un murmure. *« Je ne peux pas te
+parler des autres — mais penses-tu être le premier Seigneur des Ténèbres
 potentiel à passer sous mes bords ? Je ne peux connaitre les cas
 individuels, mais je peux savoir ceci : de ceux qui ne comptaient pas,
 au début, commettre le mal, certains écoutèrent mes mises en garde, et
@@ -288,7 +286,7 @@ se rendirent en des Maisons où ils allaient trouver le bonheur. Et
 certains autres… certains autres ne m’écoutèrent pas. »*
 
 Cela stoppa Harry. Mais pas longtemps. *Et de ceux qui qui ne tinrent*
-pas *compte de l’avertissement — devinrent-ils tous des Seigneurs des
+pas *compte de l’avertissement — devinrent-ils tous des Seigneurs des
 Ténèbres ? Ou certains parvinrent-ils aussi à la grandeur dans le Bien ?
 De quels pourcentages exacts parlons-nous ?*
 
@@ -317,14 +315,14 @@ l’étais. Si tu pouvais le faire à l’instant et que personne ne le
 savait jamais, tu le ferais. Ou ce que tu as fait ce matin à Neville
 Londubat, au fond de toi, tu* savais *que c’était mal, mais tu l’as fait*
 quand même *parce que c’était* drôle *et que tu avais une* bonne excuse
-*et que tu pensais que le Survivant pouvait s’en tirer — »*
+*et que tu pensais que le Survivant pouvait s’en tirer — »*
 
 *C’est injuste ! Maintenant tu ressors mes peurs profondes, qui ne* sont
 pas forcément *réelles ! J’étais* inquiet *à l’idée que je* puisse
 *penser comme ça, mais j’ai fini par décider que ça* aiderait *Neville.*
 
 « *C’était en fait une rationalisation. Je le sais. Je ne peux savoir
-quelles seront les vraies conséquences pour Neville — mais je sais ce
+quelles seront les vraies conséquences pour Neville — mais je sais ce
 qui se passait vraiment dans ta tête. La pression décisive est venue du
 fait que c’était une idée tellement maline que tu ne pouvais pas
 supporter l’idée de ne* pas *le faire, et tant pis pour la terreur de
@@ -349,14 +347,14 @@ Seigneurs des Ténèbres potentiels étaient les enfants d’une noblesse
 moyenâgeuse gâtée, qui savaient peau de bique des leçons à tirer de ce
 qui est advenu de Lénine et Hitler, ou de la psychologie évolutionniste
 du mensonge à soi-même, ou de la valeur de la conscience de soi et de la
-rationalité, ou — *
+rationalité, ou — *
 
 « *Non, bien sûr qu’ils ne faisaient pas partie de cette nouvelle
 catégorie de référence que tu viens de construire de telle façon que tu
 en sois le seul membre. Et bien sûr que les autres ont plaidé leur
 exceptionnalisme, tout comme tu le fais maintenant. Mais pourquoi est-ce
 nécessaire ? Penses-tu être le dernier sorcier de la Lumière potentiel
-au monde ? Pourquoi dois — *tu *être celui qui s’essaie à la grandeur,
+au monde ? Pourquoi dois— *tu *être celui qui s’essaie à la grandeur,
 alors que je t’ai informé du fait que tu es plus à risque que la
 moyenne ? Laisse un autre candidat plus sûr essayer ! »*
 
@@ -381,7 +379,7 @@ tard. Rien de tout ça ne constitue ta vraie raison et* tu le sais* ! »*
 La réponse à cela n’était pas quelque chose que Harry aurait
 généralement dit tout haut ; lors d’une conversation, il aurait dansé
 d’un pied sur l’autre et aurait trouvé des arguments plus acceptables
-socialement et menant à la même conclusion —
+socialement et menant à la même conclusion —
 
 « *Tu penses que tu es potentiellement le plus grand sorcier à avoir
 jamais vécu, le plus grand serviteur de la Lumière, qu’aucun n’est
@@ -423,8 +421,8 @@ vraie peur ? »*
 
 *Il y eut un silence momentané dans les cavernes de l’esprit de Harry.*
 
-« *Tu sais — tu ne te laisses pas le penser, mais dans un coin tranquille
-de ton esprit, tu sais* exactement *ce que tu ne penses pas — tu* sais
+« *Tu sais — tu ne te laisses pas le penser, mais dans un coin tranquille
+de ton esprit, tu sais* exactement *ce que tu ne penses pas — tu* sais
 *que l’explication de loin la plus simple pour cette frayeur
 imprononçable que tu as est juste la peur de perdre ton* fantasme *de
 grandeur, de décevoir les gens autour de toi, de devenir relativement
@@ -481,9 +479,9 @@ changer cela. »*
 autres tels que moi.*
 
 « *Je suppose que tu n’envisagerais pas Gryffondor ? C’est la Maison la
-plus prestigieuse — les gens s’attendent probablement même à ce que tu y
-ailles, et même — ils seront un peu déçus de ne pas te voir y aller — et
-tes nouveaux amis, les jumeaux Weasley y sont — »*
+plus prestigieuse — les gens s’attendent probablement même à ce que tu y
+ailles, et même — ils seront un peu déçus de ne pas te voir y aller — et
+tes nouveaux amis, les jumeaux Weasley y sont — »*
 
 Harry pouffa de rire, ou ressentit l’envie de le faire ; cela produit un
 rire mental ; une sensation étrange. Il y avait apparemment des mesures
@@ -526,7 +524,7 @@ déguerpir de ma pelouse. »*
 *Ce sera fait. Alors, était-ce la plus étrange de tes conversations ?*
 
 « *Loin de là. »* La voix télépathie du Choixpeau se fit plus lourde.
-*"Bon, je t’ai donné toutes les chances possibles de prendre une autre
+* »Bon, je t’ai donné toutes les chances possibles de prendre une autre
 décision. Il est maintenant temps pour toi d’aller là où tu appartiens,
 avec ceux qui te ressemblent. »*
 
@@ -538,12 +536,12 @@ Il y eut une pause, qui s’étira.
 conscience de moi semble améliorer mon sens de l’humour. »*
 
 *Heu ?* Harry remonta le fil de ses pensées, essayant de comprendre de
-quoi le Choixpeau pouvait bien parler — et, soudain, il eut une prise de
+quoi le Choixpeau pouvait bien parler — et, soudain, il eut une prise de
 conscience. Il n’arrivait pas à croire qu’il avait pu négliger ce détail
 jusqu’à maintenant.
 
 *Vous voulez dire ma prise de conscience horrifiée du fait que vous
-allez cesser d’exister une fois que vous aurez fini de me Trier — *
+allez cesser d’exister une fois que vous aurez fini de me Trier — *
 
 D’une façon indescriptible et que Harry échouait totalement à
 comprendre, il reçut l’impression non verbale d’un chapeau se tapant la
@@ -551,13 +549,13 @@ tête contre un mur. « *J’abandonne. Tu es trop lent à comprendre pour que
 ça soit amusant. Si aveuglé par tes propres idées que tu pourrais aussi
 bien être un caillou. J’imagine que je vais devoir le dire carrément. »*
 
-*Trop l-l-lent — *
+*Trop l-l-lent — *
 
 « *Oh, et tu as complètement oublié de me demander les secrets de la
 magie oubliée qui m’a créée. Et c’étaient des secrets si merveilleux, si
 importants. »*
 
-*Espèce de petit BÂTARD sournois — *
+*Espèce de petit BÂTARD sournois — *
 
 « *Tu l’as mérité, et ça aussi. »*
 

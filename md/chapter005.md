@@ -9,7 +9,7 @@ d’Extension Indétectable : vous pouviez y mettre de grands objets, mais
 le volume total était tout de même limité.
 
 Harry avait *insisté* pour venir ici tout de suite, avant toute autre
-chose — insisté autant que possible sans pour autant éveiller de
+chose — insisté autant que possible sans pour autant éveiller de
 soupçons chez McGonagall. Harry avait quelque chose qu’il devait mettre
 dans la bourse aussi vite que possible. Ce n’était pas le sac de
 Gallions que McGonagall l’avait autorisé à retirer de Gringotts.
@@ -23,7 +23,7 @@ tintement semble venir de là où il devait.
 
 Ce qui ne répondait pas à la question de savoir comment il allait pouvoir mettre
 les *autres* pièces dans la Peau sans se faire prendre. Les pièces d’or
-étaient peut-être siennes, mais elles *étaient* tout de même volées —
+étaient peut-être siennes, mais elles *étaient* tout de même volées —
 autovolées ?
 
 Harry releva les yeux vers la Super Bourse en Peau de Moke QX31 posée
@@ -75,7 +75,7 @@ dans la ruelle la plus proche au moment où elle avait entendu « Harry
 Potter ? » Le vieil homme les avait suivi, mais au moins personne d’autre
 ne semblait avoir entendu.
 
-Harry étudia la question. *Était* — il vraiment Harry Potter ? « Je ne sais
+Harry étudia la question. *Était*— il vraiment Harry Potter ? « Je ne sais
 que ce qu’on m’en a dit, » dit Harry. « Ce n’est pas comme si je me
 souvenais de ma naissance. » Il se passa la main sur le front. « J’ai eu
 cette cicatrice pour aussi longtemps que je me souvienne, et on m’a dit
@@ -83,7 +83,7 @@ que mon nom était Harry Potter pour aussi longtemps que je me souvienne.
 Mais, » dit pensivement Harry, « s’il y a déjà assez de raisons de
 postuler l’existence d’une conspiration, il n’y a pas de raison pour
 laquelle ils ne trouveraient pas un autre orphelin-sorcier et
-l’élèveraient en lui faisant croire qu’*il* était Harry Potter — »
+l’élèveraient en lui faisant croire qu’*il* était Harry Potter — »
 
 D’exaspération, McGonagall se masqua le visage. « Vous ressemblez
 exactement à votre père James dans sa première année à Poudlard, sauf
@@ -97,7 +97,7 @@ doute* lié au Fléau de Gryffondor. »
 votre mère. »
 
 « Hmmmm ». Harry fronça les sourcils. « Je suppose que *vous* pourriez en
-faire partie aussi — »
+faire partie aussi — »
 
 « Assez, M. Potter. », dit McGonagall.
 
@@ -172,7 +172,7 @@ chose à voir avec, comme on dit, des circonstances environnementales
 contingentes. Et certainement rien à avoir avec ma personnalité. Les
 gens ne se soucient pas de *moi*, ils ne font même pas attention à
 *moi*, ils veulent serrer la main à une *mauvaise explication*. » Harry
-s’arrêta, et regarda McGonagall. « Savez — *vous* ce qui s’est réellement
+s’arrêta, et regarda McGonagall. « Savez— *vous* ce qui s’est réellement
 passé ? »
 
 « J’*ai* formé une conjecture… » dit McGonagall. « Après vous avoir
@@ -222,7 +222,7 @@ entrait dans son magasin. » La voix de McGonagall semblait provenir d’un
 souvenir, et son ton était approbateur. « Madame Guipure ne vous embêtera
 pas, et elle ne laissera personne d’autre vous embêter. »
 
-« Où allez — *vous* ? » s’enquit Harry. « Juste au cas où, vous savez,
+« Où allez— *vous* ? » s’enquit Harry. « Juste au cas où, vous savez,
 quelque chose se passerait. »
 
 McGonagall donna un regard dur et sceptique à Harry. « Je vais *là*, »
@@ -281,7 +281,7 @@ octroyer au plus bas de ses sujets, si ce sujet était honnête en dépit
 de sa pauvreté.
 
 Eh… Mince, Harry avait du mal à inventer sa prochaine réplique. Eh bien,
-tout le monde *voulait* serrer la main de Harry Potter, alors — « Lorsque
+tout le monde *voulait* serrer la main de Harry Potter, alors — « Lorsque
 mes vêtements seront apprêtés, monsieur, accepterez-vous de me serrer la
 main ? Rien d’autre ne saurait parachever ce jour, non, ce mois, et à
 vrai dire, ma vie entière. »
@@ -311,7 +311,7 @@ fin de citation. »
 
 « Wow », dit Drago, l’air légèrement impressionné. Il fit une sorte de
 soupir mélancolique. « Votre flatterie était excellente, ou du moins, je
-le pensais — vous réussiriez à Serpentard aussi. C’est généralement
+le pensais — vous réussiriez à Serpentard aussi. C’est généralement
 devant mon père que les gens s’aplatissent. J’*espère* que les autres
 Serpentard me lècheront les bottes maintenant que je suis à Poudlard…
 j’imagine donc que c’est bon signe. »
@@ -325,10 +325,10 @@ soudain. « Et comment peux-tu ne *pas* connaitre les Malfoy ? Et quels
 sont ces *vêtements* que tu portes ? Tes parents sont-ils *moldus* ? »
 
 « Deux de mes parents sont morts », dit Harry. Il éprouva un pincement au
-cœur. Lorsqu’il le formulait ainsi — « Mes deux autres parents sont des
+cœur. Lorsqu’il le formulait ainsi — « Mes deux autres parents sont des
 Moldus, et ce sont eux qui m’ont éduqué. »
 
-« *Quoi* ? » dit Drago. « Qui *es* — tu ? »
+« *Quoi* ? » dit Drago. « Qui *es*— tu ? »
 
 « Harry Potter, ravi de te faire ta connaissance. »
 
@@ -349,7 +349,7 @@ soulevant les bras de Drago pour enlever la robe damée avec attention.
 « Pourrais-je avoir un autographe ? Non, attends, d’abord, je veux une
 photo avec toi ! »
 
-« Tais — *toi*tais — *toi*tais — *toi* »
+« Tais— *toi*tais— *toi*tais— *toi* »
 
 « Je suis juste tellement, inexprimablement *enchanté* de te
 rencontrer ! »

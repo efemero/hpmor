@@ -176,7 +176,7 @@ magique entier existait. Comment pouvait-on garder ce genre de chose
 secrète ? Avec plus de magie ? C’était plutôt suspect, comme excuse.
 
 Ça aurait dû être une alternative simple entre : maman faisait une
-blague, maman mentait, maman était folle — par ordre d’horreur
+blague, maman mentait, maman était folle — par ordre d’horreur
 croissant. Si elle avait envoyé la lettre elle-même, cela expliquait son
 arrivée dans la boite aux lettres malgré l’absence de timbre. Un peu de
 folie était bien moins incroyable qu’un univers rempli de magie.

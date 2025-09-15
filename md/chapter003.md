@@ -7,14 +7,14 @@ Harry se pencha par-dessus le bar du Chaudron Baveur du mieux qu’il put,
 le zinc atteignant à peu près le haut de ses sourcils. Une question
 *pareille* méritait qu’il donne le meilleur de lui-même.
 
-« Suis-je — pourrais-je être — peut-être — qui sait — si c’*est* le
-cas — mais une question reste en suspend — *qui* * ?* »
+« Suis-je — pourrais-je être — peut-être — qui sait — si c’*est* le
+cas — mais une question reste en suspend — *qui* * ?* »
 
 « Bénie soit mon âme, murmura le vieux barman, Harry Potter… quel
 honneur ! »
 
 Harry cligna des yeux puis se reprit. « Eh bien, oui, vous êtes
-perspicace ; la plupart des gens ne s’en rendent pas compte si vite — »
+perspicace ; la plupart des gens ne s’en rendent pas compte si vite — »
 
 « Ça suffit, » dit le Professeur McGonagall. Sa main se resserra sur
 l’épaule de Harry. « Ne harcèle pas le garçon, Tom, tout ça est nouveau
@@ -130,7 +130,7 @@ faire. « Je suis navré ! J’ai oublié pendant un moment que j’étais a
 vous et non avec ma famille. » Harry esquissa un geste en direction de
 la vitrine du magasin, qui affichait des lettres ardentes qui brillaient
 d’une lueur à la fois perçante et lointaine, et l’on pouvait y lire :
-*Bigbam’s Brillant Books.* « Lorsqu’on passe devant une librairie qu’on
+*Bigbam's Brillant Books.* « Lorsqu’on passe devant une librairie qu’on
 n’a pas encore visitée, on doit rentrer et jeter un coup d’œil. C’est la
 règle de la famille. »
 
@@ -156,7 +156,7 @@ alors que sa tête continuait de pivoter en tous sens, « probablement la
 meilleure diversion qu’on ait jamais essayée sur moi, mais ne croyez pas
 que j’ai oublié notre discussion laissée en suspens. »
 
-McGonagall soupira. « Vos parents — votre mère tout du moins — ont
+McGonagall soupira. « Vos parents — votre mère tout du moins — ont
 peut-être été fort sages de ne rien vous dire. »
 
 « Et vous souhaitez que je continue dans cette ignorance béate ? Votre
@@ -249,7 +249,7 @@ remarquer ce sentiment, mais il était distrait. Car il est une triste
 règle disant que c’est lorsqu’on a le plus besoin de son art de
 rationaliste qu’on risque le plus de l’oublier.)
 
-Harry se détacha du flanc de McGonagall. « Je vais — avoir besoin d’y
+Harry se détacha du flanc de McGonagall. « Je vais — avoir besoin d’y
 réfléchir, » dit-il, essayant de maintenir un contrôle sur sa voix. Il
 fixa ses chaussures. « Euh, vous pouvez les appeler mes parents, si vous
 le souhaitez, vous n’avez pas à dire “parents génétiques” ou quoi que ce

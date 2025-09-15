@@ -36,7 +36,7 @@ Au pupitre devant la table d’honneur se tenait le professeur McGonagall,
 avec son air sec, scrutant sévèrement l’assistance tandis qu’il appelait
 les élèves les uns après les autres ; même si elle avait souri pour
 Hermione et quelques autres. Derrière elle, sur la plus grande chaise de
-la table — en fait, c’était une sorte de trône doré — se trouvait un
+la table — en fait, c’était une sorte de trône doré — se trouvait un
 vieillard à lunettes à la barbe d’argent dont on aurait pu imaginer
 qu’elle allait jusqu’au sol ; il regardait le Choixpeau d’un air
 bienveillant et il était aussi proche du stéréotype du Vieil Homme Sage
@@ -56,7 +56,7 @@ proie à une crise de panique et dont le corps tressautait
 occasionnellement ; sans savoir pourquoi, Harry se retrouvait souvent le
 regard braqué sur lui. À gauche de cet homme, une série de trois
 sorcières plus âgées qui ne semblaient pas accorder beaucoup d’intérêt
-aux élèves. Puis, à droite de la grande chaise dorée, une sorcière d’âge mûr 
+aux élèves. Puis, à droite de la grande chaise dorée, une sorcière d’âge mûr
 au visage rond et coiffée d’un chapeau jaune, qui avait applaudi
 tous les élèves non Serpentard. Un petit homme debout sur sa chaise,
 avec une barbe blanche bouffante, qui avait applaudi tous les élèves,
@@ -189,7 +189,7 @@ soulagement. Ça avait *semblé* certain, mais vous ne saviez jamais quel
 petit évènement pouvait bouleverser le cours de votre grand projet.
 
 Le professeur McGonagall appela « Perks, Sally-Anne », et des enfants
-réunis s’échappa une fille pâle et maigrelette, étrangement éthérée —
+réunis s’échappa une fille pâle et maigrelette, étrangement éthérée —
 comme si elle risquait de disparaitre dès l’instant où vous arrêteriez
 de la regarder, pour être immédiatement oubliée à jamais.
 
@@ -224,11 +224,11 @@ Et Harry Potter s’avança. Il se rendit compte trop tard qu’il allait
 beaucoup trop lentement, mais à ce stade, il aurait été très gênant de
 changer d’allure.
 
- 
+
 
 ------------------------------------------------------------------------
 
- 
+
 
 Ne sachant que trop bien ce qu’elle allait voir, Minerva se tourna pour
 observer le reste de la table d’honneur.
@@ -244,7 +244,7 @@ Avec un grand sourire, Harry Potter s’inclinait d’un côté, puis de
 l’autre en avançant entre les quatre tables des Maisons à un pas fort
 mesuré, tel un prince recevant son château en héritage.
 
-*"Sauve-nous d’autres Seigneurs !* » s’écria l’un des jumeaux Weasley, et
+*« Sauve-nous d’autres Seigneurs !* » s’écria l’un des jumeaux Weasley, et
 l’autre enchaina alors : « *Surtout si ce sont des professeurs !* », ce
 qui fit éclater de rire toutes les tables, à l’exception de Serpentard.
 
@@ -264,11 +264,11 @@ lèvres. Il regardait en direction de Harry Potter, pas de la table de
 Gryffondor, et il serrait dans ses mains les restes froissés de ce qui
 avait jadis été une coupe de vin…
 
- 
+
 
 ------------------------------------------------------------------------
 
- 
+
 
 Et Harry s’avança, sourire figé, se sentant à la fois très bien et
 particulièrement mal.
@@ -284,7 +284,7 @@ Et Harry les protègerait à nouveau. Il y avait même une prophétie à ce
 sujet, et c’était exactement ce qu’elle annonçait. Enfin, il le ferait
 quoi que puisse en dire une quelconque satanée prophétie.
 
-Tous ces gens qui croyaient en lui et l’acclamaient — Harry ne
+Tous ces gens qui croyaient en lui et l’acclamaient — Harry ne
 supportait pas l’idée que rien de cela ne soit vrai. De briller puis de
 disparaitre comme tant d’autres enfants prodiges. D’être une déception.
 De ne pas vivre à la hauteur de sa réputation de symbole de la Lumière,
@@ -294,7 +294,7 @@ même si ça le tuait, répondre à leurs attentes. Puis il allait *excéder*
 ces attentes, pour que les gens s’étonnent, en regardant en arrière, de
 lui en avoir demandé si peu.
 
-*"HARRY POTTER ! HARRY POTTER ! HARRY POTTER ! »*
+* »HARRY POTTER ! HARRY POTTER ! HARRY POTTER ! »*
 
 Harry fit ses derniers pas vers le Choixpeau Magique alors que la
 musique se terminait. Il fit une courbette à l’Ordre du Chaos à la table

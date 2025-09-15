@@ -33,12 +33,12 @@ vraie, mais il ne savait pas pourquoi Maman avait si peur.
 
 Il essaya de deviner. « Maman, tu sais que je ne vais pas devenir comme
 ta sœur juste parce que j’apprends la magie ? Je ferai toute la magie
-que tu voudras — enfin, si j’en suis capable — et si tu veux que je
+que tu voudras — enfin, si j’en suis capable — et si tu veux que je
 n’utilise *aucune* magie dans la maison, je le ferais aussi, je te
 promets que je ne laisserai jamais la magie nous séparer.
 
-Un câlin écrasant lui coupa le souffle. “Tu as bon cœur,” lui murmura sa
-mère à l’oreille. “Très bon cœur, mon fils.”
+Un câlin écrasant lui coupa le souffle. « Tu as bon cœur, » lui murmura sa
+mère à l’oreille. « Très bon cœur, mon fils. »
 
 Et alors, Harry s’étrangla un peu lui aussi.
 
@@ -50,14 +50,14 @@ la gare de King’s Cross. En vérité, papa avait déjà du mal à simplement r
  La magie flottait dans les arbres généalogiques,
  et Michael Verres-Evans était incapable d’atteindre ne serait-ce que la première branche.
 
-Au lieu de ça, son père s’éclaircit la gorge. “Bonne chance à l’école,
-Harry,” dit-il. “Penses-tu que j’ai acheté assez de livres ?”
+Au lieu de ça, son père s’éclaircit la gorge. « Bonne chance à l’école,
+Harry, » dit-il. « Penses-tu que j’ai acheté assez de livres ? »
 
 Harry avait expliqué à son père qu’il pensait que c’était sa chance de
 faire quelque chose de vraiment révolutionnaire et important, et le
 Professeur Verres-Evans avait hoché la tête et avait annulé son emploi
-du temps très chargé pour deux jours pleins afin d’organiser le “Plus
-Grand Raid de Librairies d’Occasion Jamais Fait”, qui avait couvert
+du temps très chargé pour deux jours pleins afin d’organiser le « Plus
+Grand Raid de Librairies d’Occasion Jamais Fait », qui avait couvert
 quatre villes et produit *trente* boites de livres scientifiques
 attendant à présent à l’étage caverne de la malle de Harry. La plupart
 des livres s’étaient vendus pour une livre ou deux, mais certains
@@ -69,17 +69,17 @@ mille livres. Harry avait dit à son père qu’il le rembourserait dès
 qu’il aurait appris à convertir l’or des sorciers en argent moldu, et
 son père lui avait dit d’aller se jeter dans un lac.
 
-Puis son père lui avait demandé : “Penses-tu que j’ai acheté assez de
-livres” La réponse que Papa attendait était très claire.
+Puis son père lui avait demandé : « Penses-tu que j’ai acheté assez de
+livres » La réponse que Papa attendait était très claire.
 
-Bizarrement, la gorge de Harry était enrouée. “On ne peut jamais avoir
-assez de livres,” dit-il, récitant la devise de la famille Verres, et
-son père s’agenouilla et lui donna un câlin bref et résolu. “Mais tu as
-*certainement* essayé,” dit Harry, et il se sentit s’étrangler à
-nouveau. “C’était un très, très, *très* bon essai.”
+Bizarrement, la gorge de Harry était enrouée. « On ne peut jamais avoir
+assez de livres, » dit-il, récitant la devise de la famille Verres, et
+son père s’agenouilla et lui donna un câlin bref et résolu. « Mais tu as
+*certainement* essayé, » dit Harry, et il se sentit s’étrangler à
+nouveau. « C’était un très, très, *très* bon essai. »
 
-Son père se redressa. “Alors…” dit-il. “Vois — *tu* un quai neuf
-trois-quarts ?”
+Son père se redressa. « Alors… » dit-il. « Vois— *tu* un quai neuf
+trois-quarts ? »
 
 La gare de King’s Cross était énorme et bondée, les murs et le sol
 couverts d’ordinaires carreaux couleur terre, pleine de gens ordinaires
@@ -105,7 +105,7 @@ scolaires (et ça avait été un survol des plus étranges) dans un effort
 rapide destiné à déterminer quel genre de livre scientifique il
 devrait acheter durant les 48 heures suivantes.
 
-Eh bien, il avait — Harry jeta un coup d’œil à sa montre — une heure
+Eh bien, il avait — Harry jeta un coup d’œil à sa montre — une heure
 entière pour trouver une solution, puisqu’il était censé être à bord du
 train à onze heures. Peut-être que c’était l’équivalent d’un test de QI
 et que les enfants stupides ne pouvaient pas devenir sorciers. (Et le
@@ -113,13 +113,11 @@ temps supplémentaire que vous vous octroyiez déterminait si vous étiez
 consciencieux, ce qui était le second facteur le plus important de la
 réussite scolaire.)
 
-“Je trouverai un moyen,” dit Harry à ses parents, qui attendaient.
-“C’est probablement une espèce de test.”
+« Je trouverai un moyen, » dit Harry à ses parents, qui attendaient.
+« C’est probablement une espèce de test. »
 
-Le père de Harry grimaça. “Hmm… essaie peut-être de chercher des traces
-de pas au sol menant à un endroit absurde…”
-
- »*Papa !* », dit Harry. « Arrête ça ! Je n’ai même pas encore *essayé* de
+Le père de Harry grimaça. « Hmm… essaie peut-être de chercher des traces
+de pas au sol menant à un endroit absurde… » »*Papa !* », dit Harry. « Arrête ça ! Je n’ai même pas encore *essayé* de
 trouver la solution tout seul ! » En plus, c’était une très bonne
 suggestion, ce qui était pire.
 
@@ -133,7 +131,7 @@ suggestion, ce qui était pire.
 « *Harry !* » sifflèrent son père et sa mère à l’unisson. « *Qu’as-tu
 fait ?* »
 
-« J’ai, euh — » Harry avala sa salive. « Écoutez, on n’a pas le temps pour
+« J’ai, euh — » Harry avala sa salive. « Écoutez, on n’a pas le temps pour
 ça. »
 
 « *Harry* ! »
@@ -213,15 +211,15 @@ son cerveau fonctionne assez vite pour se rendre compte qu’il se
 trouvait dans une situation où le « doute résonant » s’appliquait, c’est-à-dire que, s’il avait commencé par penser qu’il traverserait la
 barrière, alors tout se serait bien passé, mais maintenant il était
 inquiet de ne pas assez *croire* au fait qu’il traverserait la barrière,
-ce qui voulait dire qu’il *était* vraiment inquiet de s’écraser dessus —
+ce qui voulait dire qu’il *était* vraiment inquiet de s’écraser dessus —
 
 « *Harry ! Reviens ici, j’attends des explications !* » C’était son Père.
 
 Harry ferma les yeux et ignora tout ce qu’il savait au sujet des
 croyances justifiées et essaya juste de croire *très fort* qu’il allait
-traverser la barrière et —
+traverser la barrière et —
 
-— les sons l’entourant changèrent.
+— les sons l’entourant changèrent.
 
 Harry ouvrit les yeux et s’arrêta net. Il se sentait vaguement sale
 d’avoir fait un effort délibéré pour croire en quelque chose.
@@ -264,7 +262,7 @@ Harry Potter, et beaucoup de gens ici m’ont dit que je *ressemblais* à
 mes parents, je veux dire mes autres parents, mais… », Harry fronça les
 sourcils, se rendant compte que : « pour tout ce que *j’*en sais, il
 pourrait tout à fait y avoir des sorts permettant de polymorpher un
-enfant en une autre apparence spécifique — »
+enfant en une autre apparence spécifique — »
 
 « Euh, quoi mon gars ? »
 
@@ -279,8 +277,8 @@ surprit Harry).
 C’est alors que Harry se rendit compte de la possibilité d’une
 catastrophe imminente et élabora un moyen de l’empêcher. « Juste un
 instant, » dit-il à Ron, et il ouvrit l’un des tiroirs de sa malle, celui
-qui, s’il se souvenait bien, était pour les vêtements d’hiver — c’était
-le cas — et il trouva, sous son manteau d’hiver, l’écharpe la plus
+qui, s’il se souvenait bien, était pour les vêtements d’hiver — c’était
+le cas — et il trouva, sous son manteau d’hiver, l’écharpe la plus
 légère en sa possession. Harry enleva son bandeau et tout aussi
 rapidement déplia l’écharpe et l’enroula autour de son visage. Ça lui
 donnait un peu chaud, particulièrement en été, mais Harry pourrait
@@ -307,7 +305,7 @@ ne plus fonctionner, « M. Spoo. »
 *La Force n’est pas très puissante chez celui-ci*. « Appelle… moi…
 Monsieur… Spoo. »
 
-« D’accord, Monsieur Spoo — » Ron s’interrompit. « Je ne peux pas faire ça,
+« D’accord, Monsieur Spoo — » Ron s’interrompit. « Je ne peux pas faire ça,
 ça me fait me sentir stupide. »
 
 *Ce n’est pas qu’une sensation*. « D’accord. *Toi*, choisis un nom. »
@@ -320,7 +318,7 @@ les Canons de Chudley ? »
 
 « *Qui sont les Canons de Chudley ?* Une des meilleures équipes de toute
 l’Histoire du Quidditch ! Bien sûr ils ont fini derniers de la ligue
-l’année dernière, mais — »
+l’année dernière, mais — »
 
 « Qu’est-ce que le Quidditch ? »
 
@@ -335,7 +333,7 @@ de Ron (associée de maints gestes) s’épuisait. « Attraper le Vif vaut
 « Combien de buts à dix points marque-t-on généralement *sans* compter le
 Vif ? »
 
-« Euh, peut-être quinze ou vingt dans les parties professionnelles — »
+« Euh, peut-être quinze ou vingt dans les parties professionnelles — »
 
 « C’est juste stupide. Ça viole toutes les règles possibles de la
 conception de jeux. Écoute, le reste de ce jeu a l’air plus ou moins
@@ -343,10 +341,10 @@ sensé, grosso modo, pour un sport en tout cas, mais tu es en train de me
 dire qu’attraper le Vif écrase presque tout autre écart de point. Les
 deux Attrapeurs sont là à voler dans les airs à la recherche du Vif et
 n’interagissent généralement avec personne, repérer le Vif en premier
-sera généralement une affaire de chance — »
+sera généralement une affaire de chance — »
 
 « Ce n’est pas de la chance ! » protesta Ron. « Tu dois garder tes yeux en
-mouvement avec la bonne technique — »
+mouvement avec la bonne technique — »
 
 « Ce n’est pas *interactif*, il n’y a pas de va-et-vient avec l’autre
 joueur, et puis à quel point est-ce amusant de regarder quelqu’un
@@ -387,9 +385,9 @@ sport national, et de le rebâtir plus fort et plus intelligent ; à mon
 image. J’ai des choses beaucoup, *beaucoup* plus importantes dont je
 dois me préoccuper. » Harry eut l’air pensif. « Mais cela dit, ça ne
 *prendrait* pas beaucoup de temps d’écrire les 95 thèses de la “Réforme
-Sans Vif” et de les clouer à la porte d’une église — »
+Sans Vif” et de les clouer à la porte d’une église — »
 
-« Potter, » traina la voix d’un jeune garçon, « *qu’est* — ce que tu as sur
+« Potter, » traina la voix d’un jeune garçon, « *qu’est*— ce que tu as sur
 le visage ? *Qu’est-ce* qui se tient à côté de toi ? »
 
 L’air horrifié de Ron fut remplacé par de la haine absolue. « *Toi !* »
@@ -410,23 +408,23 @@ regarda ses robes, « Monsieur Black. »
 « *Harry* ! » siffla Ron. « Tu ne peux pas utiliser *ce* nom ! »
 
 Harry cligna des yeux. « Pourquoi pas ? » Ça *sonnait* joliment sombre,
-comme un homme mystérieux international —
+comme un homme mystérieux international —
 
 « Je dirais que c’est un *excellent* nom, » dit Drago, « mais la Noble et
 Ancienne Maison des Black pourrait trouver à y redire. Que penses-tu de
 M. Argent ? »
 
-« Éloigne — *toi* de… de M. Or, » dit Ron froidement, et il s’avança d’un
+« Éloigne— *toi* de… de M. Or, » dit Ron froidement, et il s’avança d’un
 pas. « Il n’a pas besoin de parler aux gens comme toi ! »
 
 Harry leva une main apaisante. « Je me ferai appeler M. Bronze, merci
 pour le schéma d’appellation. Et Ron, euh, » Harry lutta pour trouver une
 façon agréable de dire : « Je suis heureux que tu sois si… enthousiaste à
 l’idée de me protéger, mais ça ne me dérange pas particulièrement de
-discuter avec Drago — »
+discuter avec Drago — »
 
 Ce fut apparemment un coup fatal pour Ron, qui se tourna vers Harry avec
-des yeux à présent enflammés par l’outrage. « *Quoi* ? *Sais* — tu qui il
+des yeux à présent enflammés par l’outrage. « *Quoi* ? *Sais*— tu qui il
 est ? »
 
 « Oui, Ron, » dit Harry, « tu te souviens peut-être que je l’ai appelé
@@ -449,7 +447,7 @@ arrivait à *ta* famille ! »
 
 « Oh, » ronronna Drago, « mais ça n’*arriverait* jamais aux Malfoy. »
 
-Les mains de Ron devinrent des poings —
+Les mains de Ron devinrent des poings —
 
 « C’est assez, » dit Harry, mettant autant d’autorité tranquille dans sa
 voix qu’il en était capable. Il était certain que, quel qu’en soit le
@@ -462,7 +460,7 @@ Harry ! Je veux dire M. Bronze ! Tu vois le genre de personne qu’il
 est ? Maintenant, dis-lui de s’en aller ! »
 
 Harry compta mentalement jusqu’à dix, ce qui, pour lui, fut un rapide
-*12 345 678 910* — une vieille habitude conservée depuis l’âge de cinq ans
+*12 345 678 910* — une vieille habitude conservée depuis l’âge de cinq ans
 où sa mère lui avait pour la première fois donné l’instruction de le
 faire, et Harry s’était dit que sa façon à lui était plus rapide et tout
 aussi efficace. « Ron, » dit Harry calmement, « Je ne vais pas lui dire de
@@ -486,15 +484,13 @@ simplement parti ? »
 « Euh… sa mère m’a aidé à comprendre comment aller sur ce quai depuis la
 gare de King’s Cross, donc c’était un peu difficile de lui dire d’aller
 se faire voir. Et puis ce n’est pas que je le *déteste*, » dit Harry,
-« c’est juste que je, que je… » Harry chercha ses mots.
-
- »… ne vois aucune raison justifiant son existence ? » proposa Drago.
+« c’est juste que je, que je… » Harry chercha ses mots. »… ne vois aucune raison justifiant son existence ? » proposa Drago.
 
 « À peu près. »
 
 « Quoi qu’il en soit, Potter… si tu as vraiment été éduqué par des Moldus
-—  » Drago s’interrompit, comme s’il attendait une dénégation, mais Harry
-ne dit rien « — alors tu ne te rends peut-être pas compte de ce que c’est
+— » Drago s’interrompit, comme s’il attendait une dénégation, mais Harry
+ne dit rien « — alors tu ne te rends peut-être pas compte de ce que c’est
 que d’être connu. Les gens vont vouloir te prendre *tout* ton temps. Tu
 *dois* apprendre à dire non. »
 
@@ -522,7 +518,7 @@ rencontre. Je ne voulais pas t’embarrasser devant Lucius. »
 
 Drago rejeta l’excuse d’un mouvement de la main tout en regardant Harry
 d’une étrange façon. « J’aurais juste aimé que Père soit arrivé pendant
-que *tu* me flattais *moi* — » rit Drago. « Mais *merci* d’avoir dit ce
+que *tu* me flattais *moi* — » rit Drago. « Mais *merci* d’avoir dit ce
 que tu as dit à Père. Sans ça, j’aurais eu beaucoup plus de mal à tout
 expliquer. »
 
@@ -534,12 +530,12 @@ absolu à l’un de ses amis, car Père dit qu’il y a d’*étranges rumeurs*
 qui circulent, comme quoi toi et moi nous serions battus ou quelque
 chose comme ça. »
 
-« Aïe, » dit Harry en grimaçant. « Je suis *vraiment* désolé — »
+« Aïe, » dit Harry en grimaçant. « Je suis *vraiment* désolé — »
 
 « Non, on a l’habitude, Merlin sait qu’il y a déjà d’étranges rumeurs au
 sujet de la famille Malfoy. »
 
-Harry hocha la tête. « Heureux d’entendre que tu es hors du pétrin — »
+Harry hocha la tête. « Heureux d’entendre que tu es hors du pétrin — »
 
 Drago sourit. « Père a, hum, un sens de l’humour assez *raffiné*, mais il
 *comprend* ce que c’est que d’avoir des amis. Il le comprend *très*
@@ -588,7 +584,7 @@ certainement pas une chose pareille. »
 aux cheveux blancs qui était entrée chez Madame Guipure, maniant sa
 magnifique cane à poignée d’argent. C’était juste tellement difficile de
 visualiser ce tueur parfait sous les traits d’un papa gâteau. « Ne le
-prends pas mal, mais comment *sais* — tu ça ? »
+prends pas mal, mais comment *sais*— tu ça ? »
 
 « Hein ? » Il était clair que ce n’était pas une question que Drago se
 posait très souvent.
@@ -598,7 +594,7 @@ ce que tu crois ? Que penses-tu savoir et comment penses-tu que tu le
 sais ? Qu’as-tu *vu* qui te fait penser que Lucius ne te sacrifierait
 pas comme il sacrifierait toute autre pièce de son jeu ? »
 
-Drago jeta un nouveau regard à Harry. « Que sais — *tu* au juste de Père ? »
+Drago jeta un nouveau regard à Harry. « Que sais— *tu* au juste de Père ? »
 
 « Hmm… siège au Magenmagot, siège au Conseil des Gouverneurs de Poudlard,
 incroyablement riche, a l’attention du ministre Fudge, a la confiance du
@@ -608,7 +604,7 @@ Seigneur des Ténèbres est parti, ancien membre du cercle intérieur des
 Mangemorts, reconnu comme porteur de la Marque des Ténèbres, mais s’en
 est sorti en disant qu’il était sous un sort d’Impérium, ce qui était
 ridiculement peu vraisemblable et à peu près tout le monde le savait…
-méchant avec un “M’capital et tueur né… je crois que c’est tout. »
+méchant avec un « M’capital et tueur né… je crois que c’est tout. »
 
 Les yeux de Drago devinrent si étroits qu’on aurait dit des fentes. « Je
 vois que McGonagall t’a tout dit. »
@@ -713,14 +709,14 @@ moins automatiquement, et Harry se força à le regarder à nouveau.
 Puis Harry fut frappé par *l’énormité de ce qu’il venait de dire*, et il
 ajouta hâtivement, « Non pas que je souhaite que mon Papa soit un
 instrument de mort parfait comme Lucius, je voulais juste dire que je
-voudrais qu’il me prenne au sérieux — »
+voudrais qu’il me prenne au sérieux — »
 
 « Je comprends, » dit Drago avec un sourire. « Et voilà… maintenant, il
 semble qu’on s’est un peu rapproché du statut d’amis, non ? »
 
 Harry hocha la tête. « Ouais. En effet. Euh… sans vouloir t’offenser, je
 pense que je vais remettre mon déguisement, je ne veux *vraiment* pas
-avoir à gérer — »
+avoir à gérer — »
 
 « Je comprends. »
 
@@ -730,9 +726,7 @@ Harry enroula à nouveau l’écharpe tout autour de son visage.
 il a beaucoup d’alliés. Tu devrais peut-être le rencontrer. »
 
 « J’y penserai, » dit Harry d’une voix neutre. Il secoua la tête avec
-incrédulité. « Alors, comme ça, tu es vraiment son seul point faible. Heh."
-
-Maintenant Drago jetait un regard *vraiment* bizarre à Harry. « Tu veux
+incrédulité. « Alors, comme ça, tu es vraiment son seul point faible. Heh.« Maintenant Drago jetait un regard *vraiment* bizarre à Harry. « Tu veux
 aller boire quelque chose, ou trouver un endroit où nous assoir ? »
 
 Harry se rendit compte qu’il était resté debout au même endroit trop
@@ -758,10 +752,10 @@ exactement ? »
 « De l’Hilari-Thé, » dit le vendeur, « Si vous en buvez, quelque chose de
 surprenant aura lieu et ça vous fera renverser du thé sur vous ou
 quelqu’un d’autre. Mais il est enchanté pour se dissiper quelques
-secondes plus tard — ». La tache sur sa barbe disparaissait en effet déjà.
+secondes plus tard — ». La tache sur sa barbe disparaissait en effet déjà.
 
 « Que c’est drôle. », dit Drago. « Que c’est bien drôle. Venez, M. Bronze,
-allons trouver un autre — »
+allons trouver un autre — »
 
 « Attends, » dit Harry.
 
@@ -774,14 +768,14 @@ conversation complètement sérieuse ? »
 Le vendeur sourit et haussa les épaules avec un air mystérieux. « Qui
 sait ? Vous verrez un ami passer par là dans un costume de grenouille ?
 *Quelque chose* d’amusant et d’inattendu aura lieu, d’une façon ou d’une
-autre — »
+autre — »
 
 « Non. Je suis navré. Je n’y crois pas. Ça viole ma suspension de
 l’incrédulité (déjà abusée) de tant de façons que je n’ai même pas les
 mots pour le décrire. Il est, il est juste *hors de question* qu’une
 satanée *boisson* puisse manipuler la réalité pour produire des
 *situations comiques*, ou je vais abandonner et prendre ma retraite aux
-Bahamas — »
+Bahamas — »
 
 Drago grogna. « Allons-nous *vraiment* faire ça ? »
 
@@ -809,7 +803,7 @@ leurs canettes au même instant.
 
 Harry souleva son écharpe pour exposer sa bouche, et ils penchèrent
 leurs têtes en arrière et burent l’Hilari-Thé. Étrangement, ça avait un
-*gout* vert néon — extrapétillant, et plus citronné que du citron.
+*gout* vert néon — extrapétillant, et plus citronné que du citron.
 
 Rien ne se passa.
 
@@ -1005,7 +999,7 @@ tes, ahem, supporters seront beaucoup moins susceptibles de rester de
 ton côté. Et un meurtre, avec un corps et tout, c’est beaucoup plus
 sérieux qu’un viol. »
 
-Lorsque la conversation ne peut avancer ni reculer, fais-la partir de côté. 
+Lorsque la conversation ne peut avancer ni reculer, fais-la partir de côté.
 « C’est un truc de Moldu, dans l’Angleterre moldue, il y a une
 sacrée différence politique entre esquiver une condamnation pour meurtre
 et esquiver une condamnation pour le viol d’une petite fille. »
@@ -1093,8 +1087,8 @@ Pour une fille. Pas pour toutes.
 des plus grands Puristes du Sang et de les tuer.*
 
 C’était exactement ce qu’ils avaient essayé lors de la Révolution
-française, plus ou moins — faire une liste de tous les ennemis du
-Progrès et enlever tout ce qui était au-dessus du cou — et ça n’avait
+française, plus ou moins — faire une liste de tous les ennemis du
+Progrès et enlever tout ce qui était au-dessus du cou — et ça n’avait
 pas très bien marché, du peu que s’en souvenait Harry. Peut-être qu’il
 avait besoin de dépoussiérer quelques-uns des livres d’Histoire que son
 père lui avait acheté et de voir si ce qui avait mal tourné lors de la
@@ -1122,18 +1116,18 @@ permettraient des choses que même *moi* je ne peux pas faire. Tu veux
 amadouer ta proie hors de sa cachette. Est-il trop tard pour te sauver,
 Drago ?*
 
-Harry réfléchit, étudia, et choisit son arme. “Drago, pourrais-tu
+Harry réfléchit, étudia, et choisit son arme. « Drago, pourrais-tu
 m’expliquer toute cette histoire de pureté du sang ? C’est assez nouveau
-pour moi.”
+pour moi. »
 
-Un grand sourire s’étira sur le visage de Drago. “Tu devrais vraiment
-rencontrer Père et *lui* demander, c’est notre chef.”
+Un grand sourire s’étira sur le visage de Drago. « Tu devrais vraiment
+rencontrer Père et *lui* demander, c’est notre chef. »
 
-“Donne-moi juste le discours de l’ascenseur. La version qui tient en
-trente secondes, je veux dire.”
+« Donne-moi juste le discours de l’ascenseur. La version qui tient en
+trente secondes, je veux dire. »
 
-“D’accord,” dit Drago. Il prit une profonde inspiration, et sa voix
-devint légèrement plus grave, et prit une cadence. “Nos pouvoirs ont
+« D’accord, » dit Drago. Il prit une profonde inspiration, et sa voix
+devint légèrement plus grave, et prit une cadence. « Nos pouvoirs ont
 faibli génération après génération alors que la souillure Sang-de-Bourbe
 grandit. Là où Salazar et Godric et Rowena et Helga ont un jour érigé
 Poudlard grâce à leurs pouvoirs, créant le Médaillon et l’Épée et le
@@ -1144,16 +1138,16 @@ vivre. Si la souillure n’est pas arrêtée, bientôt nos baguettes se
 briseront et notre art cessera, la lignée de Merlin s’achèvera et le
 sang d’Atlantis échouera. Nos enfants devront gratter la terre pour
 survivre comme de simples Moldus et la Ténèbre recouvrira le monde
-entier pour toujours.” Drago prit une autre lampée de sa canette, l’air
+entier pour toujours. » Drago prit une autre lampée de sa canette, l’air
 satisfait. Ça semblait être l’argument final en ce qui le concernait.
 
-“Persuasif,” dit Harry, utilisant le mot de façon descriptive plutôt que
+« Persuasif, » dit Harry, utilisant le mot de façon descriptive plutôt que
 normative. Classique, classique modèle. La Chute après la Grâce, le
 besoin de protéger ce qui restait de la pureté contre la contamination,
 le passé en courbe ascendante et le futur en courbe uniquement
-descendante. Et le modèle avait aussi un *contre*… “Je dois cependant te
+descendante. Et le modèle avait aussi un *contre*… « Je dois cependant te
 corriger sur un fait. Ton information au sujet des Moldus est un peu
-obsolète. Nous ne grattons plus vraiment la terre.”
+obsolète. Nous ne grattons plus vraiment la terre. »
 
 La tête de Drago fit un mouvement sec vers Harry. »*Quoi* ? Qu’est-ce
 que tu veux dire, *nous* ? »
@@ -1164,7 +1158,7 @@ n’avaient pas de baguettes, nous avons nos *propres* pouvoirs
 maintenant, avec ou sans magie. Si tous vos pouvoirs échouent, alors nous
 aurons perdu quelque chose de très précieux, car votre magie est la
 seule chose qui nous donne un indice sur la façon dont l’univers doit
-*vraiment* fonctionner — mais vous ne vous retrouverez pas à gratter la
+*vraiment* fonctionner — mais vous ne vous retrouverez pas à gratter la
 terre. Vos maisons seront toujours fraiches en été et chaudes en hiver,
 il y aura toujours des docteurs et de la médecine. La science peut vous
 maintenir en vie si la magie échoue. Ce serait une tragédie et nous
@@ -1188,7 +1182,7 @@ Les sorciers sont-ils jamais allés sur la Lune ? Tu sais, ce truc ? »
 Harry pointa du doigt en direction de l’énorme globe lointain.
 
 « *Quoi* ? » dit Drago. Il était assez clair que cette pensée ne s’était
-jamais présentée au garçon. « *Aller* sur la — c’est juste un — » Son
+jamais présentée au garçon. « *Aller* sur la — c’est juste un — » Son
 doigt pointa en direction de la petite chose pâle dans le ciel. « On ne
 peut pas Transplaner à un endroit où on est jamais *allé* et comment qui
 que ce soit irait sur la Lune la *première* fois ? »
@@ -1200,7 +1194,7 @@ niveau caverne de sa malle, puis descendit les escaliers à la cavalcade,
 souleva une boite qui était posée sur une autre boite, s’approcha
 périlleusement du moment où il traiterait ses livres avec irrespect,
 arracha le couvercle de la boite et, avec rapidité, mais précaution,
-extirpa une pile de livres —
+extirpa une pile de livres —
 
 (Harry avait hérité de la capacité quasi magique des Verres à se
 souvenir d’où tous ses livres se trouvaient, même après ne les avoir vus
@@ -1246,14 +1240,14 @@ plus haut, jusqu’à ce qu’elle arrive à la Lune. » Tourna d’autres pag
 personne. » Drago s’étouffa. « Aller sur la lune coute l’équivalent de…
 probablement autour de deux-mille-millions de Gallions. » Drago
 s’étrangla. « Et ça a demandé les efforts de… probablement plus de
-personnes que le nombre total d’habitants de l’Angleterre magique. » 
+personnes que le nombre total d’habitants de l’Angleterre magique. »
 
 *Et, lorsqu’ils arrivèrent, ils laissèrent une plaque disant : « Nous venons
 en paix, pour toute l’humanité. » Tu n’es pas encore prêt à entendre ces
 mots, Drago, mais j’espère que tu le seras un jour…*
 
 « Tu dis la vérité, » dit lentement Drago. « Tu ne fabriquerais pas un
-livre entier juste pour me raconter ça — et puis je peux l’entendre dans
+livre entier juste pour me raconter ça — et puis je peux l’entendre dans
 ta voix. Mais… mais… »
 
 « Comment, sans baguettes ni magie ? C’est une longue histoire, Drago. La
@@ -1268,7 +1262,7 @@ C’est beaucoup plus difficile que d’agiter une baguette, mais ça marche
 là où les baguettes échouent, exactement comme si, si l’Impero échouait,
 on pourrait toujours essayer de persuader la personne. Et la Science se
 construit de génération en génération. Il faut vraiment *savoir* ce
-qu’on fait quand on fait de la science — et quand on comprend vraiment
+qu’on fait quand on fait de la science — et quand on comprend vraiment
 quelque chose, on peut l’expliquer à quelqu’un d’autre. Les plus grands
 scientifiques du siècle dernier, les plus grands noms qu’on prononce
 avec révérence aujourd’hui encore… leurs pouvoirs ne sont *rien* comparés
@@ -1315,11 +1309,11 @@ Les yeux de Drago semblaient profondément pensifs. « As-tu… déjà fait
 ça ? »
 
 « Jusqu’à un certain point, » accorda Harry. « Ma formation n’est pas pas
-complète. Pas à onze ans. Mais — mon père m’a *aussi* offert des
+complète. Pas à onze ans. Mais — mon père m’a *aussi* offert des
 précepteurs, vois-tu. » D’accord, c’étaient des étudiants en doctorat
 affamés, et c’était parce que Harry avait un cycle de sommeil de 26
-heures — qu’est-ce que le Professeur McGonagall allait *faire* à ce
-sujet ? — mais laissons cela de côté pour le moment…
+heures — qu’est-ce que le Professeur McGonagall allait *faire* à ce
+sujet ? — mais laissons cela de côté pour le moment…
 
 Lentement, Drago hocha la tête. « Penses-tu que tu puisses maitriser les
 *deux* arts, ajouter leurs pouvoirs, et… » Drago fixa Harry. « Devenir le
@@ -1342,7 +1336,7 @@ Le visage de Drago témoignait d’une crainte révérencielle. « Pourquoi
 *me* dis-tu ça ? »
 
 « Oh… il n’y a pas beaucoup de gens qui savent faire de la *vraie*
-science — comprendre quelque chose pour la première fois, même si ça les
+science — comprendre quelque chose pour la première fois, même si ça les
 rend incroyablement confus. Ça m’aiderait d’avoir de l’aide. »
 
 Drago fixa Harry la bouche ouverte.
@@ -1382,7 +1376,7 @@ dont il s’agit. C’est juste que je veux pouvoir avoir affaire à
 quelqu’un de mon âge, plutôt que ce soit une histoire entre moi et
 Lucius. Je pense que ton père serait d’accord avec ça, il sait que tu
 dois grandir un jour. Mais tes coups dans ta partie doivent être les
-tiens. C’est ma condition — que j’ai affaire à toi, Drago, pas à ton
+tiens. C’est ma condition — que j’ai affaire à toi, Drago, pas à ton
 père. »
 
 « Assez, » dit Drago. Il se leva. « Beaucoup trop d’un coup. Je dois y
@@ -1411,18 +1405,18 @@ Mais lorsque Harry releva les yeux de sa montre, il vit deux silhouettes
 « Bonjour, M. Bronze, » dit l’une des figures masquées. « Pourrions-nous
 vous convaincre de vous joindre à l’Ordre du Chaos ? »
 
- 
+
 
 ------------------------------------------------------------------------
 
- 
+
 
 *Après-coup*
 
 Peu de temps après ça, une fois l’agitation de la journée tassée, Drago
 se pencha au-dessus d’un bureau la plume à la main. Il avait une chambre
 particulière dans les donjons de Serpentard, avec son propre bureau et son
-propre feu — malheureusement même *lui* ne méritait pas une connexion au
+propre feu — malheureusement même *lui* ne méritait pas une connexion au
 réseau de cheminées, mais au moins, Serpentard ne croyait pas à cette
 *ineptie* complète qui consistait à faire dormir *tout le monde* dans
 des dortoirs. Il n’y avait pas beaucoup de chambres particulières, vous deviez
@@ -1468,16 +1462,16 @@ fonctionnait, vous pouviez le réutiliser.) Mais lorsqu’on trouvait le
 levier ultime d’une personne, ça n’avait plus d’importance qu’ils
 sachent que vous saviez. Potter, dans sa folle précipitation, avait
 deviné l’une des clés de l’âme de Drago. Et si Drago savait que Potter
-le savait — même si ça avait été plutôt évident — , ça ne changeait rien.
+le savait — même si ça avait été plutôt évident —, ça ne changeait rien.
 
 Donc, cette fois, pour la première fois de sa vie, il avait de vrais
 secrets à garder. Il jouait sa propre partie. Ce fait comportait une
 sourde douleur, mais il savait que Père serait fier, et ça voulait dire
 que tout allait bien.
 
-Laissant les taches d’encre en place — il y avait là un message, un
+Laissant les taches d’encre en place — il y avait là un message, un
 message que son père comprendrait, car ils avaient joué au jeu des
-subtilités bien plus d’une fois — Drago écrit la seule question qui
+subtilités bien plus d’une fois — Drago écrit la seule question qui
 l’avait vraiment rongé dans toute cette affaire, la partie qu’il, il le
 pensait, *aurait dû* comprendre, mais qu’il ne comprenait pas, pas du
 tout.

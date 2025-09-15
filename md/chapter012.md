@@ -67,7 +67,7 @@ n’était pas ce qui s’était passé à l’instant où Harry avait enlevé l
 Choixpeau de sa tête ; il avait alors entendu un léger murmure qui ne
 semblait venir de nulle part, quelque chose qui sonnait étrangement
 anglais tout en étant un sifflement, quelque chose qui avait dit :
-[*"Ssalutations de Sserpentard à Sserpentard : si tu veux chercher mes
+[*« Ssalutations de Sserpentard à Sserpentard : si tu veux chercher mes
 ssecrets, parle à mon sserpent. »*]{ .serpent}
 
 Harry devinait vaguement que ce n’était pas censé faire partie du
@@ -114,7 +114,7 @@ Aucun autre nom ne fut appelé après ça, et Harry se rendit compte que
 maintenant, il avait applaudi *seulement* Zabini… oh, tant pis.
 
 Dumbledore se leva à nouveau et commença à se diriger vers le podium.
-Apparemment, ils allaient se voir offrir un discours —
+Apparemment, ils allaient se voir offrir un discours —
 
 Et Harry fut frappé par l’inspiration, celle d’un test expérimental
 *brillant*.
@@ -136,7 +136,7 @@ de l’Hilari-Thé, ce serait Dumbledore. Donc, si ça marchait, l’Hilari-Thé
 
 Harry décapsula l’Hilari-Thé sous la table, voulant agir discrètement.
 La canette fit un petit son de sifflement. Quelques têtes se détournèrent
-vers lui, mais se retournèrent bientôt vers —
+vers lui, mais se retournèrent bientôt vers —
 
 « Bienvenue ! Bienvenue à Poudlard en cette nouvelle année ! » dit
 Dumbledore, rayonnant sur les étudiants avec ses bras grands ouverts,
@@ -145,7 +145,7 @@ ici.
 
 Harry prit une première gorgée d’Hilari-Thé et abaissa la canette. Il
 avalerait le soda petit à petit et essaierait de ne pas s’étrangler
-*quoi que dise Dumbledore* —
+*quoi que dise Dumbledore* —
 
 « Avant que nous ne commencions notre banquet, je voudrais dire quelques
 mots. Et les voici : Content content boum boum marais marais marais !
@@ -219,7 +219,7 @@ ne pas poser cette question tout haut.
 soupçonnera que c’est un secret ! »
 
 « Exactement, » chuchota un étudiant, puis il fronça les sourcils.
-« Attends, ça n’a pas l’air de coller — »
+« Attends, ça n’a pas l’air de coller — »
 
 *Note à moi-même : Le 75^ème^ centile des étudiants de Poudlard, c’est-à-dire la Maison Serdaigle, n’est pas le programme pour enfants surdoués
 le plus exclusif au monde.*
@@ -243,9 +243,9 @@ d’école*.
 Maintenant qu’il y pensait, il avait aussi complètement saccagé Poudlard
 en dix minutes de Triage.
 
-Harry ressentait un certain regret à cette pensée — Merlin seul savait
+Harry ressentait un certain regret à cette pensée — Merlin seul savait
 ce qu’un Directeur fou allait faire à ses sept prochaines années de
-scolarité — mais il ne pouvait à la fois *s’empêcher* de ressentir un
+scolarité — mais il ne pouvait à la fois *s’empêcher* de ressentir un
 tiraillement de fierté.
 
 Demain. Pas plus tard que demain, au plus tard, allait-il s’arrêter
@@ -262,7 +262,7 @@ Harry chargea automatiquement son assiette avec ce qui se trouvait en
 face de lui, des saucisses bleues avec des petits morceaux brillants,
 waouh.
 
-« À quoi pensais-tu, le Triage — » commença Padma Patil, l’un des
+« À quoi pensais-tu, le Triage — » commença Padma Patil, l’un des
 Serdaigle de première année.
 
 « On n’importune pas pendant les repas ! » dit un chorus d’au moins trois
@@ -506,7 +506,7 @@ abandonné, et il se tint là silencieux, pris d’un tremblement
 occasionnel.
 
 « Oh, génial, » chuchota l’étudiant plus âgé, « on dirait que voilà une
-*longue* année de cours de Défense — »
+*longue* année de cours de Défense — »
 
 « Salutations, mes jeunes apprentis », dit le Professeur Quirrell d’un ton
 sec et assuré. « Nous savons tous que Poudlard a une certaine tendance à
