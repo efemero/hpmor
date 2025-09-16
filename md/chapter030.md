@@ -98,7 +98,7 @@ même uniforme dénué de signe identificateur mis à part cet unique
 écusson.
 
 Et Harry sourit alors, car il avait compris le dessein de cette partie
-du plan directeur du professeur Quirrell ; et Harry allait en tirer un
+du plan directeur du professeur Quirrell ; et Harry allait en tirer un
 avantage pour *ses propres* desseins.
 
 Un épisode légendaire de psychologie sociale était nommé l'expérience de
@@ -176,8 +176,8 @@ Harry avait divisé l'armée en six escouades de quatre soldats, chaque
 escouade dirigée par un Suggéreur d'escouade. Tous les troupes avaient
 l'ordre strict de désobéir à tout ordre reçu si obéir ne leur semblait
 pas être une bonne idée à ce moment précis, y compris cet ordre… à moins
-que Harry ou que le Suggéreur d'escouade ne préfixe l'ordre par « Merlin
-a dit », auquel cas on était censé vraiment obéir.
+que Harry ou que le Suggéreur d'escouade ne préfixe l'ordre par "Merlin
+a dit", auquel cas on était censé vraiment obéir.
 
 La stratégie principale de la Légion du Chaos était de se diviser et de
 venir de multiples directions, changeant de vecteurs au hasard et jetant
@@ -199,49 +199,49 @@ Cinq minutes avant la guerre, selon la montre de Harry.
 Le général Potter marcha (d'un pas de civil) jusqu'à l'endroit où sa
 force aérienne attendait, tendue, balais déjà fermement tenus en main.
 
-« Toutes les escadrilles au rapport, » dit le général Potter. Ils avaient
+"Toutes les escadrilles au rapport," dit le général Potter. Ils avaient
 répété cela pendant leur session d'entraînement du samedi.
 
-« Red Leader prêt, » dit Seamus Finnigan, qui n'avait aucune idée de ce
+"Red Leader prêt," dit Seamus Finnigan, qui n'avait aucune idée de ce
 que cela pouvait bien vouloir dire.
 
-« Red Cinq prêt, » dit Dean Thomas, qui avait attendu toute sa vie de
+"Red Cinq prêt," dit Dean Thomas, qui avait attendu toute sa vie de
 pouvoir le dire.
 
-« Green Leader prêt », dit Theodore Nott avec raideur.
+"Green Leader prêt", dit Theodore Nott avec raideur.
 
-« Green Quarante-et-Un prêt, » dit Tracey Davis.
+"Green Quarante-et-Un prêt," dit Tracey Davis.
 
-« Je veux vous voir dans les airs à l'instant où on entendra la cloche, »
-dit le général Potter. « N'engagez pas le combat, je répète, n'engagez
-pas le combat. Fuyez si vous recevez des tirs. » (Bien sûr, *personne* ne
-jetterait un sort de sommeil au balais ou au sorcier ; on jetterait un
+"Je veux vous voir dans les airs à l'instant où on entendra la cloche,"
+dit le général Potter. "N'engagez pas le combat, je répète, n'engagez
+pas le combat. Fuyez si vous recevez des tirs." (Bien sûr, *personne* ne
+jetterait un sort de sommeil au balais ou au sorcier ; on jetterait un
 sort qui donnait une lueur rouge temporaire à tout ce qu'il touchait. Si
 le balais ou le sorcier était touché, il était éliminé de la guerre.)
-« Red Leader et Red Cinq, volez vers l'armée de Malfoy aussi vite que
+"Red Leader et Red Cinq, volez vers l'armée de Malfoy aussi vite que
 possible, restez aussi haut que possible tout en les gardant dans votre
 champ de vision, revenez à l'instant où vous êtes certains de ce qu'ils
 sont en train de faire. Green Leader, faites de même pour l'armée de
 Granger. Green Quarante-et-Un, restez au-dessus de nous et surveillez
 tout soldat ou balais approchant, vous êtes le seul autorisé à tirer. Et
-souvenez-vous, je n'ai dit »Merlin a dit« avant aucun de ces ordres,
-mais on a *vraiment* besoin de ces informations. Pour le Chaos ! »
+souvenez-vous, je n'ai dit "Merlin a dit" avant aucun de ces ordres,
+mais on a *vraiment* besoin de ces informations. Pour le Chaos !"
 
-« Pour le Chaos ! » répondirent les quatre en écho à des degrés variables
+"Pour le Chaos !" répondirent les quatre en écho à des degrés variables
 d'enthousiasme.
 
 Harry s'était attendu à ce que Hermione lance une attaque immédiate sur
 Drago, auquel cas il mettrait ses troupes en position et commencerait à
 la soutenir, mais seulement après qu'elle ait subit des pertes sévères
 et causé quelque dommage. Si possible, il donnerait à l'opération
-l'apparence d'un sauvetage héroïque ; après tout, il ne faudrait pas
+l'apparence d'un sauvetage héroïque ; après tout, il ne faudrait pas
 laisser Soleil croire que Chaos n'était pas son ami.
 
 Mais juste au cas où elle ne le ferait *pas*… eh bien c'était pour cela
 que la Légion du Chaos ne bougerait pas avant le retour de Green Leader.
 
 Les mouvements de Drago seraient dans son intérêt personnel. Il était
-prévisible qu'il prépare son armée à se défendre contre Hermione ; il
+prévisible qu'il prépare son armée à se défendre contre Hermione ; il
 pouvait s'être rendu compte, ou ne pas s'être rendu compte, que Harry
 avait menti lorsqu'il avait parlé d'attendre que la bataille soit
 terminée avant d'attaquer. Harry avait tout de même mis deux balais sur
@@ -252,11 +252,11 @@ un balais haut dans le ciel.
 Mais c'était le général Granger qui était imprévisible, et Harry ne
 pourrait pas bouger avant de savoir ce qu'elle faisait.
 
-
+ 
 
 ------------------------------------------------------------------------
 
-
+ 
 
 Au cœur de la forêt, entouré d'ombres dansantes projetant des motifs au
 sol tandis qu'un voûte de feuilles ondulait haut au-dessus de leurs
@@ -281,9 +281,9 @@ avait observé l'entraînement pendant les inspections de son père.
 
 Chaos et Soleil ne sauraient pas ce qui s'était abattu sur eux.
 
-« Votre attention, s'il vous plaît, » dit le général Malfoy.
+"Votre attention, s'il vous plaît," dit le général Malfoy.
 
-Les six unités se détachèrent et pivotèrent vers Drago ; les visages des
+Les six unités se détachèrent et pivotèrent vers Drago ; les visages des
 membres des forces aériennes se retournèrent, balais déjà en main.
 
 Drago avait décidé d'attendre de gagner la première bataille avant
@@ -297,7 +297,7 @@ Drago se demanda s'il avait eu besoin de délayer l'ordre. Grégory avait
 Quirrell avait enseigné à Harry comment perdre lui avait déjà valu
 d'être reconnu comme un chef acceptable. Du moins si vous vous
 retrouviez assigné à son armée. *Tous les Serpentard ne se ressemblent
-pas ; il y a des Serpentard et des Serpentard* était la phrase que
+pas ; il y a des Serpentard et des Serpentard* était la phrase que
 répétaient les Gryffondor de son armée à leurs camarades de maison.
 
 Drago était franchement stupéfait par la facilité de la chose. Il avait
@@ -324,23 +324,23 @@ par les deux armées en même temps…
 Il était presque l'heure, et cela voulait dire que le moment du discours
 d'avant-bataille qu'il avait composé et mémorisé était venu.
 
-« La bataille est sur le point de commencer, » dit Drago. Sa voix était
-calme et précise. « Souvenez-vous de tout ce que moi-même, M. Crabbe et
+"La bataille est sur le point de commencer," dit Drago. Sa voix était
+calme et précise. "Souvenez-vous de tout ce que moi-même, M. Crabbe et
 M. Goyle vous avons montré. Une armée gagne parce qu'elle est
 disciplinée et mortelle. Le général Potter et la Légion du Chaos ne
 seront pas disciplinés. Granger et le Régiment du Soleil ne seront pas
 mortels. Nous sommes disciplinés, nous sommes mortels, nous sommes des
 Dragons. La bataille est sur le point de commencer et nous sommes sur le
-point de la gagner. »
+point de la gagner."
 
-
+ 
 
 ------------------------------------------------------------------------
 
-
+ 
 
 (Discours improvisé donné par le général Potter à la Légion du Chaos,
-immédiatement avant leur première bataille le 3 novembre 1001 à 14 h 56 :)
+immédiatement avant leur première bataille le 3 novembre 1001 à 14h56 :)
 
 Mes troupes, je ne vais pas vous mentir, notre situation est fort
 sombre. L'armée du Dragon n'a jamais perdu une bataille. Et Hermione
@@ -352,8 +352,8 @@ perdons, l'univers entier claquera comme une ampoule. Et je me rends
 maintenant compte que la plupart d'entre vous ne savent pas ce qu'est
 une ampoule. Eh bien, croyez-moi sur parole, nous sommes mal barrés.
 Mais si nous devons tomber, tombons en combattant, comme des héros, afin
-que lorsque les ténèbres s'approcheront nous puissions nous dire : *au
-moins nous nous sommes amusés*. Avez-vous peur de mourir ? Je sais que
+que lorsque les ténèbres s'approcheront nous puissions nous dire : *au
+moins nous nous sommes amusés*. Avez-vous peur de mourir ? Je sais que
 moi, oui. Je peux sentir ces frissons glacés de peur comme si quelqu'un
 injectait de la crème glacée dans mon T-shirt. Mais je sais… que
 l'Histoire nous regarde. Elle nous regardait lorsque nous nous changions
@@ -363,7 +363,7 @@ nous gagnons cette guerre, nous pourrons écrire notre propre Histoire.
 Une Histoire dans laquelle Poudlard fut fondée par quatre elfes
 renégats. Nous pourrons faire étudier cette Histoire à tout le monde
 même si ce n'est pas vrai, et s'ils ne répondent pas correctement aux
-contrôles… ils redoubleront. Cela ne mérite-t-il pas de se sacrifier ?
+contrôles… ils redoubleront. Cela ne mérite-t-il pas de se sacrifier ?
 Non, ne répondez pas. Certaines choses ne doivent pas être sues. Aucun
 d'entre nous ne sait pourquoi il est là. Aucun d'entre nous ne sait
 pourquoi il se bat. Nous nous sommes juste réveillés dans ces uniformes,
@@ -384,21 +384,21 @@ plus tard que ça a été un honneur d'être votre commandant, aussi bref
 que ce fut. Merci, merci à tous. Et souvenez-vous, votre but n'est pas
 seulement de faucher l'ennemi, notre but est de lui faire peur.
 
-
+ 
 
 ------------------------------------------------------------------------
 
-
+ 
 
 Un grand tonnement retentit dans la forêt.
 
 Et le Régiment du Soleil se mit en marche.
 
-
+ 
 
 ------------------------------------------------------------------------
 
-
+ 
 
 La tension monta et monta et Harry et les dix-neuf autres soldats qui
 restaient attendirent que les rapports aériens arrivent. Cela n'aurait
@@ -409,12 +409,12 @@ Deux balais approchèrent à grande vitesse depuis le camp de Drago et
 tous les soldats se tendirent. Ils n'exécutaient pas les manœuvres qui
 étaient le code du jour pour signaler un balais *ami*.
 
-« *Dispersion et feu ! »* rugit le général Potter, et il accompagna ses
-mots de gestes, fonçant à pleine vitesse à couvert, dans la forêt ;
+"*Dispersion et feu !"* rugit le général Potter, et il accompagna ses
+mots de gestes, fonçant à pleine vitesse à couvert, dans la forêt ;
 puis, dès qu'il eut atteint les arbres, il pivota, leva sa baguette,
 essaya de trouver les balais dans le ciel -
 
-« C'est bon ! » cria une voix. « Ils repartent ! »
+"C'est bon !" cria une voix. "Ils repartent !"
 
 Harry haussa mentalement les épaules. Il aurait été impossible
 d'empêcher Drago d'obtenir cette information, et il avait seulement
@@ -422,17 +422,17 @@ appris qu'ils se tenaient immobiles.
 
 Et les Chaotiques émergèrent lentement de la forêt -
 
-« Balais approchants, ils viennent de chez Granger ! » cria une autre
-voix. « Je pense que c'est Green Leader, il a fait le chuté vrillé ! »
+"Balais approchants, ils viennent de chez Granger !" cria une autre
+voix. "Je pense que c'est Green Leader, il a fait le chuté vrillé !"
 
 Quelques instants plus tard, Theodore Nivett plongeait depuis le ciel et
 se posait entre les soldats.
 
-« Granger a divisé ses forces en deux groupes ! » hurla Nott tandis qu'il
+"Granger a divisé ses forces en deux groupes !" hurla Nott tandis qu'il
 planait sur son balais. De la sueur tachait son uniforme et toute
-réserve avait quitté sa voix. « Elle attaque les deux armées ! Deux
+réserve avait quitté sa voix. "Elle attaque les deux armées ! Deux
 balais couvrent chaque force, ils m'ont poursuivit sur la moitié du
-chemin ! »
+chemin !"
 
 *Diviser son armée, mais qu'est-ce que -*
 
@@ -452,32 +452,32 @@ Puis Harry comprit.
 
 L'année en cours de Défense allait être longue.
 
-« Très bien, » dit Harry d'une voix forte afin que son armée puisse
-l'entendre. « Nous attendrons que l'escadrille Red fasse son rapport,
-puis nous irons obscurcir un peu de soleil. »
+"Très bien," dit Harry d'une voix forte afin que son armée puisse
+l'entendre. "Nous attendrons que l'escadrille Red fasse son rapport,
+puis nous irons obscurcir un peu de soleil."
 
-
+ 
 
 ------------------------------------------------------------------------
 
-
+ 
 
 Drago écouta les rapports des escadrilles en gardant un visage calme,
 tout le choc masqué à l'intérieur. À quoi pouvait donc *penser*
-Hermione ?
+Hermione ?
 
 Puis Drago comprit.
 
 *C'est une feinte*.
 
 L'une des deux forces de Soleil allait changer de direction et les deux
-convergeraient sur… qui ?
+convergeraient sur… qui ?
 
-
+ 
 
 ------------------------------------------------------------------------
 
-
+ 
 
 Neville Londubat marchait dans la forêt en direction de la force Soleil
 approchante, jetant occasionnellement un coup d'œil en l'air pour les
@@ -487,14 +487,14 @@ Lavande Brown de Gryffondor, et Allen Flint de Serpentard. Allen Flint
 Neville, en privé, que le poste était à lui s'il le voulait.
 
 Harry avait dit beaucoup de choses à Neville en privé, à commencer par
-« Tu sais, Neville, si tu veux être aussi génial que le Neville
+"Tu sais, Neville, si tu veux être aussi génial que le Neville
 imaginaire qui vit dans ta tête mais qui n'a le droit de rien faire
 parce que tu as peur, tu devrais vraiment t'inscrire aux armées du
-professeur Quirrell. »
+professeur Quirrell."
 
 Neville était *certain* que le Survivant était télépathe. Il était tout
 bonnement impossible que Harry Potter l'ait appris autrement. Neville
-n'avait jamais parlé de ça avec *personne* ni donné le moindre signe ;
+n'avait jamais parlé de ça avec *personne* ni donné le moindre signe ;
 et les *autres* n'étaient pas comme ça, pas qu'il ait pu l'observer en
 tout cas.
 
@@ -524,36 +524,36 @@ marcher au pas.
 Et Neville commença à doucement fredonner la Chanson du Chaos.
 
 La mélodie était celle qu'un Moldu aurait identifié comme étant la
-Marche Impériale, aussi connue sous le nom de « Thème de Dark Vador » ; et
+Marche Impériale, aussi connue sous le nom de "Thème de Dark Vador" ; et
 les mots que Harry avait ajoutés étaient simples à mémoriser.
 
-Doom doom doom
-Doom doom doom doom doom doom
-Doom doom doom
-Doom doom doom doom doom doom
-DOOM doom DOOM
-Doom doom doom-doom-doom doom doom
-Doom doom-doom-doom doom doom
+Doom doom doom  
+Doom doom doom doom doom doom  
+Doom doom doom  
+Doom doom doom doom doom doom  
+DOOM doom DOOM  
+Doom doom doom-doom-doom doom doom  
+Doom doom-doom-doom doom doom  
 Doom doom doom, doom doom doom
 
 Au deuxième couplet les autres s'étaient joints à lui, et bientôt on put
 entendre le même doux chant venir d'autres lieux de la forêt.
 
-Et Neville marchait au côté de camarades Légionnaires du Chaos,
-d'étranges sentiments remuaient en son cœur,
-son imagination devenait réalité,
+Et Neville marchait au côté de camarades Légionnaires du Chaos,  
+d'étranges sentiments remuaient en son cœur,  
+son imagination devenait réalité,  
 et de ses lèvres s'écoulait l'effrayante chanson du destin.
 
-
+ 
 
 ------------------------------------------------------------------------
 
-
+ 
 
 Harry regardait les corps éparpillés dans la forêt. Quelque chose au
 fond de lui eut la nausée et il dut se rappeler qu'ils étaient seulement
 endormis. Il y avait des filles parmi ceux tombés, et étrangement cela
-rendait la chose pire ; il devrait prendre garde de ne pas mentionner
+rendait la chose pire ; il devrait prendre garde de ne pas mentionner
 cela devant Hermione ou les Aurors retrouveraient ses restes fourrés
 dans une *petite* théière.
 
@@ -563,7 +563,7 @@ des propos incohérents, leur sort de bouclier simple activé, des écrans
 circulaires destinés à protéger leur visage et leur poitrine. Mais on ne
 pouvait pas tirer et maintenir le bouclier en même temps, et les soldats
 de Harry avaient simplement visé les jambes. Tous les Soleil sauf un
-étaient tombés alors que les « *Somnium* ! » retentissaient. La dernière
+étaient tombés alors que les "*Somnium* !" retentissaient. La dernière
 avait désactivé son bouclier et était parvenue à atteindre l'un des
 soldats de Harry avait d'être touchée par la seconde vague de sorts de
 sommeil (le sort de sommeil était sans danger, même à répétition). Les
@@ -577,17 +577,17 @@ incompréhensible, il ne savait pas s'il ressentait un devoir de
 protection envers Hermione ou s'il se sentait floué de ne pas avoir pu
 l'abattre *lui-même* ou si c'était les deux.
 
-« Très bien, » dit Harry, élevant la voix. « Mettons-nous tous d'accord sur
+"Très bien," dit Harry, élevant la voix. "Mettons-nous tous d'accord sur
 une chose, ce n'était pas un vrai combat. C'était le général Granger
 commettant une erreur lors de sa première bataille. Le véritable combat
 d'aujourd'hui sera avec l'Armée du Dragon et il ne ressemblera en rien à
-ceci. Ça sera beaucoup plus amusant. Partons d'ici. »
+ceci. Ça sera beaucoup plus amusant. Partons d'ici."
 
-
+ 
 
 ------------------------------------------------------------------------
 
-
+ 
 
 Un balais s'abattit depuis le ciel, s'approchant effroyablement vite,
 puis il se cabra et décéléra si rapidement qu'on pouvait presque
@@ -597,14 +597,14 @@ côté de Drago.
 Ce n'était pas de la prise de risque inconsciente. Grégory Goyle était
 *bon à ce point* et il ne perdait pas de temps.
 
-« Potter arrive, » dit Grégory sans la moindre trace de sa fausse voix
-traînante habituelle. « Ils ont encore leurs quatre balais, tu veux que
-je les descende ? »
+"Potter arrive," dit Grégory sans la moindre trace de sa fausse voix
+traînante habituelle. "Ils ont encore leurs quatre balais, tu veux que
+je les descende ?"
 
-« Non, » dit sèchement Drago. « Combattre au-dessus de leur armée leur
+"Non," dit sèchement Drago. "Combattre au-dessus de leur armée leur
 donne un trop grand avantage, ils te tireront dessus depuis le sol et
 même toi ne pourras peut-être pas les éviter. Attends que toutes les
-forces se soient engagées dans le combat. »
+forces se soient engagées dans le combat."
 
 Drago avait perdu quatre dragons contre douze soleils. Apparemment le
 généralement Granger *avait été* aussi incroyablement stupide qu'elle en
@@ -614,29 +614,29 @@ de lui demander ce à quoi elle avait bien pu penser.
 
 Comme tous le savaient, la vraie bataille serait contre Harry Potter.
 
-« Préparez-vous ! » rugit Drago à l'intention de ses troupes. « Restez avec
+"Préparez-vous !" rugit Drago à l'intention de ses troupes. "Restez avec
 vos camarades, agissez comme une seule unité, tirez dès que l'ennemi est
-à portée ! »
+à portée !"
 
 Discipline contre Chaos.
 
 Ça ne devrait pas être bien difficile.
 
-
+ 
 
 ------------------------------------------------------------------------
 
-
+ 
 
 L'adrénaline courait et courait dans le sang de Neville, si bien qu'il
 avait l'impression de pouvoir à peine respirer.
 
-« Nous approchons, » dit le général Potter d'une voix à peine assez forte
-pour être entendue de toute l'armée. « Il est temps de nous disperser. »
+"Nous approchons," dit le général Potter d'une voix à peine assez forte
+pour être entendue de toute l'armée. "Il est temps de nous disperser."
 
 Les camarades de Neville s'éloignèrent de lui. Ils se soutiendraient
 toujours, mais si vous restiez amassés, l'ennemi vous frappait bien plus
-facilement ; un tir visant l'un de vos camarades pourrait manquer et
+facilement ; un tir visant l'un de vos camarades pourrait manquer et
 vous toucher à la place. Vous seriez bien plus difficile à atteindre en
 vous dispersant et en vous déplaçant aussi vite que possible.
 
@@ -659,10 +659,10 @@ beaucoup.
 Cette fois, se jura intérieurement Neville, sa voix n'allait absolument
 certainement pas se mettre à couiner.
 
-« Boucliers levés, » dit le général Potter, « déflecteurs concentrés sur
-l'avant. »
+"Boucliers levés," dit le général Potter, "déflecteurs concentrés sur
+l'avant."
 
-« *Contego*, » murmura l'armée, et les écrans circulaires apparurent de
+"*Contego*," murmura l'armée, et les écrans circulaires apparurent de
 nulle part devant leur tête et leur poitrine.
 
 Un goût pierreux emplit la bouche de Neville. Le général Potter ne leur
@@ -671,17 +671,17 @@ presque à portée. Neville pouvait voir les formes en uniforme des
 dragons qui se déplaçaient à travers le dense feuillage de la forêt, et
 les dragons devaient eux aussi les voir -
 
-« *Attaque !* » dit un cri au loin, la voix de Drago Malfoy, et le général
-Potter mugit : « *Chargez -* »
+"*Attaque !*" dit un cri au loin, la voix de Drago Malfoy, et le général
+Potter mugit : "*Chargez -*"
 
 Toute l'adrénaline du sang de Neville fut libérée, ses jambes prirent le
 contrôle, l'envoyant voltiger plus vite qu'il n'avait jamais couru,
 droit vers l'ennemi, sachant sans avoir besoin de regarder que tous ses
 camarades faisaient de même.
 
-« *Du sang pour les dieux du sang* ! » cria Neville. « *Des crânes pour le
-trône de crâne !* *Ia ! Shub-Niggurath ! Le flanc de l'ennemi est sur le
-côté !* »
+"*Du sang pour les dieux du sang* !" cria Neville. "*Des crânes pour le
+trône de crâne !* *Ia ! Shub-Niggurath ! Le flanc de l'ennemi est sur le
+côté !*"
 
 Il y eut un impact muet lorsque les sorts se brisèrent sur le bouclier
 de Neville. Si d'autres sorts avaient été tirés, ils n'avaient pas
@@ -700,14 +700,14 @@ de trois autres dragons, leur baguette se levant vers lui, leur bouche
 s'ouvrant -
 
 \- sans même s'en rendre compte, Neville se laissa chuter sur le sol
-forestier juste au moment où trois voix crièrent « *Somnium* ! »
+forestier juste au moment où trois voix crièrent "*Somnium* !"
 
 Cela fit mal, des cailloux et des racines dures s'enfonçant dans Neville
 tandis qu'il roulait, ce n'était pas aussi douloureux que de tomber de
 son balais mais il avait quand même heurté le sol assez durement et
 soudain une intuition le frappa et il resta immobile et ferma les yeux.
 
-« Arrêtez ça ! » cria une voix. « Ne tirez pas, on est des dragons ! »
+"Arrêtez ça !" cria une voix. "Ne tirez pas, on est des dragons !"
 
 Avec un éclair de satisfaction glorieuse, Neville comprit qu'il était
 parvenu à se placer entre deux groupes de dragons juste au moment où
@@ -722,23 +722,23 @@ Neville compta mentalement jusqu'à vingt puis il ouvrit les yeux un
 chouilla.
 
 Les trois dragons étaient très proches, leurs têtes pivotant en tous
-sens tandis que des « *Somnium ! »* et « *Des crânes pour le trône de
-crânes !* » emplissaient l'espace autour d'eux. Tous trois avaient leur
+sens tandis que des "*Somnium !"* et "*Des crânes pour le trône de
+crânes !*" emplissaient l'espace autour d'eux. Tous trois avaient leur
 bouclier simple levé.
 
 Neville avait toujours sa baguette en main, et il ne lui fallut pas
 faire un grand effort pour la pointer vers l'une des bottes du garçon et
-murmurer « *Somnium*. »
+murmurer "*Somnium*."
 
 Neville ferma rapidement les yeux et relaxa sa main lorsqu'il entendit
 le garçon chuter.
 
-« *C'est venu d'où ?* » cria Justin Finch-Fletchley, et Neville entendit
+"*C'est venu d'où ?*" cria Justin Finch-Fletchley, et Neville entendit
 des bruissements sur le sol de la forêt alors que les deux dragons se
 retournaient encore et encore, à la recherche d'un ennemi.
 
-« *Reformez les rangs* ! » mugit la voix de Malfoy. « *Revenez à moi, tout
-le monde, ne les laissez pas vous éparpiller !* »
+"*Reformez les rangs* !" mugit la voix de Malfoy. "*Revenez à moi, tout
+le monde, ne les laissez pas vous éparpiller !*"
 
 Les oreilles de Neville entendirent les deux dragons sauter au-dessus de
 son corps allongé et partir en courant.
@@ -749,22 +749,22 @@ Potter leur avait enseigné à tous. Ils ne pouvaient pas créer de
 véritables sorts d'illusion pour troubler l'ennemi, mais même à leur âge
 ils pouvaient -
 
-« *Ventriliquo*, » chuchota Neville, pointant sa baguette du côté de
-Justin et de l'autre garçon, puis il hurla : « *Pour Cthulhu et pour la
-gloire !* »
+"*Ventriliquo*," chuchota Neville, pointant sa baguette du côté de
+Justin et de l'autre garçon, puis il hurla : "*Pour Cthulhu et pour la
+gloire !*"
 
 Justin et l'autre garçon s'arrêtèrent abruptement, tournant leur
 bouclier vers l'endroit d'où Neville avait fait jaillir son cri de
-guerre, et c'est alors que de multiples « *Somnium* ! » jaillirent
+guerre, et c'est alors que de multiples "*Somnium* !" jaillirent
 brusquement et que l'autre garçon s'effondra avant que Neville n'ait pu
 prendre le temps de viser.
 
-« *Le dernier est à moi* ! » hurla Neville, et il commença à sprinter
+"*Le dernier est à moi* !" hurla Neville, et il commença à sprinter
 droit vers Justin, qui avait été méchant avec lui jusqu'à ce que des
 Poufsouffle plus âgés ne lui fassent la morale. Neville était entouré
 par ses camarades et *ça* voulait dire -
 
-« *Attaque spéciale, bond chaotique !* » cria Neville tout en courant, et
+"*Attaque spéciale, bond chaotique !*" cria Neville tout en courant, et
 il sentit son corps devenir plus léger, puis plus léger encore, au fur
 et à mesure que ses camarades tournaient leur baguette vers lui et
 jetaient discrètement le sort de lévitation, et Neville leva sa main
@@ -773,7 +773,7 @@ propulser loin du sol aussi fort qu'il le pouvait et il *s'éleva* dans
 les airs. Une expression de surprise totale apparut sur le visage de
 Justin lorsque Neville passa *au-dessus* de son bouclier et qu'il
 dirigea sa baguette vers le bas, en direction de la forme en-dessous de
-lui, et qu'il cria : « *Somnium* ! »
+lui, et qu'il cria : "*Somnium* !"
 
 Parce qu'il avait trouvé ça cool, voilà pourquoi.
 
@@ -783,28 +783,28 @@ chaos étaient parvenus à garder leur baguette sur lui pendant toute la
 durée de son vol et il n'atterrit donc pas trop durement.
 
 Et Neville se remit sur pied, haletant. Il savait qu'il aurait dû
-bouger, des gens hurlaient « *Somnium* ! » un peu partout -
+bouger, des gens hurlaient "*Somnium* !" un peu partout -
 
-« *Je suis Neville, le dernier des Londubat* ! » cria Neville vers le
+"*Je suis Neville, le dernier des Londubat* !" cria Neville vers le
 ciel, sa baguette pointée à la verticale comme s'il mettait au défi les
 cieux d'un bleu éclatant, sachant que rien après ce jour ne serait plus
-pareil. « *Neville du Chaos ! Affrontez-moi si vous l'o-* »
+pareil. "*Neville du Chaos ! Affrontez-moi si vous l'o-*"
 
 (Lorsque Neville se réveilla, on lui dit que l'Armée du Dragon avait
 pris sa sortie comme le signal de la contre-attaque).
 
-
+ 
 
 ------------------------------------------------------------------------
 
-
+ 
 
 La fille à côté de Harry s'affaissa, prenant le tir qui lui était
 destiné, et il put entendre l'exultation lointaine de M. Goyle, puis le
 balais de ce dernier fonça à côté d'eux, tranchant l'air avec tant de
 force qu'il aurait dû exploser dans son sillage.
 
-« *Luminos* ! » cria l'un des garçons à côté de Harry. Il n'avait pas été
+"*Luminos* !" cria l'un des garçons à côté de Harry. Il n'avait pas été
 capable de récupérer assez de force magique pour le faire plus tôt, et
 M. Goyle l'esquiva sans ralentir.
 
@@ -821,7 +821,7 @@ sur les gens tout en esquivant*.
 Harry avait imaginé toutes sortes de façons d'arrêter M. Goyle mais
 aucune n'était *sûre*, même utiliser le sort de lévitation pour le
 ralentir (c'était un rayon continu bien plus facile à diriger) ne serait
-pas sûr car il pourrait tomber de son balais ; lui jeter des objets
+pas sûr car il pourrait tomber de son balais ; lui jeter des objets
 n'était pas sûr, et alors que le sang de Harry commençait à se glacer il
 lui devenait de plus en plus difficile de se souvenir de ce fait.
 
@@ -836,7 +836,7 @@ ils ne pouvaient pas coordonner leurs tirs aussi bien que nécessaire, et
 maintenant ils n'avaient plus assez de gens pour le faire -
 
 *Je refuse de perdre, pas comme ça, pas toute mon armée à cause d'un
-seul soldat !*
+seul soldat !*
 
 Le balais de M. Goyle tourna plus rapidement que cela n'aurait dû être
 possible et il commença alors à se diriger vers Harry et celles de ses
@@ -849,13 +849,13 @@ La baguette de Harry se leva, dirigée vers M. Goyle, et l'esprit de
 Harry visualisa le motif, et les lèvres de Harry s'ouvrirent et sa voix
 hurla -
 
-« *- »*
+"*-"*
 
-
+ 
 
 ------------------------------------------------------------------------
 
-
+ 
 
 Lorsque les yeux de Harry s'ouvrirent de nouveau, il était
 confortablement allongé, mains jointes sur la poitrine, tenant sa
@@ -865,7 +865,7 @@ Harry se rassit lentement. Sa *magie* lui faisait mal, une sensation
 étrange mais pas totalement déplaisante, tout à fait comme la brûlure et
 la léthargie qui survenaient après un exercice physique difficile.
 
-« Le général est éveillé ! » cria une voix. Harry cligna des yeux et mit
+"Le général est éveillé !" cria une voix. Harry cligna des yeux et mit
 au point en direction de celle-ci.
 
 Quatre de ses soldats tenaient leur baguette sur un hémisphère
@@ -892,7 +892,7 @@ maintenant il lui faudrait recommencer.
 rocher de son père. C'était là une très bonne leçon apprise de la moins
 dangereuse des façons possibles.
 
-*Note à moi-même : toujours enlever l'anneau de mon doigt avant de vider
+*Note à moi-même : toujours enlever l'anneau de mon doigt avant de vider
 toute ma magie.*
 
 Harry se releva en poussant au sol avec une certaine difficulté.
@@ -903,32 +903,32 @@ Il tituba jusqu'à l'hémisphère iridescent qui contenait Drago Malfoy,
 lequel tenait sa baguette levée pour maintenir le bouclier et souriait
 froidement en regardant Harry.
 
-« Où est le cinquième soldat ? » dit Harry.
+"Où est le cinquième soldat ?" dit Harry.
 
-« Euh… » dit un garçon dont Harry n'arrivait pour l'instant pas à se
-remémorer le nom. « J'ai jeté un sort de sommeil sur le bouclier et il a
+"Euh…" dit un garçon dont Harry n'arrivait pour l'instant pas à se
+remémorer le nom. "J'ai jeté un sort de sommeil sur le bouclier et il a
 rebondit et a touché Lavande, je veux dire, le sort n'aurait pas dû
-rebondir selon cet angle mais ça l'a quand même touché… »
+rebondir selon cet angle mais ça l'a quand même touché…"
 
 Drago avait un sourire en coin.
 
-« Laisse-moi deviner, » dit Harry en regardant Drago droit dans les yeux,
-« ces jolis petits trios sont la formation utilisée par les organisations
-militaires magiques professionnelles ? Composés de soldats entraînés qui
+"Laisse-moi deviner," dit Harry en regardant Drago droit dans les yeux,
+"ces jolis petits trios sont la formation utilisée par les organisations
+militaires magiques professionnelles ? Composés de soldats entraînés qui
 peuvent facilement toucher des cibles en mouvement si leurs mains sont
 stables et qui peuvent combiner leurs capacités défensives tant qu'ils
-restent ensemble ? Contrairement à *tes* soldats ? »
+restent ensemble ? Contrairement à *tes* soldats ?"
 
 Le sourire avait disparu du visage de Drago et il était maintenant dur
 et lugubre.
 
-« Tu sais, » dit Harry d'un ton léger, sachant qu'aucun de ses soldats ne
-comprendrait le véritable message qui allait passer entre eux, « ça
+"Tu sais," dit Harry d'un ton léger, sachant qu'aucun de ses soldats ne
+comprendrait le véritable message qui allait passer entre eux, "ça
 démontre juste que tu devrais toujours remettre en question ce que tes
 modèles font, demander pourquoi ils font les choses ainsi et si ça a
 toujours un sens de le faire dans le contexte qui te préoccupe. Au fait,
 n'oublie pas d'appliquer ce conseil à la vie de tous les jours. Et merci
-pour les cibles lentes et ramassées. »
+pour les cibles lentes et ramassées."
 
 Car Drago avait déjà entendu cette leçon, et, Harry le suspectait,
 l'avait ignorée, soupçonnant Harry de vouloir éloigner sa loyauté des
@@ -942,9 +942,9 @@ vitesse était en effet *correctes*, afin de bien faire rentrer la notion
 que Drago devait en permanence rester à l'affût d'occasions d'appliquer
 cette méthode au quotidien.
 
-« Vous n'avez pas *encore* gagné, général Potter ! » gronda Drago.
-« Peut-être que le temps va te manquer et que le professeur Quirrell
-déclarera un match nul. »
+"Vous n'avez pas *encore* gagné, général Potter !" gronda Drago.
+"Peut-être que le temps va te manquer et que le professeur Quirrell
+déclarera un match nul."
 
 Une remarque juste et digne d'inquiétude. La guerre s'achèverait lorsque
 le professeur Quirrell déciderait qu'une armée avait en pratique gagné.
@@ -957,8 +957,8 @@ déjà mis fin au jeu, car il était plausible que le dernier soldat de
 l'Armée du Dragon puisse abattre les cinq survivants de la Légion du
 Chaos.
 
-« Très bien, » dit Harry. « Quelqu'un ici sait-il quoi que ce soit au sujet
-du sort de défense du général Malfoy ? »
+"Très bien," dit Harry. "Quelqu'un ici sait-il quoi que ce soit au sujet
+du sort de défense du général Malfoy ?"
 
 Il apparut que le bouclier de Drago était une version du *Protego*
 standard qui incluait plusieurs désavantages, le plus important étant
@@ -980,8 +980,8 @@ sous une telle pression… mais les rochers pourraient alors tomber et
 heurter Drago, et blesser le général ennemi pour de vrai ne faisait pas
 partie des objectifs du jour.
 
-« Donc, » dit Harry. « Existe-t-il des sorts spécialisés dans le perçage de
-bouclier ? »
+"Donc," dit Harry. "Existe-t-il des sorts spécialisés dans le perçage de
+bouclier ?"
 
 Il y en avait.
 
@@ -1013,7 +1013,7 @@ tomberait.
 
 Les Légionnaires du Chaos eurent l'air nerveux.
 
-Drago avait l'air calme, c’est-à-dire qu'il se contrôlait parfaitement.
+Drago avait l'air calme, c'est à dire qu'il se contrôlait parfaitement.
 
 Un couverture fine et repliée émergea de la bourse de Harry.
 
@@ -1030,8 +1030,8 @@ générer de l'électricité.
 
 Peu après, les Légionnaires du Chaos entendirent un claquement de doigts
 suivis d'un crépitement venant de sous la couverture. La luminosité du
-bouclier augmenta, et ils entendirent la voix de Harry dire : « Ne soyez
-pas distraits s'il vous plaît, restez concentrés sur le général Malfoy. »
+bouclier augmenta, et ils entendirent la voix de Harry dire : "Ne soyez
+pas distraits s'il vous plaît, restez concentrés sur le général Malfoy."
 
 On pouvait voir la tension augmenter sur le visage de Drago, ainsi que
 la furie, l'agacement et la frustration.
@@ -1050,12 +1050,12 @@ couverture, ramassa sa baguette et se leva.
 Tous ses soldats étaient toujours là, regardant les environs avec
 frénésie.
 
-« *Contego*, » dit Harry, et ses soldats l'imitèrent, mais Harry ne savait
-même pas dans quelle direction orienter son bouclier. « Quelqu'un a-t-il
-vu d'où cela venait ? » Des têtes se secouèrent. « Et général Malfoy, cela
-vous embêterait-t-il de me dire si *vous* avez eu le général Granger ? »
+"*Contego*," dit Harry, et ses soldats l'imitèrent, mais Harry ne savait
+même pas dans quelle direction orienter son bouclier. "Quelqu'un a-t-il
+vu d'où cela venait ?" Des têtes se secouèrent. "Et général Malfoy, cela
+vous embêterait-t-il de me dire si *vous* avez eu le général Granger ?"
 
-« Bien sûr, » dit Drago d'une voix acide, « bien sûr que ça m'embêterait. »
+"Bien sûr," dit Drago d'une voix acide, "bien sûr que ça m'embêterait."
 
 *Oh bon sang*.
 
@@ -1063,9 +1063,9 @@ L'esprit de Harry commença à faire des calculs, Drago dans le bouclier,
 passablement épuisé, Harry épuisé aussi, Hermione dans les bois dieu
 savait où, Harry et quatre autres chaotiques encore debout…
 
-« Vous savez, général Granger, » dit Harry haut et fort, « vous auriez
+"Vous savez, général Granger," dit Harry haut et fort, "vous auriez
 vraiment dû attendre que j'ai vaincu le général Malfoy avant d'attaquer.
-Vous auriez peut-être pu abattre *tous* les survivants. »
+Vous auriez peut-être pu abattre *tous* les survivants."
 
 De quelque part s'éleva le rire aigu d'une fille.
 
@@ -1076,37 +1076,37 @@ Harry se figea.
 Et c'est alors que le chant terrifiant, étrange et joyeux s'éleva,
 venant de tout autour d'eux.
 
-« *N'aies pas peur ne sois pas triste,
-On ne fait du mal qu'aux méchants… »*
+"*N'aies pas peur ne sois pas triste,  
+On ne fait du mal qu'aux méchants…"*
 
-« *Granger a triché !* » cracha Drago depuis l'intérieur du bouclier.
-« Elle a réveillé ses soldats ! Pourquoi le professeur Quirrell ne - »
+"*Granger a triché !*" cracha Drago depuis l'intérieur du bouclier.
+"Elle a réveillé ses soldats ! Pourquoi le professeur Quirrell ne -"
 
-« Laisse-moi deviner, » dit Harry, la nausée nouant déjà son estomac. Il
-détestait vraiment perdre. « C'était une bataille très facile, non ? Ils
-sont tous tombés comme des mouches ? »
+"Laisse-moi deviner," dit Harry, la nausée nouant déjà son estomac. Il
+détestait vraiment perdre. "C'était une bataille très facile, non ? Ils
+sont tous tombés comme des mouches ?"
 
-« Oui, » dit Drago. « Nous les avons tous eus du premier coup - »
+"Oui," dit Drago. "Nous les avons tous eus du premier coup -"
 
 Le regard de compréhension horrifiée se répandit de Drago jusqu'aux
 Légionnaires du Chaos.
 
-« Non, » dit Harry, « on ne les a pas eus. »
+"Non," dit Harry, "on ne les a pas eus."
 
 Des formes en camouflage apparaissaient parmi les arbres.
 
-« Alliés ? » dit Harry.
+"Alliés ?" dit Harry.
 
-« Alliés, » dit Drago.
+"Alliés," dit Drago.
 
-« Bien, » dit la voix du général Granger, et une spirale d'énergie verte
+"Bien," dit la voix du général Granger, et une spirale d'énergie verte
 jaillit des bois et réduisit le bouclier de Drago en miettes.
 
-
+ 
 
 ------------------------------------------------------------------------
 
-
+ 
 
 Le général Granger passa le champ de bataille en revue avec un sentiment
 de satisfaction certain. Il n'y avait plus que neuf Soldats du Soleil
@@ -1118,45 +1118,45 @@ vie (enfin, conscient).
 C'était Mal, elle le savait, mais elle voulait vraiment vraiment
 *vraiment* pavoiser.
 
-« Il y a un truc, c'est ça ? » dit Harry, la tension perçant dans sa voix.
-« Il *doit* y avoir un truc. Tu ne peux pas juste te transformer en un
+"Il y a un truc, c'est ça ?" dit Harry, la tension perçant dans sa voix.
+"Il *doit* y avoir un truc. Tu ne peux pas juste te transformer en un
 général parfait. Pas en plus de tout le reste. Tu n'es pas Serpentard à
-ce point ! Tu n'écris pas des poèmes effrayants ! *Personne n'est bon en
-tout* ! »
+ce point ! Tu n'écris pas des poèmes effrayants ! *Personne n'est bon en
+tout* !"
 
 Le général Granger regarda ses Soldats du Soleil puis revint à Harry.
 Tout le monde regardait probablement cette scène depuis les écrans
 situés à l'extérieur.
 
-Et le général Granger dit : « Je peux tout faire si j'étudie assez. »
+Et le général Granger dit : "Je peux tout faire si j'étudie assez."
 
-« Oh arrête ça c'est n'im- »
+"Oh arrête ça c'est n'im-"
 
-« *Somnium*. »
+"*Somnium*."
 
 Harry s'effondra au sol au milieu de sa phrase.
 
-« SOLEIL GAGNE, » tonna l'énorme voix du professeur Quirrell, semblant
+"SOLEIL GAGNE," tonna l'énorme voix du professeur Quirrell, semblant
 venir à la fois de partout et de nulle part.
 
-« La gentillesse a gagné ! » s'écria le général Granger.
+"La gentillesse a gagné !" s'écria le général Granger.
 
-« *Hourra* ! » crièrent les Soldats du Soleil. Même les Gryffondor le
+"*Hourra* !" crièrent les Soldats du Soleil. Même les Gryffondor le
 dirent, et ils le dirent avec fierté.
 
-« Et quelle est la morale de la bataille d'aujourd'hui ? » dit le général
+"Et quelle est la morale de la bataille d'aujourd'hui ?" dit le général
 Granger.
 
-« *On peut tout faire si on étudie assez !* »
+"*On peut tout faire si on étudie assez !*"
 
 Et les survivants du Régiment du Soleil marchèrent au pas vers le champ
-de la victoire, chantant leur rengaine en avançant :
+de la victoire, chantant leur rengaine en avançant :
 
-*N'aies pas peur ne sois pas triste,
-On ne fait du mal qu'aux méchants
-On leur donne un nouveau chez eux
-Où de nouveaux amis les gardent
-Sois sûr de dire qui t'envoie,
+*N'aies pas peur ne sois pas triste,  
+On ne fait du mal qu'aux méchants  
+On leur donne un nouveau chez eux  
+Où de nouveaux amis les gardent  
+Sois sûr de dire qui t'envoie,  
 *
 
-*Le Régiment du Soleil Granger !*
+*Le Régiment du Soleil Granger !* 

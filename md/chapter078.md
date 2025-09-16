@@ -1,4 +1,4 @@
-# Compromis Tabous, Prélude : Tricherie
+# Compromis Tabous, Prélude : Tricherie
 
 
 Nous étions le samedi 4 avril, de l'année 1992.
@@ -7,7 +7,7 @@ M. et Mme Davis semblaient plutôt nerveux, assis dans un partie assez
 spéciale des gradins du stade de Quidditch de Poudlard - bien
 qu'aujourd'hui les bancs rembourrés ne donnaient pas sur des balais
 volants mais sur un immense carré fait d'une matière semblable à du
-parchemin : une immensité blanche et vide qui allait bientôt projeter
+parchemin : une immensité blanche et vide qui allait bientôt projeter
 l'image vacillante d'herbe et de soldats. Pour l'instant, elle ne
 montrait que le reflet de la couleur gris terne du ciel nuageux (qui
 semblait assez orageux, mais les sorciers-météo avaient promis que la
@@ -36,18 +36,18 @@ Tracey.
 Cela dit, M. et Mme Davis avaient retrouvé beaucoup de courage en
 agitant furieusement un exemplaire du *Chicaneur* dont le gros titre
 disait, d'un texte gras et de couleur vive afin que tout le monde puisse
-bien le voir :
+bien le voir :
 
-PACTES AVEC POTTER ?
-BONES, DAVIS, GRANGER
+PACTES AVEC POTTER ?  
+BONES, DAVIS, GRANGER  
 LE RECTANGLE AMOUREUX DE LA PEUR
 
 Ainsi M. et Mme Davis avaient tempêté jusqu'à se retrouver dans la loge
 professorale des gradins de Poudlard, bien installés avec une excellente
 vue sur les écrans enchantés du professeur Quirrell afin de pouvoir tous
-deux se faire leur propre idée des « colleries qui pouvaient bien se
+deux se faire leur propre idée des "colleries qui pouvaient bien se
 passer ici, si vous me pardonnez l'expression, madame la directrice
-adjointe ! »
+adjointe !"
 
 Assis à gauche de M. Davis se trouvait un autre parent soucieux, un
 homme aux cheveux blancs, vêtu de robes noires élégantes d'une qualité
@@ -121,11 +121,11 @@ qu'aucun éclair n'ait encore éclaté ni qu'on entende l'écho lointain des
 roulements de tonnerre et que seules quelques gouttes menaçantes soient
 tombées.
 
-
+ 
 
 ------------------------------------------------------------------------
 
-
+ 
 
 C'est vers le point de départ qui leur avait été assigné que le régiment
 Soleil avançait en rang, quoique d'un pas assez lent. Il valait mieux ne
@@ -148,102 +148,102 @@ Soleil aurait dû être dirigée vers la bataille qui approchait, le regard
 de la Serdaigle passait constamment d'un point à l'autre, comme si elle
 s'attendait à voir des mages noirs surgir de buissons et la sacrifier.
 
-« L'interdiction d'utiliser des objets moldus réduit beaucoup nos
-possibilités, » dit Anthony Goldstein du ton sombre qu'il utilisait pour
-indiquer un pessimisme voulu. « J'ai pensé à métamorphoser des filets
-pour les jeter sur des gens mais - »
+"L'interdiction d'utiliser des objets moldus réduit beaucoup nos
+possibilités," dit Anthony Goldstein du ton sombre qu'il utilisait pour
+indiquer un pessimisme voulu. "J'ai pensé à métamorphoser des filets
+pour les jeter sur des gens mais -"
 
-« Mauvaise idée, » dit Ernie Macmillan. Le Poufsouffle secoua la tête d'un
-air encore plus sérieux que celui d'Anthony. « Enfin c'est exactement
-comme de lancer un sortilège : ils l'*éviteront. »*
+"Mauvaise idée," dit Ernie Macmillan. Le Poufsouffle secoua la tête d'un
+air encore plus sérieux que celui d'Anthony. "Enfin c'est exactement
+comme de lancer un sortilège : ils l'*éviteront."*
 
-Anthony hocha la tête. « C'est ce que je me disais aussi. Tu aurais une
-idée, Seamus ? »
+Anthony hocha la tête. "C'est ce que je me disais aussi. Tu aurais une
+idée, Seamus ?"
 
 L'ancien lieutenant chaotique semblait encore nerveux et hors de son
 élément à marcher avec ses nouveaux camarades du régiment Soleil.
-« Désolé, » dit le récemment nommé capitaine Finnigan. « Je suis plutôt un
-grand maître stratège. »
+"Désolé," dit le récemment nommé capitaine Finnigan. "Je suis plutôt un
+grand maître stratège."
 
-« *Je* suis plutôt un grand maître stratège, » dit Ron Weasley comme s'il
+"*Je* suis plutôt un grand maître stratège," dit Ron Weasley comme s'il
 était dégoûté.
 
-« Il y a *trois* armées, » dit le général Soleil d'un ton acerbe, « donc on
+"Il y a *trois* armées," dit le général Soleil d'un ton acerbe, "donc on
 combat *deux* armées à la fois, donc on a besoin de plus d'un seul
-stratège, donc la ferme, Ron ! »
+stratège, donc la ferme, Ron !"
 
-Ron jeta un regard surpris et inquiet au général. « Hé, » dit le
-Gryffondor d'un ton apaisant, « tu ne devrais pas laisser Rogue te
-stresser autant - »
+Ron jeta un regard surpris et inquiet au général. "Hé," dit le
+Gryffondor d'un ton apaisant, "tu ne devrais pas laisser Rogue te
+stresser autant -"
 
-« Et que pensez-*vous* qu'on devrait faire, général ? » dit Susan très
-fort et très vite. « Franchement, je n'ai pas vraiment de plan pour
-l'instant. » La réunion de planification officielle avait
+"Et que pensez-*vous* qu'on devrait faire, général ?" dit Susan très
+fort et très vite. "Franchement, je n'ai pas vraiment de plan pour
+l'instant." La réunion de planification officielle avait
 *incroyablement* foiré avec une Hermione absente et un Ron et un Anthony
 tous les deux persuadés d'être les chefs.
 
-« A-t-on vraiment besoin d'un plan ? » dit le général Soleil d'un ton
-légèrement distrait. « Il y a toi, moi, Lavande, Parvati, Hannah, Daphné,
-Ron, Ernie, Anthony *et* le capitaine Finnigan. »
+"A-t-on vraiment besoin d'un plan ?" dit le général Soleil d'un ton
+légèrement distrait. "Il y a toi, moi, Lavande, Parvati, Hannah, Daphné,
+Ron, Ernie, Anthony *et* le capitaine Finnigan."
 
-« Ça - » commença Anthony.
+"Ça -" commença Anthony.
 
-« M'a l'air d'être une assez bonne stratégie, » dit Ron avec un hochement
-de tête approbateur. « Nous avons autant de bon soldats que dans les deux
+"M'a l'air d'être une assez bonne stratégie," dit Ron avec un hochement
+de tête approbateur. "Nous avons autant de bon soldats que dans les deux
 autres armées réunies. Chaos n'a plus que Potter, Londubat et Nott -
-enfin, et Zabini aussi j'imagine - »
+enfin, et Zabini aussi j'imagine -"
 
-« Et Tracey, » dit Hermione.
+"Et Tracey," dit Hermione.
 
 Plusieurs personnes déglutirent nerveusement.
 
-« Oh, *arrêtez*, » dit Susan d'un ton sec. « C'est juste une membre de la
+"Oh, *arrêtez*," dit Susan d'un ton sec. "C'est juste une membre de la
 S.P.E.H.S. endurcie au combat, c'est tout ce que le général Soleil
-voulait dire. »
+voulait dire."
 
-« Quand même, » dit Ernie en se retournant pour regarder Susan avec
-sérieux, « je pense que vous feriez mieux d'aller avec le groupe qui
+"Quand même," dit Ernie en se retournant pour regarder Susan avec
+sérieux, "je pense que vous feriez mieux d'aller avec le groupe qui
 combattra Chaos, capitaine Bones. Je sais que vous ne pouvez pas
 utiliser vos pouvoirs magiques sauf lorsque des innocents sont en
 danger, mais je pense que - juste au cas où Mlle Davis, vous savez,
-deviendrait incontrôlable et essaierait de dévorer une âme - »
+deviendrait incontrôlable et essaierait de dévorer une âme -"
 
-« Je peux m'occuper d'elle, » répondit Susan en gardant une voix
+"Je peux m'occuper d'elle," répondit Susan en gardant une voix
 rassurante. Il fallait bien admettre qu'elle n'avait pas pour le moment
 été remplacée par un Métamorphomage, mais après tout Tracey n'était
 probablement pas un Dumbledore polynectaré non plus.
 
-Le capitaine Finnigan entonna d'une voix grave et presque rocailleuse :
-« Je suis troublé par votre manque de scepticisme. » Il leva une main,
+Le capitaine Finnigan entonna d'une voix grave et presque rocailleuse :
+"Je suis troublé par votre manque de scepticisme." Il leva une main,
 pouce et index presque collés, et la pointa vers Ernie.
 
 Sans raison apparente, Anthony Goldstein sembla être pris d'une quinte
-de toux. « Qu'est-ce que c'est censé vouloir dire ? » demanda Ernie.
+de toux. "Qu'est-ce que c'est censé vouloir dire ?" demanda Ernie.
 
-« C'est juste quelque chose que le général Potter dit parfois, » continua
-le capitaine Finnigan. « C'est drôle, quand on rejoint la légion du
+"C'est juste quelque chose que le général Potter dit parfois," continua
+le capitaine Finnigan. "C'est drôle, quand on rejoint la légion du
 Chaos, ça a d'abord l'air complètement fou, et puis au bout de deux mois
 on se rend compte qu'en fait que ce sont tous ceux qui ne sont *pas*
-dans la légion du Chaos qui sont fous - »
+dans la légion du Chaos qui sont fous -"
 
-« J'ai *dit*, » continua Ron d'une voix forte, « que ça m'a l'air d'être
+"J'ai *dit*," continua Ron d'une voix forte, "que ça m'a l'air d'être
 une bonne stratégie. On ne métamorphose rien, on ne se fatigue pas, on
-gère tout ce qu'ils nous balancent, et on finit par les surmonter. »
+gère tout ce qu'ils nous balancent, et on finit par les surmonter."
 
-« D'accord, » dit Hermione. « Faisons ça. »
+"D'accord," dit Hermione. "Faisons ça."
 
-« Mais - » dit Anthony en jetant un regard furieux à Ron. « Mais général,
+"Mais -" dit Anthony en jetant un regard furieux à Ron. "Mais général,
 Harry Potter n'a plus que *seize* personnes dans son armée. Dragon et
 nous en avons vingt-huit chacun. Harry le *sait*, il sait qu'il *doit*
-trouver quelque chose d'*incroyable* - »
+trouver quelque chose d'*incroyable* -"
 
-« Comme *quoi* ? » demanda Hermione d'un ton stressé. « Si on ne *sait pas*
+"Comme *quoi* ?" demanda Hermione d'un ton stressé. "Si on ne *sait pas*
 ce qu'ils préparent, autant économiser notre magie pour lancer des
-*Finite* en masse. Comme on *aurait* dû le faire la *dernière* fois ! »
+*Finite* en masse. Comme on *aurait* dû le faire la *dernière* fois !"
 
-Susan toucha doucement l'épaule de Hermione. « Général Granger ? »
-demanda-t-elle. « Je pense que vous devriez vous reposer un moment avant
-la bataille. »
+Susan toucha doucement l'épaule de Hermione. "Général Granger ?"
+demanda-t-elle. "Je pense que vous devriez vous reposer un moment avant
+la bataille."
 
 Elle s'était attendue à ce que Hermione proteste mais celle-ci hocha
 juste la tête et marcha un peu plus vite, s'écartant du groupe officiel
@@ -253,46 +253,46 @@ parfois le ciel du regard.
 Susan la suivit. Il n'aurait pas été convenable que le général Soleil
 ait l'air d'avoir été exclus de son propre cercle d'officiers.
 
-« Hermione ? » dit Susan avec douceur après qu'elles se furent un peu
-éloignées. « Tu dois te concentrer. C'est le professeur Quirrell qui
+"Hermione ?" dit Susan avec douceur après qu'elles se furent un peu
+éloignées. "Tu dois te concentrer. C'est le professeur Quirrell qui
 contrôle tout ici, pas Rogue, et il ne laissera rien de mal t'arriver,
-ni à toi ni à personne d'autre. »
+ni à toi ni à personne d'autre."
 
-« Vous ne m'aidez pas, » dit Hermione d'une voix tremblante. « Vous ne
-m'aidez pas du tout, capitaine Bones. »
+"Vous ne m'aidez pas," dit Hermione d'une voix tremblante. "Vous ne
+m'aidez pas du tout, capitaine Bones."
 
 Elles marchèrent plus vite, firent un cercle autour de certains soldats,
 inspectèrent le périmètre, observèrent les arbres alentours.
 
-« Susan ? » dit Hermione d'une petite voix après qu'elles se furent
-retrouvées plus loin des autres. « Est-ce que tu penses que Daphné a
-raison quand elle dit que Drago Malfoy manigance quelque chose ? »
+"Susan ?" dit Hermione d'une petite voix après qu'elles se furent
+retrouvées plus loin des autres. "Est-ce que tu penses que Daphné a
+raison quand elle dit que Drago Malfoy manigance quelque chose ?"
 
-« Oui, » répondit immédiatement Susan sans même y réfléchir. « C'est facile
-à savoir : il y a les lettres M, A, L, F, O et Y dans son nom de
-famille. »
+"Oui," répondit immédiatement Susan sans même y réfléchir. "C'est facile
+à savoir : il y a les lettres M, A, L, F, O et Y dans son nom de
+famille."
 
 Hermione regarda autour d'elle comme pour s'assurer que personne ne les
 regardait, même si c'était bien sûr un merveilleuse façon d'attirer
-l'attention. « Malfoy aurait-il pu être derrière ce que Rogue a fait ? »
+l'attention. "Malfoy aurait-il pu être derrière ce que Rogue a fait ?"
 
-« Rogue pourrait être derrière Malfoy, » dit Susan, pensive, en se
+"Rogue pourrait être derrière Malfoy," dit Susan, pensive, en se
 souvenant les conversations qu'elle avait entendues lors de dîners chez
-sa tante, « ou Lucius Malfoy pourrait être derrière les deux. » Un léger
+sa tante, "ou Lucius Malfoy pourrait être derrière les deux." Un léger
 frisson descendit le long de son échine lorsqu'elle eut cette pensée.
 Soudain, dire à Hermione de juste se concentrer sur la bataille à venir
-lui sembla être beaucoup moins raisonnable. « Pourquoi, est-ce que tu as
-trouvé un genre d'indice qui te ferait penser ça ? »
+lui sembla être beaucoup moins raisonnable. "Pourquoi, est-ce que tu as
+trouvé un genre d'indice qui te ferait penser ça ?"
 
-Hermione secoua la tête. « Non, » dit la Serdaigle d'une voix qui laissait
-presque penser qu'elle était sur le point de pleurer. « Je… j'y songeais
-juste… c'est tout. »
+Hermione secoua la tête. "Non," dit la Serdaigle d'une voix qui laissait
+presque penser qu'elle était sur le point de pleurer. "Je… j'y songeais
+juste… c'est tout."
 
-
+ 
 
 ------------------------------------------------------------------------
 
-
+ 
 
 Dans la zone de la forêt proche de Poudlard qui leur avait été assignée,
 le général Dragon et les guerriers de l'armée Dragon attendaient là où
@@ -305,7 +305,7 @@ famille qui avait servi les Malfoy depuis des temps oubliés. Le garçon
 musclé était vigilant, comme il l'était toujours, qu'une bataille ait
 été déclarée ou non. Plus loin en arrière, Grégory des Goyles se tenait
 à côté de l'un des deux balais qui avaient été fournis à l'armée
-Dragon ; et si les Goyles n'avaient pas servi les Malfoy aussi
+Dragon ; et si les Goyles n'avaient pas servi les Malfoy aussi
 longtemps que les Crabbes, ils ne l'avaient pas moins bien fait.
 
 À la gauche de Drago se tenait maintenant Dean Thomas de Gryffondor, un
@@ -372,14 +372,14 @@ fait, il en avait eu *deux*.
 
 Le son creux de la cloche sonna à travers la forêt, parvenant à être
 encore plus menaçante que jamais. À cet instant, deux pilotes
-s'écrièrent « *Debout !* » et bondirent sur leur balais en direction du
+s'écrièrent "*Debout !*" et bondirent sur leur balais en direction du
 ciel gris.
 
-
+ 
 
 ------------------------------------------------------------------------
 
-
+ 
 
 M. et Mme Davis étaient maintenant affalés l'un sur l'autre, plus par
 fatigue musculaire qu'à cause d'une diminution de leur état de tension.
@@ -406,43 +406,43 @@ presque fini avec la sienne, il semblait que sa feuille devenait un gant
 gauche doté d'une sangle encore pendante (la fenêtre venait de faire un
 zoom pour le montrer).
 
-Lord Jugson regardait l'écran sans montrer le moindre intérêt ; sa voix,
-lorsqu'il parla, sembla suinter, ruisseler de dédain : « Que fait *donc*
-votre fils, Lucius ? »
+Lord Jugson regardait l'écran sans montrer le moindre intérêt ; sa voix,
+lorsqu'il parla, sembla suinter, ruisseler de dédain : "Que fait *donc*
+votre fils, Lucius ?"
 
 La sorcière venue de l'étranger qui se tenait à droite de Malfoy venait
 de finir de métamorphoser son gant et le portait à présent au général
 Dragon comme elle lui aurait fait offrande d'un sacrifice.
 
-« Je l'ignore, » dit Lucius Malfoy d'un ton aussi calme qu'aristocratique,
-« mais il me faut croire qu'il a de bonnes raisons de le faire. »
+"Je l'ignore," dit Lucius Malfoy d'un ton aussi calme qu'aristocratique,
+"mais il me faut croire qu'il a de bonnes raisons de le faire."
 
 Toute l'armée Dragon s'arrêta un instant lorsque Padma fit glisser le
 gant sur sa main gauche, attacha la sangle et le présenta à Drago Malfoy
 qui s'arrêta lui aussi, prit quelques profondes inspirations, leva sa
-baguette, exécuta huit mouvements précis et mugit : « *Collaporta !* »
+baguette, exécuta huit mouvements précis et mugit : "*Collaporta !*"
 
 La guerrière Dragon leva alors sa main, fit jouer ses articulations et
 offrit un petit salut à Drago Malfoy qui lui en rendit un encore plus
 léger tout en chancelant un peu. Padma retourna alors au côté de Drago
 et les dragons se remirent en marche.
 
-« Alors, » dit Augusta Londubat, « j'imagine que personne ne voudrait
-expliquer… ? » Amelia Bones fronçait légèrement les sourcils en regardant
+"Alors," dit Augusta Londubat, "j'imagine que personne ne voudrait
+expliquer… ?" Amelia Bones fronçait légèrement les sourcils en regardant
 l'écran.
 
-« Pour une raison ou une autre, » dit la voix amusée du professeur
-Quirrell, « il semble que l'héritier des Malfoy est capable de manier
+"Pour une raison ou une autre," dit la voix amusée du professeur
+Quirrell, "il semble que l'héritier des Malfoy est capable de manier
 une magie étonnamment puissante pour un élève de première année. À cause
 de la pureté de son sang, bien sûr. Lord Malfoy n'aurait certainement
 pas bafoué les lois sur la magie des mineurs en s'arrangeant pour que
-son fils reçoive une baguette avant d'être admis à Poudlard. »
+son fils reçoive une baguette avant d'être admis à Poudlard."
 
-« Je vous suggère de faire attention à ce que vous sous-entendez,
-Quirrell, » dit Lucius Malfoy avec froideur.
+"Je vous suggère de faire attention à ce que vous sous-entendez,
+Quirrell," dit Lucius Malfoy avec froideur.
 
-« Oh, mais c'est ce que je fais, » dit le professeur Quirrell. « Un
-*Collaporta* ne peut être défait par un *Finite Incantatem* ; il
+"Oh, mais c'est ce que je fais," dit le professeur Quirrell. "Un
+*Collaporta* ne peut être défait par un *Finite Incantatem* ; il
 nécessite un *Alohomora* de force égale. Sans cela, un gant ainsi
 ensorcelé résistera à des forces physique faibles et défléchira le
 sortilège de sommeil ainsi que celui d'étourdissement. Et comme ni M.
@@ -451,62 +451,62 @@ puissant, ce charme est donc invincible sur ce champ de bataille. Ce
 n'est pas le but originel ni l'intention qu'avait la personne qui a
 enseigné à M. Malfoy un sortilège d'urgence destiné à lui permettre
 d'échapper à ses ennemis. Mais il semblerait que M. Malfoy ait reçu des
-leçons de créativité. »
+leçons de créativité."
 
 Lucius Malfoy s'était raidit dans son siège à mesure que le professeur
 de Défense avait parlé, et il se tenait maintenant droit sur son banc
 rembourré, sa tête tenue sensiblement plus haut qu'avant, et lorsqu'il
-parla, ce fut avec une fierté contenue : « Il sera le plus grand Lord
-Malfoy à avoir jamais vécu. »
+parla, ce fut avec une fierté contenue : "Il sera le plus grand Lord
+Malfoy à avoir jamais vécu."
 
-« Bien médiocre éloge, » marmonna Augusta Londubat ; Amelia Bones gloussa,
+"Bien médiocre éloge," marmonna Augusta Londubat ; Amelia Bones gloussa,
 tout comme le fit M. Davis pendant une fraction de seconde fatale avant
 de s'arrêter dans un gargouillement étranglé.
 
-« Je suis tout à fait d'accord, » dit le professeur Quirrell, bien qu'on
-ne sache pas bien à qui il s'adressait. « Malheureusement pour M. Malfoy,
+"Je suis tout à fait d'accord," dit le professeur Quirrell, bien qu'on
+ne sache pas bien à qui il s'adressait. "Malheureusement pour M. Malfoy,
 il est encore débutant en matière de créativité et a donc commis une
-classique erreur de Serdaigle. »
+classique erreur de Serdaigle."
 
-« Et quelle est-elle ? » demanda Lucius Malfoy d'une voix redevenue
+"Et quelle est-elle ?" demanda Lucius Malfoy d'une voix redevenue
 fraîche.
 
 Le professeur Quirrell s'enfonça dans son siège et les pâles yeux bleus
 perdirent brièvement leur mise au point lorsque l'une des fenêtres
 changea de point de vue et zooma pour montrer la sueur qui se trouvait à
-présent sur le front de Drago. « C'est une idée si belle que M. Malfoy a
-négligé sa difficulté pratique. »
+présent sur le front de Drago. "C'est une idée si belle que M. Malfoy a
+négligé sa difficulté pratique."
 
-« Quelqu'un pourrait-il m'expliquer cela ? » dit Lady Greengrass. « Nous ne
-sommes pas tous experts en… ce domaine. »
+"Quelqu'un pourrait-il m'expliquer cela ?" dit Lady Greengrass. "Nous ne
+sommes pas tous experts en… ce domaine."
 
 Amelia Bones répondit, et la voix de la vieille sorcière était plutôt
-sèche. « Ils seront tentés d'attraper des sortilèges qu'il aurait été
+sèche. "Ils seront tentés d'attraper des sortilèges qu'il aurait été
 plus simple d'éviter. Encore plus s'ils ont un peu pratiquer l'attrapage
 auparavant. Et lancer tant de sortilèges fatiguerait leur guerrier le
-plus fort. »
+plus fort."
 
 Le professeur Quirrell donna un demi hochement de tête de reconnaissance
-à la directrice du département de justice magique. « Comme vous dites,
+à la directrice du département de justice magique. "Comme vous dites,
 Mme Bones. M. Malfoy est débutant en nouvelles idées, et il devient donc
 fier de lui lorsqu'il en a une. Il n'a pas encore eu assez d'idées pour
 se débarrasser sans hésitation de celles qui sont en partie belles et en
-partie irréalisables ; il n'a pas encore acquis assez de confiance dans
+partie irréalisables ; il n'a pas encore acquis assez de confiance dans
 sa capacité à trouver de nouvelles idées à mesure que le besoin s'en
 fait sentir. Ce que nous voyons la n'est pas la meilleure idée de M.
-Malfoy, j'en ai peur, mais plutôt sa seule idée. »
+Malfoy, j'en ai peur, mais plutôt sa seule idée."
 
 Lord Malfoy se détourna tout simplement et regarda les écrans comme si
 le professeur de Défense venait d'épuiser son droit à exister.
 
-« Mais - » dit Lord Greengrass. « Mais par Merlin, *que* *fait* Harry
-Potter ? »
+"Mais -" dit Lord Greengrass. "Mais par Merlin, *que* *fait* Harry
+Potter ?"
 
-
+ 
 
 ------------------------------------------------------------------------
 
-
+ 
 
 Les seize soldats restants de l'armée du Chaos - ou plutôt les quinze
 soldats restants accompagnés de Blaise Zabini - avançaient avec
@@ -534,12 +534,12 @@ Harry n'avait pas pris la peine de se plaindre après de professeur
 Quirrell que la 'pression était trop forte'. Le modèle mental du
 professeur Quirrell qu'avait Harry avait prédit qu'il aurait l'air
 particulièrement agacé, dirait des choses comme *Vous êtes parfaitement
-capable de résoudre ce problème, M. Potter, avez-vous au moins essayé ?*
+capable de résoudre ce problème, M. Potter, avez-vous au moins essayé ?*
 et lui enlèverait ensuite plusieurs centaines de points Quirrell.
 
 Venue d'au-dessus, où deux balais surveillaient l'avancée de l'armée, la
-jeune voix haute perchée de Tess Walsh cria « Ami ! » et un instant plus
-tard : « Croquignolle ! »
+jeune voix haute perchée de Tess Walsh cria "Ami !" et un instant plus
+tard : "Croquignolle !"
 
 Une poignée de secondes plus tard, la soldate qui s'était elle-même
 affublé du nom de code Croquignolle revint les mains chargées de glands,
@@ -550,7 +550,7 @@ avoir à métamorphoser un sac. Lorsque Croquignolle avança ses mains et
 essaya de laisser tomber les glands dans le T-shirt-sac, Shannon du
 Chaos décala le vêtement à gauche en gloussant, puis à droite lorsque
 Croquignolle fit une autre tentative pour déposer les glands, jusqu'à ce
-qu'un « Mlle Friedman ! » tranchant venu du lieutenant Nott ne fasse
+qu'un "Mlle Friedman !" tranchant venu du lieutenant Nott ne fasse
 soupirer Shannon avant qu'elle ne stabilise le T-shirt. Croquignolle
 versa les glands par-dessus ceux qui avaient déjà été accumulés puis
 repartit en chercher d'autres.
@@ -614,13 +614,13 @@ avait sous les yeux.
 *Défense. Charmes. Métamorphose. Potions. Histoire de la magie.
 Astronomie. Vol sur balais. Botanique…*
 
-« *Ennemi !* » s'écria une voix au-dessus d'eux.
+"*Ennemi !*" s'écria une voix au-dessus d'eux.
 
-
+ 
 
 ------------------------------------------------------------------------
 
-
+ 
 
 Il était heureux que Neville Londubat ignore entièrement que sa
 grand-mère le regardait, sans quoi il aurait été plus gêné à l'idée de
@@ -628,13 +628,13 @@ hurler des cris de guerre de toutes ses forces tout en lançant *Luminos*
 toutes les trois secondes et en fonçant comme une fusée à travers une
 dense forêt d'arbres à la poursuite de Gregory Goyle.
 
-(« Mais - » dit Augusta Londubat, avec une expression qui montrait presque
-autant de stupéfaction que d'inquiétude. « Mais Neville a peur du vide
-! »)
+("Mais -" dit Augusta Londubat, avec une expression qui montrait presque
+autant de stupéfaction que d'inquiétude. "Mais Neville a peur du vide
+!")
 
-(« Toutes les peurs ne durent pas, » dit Amelia Bones. La vieille sorcière
-scrutait le plus grand écran d'un regard calculateur. « Ou peut-être
-a-t-il trouvé du courage. C'est en fin de compte la même chose »).
+("Toutes les peurs ne durent pas," dit Amelia Bones. La vieille sorcière
+scrutait le plus grand écran d'un regard calculateur. "Ou peut-être
+a-t-il trouvé du courage. C'est en fin de compte la même chose").
 
 Une lueur rouge -
 
@@ -652,15 +652,15 @@ Vingt secondes plus tard – la course poursuite n'avait pas été *longue*,
 seulement *exaltante* – Neville était de retour parmi ses compagnons
 chaotiques et descendait de son balais pour faire quelques pas.
 
-« Neville - » dit le général Potter. La voix de Harry était un peu
-distante ; il traversait la forêt précautionneusement mais d'un pas
+"Neville -" dit le général Potter. La voix de Harry était un peu
+distante ; il traversait la forêt précautionneusement mais d'un pas
 ferme et sa baguette était toujours plaquée contre la forme presque
 achevée de l'objet qu'il métamorphosait lentement. À côté de lui, Blaise
 Zabini travaillait sur une version plus petite de la même métamorphose
-et trébucha soudain, ce qui le fit ressembler à un Inferi rampant. « Je
-te l'ai dit, Neville, tu n'as pas à… »
+et trébucha soudain, ce qui le fit ressembler à un Inferi rampant. "Je
+te l'ai dit, Neville, tu n'as pas à…"
 
-« Si, » répondit Neville. Il baissa ses yeux vers ses doigts fraîchement
+"Si," répondit Neville. Il baissa ses yeux vers ses doigts fraîchement
 arrachés au balais et vit que ce n'étaient pas seulement ses mains mais
 aussi ses bras qui tremblaient. Mais à moins qu'un autre chaotique n'ait
 pratiqué le duel une heure par jour avec M. Diggory avant de s'exercer à
@@ -668,7 +668,7 @@ viser en privé pendant une heure de plus, Neville était probablement le
 meilleur tireur sur balais de leur armée, et ce même s'il ne volait pas
 très bien.
 
-« Tu t'en es bien tiré, Neville, » dit Théodore, en tête et à l'écart du
+"Tu t'en es bien tiré, Neville," dit Théodore, en tête et à l'écart du
 groupe, menant la légion à travers la forêt uniquement vêtu de son
 maillot de corps.
 
@@ -677,94 +677,94 @@ stupéfait puis arrachèrent leur regard l'un à l'autre comme si quelque
 chose venait de les piquer).
 
 Neville prit quelques profondes inspirations, essaya de stabiliser ses
-mains, de réfléchir ; Harry n'était peut-être pas au mieux de sa forme
-stratégique au milieu d'une longue métamorphose. « Lieutenant Nott,
-sauriez-vous pourquoi l'armée Dragon vient de faire cela ? Ils ont
-*perdu* un balais - » Les Dragons avaient commencé le combat par une
-feinte afin de les distraire de l'approche de M. Goyle ; Neville n'avait
+mains, de réfléchir ; Harry n'était peut-être pas au mieux de sa forme
+stratégique au milieu d'une longue métamorphose. "Lieutenant Nott,
+sauriez-vous pourquoi l'armée Dragon vient de faire cela ? Ils ont
+*perdu* un balais -" Les Dragons avaient commencé le combat par une
+feinte afin de les distraire de l'approche de M. Goyle ; Neville n'avait
 remarqué qu'il y avait *deux* balais attaquants que peu de temps avant
 qu'il ne soit trop tard. Mais la légion du Chaos avait *eu* l'autre
 pilote. C'était pour cette raison que les balais n'attaquaient
-généralement pas avant que les armées ne se rencontrent : toute une
-armée pouvait alors concentrer son tir sur un seul balais. « Et les
-Dragons n'ont eu personne, n'est-ce pas ? »
+généralement pas avant que les armées ne se rencontrent : toute une
+armée pouvait alors concentrer son tir sur un seul balais. "Et les
+Dragons n'ont eu personne, n'est-ce pas ?"
 
-« Nan ! » dit Tracey Davis avec fierté. Elle marchait maintenant à côté du
+"Nan !" dit Tracey Davis avec fierté. Elle marchait maintenant à côté du
 général Potter, sa baguette maintenue sous sa taille, le regard
-vigilant, passant en revue la forêt qui les entourait. « J'ai lancé une
+vigilant, passant en revue la forêt qui les entourait. "J'ai lancé une
 sphère prismatique pas loin d'une fraction de seconde avant que le sort
 de M. Goyle ne touche Zabini, et vu comment M. Goyle avait étendu son
-autre bras je pense qu'il comptait aussi faire tomber le général. » La
-sorcière de Serpentard sourit avec un air d'assurance malveillante. « M.
+autre bras je pense qu'il comptait aussi faire tomber le général." La
+sorcière de Serpentard sourit avec un air d'assurance malveillante. "M.
 Goyle a essayé un sortilège de bris de bouclier mais a appris à son
 grand dam que sa faible magie ne pouvait pas rivaliser avec mes nouveaux
-pouvoirs des ténèbres, hahahaha ! »
+pouvoirs des ténèbres, hahahaha !"
 
 Quelques chaotiques rirent avec elle mais Neville sentit son estomac
 commencer à se retourner lorsqu'il se rendit compte à quel point la
 légion du Chaos avait été proche du désastre complet. Si M. Goyle était
 parvenu à perturber les deux métamorphoses…
 
-
+ 
 
 ------------------------------------------------------------------------
 
+ 
 
-
-« Au rapport ! » lâcha le général Dragon tout en faisant de son mieux pour
+"Au rapport !" lâcha le général Dragon tout en faisant de son mieux pour
 dissimuler la fatigue qu'il ressentait après avoir lancé les dix-sept
 premiers sortilèges d'emprisonnement.
 
-Des gouttes de sueur perlaient maintenant au front de Gregory. « L'ennemi
-a eu raison de Dylan Vaughan, » dit-il d'un ton cérémonieux. « Harry
+Des gouttes de sueur perlaient maintenant au front de Gregory. "L'ennemi
+a eu raison de Dylan Vaughan," dit-il d'un ton cérémonieux. "Harry
 Potter et Blaise Zabini métamorphosaient chacun quelque chose de gris
 sombre et de plus ou moins circulaire, je ne pense pas que c'était
 terminé mais on aurait dit que ça allait être grand et creux, peut-être
 en forme de chaudron. Celui de Zabini était plus petit que celui de
 Potter. Je n'ai pas pu les avoir ni perturber leur métamorphose, Tracey
 Davis m'a bloquée. Neville Londubat est sur un balais et il est toujours
-exécrable en vol mais il vise vraiment bien. »
+exécrable en vol mais il vise vraiment bien."
 
 Drago écouta, fronça les sourcils puis regarda vers Padma et Dean Thomas
 qui secouaient tous les deux la tête, indiquant par là qu'ils n'avaient
 pas idée de ce qui pourrait être grand, gris et en forme de chaudron.
 
-« Autre chose ? » dit Drago. Si c'était tout, ils auraient perdu un balais
+"Autre chose ?" dit Drago. Si c'était tout, ils auraient perdu un balais
 pour rien -
 
-« L'autre chose étrange que j'ai vue, » dit Gregory d'un ton perplexe,
-« c'était que certain chaotiques portaient… des sortes de lunettes ? »
+"L'autre chose étrange que j'ai vue," dit Gregory d'un ton perplexe,
+"c'était que certain chaotiques portaient… des sortes de lunettes ?"
 
 Drago y réfléchit sans remarquer qu'il avait cessé de marcher et que
 toute l'armée Dragon s'était automatiquement arrêtée avec lui.
 
-« Ces lunettes avaient-elles quoi que ce soit de spécial ? » demanda
+"Ces lunettes avaient-elles quoi que ce soit de spécial ?" demanda
 Drago.
 
-« Euh… » dit Gregory. « Elles étaient… verdâtres, peut-être ? »
+"Euh…" dit Gregory. "Elles étaient… verdâtres, peut-être ?"
 
-« D'accord, » dit Drago. De nouveau sans s'en rendre compte, il recommença
-à marcher et ses dragons le suivirent. « Voilà notre nouvelle stratégie.
+"D'accord," dit Drago. De nouveau sans s'en rendre compte, il recommença
+à marcher et ses dragons le suivirent. "Voilà notre nouvelle stratégie.
 Nous allons envoyer onze dragons contre la légion du Chaos, pas
 quatorze. Cela devrait suffire à les battre maintenant qu'on peut
-neutraliser leur avantage. » C'était un coup de poker, mais il fallait
+neutraliser leur avantage." C'était un coup de poker, mais il fallait
 être prêt à en faire quand on voulait sortir gagnant d'un combat à
 trois.
 
-« Vous avez compris le plan de Chaos, général Malfoy ? » dit M. Thomas,
+"Vous avez compris le plan de Chaos, général Malfoy ?" dit M. Thomas,
 considérablement surpris.
 
-« Que font-ils ? » demanda Padma.
+"Que font-ils ?" demanda Padma.
 
-« Je n'en ai pas la moindre idée, » dit Drago avec un sourire d'une
-suffisance des plus raffinées. « Nous ferons juste ce qu'il y a de plus
-évident à faire. »
+"Je n'en ai pas la moindre idée," dit Drago avec un sourire d'une
+suffisance des plus raffinées. "Nous ferons juste ce qu'il y a de plus
+évident à faire."
 
-
+ 
 
 ------------------------------------------------------------------------
 
-
+ 
 
 Harry en avait maintenant fini avec son chaudron et versait
 précautionneusement des glands dans le récipient pendant que les
@@ -779,7 +779,7 @@ attendre d'avoir posé exactement la bonne question pour savoir ce qu'on
 avait sous les yeux.
 
 *Comment puis-je faire appel à des forces qui devraient être hors de
-portée d'élèves en première année ?*
+portée d'élèves en première année ?*
 
 Il y avait ce récit édifiant raconté par le maître des potions (avec
 nombre de railleries et ricanements afin que la bêtise dont il était
@@ -788,7 +788,7 @@ d'une sorcière en deuxième année à Beauxbâtons qui avait volé des
 ingrédients extrêmement réglementés et chers afin d'essayer de préparer
 du *Polynectar* dans le but d'emprunter l'apparence d'une autre fille à
 des fins qu'il vaut mieux ne pas mentionner. Sauf qu'elle était parvenue
-à contaminer la potion avec des *poils de chat* ; et ensuite, au lieu
+à contaminer la potion avec des *poils de chat* ; et ensuite, au lieu
 d'aller immédiatement chercher un guérisseur, la sorcière s'était cachée
 dans les toilettes en espérant que les effets s'estomperaient, et
 lorsqu'elle fut enfin trouvé il était trop tard pour entièrement annuler
@@ -829,7 +829,7 @@ attendre d'avoir posé exactement la bonne question pour savoir ce qu'on
 avait sous les yeux…
 
 *Quelle potion puis-je préparer en utilisant uniquement des ingrédients
-trouvés dans une forêt ordinaire ?*
+trouvés dans une forêt ordinaire ?*
 
 Toutes les recettes de *Breuvages et Potions Magiques* utilisaient au
 moins un ingrédient venu d'une plante ou d'un animal magique. Ce qui
@@ -845,11 +845,11 @@ quelque chose, confirmant ce qu'il avait déjà lu mais qu'il *voyait*
 pour la première fois.
 
 Chaque potion incluait au moins un ingrédient magique, *mais pourquoi
-aurait-il dû en être ainsi ?*
+aurait-il dû en être ainsi ?*
 
-Les sortilèges ne requéraient aucun composant matériel ; il suffisait de
+Les sortilèges ne requéraient aucun composant matériel ; il suffisait de
 prononcer la formule et d'agiter sa baguette. Harry avait jusque là
-considéré la préparation de potions comme essentiellement similaire :
+considéré la préparation de potions comme essentiellement similaire :
 plutôt que de voir des syllabes prononcées déclencher un effet magique
 sans raison apparente, on réunissait un tas d'ingrédients dégoûtants, on
 remuait quatre fois dans le sens des aiguilles d'une montre, et *cela*
@@ -871,14 +871,14 @@ avait sous les yeux…
 
 *Si préparer une potion, c'est comme de lancer un sortilège, pourquoi
 est-ce que je ne m'effondre pas de fatigue après avoir préparé un
-breuvage aussi puissant que le remède contre les furoncles ?*
+breuvage aussi puissant que le remède contre les furoncles ?*
 
 Deux vendredis plus tôt, Harry et sa classe avaient préparé un *remède
 contre les furoncles* en double cours de potions… alors que le plus
 trivial des sortilèges de soin à la baguette et à la formule étaient au
 moins des sorts de quatrième année. Et ils s'étaient ensuite sentis
 exactement comme d'habitude après un cours de potions, à savoir *pas du
-tout* épuisés magiquement ; du moins pas qu'ils puissent le percevoir.
+tout* épuisés magiquement ; du moins pas qu'ils puissent le percevoir.
 
 Harry avait brutalement refermé son exemplaire de *Breuvages et Potions
 Magiques* et avait foncé vers la salle commune de Serdaigle. Il y avait
@@ -893,7 +893,7 @@ nécessitait des œufs de Serpencendre… et le livre prévenait que le feu
 qui résulterait de la préparation ne pourrait pas être plus chaud que le
 feu magique à l'origine du Serpencendre qui avait pondu les œufs.
 
-Harry s'était écrié « *Eurêka* ! » au milieu de la salle commune de
+Harry s'était écrié "*Eurêka* !" au milieu de la salle commune de
 Serdaigle et avait été sévèrement réprimandé par un préfet qui se
 trouvait dans les parages et qui avait cru que M. Potter essayait de
 lancer un sortilège. Personne chez les sorciers ne connaissait ni ne se
@@ -922,7 +922,7 @@ La magie ne semblait *pas* fonctionner ainsi, et c'était un euphémisme.
 L'attitude de la magie face à des lois telles que la conservation de
 l'énergie était quelque part entre un majeur géant dressé et un
 haussement d'épaule d'indifférence absolue. *Aguamenti* créait de l'eau
-à partir de rien pour autant qu'on le savait ; il n'était fait mention
+à partir de rien pour autant qu'on le savait ; il n'était fait mention
 d'aucun lac dont le niveau descendait à chaque fois que le sortilège
 était lancé. C'était un simple sortilège de cinquième année et qu'aucun
 sorcier ne trouvait impressionnait, parce que la création d'un simple
@@ -931,7 +931,7 @@ pas l'idée folle que la masse devait être conservée ou que créer un
 gramme de masse correspondait en définitive à la création de
 90 000 000 000 000 joules d'énergie. Il existait un sortilège de section
 supérieure sur lequel Harry était tombé dont la *formule* était
-exactement *Arresto Momentum !*, et lorsque Harry avait demandé si le
+exactement *Arresto Momentum !*, et lorsque Harry avait demandé si le
 mouvement allait *ailleurs*, il n'avait eu droit qu'à des regards
 perplexes. Il était donc resté aux aguets pour le *moindre* signe d'un
 principe de conservation en magie, *n'importe quel signe*…
@@ -947,9 +947,9 @@ la magie des ingrédients (et déliait leur forme physique afin que des
 ingrédients tels que les aiguilles de porc-épic se dissolvent en un
 liquide buvable. Harry soupçonnait fort qu'un Moldu n'obtiendrait rien
 d'autre qu'un fatras épineux en suivant exactement la même recette).
-Voilà ce qu'était *vraiment* la préparation de potions : l'art de
+Voilà ce qu'était *vraiment* la préparation de potions : l'art de
 transformer des essences magiques préexistantes. C'était pour ça qu'on
-était *un peu* fatigué après le cours de potions, mais pas trop : parce
+était *un peu* fatigué après le cours de potions, mais pas trop : parce
 qu'on ne donnait pas soi-même de pouvoir aux potions, on ne faisait que
 remodeler la magie déjà présente. Et c'était pour cela qu'une sorcière
 de deuxième année pouvait préparer du Polynectar, ou presque.
@@ -966,8 +966,8 @@ forts eux-mêmes, ils étaient seulement… très, très écrasés après que le
 Re'em en ait fini avec eux.
 
 Une autre recette disait de toucher la potion avec 'du bronze forgé',
-c’est-à-dire de saisir une Noise entre des pinces afin d'effleurer la
-surface de la potion, et le livre mettait en garde : si l'on faisait
+c'est à dire de saisir une Noise entre des pinces afin d'effleurer la
+surface de la potion, et le livre mettait en garde : si l'on faisait
 tomber tout la Noise dans la potion, celle-ci surchaufferait
 instantanément et déborderait du chaudron.
 
@@ -991,14 +991,14 @@ promettre à Harry que, dans ce cas, il était à la fois acceptable et
 important qu'il révèle la théorie à l'origine de son projet, il s'était
 avéré que Harry n'avait *pas* fait une découverte magique fondamentale
 mais redécouvert une loi si ancienne qu'on ne savait pas qui l'avait
-formulée le premier :
+formulée le premier :
 
 *Une potion fait usage de ce qui a été investi dans la création de ses
 ingrédients.*
 
 La chaleur des forges gobelines qui avaient fondu la Noise de bronze, la
 force du Re'em qui avait piétiné les Fangieux, le feu magique d'où le
-Serpencendre était né : toutes ces forces pouvaient être rappelées,
+Serpencendre était né : toutes ces forces pouvaient être rappelées,
 libérées et restructurées par l'acte, similaire à l'invocation d'un
 sortilège, de remuer les ingrédients selon une procédure précise.
 
@@ -1006,11 +1006,11 @@ sortilège, de remuer les ingrédients selon une procédure précise.
 malade de la thermodynamique inventée par quelqu'un qui aurait trouvé
 que la vie devait être *juste*. D'un point de vu Moldu, la chaleur
 utilisée pour forger la Noise n'était pas allée *dans* le bronze car la
-chaleur était *partie* : elle s'était dissipée dans l'environnement et
+chaleur était *partie* : elle s'était dissipée dans l'environnement et
 il était dorénavant plus difficile d'en faire usage. L'énergie était
 conservée, elle ne pouvait être ni créé ni détruite, c'était
 *l'entropie* qui augmentait toujours. Mais les sorciers ne pensaient pas
-ainsi : selon eux, si vous faisiez un certain effort pour fabriquer une
+ainsi : selon eux, si vous faisiez un certain effort pour fabriquer une
 Noise, il était raisonnable de penser que ce même effort pouvait être
 extrait de la Noise plus tard. Harry avait essayé d'expliquer pourquoi
 c'était un peu *bizarre* quand on avait été élevé par des Moldus et le
@@ -1044,11 +1044,11 @@ Le professeur Flitwick avait même mentionné plusieurs volumes
 disponibles à la bibliothèque de Poudlard qui pourraient s'avérer
 utiles…
 
-
+ 
 
 ------------------------------------------------------------------------
 
-
+ 
 
 Le vaste écran-parchemin n'offrait maintenant qu'une vue aérienne de la
 forêt depuis laquelle on pouvait à peine voir les silhouettes camouflées
@@ -1072,27 +1072,27 @@ Se rapprochait.
 
 Se touchait presque…
 
-
+ 
 
 ------------------------------------------------------------------------
 
-
+ 
 
 L'immense fenêtre de parchemin révélait une première esquisse de
 bataille entre Soleil et Chaos, une masse hurlante d'enfants, smileys
 sur la poitrine, qui chargeaient protégés par des *Contego* tandis que
-d'autres hurlaient *Somnium !*…
+d'autres hurlaient *Somnium !*…
 
-Jusqu'à ce que l'un d'eux s'écrie *Prismatis !* d'une voix terrifiée et
+Jusqu'à ce que l'un d'eux s'écrie *Prismatis !* d'une voix terrifiée et
 que la charge ne s'arrête soudain face au mur de force scintillant qui
 venait d'apparaître devant eux.
 
 Tracey Davis était sortie du bois.
 
-« C'est ça, » dit-elle d'une voix basse et sinistre, baguette pointée vers
-la barrière. « Vous *devriez* me craindre. Car je suis Tracey Davis, la
-Dame des Ténèèèbres ! C'est Dame des Ténèèèbres T-É-N-È-È-È-B-R-E avec
-trois È ! »
+"C'est ça," dit-elle d'une voix basse et sinistre, baguette pointée vers
+la barrière. "Vous *devriez* me craindre. Car je suis Tracey Davis, la
+Dame des Ténèèèbres ! C'est Dame des Ténèèèbres T-É-N-È-È-È-B-R-E avec
+trois È !"
 
 (Amelia Bones, directrice du département de justice magique, jeta un
 regard inquisiteur vers M. et Mme Davis qui semblaient tous deux avoir
@@ -1106,31 +1106,31 @@ Puis, un moment plus tard, *Tracey* recula d'un pas.
 
 Susan Bones s'était placée à l'avant du contingent Soleil.
 
-(« Bonté Merline, » dit Augusta Londubat. « Et que pensez-vous que votre
-nièce ait appris à Poudlard ? »)
+("Bonté Merline," dit Augusta Londubat. "Et que pensez-vous que votre
+nièce ait appris à Poudlard ?")
 
-(« Je l'ignore », répondit Amelia Bones avec calme, « mais il faudra que je
+("Je l'ignore", répondit Amelia Bones avec calme, "mais il faudra que je
 lui envoie une grenouille en chocolat par chouette avec ordre d'en
-apprendre plus »).
+apprendre plus").
 
 La barrière prismatique se volatilisa.
 
 Les soldats Soleil continuèrent leur charge.
 
-Tracey hurla, sa voix tendue à l'extrême : « *Inflammare ! »* et la charge
+Tracey hurla, sa voix tendue à l'extrême : "*Inflammare !"* et la charge
 Soleil s'arrêta de nouveau alors qu'une ligne de feu s'élevait
 brusquement devant eux dans l'herbe mi-sèche le long de la direction
 vers laquelle Tracey avait pointé sa baguette, et un instant plus tard
-Susan Bones s'écria *« Finite Incantatem* ! » et les flammes faiblirent,
+Susan Bones s'écria *"Finite Incantatem* !" et les flammes faiblirent,
 rejaillirent, faiblirent au gré de leurs volontés en opposition tandis
 que d'autres soldats levaient leurs baguettes pour viser Tracey, et
 c'est *là* que Neville Londubat fondit du ciel en hurlant.
 
-
+ 
 
 ------------------------------------------------------------------------
 
-
+ 
 
 L'un des soldats Dragons, Raymond Arnold, fit un signe de la main vers
 l'avant puis la diagonale gauche et un chuintement réprimé parcourut
@@ -1145,7 +1145,7 @@ arbres lointains et pourtant personne ne parlait, personne ne mugissait
 de charger.
 
 Drago était maintenant en tête de ses soldats, Vincent derrière lui et
-Padma à peine plus loin en arrière ; si eux trois pouvaient soutenir
+Padma à peine plus loin en arrière ; si eux trois pouvaient soutenir
 l'impact des meilleurs de Soleil, le reste de l'armée Dragon avait
 peut-être une chance.
 
@@ -1156,26 +1156,26 @@ Leurs regards se croisèrent au-dessus du champ de bataille.
 
 Drago n'eut qu'une fraction de seconde pour s'interroger à demi
 consciemment sur ce qui pouvait avoir mis Hermione autant en colère
-avant que le cri ne s'élève dans leurs armées respectives ; et ils
+avant que le cri ne s'élève dans leurs armées respectives ; et ils
 chargèrent alors tous, Hermione et lui placés sur une trajectoire qui
 les mènerait directement à une collision mutuelle.
 
-
+ 
 
 ------------------------------------------------------------------------
 
-
+ 
 
 Les autres chaotiques apparaissaient maintenant entre les arbres,
 d'autres avaient *sauté d'arbres* et la bataille battait son plein,
 chacun tirant en tous sens sur tout ce qui ressemblait à un ennemi. Plus
-un certain nombre de Soleil qui criaient « *Luminos ! »* et Neville
+un certain nombre de Soleil qui criaient "*Luminos !"* et Neville
 Londubat, le Poufsouffle chaotique, qui zigzaguait et fusait à travers
 les airs le long de trajectoires qui n'auraient pu en effet être
 qualifiées autrement que 'chaotiques'…
 
 Et une chose se produisit, une chose qui n'arrivait qu'une fois sur
-vingt pendant les répétitions de combat aérien : le *balais* de Neville
+vingt pendant les répétitions de combat aérien : le *balais* de Neville
 luit d'un rouge vif entre ses mains serrées.
 
 Cela aurait dû signifier que Londubat était hors-jeu.
@@ -1188,7 +1188,7 @@ Quirrell. On pouvait tout se permettre tant que c'était *réaliste*, et
 dans la vraie vie, un soldat ne se volatilisait pas quand son *balais*
 était victime d'un sortilège.
 
-Neville tomba vers le sol en hurlant : « *Atterrissage chaotique ! »,* les
+Neville tomba vers le sol en hurlant : "*Atterrissage chaotique !",* les
 chaotiques arrachèrent leur attention au combat pour lancer un sortilège
 de lévitation (tout en courant afin de ne pas devenir des cibles
 faciles), presque tout le monde s'arrêta, bouche bée -
@@ -1210,55 +1210,55 @@ n'avait toujours pas lâchée vers les soldats Soleil.
 
 Même si personne sur le champ de bataille ne l'entendit, une grande
 partie du public avait commencé à chanter avec une intensité croissante
-à chaque nouvelle répétition du mot : « DOOM DOOM DOOM DOOM DOOM », parce
+à chaque nouvelle répétition du mot : "DOOM DOOM DOOM DOOM DOOM", parce
 qu'il était tout simplement impossible d'assister à ça et de ne *pas* se
 dire qu'un accompagnement musical était de rigueur.
 
-« La foule acclame votre petit-fils, » dit Amelia Bones. La vieille
+"La foule acclame votre petit-fils," dit Amelia Bones. La vieille
 sorcière scrutait l'écran d'un regard calculateur.
 
-« En effet, » dit Augusta Londubat. « Certains d'entre eux, si j'entends
-bien, entonnent *Notre sang pour Neville ! Nos âmes pour Neville ! »*
+"En effet," dit Augusta Londubat. "Certains d'entre eux, si j'entends
+bien, entonnent *Notre sang pour Neville ! Nos âmes pour Neville !"*
 
-« En effet, » dit Amelia en prenant une gorgée d'une tasse qui, un instant
-plus tôt, n'avait pas été là. « On dirait que le gamin est taillé pour
-être un meneur. »
+"En effet," dit Amelia en prenant une gorgée d'une tasse qui, un instant
+plus tôt, n'avait pas été là. "On dirait que le gamin est taillé pour
+être un meneur."
 
-« Ces acclamations, » continua Augusta d'une voix qui s'alourdissait
-encore de stupéfaction, « semblent venir des bancs Poufsouffle. »
+"Ces acclamations," continua Augusta d'une voix qui s'alourdissait
+encore de stupéfaction, "semblent venir des bancs Poufsouffle."
 
-« Après tout, c'est la maison de la loyauté, ma chère » dit Amelia.
+"Après tout, c'est la maison de la loyauté, ma chère" dit Amelia.
 
-« Albus Perceval Wulfric Brian Dumbledore ! *Nom de Merlin, qu'est-ce qui
-se passe dans cette école !* »
+"Albus Perceval Wulfric Brian Dumbledore ! *Nom de Merlin, qu'est-ce qui
+se passe dans cette école !*"
 
 Lucius Malfoy regardait les écrans avec un sourire ironique tandis que
 ses doigts frappaient son dossier de chaise selon un rythme
-indiscernable. « Je ne sais pas ce qui est le plus effrayant, l'idée
+indiscernable. "Je ne sais pas ce qui est le plus effrayant, l'idée
 qu'il ait un plan secret derrière tout cela ou l'idée qu'il n'en ait
-aucun. »
+aucun."
 
-« Regardez ! » s'écria Lord Greengrass. Le jeune homme soigné s'était à
-moitié levé de sa chaise et pointait l'écran du doigt. « Là voilà ! »
+"Regardez !" s'écria Lord Greengrass. Le jeune homme soigné s'était à
+moitié levé de sa chaise et pointait l'écran du doigt. "Là voilà !"
 
-
+ 
 
 ------------------------------------------------------------------------
 
+ 
 
-
-« On va l'attaquer toutes les deux en même temps, » murmura Daphné. Elle
+"On va l'attaquer toutes les deux en même temps," murmura Daphné. Elle
 savait que quelques minutes d'effroi en situation de combat réel un
 poignée de fois par semaine ne suffirait peut-être pas à se mesurer à la
 pratique régulière du duel que Neville avait eu avec Harry et Cédric
-Diggory pendant le même laps de temps. « Il est trop fort contre chacune
+Diggory pendant le même laps de temps. "Il est trop fort contre chacune
 de nous, mais ensemble – j'utiliserai mon charme, toi, essaie juste de
-l'étourdir… »
+l'étourdir…"
 
 À côté d'elle, Hannah hocha la tête, puis elles hurlèrent à pleins
 poumons et chargèrent, rendues plus rapides et légères par les
 sortilèges de lévitation de deux soldats Soleil. Daphné criait déjà
-« *Tonare ! »* alors que Hannah maintenait un immense *Contego* mouvant
+"*Tonare !"* alors que Hannah maintenait un immense *Contego* mouvant
 devant elles, et grâce à une brève poussée supplémentaire elles
 bondirent par-dessus la tête de la première ligne de soldats et
 atterrirent face à Neville, leurs cheveux tourbillonnant au-dessus de
@@ -1287,51 +1287,51 @@ l'envoya s'effondrer en arrière sur l'herbe et son dos frappa durement
 le sol. Tout aurait été alors fini pour elle si Neville n'avait pas lui
 aussi atterrit trop brusquement et ne s'était pas retrouvé à genoux avec
 un hoquet de douleur. Alors, avant que celui-ci ne puisse abattre sa
-Lame lumineuse, Hannah cria « *Somnium ! »* et Neville bondit
+Lame lumineuse, Hannah cria "*Somnium !"* et Neville bondit
 désespérément en arrière – même si bien sûr aucun sortilège n'était
 vraiment sorti de la baguette de Hannah car il était impossible pour la
 Poufsouffle de tirer une deuxième fois si vite – ce qui donna à Daphné
 une seconde pour se relever tant bien que mal, remettre ses deux mains
 sur sa baguette…
 
-
+ 
 
 ------------------------------------------------------------------------
 
+ 
 
-
-« Par Merlin, » dit Dame Greengrass. Sa voix semblait instable et son port
-aristocratique était tout à fait démoli. « Ma fille se *bat* avec le
+"Par Merlin," dit Dame Greengrass. Sa voix semblait instable et son port
+aristocratique était tout à fait démoli. "Ma fille se *bat* avec le
 charme de la Très Ancienne Lame alors qu'elle est en première année. Je
-n'avais jamais su… qu'elle possédait un talent aussi extraordinaire… »
+n'avais jamais su… qu'elle possédait un talent aussi extraordinaire…"
 
-« Excellent sang, » dit Charles Nott d'un ton approbateur, ce qui fit
+"Excellent sang," dit Charles Nott d'un ton approbateur, ce qui fit
 grogner Augusta.
 
-« Ma bonne Dame, » dit le professeur Quirrell d'un ton grave. « Ne faites
+"Ma bonne Dame," dit le professeur Quirrell d'un ton grave. "Ne faites
 pas ainsi tort à votre fille. Ce n'est pas que du *talent* que vous
-voyez là. » Sa voix devint un peu plus sèche. « *Ça*, c'est ce qui se
+voyez là." Sa voix devint un peu plus sèche. "*Ça*, c'est ce qui se
 passe quand de jeunes sorciers et sorcières investissent leurs efforts
 dans une compétition qui, au contraire du Quidditch ou de la bataille
 explosive, met en jeu – pour le dire franchement – une véritable
-pratique de la magie. »
+pratique de la magie."
 
-
+ 
 
 ------------------------------------------------------------------------
 
+ 
 
-
-« *Expelliarmus ! »* s'écria Drago en essayant d'empêcher sa voix de se
+"*Expelliarmus !"* s'écria Drago en essayant d'empêcher sa voix de se
 briser et en esquivant en même temps le jet rouge que Hermione Granger
 avait tiré vers lui. Ses muscles se tordirent pour bondir dans la
-mauvaise direction : elle avait pointé vers la gauche puis d'une
+mauvaise direction : elle avait pointé vers la gauche puis d'une
 mystérieuse convulsion avait tiré vers la droite…
 
 Hermione évita le rapide sortilège de duelliste et s'écria sans s'être
-le moins du monde interrompue : « *Steleus ! »*, un maléfice à effet de
+le moins du monde interrompue : "*Steleus !"*, un maléfice à effet de
 zone que Drago ne pouvait pas éviter, mais il réussit à diriger sa
-baguette vers son propre visage et à s'écrier « *Quiescus ! »* avant que
+baguette vers son propre visage et à s'écrier "*Quiescus !"* avant que
 le besoin soudain d'inspirer de l'air ne se transforme en une quinte de
 tout qui aurait mis fin à la bataille.
 
@@ -1361,15 +1361,15 @@ le professeur Quirrell avaient dédaigné Mlle Granger, lui attribuant
 autant d'intention de tuer que n'en aurait un bol de raisins mûrs, *ils
 ne l'avaient pas encore vue en colère.*
 
-
+ 
 
 ------------------------------------------------------------------------
 
-
+ 
 
 Daphné frappa de son Ancienne Lame, toujours sans essayer de frapper
 fort mais en la déplaçant aussi vite que possible tandis qu'au même
-instant Hannah criait « *Somnium ! »* et que Neville bondissait de nouveau
+instant Hannah criait "*Somnium !"* et que Neville bondissait de nouveau
 vers l'arrière, mais ça avait été un autre bluff, et Hannah s'avança
 pour tirer un véritable sort, presque à bout portant…
 
@@ -1400,24 +1400,24 @@ déchargeait dans son corps et du sortilège de sommeil de Hannah qui
 prenait effet. Le dernier descendant des Londubat se retrouva alors
 étendu au sol, un air de surprise total cristallisé sur le visage.
 
-
-
-------------------------------------------------------------------------
-
-
-
-« Aujourd'hui, M. Londubat a appris une précieuse leçon quant à son
-sentiment de pitié et de remord, » dit le professeur Quirrell.
-
-« Et de chevalerie, » dit Amelia, sirotant de nouveau son thé.
-
-
+ 
 
 ------------------------------------------------------------------------
 
+ 
 
+"Aujourd'hui, M. Londubat a appris une précieuse leçon quant à son
+sentiment de pitié et de remord," dit le professeur Quirrell.
 
-« Tu vas bien ? » chuchota Daphné, surplombant Hannah afin de la protéger
+"Et de chevalerie," dit Amelia, sirotant de nouveau son thé.
+
+ 
+
+------------------------------------------------------------------------
+
+ 
+
+"Tu vas bien ?" chuchota Daphné, surplombant Hannah afin de la protéger
 tandis que cette dernière, étendue au sol, se tenait le ventre. Cette
 dernière ne répondit rien hormis d'autres sons de gorges qui laissaient
 penser que Hannah essayait de ne pas vomir tout en s'efforçant de ne pas
@@ -1436,7 +1436,7 @@ continuer leur attaque. Même Tracey avait entièrement laissé tomber son
 air sinistre et elle se balançait nerveusement d'un pied sur l'autre,
 comme si elle avait du mal à se souvenir dans quel camp elle était…
 
-« *Arrêtez ! »* hurla une voix. « *Arrêtez la bataille ! »*
+"*Arrêtez !"* hurla une voix. "*Arrêtez la bataille !"*
 
 Il n'y avait de toute façon pas de bataille en cours à proprement
 parler, mais on s'arrêta.
@@ -1445,45 +1445,45 @@ Le général Potter, plus Survivant que jamais, émergea des bois d'un pas
 vif avec quelque chose de grand et de recouvert par du tissu de
 camouflage maintenu sous le bras.
 
-« Mlle Abbott respire-t-elle bien ? » cria le général Potter.
+"Mlle Abbott respire-t-elle bien ?" cria le général Potter.
 
 Daphné ne regarda pas en arrière. Elle ne rejetait pas la possibilité
 qu'il s'agisse d'un piège – il était absolument certain que si les
 chaotiques se saisissaient de cette opportunité et attaquaient, le
 professeur Quirrell ne déclarerait pas seulement ce coup légal, il leur
 donnerait ensuite des points supplémentaires. Mais Daphné pouvait fort
-bien entendre la réponse ; ce n'était pas comme si Hannah essayait de
-respirer *discrètement*, et elle répondit donc : « Plus ou moins. »
+bien entendre la réponse ; ce n'était pas comme si Hannah essayait de
+respirer *discrètement*, et elle répondit donc : "Plus ou moins."
 
-« Elle devrait sortir de là et aller voir quelqu'un qui peut utiliser des
-sortilèges de soin, » dit Harry. « Juste au cas où le coup aurait cassé
-quelque chose. »
+"Elle devrait sortir de là et aller voir quelqu'un qui peut utiliser des
+sortilèges de soin," dit Harry. "Juste au cas où le coup aurait cassé
+quelque chose."
 
-De derrière Daphné, une petite voix haletante dit : « Je… peux… encore…
-me battre… »
+De derrière Daphné, une petite voix haletante dit : "Je… peux… encore…
+me battre…"
 
-« Mlle Abbott, ne… » dit Harry au moment même ou le son de quelqu'un qui
+"Mlle Abbott, ne…" dit Harry au moment même ou le son de quelqu'un qui
 s'effondrait après avoir essayé de se relever survint derrière Daphné.
 Tout le monde grimaça mais Daphné ne fit pas dos à Harry.
 
-« Pourquoi les professeur n'ont-ils pas interrompu la bataille ? » demanda
+"Pourquoi les professeur n'ont-ils pas interrompu la bataille ?" demanda
 Susan avec colère.
 
-« Je suppose que c'est parce que Mlle Abbott ne risque pas de dommages
+"Je suppose que c'est parce que Mlle Abbott ne risque pas de dommages
 permanents et que le professeur Quirrell pense que nous sommes en train
-d'apprendre de précieuses leçons, » dit Harry d'une voix dure. « Écoutez,
+d'apprendre de précieuses leçons," dit Harry d'une voix dure. "Écoutez,
 Mlle Abbott, si vous partez, Tracey se retirera de la bataille. Vous
 êtes déjà en surnombre, alors cette offre vous avantage beaucoup.
-Acceptez-la, s'il vous plaît. »
+Acceptez-la, s'il vous plaît."
 
-« Hannah, *pars* ! » dit Daphné. « Enfin, dis juste que tu es hors jeu ! »
+"Hannah, *pars* !" dit Daphné. "Enfin, dis juste que tu es hors jeu !"
 
 Lorsque Daphné jeta un regard en arrière elle vit que Hannah secouait la
 tête, toujours roulée en boule sur l'herbe.
 
-« Bon, ça suffit, » dit Harry. « *Chaotiques ! Plus vite on les étourdi
-plus vite elle sortira d'ici ! On va faire ça très vite même si on doit
-subir des pertes ! Fin de la trêve ! POISSONTHON ! »*
+"Bon, ça suffit," dit Harry. "*Chaotiques ! Plus vite on les étourdi
+plus vite elle sortira d'ici ! On va faire ça très vite même si on doit
+subir des pertes ! Fin de la trêve ! POISSONTHON !"*
 
 La partie politique du cerveau de Daphné n'eut qu'un instant pour
 admirer comment les quelques mots de Harry venaient de mettre les
@@ -1524,20 +1524,20 @@ ne l'emporte.
 
 Ce qui restait de la bataille n'en eut plus pour longtemps.
 
-
+ 
 
 ------------------------------------------------------------------------
 
+ 
 
-
-« MAINTENANT ! » mugit Blaise Zabini, anciennement du Soleil, à présent
-commandeur d'un détachement de légionnaires du Chaos. « Je veux dire,
-POISSONTHON ! » La main du Serpentard se saisit du tissu qui protégeait
+"MAINTENANT !" mugit Blaise Zabini, anciennement du Soleil, à présent
+commandeur d'un détachement de légionnaires du Chaos. "Je veux dire,
+POISSONTHON !" La main du Serpentard se saisit du tissu qui protégeait
 le chaudron de la caresse du jour, qui était l'élément déclencheur, et
 commença déjà à l'écarter.
 
-« MAINTENANT ! » mugit Dean Thomas, anciennement du Chaos, commandeur d'un
-lot de guerriers dragons. « QUOI QU'ILS FASSENT, FAITES PAREIL ! »
+"MAINTENANT !" mugit Dean Thomas, anciennement du Chaos, commandeur d'un
+lot de guerriers dragons. "QUOI QU'ILS FASSENT, FAITES PAREIL !"
 
 Les chaotiques du détachement de Zabini plongèrent leur main dans une
 poche de leur uniforme et s'avancèrent, des lunettes de soleil vertes en
@@ -1554,33 +1554,33 @@ légion du Chaos portait des lunettes de potions vertes, il n'y avait pas
 besoin de savoir *pourquoi* pour pouvoir en métamorphoser quelques
 exemplaires).
 
-« C'EST DE LA TRICHE ! » s'écria Blaise Zabini.
+"C'EST DE LA TRICHE !" s'écria Blaise Zabini.
 
-« C'EST DE LA TECHNIQUE ! » hurla Dean en retour. « DRAGONS, CHARGEZ ! »
+"C'EST DE LA TECHNIQUE !" hurla Dean en retour. "DRAGONS, CHARGEZ !"
 
-(« Excusez-moi, » dit Dame Greengrass. « Pourriez-vous arrêter de *rire*
-comme ça, M. Quirrell ? C'est assez déconcertant. »)
+("Excusez-moi," dit Dame Greengrass. "Pourriez-vous arrêter de *rire*
+comme ça, M. Quirrell ? C'est assez déconcertant.")
 
-« LANCEZ FINITE SUR LEURS LUNETTES ! » hurla Blaise Zabini alors que les
+"LANCEZ FINITE SUR LEURS LUNETTES !" hurla Blaise Zabini alors que les
 deux armées se ruaient droit l'une sur l'autre au sein de l'éclat violet
-omniprésent et aveuglant. « ON PEUT ENCORE GAGNER ! »
+omniprésent et aveuglant. "ON PEUT ENCORE GAGNER !"
 
-« VOUS L'AVEZ ENTENDU ! » mugit Dean. « À LEURS LUNETTES ! »
+"VOUS L'AVEZ ENTENDU !" mugit Dean. "À LEURS LUNETTES !"
 
 La réponse de Blaise Zabini fut loin d'être construite.
 
 Cette bataille continua bien plus longtemps.
 
-
+ 
 
 ------------------------------------------------------------------------
 
+ 
 
-
-« *Stupéfix ! »* s'écria le général Soleil.
+"*Stupéfix !"* s'écria le général Soleil.
 
 Drago n'évita ni ne contra car il n'avait plus assez d'énergie pour
-faire l'un ou l'autre ; il ne put que vite mettre sa main en position et
+faire l'un ou l'autre ; il ne put que vite mettre sa main en position et
 espérer…
 
 Le tir rouge se dissipa de nouveau sur le gant *Collaporté* de Drago
@@ -1601,19 +1601,19 @@ quels que soient les mouvements de ce dernier. Ses yeux étincelaient,
 ses joues étaient empourprées de rage.
 
 *Alors petite, pourquoi est-ce que tu fais semblant de te battre comme
-une grande aujourd'hui ?*
+une grande aujourd'hui ?*
 
 La raillerie lui vint à l'esprit mais il ne pensait pas avoir besoin
-d'une Granger encore plus en colère ; alors Drago dit juste – bien qu'il
-puisse entendre sa propre voix se briser - « Tu as une raison
-particulière de m'en vouloir, Granger ? »
+d'une Granger encore plus en colère ; alors Drago dit juste – bien qu'il
+puisse entendre sa propre voix se briser - "Tu as une raison
+particulière de m'en vouloir, Granger ?"
 
-La fille haletait à la recherche d'oxygène, sa voix chancelait : « Je
-sais ce que tu prépares, » dit Hermione Granger, montant d'une octave.
-« Je sais ce que Rogue et toi préparez, Malfoy, et je sais qui est
-derrière ça ! »
+La fille haletait à la recherche d'oxygène, sa voix chancelait : "Je
+sais ce que tu prépares," dit Hermione Granger, montant d'une octave.
+"Je sais ce que Rogue et toi préparez, Malfoy, et je sais qui est
+derrière ça !"
 
-« Hein ? » dit Drago sans même réfléchir.
+"Hein ?" dit Drago sans même réfléchir.
 
 Cela ne sembla qu'augmenter la furie de Granger, ses doigts se
 blanchirent sur la baguette qu'elle tenait braquée sur lui.
@@ -1621,10 +1621,10 @@ blanchirent sur la baguette qu'elle tenait braquée sur lui.
 Et Drago comprit alors, et son sang en bouillit. Même *elle* pensait
 qu'il manigançait secrètement quelque chose contre elle…
 
-« *Toi aussi ? »* cria Drago. « *Je t'ai aidée, petite morveuse aux dents
-de lapin ! Tu, tu, tu, »* - il bégaya entre tous les sortilèges noirs qui
+"*Toi aussi ?"* cria Drago. "*Je t'ai aidée, petite morveuse aux dents
+de lapin ! Tu, tu, tu,"* - il bégaya entre tous les sortilèges noirs qui
 lui vinrent à l'esprit jusqu'à trouver quelque chose qu'il puisse
-vraiment lui lancer - « *DENSAUGEO ! »*
+vraiment lui lancer - "*DENSAUGEO !"*
 
 Mais Granger bondit et tourbillonna autour du sortilège d'allongement
 dentaire puis sa propre baguette acheva de tourner et se retrouva
@@ -1634,7 +1634,7 @@ fermé entre lui et ce qu'elle était sur le point de tirer, quand le
 général Soleil poussa un cri audible à travers tout le champ de
 bataille…
 
-« *ALOHOMORA ! »*
+"*ALOHOMORA !"*
 
 Le temps aurait dû s'arrêter.
 
@@ -1652,16 +1652,16 @@ Poudlard.
 
 Et le silence de mort qui s'abattit alors sur chaque banc de chaque
 gradin révéla que tout le monde comprenait très clairement ce que cela
-voulait dire : que le descendant de la maison Malfoy venait de voir sa
+voulait dire : que le descendant de la maison Malfoy venait de voir sa
 magie surmontée par celle d'une née-Moldue.
 
 Hermione Granger ne s'arrêta pas de combattre, elle n'émit aucun signe
-indiquant qu'elle savait même ce qu'elle venait de faire ; mais son pied
+indiquant qu'elle savait même ce qu'elle venait de faire ; mais son pied
 jaillit et donna un coup à la manière moldue qui fit sauter la baguette
 de Drago hors de sa main. Le corps et l'esprit encore choqués de Drago
 avaient réagit un peu trop lentement. Drago plongea sur sa baguette,
 fouilla le sol avec frénésie, mais de derrière lui la voix brisée d'une
-fille dit « *Somnium ! »*, et Drago Malfoy tomba pour ne pas se relever.
+fille dit "*Somnium !"*, et Drago Malfoy tomba pour ne pas se relever.
 
 Il y eut un autre moment de silence figé. Le général Soleil vacillait et
 donnait l'impression de risquer de s'évanouir.
@@ -1669,14 +1669,14 @@ donnait l'impression de risquer de s'évanouir.
 Puis les guerriers dragons hurlèrent à pleins poumons et chargèrent pour
 venger leur commandant tombé.
 
-
+ 
 
 ------------------------------------------------------------------------
 
-
+ 
 
 M. et Mme Davis tremblaient en se levant des confortables chaises de la
-loge professorale du stade de Quidditch ; ils ne pouvaient pas vraiment
+loge professorale du stade de Quidditch ; ils ne pouvaient pas vraiment
 s'agripper l'un à l'autre en marchant mais ils se tenaient la main
 fermement et prétendait être invisibles du plus fort qu'ils le
 pouvaient. S'ils avaient été des enfants assez jeunes pour générer de la
@@ -1692,7 +1692,7 @@ Ils se détournèrent tous les trois sans s'arrêter et s'avancèrent
 rapidement vers l'escalier qui menait aux gradins surélevés, se
 déplaçant d'un concert inquiétant, comme un trio d'Aurors…
 
-« Lord Malfoy, » dit le professeur de Défense avec douceur. L'homme était
+"Lord Malfoy," dit le professeur de Défense avec douceur. L'homme était
 toujours assis sur sa chaise et regardait ses écrans-parchemins, ses
 bras flasques le long de ses flancs, comme s'il n'avait pas
 particulièrement envie de bouger.
@@ -1703,55 +1703,55 @@ aussi, l'encadrant. La tête de Lord Malfoy se tourna, trop légèrement
 pour que le geste soit pris comme le moindre signe de réponse, mais
 toutefois vers le professeur de Défense.
 
-« Votre fils a accompli une performance exceptionnelle aujourd'hui, » dit
-le professeur Quirrell. « Je dois avouer que je l'ai sous-estimé. Et
-comme vous l'avez vu, il a gagné la loyauté de son armée. » Toujours très
-douce, la voix du professeur de Défense. « En tant que professeur de
+"Votre fils a accompli une performance exceptionnelle aujourd'hui," dit
+le professeur Quirrell. "Je dois avouer que je l'ai sous-estimé. Et
+comme vous l'avez vu, il a gagné la loyauté de son armée." Toujours très
+douce, la voix du professeur de Défense. "En tant que professeur de
 votre fils, je suis de l'avis que votre fils ne bénéficiera pas d'une
-interférence de votre part dans cette - »
+interférence de votre part dans cette -"
 
 Lord Malfoy et ses comparses disparurent le long des escaliers.
 
-« Un belle tentative Quirinus, » dit doucement Dumbledore. Le visage du
+"Un belle tentative Quirinus," dit doucement Dumbledore. Le visage du
 vieux sorcier révélait de petites rides d'inquiétude. Lui non plus ne
 s'était pas levé de son siège et regardait les écrans-parchemins comme
-s'ils étaient encore allumés. « Pensez-vous qu'il écoutera ? »
+s'ils étaient encore allumés. "Pensez-vous qu'il écoutera ?"
 
 Les épaules du professeur de Défense eurent un bref haussement saccadé,
 seul mouvement du professeur depuis la fin de la bataille.
 
-« *Eh bien*, » dit Dame Greengrass en se levant, en se faisant craquer les
-doigts et en s'étirant, son mari silencieux à côté d'elle. « Je dois dire
-que c'était assez…intéressant… »
+"*Eh bien*," dit Dame Greengrass en se levant, en se faisant craquer les
+doigts et en s'étirant, son mari silencieux à côté d'elle. "Je dois dire
+que c'était assez…intéressant…"
 
 Amelia Bones s'était levée de son siège rembourré sans faire de
-manières. « Intéressant, en effet, » dit-elle. « Je confesse être perturbée
-par l'habileté avec laquelle ces enfants se battaient. »
+manières. "Intéressant, en effet," dit-elle. "Je confesse être perturbée
+par l'habileté avec laquelle ces enfants se battaient."
 
-« L'habileté ? » dit Lord Greengrass. « Leurs sortilèges ne me semblaient
-pas si impressionnants que ça. Sauf celui de Daphné, bien sûr. »
+"L'habileté ?" dit Lord Greengrass. "Leurs sortilèges ne me semblaient
+pas si impressionnants que ça. Sauf celui de Daphné, bien sûr."
 
 La vieille sorcière ne détourna pas ses yeux du crâne dégarni du
-professeur Quirrell. « Le sortilège d'étourdissement n'est pas enseigné
+professeur Quirrell. "Le sortilège d'étourdissement n'est pas enseigné
 en première année, Lord Greengrass, mais ce n'est pas cette sorte
 d'habileté que j'avais à l'esprit. Ils se soutenaient les uns les autres
-grâce à des sorts simples, ils réagissaient rapidement aux surprises… »
+grâce à des sorts simples, ils réagissaient rapidement aux surprises…"
 La directrice du département de justice magique s'interrompit comme si
-elle cherchait des mots qu'un simple civil pourrait comprendre. « Au cœur
-de la bataille, » dit-elle enfin, « alors que des sortilèges volaient en
-tous sens… ces enfants se sentaient comme chez eux. »
+elle cherchait des mots qu'un simple civil pourrait comprendre. "Au cœur
+de la bataille," dit-elle enfin, "alors que des sortilèges volaient en
+tous sens… ces enfants se sentaient comme chez eux."
 
-« Tout à fait, Mme la directrice, » dit le professeur de Défense.
-« Certains arts gagnent à être pratiqués jeune. »
+"Tout à fait, Mme la directrice," dit le professeur de Défense.
+"Certains arts gagnent à être pratiqués jeune."
 
-Les yeux de la vieille sorcière se plissèrent. « Vous les préparez à
-devenir une force militaire, professeur. À quelle fin ? »
+Les yeux de la vieille sorcière se plissèrent. "Vous les préparez à
+devenir une force militaire, professeur. À quelle fin ?"
 
-« Attendez ! » s'interposa Lord Greengrass. « Il y a plein d'écoles où l'on
-enseigne l'art du duel en première année ! »
+"Attendez !" s'interposa Lord Greengrass. "Il y a plein d'écoles où l'on
+enseigne l'art du duel en première année !"
 
-« Le duel ? » dit le professeur de Défense. De derrière, on ne pouvait pas
-dire si le pâle visage souriait. « Cela n'est *rien*, Lord Greengrass,
+"Le duel ?" dit le professeur de Défense. De derrière, on ne pouvait pas
+dire si le pâle visage souriait. "Cela n'est *rien*, Lord Greengrass,
 comparé à ce que mes élèves ont appris. Ils ont appris à ne pas hésiter
 face aux embuscades et à des ennemis plus puissants qu'eux. Ils ont
 appris à s'adapter lorsque les conditions de combat changent encore et
@@ -1761,20 +1761,20 @@ Ils ont appris que pour survivre, il leur faut suivre des ordres.
 Certains ont même appris un peu de créativité. Oh non, Lord Greengrass,
 *ces* sorciers ne se cacheront pas dans leur manoir en attendant qu'on
 les protège lorsque la prochaine menace viendra. Ils sauront qu'ils sont
-capables de se battre. »
+capables de se battre."
 
 Par trois fois, Augusta Londubat applaudit bruyamment.
 
-
+ 
 
 ------------------------------------------------------------------------
 
-
+ 
 
 *Nous avons gagné.*
 
 C'était la première chose que Drago avait entendue quand il s'était
-réveillé sur le champ de bataille : Padma qui lui racontait comment ses
+réveillé sur le champ de bataille : Padma qui lui racontait comment ses
 soldats s'étaient rassemblés après qu'il fut tombé. Comment, grâce à la
 prévoyance du général Dragon, M. Thomas avait mené son détachement
 jusqu'à une victoire contre Chaos. Comment le général Potter avait
@@ -1831,7 +1831,7 @@ Mais même si c'était vrai, personne n'allait *croire* ça. Même à
 Serpentard, personne n'allait croire ça. Ça *ressemblait* à une excuse
 et tout le monde n'y verrait qu'une excuse.
 
-*Granger bondit, tourbillonna et s'écria 'ALOHOMORA !'…*
+*Granger bondit, tourbillonna et s'écria 'ALOHOMORA !'…*
 
 L'esprit de Drago rejouait le souvenir encore et encore, à mesure que la
 rancœur s'accumulait. Il avait *aidé* Granger… il avait coopéré avec
@@ -1854,7 +1854,7 @@ vaincre en un contre un, en public, pas avec des techniques de duel
 astucieuses mais en *l'écrasant* de sa magie. La battre à plates
 coutures, complètement, la *broyer* aussi parfaitement que le Seigneur
 des Ténèbres lui-même avait broyé ses ennemis. Le rendre parfaitement
-clair à tous, empêcher que quiconque en doute : Drago Malfoy avait
+clair à tous, empêcher que quiconque en doute : Drago Malfoy avait
 simplement été épuisé à force de lancer le sortilège autant de fois
 d'affilée. Prouver que le sang Malfoy était plus fort que celui de
 n'importe quel Sang-de-Bourbe…
@@ -1862,7 +1862,7 @@ n'importe quel Sang-de-Bourbe…
 *Sauf qu'il ne l'est pas*, murmura la voix de Harry Potter dans l'esprit
 de Drago. *Il est facile d'oublier ce qui est réellement vrai, Drago,
 quand on commence à essayer de gagner en politique. Mais en réalité, il
-n'y a qu'une seule chose qui fait de toi un sorcier, tu t'en souviens ?*
+n'y a qu'une seule chose qui fait de toi un sorcier, tu t'en souviens ?*
 
 Drago le sut alors, il sut la raison derrière l'anxiété de ses
 arrières-pensées, face au mur vide derrière son bureau, contemplant son
@@ -1876,7 +1876,7 @@ volant vers son visage, et de bout en bout, la furie dans les yeux de
 Granger…*
 
 Une partie de Drago avait *admiré* cela, avant que tout tourne mal,
-admiré la furie de Granger et son pouvoir ; une partie de lui avait
+admiré la furie de Granger et son pouvoir ; une partie de lui avait
 exulté de vivre son premier *vrai* combat, contre…
 
 …le premier adversaire à sa hauteur.
@@ -1928,12 +1928,12 @@ chaque lettre comme si chacune avait été une œuvre d'art à part entière.
 *De Drago, fils de Lucius, fils d'Abraxis, Lords de la Noble et Très
 Ancienne maison Malfoy, aussi fils de Narcissa, fille de Druella Dame de
 la Noble et Très Ancienne maison Black, descendant et héritier de la
-Noble et Très Ancienne maison Malfoy :*
+Noble et Très Ancienne maison Malfoy :*
 
-*À Hermione, la première Granger :*
+*À Hermione, la première Granger :*
 
 (On avait peut-être utilisé cette formule par politesse il y a bien
-longtemps quand elle avait été inventée ; de nos jours, après des
+longtemps quand elle avait été inventée ; de nos jours, après des
 siècles à être utilisée pour s'adresser à des Sang-de-Bourbe, elle
 portait avec elle un délicieux soupçon de venin raffiné).
 
@@ -1945,7 +1945,7 @@ voulait pouvoir imposer ses conditions de duel. La personne provoquée
 avait le choix des termes *à moins* d'avoir insulté une maison Noble. Il
 lui fallait donner l'impression que Granger l'avait insulté…
 
-Mais à quoi songeait-il donc ? Granger *l'avait* insulté.
+Mais à quoi songeait-il donc ? Granger *l'avait* insulté.
 
 Drago fit défiler les pages jusqu'à atteindre celle des formules
 standard et en trouva une qui lui sembla appropriée.
@@ -1953,14 +1953,14 @@ standard et en trouva une qui lui sembla appropriée.
 *Moi, Drago, d'une Très Ancienne maison, demande réparation, pour vous
 avoir par trois fois aidé et offert seulement ma bienveillance et qu'en
 retour vous m'accusiez
-<span style=« text-decoration : underline ; »>faussement</span> de comploter
+<span style="text-decoration: underline;">faussement</span> de comploter
 contre vous,*
 
 Drago dut s'arrêter, reprendre son souffle et forcer la colère
 bouillonnante à retomber. Il commençait à vraiment *ressentir* l'insulte
 à présent, et il venait d'écrire la dernière phrase et de la souligner
 sans y penser, comme si c'était une lettre ordinaire. Après y avoir
-réfléchi quelques instants, il décida de la laisser telle quelle ; ce
+réfléchi quelques instants, il décida de la laisser telle quelle ; ce
 n'était peut-être pas la formulation la plus officielle mais elle avait
 un ton brut et colérique qui semblait approprié.
 
@@ -1969,14 +1969,14 @@ un ton brut et colérique qui semblait approprié.
 *Ainsi, moi, Drago, vous assujettis, Hermione, par tradition, par droit,
 par*
 
-« La dix-septième décision du trente et unième Magenmagot, » dit Drago à
+"La dix-septième décision du trente et unième Magenmagot," dit Drago à
 voix haute et sans vérifier, une réplique donnée dans de nombreuses
-pièces ; il se raidit en la disant et sentit chaque once du pouls de
+pièces ; il se raidit en la disant et sentit chaque once du pouls de
 sang noble qui coulait dans ses veines.
 
 *Ainsi, moi, Drago, vous assujettis, Hermione, par tradition, par droit,
 par la 17^ème^ décision du 31^ème^ Magenmagot, à me faire face lors d'un
-duel magique selon les termes suivants : que nous nous présentions tous
+duel magique selon les termes suivants : que nous nous présentions tous
 deux seuls et en silence, que nous n'en parlions à personne ni avant ni
 après,*
 
@@ -1988,7 +1988,7 @@ pas tricher mais c'était de la Science, et c'était presque aussi bien.
 *que nous combattions par magie uniquement, sans mort ni blessure
 durable,*
 
-…où ? Drago avait entendu parler d'une pièce de Poudlard qui était
+…où ? Drago avait entendu parler d'une pièce de Poudlard qui était
 propice aux duels, où tous les objets de valeur étaient déjà protégés
 par les lieux et où il n'y avait aucun portrait pour cafarder… quelle
 était cette pièce déjà…
@@ -2006,7 +2006,7 @@ combattre Granger pour la première fois *cette nuit*.
 *Drago, de la Noble et Très Ancienne maison Malfoy.*
 
 Drago signa le parchemin officiel puis tira un parchemin ordinaire et
-inférieur ainsi que son encre habituelle, pour son post-scriptum :
+inférieur ainsi que son encre habituelle, pour son post-scriptum :
 
 *Si tu ne connais pas les règles, Granger, voilà comment ça fonctionne.
 Tu as insulté une maison Très Ancienne et j'ai le droit légal de te
@@ -2021,11 +2021,11 @@ Sa plume s'appuya sur la dernière lettre avec tant de hargne sur son bec
 se brisa, créant une traînée d'encre et une légère éraflure à la surface
 du parchemin que Drago jugea elles aussi être de de circonstance.
 
-
+ 
 
 ------------------------------------------------------------------------
 
-
+ 
 
 Ce soir là au dîner, Susan Bones alla voir Harry Potter et lui dit
 qu'elle soupçonnait que Drago Malfoy allait mettre son plan contre
@@ -2088,11 +2088,11 @@ qu'il parlerait *ensuite* à Hermione.
 
 Les humains faisaient ce genre de chose en permanence.
 
-
+ 
 
 ------------------------------------------------------------------------
 
-
+ 
 
 Nous étions dimanche matin, le 5 avril 1992, et le ciel simulé au-dessus
 de la grande salle de Poudlard révélait des torrents de pluie qui
@@ -2122,29 +2122,29 @@ Hermione était assise juste à côté de lui à la table Serdaigle,
 exactement comme elle n'avait pas arrêté de faire ça depuis plus d'un
 semaine.
 
-« Salut, Harry, » dit Hermione d'une voix qui était presque parfaitement
+"Salut, Harry," dit Hermione d'une voix qui était presque parfaitement
 normale. Elle commença à mettre des tranches de pain grillé et un
-assortiment de fruits et de légumes sur son assiette. « Comment ça va ? »
+assortiment de fruits et de légumes sur son assiette. "Comment ça va ?"
 
-« À un écart type de l'étrange moyenne qui m'est propre, » répondit Harry
-automatiquement. « Comment vas-tu, *toi* ? Est-ce que tu as dormi
-correctement ? »
+"À un écart type de l'étrange moyenne qui m'est propre," répondit Harry
+automatiquement. "Comment vas-tu, *toi* ? Est-ce que tu as dormi
+correctement ?"
 
 Il y avait des cernes sombres sous les yeux de Hermione.
 
-« Oui pourquoi, je vais très bien, » répondit Hermione Granger.
+"Oui pourquoi, je vais très bien," répondit Hermione Granger.
 
-« Hmm, » dit Harry. Il prit une part de tarte de son assiette (comme son
+"Hmm," dit Harry. Il prit une part de tarte de son assiette (comme son
 cerveau avait d'autres préoccupations, sa main avait simplement pris
 l'objet le plus savoureux à portée sans évaluer des concepts complexes
-tels que le positionnement du dessert dans un repas normal). « Hmm,
+tels que le positionnement du dessert dans un repas normal). "Hmm,
 Hermione, je vais devoir discuter avec toi un peu plus tard aujourd'hui,
-est-ce que ça te va ? »
+est-ce que ça te va ?"
 
-« Bien sûr, » répondit-elle. « Pourquoi est-ce que ça n'irait pas ? »
+"Bien sûr," répondit-elle. "Pourquoi est-ce que ça n'irait pas ?"
 
-« Parce que… » dit Harry. « Je veux dire… toi et moi *n'avons pas*… pendant
-les derniers jours… »
+"Parce que…" dit Harry. "Je veux dire… toi et moi *n'avons pas*… pendant
+les derniers jours… "
 
 *La ferme*, suggéra un composant interne de Harry qui semblait avoir été
 récemment alloué à la résolution des problèmes liés à Hermione.
@@ -2158,11 +2158,11 @@ Harry détourna les yeux de Hermione et commença à manger une part de
 tarte qui, comme il le découvrait à l'instant, venait de se matérialiser
 dans son assiette.
 
-« Donc ! » dit soudain Hermione Granger après avoir silencieusement
-expédié quasiment tout le contenu de son assiette. « Il se passe quelque
-chose aujourd'hui ? »
+"Donc !" dit soudain Hermione Granger après avoir silencieusement
+expédié quasiment tout le contenu de son assiette. "Il se passe quelque
+chose aujourd'hui ?"
 
-« Euh… » dit Harry. Il regarda autour de lui avec désespoir comme à la
+"Euh…" dit Harry. Il regarda autour de lui avec désespoir comme à la
 recherche d'une chose-se-passant qu'il aurait pu utiliser comme chair à
 conversation.
 
@@ -2178,19 +2178,19 @@ la salle, ses longs cheveux noirs attachés dans son dos en queue de
 cheval. Un homme fin, pâle et mal rasé, avec un visage si inexpressif
 qu'on l'aurait cru de pierre. Harry mit un moment à remettre les visages
 et à se souvenir des noms, de ce lointain jour de janvier où le
-Détraqueur était venu à Poudlard : *Komodo, Butnaru, Goryanof*.
+Détraqueur était venu à Poudlard : *Komodo, Butnaru, Goryanof*.
 
-« Un trio d'Aurors ? » dit Hermione d'une voix étrangement joyeuse. « Eh
-bien, je me demande ce qu'ils font ici. »
+"Un trio d'Aurors ?" dit Hermione d'une voix étrangement joyeuse. "Eh
+bien, je me demande ce qu'ils font ici."
 
 Dumbledore était lui aussi avec eux, l'air plus inquiet que Harry ne
-l'avait jamais vu ; et après quelques instants d'immobilité pendant
+l'avait jamais vu ; et après quelques instants d'immobilité pendant
 lesquels les yeux du sorcier parcoururent la grande salle et que les
 élèves murmurèrent par-dessus leurs assiettes, il pointa le doigt…
 
 …droit vers Harry.
 
-« Oh, *quoi* maintenant, » marmonna Harry. Ses pensées étaient bien plus
+"Oh, *quoi* maintenant," marmonna Harry. Ses pensées étaient bien plus
 paniquées et il se demandait avec désespoir si quiconque était parvenu à
 le relier à l'intrusion à Azkaban. Il regarda la table d'honneur en
 essayant de rendre son coup d'œil nonchalant et se rendit compte que le
@@ -2206,8 +2206,8 @@ Toutes les conversations s'était figées en un silence absolu.
 Les Aurors s'approchèrent de la place de Harry et l'encerclèrent sur
 trois côtés.
 
-« Oui ? » dit Harry aussi normalement que possible. « Qu'y a-t-il ? »
+"Oui ?" dit Harry aussi normalement que possible. "Qu'y a-t-il ?"
 
-« Hermione Granger, » dit Auror Komodo d'une voix sans timbre, « vous êtes
-en état d'arrestation pour avoir tenté d'assassiner Drago Malfoy. »
+"Hermione Granger," dit Auror Komodo d'une voix sans timbre, "vous êtes
+en état d'arrestation pour avoir tenté d'assassiner Drago Malfoy."
 

@@ -28,17 +28,17 @@ gourdin au-dessus de sa tête.
 
 Puis un Weasley hurla une incantation et le gourdin fut arraché de la
 main du troll et s'écrasa sur le crâne de ce dernier avec tant de force
-qu'il recula d'un pas ; la force aurait tué un Moldu. Le troll eut un
+qu'il recula d'un pas ; la force aurait tué un Moldu. Le troll eut un
 mugissement de colère, son nez était aplatit et constellé de sang, mais
 alors le nez se redressa et se régénéra. Le troll lança ses deux mains
 vers le gourdin qui jaillit en l'air mais n'évita qu'à peine le geste.
 
-« Éloignez-le, gardez-le loin de moi, » dit une voix.
+"Éloignez-le, gardez-le loin de moi," dit une voix.
 
 Le gourdin en lévitation recula devant le troll, alla de la terrasse
-vers l'espace ouvert sous la toiture ; et le troll fit un bond
+vers l'espace ouvert sous la toiture ; et le troll fit un bond
 prodigieux qui amena presque le gourdin dans ses mains. Puis il fit un
-autre grand bond quand le gourdin fit un mouvement de côté ; Le balais
+autre grand bond quand le gourdin fit un mouvement de côté ; Le balais
 volant s'avança, Harry en sauta et courut vers l'endroit où Hermione
 Granger gisait dans une flaque de son propre sang, ses jambes dévorées
 jusqu'en haut des cuisses.
@@ -55,24 +55,24 @@ et même la partie de lui qui ramassait l'autre garrot auto-serrant
 l'entendit, mais cela non plus n'était pas permis.
 
 Les deux jumeaux Weasley criaient des sortilèges l'un après l'autre, à
-une vitesse qui aurait rendu Harry inconscient en soixante secondes ;
+une vitesse qui aurait rendu Harry inconscient en soixante secondes ;
 parfois les jumeaux criaient simultanément deux sortilèges avec une
 coordination parfaite, mais la plupart éclataient en une inoffensive
 douche d'étincelles contre la peau du troll. Alors que l'autre
 tourniquet se resserrait autour d'une autre effusion de sang, Harry leva
-les yeux vers un « *Diffindo !* » / *« Reducto !* » qui fit exploser les
+les yeux vers un "*Diffindo !*" / *"Reducto !*" qui fit exploser les
 yeux vulnérables du troll en deux jets d'humeurs vitreuses, mais ce
 dernier mugit une fois de plus, et ses yeux se commencèrent à se
 reformer instantanément.
 
-« *Du feu et de l'acide !* » hurla Harry. « *Utilisez du feu ou de
-l'acide !* »
+"*Du feu et de l'acide !*" hurla Harry. "*Utilisez du feu ou de
+l'acide !*"
 
-« *Fuego !* » / « *Incendio ! »* Entendit-il, mais il ne regardait plus, il
+"*Fuego !*" / "*Incendio !"* Entendit-il, mais il ne regardait plus, il
 saisissait la seringue emplie du liquide orange et lumineux qu'était la
 potion oxygénante et la plongeait dans le cou de Hermione, là où Harry
 espérait trouver l'artère carotide, afin de maintenir son cerveau en vie
-si ses poumons ou son cœur s'arrêtaient ; tant que son cerveau restait
+si ses poumons ou son cœur s'arrêtaient ; tant que son cerveau restait
 intact tout le reste pouvait être réparé, la magie pourrait forcément le
 réparer, la magie pourrait forcément le réparer, la magie pourrait
 forcément le réparer, et Harry plongea l'aiguille de la seringue
@@ -91,19 +91,19 @@ contact du liquide là où le sang avait traversé ses robes et les genoux
 de son pantalon.
 
 De derrière Harry vint le son d'un autre mugissement du troll, il
-entendit l'un des jumeaux Weasley crier « *Deligitor prodeas !* » puis :
-« *À L'AIDE ! Fais quelque chose !* »
+entendit l'un des jumeaux Weasley crier "*Deligitor prodeas !*" puis :
+"*À L'AIDE ! Fais quelque chose !*"
 
 Harry se retourna pour regarder et vit que l'un des jumeaux Weasley
 avait mystérieusement enfilé le Choixpeau sur sa tête et qu'il faisait
 face au troll qui tenait maintenant l'immense gourdin de pierre à deux
 mains, l'air à présent assez roussi et avec une ou deux cicatrices
-fumantes sur les bras ; mais toujours indemne.
+fumantes sur les bras ; mais toujours indemne.
 
 Puis la voix du Choixpeau mugit avec tant de force qu'elle sembla faire
-trembler les murs :
+trembler les murs :
 
-« *GRYFFONDOR !* »
+"*GRYFFONDOR !*"
 
 Une pulsation de puissance brûla l'air, une magie presque tangible même
 pour les jeunes sens de Harry, le troll fit un bond en arrière avec un
@@ -115,16 +115,16 @@ pommeau était un rubis luminescent, suivit d'un quillon d'un métal blanc
 l'épée se révélait les airs semblèrent s'emplir d'un silencieux cri de
 furie.
 
-Sur la lame était écrit en lettres d'or : *nihil supernum*.
+Sur la lame était écrit en lettres d'or : *nihil supernum*.
 
 Puis le jumeau Weasley leva l'épée comme si l'immense lame n'avait rien
 pesé, cria, et chargea.
 
 Les lèvres de Harry s'ouvrirent pour dire quelque chose, une longue
-phrase comme : *Non, arrête, tu ne sais pas du tout utiliser une épée*
+phrase comme : *Non, arrête, tu ne sais pas du tout utiliser une épée*
 mais pas une seule syllabe ne put quitter ses lèvres avant que l'épée ne
 tranche le bras droit du troll au niveau de son coude, traversant la
-peau, la chair et l'os comme de la gelée ; au même instant, le mouvement
+peau, la chair et l'os comme de la gelée ; au même instant, le mouvement
 de gourdin du troll, déjà entamé, s'écrasa contre le jumeau qui avait
 chargé et l'envoya voler à travers les airs, au-dessus du sol de marbre,
 au-dessus de l'ouverture par laquelle ils étaient arrivés en balais
@@ -134,16 +134,16 @@ immobile.
 L'épée lumineuse disparut à travers l'ouverture au sol dans un fracas
 qui s'estompa à mesure qu'elle chutait.
 
-« *Fred !* » s'écria George Weasley, puis :« *VENTUS !* »
+"*Fred !*" s'écria George Weasley, puis :"*VENTUS !*"
 
 Un coup invisible frappa le troll et le balança en l'air.
 
-« *VENTUS !* »
+"*VENTUS !*"
 
 Le troll fut à nouveau touché, propulsé au bord du sol, près du trou qui
 menait aux étages inférieurs.
 
-« *VENTUS !* »
+"*VENTUS !*"
 
 Mais le troll avait abaissé sa dernière main et il saisit le sol,
 s'enfonça dans le marbre pour assurer sa prise. Le troisième coup envoya
@@ -151,7 +151,7 @@ le corps du troll au-dessus du trou, mais la main demeura au bord. Et le
 troll se hissa alors d'une seule main, en rugissant.
 
 George Weasley chancela, tomba presque, sa main s'abaissa contre son
-flanc. « Harry… » dit le jumeau Weasley d'une voix usée, « Cours… »
+flanc. "Harry…" dit le jumeau Weasley d'une voix usée, "Cours…"
 
 Le dernier jumeau Weasley fit un pas de côté, s'appuya contre le mur, et
 glissa au sol.
@@ -161,7 +161,7 @@ sembla se déplacer lentement, se déformer, ou peut-être était-ce son
 esprit qui se tordait, qui se repliait. Il aurait dû se déplacer, il
 aurait dû faire quelque chose, mais une étrange paralysie semblait avoir
 bloqué tous ses muscles, tous ses mouvements. Sans temps pour les mots,
-des pensées, des concepts lui vinrent par éclairs : que si Harry
+des pensées, des concepts lui vinrent par éclairs : que si Harry
 s'enfuyait le troll mangerait les jumeaux Weasley et Hermione, que si
 les Cognards ne tuaient pas les sorciers alors Fred devrait toujours
 être en vie, que les jumeaux Weasley étaient des sorciers plus puissants
@@ -211,11 +211,11 @@ vers lui à grands bonds.
 La main gauche de Harry tenait déjà le diamant métamorphosé de son
 anneau et sa main droite tenait déjà sa baguette.
 
-« *Wingardium Leviosa.* »
+"*Wingardium Leviosa.*"
 
 La baguette de Harry dirigea le petit joyau dans la bouche du troll.
 
-« *Finite Incantatem*. »
+"*Finite Incantatem*."
 
 La tête du troll explosa et se détacha de sa colonne vertébrale lorsque
 le rocher reprit sa forme originelle, et Harry fit un pas de côté
@@ -247,18 +247,18 @@ coup, ne…*
 Les lèvres de Hermione bougeaient, un tout petit peu, mais elles
 bougeaient.
 
-« ta… faute… »
+"ta… faute…"
 
 Le temps se figea. Harry aurait dû lui dire de ne pas parler,
 d'économiser son souffle, mais il ne pouvait pas débloquer ses lèvres.
 
-Hermione inspira de nouveau et ses lèvres soufflèrent : « Pas ta faute. »
+Hermione inspira de nouveau et ses lèvres soufflèrent : "Pas ta faute."
 
 Puis elle expira et ferma les yeux.
 
 Harry la regarda, bouche mi-ouverte, sa respiration bloquée.
 
-« Ne fais pas ça », dit sa voix. Il n'était arrivé que deux minutes trop
+"Ne fais pas ça", dit sa voix. Il n'était arrivé que deux minutes trop
 tard.
 
 Hermione eut une convulsion soudaine, ses bras se soulevèrent dans une
@@ -266,11 +266,11 @@ saccade, comme si elle voulait saisir quelque chose, et ses yeux
 s'ouvrirent grand à nouveau. Il y eut un éclat de *quelque chose* qui
 était magique et plus encore, il y eut un cri plus fort qu'un
 tremblement de terre, un cri qui contenait mille livres, mille
-bibliothèques, tous dits d'un seul cri qui était Hermione ; trop vaste
+bibliothèques, tous dits d'un seul cri qui était Hermione ; trop vaste
 pour être compris, mais Harry sut soudain que Hermione avait effacé la
 douleur et qu'elle était heureuse de ne pas mourir seule. L'espace d'un
 instant il sembla que le déversement de magie pourrait s'ancrer, prendre
-racine dans la pierre du château ; mais le déversement s'arrêta alors,
+racine dans la pierre du château ; mais le déversement s'arrêta alors,
 la magie s'estompa, son corps ne bougea plus, tout mouvement cessa alors
 que Hermione Granger cessait d'exister -
 
@@ -281,35 +281,35 @@ Harry se releva, chancelant.
 Non.
 
 Il y eut un éclat de feu et Dumbledore fut là avec Fumseck, ses yeux
-emplis d'horreur. « J'ai sentit qu'un élève mourrait ! Qu'est-ce… »
+emplis d'horreur. "J'ai sentit qu'un élève mourrait ! Qu'est-ce…"
 
 Les yeux du vieux sorcier virent ce qui gisait au sol.
 
-« Oh, non, » murmura Albus Dumbledore. Fumseck laissa échapper un chant
+"Oh, non," murmura Albus Dumbledore. Fumseck laissa échapper un chant
 triste et endeuillé.
 
-« Ramenez là. »
+"Ramenez là."
 
 Il y eut un silence sur la terrasse. Fred Weasley s'était élevé dans les
 airs après un mouvement de baguette de Dumbledore et flottait vers eux,
 entouré d'une lueur rose rassurante.
 
-« Harry… » commença le vieux sorcier. Sa voix se brisa. « Harry… »
+"Harry…" commença le vieux sorcier. Sa voix se brisa. "Harry…"
 
-« Faites que Fumseck pleure son corps, n'importe quoi. Dépêchez-vous. » La
+"Faites que Fumseck pleure son corps, n'importe quoi. Dépêchez-vous." La
 voix qui parlait était parfaitement calme.
 
-« Je, je ne peux pas, Harry, c'est trop tard, elle est morte… »
+"Je, je ne peux pas, Harry, c'est trop tard, elle est morte…"
 
-« Je ne veux pas entendre ça. Si c'était moi qui étais allongé ici, vous
+"Je ne veux pas entendre ça. Si c'était moi qui étais allongé ici, vous
 sortiriez quelque incroyable lapin de votre chapeau et vous me
 sauveriez, bien sûr, parce que le héros n'a pas le droit de mourir avant
 la fin de l'histoire. Eh bien elle est le héros elle aussi, alors ce que
 vous gardiez en réserve pour cette occasion super spéciale, allez-y,
-utilisez-le maintenant. Je vous promets que je vous rembourserai. »
+utilisez-le maintenant. Je vous promets que je vous rembourserai."
 
-« *Il n'y a rien que je puisse faire ! Son âme s'en est allée, elle n'est
-plus !* »
+"*Il n'y a rien que je puisse faire ! Son âme s'en est allée, elle n'est
+plus !*"
 
 Harry ouvrit la bouche pour hurler toute sa furie et la ferma de
 nouveau. Hurler n'aurait aucun sens, n'accomplirait rien.
@@ -350,14 +350,14 @@ reprogrammerait.
 Il déchirerait les fondements de la réalité elle-même pour retrouver
 Hermione Granger.
 
-
+ 
 
 ------------------------------------------------------------------------
 
+ 
 
-
-« La crise est terminée », dit le professeur de Défense. « Vous pouvez
-descendre, Madame. »
+"La crise est terminée", dit le professeur de Défense. "Vous pouvez
+descendre, Madame."
 
 Trelawney, qui avait été assise derrière lui sur le balais pour deux qui
 venait de traverser Poudlard en brûlant la matière des murs et des
@@ -368,11 +368,11 @@ comme si elle était sur le point de vomir quelque chose de plus grand
 qu'elle.
 
 Le professeur de Défense avait ressentit l'horreur du garçon à travers
-le lien qui existait entre eux, à travers la résonance de leur magie ;
+le lien qui existait entre eux, à travers la résonance de leur magie ;
 et il s'était rendu compte que le garçon avait recherché le troll et
 l'avait trouvé. Le professeur de Défense avait tenté d'envoyer
 l'impulsion de battre en retrait, de revêtir le Cape d'Invisibilité et
-de fuir ; mais il n'avait jamais été capable d'influencer le garçon à
+de fuir ; mais il n'avait jamais été capable d'influencer le garçon à
 travers la résonance et il n'avait pas réussi cette fois non plus.
 
 Il sentit le garçon se donner entièrement à l'intention de tuer. C'est
@@ -384,7 +384,7 @@ Il avait sentit le garçon exterminer son ennemi en quelques secondes.
 Il avait senti son désarroi à la mort d'un de ses amis.
 
 Il avait sentit la furie que le garçon avait dirigée vers quelque
-agacement, probablement Dumbledore ; suivi d'une résolution inconnue à
+agacement, probablement Dumbledore ; suivi d'une résolution inconnue à
 la fermeté absolue que même le professeur de Défense avait trouvée
 adaptée à la situation. Avec un peu de chance, le garçon venait de se
 défaire de ses idiotes réticences.
@@ -393,6 +393,6 @@ Sans personne pour le voir, les lèvres du professeur de Défense se
 recourbèrent en un fin sourire. Malgré ses petits hauts et bas, la
 journée avait été étonnamment bonne dans l'ensemble…
 
-***« IL EST LÀ. CELUI QUI DÉCHIRERA LES ÉTOILES DU CIEL. IL EST LÀ. IL
-EST LA FIN DU MONDE. »***
+***"IL EST LÀ. CELUI QUI DÉCHIRERA LES ÉTOILES DU CIEL. IL EST LÀ. IL
+EST LA FIN DU MONDE."***
 

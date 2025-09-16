@@ -37,7 +37,7 @@ instant.*
 *Il ne peut être définitivement tué sans détruire plus de cent
 Horcruxes, et l'un d'eux est la plaque de Pioneer.*
 
-*Matériel : Une baguette. Cette fois tu peux la brandir et parler.*
+*Matériel : Une baguette. Cette fois tu peux la brandir et parler.*
 
 *Tu as cinq minutes.*
 
@@ -54,7 +54,7 @@ douleur.
 
 Harry ignora un glapissement intérieur. C'était le dernier souvenir de
 Tom Jedusor, gravé dans son cerveau, le dernier motif mental à avoir été
-transféré au nourrisson avant que Tom Jedusor n'explose : un sentiment
+transféré au nourrisson avant que Tom Jedusor n'explose : un sentiment
 d'horreur et de consternation croissant associé à la résonance devenue
 incontrôlable. Harry connaissait maintenant le sens de ce sentiment
 d'appréhension, et cela le rendait plus simple à ignorer. Il avait parié
@@ -75,15 +75,15 @@ venaient de vivre quelque chose d'extrêmement négatif. Si Harry avait
 fait subir le même sort à Voldemort sans hésiter, voilà qui aurait été
 équilibré, voilà qui aurait été juste. Ce que Harry faisait à présent
 lui rappelait un Batman plus soucieux du Joker que des victimes de ce
-dernier ; lui rappelait un comic book dont les auteurs se torturaient
+dernier ; lui rappelait un comic book dont les auteurs se torturaient
 quant à la moralité d'abattre les Célèbres Méchants pendant que des
 innocents continuaient de mourir en arrière-plan. Montrer plus de
 sollicitude envers le chef des méchants qu'envers ses laquais, faire
 *plus attention* à son sort qu'à celui de ses partisans d'importance
-moindre : c'était là un défaut de la nature humaine.
+moindre : c'était là un défaut de la nature humaine.
 
 Harry se sentit donc mal en se relevant près du corps, les garrots
-serrés autour des poignets de Voldemort ; il avait l'impression d'être
+serrés autour des poignets de Voldemort ; il avait l'impression d'être
 éthiquement monstrueux.
 
 Pourtant, toute stratégie sensée *exigeait* que le corps de Voldemort ne
@@ -111,7 +111,7 @@ problème, il cessait d'être difficile, surtout comparé au précédent.
 
 Par exemple, les parents de Neville avaient été torturés jusqu'à en
 devenir définitivement fous. Deux cent Horcruxes améliorés
-n'empêcheraient pas cette folie ; ils ne seraient plus que des échos du
+n'empêcheraient pas cette folie ; ils ne seraient plus que des échos du
 même esprit abîmé.
 
 Si cela avait été la seule façon d'arrêter définitivement Voldemort,
@@ -120,7 +120,7 @@ juste et aurait montré que la vie du Joker ne valait pas plus que celle
 que le dernier de ses hommes de main.
 
 Harry avait seulement besoin de créer un Patronus, de l'envoyer à…
-Maugrey Fol-Œil ?… et de lui dire de venir. Enfin, non, il était assez
+Maugrey Fol-Œil ?… et de lui dire de venir. Enfin, non, il était assez
 probable que le Patronus ne fonctionnerait pas si il était lancé dans
 *ce* but. Il pouvait peut-être se promettre de dire ça à Maugrey puis
 utiliser son Retourneur de Temps une fois hors de portée des barrières
@@ -147,7 +147,7 @@ reste de sympathie pour l'autre Tom Jedusor.
 
 Harry n'aurait pas dû prendre cela en compte.
 
-Si ?
+Si ?
 
 Harry releva les yeux vers les étoiles. Ici, sous l'atmosphère, les
 étoiles scintillaient, elles étaient incrustée dans le faux dôme du ciel
@@ -156,7 +156,7 @@ comme un long ruban - l'air d'être si proches qu'un vol en balai aurait
 permis de les atteindre.
 
 En ce moment critique, qu'auraient-ils voulu qu'il fasse, les enfants
-des enfants des enfants ?
+des enfants des enfants ?
 
 La réponse à question semblait aussi évidente - à moins qu'elle n'ait
 émané de la partie de Harry qui se souciait encore du professeur
@@ -205,7 +205,7 @@ mauvaise habitude de pensée à briser.
 
 Il préféra regarder Hermione qui respirait, allongée sur l'autel, et il
 laissa enfin les larmes quitter ses yeux. Ce qu'il adviendrait d'elle à
-présent, le chemin qu'elle choisirait, Harry l'ignorait ; mais elle
+présent, le chemin qu'elle choisirait, Harry l'ignorait ; mais elle
 *existerait* pour ce choix, et leur amitié n'aurait pas détruit son
 existence. Ce n'est qu'après avoir remarqué sa surprise, lorsque son
 espoir s'était réalisé, que Harry avait compris à quel point cet espoir
@@ -213,8 +213,8 @@ avait été précaire. Les choses se passaient parfois mieux que prévu.
 
 Et Harry prit cette pensée pour alimenter la magie qu'il accumulait.
 
-Le pouvoir qu'il emmagasinait vibrait en lui ; on aurait dit que tout
-son corps était sa baguette ; soit ses yeux s'étaient brouillés, soit un
+Le pouvoir qu'il emmagasinait vibrait en lui ; on aurait dit que tout
+son corps était sa baguette ; soit ses yeux s'étaient brouillés, soit un
 tremblement blanc lumineux courait sur le houx. Et Harry imagina la
 forme du sortilège qu'il allait lancer, une forme grossière, au motif
 simple, il fallait seulement inclure…
@@ -233,9 +233,9 @@ enfance, si vous avez jamais eu des souvenirs heureux, alors
 gardez-les…*
 
 Quelque chose en lui se déplia alors et il sut qu'il avait fait le bon
-choix ; il envoya cela aussi dans sa baguette…
+choix ; il envoya cela aussi dans sa baguette…
 
-***« OUBLIETTES ! »***
+***"OUBLIETTES !"***
 
 Et tout se déversa, de Harry vers le sortilège.
 
@@ -266,14 +266,14 @@ Il pleura un moment.
 Puis il finit par se remettre sur pied, difficilement, et par ramasser
 sa baguette, parce qu'il lui restait du travail à faire.
 
-
+ 
 
 ------------------------------------------------------------------------
 
-
+ 
 
 Harry posa sa baguette directement sur le moignon de poignet de
-Voldemort ; sa cicatrice se gonfla de douleur, mais ni l'un ni l'autre
+Voldemort ; sa cicatrice se gonfla de douleur, mais ni l'un ni l'autre
 n'explosa.
 
 Et Harry entama une Métamorphose.
@@ -284,7 +284,7 @@ Métamorphose progressait, et surtout lorsque la tête de l'homme-serpent
 devint vitreuse et réduite, la douleur dans la cicatrice de Harry
 s'estompa.
 
-Le sortilège devrait être maintenu qu'il soit éveillé ou assoupi ; et
+Le sortilège devrait être maintenu qu'il soit éveillé ou assoupi ; et
 plus tard, quand il serait plus âgé et plus puissant, et peut-être avec
 de l'aide, il annulerait la Métamorphose du Tom Jedusor à l'esprit vidé
 et soignerait son corps grâce au pouvoir de la Pierre. Ce serait *après*
@@ -313,7 +313,7 @@ l'épuisement qui menaçait de pénétrer son esprit. *Je n'ai pas fini,
 j'ai encore du travail.*
 
 Harry prit une autre profonde inspiration, toujours par la bouche, dit
-« *Lumos* » et observa le cimetière.
+"*Lumos*" et observa le cimetière.
 
 Des robes noires et des masques de crânes détachés, entourés de mares de
 sang…
@@ -327,7 +327,7 @@ Quirinus Quirrell et ses robes déchiquetées, désarticulé, là où le
 sortilège de la Mort l'avait frappé.
 
 Harry imagina quelqu'un d'autre regardant la scène et essayant de la
-comprendre. Il secoua la tête : ça n'allait pas, ça n'allait pas du
+comprendre. Il secoua la tête : ça n'allait pas, ça n'allait pas du
 tout.
 
 Puis il se releva vivement du rocher en grimaçant. Son esprit protesta,
@@ -339,19 +339,19 @@ Il chancela vers ce qui restait de Voldemort et ramassa sa main gauche
 par terre.
 
 Même sur la main gauche, on pouvait voir la fine trace d'écailles de
-serpent ; c'était très Voldemort. Tant mieux.
+serpent ; c'était très Voldemort. Tant mieux.
 
 Harry alla jusqu'à l'autel où gisait une Hermione endormie et plaça
 doucement la main amputée autour du cou de Hermione, plaça
 précautionneusement les doigts pour qu'ils enserrent sa gorge. C'était
-difficile : Hermione semblait si paisible, si innocente dans son
-sommeil, et la main amputée de Voldemort semblait si laide ; Harry
+difficile : Hermione semblait si paisible, si innocente dans son
+sommeil, et la main amputée de Voldemort semblait si laide ; Harry
 ignora violemment la partie de son esprit qui pensait à ça, puisque la
 pensée était absurde dans ce contexte.
 
 Quelques petits sortilèges de Découpe permirent de gâcher la marque
 quasiment parfaite des nanofibres, ce qui était d'une importance
-critique : il ne fallait pas que la blessure de la main ressemble à
+critique : il ne fallait pas que la blessure de la main ressemble à
 celle des cous. Plusieurs *Diffindos* répandirent de petits bouts du
 poignet de Voldemort sur la chemise de Hermione, et Harry dut se
 rappeler que cela faisait partie de son plan.
@@ -372,7 +372,7 @@ utilisé sous le nom de Quirrell. Harry s'approcha de Quirrell, redressa
 son corps du mieux qu'il put et plaça sa baguette dans sa main. De façon
 prévisible, il se mit à pleurer, et essuya ses larmes de sa manche.
 
-Il prit une autre inspiration, toujours par la bouche, répéta « *Lumos* »
+Il prit une autre inspiration, toujours par la bouche, répéta "*Lumos*"
 et inspecta le cimetière une fois de plus.
 
 Des robes noires, des masques de crâne détachés, et une Hermione Granger
@@ -417,7 +417,7 @@ de magie à Harry. Il était probablement vidé pour au moins une heure.
 Il grimpa sur le balai et monta lentement, le ballon-sonde remplit
 d'oxyacétylène derrière lui. Lorsqu'il dépassa les arbres, le château de
 Poudlard devint visible, scintillant sous la Lune quelques kilomètres
-plus loin ; et il fit de son mieux pour estimer la distance et l'angle
+plus loin ; et il fit de son mieux pour estimer la distance et l'angle
 d'observation depuis Poudlard.
 
 Une fois loin au-dessus de la forêt, il utilisa un briquet pour mettre

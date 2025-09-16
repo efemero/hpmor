@@ -1,4 +1,4 @@
-# Compromis Tabous, Après coup 3 : Distance
+# Compromis Tabous, Après coup 3: Distance
 
 
 Lent et ardu, le long escalier qui menait jusqu'au sommet de Serdaigle.
@@ -6,7 +6,7 @@ De l'intérieur, il semblait monter en ligne droite, mais on pouvait voir
 de l'extérieur qu'il devait en toute logique monter en spirale. On ne
 pouvait atteindre le sommet de la tour Serdaigle qu'en suivant cette
 ascension, sans prendre de raccourci, une marche de pierre après
-l'autre ; elles défilaient sous les chaussures de Harry, poussées par
+l'autre ; elles défilaient sous les chaussures de Harry, poussées par
 ses jambes de plus en plus fatiguées.
 
 Il s'était assuré de la sécurité de Hermione jusqu'à ce qu'elle se
@@ -14,7 +14,7 @@ couche.
 
 Puis il était demeuré dans la salle commune de Serdaigle suffisamment
 longtemps pour récolter quelques signatures qui pourraient par la suite
-être utiles à Hermione. Peu d'élèves avaient signé ; les sorciers
+être utiles à Hermione. Peu d'élèves avaient signé ; les sorciers
 n'avaient pas été entraînées à penser selon la méthode scientifique
 Moldue du *prouves-le ou tais-toi*, aussi appelée *prends un risque et
 fais une prédiction ou arrêtes de prétendre que tu crois à ta théorie*.
@@ -46,7 +46,7 @@ où peu d'autres élèves s'aventuraient – il y avait d'autres recoins
 intimes, si vous ne recherchiez que l'intimité.
 
 Les torches de Poudlard, loin en-dessous, illuminaient la nuit. La
-plate-forme elle-même offrait peu d'obstacles : le escaliers donnaient
+plate-forme elle-même offrait peu d'obstacles : le escaliers donnaient
 sur un trou nu dans le sol plutôt que sur une porte dressée. D'ici, les
 étoiles étaient en cet instant aussi visibles qu'elles pouvaient l'être
 depuis la Terre.
@@ -58,7 +58,7 @@ moitié visibles à la lisière de sa perception et d'un éclat de croissant
 de Lune, la réalité devienne cette lumière stellaire.
 
 Les points de lumière sur sombre velours scintillèrent, tremblèrent puis
-revinrent ; une beauté différente de leur solide éclat lors de la Nuit
+revinrent ; une beauté différente de leur solide éclat lors de la Nuit
 Silencieuse.
 
 Harry fixait le vide, son esprit occupé par d'autres choses.
@@ -104,14 +104,15 @@ Quelque pouvoir inconnu s'était abattu sur lui, et même si le coup avait
 
 Au moins son côté obscur ne lui avait rien demandé en échange du
 sauvetage de Hermione. Peut-être parce que son côté obscur *n'était pas*
-une voix imaginaire comme celle de Poufsouffle ; Harry *imaginait*
+une voix imaginaire comme celle de Poufsouffle ; Harry *imaginait*
 peut-être que sa partie Poufsouffle était dotée de ses propres désirs,
-différents des siens, mais son côté obscur n'était pas comme ça. Son « côté obscur », du mieux que Harry puisse en juger, constituait un autre
+différents des siens, mais son côté obscur n'était pas comme ça. Son "
+côté obscur ", du mieux que Harry puisse en juger, constituait un autre
 état d'être que Harry *était* parfois. Pour l'instant Harry n'était pas
-en colère et tenter de demander ce que désirait le « Harry obscur »
+en colère et tenter de demander ce que désirait le " Harry obscur "
 revenait à laisser sonner un téléphone dans le vide. L'idée elle-même
-semblait un peu étrange : pouvait-on devoir quelque chose à quelqu'un
-qu'on était parfois ?
+semblait un peu étrange : pouvait-on devoir quelque chose à quelqu'un
+qu'on était parfois ?
 
 Harry regarda les étoiles placées par le hasard, ces lumières
 scintillantes et éparses que les cerveaux humains ne pouvaient
@@ -145,9 +146,9 @@ exigeait que les promesses soient tenues. Même si cela ne faisait que
 repousser les choses à plus tard, c'était mieux que de prendre un homme
 bon pour ennemi.
 
-*Mais Dumbledore* est-il *bon* ? demanda la voix de Poufsouffle. *Si
+*Mais Dumbledore* est-il *bon* ? demanda la voix de Poufsouffle. *Si
 Dumbledore a brûlé vif quelqu'un – l'idée n'était-elle pas que les bons
-peuvent tuer mais jamais en faisant souffrir ?*
+peuvent tuer mais jamais en faisant souffrir ?*
 
 *Peut-être qu'il l'a tuée instantanément*, dit Serpentard, *et qu'il a
 mentit à Lucius sur le fait qu'elle était en encore vie. Mais…s'il y
@@ -168,8 +169,8 @@ attendre. Il n'a pas le droit de s'en plaindre.*
 Serpentard. *Maintenant que nous connaissons ce pan de la vérité – peu
 importe les détails exacts du reste de l'histoire – pouvons-nous
 vraiment croire que Dumbledore est une personne horrible qui devrait
-être notre ennemi ? Au milieu d'une horrible guerre sanglante,
-Dumbledore a immolé* un *civil ? Ce n'est répréhensible qu'en suivant
+être notre ennemi ? Au milieu d'une horrible guerre sanglante,
+Dumbledore a immolé* un *civil ? Ce n'est répréhensible qu'en suivant
 les critères des bandes dessinées, pas en suivant n'importe quel critère
 historique réaliste.*
 
@@ -181,7 +182,7 @@ Pendant la seconde guerre mondiale, il y avait eu un projet de saboter
 le programme d'armement nucléaires Nazi. Des années plus tôt, Leo
 Szilard, la première personne à comprendre la possibilité d'une réaction
 de fission en chaîne, avait convaincu Fermi de ne pas publier la
-découverte de ce dernier : le graphite purifié était un modérateur de
+découverte de ce dernier : le graphite purifié était un modérateur de
 neutrons peu cher et efficace. Fermi avait voulu publier pour le bien du
 grand projet international de la Science, qui dépassait le nationalisme.
 Mais Szilard avait persuadé Rabi et Fermi s'était incliné face à la
@@ -245,11 +246,11 @@ faciles si l'on était un scientifique et que l'on vivait dans la bulle
 de *Protego* lancée par les policiers et les soldats dont on avait le
 luxe de remettre les actes en question. Albus Dumbledore semblait avoir
 commencé avec des idéaux au moins aussi exigeants que ceux de Harry, si
-ce n'est encore plus ; et il n'avait pas traversé la guerre sans tuer
+ce n'est encore plus ; et il n'avait pas traversé la guerre sans tuer
 d'ennemis et sacrifier d'alliés.
 
 *Es-tu tellement meilleur que Haukelid et Dumbledore, Harry Potter, que
-tu seras capable de combattre sans provoquer une seule perte ? Même dans
+tu seras capable de combattre sans provoquer une seule perte ? Même dans
 le monde des super-héros, la seule raison pour laquelle un super-héros
 comme Batman a* l'air *de réussir, c'est que les lecteurs ne remarquent
 que la mort des Personnages Importants dont on connaît le Nom, pas quand
@@ -259,7 +260,7 @@ toutes les vies qu'il aurait pu sauver en le tuant. C'est ce que l'homme
 nommé Maugrey essayait de dire à Dumbledore, et Dumbledore a ensuite
 semblé regretter d'avoir mis si longtemps à changer d'avis. Vas-tu
 vraiment essayer de suivre la voie des super-héros, de ne jamais
-sacrifier un seul de tes pions ni de tuer un seul ennemi ?*
+sacrifier un seul de tes pions ni de tuer un seul ennemi ?*
 
 Épuisé, Harry détourna son attention du dilemme présent l'espace d'un
 instant et rouvrit ses yeux pour admirer l'hémisphère de nuit qui
@@ -270,7 +271,7 @@ de Lune dont cette lumière était partie il y a une seconde et quart, à
 une distance d'environ trois cent soixante-quinze mille kilomètres dans
 l'espace de simultanéité terrestre.
 
-Au-dessus et sur le côté, Polaris, l'étoile du nord ; la première que
+Au-dessus et sur le côté, Polaris, l'étoile du nord ; la première que
 Harry avait apprise à identifier en suivant la frontière de la Grande
 Ourse. C'était en fait un système à cinq étoiles avec une supergéante
 centrale située à 434 années-lumières de la terre. C'était la première
@@ -288,7 +289,8 @@ Au centre de la constellation d'Andromède, son étoile, qui était plutôt
 une galaxie. La plus proche de la Voie Lactée, à 2,4 millions années
 lumières, et qu'on estimait abriter mille milliards d'étoiles.
 
-Comparé à de tels nombres, « l'infini » pâlissait, parce que « l'infini » était indéfini, vide. Penser à des étoiles « infiniment » lointaines
+Comparé à de tels nombres, " l'infini " pâlissait, parce que " l'infini
+" était indéfini, vide. Penser à des étoiles " infiniment " lointaines
 était bien moins effrayant que d'essayer de calculer combien de mètres
 il y avait dans 2,4 millions d'années-lumières. 2,4 millions d'années
 lumières fois 31 millions de secondes par an, fois un photon en
@@ -298,11 +300,11 @@ Il était étrange de songer que de telles distances n'étaient peut-être
 *pas* assez lointaines pour être inatteignables. La magie avait été
 relâchée dans l'univers, et avec elle des choses telles que les
 Retourneurs de Temps et les balais volants. Un sorcier avait-il jamais
-essayé de mesurer la vitesse d'un Portoloin ou d'un phénix ?
+essayé de mesurer la vitesse d'un Portoloin ou d'un phénix ?
 
 Et la compréhension humaine de la magie n'avait certainement *rien à
 voir* avec ses lois sous-jacentes. Que pouvait-on faire avec la magie,
-une fois qu'on la comprenait *réellement* ?
+une fois qu'on la comprenait *réellement* ?
 
 Un an plus tôt, Papa était allé à l'université nationale d'Australie, à
 Canberra, en tant que conférencier invité, et il avait emmené Maman et
@@ -316,20 +318,20 @@ de l'Asie vers l'Australie, personne n'avait inventé l'arc et la flèche.
 Cela permettait vraiment d'apprécier à quelle point l'idée de Progrès
 n'était *pas* évidente. Pourquoi songeriez-vous même que l'idée
 d'Invention était importante si tous vos contes héroïques parlaient de
-guerriers ou de grands défenseurs et ne parlaient pas de Thomas Edison ?
+guerriers ou de grands défenseurs et ne parlaient pas de Thomas Edison ?
 Comment quiconque aurait pu soupçonner, en creusant son lance-pierre
 avec une minutieuse attention, qu'un jour les humains inventeraient des
-fusées et l'énergie nucléaire ?
+fusées et l'énergie nucléaire ?
 
 Auriez-vous pu lever les yeux vers le ciel, vers l'étincelante lumière
 solaire, et déduire que l'univers contenait des sources de pouvoir plus
-fortes qu'un simple feu ? Auriez-vous compris que si les lois
+fortes qu'un simple feu ? Auriez-vous compris que si les lois
 fondamentales de la physique le permettaient, un jour les humains
-puiseraient dans les mêmes énergies que le Soleil ? Même si rien que
+puiseraient dans les mêmes énergies que le Soleil ? Même si rien que
 vous puissiez imaginer faire avec un lance-pierre ou avec une outre
 tressée – aucun déplacement à travers la savane, aucun gibier que vous
 puissiez chasser – n'aurait permit de l'accomplir, ne serait-ce qu'en
-imagination ?
+imagination ?
 
 Ce n'était pas comme si les Moldus modernes s'étaient en quoi que ce
 soit approchés des limites énoncées par la physique moldue. Et pourtant,
@@ -341,7 +343,7 @@ explicitement des choses telles que la nanotechnologie moléculaire ou le
 processus de Penrose destiné à extraire de l'énergie de trous noirs, la
 plupart des gens enregistraient ça là où leur cerveau enregistrait les
 contes de fées et le contenu des livres d'Histoire, bien loin de leurs
-réalités personnelle : *En un lieu et un temps lointains, si lointains.*
+réalités personnelle : *En un lieu et un temps lointains, si lointains.*
 Ce n'était donc pas surprenant de voir le monde magique vivre dans un
 univers conceptuellement limité – non pas par les lois fondamentales de
 la magie que personne ne connaissait de toute façon – mais seulement par
@@ -354,12 +356,12 @@ toujours inconcevable que les lois *fondamentales* de l'univers
 contiennent un cas particulier pour des lèvres humaines formant la
 phrase 'Wingardium Leviosa'. Et pourtant même cette maîtrise tâtonnante
 de la magie suffisait à faire des choses qu'un professeur de physique
-moldu aurait déclaré être *pour toujours impossibles* : le Retourneur de
+moldu aurait déclaré être *pour toujours impossibles* : le Retourneur de
 Temps, de l'eau invoquée à partir de rien par *Aguamenti*. Quelles
 étaient les possibilités *ultimes* si les lois sous-jacentes de
 l'univers permettaient à un enfant de onze ans armé d'un bâton de
 transgresser quasiment toutes les contraintes de la version moldue de la
-physique ?
+physique ?
 
 Comme un chasseur-cueilleur levant les yeux vers le Soleil et devinant
 que l'univers devait avoir une structure qui donnait naissance à
@@ -370,7 +372,7 @@ millions de mètres n'était pas une distance si longue que ça, après
 tout.
 
 Il y avait un pas après le Raisonnement Abstrait que Harry pouvait faire
-avec assez de temps pour préparer son environnement et son esprit ;
+avec assez de temps pour préparer son environnement et son esprit ;
 quelque chose qui dépassait le Harry du Raisonnement Abstrait tout comme
 ce dernier dépassait le Harry du Moment Présent. En regardant les
 étoiles, on pouvait essayer d'imaginer ce que les lointains descendants
@@ -392,7 +394,7 @@ cela s'avérait *nécessaire*, même si vous aviez la certitude que c'était
 le meilleur choix possible pour l'Angleterre magique et que la Trame de
 l'Histoire en souffrirait si vous ne le faisiez pas… même inévitables,
 les morts d'êtres sentients demeureraient une tragédie. Un élément de
-plus parmi les tourments de la Terre ; la Très Ancienne Terre d'où tout
+plus parmi les tourments de la Terre ; la Très Ancienne Terre d'où tout
 était venu, en un lieu et un temps lointains, si lointains.
 
 *Il n'est pas comme Grindelwald. Il n'y a plus rien d'humain en lui.
@@ -410,7 +412,7 @@ irrévocables que ces noirs rituels paraissent à la simple aune humaine,
 il ne serait pas incurable dans cent millions d'années. Le tuer, même
 s'il *fallait* le faire pour sauver d'autres vies, ne serait qu'une mort
 de plus, une source de tristesse de plus pour les êtres sentients à
-venir. Comment pouvait-on regarder les étoiles et penser autrement ?
+venir. Comment pouvait-on regarder les étoiles et penser autrement ?
 
 Harry regarda les lumières vacillantes de l'Éternité et se demanda ce
 que les enfants des enfants de ses enfants penseraient de ce que
@@ -424,11 +426,11 @@ centième décimale de pi, alors on ne savait pas comment les enfants de
 ses enfants de ses enfants la calculeraient, aussi trivial que soit ce
 fait.
 
-
+ 
 
 ------------------------------------------------------------------------
 
-
+ 
 
 Lentement – il était resté allongé là à regarder les étoiles plus
 longtemps qu'il ne l'avait prévu – Harry redressa son buste. Puis il
@@ -437,7 +439,7 @@ jusqu'au bord de la plate-forme de pierre située au faîte de la tour de
 Serdaigle. Les créneaux de pierre qui entouraient le bord n'étaient pas
 hauts, pas assez hauts pour offrir une sécurité. Ils étaient clairement
 des marqueurs plutôt que des rambardes. Harry ne s'approcha pas trop
-près du bord ; il était vain de prendre des risques. En baissant les
+près du bord ; il était vain de prendre des risques. En baissant les
 yeux vers le domaine de Poudlard, il sentit l'étourdissement prévisible,
 l'affliction chancelante appelée vertige. Il semblait que son cerveau
 était alarmé parce que le sol plus bas était très *distant*. Il était
@@ -475,11 +477,11 @@ orange lueur.
 La nuit était calme, assez calme pour que les souvenirs deviennent
 clairement audibles.
 
-« Non, je ne voulais pas, ne meurs pas s'il te plaît ! »
+" Non, je ne voulais pas, ne meurs pas s'il te plaît ! "
 
-« Non, je ne voulais pas, ne meurs pas s'il te plaît ! »
+" Non, je ne voulais pas, ne meurs pas s'il te plaît ! "
 
-« Ne l'emmène pas, non non non - »
+" Ne l'emmène pas, non non non - "
 
 Les mots se brouillèrent et Harry s'essuya les yeux du revers de sa
 manche.
@@ -493,17 +495,17 @@ voulu accomplir d'autre dans sa vie. C'était juste… c'était… c'était
 juste ainsi.
 
 Et la femme qui *était* derrière la porte – n'y avait-il pas quelqu'un,
-quelque part, pour qui elle aussi était précieuse ? N'était-ce que la
+quelque part, pour qui elle aussi était précieuse ? N'était-ce que la
 distance entre Harry et elle qui empêchait son cerveau de ressentir le
 besoin d'aller à Azkaban et de la sauver *peu importe les
-conséquences* ? Qu'aurait-il fallu, pour qu'il s'y sente contraint ?
-Aurait-il fallu qu'il connaisse son visage ? Son nom ? Sa couleur
-préférée ? Aurait-il ressenti le besoin d'aller à Azkaban sauver Tracey
-Davis ? Aurait-il été contraint de s'y rendre pour sauver le professeur
-McGonagall ? Maman et Papa… la question ne se posait même pas. Et cette
+conséquences* ? Qu'aurait-il fallu, pour qu'il s'y sente contraint ?
+Aurait-il fallu qu'il connaisse son visage ? Son nom ? Sa couleur
+préférée ? Aurait-il ressenti le besoin d'aller à Azkaban sauver Tracey
+Davis ? Aurait-il été contraint de s'y rendre pour sauver le professeur
+McGonagall ? Maman et Papa… la question ne se posait même pas. Et cette
 femme avait dit être une mère. Combien de personnes avaient souhaité
-avoir le pouvoir de briser Azkaban ? Combien de prisonniers d'Azkaban
-rêvaient chaque nuit d'un sauvetage miraculeux ?
+avoir le pouvoir de briser Azkaban ? Combien de prisonniers d'Azkaban
+rêvaient chaque nuit d'un sauvetage miraculeux ?
 
 *Aucun. C'est une pensée heureuse.*
 
@@ -522,12 +524,12 @@ Une étoile brilla dans la nuit.
 
 Le temps que les yeux de Harry se réorientent vers ce point, mus par un
 réflexe entraîné par des pluies de météores, une autre partie de lui se
-voyait surprise que le phénomène astronomique soit encore présent ; un
+voyait surprise que le phénomène astronomique soit encore présent ; un
 faible étoile dont la lueur croissait lentement. Il y eut un autre
 moment surpris pendant lequel Harry se demanda ce qu'il voyait, pas un
 météore, mais une nova ou une supernova – pouvait-on les *voir* briller
-comme ça ? La première étape d'une nova était-elle censée avoir cette
-couleur jaune-orange ?
+comme ça ? La première étape d'une nova était-elle censée avoir cette
+couleur jaune-orange ?
 
 Puis la nouvelle étoile bougea de nouveau, elle sembla grandir et
 s'intensifier. Elle semblait soudain plus *proche* au lieu d'être si
@@ -556,9 +558,9 @@ De grandes ailes étincelantes comme un crépuscule, des yeux tels de
 perles incandescentes, éclatantes d'un feu d'or et de détermination.
 
 Le bec du phénix s'ouvrit et laissa jaillir un grand croassement que
-Harry comprit comme s'il s'était agit d'un mot :
+Harry comprit comme s'il s'était agit d'un mot :
 
-*VIENS !*
+*VIENS !*
 
 Sans même s'en rendre compte, le garçon s'éloigna en chancelant du
 rebord, les yeux toujours braqués sur le phénix, tout son corps
@@ -573,7 +575,7 @@ de faire quelque chose *maintenant*, de ne plus repousser, tout cela
 dans le cri d'un oiseau.
 
 *Allons-y. Il est temps.* La voix qui parlait venait de l'intérieur de
-Harry, pas du phénix ; de si profond en lui qu'il ne pouvait lui donner
+Harry, pas du phénix ; de si profond en lui qu'il ne pouvait lui donner
 un nom comme 'Gryffondor'.
 
 Tout ce qu'il avait à faire était d'avancer, de toucher les serres du
@@ -583,11 +585,11 @@ pouvait voir l'image dans son esprit, brillante d'un insoutenable
 clarté, l'image de lui-même souriant d'un soulagement soudain alors
 qu'il rejetait toutes ses peurs et *choisissait* -
 
-« Mais je… », murmura Harry, sans même se rendre compte de ce qu'il
+" Mais je…", murmura Harry, sans même se rendre compte de ce qu'il
 disait. Il leva ses mains tremblantes pour essuyer les larmes qui
 avaient jailli de ses yeux, face au phénix qui flottait devant lui à
-grands battements d'ailes. « Mais je… j'ai d'autres personnes que je
-dois aussi sauver, d'autres choses que je dois faire… »
+grands battements d'ailes. " Mais je… j'ai d'autres personnes que je
+dois aussi sauver, d'autres choses que je dois faire… "
 
 L'oiseau de feu laissa échapper un cri perçant et le garçon fléchit
 comme s'il avait reçu un coup. Ce n'était pas un ordre, ce n'était pas
@@ -604,11 +606,11 @@ quand il le voudrait…
 
 …s'il n'était pas quelqu'un de bien.
 
-
+ 
 
 ------------------------------------------------------------------------
 
-
+ 
 
 Le garçon demeura sur le toit, ses yeux braqués sur deux points de feu.
 Les étoiles avaient peut-être eu le temps de changer de constellation
@@ -621,10 +623,10 @@ pendant qu'il était resté ici, tourmenté par cette décision…
 Les yeux passèrent un instant sur les étoiles au-dessus de lui puis il
 regarda le phénix.
 
-« Pas encore, » dit le garçon d'une voix à peine audible. « Pas encore.
+" Pas encore, " dit le garçon d'une voix à peine audible. " Pas encore.
 J'ai encore trop à faire. Reviens plus tard, s'il te plaît, lorsque j'en
 aurai trouvé d'autres capables de lancer le Véritable Patronus – dans
-six mois, peut-être… »
+six mois, peut-être… "
 
 Sans un mot, sans un son, une sphère de feu entoura la forme de
 l'oiseau, dans des craquements et des éclats de veines blanches et
@@ -641,39 +643,41 @@ Lentement, il se retourna…
 Puis s'écria et fit un bon tel qu'il tomba presque de la tour, bien que
 ce faux pas aurait été sans conséquence avec un tel sorcier présent.
 
-« Ainsi en fut-il, » dit Albus Dumbledore presque dans un soupir. « Ainsi en fut-il. » Fumseck était sur son épaule et regardait là où
+" Ainsi en fut-il, " dit Albus Dumbledore presque dans un soupir. "
+Ainsi en fut-il. " Fumseck était sur son épaule et regardait là où
 s'était trouvé l'autre phénix d'un regard aviaire indéchiffrable.
 
-« *Que faites-vous ici ? »*
+" *Que faites-vous ici ? "*
 
-« Ah ? » dit le vieil homme depuis le coin opposé de la plate-forme. « J'ai ressentit la présence d'une créature inconnue de Poudlard alors je
-suis venu voir, bien sûr. » Lentement, la main tremblante du vieux
+" Ah ? " dit le vieil homme depuis le coin opposé de la plate-forme. "
+J'ai ressentit la présence d'une créature inconnue de Poudlard alors je
+suis venu voir, bien sûr. " Lentement, la main tremblante du vieux
 sorcier monta afin d'enlever les lunettes en demi-lunes et son autre
-main essuya ses yeux et son front en usant de sa manche. « Je n'osais…
+main essuya ses yeux et son front en usant de sa manche. " Je n'osais…
 je n'osais pas parler… je savais, je savais qu'entre tous ce choix
-devait être le tien… »
+devait être le tien… "
 
 Une étrange appréhension commençait à se répandre en Harry, à sourdre en
 lui comme une sensation de nausée.
 
-« Que tout dépendait de cela, » dit Albus Dumbledore toujours de ce
-presque-soupir, « je le savais. Mais quel choix menait vers les
-ténèbres, cela, je n'ai pu le deviner. Au moins, le choix était tien. »
+" Que tout dépendait de cela, " dit Albus Dumbledore toujours de ce
+presque-soupir, " je le savais. Mais quel choix menait vers les
+ténèbres, cela, je n'ai pu le deviner. Au moins, le choix était tien. "
 
-« Je ne… » dit Harry, et sa voix s'arrêta.
+" Je ne… " dit Harry, et sa voix s'arrêta.
 
 Une terrible hypothèse, qui gagnait en crédibilité…
 
-« Le phénix vient, » dit le vieux sorcier. « À ceux qui se battront, à
+" Le phénix vient, " dit le vieux sorcier. " À ceux qui se battront, à
 ceux qui agiront même au prix de leur vie, le phénix vient. Les phénix
 ne sont pas sages, Harry, ils ne connaissent aucun moyen de nous juger
 autre que d'être témoins de ce choix. Je pensais courir à ma mort
 lorsque le phénix m'a mené à Grindelwald. J'ignorais que Fumseck me
-soutiendrait, me soignerait et resterait à mes côtés… » la voix du vieux
-sorcier chevrota un instant. « Cela reste tu… il te faut comprendre,
+soutiendrait, me soignerait et resterait à mes côtés… " la voix du vieux
+sorcier chevrota un instant. " Cela reste tu… il te faut comprendre,
 Harry, pourquoi cela reste tu… si l'intéressé savait, le phénix ne
 pourrait juger. Mais à toi, Harry, je peux maintenant le dire, car le
-phénix ne vient qu'une fois. »
+phénix ne vient qu'une fois. "
 
 Le vieux sorcier traversa le sommet de la tour Serdaigle vers un garçon
 enraciné dans une horreur croissante, croissante et absolue.
@@ -685,68 +689,71 @@ d'épuisement, et j'en serais ensuite mort s'il n'y avait eu Fumseck…*
 Harry ne sut qu'il s'était mis à parler qu'après que le murmure lui ait
 échappé -
 
-« Alors j'aurais *pu*… »
+" Alors j'aurais *pu*… "
 
-« Aurais-tu ? » dit le vieux sorcier, d'une voix aux accents bien plus
-âgés qu'à l'habitude. « Voilà maintenant trois fois qu'un phénix est
+" Aurais-tu ? " dit le vieux sorcier, d'une voix aux accents bien plus
+âgés qu'à l'habitude. " Voilà maintenant trois fois qu'un phénix est
 venu pour l'un de mes élèves. Une l'a renvoyé, et son deuil, je pense,
 l'a brisée. Et le dernier était un cousin de ta jeune amie Lavande
-Brown, et il… » la voix du vieux sorcier se brisa. « Il n'est pas
+Brown, et il… " la voix du vieux sorcier se brisa. " Il n'est pas
 revenu, pauvre John, et il n'a sauvé aucun de ceux qu'il souhaitait
 sauver. On dit, chez les rares érudits des légendes sur les phénix, que
 pas un sur quatre ne revient de son épreuve. Et même si tu avais survécu
 – la vie qu'il te faut vivre, Harry James Potter-Evans-Verres – les
 choix que tu dois faire, le chemin que tu dois suivre – toujours devoir
 entendre le cri du phénix – qui peut dire que cela ne t'aurait pas rendu
-fou ? » Le vieux sorcier releva à nouveau sa manche et se la passa une
-fois de plus sur le visage. « La compagnie de Fumseck m'apportait plus
-de joie avant que je combatte Voldemort. »
+fou ? " Le vieux sorcier releva à nouveau sa manche et se la passa une
+fois de plus sur le visage. " La compagnie de Fumseck m'apportait plus
+de joie avant que je combatte Voldemort. "
 
 Le garçon ne semblait pas écouter, ses yeux étaient entièrement sur
-l'oiseau rouge et or perché sur l'épaule du vieux sorcier. « Fumseck ? »
-dit le garçon d'une voix tremblante. « Pourquoi est-ce que tu ne me
-regardes pas, Fumseck ? »
+l'oiseau rouge et or perché sur l'épaule du vieux sorcier. " Fumseck ? "
+dit le garçon d'une voix tremblante. " Pourquoi est-ce que tu ne me
+regardes pas, Fumseck ? "
 
 Le phénix leva la tête pour regarder le garçon avec curiosité puis se
 retourner à nouveau vers son maître.
 
-« Tu vois ? » dit le vieux sorcier. « Il ne te rejette pas. Fumseck ne
+" Tu vois ? " dit le vieux sorcier. " Il ne te rejette pas. Fumseck ne
 s'intéresse peut-être plus à toi de cette façon particulière à présent,
-et il sait… » le sorcier sourit sèchement, « que tu n'es pas exactement
+et il sait… " le sorcier sourit sèchement, " que tu n'es pas exactement
 loyal envers son maître. Mais celui qu'un phénix approche… ne peut être
-celui qu'un phénix déteste. » La voix du sorcier redevint un soupir. « On n'a jamais vu d'oiseau sur l'épaule de Godric Gryffondor. Même si ce
+celui qu'un phénix déteste. " La voix du sorcier redevint un soupir. "
+On n'a jamais vu d'oiseau sur l'épaule de Godric Gryffondor. Même si ce
 n'est pas révélé parmi ses secrets, je pense qu'il a renvoyé son phénix
 avant de choisir le rouge et l'or pour couleurs. Peut-être la
 culpabilité le poussa-t-il à faire plus que ce qu'il aurait osé
 poursuivre autrement. Ou peut-être cela lui a-t-il enseigné l'humilité
-et un respect pour la faillibilité humaine, pour l'échec… » le vieux
-sorcier inclina la tête. « J'ignore véritablement si ton choix fut sage.
+et un respect pour la faillibilité humaine, pour l'échec… " le vieux
+sorcier inclina la tête. " J'ignore véritablement si ton choix fut sage.
 J'ignore véritablement si c'était la bonne chose à faire, ou la
-mauvaise. Si je l'avais su, Harry, j'aurais parlé. Mais je… » la voix de
-Dumbledore se brisa alors. « je ne suis rien d'autre qu'un jeune garçon
-idiot devenu un vieil homme idiot, et je ne possède aucune sagesse. »
+mauvaise. Si je l'avais su, Harry, j'aurais parlé. Mais je… " la voix de
+Dumbledore se brisa alors. " je ne suis rien d'autre qu'un jeune garçon
+idiot devenu un vieil homme idiot, et je ne possède aucune sagesse. "
 
 Harry n'arrivait pas à respirer, la nausée semblait emplir et déborder
 de son corps depuis son estomac solidifié. Il était soudainement et
 atrocement certain qu'il avait échoué, d'un échec définitif, ce soir là…
 
-Le garçon pivota et courut jusqu'au bord de la tour Serdaigle. « Reviens ! » sa voix se brisa et devint un glapissement. « *Reviens !* »
+Le garçon pivota et courut jusqu'au bord de la tour Serdaigle. "
+Reviens ! " sa voix se brisa et devint un glapissement. " *Reviens !* "
 
-
+ 
 
 ------------------------------------------------------------------------
 
+ 
 
-
-*Après-coup final :*
+*Après-coup final :*
 
 Elle s'éveilla dans un hoquet d'horreur, elle s'éveilla un cri muet sur
 les lèvres et aucun mot ne vint, elle ne pouvait comprendre ce qu'elle
 avait vu, *elle ne pouvait comprendre ce qu'elle avait vu…*
 
-« Quelle heure est-il ? » murmura-t-elle.
+" Quelle heure est-il ? " murmura-t-elle.
 
-Son réveil-matin en or et serti de joyaux lui murmura en retour : « Environ onze heures. Rendors-toi. »
+Son réveil-matin en or et serti de joyaux lui murmura en retour : "
+Environ onze heures. Rendors-toi. "
 
 Ses draps et sa chemise de nuit étaient inondés de sueur, elle prit sa
 baguette à côté de son oreiller et se sécha avant d'essayer de se

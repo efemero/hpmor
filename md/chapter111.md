@@ -4,7 +4,7 @@
 Le Seigneur des Ténèbres riait.
 
 Le rire fou du professeur de Défense venait de nulle part, si flûté, si
-terrible ; c'était le rire de Voldemort à présent, le rire du Seigneur
+terrible ; c'était le rire de Voldemort à présent, le rire du Seigneur
 des Ténèbres, sans dissimulation, sans retenue.
 
 L'esprit de Harry était en piteux état. Son regard ne quittait pas
@@ -19,29 +19,29 @@ chance, et cela signifiait que la guerre était aussi perdue.
 
 Et le Seigneur des Ténèbres continuait de rire.
 
-« Ah, ah hah, ah hah hah ha ! Professeur Dumbledore, ah, professeur
-Dumbledore, quelle fin appropriée à notre jeu ! » Un autre éclat de rire.
-« Le mauvais sacrifice, même à la fin, car la pièce que tu as tout
-abandonné pour sauver était déjà entre mes mains ! Le mauvais piège
-depuis le début, car j'aurais pu abandonner ce corps n'importe quand !
-Ah, hahahahaha, aha ! Tu n'as jamais appris la ruse, pauvre vieil
-imbécile. »
+"Ah, ah hah, ah hah hah ha ! Professeur Dumbledore, ah, professeur
+Dumbledore, quelle fin appropriée à notre jeu !" Un autre éclat de rire.
+"Le mauvais sacrifice, même à la fin, car la pièce que tu as tout
+abandonné pour sauver était déjà entre mes mains ! Le mauvais piège
+depuis le début, car j'aurais pu abandonner ce corps n'importe quand !
+Ah, hahahahaha, aha ! Tu n'as jamais appris la ruse, pauvre vieil
+imbécile."
 
-« Vous… » une voix émergea de la gorge de Harry. « Vous… »
+"Vous…" une voix émergea de la gorge de Harry. "Vous…"
 
-« Ahahahaha ! Mais oui, petit enfant, si tu m'as accompagné dans cette
+"Ahahahaha ! Mais oui, petit enfant, si tu m'as accompagné dans cette
 aventure, c'est pour être mon otage, c'était le seul but de ta présence
-ici. Ha, hahahaha ! Il te manque des décennies pour pouvoir jouer à ce
-jeu contre le véritable Tom Jedusor, petit. » Le Seigneur des Ténèbres
-ôta sa capuche et sa tête devint visible ; il commença à enlever le
-reste de la Cape. « Et maintenant, petit, *tu m'as aidé, bien aidé, et il
+ici. Ha, hahahaha ! Il te manque des décennies pour pouvoir jouer à ce
+jeu contre le véritable Tom Jedusor, petit." Le Seigneur des Ténèbres
+ôta sa capuche et sa tête devint visible ; il commença à enlever le
+reste de la Cape. "Et maintenant, petit, *tu m'as aidé, bien aidé, et il
 est donc temps de resssussciter ton amie enfant-fille. Pour tenir
-parole.* » Le sourire du Seigneur des Ténèbres était froid, très froid.
-« J'imagine que tu as des doutes ? Rends-toi bien compte que je pourrais
+parole.*" Le sourire du Seigneur des Ténèbres était froid, très froid.
+"J'imagine que tu as des doutes ? Rends-toi bien compte que je pourrais
 te tuer sur-le-champ, car il n'y a plus de directeur à Poudlard pour
 s'en rendre compte. Doutes de moi tant que tu veux, mais souviens toi de
-ça. » Sa main tenait à nouveau le pistolet. « Maintenant viens avec moi,
-enfant insensé. »
+ça." Sa main tenait à nouveau le pistolet. "Maintenant viens avec moi,
+enfant insensé."
 
 Et ils partirent.
 
@@ -53,7 +53,7 @@ calcinée. Le Seigneur des Ténèbres lévita jusqu'à la trappe et Harry
 monta tant bien que mal à sa suite le long de l'escalier de feuilles en
 spirales, les tiges du Filet du Diable comme apeurées sous ses pieds. Le
 Survivant faisait de son mieux pour ne pas éclater en sanglots, et ses
-motifs de pensée obscurs ne l'aidaient pas ; peut-être parce que
+motifs de pensée obscurs ne l'aidaient pas ; peut-être parce que
 Voldemort n'avait jamais connu la culpabilité.
 
 Ils dépassèrent l'immense Inferi à trois têtes qui, d'un murmure du
@@ -63,23 +63,23 @@ Ils dépassèrent Severus Rogue, qui montait la garde, et qui leur dit à
 tous deux que c'était ce qu'il faisait, et qu'ils devaient partir, sans
 quoi il leur enlèverait des points de Maison.
 
-Le Seigneur des Ténèbres dit « *Hyakuju montauk* » sans marquer d'arrêt et
-agita vivement sa baguette ; Severus vacilla avant de se redresser,
+Le Seigneur des Ténèbres dit "*Hyakuju montauk*" sans marquer d'arrêt et
+agita vivement sa baguette ; Severus vacilla avant de se redresser,
 comme mort, et de se placer à nouveau devant la porte.
 
-« Qu'est-ce que… » dit Harry en le suivant, « qu'est-ce que vous avez… »
+"Qu'est-ce que…" dit Harry en le suivant, "qu'est-ce que vous avez…"
 
-« Seulement mon devoir envers mon fidèle serviteur. Je ne le tuerai pas,
-comme je te l'ai promis. » Le Seigneur des Ténèbres rit à nouveau.
+"Seulement mon devoir envers mon fidèle serviteur. Je ne le tuerai pas,
+comme je te l'ai promis." Le Seigneur des Ténèbres rit à nouveau.
 
-« Les otages… » dit Harry. Il avait du mal à garder une voix neutre. « Les
-élèves, vous avez dit que vous alliez annuler ce qui va les tuer… »
+"Les otages…" dit Harry. Il avait du mal à garder une voix neutre. "Les
+élèves, vous avez dit que vous alliez annuler ce qui va les tuer…"
 
-« *Oui. Cessse de t'en ssoucier. Nous le ferons en ssortant.* »
+"*Oui. Cessse de t'en ssoucier. Nous le ferons en ssortant.*"
 
-« En sortant ? »
+"En sortant ?"
 
-« Nous partons, petit. » Le Seigneur des Ténèbres souriait toujours.
+"Nous partons, petit." Le Seigneur des Ténèbres souriait toujours.
 
 Ces nouvelles inquiétudes furent noyées dans un océan d'émotions
 négatives.
@@ -115,58 +115,58 @@ de Défense. Si elle avait le regard vide, Harry n'arrivait pas à le
 voir.
 
 Le Seigneur des Ténèbres plongea une main dans ses robes, en sortit une
-Noise et la lui jeta. « Klaudia Alicja Tabor, voici mes ordres : porte
+Noise et la lui jeta. "Klaudia Alicja Tabor, voici mes ordres : porte
 cette Noise au cercle magique que je t'ai montré sous les gradins de
 Quidditch et place-la au centre de celui-ci. Puis Oubliette-toi les six
-dernières heures. »
+dernières heures."
 
-« Oui, seigneur, » dit la sorcière avant de s'incliner et de partir.
+"Oui, seigneur," dit la sorcière avant de s'incliner et de partir.
 
-« Je pensais… » dit Harry. « Je pensais que vous aviez besoin de la Pierre
-pour… »
+"Je pensais…" dit Harry. "Je pensais que vous aviez besoin de la Pierre
+pour…"
 
-Le Seigneur des Ténèbres souriait toujours ; il n'avait jamais cessé de
-le faire. « Je n'ai pas dit ça en Fourchelangue, petit. Tout ce que j'ai
+Le Seigneur des Ténèbres souriait toujours ; il n'avait jamais cessé de
+le faire. "Je n'ai pas dit ça en Fourchelangue, petit. Tout ce que j'ai
 dit en Fourchelangue, c'est que j'avais mis en place un plan destiné à
 tuer des élèves et que je l'interromprais si j'obtenais la Pierre. Le
 reste était en langue humaine. J'aurais aussi interrompu le sacrifice de
 la Forteresse de Sang si je n'avais pas obtenu la Pierre, du moment que
 j'étais libre de mes mouvements et toujours sous couverture. Les élèves
 de Poudlard sont une importante ressource que j'ai passé longtemps à
-entraîner. » Puis le Seigneur des Ténèbres siffla à l'adresse du mur :
-« *Ouvre-toi.* »
+entraîner." Puis le Seigneur des Ténèbres siffla à l'adresse du mur :
+"*Ouvre-toi.*"
 
 Les yeux de Harry virent le petit serpent placé en haut à gauche de la
 gravure lorsque les murs pivotèrent lentement vers l'arrière et
 révélèrent l'entrée d'un immense tunnel circulaire. De la mousse
 poussait le long de ses parois et une odeur de poussière et de moisi
-s'en dégageait ; l'intérieur était aussi recouvert de multiples couches
+s'en dégageait ; l'intérieur était aussi recouvert de multiples couches
 de toiles d'araignées.
 
-« Des araignées… » murmura le Seigneur des Ténèbres. Il soupira, et
+"Des araignées…" murmura le Seigneur des Ténèbres. Il soupira, et
 l'espace d'un bref instant ressembla plus au professeur Quirrell.
 
-Le Seigneur des Ténèbres s'avança dans l'immense tuyau ; les toiles
+Le Seigneur des Ténèbres s'avança dans l'immense tuyau ; les toiles
 brûlaient devant lui. Harry, ne voyant pas d'autre possibilité, le
 suivit.
 
 Le tuyau forma un Y une fois, puis une autre. Le Seigneur des Ténèbres
 alla à gauche, puis à droite.
 
-Le tuyau déboucha sur un mur de métal. « *Ouvre-toi,* » siffla le Seigneur
+Le tuyau déboucha sur un mur de métal. "*Ouvre-toi,*" siffla le Seigneur
 des Ténèbres, et le métal se fêla avant de se replier sur lui-même.
 
 Le tuyau donnait au beau milieu d'un long tunnel de pierre.
 
-« Nous allons marcher un moment, » dit le Seigneur des Ténèbres. « Avais-tu
-d'autres questions pour moi, petit enfant ? »
+"Nous allons marcher un moment," dit le Seigneur des Ténèbres. "Avais-tu
+d'autres questions pour moi, petit enfant ?"
 
-« Je… aucune ne me vient à l'esprit… pour l'instant… »
+"Je… aucune ne me vient à l'esprit… pour l'instant…"
 
 Un autre rire froid lui répondit et ils s'avancèrent dans le tunnel,
 prenant à droite.
 
-Il ignora, et il ne sut jamais, combien de temps ils marchèrent ; la
+Il ignora, et il ne sut jamais, combien de temps ils marchèrent ; la
 lumière des toiles en train de brûler était trop faible pour éclairer sa
 montre mécanique, et il n'avait pas pensé à regarder l'heure avant
 d'entrer. Il eut l'impression qu'ils marchèrent le long de kilomètres et
@@ -224,7 +224,7 @@ plan aussi compliqué.*
 
 *Dans un autre genre*, se hasarda Serpentard, *peut-être que le
 professeur Quirrell va demander à quelqu'un d'autre de nous faire perdre
-la mémoire. Légilimancie, Imperius, Confundus, qui sait ; nous ne sommes
+la mémoire. Légilimancie, Imperius, Confundus, qui sait ; nous ne sommes
 pas un Occlumens parfait. Et il aurait alors un lieutenant intelligent -
 enfin, plus ou moins intelligent - à son service. Ça pourrait aussi
 expliquer pourquoi le professeur Quirrell avait tant envie de nous dire
@@ -247,15 +247,15 @@ que celui qui Écoutait demeurait anesthésié par l'horreur et la honte.
 Gryffondor et Poufsouffle débattaient d'un plan suicide consistant à
 foncer sur le pistolet du Seigneur des Ténèbres ou à avaler le petit
 caillou au doigt de Harry. Est-ce qu'il valait mieux pour le monde que
-le Seigneur des Ténèbres n'ait pas Harry en esclavage mental ? Si le
+le Seigneur des Ténèbres n'ait pas Harry en esclavage mental ? Si le
 Seigneur des Ténèbres allait gagner, peut-être qu'il valait mieux que ça
 se fasse rapidement.
 
-Et la dernière voix continuait de parler à travers tout ceci ; même au
+Et la dernière voix continuait de parler à travers tout ceci ; même au
 plus profond de l'échec, la dernière voix demeurait. *Qu'est-ce que le
 Seigneur des Ténèbres a toujours dit en langue humaine et jamais en
-Fourchelangue ? Est-ce qu'on s'en souvient ? N'importe quoi, juste un
-mot ?*
+Fourchelangue ? Est-ce qu'on s'en souvient ? N'importe quoi, juste un
+mot ?*
 
 C'était trop lointain, trop lointain alors même que cela avait eu lieu
 aujourd'hui. Le Seigneur des Ténèbres lui avait dit à l'instant en
@@ -276,7 +276,7 @@ voix. *À Godric's Hollow, la nuit d'Halloween, le corps du Seigneur des
 Ténèbres a brûlé et on n'a eu qu'une cicatrice sur le front. Supposons
 que la résonance entre nous est plus dangereuse pour le Seigneur des
 Ténèbres que pour nous. Et si, pendant tout ce temps, on avait pu tuer
-le Seigneur des Ténèbres en fonçant vers lui et en touchant sa peau ? Et
+le Seigneur des Ténèbres en fonçant vers lui et en touchant sa peau ? Et
 notre cicatrice se remettrait à saigner, mais ce serait tout. La
 sensation de 'non, arrête' nous vient du pire souvenir du Seigneur des
 Ténèbres, de son erreur à Godric's Hollow, elle ne s'applique peut-être
@@ -310,7 +310,7 @@ Il est prêt, et il attend.*
 qu'on puisse lancer des sortilèges sur le professeur Quirrell sans
 problème mais que lui ne peut pas nous en lancer.*
 
-*Pourquoi est-ce que ça serait vrai ?* demanda Serdaigle. *En fait, on a
+*Pourquoi est-ce que ça serait vrai ?* demanda Serdaigle. *En fait, on a
 des raisons de croire que c'est faux. À Azkaban, on a eu l'impression
 que notre tête se fendait en deux quand l'Avada Kedavra du professeur
 Quirrell a touché notre Patronus…*
@@ -318,7 +318,7 @@ Quirrell a touché notre Patronus…*
 *Supposons que c'était* sa *magie qui partait en vrille. Peut-être si on
 lui avait lancé un simple Luminos, rien ne se serait produit.*
 
-*Mais pourquoi ?* dit Serdaigle. *Pourquoi supposer ça ?*
+*Mais pourquoi ?* dit Serdaigle. *Pourquoi supposer ça ?*
 
 *Parce*, pensa Harry, *ça explique pourquoi le professeur Quirrell ne
 m'a pas* mis en garde *à ce sujet à Azkaban. Parce que je ne me souviens
@@ -349,7 +349,7 @@ un truc qu'il ignore.*
 *Le Seigneur des Ténèbres* sait *qu'on peut détruire, repousser et
 peut-être contrôler les Détraqueurs*,, répondit Serdaigle. *Il ne sait
 pas comment, mais il sait qu'on en est capable, et de toute façon, où
-est-ce qu'on irait trouver un Détraqueur ?*
+est-ce qu'on irait trouver un Détraqueur ?*
 
 *Peut-être*, suggéra Poufsouffle, *que tout le système de Horcruxe du
 Seigneur des Ténèbres se ferait court-circuiter par la résonance si on
@@ -365,7 +365,7 @@ alors le système de Horcruxe* pourrait *avoir ce genre de faille. Il n'a
 jamais pensé à tester ses Horcruxes sur quelqu'un d'autre, ça pourrait
 indiquer qu'il n'est pas capable d'y réfléchir sainement…*
 
-*Donc son point faible, c'est sa peur de la mort ?* dit Serdaigle.
+*Donc son point faible, c'est sa peur de la mort ?* dit Serdaigle.
 *Désolé mais non. Je crois que quelqu'un qui a plus de cent Horcruxes
 n'aurait pas créé pas un système aussi peu sécurisé.*
 
@@ -379,11 +379,11 @@ peut-être plus dangereusement. Cela expliquait l'événement de Godric's
 Hollow (Voldemort explose et le bébé survit) aussi bien que celui
 d'Azkaban (Voldemort sévèrement touché par la force de sa propre magie,
 Survivant en première année moins touché par sa magie plus faible). Ou
-bien seule la magie du lanceur de sortilège résonnait : cela expliquait
+bien seule la magie du lanceur de sortilège résonnait : cela expliquait
 aussi les deux observations. Cela pouvait aussi expliquer pourquoi le
 professeur Quirrell ne s'était pas empressé de dire à Harry de ne lui
 lancer aucun sortilège. Mais il y avait une autre explication très
-simple à la réticence du professeur Quirrell à parler de résonance :
+simple à la réticence du professeur Quirrell à parler de résonance :
 c'était un indice colossal pour Godric's Hollow, et Harry aurait pu
 faire le lien.
 
@@ -392,7 +392,7 @@ en profita pour remarquer, puisqu'on parlait de choses évidentes, que,
 depuis le jour où les choses étaient devenues sérieuses à Poudlard, ils
 auraient vraiment, vraiment, *vraiment*, *VRAIMENT* dû reconsidérer la
 décision qu'ils avaient prise le premier jeudi de l'année, sur le
-conseil du professeur McGonagall : *de ne pas parler à Dumbledore de la
+conseil du professeur McGonagall : *de ne pas parler à Dumbledore de la
 sensation funeste que Harry ressentait à proximité du professeur
 Quirrell*. Harry n'avait effectivement pas su à qui faire confiance, et
 pendant un moment il avait été plausible que Dumbledore soit le méchant
@@ -405,9 +405,9 @@ Il aurait compris tout de suite.
 Le sage vieux sorcier et son vrai phénix auraient tout de suite su, et
 Harry ne lui avait pas fait confiance, il ne lui avait pas donné les
 informations vitales, et la raison n'était autre qu'une pure et simple
-négligence : celle de ne pas reconsidérer une décision enregistrée
+négligence : celle de ne pas reconsidérer une décision enregistrée
 quatre jours après le début de l'année. Même après Azkaban, l'étiquette
-'ne pas en parler à Dumbledore' avait été là ; même après la mort de
+'ne pas en parler à Dumbledore' avait été là ; même après la mort de
 Hermione, même après tout le reste. Harry avait simplement oublié de
 ramener la question dans le domaine conscient, de reconsidérer son
 choix.
@@ -424,7 +424,7 @@ Le Seigneur des Ténèbres monta quelques escaliers, et Harry le suivit.
 Ils émergèrent dans un bâtiment de pierre noire et humide. De vieilles
 portes de pierre sales s'ouvrirent sans être touchées.
 
-Devant eux, des plaques de marbres jaillissant du sol ; sur elles, des
+Devant eux, des plaques de marbres jaillissant du sol ; sur elles, des
 noms et des dates. Les tombes étaient éparpillées au hasard, et tout le
 cimetière était laissé à l'abandon.
 
@@ -449,25 +449,25 @@ crépusculaire.
 
 La vaine alarme dans le cerveau de Harry devint plus forte.
 
-« Ceci, » dit le Seigneur des Ténèbres à la façon du professeur Quirrell,
-« est un plan de travail que je me suis fait, accessible depuis Poudlard
-et Pré-au-Lard. » Le Seigneur des Ténèbres tendit une main vers l'autel.
-« C'est là que Mlle Granger vivra à nouveau, et aussi là que je renaîtrai
+"Ceci," dit le Seigneur des Ténèbres à la façon du professeur Quirrell,
+"est un plan de travail que je me suis fait, accessible depuis Poudlard
+et Pré-au-Lard." Le Seigneur des Ténèbres tendit une main vers l'autel.
+"C'est là que Mlle Granger vivra à nouveau, et aussi là que je renaîtrai
 dans mon vrai corps. Je vais me reconstruire d'abord, évidemment. *Magie
-pour resssussciter fille-enfant plus ssimple avec vrai corps.* » Un
-étrange rire serpentin accompagna ces mots. « *Ssois asssuré que même ssi
+pour resssussciter fille-enfant plus ssimple avec vrai corps.*" Un
+étrange rire serpentin accompagna ces mots. "*Ssois asssuré que même ssi
 la résssurection de fille-enfant peut être conssidérée comme magie
 noire, fille-enfant ne souffrira pas, ne ssera pas rendue laide. Elle
 resssemblera à elle-même, sson essprit ssera le ssien, et ni moi ni les
-miens ne lui ferons de mal ensuite.* »
+miens ne lui ferons de mal ensuite.*"
 
 Harry avait la bouche sèche et son esprit avait du mal à fonctionner.
-« Professeur, s'il-vous-plaît, pourriez-vous me dire en Fourchelangue la
-véritable raison pour laquelle vous ressuscitez Mlle Granger ? »
+"Professeur, s'il-vous-plaît, pourriez-vous me dire en Fourchelangue la
+véritable raison pour laquelle vous ressuscitez Mlle Granger ?"
 
-« *Pour te rendre les consseils et la prudence d'amie fille-enfant. Pour
+"*Pour te rendre les consseils et la prudence d'amie fille-enfant. Pour
 asssurer que tu te ssoucies d'un monde où elle sse trouve. Ceci, petit,
-est ma principale raisson d'agir.* » Un nouveau rire de serpent
+est ma principale raisson d'agir.*" Un nouveau rire de serpent
 accompagna ses mots, évoquant la sardonique compréhension de quelque
 vaste ironie.
 
@@ -481,7 +481,7 @@ Peut-être n'avait-il simplement jamais compris le professeur Quirrell,
 peut-être que le modèle que Harry avait de Tom Jedusor était à ce point
 mauvais… peut-être que le Survivant serait Oublietté de cette journée et
 largué quelque part avec une Hermione Granger désorientée, pendant que
-Lord Voldemort continuait sa conquête du monde… ?
+Lord Voldemort continuait sa conquête du monde… ?
 
 L'espoir flamba en Harry, mais c'était un espoir embrouillé qui n'avait
 pas de sens. Cela ne correspondait pas au Seigneur des Ténèbres qui
@@ -497,7 +497,7 @@ extraire une fiole d'un liquide qui, sous la lumière du crépuscule,
 semblait noir.
 
 Lorsque le Seigneur des Ténèbres parla à nouveau, sa voix fut précise,
-saccadée : « Du sang, du sang, du sang si sagement caché, » dit-il.
+saccadée : "Du sang, du sang, du sang si sagement caché," dit-il.
 
 Et les obélisques autour de l'autel se mirent à chanter en chœur, des
 voix émanant de la pierre immobile, des cadences plus anciennes que le
@@ -536,14 +536,14 @@ doigts, toucha sa poitrine de sa baguette.
 
 Puis il rejeta sa tête en arrière et rit.
 
-« Incroyable, » dit le Seigneur des Ténèbres, de la voix du professeur de
-Défense que Harry avait connu. « Permanente, sa forme est permanente !
+"Incroyable," dit le Seigneur des Ténèbres, de la voix du professeur de
+Défense que Harry avait connu. "Permanente, sa forme est permanente !
 Une simple apparence donnée par la magie devient la véritable substance
-dès que la Pierre la touche ! Et je n'ai rien senti ! Rien ! Je croyais
+dès que la Pierre la touche ! Et je n'ai rien senti ! Rien ! Je croyais
 avoir été dupé, avoir obtenu une fausse Pierre, mais la substance
-résiste à tous mes tests ! » Le professeur de Défense glissa de nouveau
-le morceau de verre dans ses robes. « J'admets que c'est profondément
-étrange, même pour moi. »
+résiste à tous mes tests !" Le professeur de Défense glissa de nouveau
+le morceau de verre dans ses robes. "J'admets que c'est profondément
+étrange, même pour moi."
 
 Puis le professeur de Défense tourna autour de l'autel, cinq fois, en
 chantant trop bas pour que Harry entende.
@@ -552,10 +552,10 @@ Il plaça sa baguette sur la main de la silhouette allongée sur l'autel.
 
 Il plaça ses deux mains sur le front du corps.
 
-Puis le Seigneur des Ténèbres parla. « *Fal. Tor. Pan.* »
+Puis le Seigneur des Ténèbres parla. "*Fal. Tor. Pan.*"
 
 Sans avertissement, une lueur vive comme un éclair inonda tout le
-cimetière et Harry fit un pas en arrière ; ses mains touchèrent
+cimetière et Harry fit un pas en arrière ; ses mains touchèrent
 instinctivement son front. Il avait l'impression qu'on lui avait tiré
 dessus, ou qu'une abeille avait piqué sa cicatrice.
 
@@ -573,57 +573,57 @@ terrifiante appréhension emplir l'espace, comme si la sensation funeste
 avait toujours été *floue* et venait de devenir nette, de se concentrer
 en une douleur physique située dans la cicatrice de Harry.
 
-Est-ce que Voldemort était *censé* ressembler à ça ? Le nez avait l'air,
+Est-ce que Voldemort était *censé* ressembler à ça ? Le nez avait l'air,
 il avait l'air d'avoir subi une *défaillance* pendant la résurrection…
 
 La silhouette trop grande renversa sa tête en arrière et rit en levant
 ses mains et sa baguette pour mieux les observer. Sa main gauche
 s'ouvrit grand, elle était pâle, comme une demi-araignée avec quatre
-pattes trop grandes ; ses doigts caressaient la baguette tenue dans son
+pattes trop grandes ; ses doigts caressaient la baguette tenue dans son
 autre main. Des feuilles se soulevèrent du sol du cimetière,
 s'approchèrent pour danser autour de la silhouette trop grande,
 l'entourèrent, le vêtirent, prirent la forme d'une chemise à col montant
-et de robes ; et Lord Voldemort riait toujours. Exactement le rire sans
+et de robes ; et Lord Voldemort riait toujours. Exactement le rire sans
 joie que Harry s'était souvenu entendre émaner de sa propre gorge dans
 le cauchemar du Détraqueur, précisément de ce ton, de ce timbre.
 
 Des yeux rouges brillaient dans le crépuscule, leurs pupilles fendues
 comme celles d'un chat.
 
-Le corps que Voldemort avait abandonnée se releva, tremblant ; et d'une
-voix que Harry pouvait à peine entendre, Quirinus Quirrell haleta :
-« Libre… oh, libre… »
+Le corps que Voldemort avait abandonnée se releva, tremblant ; et d'une
+voix que Harry pouvait à peine entendre, Quirinus Quirrell haleta :
+"Libre… oh, libre…"
 
-« *Stupéfix*, » dit la voix froide et flûtée de Voldemort, et Quirinus
+"*Stupéfix*," dit la voix froide et flûtée de Voldemort, et Quirinus
 Quirrell fut projeté au sol. Puis, d'un mouvement de son autre main, il
 fut soulevé et envoyé loin de l'autel.
 
-Voldemort s'éloigna de l'autel puis se retourna et regarda Harry ; la
+Voldemort s'éloigna de l'autel puis se retourna et regarda Harry ; la
 douleur dans sa cicatrice s'embrasa.
 
-« Effrayé, petit ? » siffla Voldemort, et on aurait dit que le
+"Effrayé, petit ?" siffla Voldemort, et on aurait dit que le
 Fourchelangue sous-tendait même la parole humaine du Seigneur des
-Ténèbres. « Bien. Place la fille sur l'autel, et mets fin à ta
-métamorphose. *Il est temps de la resssussciter.* »
+Ténèbres. "Bien. Place la fille sur l'autel, et mets fin à ta
+métamorphose. *Il est temps de la resssussciter.*"
 
-*C'est vrai ? On va vraiment le faire ?*
+*C'est vrai ? On va vraiment le faire ?*
 
 Harry déglutit et maîtrisa sa peur grâce à cet impossible espoir entouré
 de confusion. Il marcha vers l'autel, puis enleva sa chaussure gauche,
 sa chaussette gauche, et l'anneau de pied qu'était Hermione Granger. La
 forme métamorphosée était identique au Portoloin d'urgence qu'on lui
 avait donné. Il eut un pincement de regret de ne pas avoir le véritable
-Portoloin, mais seulement un pincement : si Severus avait dit vrai, les
+Portoloin, mais seulement un pincement : si Severus avait dit vrai, les
 Mangemorts hauts placés mettaient souvent en place des barrières contre
 les Portoloin. Derrière Harry, Voldemort rit à nouveau, un rire
 appréciateur et surpris.
 
-« J'ai besoin de ma baguette pour lancer *Finite Incantatem*, » dit Harry.
+"J'ai besoin de ma baguette pour lancer *Finite Incantatem*," dit Harry.
 
-« Non. » La voix aiguë était cruelle. « Tu as appris à maintenir une
+"Non." La voix aiguë était cruelle. "Tu as appris à maintenir une
 métamorphose par le toucher, sans utiliser de baguette. Tu peux aussi
 mettre fin à ta propre métamorphose sans baguette, en ordonnant à ta
-magie de s'écouler. Fais-le maintenant. »
+magie de s'écouler. Fais-le maintenant."
 
 Harry déglutit et toucha l'anneau de pied. Il dut s'y reprendre à trois
 fois et vider son esprit avant de parvenir à pousser la magie hors de
@@ -649,20 +649,20 @@ métamorphosés.
 Cette vue fit remonter des souvenirs des heures passées dans
 l'infirmerie, des cauchemars qui avaient suivis et qu'il avait réprimés.
 
-« Éloignes-toi, » dit la voix aiguë de Voldemort. « C'est à mon tour,
-maintenant. »
+"Éloignes-toi," dit la voix aiguë de Voldemort. "C'est à mon tour,
+maintenant."
 
 Harry déglutit et s'écarta de l'autel vers l'entrée du long couloir où
-il s'était tenu plus tôt. « Son corps est, devrait être à cinq degrés
+il s'était tenu plus tôt. "Son corps est, devrait être à cinq degrés
 Celsius, je l'ai refroidie pour qu'il n'y ait pas de lésions
-cérébrales… » la voix de Harry passait d'une octave à l'autre. *Il va
-vraiment faire ça ? Vraiment ?* Il devait y avoir un piège, mais
-lequel ? Voldemort avait dit que ni lui ni les siens ne feraient de mal
-à Hermione, que son esprit et son corps seraient sien… *pourquoi ?*
+cérébrales…" la voix de Harry passait d'une octave à l'autre. *Il va
+vraiment faire ça ? Vraiment ?* Il devait y avoir un piège, mais
+lequel ? Voldemort avait dit que ni lui ni les siens ne feraient de mal
+à Hermione, que son esprit et son corps seraient sien… *pourquoi ?*
 
 Voldemort s'avança à nouveau vers l'autel et redressa le corps d'un
 geste de la main. Le Seigneur des Ténèbres parlait d'un ton monotone et
-très précis. « Chair, chair, chair si sagement cachée. »
+très précis. "Chair, chair, chair si sagement cachée."
 
 Les obélisques chantèrent à nouveau.
 
@@ -687,7 +687,7 @@ tressailli, comme s'il venait de voir le Seigneur des Ténèbres attaquer
 le professeur Quirrell.
 
 Voldemort plongea sa main dans la veste, qui eut un soubresaut, comme si
-quelque chose venait d'être brisé ; puis il jeta vivement la veste au
+quelque chose venait d'être brisé ; puis il jeta vivement la veste au
 sol et déversa son contenu. La bourse de Harry tomba, ainsi que son
 Retourneur de Temps, un balais, le pistolet de Voldemort, la Cape et
 plusieurs amulettes, anneaux et appareils étranges que Harry ne reconnut
@@ -699,9 +699,9 @@ et laissé là un moment.
 Plusieurs minutes s'écoulèrent. Le Seigneur des Ténèbres enfila une
 amulette tirée du tas d'objets à côté de l'autel. De ce tas, Voldemort
 prit aussi quatre courts bâtons de bois équipés de sangles qu'il attacha
-par-dessous ses robes ; ils se fixaient apparemment aux avant-bras et
+par-dessous ses robes ; ils se fixaient apparemment aux avant-bras et
 aux cuisses. Le Seigneur des Ténèbres s'éleva dans les airs, alla à
-gauche, à droite, en haut et en bas, légèrement vacillant au début ;
+gauche, à droite, en haut et en bas, légèrement vacillant au début ;
 puis son vol devint plus stable.
 
 Le morceau de verre rouge pivota, légèrement.
@@ -709,43 +709,43 @@ Le morceau de verre rouge pivota, légèrement.
 Le Seigneur des Ténèbres redescendit jusqu'au sol et toucha le corps de
 Hermione Granger avec sa baguette.
 
-« *Il y a un obsstacle*, » siffla Voldemort.
+"*Il y a un obsstacle*," siffla Voldemort.
 
 Harry s'était tellement attendu à une trahison ou à un échec que la
-confirmation ne fut qu'un choc sourd, sans violence. « *Quel
-obsstacle ?* »
+confirmation ne fut qu'un choc sourd, sans violence. "*Quel
+obsstacle ?*"
 
-« *Corps de fille est resstauré. Ssubstance réparée. Mais ni magie, ni
-vie… c'est le cadavre d'une Moldue.* » Voldemort se détourna de l'autel
-et se mit à faire les cent pas. « La version complète du rituel
+"*Corps de fille est resstauré. Ssubstance réparée. Mais ni magie, ni
+vie… c'est le cadavre d'une Moldue.*" Voldemort se détourna de l'autel
+et se mit à faire les cent pas. "La version complète du rituel
 résoudrait ça. Mais cela prendrait du temps… du temps et le sang de
 l'ennemi de Granger, et je ne pense pas que Drago Malfoy fasse toujours
 l'affaire, pas plus que je ne peux prendre mon propre sang contre ma
-volonté… idiot. » La voix de Voldemort était devenue un sourd sifflement.
-« Idiot, j'aurais dû le prévoir et me préparer. Je connais assez la
+volonté… idiot." La voix de Voldemort était devenue un sourd sifflement.
+"Idiot, j'aurais dû le prévoir et me préparer. Je connais assez la
 médecine Moldue pour savoir que son cerveau se réveillera peut-être
-grâce à un choc électrique… mais sa magie lui reviendrait-elle ? Je ne
+grâce à un choc électrique… mais sa magie lui reviendrait-elle ? Je ne
 sais pas, et je pense que si elle se réveille Moldue, elle le sera pour
-toujours. Mais je n'ai pas de meilleure idée. » Le Seigneur des Ténèbres
+toujours. Mais je n'ai pas de meilleure idée." Le Seigneur des Ténèbres
 leva sa baguette…
 
-« Attendez ! » lâcha soudain Harry. Il sentit l'espoir remonter. *Elle a
+"Attendez !" lâcha soudain Harry. Il sentit l'espoir remonter. *Elle a
 besoin d'une étincelle de vie et de magie, juste d'une étincelle pour la
 relancer…*
 
 Voldemort se tourna pour le regarder. Le visage de serpent parut
 légèrement surpris.
 
-« *Je crois que j'ai quelque chosse qui pourrait marcher,* » siffla Harry.
-« *Bessoin de baguette. Pas l'intention de l'utilisser contre vous.* »
-Harry ne dit rien quant à la possibilité que ses intentions changent ;
+"*Je crois que j'ai quelque chosse qui pourrait marcher,*" siffla Harry.
+"*Bessoin de baguette. Pas l'intention de l'utilisser contre vous.*"
+Harry ne dit rien quant à la possibilité que ses intentions changent ;
 il avait simplement dit son idée assez vite pour n'avoir pas encore
 formé d'intention spécifique.
 
-« Alors là, » siffla Voldemort, « j'aimerais voir ça. » Le Seigneur des
+"Alors là," siffla Voldemort, "j'aimerais voir ça." Le Seigneur des
 Ténèbres tendit la main vers le tas d'objets à côté de l'autel et en
 sortit la baguette de Harry enrobée dans du tissu. Elle fut jetée,
-glissa dans les airs et tomba aux pieds de Harry ; puis le Seigneur des
+glissa dans les airs et tomba aux pieds de Harry ; puis le Seigneur des
 Ténèbres recula, et le tas d'objets le suivit en glissant.
 
 Harry sortit sa baguette et s'avança.
@@ -759,10 +759,10 @@ mais au moins la première étape avait été accomplie.
 Et Harry se tint devant le corps réparé de Hermione Granger, toujours
 nue et morte, sur un autel à la lumière du crépuscule.
 
-« Lord Voldemort, » dit Harry, « je vous en prie, donnez-lui quelques
-vêtements. Cela pourrait m'aider. »
+"Lord Voldemort," dit Harry, "je vous en prie, donnez-lui quelques
+vêtements. Cela pourrait m'aider."
 
-« Accordé, » siffla Voldemort. La douleur de la cicatrice de Harry se
+"Accordé," siffla Voldemort. La douleur de la cicatrice de Harry se
 réveilla quand le corps nu de la fille s'éleva, puis s'intensifia à
 nouveau quand des feuilles mortes dansèrent autour d'elle et qu'elle fut
 soudain vêtue d'un faux uniforme de Poudlard aux bordures vertes plutôt
@@ -797,13 +797,13 @@ Ce nouveau sentiment d'urgence lui suffit.
 
 Les pieds de Harry adoptèrent la posture habituelle, sa baguette se
 leva, se dirigea vers le cadavre de Hermione Granger. La *seule* chose
-qui n'allait pas chez elle, c'était sa mort ; tout le reste allait bien.
+qui n'allait pas chez elle, c'était sa mort ; tout le reste allait bien.
 Il n'y avait qu'une seule chose à changer.
 
 *Tu n'es pas bienvenue ici, mort.*
 
-« *Expecto,* » hurla Harry en sentant *la magie et la vie* alimenter le
-sortilège du Patronus, « *PATRONUM !* »
+"*Expecto,*" hurla Harry en sentant *la magie et la vie* alimenter le
+sortilège du Patronus, "*PATRONUM !*"
 
 La fille en uniforme de Poudlard fut entourée d'une étincelante aura de
 feu argenté lorsque le Patronus naquit en elle.
@@ -817,10 +817,10 @@ pour toujours.
 
 Et Hermione Granger respirait au rythme du sommeil, d'inhalations et
 exhalations rythmées. Le ciel crépusculaire était devenu plus sombre, si
-bien que Harry ne vit pas si ses couleurs lui étaient revenues ; mais
+bien que Harry ne vit pas si ses couleurs lui étaient revenues ; mais
 cela aurait dû être le cas, c'était presque certain. Elle avait l'air de
 dormir paisiblement, et ce n'était pas parce que la mort ressemblait au
-sommeil : c'était parce qu'elle dormait, et son corps allait bien, et
+sommeil : c'était parce qu'elle dormait, et son corps allait bien, et
 rien ne la faisait souffrir.
 
 Une partie de Harry, la partie qui était parvenue à se taire un peu plus
@@ -830,7 +830,7 @@ qu'il n'était pas certain que Hermione préfère être en vie.
 
 Harry souriait toujours lorsqu'il abaissa lentement sa baguette. Les
 feux d'artifices festifs qui détonaient dans son esprit fusaient avec
-retenue ; il ne criait pas, ne courait pas en cercle comme l'aurait fait
+retenue ; il ne criait pas, ne courait pas en cercle comme l'aurait fait
 le professeur Flitwick, mais ça…
 
 Ça…
@@ -838,18 +838,18 @@ le professeur Flitwick, mais ça…
 *ÇA*, dit Harry à voix haute dans sa tête, *ÇA c'est ce que j'appelle
 une deuxième étape.*
 
-« Intéressant, » dit la voix aiguë et froide. « Ton Patronus utilise ta vie
+"Intéressant," dit la voix aiguë et froide. "Ton Patronus utilise ta vie
 autant que ta magie… je l'avais deviné, car c'est un sortilège beaucoup
 trop puissant pour qu'un élève en première année puisse l'alimenter avec
 sa seule magie. Et pourtant le puzzle est encore incomplet, car un autre
 sortilège alimenté par de la vie n'aurait pas fonctionné… ta pensée
-joyeuse, était-ce l'image de son retour à la vie ? Est-ce que c'était
-ça, l'astuce ? » Lord Voldemort jouait à nouveau avec sa baguette, et son
-regard rouge et fendu exprimait un sombre intérêt. « Je crois que je me
+joyeuse, était-ce l'image de son retour à la vie ? Est-ce que c'était
+ça, l'astuce ?" Lord Voldemort jouait à nouveau avec sa baguette, et son
+regard rouge et fendu exprimait un sombre intérêt. "Je crois que je me
 sentirai très stupide quand je comprendrai enfin ce sortilège, un jour
 de mon éternité. Maintenant, éloigne-toi de la fille. *J'ai l'intention
 de pourssuivre le travail, pour qu'elle ait le plus de chances
-posssibles de continuer à vivre.* »
+posssibles de continuer à vivre.*"
 
 Harry fit un pas en arrière avec réticence, la tension de nouveau
 présente. Il faillit trébucher sur une stèle anonyme, et le Seigneur des
@@ -859,24 +859,24 @@ Debout devant l'autel, le Seigneur des Ténèbres posa un doigt sur le
 front de Hermione Granger.
 
 Puis il frappa son front du même doigt et dit d'une voix si basse que
-Harry faillit ne pas l'entendre : « *Requiescus.* »
+Harry faillit ne pas l'entendre : "*Requiescus.*"
 
 Voldemort agita une main en direction d'un obélisque qui se mit à
-pivoter et finit allongé au sol, pointé vers l'extérieur. « Tout à fait
-fascinant, » siffla Voldemort. « Elle est en vie et magique, mais
-contrairement à ce que je craignais, ce n'est pas un autre Tom Jedusor. »
+pivoter et finit allongé au sol, pointé vers l'extérieur. "Tout à fait
+fascinant," siffla Voldemort. "Elle est en vie et magique, mais
+contrairement à ce que je craignais, ce n'est pas un autre Tom Jedusor."
 
 La tension montait de nouveau en Harry. Il aurait bien remis sa baguette
 à sa ceinture noire, mais il ne *voulait pas* rappeler à Voldemort qu'il
-l'avait toujours sur lui. « Que lui faites-vous ? »
+l'avait toujours sur lui. "Que lui faites-vous ?"
 
-Un autre obélisque pivota, s'allongea au sol. « *Il exisste un ancien
+Un autre obélisque pivota, s'allongea au sol. "*Il exisste un ancien
 rituel qui transsfère la nature magique d'une créature au ssujet en la
 ssacrifiant. Contraintes très fortes. Transsfert est temporaire,
 sseulement quelques heures. Ssujet meurt parfois quand transsfert prend
-fin. Mais Pierre le rendra permanent.* »
+fin. Mais Pierre le rendra permanent.*"
 
-Quatre obélisques étaient étendus au sol, à intervalles réguliers ; les
+Quatre obélisques étaient étendus au sol, à intervalles réguliers ; les
 deux autres s'étaient éloignés en lévitant.
 
 Voldemort plongea la main dans sa propre bouche, remarqua quelque chose,
@@ -895,22 +895,22 @@ sur un rocher.
 Un troll des montagnes se tenait entre les obélisques, immobile, comme
 s'il dormait debout.
 
-« *Que faites-vous ?* »
+"*Que faites-vous ?*"
 
 La bouche de Voldemort dessinait un large sourire qui le rendait
-*horrible*. On aurait cru qu'il avait trop de dents. « *Je vais
+*horrible*. On aurait cru qu'il avait trop de dents. "*Je vais
 ssacrifier mon arme de ssecours et la fille-enfant obtiendra les
 pouvoirs de régénération du troll. Ss'il n'a pas déjà été réglé par le
 rituel précédent, le mal de métamorphosse ne résisstera pas à cela. Et
 aucune lame, aucun ssortilège de coupure ne tranchera la fille-enfant,
-aucune maladie ne l'atteindra.* »
+aucune maladie ne l'atteindra.*"
 
-Harry déglutit. « Je suis très confus. » Est-ce que Voldemort
-*s'entraînait à être gentil* ? Cette hypothèse ne semblait pas suffire à
+Harry déglutit. "Je suis très confus." Est-ce que Voldemort
+*s'entraînait à être gentil* ? Cette hypothèse ne semblait pas suffire à
 expliquer la situation.
 
-« Reste bien en arrière, » dit froidement Voldemort. « Ce rituel est plus
-noir que le précédent. » Le Seigneur des Ténèbres entonna un nouveau
+"Reste bien en arrière," dit froidement Voldemort. "Ce rituel est plus
+noir que le précédent." Le Seigneur des Ténèbres entonna un nouveau
 chant, des syllabes plus douces qui semblaient être vivantes,
 tourbillonner dans les airs, et Harry, saisit d'une nouvelle poussée
 d'appréhension, fit un pas en arrière.
@@ -918,14 +918,14 @@ d'appréhension, fit un pas en arrière.
 Puis il cria quand la douleur rugit dans sa cicatrice. Le troll des
 montagnes s'effondra sur lui-même, se transforma en cendres saisies
 suspendues puis en poussière, et celle-ci sembla être emportée sans
-aller nulle part ; elle ne fut plus là.
+aller nulle part ; elle ne fut plus là.
 
 Quel qu'ait été le sortilège de repos que Voldemort avait lancé à
-Hermione Granger, il marchait : elle dormait paisiblement.
+Hermione Granger, il marchait : elle dormait paisiblement.
 
-« Euh, » dit Harry d'une petite voix, « ça a marché ? »
+"Euh," dit Harry d'une petite voix, "ça a marché ?"
 
-« *Diffindo.* »
+"*Diffindo.*"
 
 Harry s'avança en poussant un cri étranglé puis s'arrêta, à la fois
 parce que la stupidité de son geste lui était apparue, et parce que la
@@ -935,36 +935,38 @@ quelques secondes, il ne restait plus qu'une légère tache de sang.
 
 La Pierre fut à nouveau déposée sur Hermione et tourna après quelques
 instants. Voldemort rit une fois de plus en passant sa main au-dessus
-d'elle. « Extraordinaire. »
+d'elle. "Extraordinaire."
 
 Puis une autre petite dent flotta jusqu'au cercle d'obélisques, et un
 instant plus tard, une licorne se tenait là où le troll avait été, les
 yeux ternes, la tête baissée.
 
-« Quoi ? » dit Harry. « Pourquoi une *licorne* ? »
+"Quoi ?" dit Harry. "Pourquoi une *licorne* ?"
 
-« *Capacité du ssang de licorne à présserver vie sse combine très bien
+"*Capacité du ssang de licorne à présserver vie sse combine très bien
 avec le ssoin du troll. À compter de ce jour, fille-enfant n'aura plus à
-craindre que le Feudeymon et le ssortilège de la Mort.* » Un éclat de
-rire serpentin. « *Et puis j'avais une licorne en trop, autant en faire
-ussage.* »
+craindre que le Feudeymon et le ssortilège de la Mort.*" Un éclat de
+rire serpentin. "*Et puis j'avais une licorne en trop, autant en faire
+ussage.*"
 
-« Le sang de licorne a des effets secondaires… »
+"Le sang de licorne a des effets secondaires…"
 
-« *Sseulement quand le pouvoir de sson ssang est volé par un autre. Avec
+"*Sseulement quand le pouvoir de sson ssang est volé par un autre. Avec
 ssortilège, le pouvoir de la licorne viendra de l'intérieur de
-fille-enfant, comme ssi elle était née avec.* »
+fille-enfant, comme ssi elle était née avec.*"
 
 Le sinistre chant et ses mots tourbillonnants reprirent.
 
 Harry regarda sans rien y comprendre.
 
-*Sans même vouloir comprendre, qu'est-ce que je vois ?*
+*Sans même vouloir comprendre, qu'est-ce que je vois ?*
 
 *Je vois le Seigneur des Ténèbres faire tout ce qu'il peut pour
 ressusciter Hermione et la garder en vie. On dirait qu'il croit que sa
-vie dépend de celle de Hermione Granger.*« Les parties perplexes de Harry cherchèrent une procédure à suivre. Sa
-première pensée fut : 'Fais une prédiction à partir de ta meilleure
+vie dépend de celle de Hermione Granger.*"
+
+Les parties perplexes de Harry cherchèrent une procédure à suivre. Sa
+première pensée fut : 'Fais une prédiction à partir de ta meilleure
 hypothèse', mais cela ne le mena nulle part. Le méchant avait gagné,
 mais le fil narratif ne continuait pas comme il aurait dû.
 
@@ -975,22 +977,29 @@ Le Seigneur des Ténèbres posa une fois de plus la Pierre sur Hermione et
 l'entoura de ses mains.
 
 Il observa l'invisible processus un moment, puis se retourna, laissant
-la Pierre sur elle, et émit un fredonnement aigu. »Ah oui,« siffla-t-il. »Ce serait parfaitement adapté. As-tu toujours le journal que je t'ai
-donné, petit ? Celui du célèbre scientifique ?« Le cerveau de Harry ne comprit pas tout de suite de quoi Voldemort
+la Pierre sur elle, et émit un fredonnement aigu. "Ah oui," siffla-t-il.
+"Ce serait parfaitement adapté. As-tu toujours le journal que je t'ai
+donné, petit ? Celui du célèbre scientifique ?"
+
+Le cerveau de Harry ne comprit pas tout de suite de quoi Voldemort
 parlait. Dans la chambre de Marie, chez Marie, en octobre, ce précieux
 cadeau venu d'un ami. L'idée aurait dû faire monter une vague de chagrin
 terrible pour ce professeur Quirrell perdu ou factice, mais cette
 émotion avait été trop présente et son cerveau l'avait temporairement
-mise de côté. »Oui,« dit Harry. »Je crois que c'est dans ma bourse, je peux aller
-voir ?« Il *savait* que c'était dans sa bourse. Il l'avait remplie de
+mise de côté.
+
+"Oui," dit Harry. "Je crois que c'est dans ma bourse, je peux aller
+voir ?" Il *savait* que c'était dans sa bourse. Il l'avait remplie de
 tout ce dont il pourrait jamais avoir besoin, ses possessions et
-d'autres achats ; et de tout ce qui aurait pu être un objet de quête.
+d'autres achats ; et de tout ce qui aurait pu être un objet de quête.
 
 La bourse en peau de Moke de Harry fut extraite du tas d'objets près de
-l'autel et jetée aux pieds de Harry. »Le journal de Roger Bacon,« dit Harry en y plongeant la main, et le
+l'autel et jetée aux pieds de Harry.
+
+"Le journal de Roger Bacon," dit Harry en y plongeant la main, et le
 journal apparut. Le professeur Quirrell avait dit que le journal
 ressortirait intact d'un incendie, alors il le jeta vers l'autel de
-Voldemort ; il y avait plus important à penser que le traitement correct
+Voldemort ; il y avait plus important à penser que le traitement correct
 des livres, même de celui-ci.
 
 Voldemort ramassa le journal et l'examina d'un air captivé.
@@ -999,23 +1008,32 @@ Harry, aussi doucement et discrètement que possible, attacha la bourse à
 l'arrière de sa ceinture, là où on ne la verrait pas, là où Harry avait
 mis sa baguette.
 
-*Troisième étape, la bourse.* »Oui,« siffla Voldemort en feuilletant le journal, »cela conviendra très
-bien.« La Pierre se déplaça légèrement et l'autre main du Seigneur des
-Ténèbres rangea la Pierre dans ses robes. »Quel était le but caché derrière ce journal ?« dit Harry après avoir
+*Troisième étape, la bourse.*
+
+"Oui," siffla Voldemort en feuilletant le journal, "cela conviendra très
+bien." La Pierre se déplaça légèrement et l'autre main du Seigneur des
+Ténèbres rangea la Pierre dans ses robes.
+
+"Quel était le but caché derrière ce journal ?" dit Harry après avoir
 attaché la bourse à sa ceinture et placé ses mains vides là où Voldemort
-pouvait les voir. »J'ai commencé par essayer de le traduire, mais ça
-n'allait pas très vite…« Le travail avait en fait été épouvantablement
-lent et Harry avait trouvé des choses plus importantes à faire. »*Le journal était exactement çce qu'il avait l'air d'être : un cadeau
-pour te sséduire, t'amener de mon côté.*« Voldemort fit des gestes
+pouvait les voir. "J'ai commencé par essayer de le traduire, mais ça
+n'allait pas très vite…" Le travail avait en fait été épouvantablement
+lent et Harry avait trouvé des choses plus importantes à faire.
+
+"*Le journal était exactement çce qu'il avait l'air d'être : un cadeau
+pour te sséduire, t'amener de mon côté.*" Voldemort fit des gestes
 complexes sans jamais regarder sa main, tout en tenant le journal de
 l'autre. L'espace d'un instant, Harry cru voir une traînée de ténèbres
 flotter en l'air, mais la lune était trop peu lumineuse pour qu'il
-puisse en être certain. »Et maintenant, mon cher petit,« dit la voix
+puisse en être certain. "Et maintenant, mon cher petit," dit la voix
 aiguë de Voldemort, teintée d'une joie sinistre, au moment où il
-touchait brièvement le front de Hermione Granger d'un geste nonchalant, »je fais de ce journal un cadeau bien plus précieux, un témoin de la
+touchait brièvement le front de Hermione Granger d'un geste nonchalant,
+"je fais de ce journal un cadeau bien plus précieux, un témoin de la
 sagesse que tu m'as transmise. Car je ne voudrais jamais te voir privé
 des conseils et de la prudence de Hermione Granger, pas tant que les
-étoiles demeurent. *Avadakedavra.*« Le rayon vert du sortilège de la Mort atteint sa cible avant que Harry
+étoiles demeurent. *Avadakedavra.*"
+
+Le rayon vert du sortilège de la Mort atteint sa cible avant que Harry
 ne puisse lancer le Patronus, avant qu'il ait la moindre chance de
 bouger. Quand il cria et tendit la main vers sa baguette, c'était déjà
 fini.
@@ -1047,13 +1065,19 @@ temporairement, de prendre la Pierre et Hermione et de fuir.
 
 La main droite de Harry avait déjà saisi sa baguette. Sa main gauche
 passa dans son dos, atteint difficilement sa bourse et traça
-silencieusement un symbole, celui d'un mot de huit lettres. »Non !« s'écria Voldemort. Il laissa tomber sa baguette, regarda le
-corps de Hermione, comme ahuri. »Non, non !« L'objet passa de la bourse à la main de Harry et il commença à s'avancer
+silencieusement un symbole, celui d'un mot de huit lettres.
+
+"Non !" s'écria Voldemort. Il laissa tomber sa baguette, regarda le
+corps de Hermione, comme ahuri. "Non, non !"
+
+L'objet passa de la bourse à la main de Harry et il commença à s'avancer
 aussi doucement de possible, cherchant à se rapprocher de Voldemort, à
-atteindre la distance viable indiquée par ses brèves expériences. »Ma grande création,« haleta Voldemort. Sa voix était flutée, comme
-paniquée. »Deux esprits différents ne peuvent exister dans le même
-monde - il est parti, il est rompu ! Un Horcruxe, je dois faire un
-Horcruxe immédiatement…« son regard tomba sur le corps endormi de
+atteindre la distance viable indiquée par ses brèves expériences.
+
+"Ma grande création," haleta Voldemort. Sa voix était flutée, comme
+paniquée. "Deux esprits différents ne peuvent exister dans le même
+monde - il est parti, il est rompu ! Un Horcruxe, je dois faire un
+Horcruxe immédiatement…" son regard tomba sur le corps endormi de
 Hermione Granger et il commença à lever sa baguette, à reproduire ses
 gestes précédents.
 

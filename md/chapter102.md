@@ -62,7 +62,7 @@ délibérée de la part de la Mort.
 *Cela seul est le véritable ennemi*, songea Harry. *Après ça viendront
 le professeur McGonagall, Maman et papa, et même Neville, à moins que
 les blessures du monde ne soient guéries avant. La Mort seule est mon
-dernier Ennemi ; et c'est ce qui m'a été dit sur la tombe de mes
+dernier Ennemi ; et c'est ce qui m'a été dit sur la tombe de mes
 parents.*
 
 Harry ne pouvait rien faire. Madame Pomfresh faisait déjà pour le
@@ -78,20 +78,20 @@ Rien.
 
 Rien du tout.
 
-
+ 
 
 ------------------------------------------------------------------------
 
-
+ 
 
 Harry leva sa main et frappa à la porte au cas où la personne qui se
 trouvait là ne pouvait plus le détecter.
 
-« Qu'y a-t-il ? » dit une voix accablée depuis l'infirmerie.
+"Qu'y a-t-il ?" dit une voix accablée depuis l'infirmerie.
 
-« C'est moi. »
+"C'est moi."
 
-Il y eut un long silence. « Entrez, » dit la voix.
+Il y eut un long silence. "Entrez," dit la voix.
 
 Harry se glissa à l'intérieur, ferma la porte derrière lui et lança le
 sortilège de Mutisme. Il se tenait aussi loin que possible du professeur
@@ -107,26 +107,26 @@ devant ses yeux, une page entourée d'une pâle lueur qui enrobait aussi
 un cube noir posé à côté du lit. Ce n'était donc pas la magie du
 professeur de Défense mais un appareil quelconque.
 
-Le livre était « Penser la physique », de Einstein, le même livre que
+Le livre était "Penser la physique", de Einstein, le même livre que
 Harry avait prêté à Drago quelques mois auparavant. Harry avait cessé de
 se tracasser quant aux mauvais usages que l'on pourrait en faire
 plusieurs semaines plus tôt.
 
-« C'est… », dit le professeur Quirrell, et il eut une toux étrange. « C'est
-un livre fascinant… si jamais je m'étais rendu compte… » Un rire, mêlé à
-une autre toux. « Pourquoi ais-je présumé que les arts Moldus… ne
-devaient être miens ? Qu'ils ne me seraient… d'aucun usage ? Pourquoi
+"C'est…", dit le professeur Quirrell, et il eut une toux étrange. "C'est
+un livre fascinant… si jamais je m'étais rendu compte…" Un rire, mêlé à
+une autre toux. "Pourquoi ais-je présumé que les arts Moldus… ne
+devaient être miens ? Qu'ils ne me seraient… d'aucun usage ? Pourquoi
 n'ais-je jamais pris la peine d'essayer… de vérifier expérimentalement…
-comme vous diriez ? Au cas où… ma présomption… aurait été fausse ? Je me
-sens comme l'idiot le plus profond… rétrospectivement… »
+comme vous diriez ? Au cas où… ma présomption… aurait été fausse ? Je me
+sens comme l'idiot le plus profond… rétrospectivement…"
 
 Harry avait beaucoup plus de mal à parler que le professeur Quirrell.
 Sans un mot, Harry mit la main dans sa bourse et posa un mouchoir sur le
 sol qu'il déplia pour révéler un petit caillou blanc, doux et rond.
 
-« Qu'est-ce que cela ? » dit le professeur de Défense.
+"Qu'est-ce que cela ?" dit le professeur de Défense.
 
-« C'est une… c'est une… une licorne métamorphosée. »
+"C'est une… c'est une… une licorne métamorphosée."
 
 Harry avait consulté les livres et avait appris que puisqu'il était trop
 jeune pour avoir des pensées sexuelles, il pourrait approcher une
@@ -158,7 +158,7 @@ Et pourtant, donner à la licorne les carrés de sucre imbibés de potion
 de sommeil lui avait donné l'impression de commettre un meurtre.
 
 *Cette magie donne à leur existence un poids qu'aucun simple animal ne
-pourrait posséder… tuer une chose innocente pour se sauver soi : voilà
+pourrait posséder… tuer une chose innocente pour se sauver soi : voilà
 un grave péché.* Ces deux phrases, du professeur McGonagall, du
 centaure, s'étaient répétées dans l'esprit de Harry, encore et encore,
 lorsque la licorne blanche avait baillé, s'était allongée et avait fermé
@@ -171,23 +171,23 @@ qu'on pourrait le pardonner d'avoir tué la licorne, non pas pour se
 sauver, mais pour aider un ami.
 
 Les yeux du professeur Quirrell s'étaient élevés. Sa voix fut moins
-douce, reprit une partie de son acerbité usuelle, lorsqu'il dit : « Je
-vous interdis de recommencer. »
+douce, reprit une partie de son acerbité usuelle, lorsqu'il dit : "Je
+vous interdis de recommencer."
 
-« Je me demandais si vous diriez cela, » dit Harry. Il déglutit de
-nouveau. « Mais cette licorne est déjà, déjà perdue, alors autant que
-vous la preniez, professeur… »
+"Je me demandais si vous diriez cela," dit Harry. Il déglutit de
+nouveau. "Mais cette licorne est déjà, déjà perdue, alors autant que
+vous la preniez, professeur…"
 
-« Pourquoi avez-vous fait ça ? »
+"Pourquoi avez-vous fait ça ?"
 
 Si le professeur de Défense n'était pas capable de comprendre cela,
 c'était la personne la plus lente à la détente que Harry avait jamais
-rencontrée. « Je n'arrêtais pas de me dire que je ne pouvais rien faire, »
-dit Harry. « Et j'en ai eu assez de penser ça. »
+rencontrée. "Je n'arrêtais pas de me dire que je ne pouvais rien faire,"
+dit Harry. "Et j'en ai eu assez de penser ça."
 
 Le professeur Quirrell ferma les yeux. Il reposa sa tête sur l'oreiller.
-« Vous avez eu de la chance, » dit le professeur de Défense d'une voix
-douce, « qu'une licorne métamorphosée… ne déclenche pas le système de
+"Vous avez eu de la chance," dit le professeur de Défense d'une voix
+douce, "qu'une licorne métamorphosée… ne déclenche pas le système de
 protection de Poudlard contre les créatures étranges… je devrai… sortir
 de ces limites pour pouvoir en faire usage… mais des moyens existent. Je
 leur dirai que je souhaite observer le lac… je vous demanderai de faire
@@ -195,7 +195,7 @@ perdurer la métamorphose avant de partir, afin qu'elle dure assez
 longtemps… et avec mes dernières forces, je dissiperai toute alarme
 placée sur le troupeau en cas de mort de l'un de ses membres… une alarme
 que vous n'avez pas encore déclenchée puisque la licorne n'est que
-métamorphosée, et non tuée… vous avez eu beaucoup de chance, M. Potter. »
+métamorphosée, et non tuée… vous avez eu beaucoup de chance, M. Potter."
 
 Harry hocha la tête. Il commença à parler. Une fois de plus, les mots
 semblèrent rester bloqués dans sa gorge.
@@ -204,15 +204,15 @@ semblèrent rester bloqués dans sa gorge.
 assigné des probabilités, tu as multiplié, puis tu as jeté le résultat
 et as suivi ton nouvel instinct, qui disait la même chose. Alors vas-y.*
 
-« Connaissez-vous, » dit Harry d'une voix chancelante, « un moyen
-quelconque de sauver votre vie ? »
+"Connaissez-vous," dit Harry d'une voix chancelante, "un moyen
+quelconque de sauver votre vie ?"
 
-Les yeux du professeur s'ouvrirent. « Pourquoi… me demandes-tu cela,
-garçon ? »
+Les yeux du professeur s'ouvrirent. "Pourquoi… me demandes-tu cela,
+garçon ?"
 
-« Il y a… un sortilège dont j'ai entendu parler, un rituel… »
+"Il y a… un sortilège dont j'ai entendu parler, un rituel…"
 
-« Silence, » dit le professeur de Défense.
+"Silence," dit le professeur de Défense.
 
 Un instant plus tard, un serpent se trouvait dans le lit.
 
@@ -220,28 +220,28 @@ Même les yeux du serpent étaient mornes.
 
 Il ne se dressa pas.
 
-*« Reprendss… »*, siffla le serpent. Seule sa langue bougeait.
+*"Reprendss…"*, siffla le serpent. Seule sa langue bougeait.
 
-« Il y a… *il y a un rituel dont le directeur m'a parlé, par le moyen
+"Il y a… *il y a un rituel dont le directeur m'a parlé, par le moyen
 duquel il pensse que le Sseigneur des Ténèbres pourrait avoir continué
-de vivre. Il ss'appelle… »* et Harry se tut lorsqu'il se rendit compte
-qu'il connaissait le mot en Fourchelangue. *« Horcruxe. J'ai entendu dire
+de vivre. Il ss'appelle…"* et Harry se tut lorsqu'il se rendit compte
+qu'il connaissait le mot en Fourchelangue. *"Horcruxe. J'ai entendu dire
 qu'il nécesssite une mort. Mais ssi vous êtes de toute façon mourant,
 vous pourriez esssayer d'adapter le rituel, même ssi le nouveau
 ssortilège est plus rissqué, afin qu'il puissse être jeté par autre
-sacrifice. Si vous réusssissiez, le monde entier serait transsformé ; je
+sacrifice. Si vous réusssissiez, le monde entier serait transsformé ; je
 ne connais rien du ssortilège, mais le directeur m'a dit qu'il arrachait
 un fragment de l'âme, même ssi je ne vois pas comment cela pourrait être
-vrai… »*
+vrai…"*
 
-Le serpent siffla un rire, un étrange rire sec, presque hystérique. *« Tu
-me parles de ce ssort ? À moi ? Tu dois apprendre la prudence à
+Le serpent siffla un rire, un étrange rire sec, presque hystérique. *"Tu
+me parles de ce ssort ? À moi ? Tu dois apprendre la prudence à
 l'avenir, garçon. Mais cela n'a pas d'importance. J'ai entendu parler du
-ssortilège de Horcruxe il y a longtemps. Il est abssurde. »*
+ssortilège de Horcruxe il y a longtemps. Il est abssurde."*
 
-« Absurde ? » dit Harry à voix haute, surpris.
+"Absurde ?" dit Harry à voix haute, surpris.
 
-*« Serait inssenssé, même ssi âme exisstait. Arracher fragment d'âme ?
+*"Serait inssenssé, même ssi âme exisstait. Arracher fragment d'âme ?
 C'est un menssonge. Disstraction pour cacher vrai ssecret. Sseul celui
 qui ne croit pas aux ssimples menssonges pousssera raisonnement, verra
 par-delà obsscurcisssement, comprendra comment lancer ssort. Meurtre
@@ -251,54 +251,54 @@ Horcruxe envoie jaillisssement de mort de victime à travers lançceur,
 créé propre fantôme au lieu de çcelui de victime, imprime fantôme dans
 objet sspécial. Sseconde victime ramassse objet Horcruxe, objet imprime
 mémoire dans elle. Mais seulement mémoire au moment de construction de
-objet Horcruxe. Vois-tu défaut ? »*
+objet Horcruxe. Vois-tu défaut ?"*
 
-La sensation de brûlure était revenue dans la gorge de Harry. *« Pas de
-continuité de… »* mais les serpents n'avaient pas de mot pour désigner la
-conscience, *« ssoi, on continue de pensser après avoir fait Horcruxe,
-puis ssoi avec nouvelle mémoire meurt et n'est pas resstauré… »*
+La sensation de brûlure était revenue dans la gorge de Harry. *"Pas de
+continuité de…"* mais les serpents n'avaient pas de mot pour désigner la
+conscience, *"ssoi, on continue de pensser après avoir fait Horcruxe,
+puis ssoi avec nouvelle mémoire meurt et n'est pas resstauré…"*
 
-*« Oui, tu vois. Ausssi Interdit de Merlin empêche ssortilège puisssant
+*"Oui, tu vois. Ausssi Interdit de Merlin empêche ssortilège puisssant
 de passser par tel objet, puissque pas vraiment en vie. Mages Noirs qui
 veulent revenir ssont plus faibles, façciles à éliminer. Aucun n'a tenu
 longtemps par tel moyen. Perssonnalité change, mélange avec çcelle de
 victime. Mort pas vraiment vaincue. Vrai ssoi mort, comme tu dis. Pas à
-mon goût actuel. Admet que je l'ai conssidéré, il y a longtemps. »*
+mon goût actuel. Admet que je l'ai conssidéré, il y a longtemps."*
 
 Un homme était à nouveau allongé dans le lit de l'infirmerie. Le
 professeur de Défense inspira puis fit un pitoyable bruit de toux.
 
-« Pourriez-vous me donner la recette complète du sortilège ? » dit Harry
-après avoir délibéré un instant. « Il pourrait y avoir un moyen de
+"Pourriez-vous me donner la recette complète du sortilège ?" dit Harry
+après avoir délibéré un instant. "Il pourrait y avoir un moyen de
 corriger les défauts avec assez de recherche. Un moyen de rester éthique
-et que cela fonctionne. » Comme de faire le transfert dans un corps cloné
+et que cela fonctionne." Comme de faire le transfert dans un corps cloné
 avec un cerveau vide au lieu d'une victime innocente, ce qui
 augmenterait aussi la fidélité du transfert… même si demeuraient encore
 les autres problèmes.
 
 Le professeur Quirrell émit un son court qui aurait pu être un rire.
-« Vous savez, garçon, » murmura le professeur Quirrell, « j'avais pensé
+"Vous savez, garçon," murmura le professeur Quirrell, "j'avais pensé
 tout vous apprendre… les graines de tous les secrets que je connais…
 d'un esprit vivant à l'autre… afin que plus tard, en ouvrant les bons
 livres, vous compreniez… je vous aurai transmis mon savoir, mon
 héritier… nous aurions commencé dès que vous auriez auriez demandé… mais
-vous ne l'avez jamais fait. »
+vous ne l'avez jamais fait."
 
 Même le chagrin qui submergeait Harry s'écarta pour laisser place à
-l'immensité de l'opportunité loupée. « Étais-je censé… ? Je ne savais pas
-que j'étais censé… ! »
+l'immensité de l'opportunité loupée. "Étais-je censé… ? Je ne savais pas
+que j'étais censé… !"
 
-Un autre ricanement toussoteux. « Ah oui… le né-Moldu ignorant… par
+Un autre ricanement toussoteux. "Ah oui… le né-Moldu ignorant… par
 héritage sinon par sang… c'est vous. Mais je me… suis ravisé… vous ne
-devriez pas suivre ma voie… elle s'est avérée… être mauvaise. »
+devriez pas suivre ma voie… elle s'est avérée… être mauvaise."
 
-« Il n'est pas trop tard, professeur ! » dit Harry. Une partie de lui
+"Il n'est pas trop tard, professeur !" dit Harry. Une partie de lui
 s'écria qu'il se comportait en égoïste, puis une autre fit taire la
-première : il y aurait d'autres gens à aider.
+première : il y aurait d'autres gens à aider.
 
-« Si, il est trop tard… et vous ne me… persuaderez pas du contraire… je
+"Si, il est trop tard… et vous ne me… persuaderez pas du contraire… je
 me suis… ravisé… comme j'ai dit… j'ai trop… de secrets qui devraient le
-rester… *regardez-moi.* »
+rester… *regardez-moi.*"
 
 Harry regarda, presque malgré lui.
 
@@ -311,88 +311,88 @@ squelettique de Bellatrix Black qu'il avait vue à Azkaban…
 
 Sans même réfléchir, Harry détourna violemment son visage.
 
-« Vous voyez, » murmura le professeur. « Je n'aime pas énoncé des clichés…
+"Vous voyez," murmura le professeur. "Je n'aime pas énoncé des clichés…
 M. Potter… mais la vérité est que… les Arts que l'ont dit sombres… ne
-sont en définitive… pas bons pour ceux qui les pratiquent. »
+sont en définitive… pas bons pour ceux qui les pratiquent."
 
 Le professeur Quirrell inspira puis expira. L'infirmerie fut tranquille
 un moment. Ils ne regardaient que la pierre richement décorée des murs.
 
-« Reste-t-il quoi que ce soit… que nous ne nous soyons dit ? » continua le
-professeur Quirrell. « Je ne meurs pas aujourd'hui… au fait… pas tout de
+"Reste-t-il quoi que ce soit… que nous ne nous soyons dit ?" continua le
+professeur Quirrell. "Je ne meurs pas aujourd'hui… au fait… pas tout de
 suite… mais je ne sais pas combien de temps… je pourrai continuer de
-discuter. »
+discuter."
 
-« Il y a… » dit Harry, déglutissant à nouveau. « Il y a beaucoup de choses…
+"Il y a…" dit Harry, déglutissant à nouveau. "Il y a beaucoup de choses…
 beaucoup trop… mais… peut-être est-ce une mauvaise question mais je ne
-veux pas… que celle-ci demeure sans réponse… serpent ? »
+veux pas… que celle-ci demeure sans réponse… serpent ?"
 
 Un serpent se trouvait sur le lit.
 
-*« J'ai appris comment fonctionne le ssortilège de la Mort. Nécesssite
+*"J'ai appris comment fonctionne le ssortilège de la Mort. Nécesssite
 une véritable haine pour être lancé, pas beaucoup, mais on doit vouloir
 la mort, c'est ce qu'on dit. Dans la prisson avec manges-vie, vous avez
 lancé ssortilège de la Mort contre garde - avez dit que vous ne le
-vouliez pas mort - était-ce menssonge ? Ici, maintenant, à cette
+vouliez pas mort - était-ce menssonge ? Ici, maintenant, à cette
 disstance, vous pouvez dire vérité, même ssi vous avez peur de mauvaise
 apparensce. Çcela ne devrait pas compter maintenant, professseur. Je
 ssouhaite ssavoir. Dois ssavoir. Ne vous abandonnerai pas, qu'importe
-réponsse. »*
+réponsse."*
 
 Un homme était étendu sur le lit.
 
-« Écoutez-moi attentivement, » dit le professeur Quirrell. « Je vais vous
+"Écoutez-moi attentivement," dit le professeur Quirrell. "Je vais vous
 donner une énigme… une devinette pour un sortilège dangereux… quand vous
 connaîtrez la réponse à ce puzzle… vous connaîtrez aussi… la réponse à
-votre question… est-ce que vous écoutez ? »
+votre question… est-ce que vous écoutez ?"
 
 Harry hocha la tête.
 
-« Il y a une limite… au sortilège de la Mort. Pour le lancer une fois… en
+"Il y a une limite… au sortilège de la Mort. Pour le lancer une fois… en
 combat… il faut haïr assez… pour vouloir la mort de l'autre. Pour lancer
 Avada… Kedavra deux fois… on doit haïr assez…pour tuer deux fois… pour
 leur trancher la gorge de ses propres mains… pour les voir mourir… et
 recommencer. Très peu… peuvent haïr assez… pour tuer quelqu'un… cinq
-fois… ils s'ennuieraient. » Le professeur de Défense prit plusieurs
-inspirations avant de poursuivre. « Mais si tu observes l'Histoire… tu
+fois… ils s'ennuieraient." Le professeur de Défense prit plusieurs
+inspirations avant de poursuivre. "Mais si tu observes l'Histoire… tu
 verras certains mages noirs… qui pouvaient lancer le sortilège de la
 Mort… encore et encore. Une sorcière du dix-neuvième siècle… elle se
 faisait appeler Dark Evangel… les Aurors l'appelaient A.K. McDowell.
 Elle pouvait lancer le sortilège de la Mort… une douzaine de fois… dans
 un seul combat. Demandez-vous… comme je me le suis demandé… quel secret…
-connaissait-elle ? Qu'est-ce qui est plus mortel que la haine… et ne
-connaît aucune limite ? »
+connaissait-elle ? Qu'est-ce qui est plus mortel que la haine… et ne
+connaît aucune limite ?"
 
 *Un second niveau à Avada Kedavra, exactement comme avec le Patronus…*
 
-« Ça ne m'intéresse pas vraiment, » répondit Harry.
+"Ça ne m'intéresse pas vraiment," répondit Harry.
 
-Le professeur de Défense eut un gloussement enroué. « Bien. Vous…
-apprenez. Alors vous voyez… » Une pause, pour se transformer. *« Je ne
+Le professeur de Défense eut un gloussement enroué. "Bien. Vous…
+apprenez. Alors vous voyez…" Une pause, pour se transformer. *"Je ne
 ssouhaitais pas voir le garde mourir, après tout. J'ai lanscé le
-sortilège de la Mort, mais pas avec de la haine »*. De nouveau, un homme.
+sortilège de la Mort, mais pas avec de la haine"*. De nouveau, un homme.
 
 Harry déglutit. C'était à la fois mieux et pire que ce qu'il avait
-soupçonné ; et tout à fait caractéristique du professeur Quirrell. Une
-âme fracturée, certainement ; mais le professeur Quirrell n'avait jamais
+soupçonné ; et tout à fait caractéristique du professeur Quirrell. Une
+âme fracturée, certainement ; mais le professeur Quirrell n'avait jamais
 clamé être encore entier.
 
-« Autre chose… à dire ? » continua l'homme alité.
+"Autre chose… à dire ?" continua l'homme alité.
 
-« Êtes-vous absolument certain, » dit Harry, « que vous n'avez jamais
-entendu parler de quelque chose qui pourrait vous sauver, professeur ?
-Parmi toutes vos connaissances ? Trouver et réunir les trois Reliques de
+"Êtes-vous absolument certain," dit Harry, "que vous n'avez jamais
+entendu parler de quelque chose qui pourrait vous sauver, professeur ?
+Parmi toutes vos connaissances ? Trouver et réunir les trois Reliques de
 la Mort, un vieil artefact que Merlin aurait scellé derrière une énigme
-que personne n'a jamais pu résoudre ? Vous avez vu ce dont je suis
+que personne n'a jamais pu résoudre ? Vous avez vu ce dont je suis
 capable. Mon talent pour les énigmes. Vous savez que je comprends
-parfois des choses que les autres sorciers ne peuvent appréhender. Je… »
-la voix de Harry se brisa, « je préfère fortement vous voir vivre que
-vous voir mort, professeur Quirrell. »
+parfois des choses que les autres sorciers ne peuvent appréhender. Je…"
+la voix de Harry se brisa, "je préfère fortement vous voir vivre que
+vous voir mort, professeur Quirrell."
 
 Il y eut une longue pause.
 
-« Une chose, » dit le professeur Quirrell. « Une chose… pourrait m'aider…
-ou peut-être pas… mais l'obtenir… dépasse vos forces et les miennes… »
+"Une chose," dit le professeur Quirrell. "Une chose… pourrait m'aider…
+ou peut-être pas… mais l'obtenir… dépasse vos forces et les miennes…"
 
 *Oh, c'est exactement le discours d'introduction d'une quête annexe*,
 dit le Critique Interne de Harry.
@@ -402,89 +402,89 @@ fermer. La vie ne fonctionnait pas comme ça. D'anciens artefacts
 pouvaient être découverts, mais pas en un mois, pas quand on ne pouvait
 pas quitter Poudlard et qu'on était encore en première année.
 
-Le professeur Quirrell prit une profonde inspiration. Exhala. « Je suis
+Le professeur Quirrell prit une profonde inspiration. Exhala. "Je suis
 navré… c'était… trop théâtral. Ne vous… faites pas d'idées… M. Potter.
 Vous avez demandé… n'importe quoi… aussi improbable… que ce soit. Il
-existe… un certain objet… appelé… »
+existe… un certain objet… appelé…"
 
 Un serpent se trouvait sur le lit.
 
-« *La Pierre Philosophale,* » siffla-t-il.
+"*La Pierre Philosophale,*" siffla-t-il.
 
 S'il y avait eu un moyen de fabriquer de l'immortalité à la chaîne
 pendant tout ce temps et que personne ne s'était fatigué à l'utiliser,
 Harry allait craquer et assassiner tout le monde.
 
-*« J'ai lu à sson sujet, »*, siffla Harry. *« Conclut que c'était
+*"J'ai lu à sson sujet,"*, siffla Harry. *"Conclut que c'était
 évidemment un mythe. Aucune bonne raisson que le même objet fournissse à
 la fois l'immortalité et une quantité infinie d'or. Pas à moins que
 quelqu'un ne ssoit jusste en train d'inventer des hisstoires
 réconfortantes. Ssans parler du fait que toute perssonne ssenssée aurait
 cherché le moyen d'en fabriquer d'autres ou de kidnapper sson créateur
-pour qu'il en fassse. J'ai penssé à vous en particulier, professseur. »*
+pour qu'il en fassse. J'ai penssé à vous en particulier, professseur."*
 
-Un sifflement hilare, froid. *« Raisonnement ssage, mais pas asssez
+Un sifflement hilare, froid. *"Raisonnement ssage, mais pas asssez
 ssage. Comme avec ssortilège horcrux, abssurdité cache vrai ssecret.
 Véritable Pierre pas ce que légende dit. Véritable pouvoir pas ce
 qu'histoires racontent. Créateur ssuppossé de Pierre pas celui qui l'a
 faite. Celui qui la détient maintenant, pas né ssous nom utilisé
 aujourd'hui. Pourtant, Pierre vrai artefact capable de guérir. En as-tu
-entendu parler ? »*
+entendu parler ?"*
 
-*« Sseulement dans le livre. »*
+*"Sseulement dans le livre."*
 
-*« Çcelui qui détient Pierre posssède très grande connaisssance. À
+*"Çcelui qui détient Pierre posssède très grande connaisssance. À
 ensseigné nombreux ssecrets à directeur d'école. Directeur d'école n'a
-rien dit de posssessseur de Pierre, rien de Pierre ? Pas d'indiçce ? »*
+rien dit de posssessseur de Pierre, rien de Pierre ? Pas d'indiçce ?"*
 
-*« Rien qui me revienne facilement, »* répondit sincèrement Harry.
+*"Rien qui me revienne facilement,"* répondit sincèrement Harry.
 
-*« Ah,* » siffla le serpent. *« Ah, bon. »*
+*"Ah,*" siffla le serpent. *"Ah, bon."*
 
-*« Pourrais demander à directeur… »*
+*"Pourrais demander à directeur…"*
 
-*« Non ! Ne lui demande pas, garçon. Il ne prendrait pas bien la
-question. »*
+*"Non ! Ne lui demande pas, garçon. Il ne prendrait pas bien la
+question."*
 
-*« Mais ssi la Pierre ne fait que guérir… »*
+*"Mais ssi la Pierre ne fait que guérir…"*
 
-*« Directeur ne croit pas çça, ne croirait pas çça. Trop on recherché la
+*"Directeur ne croit pas çça, ne croirait pas çça. Trop on recherché la
 Pierre ou désiré connaisssansce du détenteur. Ne demande pas. Ne dois
-pas demander. N'esssaie pas d'obtenir Pierre toi-même. J'interdis. »*
+pas demander. N'esssaie pas d'obtenir Pierre toi-même. J'interdis."*
 
-Un homme se trouvait à nouveau dans le lit. « Je suis… à la limite… », dit
-le professeur Quirrell. « Je dois récupérer… des forces… avant d'aller…
+Un homme se trouvait à nouveau dans le lit. "Je suis… à la limite…", dit
+le professeur Quirrell. "Je dois récupérer… des forces… avant d'aller…
 dans la forêt… avec votre cadeau. Partez maintenant… mais maintenez
-métamorphose… avant de partir. »
+métamorphose… avant de partir."
 
 Harry tendit la main, toucha le caillou blanc sur le mouchoir et
-renouvela la métamorphose. « Elle devrait durer une heure et
-cinquante-trois minutes, maintenant, » dit Harry.
+renouvela la métamorphose. "Elle devrait durer une heure et
+cinquante-trois minutes, maintenant," dit Harry.
 
-« Vos études… avancent bien. »
+"Vos études… avancent bien."
 
 C'était bien plus longtemps que ce que Harry pouvait produire au début
 de l'année. Les sortilèges de seconde année lui semblaient simples à
-présent, ne lui demandaient pas d'effort ; ce qui n'était pas surprenant
+présent, ne lui demandaient pas d'effort ; ce qui n'était pas surprenant
 puisqu'il aurait douze ans dans moins de deux mois. Il aurait même pu
 lancer un sortilège d'Oubliettes s'il s'était avéré bon que quelqu'un
 oublie tout ce qui concernait son bras gauche. Il grimpait l'échelle du
 pouvoir, lentement, depuis le barreau le plus bas.
 
 La pensée lui vint accompagné d'une potentielle tristesse, l'idée d'une
-porte qui s'ouvrait tandis qu'une autre se refermait ; ce qu'il rejeta
+porte qui s'ouvrait tandis qu'une autre se refermait ; ce qu'il rejeta
 aussi.
 
-
+ 
 
 ------------------------------------------------------------------------
 
-
+ 
 
 La porte de l'infirmerie se referma derrière Harry, et le Survivant
 avança rapidement, vers un but, tout en jetant sa Cape d'Invisibilité
 sur ses épaules. Bientôt, le professeur de Défense appelerait sûrement
-pour que l'on vienne l'aider ; et un trio d'élèves plus âgés le
+pour que l'on vienne l'aider ; et un trio d'élèves plus âgés le
 guideraient jusqu'à un endroit tranquille, peut-être la forêt, avec une
 excuse, comme regarder le lac par exemple. Quelque part, le professeur
 de Défense mangerait une licorne, inaperçu, après que la métamorphose de
@@ -512,19 +512,19 @@ deuil.
 Un trio de Serpentard de septième année dépassèrent la forme invisible
 de Harry dans les couloirs, en direction de l'infirmerie, où attendait
 le professeur. Ils avaient l'air fort sérieux, fort soucieux. Était-ce
-ainsi que les autres portaient le deuil ?
+ainsi que les autres portaient le deuil ?
 
 Où est-ce qu'ils s'en *fichaient*, quelque part au fond d'eux-mêmes,
-comme le professeur Quirrell le pensait ?
+comme le professeur Quirrell le pensait ?
 
 *Il y a un second niveau au sortilège de la Mort.*
 
 Le cerveau de Harry avait instantanément résolu l'énigme à la seconde où
-il l'avait entendue ; comme si ce savoir avait toujours été en lui et
+il l'avait entendue ; comme si ce savoir avait toujours été en lui et
 avait attendu de pouvoir se révéler.
 
 Harry avait un jour lu, quelque part, que l'opposé de la joie n'était
-pas la tristesse mais l'ennui ; et l'auteur avait ensuite dit que pour
+pas la tristesse mais l'ennui ; et l'auteur avait ensuite dit que pour
 trouver le bonheur, il ne fallait pas chercher ce qui nous rendait
 heureux mais ce qui nous enthousiasmait. Et, par le même raisonnement,
 la haine n'était pas le véritable opposé de l'amour. Si on se souciait
@@ -532,13 +532,13 @@ assez d'une chose pour désirer la voir morte plutôt que vivante, c'était
 que l'on pensait à elle.
 
 L'idée était apparue bien plus tôt, pendant le procès, lors d'une
-conversation avec Hermione ; quand elle avait dit que l'Angleterre
+conversation avec Hermione ; quand elle avait dit que l'Angleterre
 magique était pleine de préjugés, avec amples justifications. Et Harry
 avait songé - mais pas dit - qu'au moins on l'avait laissée entrer à
 Poudlard pour pouvoir lui cracher dessus.
 
 Contrairement à certaines personnes dans certains pays, qui étaient
-*dites* aussi humaines que les autres ; que l'on *disait* être des êtres
+*dites* aussi humaines que les autres ; que l'on *disait* être des êtres
 sentients, plus importants qu'une simple licorne. Mais que l'on ne
 laissait pourtant pas vivre en Angleterre moldue. Sur ce point au moins,
 aucun Moldu n'avait le droit de toiser un sorcier. L'Angleterre magique
@@ -546,10 +546,10 @@ aucun Moldu n'avait le droit de toiser un sorcier. L'Angleterre magique
 elle les laissait entrer pour pouvoir leur cracher dessus en personne.
 
 *Qu'est-ce qui est plus mortel que la haine et ne connaît aucune
-limite ?*
+limite ?*
 
-« L'indifférence, » murmura Harry, le secret d'un sortilège qu'il ne
-pourrait jamais lancer ; et il continua d'avancer vers la bibliothèque
+"L'indifférence," murmura Harry, le secret d'un sortilège qu'il ne
+pourrait jamais lancer ; et il continua d'avancer vers la bibliothèque
 pour lire tout ce qu'il pourrait trouver, absolument tout, au sujet de
 la Pierre Philosophale.
 

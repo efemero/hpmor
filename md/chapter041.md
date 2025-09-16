@@ -22,21 +22,21 @@ Drago essayait très fort de ne *pas* penser aux six étages de vide qui
 se trouvaient en dessous de lui, et de se concentrer plutôt sur la façon
 dont il allait tuer Harry Potter.
 
-« Vous savez, M. Malfoy, » dit la jeune fille à côté de lui, sur le ton de
-la conversation, « si une voyante m'avait un jour dit que je me tiendrais
+"Vous savez, M. Malfoy," dit la jeune fille à côté de lui, sur le ton de
+la conversation, "si une voyante m'avait un jour dit que je me tiendrais
 à la paroi d'un château, retenue par le bout de mes doigts, en essayant
 de ne pas regarder en bas ni de penser à la force avec laquelle maman
 hurlerait si elle me voyait, je n'aurais *aucune* idée de la façon dont
 cela allait se produire, *mis à part* que ce serait par la faute de
-Harry Potter. »
+Harry Potter."
 
-
+ 
 
 ------------------------------------------------------------------------
 
+ 
 
-
-*Plus tôt :*
+*Plus tôt :*
 
 Les deux généraux alliés enjambèrent le corps de Londubat, les bottes
 frappant le sol avec une synchronisation quasi parfaite.
@@ -70,7 +70,7 @@ désespérée. La rage froide que Drago voyait parfois en Harry semblait
 s'être infiltrée dans ses soldats, qui s'étaient battus comme si ce
 n'était pas un jeu. Et Harry avait vidé tout son sac de techniques, il y
 avait eu de petites billes de métal (Granger les avait appelées
-« roulements à billes ») sur le sol et les escaliers, les rendant
+"roulements à billes") sur le sol et les escaliers, les rendant
 infranchissables tant qu'ils n'avaient pas été déblayés, sauf que
 l'armée de Harry avait déjà pratiqué des sortilèges de lévitation
 coordonnés et ils pouvaient faire voler les leurs *juste au-dessus* des
@@ -98,13 +98,13 @@ et vu la tête que faisait Samuel, son mur prismatique n'allait pas tenir
 encore bien longtemps.
 
 Drago avait déjà mis sa baguette au niveau de Harry, attendant que le
-mur prismatique tombe de lui-même ; inutile de gâcher un sortilège de
+mur prismatique tombe de lui-même ; inutile de gâcher un sortilège de
 bris de bouclier avant que cela ne se produise. Padma avait mis sa
 propre baguette à hauteur de Samuel, Granger la sienne à hauteur de
 Harry…
 
 Qui cachait toujours ses mains derrière son dos au lieu de viser avec sa
-baguette ; et il les regardait avec une expression qui aurait pu avoir
+baguette ; et il les regardait avec une expression qui aurait pu avoir
 été sculptée dans de la glace.
 
 Ça pouvait être un bluff. Ce n'en était probablement pas un.
@@ -113,37 +113,37 @@ Il y eut un bref silence tendu.
 
 Puis Harry parla.
 
-« Je suis le méchant à présent, » dit le jeune garçon avec froideur, « et
+"Je suis le méchant à présent," dit le jeune garçon avec froideur, "et
 si vous pensez que les méchants sont si faciles que ça à achever, vous
 feriez mieux de reconsidérer cette idée. Battez moi lorsque je combats
-sérieusement et je resterai battu ; mais perdez et la prochaine fois
-sera une répétition de la bataille d'aujourd'hui. »
+sérieusement et je resterai battu ; mais perdez et la prochaine fois
+sera une répétition de la bataille d'aujourd'hui."
 
 Le garçon avança ses mains et Drago vit que Harry portait d'étranges
 gants, avec un matériau grisâtre très particulier sur le bout de ses
 doigts et des boucles qui accrochaient fermement les gants à ses
 poignets.
 
-À côté de Drago, le général Soleil eut un hoquet d'horreur ; et sans
+À côté de Drago, le général Soleil eut un hoquet d'horreur ; et sans
 même prendre le temps de l'interroger, Drago jeta un sortilège de bris
 de bouclier.
 
-Samuel flancha en laissant échapper un cri, mais il maintint le mur ; et
+Samuel flancha en laissant échapper un cri, mais il maintint le mur ; et
 si Padma ou Granger tiraient maintenant, elles épuiseraient leurs
 propres forces à un point tel que cela pourrait les faire perdre.
 
-« *Harry !* » hurla Granger. « *Tu n'es pas sérieux !* »
+"*Harry !*" hurla Granger. "*Tu n'es pas sérieux !*"
 
 Harry était déjà en mouvement.
 
-Et, alors qu'il ouvrait grand la fenêtre, sa voix froide dit :
-« Suivez-moi si vous l'osez. »
+Et, alors qu'il ouvrait grand la fenêtre, sa voix froide dit :
+"Suivez-moi si vous l'osez."
 
-
+ 
 
 ------------------------------------------------------------------------
 
-
+ 
 
 Le vent gelé hurlait tout autour d'eux.
 
@@ -151,14 +151,14 @@ Les bras de Drago commençaient déjà à être fatigués.
 
 … il s'était avéré que, hier, Harry avait minutieusement démontré à
 Granger comment métamorphoser les gants qu'il portait en ce moment même,
-qui utilisaient quelque chose nommé 'setæ de Gecko' ; et comment coller
+qui utilisaient quelque chose nommé 'setæ de Gecko' ; et comment coller
 des morceaux métamorphosés de ce même matériaux aux bout de leurs
-chaussures ; et Harry et Granger avaient très innocemment essayé de
+chaussures ; et Harry et Granger avaient très innocemment essayé de
 grimper un peu aux murs et au plafond.
 
 Et, hier aussi, Harry avait fourni à Granger un total d'exactement deux
-doses de potion chute plumée à transporter dans sa bourse, « juste au cas
-où ».
+doses de potion chute plumée à transporter dans sa bourse, "juste au cas
+où".
 
 Non pas que Padma les aurait suivis de toute façon. *Elle* n'était pas
 folle.
@@ -179,42 +179,42 @@ sûreté.*
 
 Harry Potter, par contre, allait mourir.
 
-« Je me demande pourquoi Harry fait cela, » dit le général Granger d'un
+"Je me demande pourquoi Harry fait cela," dit le général Granger d'un
 ton pensif, détachant lentement le bout des doigts d'une de ses mains du
-mur au son d'un « shlick » prolongée. Sa main se rabattit contre le mur
-presque immédiatement après avoir été soulevée. « Il faudra que je le lui
-demande, après l'avoir tué. »
+mur au son d'un "shlick" prolongée. Sa main se rabattit contre le mur
+presque immédiatement après avoir été soulevée. "Il faudra que je le lui
+demande, après l'avoir tué."
 
 C'était incroyable ce qu'ils avaient en commun tous les deux.
 
 Drago n'avait pas vraiment envie de parler pour le moment mais il
-parvint à dire, à travers des dents serrées : « Ça pourrait être une
-vengeance. Pour le rendez-vous galant. »
+parvint à dire, à travers des dents serrées : "Ça pourrait être une
+vengeance. Pour le rendez-vous galant."
 
-« Vraiment, » dit Granger. « Après tout ce temps. »
-
-Shlick. Plop.
-
-« Que c'est gentil de sa part, » dit Granger.
+"Vraiment," dit Granger. "Après tout ce temps."
 
 Shlick. Plop.
 
-« J'imagine que je trouverai une façon vraiment romantique de le
-remercier, » dit Granger.
+"Que c'est gentil de sa part," dit Granger.
+
+Shlick. Plop.
+
+"J'imagine que je trouverai une façon vraiment romantique de le
+remercier," dit Granger.
 
 Stick. Plop.
 
-« Qu'est-ce qu'il a contre *toi* ? » dit Granger.
+"Qu'est-ce qu'il a contre *toi* ?" dit Granger.
 
 Stick. Plop.
 
 Le vent gelé hurlait tout autour d'eux.
 
-
+ 
 
 ------------------------------------------------------------------------
 
-
+ 
 
 Vous auriez pu croire qu'avoir de nouveau un sol sous les pieds aurait
 donné l'impression d'être plus en sûreté.
@@ -225,13 +225,13 @@ que vous l'auriez traversé en courant à grande vitesse…
 
 Alors vous auriez eu *tristement tort*.
 
-« *Luminos ! »* cria Drago.
+"*Luminos !"* cria Drago.
 
-« *Luminos !* » cria Granger.
+"*Luminos !*" cria Granger.
 
-« *Luminos !* » cria Drago.
+"*Luminos !*" cria Drago.
 
-« *Luminos !* » cria Granger.
+"*Luminos !*" cria Granger.
 
 La silhouette lointaine évitait et grimpait tout en courant, et pas un
 seul tir ne l'atteint, mais ils gagnaient du terrain.
@@ -257,30 +257,30 @@ poigne blanche tandis que son autre main serrait frénétiquement le
 rebord du toit et que les bouts de ses chaussures s'enfonçaient sur la
 tranche d'une tuile.
 
-« *Hermione* ! » glapit la voix distante de Harry.
+"*Hermione* !" glapit la voix distante de Harry.
 
-« Drago, » chuchota Granger, et Drago baissa les yeux.
+"Drago," chuchota Granger, et Drago baissa les yeux.
 
 Cela avait peut-être été une erreur. Il y avait beaucoup de vide
 en-dessous d'eux, rien que du vide, ils étaient au bord d'un toit qui
 surplombait les murs de Poudlard.
 
-« Il va venir m'aider, » chuchota la fille, « mais d'abord il va nous
+"Il va venir m'aider," chuchota la fille, "mais d'abord il va nous
 lancer un *Luminos* à tous les deux, impossible qu'il fasse autrement.
-Tu dois me laisser tomber. »
+Tu dois me laisser tomber."
 
 Cela aurait dû être la chose la plus facile du monde.
 
 Elle n'était qu'une sang-de-bourbe, juste une sang-de-bourbe, *juste une
-sang-de-bourbe !*
+sang-de-bourbe !*
 
-Elle n'aurait même pas *mal* * !*
+Elle n'aurait même pas *mal* *!*
 
 … le cerveau de Drago refusait d'écouter ce que Drago avait à lui dire.
 
-« Fais-le, » chuchota Hermione, ses yeux étincelants, dénués de la moindre
-trace de peur, « fais-le, Drago, fais-le, tu peux le battre seul, Drago,
-*il faut qu'on gagne !* »
+"Fais-le," chuchota Hermione, ses yeux étincelants, dénués de la moindre
+trace de peur, "fais-le, Drago, fais-le, tu peux le battre seul, Drago,
+*il faut qu'on gagne !*"
 
 Il y eut le son de quelqu'un qui courait, et le son se rapprochait.
 
@@ -289,15 +289,15 @@ Il y eut le son de quelqu'un qui courait, et le son se rapprochait.
 La voix dans la tête de Drago ressemblait horriblement à celle de Harry
 Potter lorsque celui-ci lui prodiguait des leçons.
 
-*… vas-tu laisser ton cerveau diriger ta vie ?*
+*… vas-tu laisser ton cerveau diriger ta vie ?*
 
-
+ 
 
 ------------------------------------------------------------------------
 
+ 
 
-
-*Après-coup, 1 :*
+*Après-coup, 1 :*
 
 Daphné Greengrass avec besoin de faire de sacrés efforts pour rester
 muette tandis que Millicent Bulstrode racontait à nouveau l'histoire
@@ -308,75 +308,75 @@ s'étendre si on le désirait). Surtout parce que, du point de vue de
 Daphné, c'était une histoire déjà parfaite sans avoir besoin des
 *améliorations* de Millicent.
 
-« Et alors ? » glapirent Flora et Hestia Carrow.
+"Et alors ?" glapirent Flora et Hestia Carrow.
 
-« Le général Granger a levé les yeux vers lui, » dit Millicent d'une voix
-théâtrale, « et elle a dit :'Drago ! Tu dois me lâcher ! Ne t'en fais pas
-pour moi, je te promets que tout ira bien ! Et que pensez-vous que
-Malfoy a alors fait ? »
+"Le général Granger a levé les yeux vers lui," dit Millicent d'une voix
+théâtrale, "et elle a dit :'Drago ! Tu dois me lâcher ! Ne t'en fais pas
+pour moi, je te promets que tout ira bien ! Et que pensez-vous que
+Malfoy a alors fait ?"
 
-« Il a dit : 'Jamais !' » cria Charlotte Wiland, « et il l'a tenue encore
-plus fort ! »
+"Il a dit : 'Jamais !'" cria Charlotte Wiland, "et il l'a tenue encore
+plus fort !"
 
 Toutes les filles qui écoutaient hochèrent la tête, à part Pansy
 Parkinson.
 
-« Nan ! » dit Millicent. « Il l'a lâchée. Et alors il s'est redressé et il
-a abattu le général Potter. Fin. »
+"Nan !" dit Millicent. "Il l'a lâchée. Et alors il s'est redressé et il
+a abattu le général Potter. Fin."
 
 Il y eut une pause abasourdie.
 
-« Ça ne se fait *pas* ! » dit Charlotte.
+"Ça ne se fait *pas* !" dit Charlotte.
 
-« C'est une *sang-de-bourbe*, » dit Pansy, l'air confuse. « Bien *sûr*
-qu'il l'a lâchée ! »
+"C'est une *sang-de-bourbe*," dit Pansy, l'air confuse. "Bien *sûr*
+qu'il l'a lâchée !"
 
-« Eh bien, Malfoy n'aurait pas dû la rattraper en premier lieu alors ! »
-dit Charlotte. « Mais une fois qu'il l'avait attrapée, il *devait* la
-tenir ! *Surtout* face à une fin certaine qui s'approchait ! » Tracey
+"Eh bien, Malfoy n'aurait pas dû la rattraper en premier lieu alors !"
+dit Charlotte. "Mais une fois qu'il l'avait attrapée, il *devait* la
+tenir ! *Surtout* face à une fin certaine qui s'approchait !" Tracey
 Davis, assise à côté de Daphné, approuvait énergiquement de la tête.
 
-« Je ne vois pas pourquoi, » dit Pansy.
+"Je ne vois pas pourquoi," dit Pansy.
 
-« C'est parce que tu n'as pas une once de romantisme en toi, » dit Tracey.
-« Et puis, on ne peut pas juste laisser tomber les filles comme ça. Une
+"C'est parce que tu n'as pas une once de romantisme en toi," dit Tracey.
+"Et puis, on ne peut pas juste laisser tomber les filles comme ça. Une
 garçon qui laisserait tomber une fille comme ça… il laisserait tomber
-*n'importe qui*. Il te laisserait tomber *toi*, Pansy. »
+*n'importe qui*. Il te laisserait tomber *toi*, Pansy."
 
-« Qu'es'tu veux dire, *il me laisserait tomber* ? » dit Pansy.
+"Qu'es'tu veux dire, *il me laisserait tomber* ?" dit Pansy.
 
-Daphné ne pouvait plus se retenir. « Tu sais, » dit Daphné d'un air
-sombre, « tu prends le petit déjeuner un jour à notre table, et voilà-t-y
-pas que Malfoy *te laisse tomber*, et tu tombes du sommet de Poudlard !
-Voilà ce qu'elle veut dire ! »
+Daphné ne pouvait plus se retenir. "Tu sais," dit Daphné d'un air
+sombre, "tu prends le petit déjeuner un jour à notre table, et voilà-t-y
+pas que Malfoy *te laisse tomber*, et tu tombes du sommet de Poudlard !
+Voilà ce qu'elle veut dire !"
 
-« Ouais ! » dit Charlotte. « C'est un tombeur de sorcière ! »
+"Ouais !" dit Charlotte. "C'est un tombeur de sorcière !"
 
-« Vous savez pourquoi Atlantis est tombée ? » dit Tracey. « Pasque
-quelqu'un comme Malfoy l'a *laissée tomber*, voilà pourquoi ! »
+"Vous savez pourquoi Atlantis est tombée ?" dit Tracey. "Pasque
+quelqu'un comme Malfoy l'a *laissée tomber*, voilà pourquoi !"
 
-Daphné baissa la voix. « En fait… et si Malfoy était celui qui avait fait
-tomber Hermione, je veux dire le général Granger ? Et s'il s'est donné
-pour mission de faire tomber *tous* les nés-Moldus ? »
+Daphné baissa la voix. "En fait… et si Malfoy était celui qui avait fait
+tomber Hermione, je veux dire le général Granger ? Et s'il s'est donné
+pour mission de faire tomber *tous* les nés-Moldus ?"
 
-« Tu veux dire - ? » s'étrangla Tracey.
+"Tu veux dire - ?" s'étrangla Tracey.
 
-« C'est ça ! » dit Daphné d'un ton théâtral. « Et si Malfoy était -
-*l'héritier de Glisserpentard ? »*
+"C'est ça !" dit Daphné d'un ton théâtral. "Et si Malfoy était -
+*l'héritier de Glisserpentard ?"*
 
-« Le prochain Tombeur des Ténèbres ! » dit Tracey.
+"Le prochain Tombeur des Ténèbres !" dit Tracey.
 
 Et c'était une expression bien trop géniale pour qu'elles la gardent
 pour elle, et à la tombée de la nuit elle avait fait le tour de
 Serpentard, et le matin suivant c'était le gros titre du *Chicaneur*.
 
-
+ 
 
 ------------------------------------------------------------------------
 
+ 
 
-
-*Après-coup, 2 :*
+*Après-coup, 2 :*
 
 Ce soir-là, Hermione s'assura d'arriver à leur salle de classe
 habituelle en avance, juste pour que lorsque Harry arrive, elle soit là,
@@ -385,19 +385,19 @@ seule, dans une chaise, lisant un livre paisiblement.
 S'il existait une façon de s'excuser en ouvrant une porte grinçante,
 c'était comme ça que Harry venait de le faire.
 
-« Euh, » dit la voix de Harry Potter.
+"Euh," dit la voix de Harry Potter.
 
 Hermione continua de lire.
 
-« Je suis, euh, assez désolé, je ne comptais pas *vraiment* te faire
-tomber du toit ou quoi que ce soit… »
+"Je suis, euh, assez désolé, je ne comptais pas *vraiment* te faire
+tomber du toit ou quoi que ce soit…"
 
 À vrai dire, cela avait été une expérience assez divertissante.
 
-« Je, ah… je ne suis pas très expérimenté en excuses, je tomberai à
+"Je, ah… je ne suis pas très expérimenté en excuses, je tomberai à
 genoux si tu veux, ou je t'achèterai quelque chose de cher, *Hermione je
 ne sais pas comment te demander pardon pour ce que j'ai fait est-ce que
-tu pourrais juste me dire quoi faire ? »*
+tu pourrais juste me dire quoi faire ?"*
 
 Elle continua de lire son livre en silence.
 

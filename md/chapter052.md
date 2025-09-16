@@ -10,8 +10,8 @@ rôle. Sa première véritable aventure, un donjon à pénétrer, un
 gouvernement maléfique à défier, une vierge en détresse à secourir.
 Harry aurait dû être plus effrayé, plus réticent, mais au lieu de cela
 il avait la sensation qu'il était temps, et grand temps, de devenir le
-genre de personne qu'il avait découvert dans ses livres ; de commencer
-son voyage vers ce qu'il avait toujours su être sa destination : être un
+genre de personne qu'il avait découvert dans ses livres ; de commencer
+son voyage vers ce qu'il avait toujours su être sa destination : être un
 héros. De faire le premier pas sur la route qui menait au Kimball
 Kinnison et au capitaine Picard et à Liono et à Thundero et certainement
 *pas* à Raistlin Majere. Selon ce que le cerveau de Harry avait appris
@@ -22,10 +22,10 @@ exemple de processus de maturation à suivre, et il avait très envie de
 commencer à grandir.
 
 Et si le motif de l'histoire requérait que le héros perde une partie de
-son innocence en conséquence de sa première aventure ; alors pour le
+son innocence en conséquence de sa première aventure ; alors pour le
 moment, en cet instant encore innocent, il semblait temps, et grand
 temps, de vivre cette douleur. Comme de délaisser des habits trop petits
-pour lui ; ou comme de progresser enfin au prochain niveau après avoir
+pour lui ; ou comme de progresser enfin au prochain niveau après avoir
 été bloqué pendant onze ans au troisième, ou même au deuxième monde de
 Super Mario Bros.
 
@@ -57,14 +57,14 @@ Harry, balais que le professeur Quirrell lui avait donné, ce qui
 n'aurait pas été une bonne idée. Il fallut presque une seconde entière
 pour qu'il reprenne ses esprits et ne redresse son balais avec aisance.
 
-« Je suis là », dit une voix inconnue depuis une zone vide au-dessus de
-lui ; basse et râpeuse, la voix de l'échalas cireux et barbu que le
+"Je suis là", dit une voix inconnue depuis une zone vide au-dessus de
+lui ; basse et râpeuse, la voix de l'échalas cireux et barbu que le
 professeur Quirrell était devenu en buvant du Polynectar, avant de se
 Désillusionner, lui, et son balais.
 
-« Je suis là, » dit Harry de sous la Cape d'Invisibilité. Il n'avait pas
+"Je suis là," dit Harry de sous la Cape d'Invisibilité. Il n'avait pas
 bu de Polynectar. Revêtir un autre corps entravait la magie, et Harry
-pourrait avoir besoin d'avoir toute sa magie à portée de main ; le plan
+pourrait avoir besoin d'avoir toute sa magie à portée de main ; le plan
 était donc que Harry reste invisible quasiment tout le temps plutôt
 qu'il boive du Polynectar.
 
@@ -81,7 +81,7 @@ lunettes.
 Ses verres nettoyés, Harry regarda autour de lui.
 
 Il était entouré par de la pluie et du vent, et il faisait peut-être
-cinq degrés Celsius, avec de la chance ; il avait déjà fait l'objet d'un
+cinq degrés Celsius, avec de la chance ; il avait déjà fait l'objet d'un
 sortilège de réchauffement avant de s'aventurer dehors en Février, mais
 le charme ne résistait pas au gouttes d'un froid mordant. Pire que la
 neige, la pluie s'imprégnait dans toutes les surfaces exposées. La Cape
@@ -93,7 +93,7 @@ son cou, coulait le long de sa chemise et des manches de ses robes et
 des ourlets de son pantalon et dans ses chaussures. Le plus petit
 morceau de vêtement devenait un passage pour que l'eau s'infiltre.
 
-« Par là, » dit la voix polynectarée, et une étincelle de lumière verte
+"Par là," dit la voix polynectarée, et une étincelle de lumière verte
 s'alluma devant le balais de Harry et fonça dans une direction qui lui
 sembla impossible à suivre du regard.
 
@@ -116,18 +116,18 @@ où la Mort attendait, se déversant sur l'esprit de Harry, le
 contournant, tel une vague se brisant sur un rocher. Cette fois, Harry
 connaissait son ennemi, et sa volonté était d'acier et de lumière.
 
-« Je peux déjà sentir les Détraqueurs, » dit la voix râpeuse et
-polynectarée du professeur Quirrell. « Je ne m'attendais pas à cela, pas
-si tôt. »
+"Je peux déjà sentir les Détraqueurs," dit la voix râpeuse et
+polynectarée du professeur Quirrell. "Je ne m'attendais pas à cela, pas
+si tôt."
 
-« Pensez aux étoiles, » dit Harry par-dessus un grondement de tonnerre
-lointain. « Ne laissez aucune colère entrer en vous, rien de négatif,
+"Pensez aux étoiles," dit Harry par-dessus un grondement de tonnerre
+lointain. "Ne laissez aucune colère entrer en vous, rien de négatif,
 pensez seulement aux étoiles, à ce que c'est que de s'oublier et de
 tomber sans corps à travers l'espace. Maintenez cette pensée comme une
 barrière Occlumantique à travers tout votre esprit. Le Détraqueurs
-auront quelque difficulté à traverser cela. »
+auront quelque difficulté à traverser cela."
 
-Il y eut un silence pendant quelques instants, puis : « Intéressant. »
+Il y eut un silence pendant quelques instants, puis : "Intéressant."
 
 L'étincelle verte s'éleva et Harry inclina son balais légèrement vers le
 haut afin de suivre, alors même que ce mouvement les menait dans de la
@@ -152,12 +152,12 @@ Des cargaisons de terre y étaient parfois déversées afin de garder les
 étages à niveau, car la matière directement exposée aux Détraqueurs se
 décomposait pour devenir de la boue et du néant.
 
-« Attendez une minute, » dit la voix râpeuse, « suivez-moi à pleine
-vitesse, et faites attention en traversant. »
+"Attendez une minute," dit la voix râpeuse, "suivez-moi à pleine
+vitesse, et faites attention en traversant."
 
-« Compris, » dit lentement Harry.
+"Compris," dit lentement Harry.
 
-L'étincelle s'éteignit et Harry commença à compter : *un un million,
+L'étincelle s'éteignit et Harry commença à compter : *un un million,
 deux un million, trois un million…*
 
 *… soixante un million*, et Harry plongea, le vent hurlait autour de
@@ -188,19 +188,19 @@ Harry descendit de son balais.
 
 L'attraction du vide était maintenant plus forte, et elle se divisait,
 coulait autour de Harry sans le toucher. Elles étaient distantes mais
-nombreuses, les blessures du monde ; Harry aurait pu indiquer leur
+nombreuses, les blessures du monde ; Harry aurait pu indiquer leur
 direction les yeux fermés.
 
-« *Lanccez vottre Patronuss, »* siffla un serpent au sol, l'air plus
+"*Lanccez vottre Patronuss,"* siffla un serpent au sol, l'air plus
 décoloré que vert sous la faible lumière orange.
 
 La légère tension se communiquait même en Fourchelangue. Harry fut
-surpris ; le professeur Quirrell avait dit que les Animagus, une fois
+surpris ; le professeur Quirrell avait dit que les Animagus, une fois
 transformés, étaient bien moins vulnérables aux Détraqueurs (Harry
 présuma que c'était pour la même raison que celle qui expliquait la
 forme animale des Patronus). Si le professeur Quirrell avait autant de
 mal en forme reptilienne, qu'avait-il ressenti sous forme humaine,
-lorsqu'il avait eu besoin de pouvoir utiliser sa magie… ?
+lorsqu'il avait eu besoin de pouvoir utiliser sa magie… ?
 
 Dans sa main, la baguette de Harry se levait déjà.
 
@@ -219,7 +219,7 @@ d'espoir, plus de simples promesses, tout commencerait ici. Ici et
 La baguette de Harry fendit l'espace et pointa en direction de l'endroit
 où les Détraqueurs attendaient, loin en-dessous.
 
-« *Expecto Patronum !* »
+"*Expecto Patronum !*"
 
 La silhouette humanoïde prit forme dans un brasier de lumière. Elle
 n'était pas la chose solaire qu'elle avait été auparavant… probablement
@@ -231,13 +231,13 @@ Cela valait peut-être mieux. Harry devrait garder son Patronus pendant
 un moment, et il était peut-être préférable qu'il ne soit pas trop
 lumineux.
 
-À cette pensée, le Patronus s'assombrit un peu plus ; puis un peu plus,
+À cette pensée, le Patronus s'assombrit un peu plus ; puis un peu plus,
 alors que Harry essayait d'y mettre un peu moins de sa force, jusqu'à ce
 que la brillante silhouette humanoïde ne luise finalement qu'un peu plus
 que le plus lumineux des Patronus animaux, et Harry sentit qu'il ne
 pouvait le ternir plus sans risquer de le perdre entièrement.
 
-Puis : « *C'est stable,* » siffla Harry, et il commença à nourrir sa
+Puis : "*C'est stable,*" siffla Harry, et il commença à nourrir sa
 bourse de son balais. Sa baguette resta en main, et un léger courant
 durable venant de lui remplaçait les légères pertes de son Patronus.
 
@@ -246,11 +246,11 @@ la baguette du professeur Quirrell dans une main et le balais dans
 l'autre. Le grand échalas vacilla en revenant à la vie, et il alla
 s'appuyer contre le mur pendant un moment.
 
-« Bien joué, peut-être un tout petit peu trop lent, » murmura la voix
+"Bien joué, peut-être un tout petit peu trop lent," murmura la voix
 râpeuse. La sécheresse du professeur Quirrell s'y trouvait, même si elle
 ne correspondait pas à la voix, pas plus que le regard grave ne
-correspondait au visage orné d'une barbe épaisse. « Je ne peux plus les
-sentir du tout à présent. »
+correspondait au visage orné d'une barbe épaisse. "Je ne peux plus les
+sentir du tout à présent."
 
 Un moment plus tard, le balais partit vers les robes de l'homme et
 disparut. Puis sa baguette s'éleva et tapa son crâne, et il disparut à
@@ -263,11 +263,11 @@ Si vous aviez observé de l'extérieur, vous n'auriez rien vu d'autre
 qu'une petite étincelle verte qui dérivait dans les airs, et un
 humanoïde étincelant d'argent qui marchait derrière elle.
 
-
+ 
 
 ------------------------------------------------------------------------
 
-
+ 
 
 Ils descendirent encore et encore et encore, dépassant une lampe à gaz
 après l'autre, et parfois une immense porte de métal, plongeant dans
@@ -291,7 +291,7 @@ ne puisse rien sentir.
 
 Tout l'enthousiasme et l'héroïsme s'étaient déjà usés, comme Harry avait
 su qu'ils le feraient, ce qui n'avait pas prit longtemps même selon ses
-critères ; le processus s'était achevé la première fois qu'ils étaient
+critères ; le processus s'était achevé la première fois qu'ils étaient
 passés devant une de ces portes de métal. Chaque porte de métal était
 fermée par un immense loquet, un loquet fait d'un simple métal
 non-magique, qui n'aurait pas arrêté un élève de Poudlard en première
@@ -302,7 +302,7 @@ individuelles, chacune donnait sur un couloir où se trouverait un groupe
 de cellules. Cela aidait en un sens, de ne pas avoir à penser que chaque
 porte correspondait directement à un prisonnier qui attendait juste
 derrière. Au lieu de cela il y avait peut-être *plus* d'un prisonnier,
-ce qui diminuait l'impact émotionnel ; comme dans cette étude qui
+ce qui diminuait l'impact émotionnel ; comme dans cette étude qui
 montrait que les gens donnaient plus lorsqu'on leur disait qu'une
 quantité d'argent donnée était nécessaire à sauver la vie d'un enfant
 que quand on leur disait que cette même quantité était nécessaire à
@@ -313,7 +313,7 @@ qu'il le faisait, la lumière de son Patronus fluctuait.
 
 Ils parvinrent à un endroit où le corridor tournait à gauche, à l'angle
 du bâtiment triangulaire. Ils descendirent encore des marches de métal,
-une autre étape ; ils plongeaient à nouveau.
+une autre étape ; ils plongeaient à nouveau.
 
 Les simples meurtriers n'étaient pas placés dans les cellules les plus
 basses. Il y avait toujours un niveau inférieur, une punition encore
@@ -323,7 +323,7 @@ réservait au cas où vous feriez encore pire.
 
 Mais Bellatrix Black avait été la Mangemort qui avait inspiré plus de
 peur que quiconque hormis le Seigneur des Ténèbres lui-même, une
-sorcière magnifique et mortelle absolument loyale à son maître ; elle
+sorcière magnifique et mortelle absolument loyale à son maître ; elle
 avait été, si une telle chose était possible, encore plus sadique et
 maléfique que Vous-Savez-Qui lui-même, comme si elle avait essayé de
 surpasser son maître…
@@ -360,7 +360,7 @@ Et le cauchemar de Bellatrix avait continué.
 
 Quelque part à l'intérieur de Bellatrix se trouvait peut-être encore
 quelque chose qui hurlait, qui avait hurlé pendant tout ce temps,
-quelque chose qu'un Guérisseur psychiatrique pourrait ramener ; ou
+quelque chose qu'un Guérisseur psychiatrique pourrait ramener ; ou
 peut-être pas, le professeur Quirrell n'avait aucun moyen de le savoir.
 Mais dans un cas comme dans l'autre, ils pouvaient…
 
@@ -379,11 +379,11 @@ la Mort et de Bellatrix, et le claquement de leurs chaussures invisibles
 airs, la silhouette étincelante suivait et sa lumière d'argent fluctuait
 parfois.
 
-
+ 
 
 ------------------------------------------------------------------------
 
-
+ 
 
 Après être descendu maintes fois, ils parvinrent à un couloir qui ne se
 terminait pas par des escaliers mais par une dernière porte de métal, et
@@ -394,7 +394,7 @@ les profondeurs d'Azkaban avait progressé sans que rien ne se produise.
 Mais son cœur tambourinait maintenant dans sa poitrine. Ils étaient au
 fond, et les ombres de la Mort étaient à portée de main.
 
-Une sorte de clic métallique émana de la porte ; le professeur Quirrell
+Une sorte de clic métallique émana de la porte ; le professeur Quirrell
 ouvrait le chemin.
 
 Harry prit une profonde inspiration et se souvint de tout ce que le
@@ -413,19 +413,19 @@ Il vit un couloir droit qui s'achevait sur de la pierre. Il n'y avait
 aucune lumière ici hormis celle qui se faufilait depuis le Patronus de
 Harry. C'était suffisant pour qu'il voit les barreaux extérieurs des
 huit cellules encastrées dans le couloir, mais il ne pouvait voir à
-l'intérieur ; plus important encore, il ne pouvait voir personne dans le
+l'intérieur ; plus important encore, il ne pouvait voir personne dans le
 couloir.
 
-« *Je ne voiss rien, »* siffla Harry.
+"*Je ne voiss rien,"* siffla Harry.
 
 Le serpent darda, ondulant vivement le long du sol.
 
 Un moment plus tard -
 
-« *Elle est sseule, »* siffla-t-il.
+"*Elle est sseule,"* siffla-t-il.
 
 *Reste*, pensa Harry à l'intention de son Patronus, qui prit position
-juste à côté de la porte, comme s'il la gardait ; puis Harry ouvrit la
+juste à côté de la porte, comme s'il la gardait ; puis Harry ouvrit la
 porte plus grand et entra à l'intérieur.
 
 La première cellule contenait ce qui ressemblait à un corps desséché,
@@ -450,9 +450,9 @@ La lumière de la pièce vacilla.
 Quirrell souffrirait si ce Patronus cessait de l'empêcher d'avoir des
 pensées tristes. Si près des Détraqueurs, le professeur de Défense
 tomberait peut-être mort, tout simplement. *Stable, Harry James
-Potter-Evans-Verres, stable !*
+Potter-Evans-Verres, stable !*
 
-Et avec cette pensée, Harry rouvrit les yeux ; il n'y avait pas de temps
+Et avec cette pensée, Harry rouvrit les yeux ; il n'y avait pas de temps
 à perdre.
 
 La seconde cellule qu'il regarda ne contenait qu'un squelette.
@@ -467,7 +467,7 @@ n'était pas un crâne parce que la texture de la peau était encore
 différente de celle de l'os, même au stade de pâleur qu'elle avait
 atteint en attendant seule dans le noir. Soit ils ne la nourrissait pas
 beaucoup, soit les ombres de Détraqueurs aspiraient ce qu'elle
-mangeait ; car ses yeux semblaient avoir réduit dans leurs orbites, ses
+mangeait ; car ses yeux semblaient avoir réduit dans leurs orbites, ses
 lèvres avaient l'air trop asséchées pour recouvrir ses dents. La couleur
 sembla avoir déteint des vêtements noirs qu'elle avait apportés en
 prison, comme si les Détraqueurs avaient aussi drainé cela. Ces
@@ -481,7 +481,7 @@ ne pas s'éteindre, de rester et de *protéger Bellatrix des Détraqueurs
 -*
 
 Dans son cœur, dans son essence, Harry saisit toute sa pitié et toute sa
-compassion, toute sa volonté de la secourir des ténèbres ; et alors
+compassion, toute sa volonté de la secourir des ténèbres ; et alors
 qu'il pensait à cela, la radiation d'argent qui entrait par la porte
 ouverte s'intensifia.
 
@@ -492,5 +492,5 @@ d'attention…
 Une expression froide recouvrit le visage de Harry, invisible sous la
 capuche.
 
-« Bonjour, ma chère Bella, » dit un murmure glacé. « T'ais-je manqué ? »
+"Bonjour, ma chère Bella," dit un murmure glacé. "T'ais-je manqué ?"
 

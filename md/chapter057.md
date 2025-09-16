@@ -1,4 +1,4 @@
-# L'Expérience de Prison de Stanford, partie 7 : Cognition sous contraintes
+# L'Expérience de Prison de Stanford, partie 7 : Cognition sous contraintes
 
 
 Harry avait *espéré* avoir accompli une fusion avec son mystérieux côté
@@ -12,7 +12,7 @@ produit, mais il avait toujours un mystérieux côté obscur, toujours
 séparé de lui, et son lui ordinaire était toujours vincible. Et malgré
 toutes les réparations qu'il avait effectuées sur la peur de la mort
 qu'avait son côté obscur, il n'osait pas devenir sombre sans protection
-à l'intérieur d'Azkaban ; cela aurait été tenter le destin de façon
+à l'intérieur d'Azkaban ; cela aurait été tenter le destin de façon
 exagérée.
 
 C'était dommage, car un peu de nonvincibilité aurait *certainement été
@@ -23,10 +23,10 @@ s'appuyer contre un mur ni éclater en sanglots ni même se permettre un
 soupir. Sa chère Bella le regardait et ce n'était pas le genre de chose
 qu'un Seigneur des Ténèbres aurait fait.
 
-« Seigneur - », dit Bellatrix. Sa voix, basse, était tendue. « Les
-Détraqueurs - ils approchent - je peux les sentir, seigneur - »
+"Seigneur -", dit Bellatrix. Sa voix, basse, était tendue. "Les
+Détraqueurs - ils approchent - je peux les sentir, seigneur -"
 
-« Merci, Bella, » dit une voix sèche, « je suis au courant. »
+"Merci, Bella," dit une voix sèche, "je suis au courant."
 
 Harry ne pouvait pas ressentir les trous dans le monde aussi bien que
 lorsqu'il avait revêtu la Relique de la Mort mais il pouvait sentir
@@ -56,25 +56,25 @@ Aurors viennent te chercher. Sois raisonnable. C'est fini.*
 *Abandonne…*
 
 Lorsque cette pensée lui vint, la succion du vide sembla devenir plus
-forte ; et Harry comprit ce qui se passait et se concentra d'autant plus
+forte ; et Harry comprit ce qui se passait et se concentra d'autant plus
 sur les étoiles, détourna son esprit du désespoir -
 
 *Tu sais*, fit remarquer la partie logique de son être, *si tu n'as pas
 le droit d'avoir des pensées négatives parce que cela ouvrira ton esprit
-aux Détraqueurs, c'est* aussi *un biais cognitif : comment sauras-tu
-qu'il est vraiment temps d'abandonner ?*
+aux Détraqueurs, c'est* aussi *un biais cognitif : comment sauras-tu
+qu'il est vraiment temps d'abandonner ?*
 
 Un cri sanglotant et désespéré vint d'en-dessous, porteur de mots tels
-que « non », et « partez ». Les prisonniers savaient, ils pouvaient les
+que "non", et "partez". Les prisonniers savaient, ils pouvaient les
 sentir.
 
 Les Détraqueurs arrivaient.
 
-« Seigneur, vous - vous ne devriez pas prendre de risque pour moi -
-reprenez votre Cape - »
+"Seigneur, vous - vous ne devriez pas prendre de risque pour moi -
+reprenez votre Cape -"
 
-« Tais-toi, imbécile, » siffla une voix en colère. « Lorsque je déciderai
-de te sacrifier, je t'en ferai part. »
+"Tais-toi, imbécile," siffla une voix en colère. "Lorsque je déciderai
+de te sacrifier, je t'en ferai part."
 
 *Elle marque un point*, dit Serpentard. *Tu* *ne* devrais pas *prendre
 de risque pour elle, il est impossible que sa vie ait autant de valeur
@@ -92,11 +92,11 @@ Patronus car il aurait alors abandonné la pensée même qui l'avait sauvé
 plus tôt.
 
 L'idée lui vint que même s'il n'était plus capable de lancer le
-Patronus, il pourrait toujours prendre la cape de Bellatrix ; il lui
+Patronus, il pourrait toujours prendre la cape de Bellatrix ; il lui
 fallut alors arracher ses pensées à cette possibilité et se concentrer
 fermement sur la décision qu'il avait prise de ne *pas* le faire, sans
 quoi il serait peut-être tombé au sol, car le tourbillon de vide qui
-s'enroulait autour de lui avait atteint une puissance mortelle ; des
+s'enroulait autour de lui avait atteint une puissance mortelle ; des
 cris venaient d'en-haut, et ceux d'en-dessous s'étaient tus.
 
 *C'est ridicule*, dit son côté logique. *Les agents rationnels ne
@@ -112,40 +112,40 @@ interagissent avec celles de Détraqueurs…*
 que c'est une idée stupide, et je suis ton côté Gryffondor. Tu ne vas
 pas vraiment rester là et -*
 
-
+ 
 
 ------------------------------------------------------------------------
 
+ 
 
-
-« On a sa position ! » s'écria Ora, brandissant son miroir magique en
-signe de triomphe. « Le Détraqueur à l'extérieur du mur interne indique
-le niveau 7, spirale C, c'est là qu'ils sont ! »
+"On a sa position !" s'écria Ora, brandissant son miroir magique en
+signe de triomphe. "Le Détraqueur à l'extérieur du mur interne indique
+le niveau 7, spirale C, c'est là qu'ils sont !"
 
 Les Aurors la regardaient, attendaient un réponse.
 
-« Non, » dit Amélia d'une voix égale. « C'est là que *l'un* d'eux se
+"Non," dit Amélia d'une voix égale. "C'est là que *l'un* d'eux se
 trouve. Les Détraqueurs ne peuvent toujours pas trouver Bellatrix Black.
 Nous n'allons pas nous précipiter là-bas et la laisser partir dans la
 mêlée, et nous n'allons pas diviser nos forces pour mieux nous faire
 prendre en embuscade. Tant que nous nous déplaçons précautionneusement,
 nous ne pouvons pas perdre. Dites à Scrimgeour et à Shacklebolt de
-continuer de descendre un étage à la fois comme avant - »
+continuer de descendre un étage à la fois comme avant -"
 
 Le vieux sorcier s'était déjà élancé. Cette fois Amélia ne se fatigua
 même pas à l'insulter car leurs boucliers savamment construits
 s'écartèrent à nouveau comme s'ils avaient été liquides et ondulèrent
 doucement dans son sillage.
 
-
+ 
 
 ------------------------------------------------------------------------
 
-
+ 
 
 Harry attendait à l'entrée du couloir, juste devant les escaliers qui
 menaient à l'étage supérieur. Bellatrix et le serpent étaient derrière
-lui, masqués par la Relique de la Mort dont Harry s'était rendu maître ;
+lui, masqués par la Relique de la Mort dont Harry s'était rendu maître ;
 il savait, même s'ils ne pouvait pas le voir, que la sorcière émaciée
 était assise sur les marches le dos courbé car il avait rétracté son
 sortilège de lévitation afin de libérer sa magie et son esprit.
@@ -206,7 +206,7 @@ allait causer dans ce cas précis -*
 
 Les ombres de la Mort franchirent le milieu du couloir et Harry leva sa
 main, doigts écartés, et dit de la voix ferme et confiante d'un
-commandant : « Arrêtez-vous. »
+commandant : "Arrêtez-vous."
 
 Les ombres de la Mort s'arrêtèrent.
 
@@ -214,14 +214,14 @@ Derrière lui Bellatrix eut un hoquet étranglé, comme s'il avait été
 arraché de sa gorge.
 
 Harry fit un geste vers elle, le signal qu'il avait préparé à l'avance
-et qui signifiait : *répète ce que tu les as entendus dire*.
+et qui signifiait : *répète ce que tu les as entendus dire*.
 
-« Ils disent, » répondit Bellatrix, sa voix tremblait, « ils disent :
+"Ils disent," répondit Bellatrix, sa voix tremblait, "ils disent :
 'Bellatrix Black nous a été promise. Dis-nous où elle se cache et tu
-seras épargné.' »
+seras épargné.'"
 
-« Bellatrix ? » dit Harry, donnant à sa voix un ton amusé. « Elle s'est
-échappée il y a un moment. »
+"Bellatrix ?" dit Harry, donnant à sa voix un ton amusé. "Elle s'est
+échappée il y a un moment."
 
 Un instant plus tard, Harry se rendit compte qu'il aurait dû dire que
 Bellatrix était parmi les Aurors de l'étage supérieur, cela aurait semé
@@ -231,24 +231,24 @@ Non, c'était une erreur de penser qu'on pouvait tromper les Détraqueurs,
 ils n'étaient que des *choses*, ils n'étaient contrôlés que par les
 *attentes* -
 
-« Ils disent, » dit Bellatrix d'une voix brisée, « ils disent qu'ils savent
-que vous mentez. »
+"Ils disent," dit Bellatrix d'une voix brisée, "ils disent qu'ils savent
+que vous mentez."
 
 Les vides recommencèrent à avancer.
 
-*Ses anticipations sont plus fermes que la mienne ; elle les contrôle
+*Ses anticipations sont plus fermes que la mienne ; elle les contrôle
 involontairement -*
 
-« Ne résiste pas, » dit Harry, pointant sa baguette derrière lui.
+"Ne résiste pas," dit Harry, pointant sa baguette derrière lui.
 
-« Je, je vous aime, adieu, seigneur - »
+"Je, je vous aime, adieu, seigneur -"
 
-« *Somnium.* »
+"*Somnium.*"
 
 Entendre ces horribles mots et comprendre l'erreur de Bellatrix l'aida
-étrangement ; cela lui rappela pourquoi il se battait.
+étrangement ; cela lui rappela pourquoi il se battait.
 
-« Arrêtez-vous, » répéta Harry. Bellatrix dormait ; maintenant, seule sa
+"Arrêtez-vous," répéta Harry. Bellatrix dormait ; maintenant, seule sa
 volonté, ou plutôt seules ses attentes devraient contrôler ces sphères
 d'annihilation -
 
@@ -271,20 +271,20 @@ le monde* pensait qu'ils fonctionnaient, pas seulement par les pensées
 de la personne la plus proche d'eux. Et dans un cas comme dans l'autre -
 
 Harry leva sa baguette, en position de départ pour le Patronus, et il
-parla :
+parla :
 
-« L'un de vous s'est rendu à Poudlard et n'est pas revenu. Il n'existe
-plus ; cette Mort est morte. »
+"L'un de vous s'est rendu à Poudlard et n'est pas revenu. Il n'existe
+plus ; cette Mort est morte."
 
 Les Détraqueurs firent halte, une douzaine de blessures du monde se
 tinrent immobiles alors que le néant hurlait autour d'eux tel un vent
 fatal sans destination.
 
-« Retournez-vous et partez et ne parlez de cela à personne, petites
-ombres, ou je vous détruirai aussi. »
+"Retournez-vous et partez et ne parlez de cela à personne, petites
+ombres, ou je vous détruirai aussi."
 
 Les doigts de Harry glissèrent vers la position de départ du Patronus et
-il se prépara à le lancer ; dans son esprit, la Terre brillait entre les
+il se prépara à le lancer ; dans son esprit, la Terre brillait entre les
 étoiles, le côté jour resplendissait de bleu sous l'éclat du soleil, le
 côté nuit étincelait de villes humaines. Harry ne bluffait pas, il
 n'essayait pas de jouer avec ses pensées. Les ombres de la Mort
@@ -313,15 +313,15 @@ et physique* parce que les Détraqueurs n'étaient pas partis bien loin.
 
 *Ah, et au fait*, dit Harry à son cerveau, *tu es viré*.
 
-
+ 
 
 ------------------------------------------------------------------------
 
+ 
 
+"Je l'ai trouvé !", s'écria la voix d'un vieux sorcier.
 
-« Je l'ai trouvé ! », s'écria la voix d'un vieux sorcier.
-
-*Qui ?* pensa Amélia tout en pivotant afin d'observer le retour de
+*Qui ?* pensa Amélia tout en pivotant afin d'observer le retour de
 Dumbledore, qui portait dans ses bras -
 
 \- la seule vue, la seule personne à laquelle elle ne se serait jamais
@@ -337,138 +337,138 @@ Bahry Une-Main était *en vie*.
 Un cri de joie s'éleva, les Aurors abaissèrent leur baguettes, certains
 d'entre eux commençaient déjà à s'élancer.
 
-« *Restez sur vos gardes !* » mugit Amélia. « Vérifiez qu'ils ne sont pas
+"*Restez sur vos gardes !*" mugit Amélia. "Vérifiez qu'ils ne sont pas
 sous Polynectar - inspectez Bahry, cherchez de petits Animagus ou des
-pièges - »
+pièges -"
 
-
+ 
 
 ------------------------------------------------------------------------
 
+ 
 
-
-« *Innerver. Wingardium Leviosa.* »
+"*Innerver. Wingardium Leviosa.*"
 
 Il y eut une pause. Harry sentit, même s'il ne pouvait pas tout à fait
 le voir, que la femme invisible se relevait, qu'elle s'appuyait sur ses
-pieds et qu'elle tournait la tête pour regarder autour d'elle. « Je suis…
-en vie… ? »
+pieds et qu'elle tournait la tête pour regarder autour d'elle. "Je suis…
+en vie… ?"
 
 Harry était douloureusement tenté de répondre non, juste pour voir ce
-qu'elle en ferait. Au lieu de cela il siffla : « Ne pose pas de questions
-stupides. »
+qu'elle en ferait. Au lieu de cela il siffla : "Ne pose pas de questions
+stupides."
 
-« Que s'est-il passé ? » murmura Bellatrix.
+"Que s'est-il passé ?" murmura Bellatrix.
 
 Et le Seigneur des Ténèbres laissa échapper un rire fou et suraigu, et
-il dit : « J'ai effrayé les Détraqueurs, ma chère Bella. »
+il dit : "J'ai effrayé les Détraqueurs, ma chère Bella."
 
 Il y eut une pause. Harry aurait souhaité pouvoir observer le visage de
-Bellatrix ; s'était-il trompé dans son choix de mots ?
+Bellatrix ; s'était-il trompé dans son choix de mots ?
 
-Après un moment, d'une voix chevrotante : « Se pourrait-il, seigneur, que
-sous cette forme nouvelle vous ayez commencé à vous soucier de moi - »
+Après un moment, d'une voix chevrotante : "Se pourrait-il, seigneur, que
+sous cette forme nouvelle vous ayez commencé à vous soucier de moi -"
 
-« Non, » répondit Harry d'une voix froide, et il se détourna d'elle (mais
+"Non," répondit Harry d'une voix froide, et il se détourna d'elle (mais
 il garda sa baguette pointée dans sa direction) puis commença à marcher.
-« Et assures-toi de ne plus m'offenser ou je t'abandonnerai ici que tu me
-sois utile ou pas. Maintenant suis, ou reste en arrière ; j'ai à faire. »
+"Et assures-toi de ne plus m'offenser ou je t'abandonnerai ici que tu me
+sois utile ou pas. Maintenant suis, ou reste en arrière ; j'ai à faire."
 
 Harry avança à grand pas sans écouter les halètements qui venaient de
-derrière lui ; il savait que Bellatrix suivait.
+derrière lui ; il savait que Bellatrix suivait.
 
 …parce que la dernière chose dont cette femme avait besoin, la dernière
 chose qu'il lui fallait penser avant que le guérisseur psychiatrique ne
 commence à essayer de la déprogrammer, c'était de croire que le Seigneur
 des Ténèbres pourrait un jour lui rendre son amour.
 
-
+ 
 
 ------------------------------------------------------------------------
 
-
+ 
 
 Le vieux sorcier lissa sa barbe d'un air contemplatif en regardant
 l'Auror Bahry se faire transporter hors de la pièce par deux Aurors
 costauds.
 
-« Amélia, comprends-tu cela ? »
+"Amélia, comprends-tu cela ?"
 
-« Non, » répondit-elle simplement. Elle soupçonnait un piège qui lui
+"Non," répondit-elle simplement. Elle soupçonnait un piège qui lui
 aurait pour l'instant échappé et c'était pourquoi l'Auror Bahry serait
 maintenu sous bonne garde, à l'écart du groupe principal.
 
-« Peut-être, » répondit-il lentement, « que celui qui parmi eux est capable
+"Peut-être," répondit-il lentement, "que celui qui parmi eux est capable
 de lancer le Patronus est plus qu'un simple otage. Peut-être bien
-quelqu'un qu'on a dupé pour qu'il vienne ? Quelle que soit la raison,
-ils ont gardé notre Auror en vie ; ne soyons pas les premiers à exercer
-des sortilèges mortels lorsque nous les trouverons - »
+quelqu'un qu'on a dupé pour qu'il vienne ? Quelle que soit la raison,
+ils ont gardé notre Auror en vie ; ne soyons pas les premiers à exercer
+des sortilèges mortels lorsque nous les trouverons -"
 
-« Je vois, » dit la vieille sorcière, comprenant soudain, « c'était *ça*
+"Je vois," dit la vieille sorcière, comprenant soudain, "c'était *ça*
 leur plan. L'Oublietter et le garder en vie ne leur coûte rien et *nous*
-fait hésiter - » Amélia hocha la tête, résolue, et elle dit à son
-équipe : « Nous continuons comme avant. »
+fait hésiter -" Amélia hocha la tête, résolue, et elle dit à son
+équipe : "Nous continuons comme avant."
 
-Le vieux sorcier soupira. « Des nouvelles des Détraqueurs ? »
+Le vieux sorcier soupira. "Des nouvelles des Détraqueurs ?"
 
-« Si je te le dis, » lâcha-t-elle, « est-ce que tu vas encore déguerpir ? »
+"Si je te le dis," lâcha-t-elle, "est-ce que tu vas encore déguerpir ?"
 
-« Cela ne te coûte rien, Amélia, » dit le vieux sorcier avec douceur, « et
-pourrait éviter le combat à l'un des tiens. »
+"Cela ne te coûte rien, Amélia," dit le vieux sorcier avec douceur, "et
+pourrait éviter le combat à l'un des tiens."
 
 *Me coûte rien à ma part ma chance de me venger -*
 
-Mais ce n'était rien comparé à l'autre poids dans la balance ; le vieux
+Mais ce n'était rien comparé à l'autre poids dans la balance ; le vieux
 sorcier agaçant finissait souvent par avoir raison et c'était en partie
 ce qui le rendait si agaçant.
 
-« Les Détraqueurs ont cessé de répondre aux questions concernant l'autre
-personne qu'ils ont dit avoir vue, » lui dit-elle, « et ils refusent de
-dire pourquoi, ni où il l'ont vue. »
+"Les Détraqueurs ont cessé de répondre aux questions concernant l'autre
+personne qu'ils ont dit avoir vue," lui dit-elle, "et ils refusent de
+dire pourquoi, ni où il l'ont vue."
 
 Dumbledore se tourna vers le flamboyant phénix d'argent perché sur son
 épaule et dont l'éclat illuminait le couloir entier, et il reçut un
-signe de dénégation silencieux en réponse. « Je ne peux pas non plus les
-détecter, » dit Dumbledore. Puis il haussa les épaules. « Je suppose que
+signe de dénégation silencieux en réponse. "Je ne peux pas non plus les
+détecter," dit Dumbledore. Puis il haussa les épaules. "Je suppose que
 je vais juste parcourir toute la spirale de haut en bas et voir si
-quelque chose se passe, non ? »
+quelque chose se passe, non ?"
 
 Amélia lui aurait ordonné de ne pas le faire si elle avait pensé que
 cela aurait eut le moindre effet.
 
-« Albus, » dit Amélia alors que le vieux sorcier se retournait pour
-partir, « même toi tu peux être pris en embuscade. »
+"Albus," dit Amélia alors que le vieux sorcier se retournait pour
+partir, "même toi tu peux être pris en embuscade."
 
-« Absurde, ma chère, » dit le vieux sorcier d'un ton guilleret alors qu'il
+"Absurde, ma chère," dit le vieux sorcier d'un ton guilleret alors qu'il
 s'en allait de nouveau, secouant en signe d'admonestation sa baguette de
 près d'un demi-mètre faite d'un bois noir-gris impossible à identifier,
-« je suis invincible. »
+"je suis invincible."
 
 Il y eut une pause.
 
-(« Il ne vient pas de dire ça - » murmura le nouvel Auror, une jeune
+("Il ne vient pas de dire ça -" murmura le nouvel Auror, une jeune
 demoiselle encore pincée du nom de Noëlle Curry, à l'intention de
-Brooks, l'Auror senior de son trio. « Si ? »)
+Brooks, l'Auror senior de son trio. "Si ?")
 
-(« Il peut se le permettre, » lui murmura Isabel en retour, « c'est
-*Dumbledore*, même le Destin ne le prend plus au sérieux. »)
+("Il peut se le permettre," lui murmura Isabel en retour, "c'est
+*Dumbledore*, même le Destin ne le prend plus au sérieux.")
 
-« Et c'est pour ça, » dit Amélia d'un ton grave au bénéfice des Aurors
-plus jeunes, « qu'on ne l'appelle jamais pour rien à moins d'y être
-absolument obligé. »
+"Et c'est pour ça," dit Amélia d'un ton grave au bénéfice des Aurors
+plus jeunes, "qu'on ne l'appelle jamais pour rien à moins d'y être
+absolument obligé."
 
-
+ 
 
 ------------------------------------------------------------------------
 
-
+ 
 
 Harry était allongé, totalement immobile, sur le banc dur qui faisait
 office de lit dans cette cellule avec une couverture tirée par-dessus
 lui, et il essayait de rester le plus statique possible en attendant que
 la peur revienne. Un Patronus approchait, et il était puissant.
 Bellatrix était masquée par une Relique de la Mort et aucune sortilège
-simple ne pouvait pénétrer cela ; mais Harry ne savait pas quels autres
+simple ne pouvait pénétrer cela ; mais Harry ne savait pas quels autres
 arts les Aurors pourraient employer afin de le détecter lui, et il
 n'osait pas révéler son ignorance en l'interrogeant. Alors Harry restait
 allongé sur le dur matelas, dans une cellule à la porte fermée à clé,
@@ -482,7 +482,7 @@ moindre effet, cette partie de son destin reposait entièrement dans les
 mains des Variables Cachées. La majeure partie de son esprit se
 concentrait sur la métamorphose qu'il était en train d'opérer.
 
-À l'écoute du silence, Harry entendit les pas rapide s'approcher ; ils
+À l'écoute du silence, Harry entendit les pas rapide s'approcher ; ils
 s'interrompirent devant la porte, puis -
 
 \- continuèrent.
@@ -504,11 +504,11 @@ ne fassent une inspection poussée de ce groupe de cellules, il y aurait
 assez de temps pour que Harry puisse finir sa métamorphose et la
 métamorphose partielle qu'il comptait faire ensuite -
 
-
+ 
 
 ------------------------------------------------------------------------
 
-
+ 
 
 Lorsque le vieux sorcier revint les mains vides, même Amélia commença à
 ressentir un soupçon d'inquiétude. Elle et les deux autres équipes
@@ -517,44 +517,44 @@ synchronisée afin de ne créer aucune ouverture qui pourrait être
 franchie en passant à travers un plafond et ils attendait encore de
 trouver le moindre indice.
 
-« Pourrais-je te demander un rapport ? » dit Amélia, gardant le mordant
+"Pourrais-je te demander un rapport ?" dit Amélia, gardant le mordant
 hors de sa voix.
 
-« D'abord un simple passage de bas en haut, » dit le vieux sorcier. Il
+"D'abord un simple passage de bas en haut," dit le vieux sorcier. Il
 fronçait les sourcils, ce qui rendait son visage encore plus ridé qu'à
-l'habitude. « J'ai examiné la cellule de Bellatrix et j'ai trouvé une
+l'habitude. "J'ai examiné la cellule de Bellatrix et j'ai trouvé une
 poupée de mort à sa place. Je pense que l'évasion n'était pas censée
 être remarquée. Il y a quelque chose de caché dans un coin, sous un
-morceau de tissu ; je n'y ai pas touché afin que les Aurors l'examinent.
+morceau de tissu ; je n'y ai pas touché afin que les Aurors l'examinent.
 Sur le chemin du retour, j'ai ouvert chaque porte et j'ai regardé dans
 les cellules. Je n'ai rien vu qui soit Désillusionné, seulement les
-prisonniers - »
+prisonniers -"
 
 Ils furent interrompus par un cri venant du phénix rouge-or et tous les
 Aurors tressaillirent en l'entendant. Il exprimait une condamnation et
 une demande urgente qui poussa presque Amélia à se mettre à courir.
 
-« - qui sont dans une condition assez alarmante, » dit Dumbledore d'un ton
+"- qui sont dans une condition assez alarmante," dit Dumbledore d'un ton
 doux. L'espace d'un instant, les yeux bleus derrière les verres en
-croissant de lune devinrent très froids. « L'un de vous me parlera-t-il
-des conséquences de leurs actions ? »
+croissant de lune devinrent très froids. "L'un de vous me parlera-t-il
+des conséquences de leurs actions ?"
 
-« *Je* n'ai pas - » commença Amélia.
+"*Je* n'ai pas - " commença Amélia.
 
-« Je sais, » dit le vieux sorcier. « Mes excuses, Amélia. » Il soupira.
-« Parmi ceux que j'ai vu, certains des prisonniers les plus récents
+"Je sais," dit le vieux sorcier. "Mes excuses, Amélia." Il soupira.
+"Parmi ceux que j'ai vu, certains des prisonniers les plus récents
 avaient encore quelques restes de leur magie, mais je n'ai ressenti
-aucune puissance intacte ; le plus fort avait autant de magie qu'un
+aucune puissance intacte ; le plus fort avait autant de magie qu'un
 enfant de première année. De nombreuses fois j'ai entendu Fumseck crier
 de détresse, mais jamais de défi. Il semble que vous allez devoir
-continuer votre recherche ; ils se cachent assez bien pour échapper à
-mon simple regard. »
+continuer votre recherche ; ils se cachent assez bien pour échapper à
+mon simple regard."
 
-
+ 
 
 ------------------------------------------------------------------------
 
-
+ 
 
 Lorsque Harry eut fini sa première métamorphose, il s'assit, ôta la
 couverture qui l'avait recouvert, lança un rapide *Lumos*, jeta un coup
@@ -564,22 +564,22 @@ passage de la personne qui avait ouvert puis refermé la porte - Harry
 n'avait bien sûr pas regardé dans cette direction - cela, il ne pouvait
 pas le deviner.
 
-« Seigneur… ? » chuchota la voix de Bellatrix, douce et très hésitante.
+"Seigneur… ?" chuchota la voix de Bellatrix, douce et très hésitante.
 
-« Tu peux parler à présent, » dit Harry. Il lui avait dit de rester
+"Tu peux parler à présent," dit Harry. Il lui avait dit de rester
 silencieuse pendant qu'il travaillait.
 
-« C'est Dumbledore qui a posé son regard sur nous. »
+"C'est Dumbledore qui a posé son regard sur nous."
 
 Pause.
 
-« Intéressant. » dit Harry d'un ton neutre. Il était heureux de ne pas
+"Intéressant." dit Harry d'un ton neutre. Il était heureux de ne pas
 s'en être rendu compte lorsque cela s'était produit. Il semblait qu'il
 avait eu *plutôt chaud*.
 
 Harry parla à sa bourse et commença à extraire l'appareil magique qu'il
 associerait au produit de son heure de travail. Puis, lorsque cela fut
-fait, un autre mot fit apparaître un tube de colle industrielle ; avant
+fait, un autre mot fit apparaître un tube de colle industrielle ; avant
 de l'utiliser, Harry lança le sortilège de bulle sur lui-même et sur
 Bellatrix, et il demanda à cette dernière de lancer le même sortilège
 sur le serpent afin que les émanations de la colle ne les atteignent pas
@@ -590,31 +590,31 @@ magie, Harry déposa le tout sur le lit et s'assit au sol, reposant sa
 magie et sa volonté pendant un moment avant de s'essayer à la
 métamorphoser suivante.
 
-« Seigneur… » dit Bellatrix d'une voix hésitante.
+"Seigneur…" dit Bellatrix d'une voix hésitante.
 
-« Oui ? » dit la voix sèche.
+"Oui ?" dit la voix sèche.
 
-« Quel est cet appareil que vous fabriquez ? »
+"Quel est cet appareil que vous fabriquez ?"
 
 Harry réfléchit rapidement. Cela semblait être une bonne opportunité de
 vérifier ses plans auprès d'elle sous couvert de questions orientées.
 
-« Considère ceci, ma chère Bella, » dit Harry d'une voix soyeuse. « À quel
+"Considère ceci, ma chère Bella," dit Harry d'une voix soyeuse. "À quel
 point est-il difficile, pour un sorcier puissant, de découper les murs
-d'Azkaban ? »
+d'Azkaban ?"
 
 Il y eut une pause, puis la voix de Bellatrix lui parvint, lente et
-perplexe : « Pas difficile du tout, seigneur… ? »
+perplexe : "Pas difficile du tout, seigneur… ?"
 
-« En effet, » dit la voix sèche et haute perchée du maître de Bellatrix.
-« Suppose que quelqu'un le fasse et s'envole par le trou ainsi formé au
+"En effet," dit la voix sèche et haute perchée du maître de Bellatrix.
+"Suppose que quelqu'un le fasse et s'envole par le trou ainsi formé au
 moyen d'un balais, vers les cieux puis vers le large. Faire évader un
-prisonnier d'Azkaban semble alors facile, n'est-ce pas ? »
+prisonnier d'Azkaban semble alors facile, n'est-ce pas ?"
 
-« Mais seigneur… » dit Bella. « Les Aurors - ils ont leur propre balais,
-seigneur, des balais rapides - »
+"Mais seigneur…" dit Bella. "Les Aurors - ils ont leur propre balais,
+seigneur, des balais rapides -"
 
-Harry écouta : les choses étaient telles qu'il les avait imaginées. Le
+Harry écouta : les choses étaient telles qu'il les avait imaginées. Le
 Seigneur des Ténèbres répondit, de nouveau du ton soyeux de
 l'interrogatoire Socratique, et Bellatrix posa une autre question, à
 laquelle Harry ne s'était pas attendu, mais la question que Harry posa
@@ -659,7 +659,7 @@ dire) ne se présenterait jamais plus. Il n'avait pas vu le film mais il
 avait vu une bande-annonce, et pour une raison ou une autre la phrase
 était restée scotchée dans son esprit.
 
-Les petites lettres d'or sur l'appareil Moldu disaient :
+Les petites lettres d'or sur l'appareil Moldu disaient :
 
-*Très bien, bande de nazes primitifs ! Écoutez-moi !*
+*Très bien, bande de nazes primitifs ! Écoutez-moi !*
 
