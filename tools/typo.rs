@@ -248,14 +248,19 @@ fn pass_times(s: &str) -> String {
 }
 
 fn pass_dashes(s: &str) -> String {
-    let re_double_hyphen = Regex::new(r"[ \u{00A0}\u{2009}]+--[ \u{00A0}\u{2009}]+").unwrap();
+    // Treat ASCII space, NBSP (U+00A0), thin space (U+2009) and thin NBSP (U+202F)
+    let sp = r" \u{00A0}\u{2009}\u{202F}";
+    let re_double_hyphen = Regex::new(&format!(r"[{sp}]+--[{sp}]+", sp = sp)).unwrap();
     // Spaced single hyphen not between digits: capture surrounding non-digits
-    let re_spaced_single =
-        Regex::new(r"([^\d])[ \u{00A0}\u{2009}]+-[ \u{00A0}\u{2009}]+([^\d])").unwrap();
-    let re_em_inside = Regex::new(r"[ \u{00A0}\u{2009}]+—[ \u{00A0}\u{2009}]+").unwrap();
-    let re_line_start = Regex::new(r"(?m)^—[ \u{00A0}\u{2009}]*").unwrap();
-    let re_before_em = Regex::new(r"(\S)[ \u{00A0}\u{2009}]*—").unwrap();
-    let re_after_em = Regex::new(r"—[ \u{00A0}\u{2009}]*(\S)").unwrap();
+    let re_spaced_single = Regex::new(&format!(
+        r"([^\d])[{sp}]+-[{sp}]+([^\d])",
+        sp = sp
+    ))
+    .unwrap();
+    let re_em_inside = Regex::new(&format!(r"[{sp}]+—[{sp}]+", sp = sp)).unwrap();
+    let re_line_start = Regex::new(&format!(r"(?m)^—[{sp}]*", sp = sp)).unwrap();
+    let re_before_em = Regex::new(&format!(r"(\S)[{sp}]*—", sp = sp)).unwrap();
+    let re_after_em = Regex::new(&format!(r"—[{sp}]*(\S)", sp = sp)).unwrap();
     let mut out = re_double_hyphen
         .replace_all(s, "\u{202F}—\u{202F}")
         .into_owned();

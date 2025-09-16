@@ -4,6 +4,9 @@
 C'est ce que je dis: rien n’a d'importance...
 :::
 
+—       les sons l’entourant changèrent.
+— les sons l’entourant changèrent.
+
 "C’est pour ça", dit-il avec de grands yeux, "que je ne peux pas.".
 « C’est pour ça », dit-il avec de grands yeux, « que je ne peux pas. ».
 « C’est pour ça, » dit-il avec de grands yeux, « que je ne peux pas. ».
