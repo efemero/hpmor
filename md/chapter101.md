@@ -292,7 +292,7 @@ façon aussi routinière qu'eux, était prestement partie se coucher.
 point de vue, M. le directeur, Poudlard est enfin, enfin normale. C'est
 ce qui devrait se produire quand quatre enfants sont envoyés nuitamment
 dans la Forêt interdite. Il devrait y avoir du tapage, on devrait faire
-venir la police, et les responsables devraient être renvoyés.
+venir la police, et les responsables devraient être renvoyés."
 
 "Argus Rusard a servi cette institution pendant plusieurs décennies."
 
