@@ -3,7 +3,7 @@
 *Certains* enfants auraient attendu d’avoir *terminé* leur premier
 voyage au Chemin de Traverse.
 
-« Sac de l’élément 79″, dit Harry, et il retira sa main vide de la bourse en peau de Moke.
+« Sac de l’élément 79», dit Harry, et il retira sa main vide de la bourse en peau de Moke.
 
 La plupart des enfants auraient au moins attendu d’avoir leur *baguette
 magique*.
