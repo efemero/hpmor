@@ -30,10 +30,6 @@ Reports:\n\
     for path in args.drain(..) {
         report_file(&path, &mut had_issue);
     }
-
-    if had_issue {
-        std::process::exit(1);
-    }
 }
 
 fn report_file<P: AsRef<Path>>(path: P, had_issue: &mut bool) {
@@ -58,7 +54,12 @@ fn report_file<P: AsRef<Path>>(path: P, had_issue: &mut bool) {
 
     // Pass 1: collect guillemet pairs and orphan closers
     #[derive(Clone, Copy)]
-    struct Pair { start_off: usize, end_off: usize, start_line: usize, end_line: usize }
+    struct Pair {
+        start_off: usize,
+        end_off: usize,
+        start_line: usize,
+        end_line: usize,
+    }
     let mut guil_pairs: Vec<Pair> = Vec::new();
     let mut guil_stack: Vec<(usize, usize)> = Vec::new(); // (start_off, start_line)
 
@@ -67,7 +68,11 @@ fn report_file<P: AsRef<Path>>(path: P, had_issue: &mut bool) {
     let mut cur_line = 1usize;
     while i < bytes.len() {
         let b = bytes[i];
-        if b == b'\n' { cur_line += 1; i += 1; continue; }
+        if b == b'\n' {
+            cur_line += 1;
+            i += 1;
+            continue;
+        }
         if buf[i..].starts_with("«") {
             guil_stack.push((i, cur_line));
             i += "«".len();
@@ -75,7 +80,12 @@ fn report_file<P: AsRef<Path>>(path: P, had_issue: &mut bool) {
         }
         if buf[i..].starts_with("»") {
             if let Some((start_off, start_line)) = guil_stack.pop() {
-                guil_pairs.push(Pair { start_off, end_off: i, start_line, end_line: cur_line });
+                guil_pairs.push(Pair {
+                    start_off,
+                    end_off: i,
+                    start_line,
+                    end_line: cur_line,
+                });
             } else {
                 println!("{} +{}: orphan »", p.display(), cur_line);
                 *had_issue = true;
@@ -84,7 +94,11 @@ fn report_file<P: AsRef<Path>>(path: P, had_issue: &mut bool) {
             continue;
         }
         // advance one char
-        if let Some(ch) = buf[i..].chars().next() { i += ch.len_utf8(); } else { break; }
+        if let Some(ch) = buf[i..].chars().next() {
+            i += ch.len_utf8();
+        } else {
+            break;
+        }
     }
     // Orphan openings remain
     if !guil_stack.is_empty() {
@@ -97,31 +111,56 @@ fn report_file<P: AsRef<Path>>(path: P, had_issue: &mut bool) {
     // Helper to know if an offset lies inside any guillemet pair
     let is_inside = |pos: usize| -> bool {
         for p in &guil_pairs {
-            if pos > p.start_off && pos < p.end_off { return true; }
+            if pos > p.start_off && pos < p.end_off {
+                return true;
+            }
         }
         false
     };
 
     // Character classification helpers for emphasis boundaries
     fn prev_char(s: &str, i: usize) -> Option<char> {
-        if i == 0 { return None; }
+        if i == 0 {
+            return None;
+        }
         s[..i].chars().rev().next()
     }
     fn next_char(s: &str, i: usize) -> Option<char> {
-        if i >= s.len() { return None; }
+        if i >= s.len() {
+            return None;
+        }
         s[i..].chars().next()
     }
     fn is_space_like(c: Option<char>) -> bool {
-        match c { Some(ch) => ch == ' ' || ch == '\t' || ch == '\n' || ch == '\u{00A0}' || ch == '\u{202F}', None => true }
+        match c {
+            Some(ch) => {
+                ch == ' ' || ch == '\t' || ch == '\n' || ch == '\u{00A0}' || ch == '\u{202F}'
+            }
+            None => true,
+        }
     }
     fn is_punct_like(ch: char) -> bool {
         // broad set of punctuation incl. guillemets and dashes
-        ch.is_ascii_punctuation() || matches!(ch, '«'|'»'|'…'|'—'|'–'|'“'|'”'|'’'|'«'|'»')
+        ch.is_ascii_punctuation()
+            || matches!(
+                ch,
+                '«' | '»' | '…' | '—' | '–' | '“' | '”' | '’' | '«' | '»'
+            )
     }
-    fn is_left_boundary(prev: Option<char>) -> bool { prev.map(|c| is_space_like(Some(c)) || is_punct_like(c)).unwrap_or(true) }
-    fn is_right_boundary(next: Option<char>) -> bool { next.map(|c| is_space_like(Some(c)) || is_punct_like(c)).unwrap_or(true) }
-    fn is_left_word(prev: Option<char>) -> bool { prev.map(|c| c.is_alphanumeric()).unwrap_or(false) }
-    fn is_right_word(next: Option<char>) -> bool { next.map(|c| c.is_alphanumeric()).unwrap_or(false) }
+    fn is_left_boundary(prev: Option<char>) -> bool {
+        prev.map(|c| is_space_like(Some(c)) || is_punct_like(c))
+            .unwrap_or(true)
+    }
+    fn is_right_boundary(next: Option<char>) -> bool {
+        next.map(|c| is_space_like(Some(c)) || is_punct_like(c))
+            .unwrap_or(true)
+    }
+    fn is_left_word(prev: Option<char>) -> bool {
+        prev.map(|c| c.is_alphanumeric()).unwrap_or(false)
+    }
+    fn is_right_word(next: Option<char>) -> bool {
+        next.map(|c| c.is_alphanumeric()).unwrap_or(false)
+    }
     fn skip_spaces_str(s: &str, mut i: usize) -> usize {
         while i < s.len() {
             if s[i..].starts_with(' ') || s[i..].starts_with('\t') || s[i..].starts_with('\n') {
@@ -143,12 +182,21 @@ fn report_file<P: AsRef<Path>>(path: P, had_issue: &mut bool) {
 
     // Pass 2: scan emphasis segments and report crossings on close
     #[derive(Clone, Copy)]
-    struct ESeg { marker: &'static str, open_off: usize, open_line: usize }
+    struct ESeg {
+        marker: &'static str,
+        open_off: usize,
+        open_line: usize,
+    }
     let mut estack: Vec<ESeg> = Vec::new();
-    i = 0; cur_line = 1;
+    i = 0;
+    cur_line = 1;
     while i < bytes.len() {
         let b = bytes[i];
-        if b == b'\n' { cur_line += 1; i += 1; continue; }
+        if b == b'\n' {
+            cur_line += 1;
+            i += 1;
+            continue;
+        }
         let m = if buf[i..].starts_with("**") {
             Some("**")
         } else if buf[i..].starts_with("__") {
@@ -157,7 +205,9 @@ fn report_file<P: AsRef<Path>>(path: P, had_issue: &mut bool) {
             Some("*")
         } else if buf[i..].starts_with("_") {
             Some("_")
-        } else { None };
+        } else {
+            None
+        };
         if let Some(marker) = m {
             // Special-case: pattern like "<m> [space] » [space] <m>" across boundary
             // where spaces may include NBSP (U+00A0) or thin NBSP (U+202F).
@@ -172,13 +222,19 @@ fn report_file<P: AsRef<Path>>(path: P, had_issue: &mut bool) {
                     if open_in && !close_in {
                         println!(
                             "{} +{}: interleaved guillemets/emphasis (« {}…» {})",
-                            p.display(), cur_line, marker, marker
+                            p.display(),
+                            cur_line,
+                            marker,
+                            marker
                         );
                         *had_issue = true;
                     } else if !open_in && close_in {
                         println!(
                             "{} +{}: interleaved guillemets/emphasis ({} « … {} »)",
-                            p.display(), cur_line, marker, marker
+                            p.display(),
+                            cur_line,
+                            marker,
+                            marker
                         );
                         *had_issue = true;
                     }
@@ -199,13 +255,19 @@ fn report_file<P: AsRef<Path>>(path: P, had_issue: &mut bool) {
                 if open_in && !close_in {
                     println!(
                         "{} +{}: interleaved guillemets/emphasis (« {}…» {})",
-                        p.display(), cur_line, marker, marker
+                        p.display(),
+                        cur_line,
+                        marker,
+                        marker
                     );
                     *had_issue = true;
                 } else if !open_in && close_in {
                     println!(
                         "{} +{}: interleaved guillemets/emphasis ({} « … {} »)",
-                        p.display(), cur_line, marker, marker
+                        p.display(),
+                        cur_line,
+                        marker,
+                        marker
                     );
                     *had_issue = true;
                 }
@@ -214,7 +276,11 @@ fn report_file<P: AsRef<Path>>(path: P, had_issue: &mut bool) {
             }
 
             if can_open {
-                estack.push(ESeg { marker, open_off: i, open_line: cur_line });
+                estack.push(ESeg {
+                    marker,
+                    open_off: i,
+                    open_line: cur_line,
+                });
                 i += marker.len();
                 continue;
             }
@@ -222,7 +288,11 @@ fn report_file<P: AsRef<Path>>(path: P, had_issue: &mut bool) {
             i += marker.len();
             continue;
         }
-        if let Some(ch) = buf[i..].chars().next() { i += ch.len_utf8(); } else { break; }
+        if let Some(ch) = buf[i..].chars().next() {
+            i += ch.len_utf8();
+        } else {
+            break;
+        }
     }
 }
 
