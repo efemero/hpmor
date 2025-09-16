@@ -2,3 +2,5 @@ target
 *.html
 src/md
 test.*
+tools/restart.md
+

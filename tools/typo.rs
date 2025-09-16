@@ -21,7 +21,7 @@ use std::path::PathBuf;
 #[derive(Parser, Debug)]
 #[command(name = "typo", about = "French typography normalizer", version)]
 struct Cli {
-    /// Apply all transformations (order: spaces, ellipses, apostrophes, dashes, quotes, times, words, cleanup)
+    /// Apply all transformations (order: spaces, ellipses, dashes, quotes, apostrophes, times, words, cleanup)
     #[arg(short = 'a', long = "all")]
     all: bool,
 
@@ -91,6 +91,7 @@ fn main() -> Result<()> {
         }
     }
 
+    let multi = files.len() > 1;
     for path in files {
         let orig =
             fs::read_to_string(&path).with_context(|| format!("Cannot read {}", path.display()))?;
@@ -102,14 +103,14 @@ fn main() -> Result<()> {
         if run.ellipses {
             s = pass_ellipses(&s);
         }
-        if run.apostrophes {
-            s = pass_apostrophes(&s);
-        }
         if run.dashes {
             s = pass_dashes(&s);
         }
         if run.quotes {
             s = pass_quotes(&s);
+        }
+        if run.apostrophes {
+            s = pass_apostrophes(&s);
         }
         if run.times {
             s = pass_times(&s);
@@ -121,13 +122,16 @@ fn main() -> Result<()> {
             s = pass_cleanup(&s);
         }
 
-        if s != orig {
-            if cli.write {
+        if cli.write {
+            if s != orig {
                 fs::write(&path, s).with_context(|| format!("Cannot write {}", path.display()))?;
-                println!("UPDATED: {}", path.display());
-            } else {
-                println!("CHANGED: {}", path.display());
+                eprintln!("UPDATED: {}", path.display());
             }
+        } else {
+            if multi {
+                println!("===== {} =====", path.display());
+            }
+            print!("{}", s);
         }
     }
 
@@ -191,7 +195,9 @@ fn collect_files(inputs: &[String]) -> Result<Vec<PathBuf>> {
 // Pass implementations
 
 fn pass_apostrophes(s: &str) -> String {
-    s.replace('\'', "’")
+    // Replace only real apostrophes between letters; avoid touching standalone quotes
+    let re_between = Regex::new(r"(\p{L})'(\p{L})").unwrap();
+    re_between.replace_all(s, "$1’$2").into_owned()
 }
 
 fn pass_ellipses(s: &str) -> String {
@@ -202,8 +208,9 @@ fn pass_ellipses(s: &str) -> String {
 }
 
 fn pass_spaces_punct(s: &str) -> String {
-    let re_sc = Regex::new(r"(\S)\s*([;!?])").unwrap();
-    let re_colon = Regex::new(r"([^:\s])\s*:").unwrap();
+    // Avoid crossing newlines when inserting thin spaces
+    let re_sc = Regex::new(r"(\S)[^\S\r\n]*([;!?])").unwrap();
+    let re_colon = Regex::new(r"([^:\s])[^\S\r\n]*:").unwrap();
     let re_time_revert = Regex::new(r"(\d)\u{202F}:(\d)").unwrap();
     let re_url_scheme_slash = Regex::new(r"\u{202F}://").unwrap();
     let re_url_scheme_named = Regex::new(r"\b(mailto|ftp|file|news|irc|data)\u{202F}:").unwrap();
@@ -266,13 +273,39 @@ fn pass_dashes(s: &str) -> String {
 
 fn pass_quotes(s: &str) -> String {
     let mut out = convert_straight_quotes_to_french(s);
-    // Curly English to French
-    out = out.replace('\u{201C}', "«");
-    out = out.replace('\u{201D}', "»");
+    // Curly English to French, but only at top-level (not inside existing « … »)
+    out = convert_curly_to_french_top_level(&out);
     // Nested French inner pairs to English curly, iteratively
     let nested = Regex::new("«([^«»]*?)«([^«»]+?)»([^«»]*?)»").unwrap();
     loop {
         let new = nested.replace_all(&out, "«$1“$2”$3»").into_owned();
+        if new == out {
+            break;
+        }
+        out = new;
+    }
+    // Inside « … », convert ' … ' (with surrounding spaces) to “ … ”
+    let ws = "[\\s\\u{00A0}\\u{202F}]"; // space, NBSP, thin NBSP
+    let inner_ascii = Regex::new(&format!(
+        "«([^«»]*?)({ws})'([^'»]+)'({ws}[^«»]*?)»",
+        ws = ws
+    ))
+    .unwrap();
+    loop {
+        let new = inner_ascii.replace_all(&out, "«$1$2“$3”$4»").into_owned();
+        if new == out {
+            break;
+        }
+        out = new;
+    }
+    // Also handle ’ … ’ with surrounding spaces
+    let inner_curly = Regex::new(&format!(
+        "«([^«»]*?)({ws})’([^’»]+)’({ws}[^«»]*?)»",
+        ws = ws
+    ))
+    .unwrap();
+    loop {
+        let new = inner_curly.replace_all(&out, "«$1$2“$3”$4»").into_owned();
         if new == out {
             break;
         }
@@ -283,6 +316,15 @@ fn pass_quotes(s: &str) -> String {
     let re_close = Regex::new("\\s*»").unwrap();
     out = re_open.replace_all(&out, "«\u{202F}").into_owned();
     out = re_close.replace_all(&out, "\u{202F}»").into_owned();
+    // Move a comma outside after » to inside before »:  … », → …, »
+    let re_comma_tight = Regex::new(r"\u{202F}»,").unwrap();
+    out = re_comma_tight
+        .replace_all(&out, ",\u{202F}»")
+        .into_owned();
+    let re_comma_outside = Regex::new(r"»[^\S\r\n]*,").unwrap();
+    out = re_comma_outside
+        .replace_all(&out, ",\u{202F}»")
+        .into_owned();
     // collapse duplicates before »
     let re_dup = Regex::new("\u{202F}+»").unwrap();
     out = re_dup.replace_all(&out, "\u{202F}»").into_owned();
@@ -296,18 +338,101 @@ fn pass_quotes(s: &str) -> String {
 }
 
 fn convert_straight_quotes_to_french(text: &str) -> String {
+    let chars: Vec<char> = text.chars().collect();
     let mut out = String::with_capacity(text.len());
-    let mut open = false;
-    for ch in text.chars() {
-        if ch == '"' {
-            if !open {
+    let mut french_level = 0i32; // depth of « »
+    let mut open_top_dq = false; // top-level " … " → « … »
+    let mut open_inner_dq = false; // inner " … " → “ … ”
+    let mut open_top_sq = false; // top-level ' … ' → « … »
+    let mut open_inner_sq = false; // inner ' … ' → “ … ”
+    let len = chars.len();
+    for i in 0..len {
+        let ch = chars[i];
+        match ch {
+            '«' => {
+                french_level += 1;
                 out.push('«');
-            } else {
+            }
+            '»' => {
+                french_level = (french_level - 1).max(0);
                 out.push('»');
             }
-            open = !open;
-        } else {
-            out.push(ch);
+            '"' => {
+                if french_level == 0 {
+                    if !open_top_dq {
+                        out.push('«');
+                    } else {
+                        out.push('»');
+                    }
+                    open_top_dq = !open_top_dq;
+                } else {
+                    if !open_inner_dq {
+                        out.push('\u{201C}'); // “
+                    } else {
+                        out.push('\u{201D}'); // ”
+                    }
+                    open_inner_dq = !open_inner_dq;
+                }
+            }
+            '\'' => {
+                // Apostrophe between letters stays an apostrophe; otherwise treat as a quote delimiter
+                let prev = if i > 0 { chars[i - 1] } else { '\0' };
+                let next = if i + 1 < len { chars[i + 1] } else { '\0' };
+                if prev.is_alphabetic() && next.is_alphabetic() {
+                    out.push('’');
+                } else {
+                    if french_level == 0 {
+                        if !open_top_sq {
+                            out.push('«');
+                        } else {
+                            out.push('»');
+                        }
+                        open_top_sq = !open_top_sq;
+                    } else {
+                        if !open_inner_sq {
+                            out.push('\u{201C}'); // “
+                        } else {
+                            out.push('\u{201D}'); // ”
+                        }
+                        open_inner_sq = !open_inner_sq;
+                    }
+                }
+            }
+            _ => out.push(ch),
+        }
+    }
+    out
+}
+
+fn convert_curly_to_french_top_level(text: &str) -> String {
+    // Only convert “ ” to « » when not already inside « … »
+    let mut out = String::with_capacity(text.len());
+    let mut level = 0i32; // nesting level of French guillemets
+    for ch in text.chars() {
+        match ch {
+            '«' => {
+                level += 1;
+                out.push('«');
+            }
+            '»' => {
+                level = (level - 1).max(0);
+                out.push('»');
+            }
+            '\u{201C}' => {
+                if level == 0 {
+                    out.push('«');
+                } else {
+                    out.push('\u{201C}');
+                }
+            }
+            '\u{201D}' => {
+                if level == 0 {
+                    out.push('»');
+                } else {
+                    out.push('\u{201D}');
+                }
+            }
+            _ => out.push(ch),
         }
     }
     out
@@ -323,26 +448,42 @@ fn pass_words(s: &str) -> String {
 fn pass_cleanup(s: &str) -> String {
     let mut out = String::with_capacity(s.len());
     for line in s.lines() {
-        let t = rtrim_nbsp(line);
-        if t.chars().all(|c| c == ' ' || c == '\t' || c == '\u{00A0}') {
+        // Remove trailing tabs and NBSPs, but preserve a Markdown hard break (two spaces)
+        let mut trimmed = line;
+        // First, drop any trailing NBSP or tabs
+        while let Some(ch) = trimmed.chars().rev().next() {
+            if ch == '\u{00A0}' || ch == '\t' {
+                trimmed = &trimmed[..trimmed.len() - ch.len_utf8()];
+            } else {
+                break;
+            }
+        }
+        // Count trailing ASCII spaces
+        let mut cnt = 0usize;
+        for ch in trimmed.chars().rev() {
+            if ch == ' ' {
+                cnt += 1;
+            } else {
+                break;
+            }
+        }
+        // Remove all trailing spaces, then re-add exactly two if there were two or more
+        let prefix = &trimmed[..trimmed.len().saturating_sub(cnt)];
+        let mut rebuilt = String::from(prefix);
+        if cnt >= 2 {
+            rebuilt.push_str("  ");
+        }
+
+        // If the line content is only whitespace after cleanup, keep as blank line
+        if rebuilt
+            .chars()
+            .all(|c| c == ' ' || c == '\t' || c == '\u{00A0}')
+        {
             out.push('\n');
         } else {
-            out.push_str(t);
+            out.push_str(&rebuilt);
             out.push('\n');
         }
     }
     out
-}
-
-fn rtrim_nbsp(s: &str) -> &str {
-    let mut end = s.len();
-    while end > 0 {
-        let ch = s[..end].chars().rev().next().unwrap();
-        if ch == ' ' || ch == '\t' || ch == '\u{00A0}' {
-            end -= ch.len_utf8();
-        } else {
-            break;
-        }
-    }
-    &s[..end]
 }
