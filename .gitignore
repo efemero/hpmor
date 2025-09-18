@@ -3,4 +3,5 @@ target
 src/md
 test.*
 tools/restart.md
+/.direnv
 

@@ -963,9 +963,11 @@ Harry regarda sans rien y comprendre.
 
 *Je vois le Seigneur des Ténèbres faire tout ce qu’il peut pour
 ressusciter Hermione et la garder en vie. On dirait qu’il croit que sa
-vie dépend de celle de Hermione Granger.*« Les parties perplexes de Harry cherchèrent une procédure à suivre. Sa
-première pensée fut : “Fais une prédiction à partir de ta meilleure
-hypothèse”, mais cela ne le mena nulle part. Le méchant avait gagné,
+vie dépend de celle de Hermione Granger.*
+
+Les parties perplexes de Harry cherchèrent une procédure à suivre. Sa
+première pensée fut : « Fais une prédiction à partir de ta meilleure
+hypothèse, » mais cela ne le mena nulle part. Le méchant avait gagné,
 mais le fil narratif ne continuait pas comme il aurait dû.
 
 Une nouvelle poussée de douleur dans sa cicatrice, comme un coup sur le
@@ -975,19 +977,26 @@ Le Seigneur des Ténèbres posa une fois de plus la Pierre sur Hermione et
 l’entoura de ses mains.
 
 Il observa l’invisible processus un moment, puis se retourna, laissant
-la Pierre sur elle, et émit un fredonnement aigu. »Ah oui,« siffla-t-il. »Ce serait parfaitement adapté. As-tu toujours le journal que je t’ai
-donné, petit ? Celui du célèbre scientifique ?« Le cerveau de Harry ne comprit pas tout de suite de quoi Voldemort
+la Pierre sur elle, et émit un fredonnement aigu. « Ah oui, » siffla-t-il.
+« Ce serait parfaitement adapté. As-tu toujours le journal que je t’ai
+donné, petit ? Celui du célèbre scientifique ? »
+
+Le cerveau de Harry ne comprit pas tout de suite de quoi Voldemort
 parlait. Dans la chambre de Marie, chez Marie, en octobre, ce précieux
 cadeau venu d’un ami. L’idée aurait dû faire monter une vague de chagrin
 terrible pour ce professeur Quirrell perdu ou factice, mais cette
 émotion avait été trop présente et son cerveau l’avait temporairement
-mise de côté. »Oui,« dit Harry. »Je crois que c’est dans ma bourse, je peux aller
-voir ?« Il *savait* que c’était dans sa bourse. Il l’avait remplie de
+mise de côté.
+
+« Oui, » dit Harry. « Je crois que c’est dans ma bourse, je peux aller
+voir ? » Il *savait* que c’était dans sa bourse. Il l’avait remplie de
 tout ce dont il pourrait jamais avoir besoin, ses possessions et
 d’autres achats ; et de tout ce qui aurait pu être un objet de quête.
 
 La bourse en peau de Moke de Harry fut extraite du tas d’objets près de
-l’autel et jetée aux pieds de Harry. »Le journal de Roger Bacon,« dit Harry en y plongeant la main, et le
+l’autel et jetée aux pieds de Harry.
+
+« Le journal de Roger Bacon, » dit Harry en y plongeant la main, et le
 journal apparut. Le professeur Quirrell avait dit que le journal
 ressortirait intact d’un incendie, alors il le jeta vers l’autel de
 Voldemort ; il y avait plus important à penser que le traitement correct
@@ -999,23 +1008,32 @@ Harry, aussi doucement et discrètement que possible, attacha la bourse à
 l’arrière de sa ceinture, là où on ne la verrait pas, là où Harry avait
 mis sa baguette.
 
-*Troisième étape, la bourse.* »Oui,« siffla Voldemort en feuilletant le journal, »cela conviendra très
-bien.« La Pierre se déplaça légèrement et l’autre main du Seigneur des
-Ténèbres rangea la Pierre dans ses robes. »Quel était le but caché derrière ce journal ?« dit Harry après avoir
+*Troisième étape, la bourse.*
+
+« Oui, » siffla Voldemort en feuilletant le journal, « cela conviendra très
+bien. » La Pierre se déplaça légèrement et l’autre main du Seigneur des
+Ténèbres rangea la Pierre dans ses robes.
+
+« Quel était le but caché derrière ce journal ? » dit Harry après avoir
 attaché la bourse à sa ceinture et placé ses mains vides là où Voldemort
-pouvait les voir. »J’ai commencé par essayer de le traduire, mais ça
-n’allait pas très vite…« Le travail avait en fait été épouvantablement
-lent et Harry avait trouvé des choses plus importantes à faire. »*Le journal était exactement çce qu’il avait l’air d’être : un cadeau
-pour te sséduire, t’amener de mon côté.*« Voldemort fit des gestes
+pouvait les voir. « J’ai commencé par essayer de le traduire, mais ça
+n’allait pas très vite… » Le travail avait en fait été épouvantablement
+lent et Harry avait trouvé des choses plus importantes à faire.
+
+« *Le journal était exactement çce qu’il avait l’air d’être : un cadeau
+pour te sséduire, t’amener de mon côté.* » Voldemort fit des gestes
 complexes sans jamais regarder sa main, tout en tenant le journal de
 l’autre. L’espace d’un instant, Harry cru voir une traînée de ténèbres
 flotter en l’air, mais la lune était trop peu lumineuse pour qu’il
-puisse en être certain. »Et maintenant, mon cher petit,« dit la voix
+puisse en être certain. « Et maintenant, mon cher petit, » dit la voix
 aiguë de Voldemort, teintée d’une joie sinistre, au moment où il
-touchait brièvement le front de Hermione Granger d’un geste nonchalant, »je fais de ce journal un cadeau bien plus précieux, un témoin de la
+touchait brièvement le front de Hermione Granger d’un geste nonchalant,
+« je fais de ce journal un cadeau bien plus précieux, un témoin de la
 sagesse que tu m’as transmise. Car je ne voudrais jamais te voir privé
 des conseils et de la prudence de Hermione Granger, pas tant que les
-étoiles demeurent. *Avadakedavra.*« Le rayon vert du sortilège de la Mort atteint sa cible avant que Harry
+étoiles demeurent. *Avadakedavra.* »
+
+Le rayon vert du sortilège de la Mort atteint sa cible avant que Harry
 ne puisse lancer le Patronus, avant qu’il ait la moindre chance de
 bouger. Quand il cria et tendit la main vers sa baguette, c’était déjà
 fini.
@@ -1039,7 +1057,7 @@ il se tenait la tête, il hurlait.
 
 La dernière voix d’espoir dit cela, et Harry tenta désespérément de
 réfléchir, de comprendre. Tuer Voldemort n’avait pas de *sens*, ça
-n’aurait fait que l« *agacer*, les armes ne pouvait rien contre lui tant
+n’aurait fait que *l’agacer*, les armes ne pouvait rien contre lui tant
 que ses centaines de Horcruxes existaient encore…
 
 Mais il semblait toujours utile de lui enlever son corps,
@@ -1047,13 +1065,19 @@ temporairement, de prendre la Pierre et Hermione et de fuir.
 
 La main droite de Harry avait déjà saisi sa baguette. Sa main gauche
 passa dans son dos, atteint difficilement sa bourse et traça
-silencieusement un symbole, celui d’un mot de huit lettres. »Non !« s’écria Voldemort. Il laissa tomber sa baguette, regarda le
-corps de Hermione, comme ahuri. »Non, non !« L’objet passa de la bourse à la main de Harry et il commença à s’avancer
+silencieusement un symbole, celui d’un mot de huit lettres.
+
+« Non ! » s’écria Voldemort. Il laissa tomber sa baguette, regarda le
+corps de Hermione, comme ahuri. « Non, non ! »
+
+L’objet passa de la bourse à la main de Harry et il commença à s’avancer
 aussi doucement de possible, cherchant à se rapprocher de Voldemort, à
-atteindre la distance viable indiquée par ses brèves expériences. »Ma grande création,« haleta Voldemort. Sa voix était flutée, comme
-paniquée. »Deux esprits différents ne peuvent exister dans le même
+atteindre la distance viable indiquée par ses brèves expériences.
+
+« Ma grande création, » haleta Voldemort. Sa voix était flutée, comme
+paniquée. « Deux esprits différents ne peuvent exister dans le même
 monde — il est parti, il est rompu ! Un Horcruxe, je dois faire un
-Horcruxe immédiatement…« son regard tomba sur le corps endormi de
+Horcruxe immédiatement… » son regard tomba sur le corps endormi de
 Hermione Granger et il commença à lever sa baguette, à reproduire ses
 gestes précédents.
 

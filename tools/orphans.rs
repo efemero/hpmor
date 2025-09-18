@@ -108,14 +108,14 @@ fn report_file<P: AsRef<Path>>(path: P, had_issue: &mut bool) {
         }
     }
 
-    // Helper to know if an offset lies inside any guillemet pair
-    let is_inside = |pos: usize| -> bool {
-        for p in &guil_pairs {
+    // Helper: index of the guillemet pair containing a position (exclusive of the quotes)
+    let pair_index = |pos: usize| -> Option<usize> {
+        for (idx, p) in guil_pairs.iter().enumerate() {
             if pos > p.start_off && pos < p.end_off {
-                return true;
+                return Some(idx);
             }
         }
-        false
+        None
     };
 
     // Character classification helpers for emphasis boundaries
@@ -179,6 +179,24 @@ fn report_file<P: AsRef<Path>>(path: P, had_issue: &mut bool) {
         }
         i
     }
+    fn skip_inline_spaces_str(s: &str, mut i: usize) -> usize {
+        while i < s.len() {
+            if s[i..].starts_with(' ') || s[i..].starts_with('\t') {
+                i += 1;
+                continue;
+            }
+            if s[i..].starts_with('\u{00A0}') {
+                i += '\u{00A0}'.len_utf8();
+                continue;
+            }
+            if s[i..].starts_with('\u{202F}') {
+                i += '\u{202F}'.len_utf8();
+                continue;
+            }
+            break;
+        }
+        i
+    }
 
     // Pass 2: scan emphasis segments and report crossings on close
     #[derive(Clone, Copy)]
@@ -212,14 +230,14 @@ fn report_file<P: AsRef<Path>>(path: P, had_issue: &mut bool) {
             // Special-case: pattern like "<m> [space] » [space] <m>" across boundary
             // where spaces may include NBSP (U+00A0) or thin NBSP (U+202F).
             let mut j = i + marker.len();
-            j = skip_spaces_str(&buf, j);
+            j = skip_inline_spaces_str(&buf, j);
             if buf[j..].starts_with("»") {
                 let mut k = j + "»".len();
-                k = skip_spaces_str(&buf, k);
+                k = skip_inline_spaces_str(&buf, k);
                 if buf[k..].starts_with(marker) {
-                    let open_in = is_inside(i);
-                    let close_in = is_inside(k);
-                    if open_in && !close_in {
+                    let open_pair = pair_index(i);
+                    let close_pair = pair_index(k);
+                    if open_pair.is_some() && close_pair.is_none() {
                         println!(
                             "{} +{}: interleaved guillemets/emphasis (« {}…» {})",
                             p.display(),
@@ -228,7 +246,7 @@ fn report_file<P: AsRef<Path>>(path: P, had_issue: &mut bool) {
                             marker
                         );
                         *had_issue = true;
-                    } else if !open_in && close_in {
+                    } else if open_pair.is_none() && close_pair.is_some() {
                         println!(
                             "{} +{}: interleaved guillemets/emphasis ({} « … {} »)",
                             p.display(),
@@ -237,6 +255,17 @@ fn report_file<P: AsRef<Path>>(path: P, had_issue: &mut bool) {
                             marker
                         );
                         *had_issue = true;
+                    } else if let (Some(a), Some(b)) = (open_pair, close_pair) {
+                        if a != b {
+                            println!(
+                                "{} +{}: interleaved guillemets/emphasis (cross-pair {} … {})",
+                                p.display(),
+                                cur_line,
+                                marker,
+                                marker
+                            );
+                            *had_issue = true;
+                        }
                     }
                 }
             }
@@ -250,9 +279,9 @@ fn report_file<P: AsRef<Path>>(path: P, had_issue: &mut bool) {
             // (a) boundary says we can close, or (b) boundary says we cannot open.
             if has_open_same && (can_close || !can_open) {
                 let opened = estack.pop().unwrap();
-                let open_in = is_inside(opened.open_off);
-                let close_in = is_inside(i);
-                if open_in && !close_in {
+                let open_pair = pair_index(opened.open_off);
+                let close_pair = pair_index(i);
+                if open_pair.is_some() && close_pair.is_none() {
                     println!(
                         "{} +{}: interleaved guillemets/emphasis (« {}…» {})",
                         p.display(),
@@ -261,7 +290,7 @@ fn report_file<P: AsRef<Path>>(path: P, had_issue: &mut bool) {
                         marker
                     );
                     *had_issue = true;
-                } else if !open_in && close_in {
+                } else if open_pair.is_none() && close_pair.is_some() {
                     println!(
                         "{} +{}: interleaved guillemets/emphasis ({} « … {} »)",
                         p.display(),
@@ -270,6 +299,17 @@ fn report_file<P: AsRef<Path>>(path: P, had_issue: &mut bool) {
                         marker
                     );
                     *had_issue = true;
+                } else if let (Some(a), Some(b)) = (open_pair, close_pair) {
+                    if a != b {
+                        println!(
+                            "{} +{}: interleaved guillemets/emphasis (cross-pair {} … {})",
+                            p.display(),
+                            cur_line,
+                            marker,
+                            marker
+                        );
+                        *had_issue = true;
+                    }
                 }
                 i += marker.len();
                 continue;
