@@ -362,7 +362,7 @@ et lu un certain nombre d’articles du Chicaneur.
 Il avait néanmoins du mal à l’accepter.
 
 *C’est ridicule* dit une partie de Harry qui venait de se surnommer le
-Vérificateur de Cohérence Interne*. Nos actes sont complètement
+Vérificateur de Cohérence Interne. *Nos actes sont complètement
 incohérents. D’abord tu ressens moins de réticence émotionnelle à
 risquer ta VIE et à probablement MOURIR pour Hermione que de te séparer
 d’un tas d’or stupide. Et maintenant tu rechignes juste à te marier ?*
