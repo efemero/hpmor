@@ -718,7 +718,7 @@ n’arrives dans cette école, pas pendant les décennies que j’ai passé à
 Poudlard ; ni quand j’étais un élève ni quand j’étais un professeur.« »Merci beaucoup,« dit Harry d’une voix neutre. »Même si je pense que le
 professeur Quirrell a plus de mérite que moi.« Les yeux bleus s’écarquillèrent. »Harry…« »Ces brutes attaquent leurs victimes depuis bien avant le début de
 l’année,« dit Harry. Malgré ses efforts, sa voix commençait à s’élever. »Mais personne n’a semblé apprendre aux élèves qu’ils avaient le droit
-de se *défendre*. Je sais qu’il est beaucoup plus simple d« *ignorer* un
+de se *défendre*. Je sais qu’il est beaucoup plus simple d’*ignorer* un
 combat à armes égales qu’une victime impuissante qui se prend des
 maléfices et se fait presque jeter d’une fenêtre, mais peut-on dire que
 c’est *pire* ? J’aimerais avoir lu plus d’écrits de Godric Gryffondor
@@ -781,7 +781,7 @@ d’intelligence.
 
 C’était là quelque chose que Harry ne pouvait pas dire. Il avait
 remarqué la corrélation entre les efforts déployés par Quirrell et la
-durée pendant laquelle il devait se »reposer« . Mais Harry avait conclu
+durée pendant laquelle il devait se “reposer”. Mais Harry avait conclu
 que si l’effort avait été trop douloureux ou préjudiciable, le
 professeur aurait certainement refusé. À présent, Harry se demandait si
 ce raisonnement avait vraiment été correct, et si non, comment il

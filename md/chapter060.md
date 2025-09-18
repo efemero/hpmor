@@ -111,7 +111,7 @@ démontrer sa force et sa cruauté en demandant des peines plus longues ;
 après tout, démontrer sa force requiert une victime à écraser. Et la
 populace applaudit car il est dans ses instincts de soutenir le
 vainqueur. » Un rire froidement amusé. « Vous voyez M. Potter, personne ne
-croit tout à fait qu« *il* ira à Azkaban, et les gens n’y voient donc
+croit tout à fait qu’*il* ira à Azkaban, et les gens n’y voient donc
 aucune conséquence néfaste pour eux. Quant à ce qu’ils infligent aux
 autres… j’imagine que l’on vous a un jour dit qu’ils se préoccupent de
 ce genre de choses ? C’est un mensonge, M. Potter, la plupart des gens
@@ -404,7 +404,7 @@ peu. »
 Un silence répondit à cela. Puis le garçon dit : « Professeur, je dois
 vous poser une question : quand vous voyez quelque chose qui est sombre
 et lugubre, cela ne vous vient-il jamais à l’esprit d’essayer de
-l »*améliorer* d’une façon ou d’une autre ? Par exemple : oui, quelque
+l’*améliorer* d’une façon ou d’une autre ? Par exemple : oui, quelque
 chose tourne horriblement mal dans l’esprit des gens et les voilà qui
 pensent que c’est génial de torturer des criminels, mais cela ne veut
 pas dire qu’au fond ils sont réellement maléfiques ; et peut-être qu’en

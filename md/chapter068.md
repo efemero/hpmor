@@ -220,7 +220,7 @@ invincible mais j’essayais juste de t’effrayer, je pensais vraiment
 qu’on vous ralentirait juste pendant un moment — »
 
 Elle recommença à marcher, le dépassa, et alors le visage de Harry se
-contrit comme s« *il* était sur le point de pleurer.
+contrit comme s’*il* était sur le point de pleurer.
 
 « Le professeur Quirrell a-t-il raison ? » dit un chuchotement aigu et
 désespéré venu de derrière elle. « Si tu es mon amie, est-ce que j’aurais
@@ -319,7 +319,7 @@ depuis le jour où le phénix s’était posé sur son épaule, comment les
 gens semblaient de plus en plus la voir comme une créature de Harry,
 comment Harry semblait s’éloigner de plus en plus des autres élèves de
 leur année, se promenait parfois avec un air triste, comme s’il était en
-train de perdre quelque chose, et qu »*elle ne savait plus quoi faire.*
+train de perdre quelque chose, et qu’*elle ne savait plus quoi faire.*
 
 Et le professeur McGonagall avait dit qu’elles devaient en parler au
 directeur.

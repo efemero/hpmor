@@ -733,7 +733,7 @@ que vous n’êtes pas, pour l’instant, prêt à entendre. »
 Le garçon fixa Dumbledore. Puis il se tourna pour regarder Severus. Puis
 à nouveau Dumbledore.
 
-« C« *est* de la folie, » dit lentement le garçon. « Vous ne lui avez pas
+« C’*est* de la folie, » dit lentement le garçon. « Vous ne lui avez pas
 serré la bride parce que vous pensez qu’il fait *partie du motif*. Que
 Poudlard a besoin d’un professeur de Potions maléfique pour être une
 vraie école de magie, tout comme elle a besoin d’un fantôme pour
@@ -1095,7 +1095,7 @@ C’était tendre et doux, le son qu’aurait fait un feu de cheminée s’il
 avait eu une mélodie, et il se déversa dans l’esprit de Minerva,
 apaisant, rassurant, relaxant ce qu’il touchait…
 
-« *Qu »*est-ce que c’est que *ça* ? » murmura Harry à côté d’elle. Sa voix
+« *Qu’*est-ce que c’est que *ça* ? » murmura Harry à côté d’elle. Sa voix
 était instable, vacillante, aux tons changeants.
 
 « La chanson du phénix, » dit Minerva, pas tout à fait consciente de ce
@@ -1220,7 +1220,7 @@ Vu la tête de Harry, il n’avait pas pensé à ça.
 cours du professeur Rogue. Et regarder. Et partir à la fin du cours.
 Comme vous l’auriez fait si vous n’aviez pas possédé un Retourneur de
 Temps. Il existe certains élèves à qui on ne peut confier un Retourneur
-de Temps. Vous êtes l’un d’eux. J« en suis navrée. »
+de Temps. Vous êtes l’un d’eux. J’ en suis navrée. »
 
 « Mais j’en ai *besoin* ! » lâcha Harry. « Et si des Serpentard me menacent
 et que je dois m’échapper ? Il me garde en *sécurité* — »
@@ -1336,7 +1336,7 @@ appris par cœur.
 
 « La vérité est sacrée, » dit Harry d’une voix sans timbre. « Une de mes
 possessions que je chéris le plus est un bouton sur lequel il est
-écrit : »Dis la vérité, même si ta voix tremble.« Voici donc la vérité.
+écrit : “Dis la vérité, même si ta voix tremble.” Voici donc la vérité.
 Souvenez-vous en. Je ne le dis pas parce qu’on m’y oblige, mais parce
 que c’est vrai. Ce que j’ai fait durant le cours du professeur Rogue
 était sot, stupide, puéril, et une enfreinte inexcusable aux règles de

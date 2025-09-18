@@ -443,7 +443,7 @@ Blaise se redressa, se sentant un peu insulté, et opina en direction de
 M. Chapeau et Cape, puis il se tourna d’un mouvement volontaire et
 partit à grand pas vers son rendez-vous avec le directeur.
 
-Il avait espéré jusqu’au bout que quelqu’un d« *autre* surgisse et lui
+Il avait espéré jusqu’au bout que quelqu’un d’*autre* surgisse et lui
 donne une opportunité de vendre M. Chapeau et Cape.
 
 Mais après tout, maman n’avait pas trahi sept maris différents *en même
@@ -529,7 +529,7 @@ Cela fit *vraiment* mal.
 « Très bien, » dit Hermione d’un ton quelque peu acerbe, « j’irai demander
 des leçons de Serpentard à Harry Potter, alors. »
 
-« Ce n »*est pas* ce que je voulais… » dit le professeur McGonagall, et
+« Ce n’*est pas* ce que je voulais… » dit le professeur McGonagall, et
 elle laissa sa voix en suspens. « Mlle Granger, cela m’inquiète *parce
 que* les jeunes filles Serdaigle ne devraient pas avoir à être
 Serpentard ! Si le directeur vous demande de vous impliquer dans quelque

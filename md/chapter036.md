@@ -162,7 +162,7 @@ non ? »
 
 « *Tu* peux dormir dans ma malle, » dit Harry.
 
-« Ce qui me rappelle, » dit son père. « Qu« *est*-ce qu’ils ont fini par
+« Ce qui me rappelle, » dit son père. « Qu’*est*-ce qu’ils ont fini par
 faire au sujet de ton cycle de sommeil ? »
 
 « De la magie, » dit Harry, se dirigeant droit vers la porte qui donnait

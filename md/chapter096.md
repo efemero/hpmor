@@ -321,7 +321,7 @@ LILY POTTER
 NÉE LE 30 JANVIER 1960  
 MORTE LE 31 OCTOBRE 1981
 
-« *Ça !* » s’écria Harry. « L« *inscription !* » Des larmes s’amoncelaient
+« *Ça !* » s’écria Harry. « L’*inscription !* » Des larmes s’amoncelaient
 dans ses yeux, face à la lueur étrangère et inexpliquée, face au soupçon
 de grâce là où il n’y aurait pas dû y en avoir, face à la mystérieuse
 bénédiction, ses larmes s’amoncelaient face à
@@ -417,8 +417,8 @@ et essuya quelques-unes des larmes.
 « Vous savez, M. Lupin, » dit Harry, « il faut vraiment être capable
 d’interpréter les choses de façon *baroque* pour pouvoir penser que
 quelqu’un, songeant que la mort est une chose que nous devrions tous
-accepter, communiquerait son état d’esprit en disant : »Le dernier
-ennemi qui sera détruit est la mort« . Peut-être que quelqu’un a trouvé
+accepter, communiquerait son état d’esprit en disant : “Le dernier
+ennemi qui sera détruit est la mort”. Peut-être que quelqu’un a trouvé
 que c’était poétique, qu’il a récupéré la phrase et a tenté de
 l’interpréter différemment, mais celui ou celle qui l’a dit en premier
 n’appréciait pas beaucoup la mort. » Harry trouvait parfois mystérieux de
@@ -426,8 +426,8 @@ voir comment les gens étaient capables de ne même pas *remarquer* qu’ils
 tordaient une phrase jusqu’à lui faire effectuer un revirement complet,
 à l’opposé de sa signification première évidente. Ça ne pouvait pas être
 une question d’intelligence brute, les gens pouvaient comprendre le sens
-évident de la plupart des phrases en anglais. « D’autre part, »sera
-détruit« fait référence à une situation future, cela ne peut donc pas
+évident de la plupart des phrases en anglais. « D’autre part, “sera
+détruit” fait référence à une situation future, cela ne peut donc pas
 parler de l’état actuel des choses. »
 
 Remus Lupin le regardait avec des yeux écarquillés. « Tu es certainement

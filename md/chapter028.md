@@ -421,7 +421,7 @@ ce petit bout.
 Et c’était *ridicule*.
 
 *Les choses étaient composées d’atomes*. Plein de petits points. Il
-n« *existait* pas de continuité, il n »*existait* pas de solidité, juste
+n’*existait* pas de continuité, il n’*existait* pas de solidité, juste
 des forces électromagnétiques tenant des petits points reliés les uns
 aux autres…
 
@@ -1015,7 +1015,7 @@ quelques autres sujets ?« »Probablement que oui et bien sûr,« répondi
 Une demi-heure plus tard, Minerva se sentait toujours autant abasourdie,
 mais considérablement rassurée quant aux questions de sûreté.
 
-C« *était* bien la même chose, mis à part le fait que ce soit logiquement
+C’*était* bien la même chose, mis à part le fait que ce soit logiquement
 impossible. »Je pense que cela suffira, directeur,« dit enfin Minerva. »Je soupçonne
 que la métamorphose partielle est plus fatigante que la variante
 ordinaire.« »De moins en moins avec la pratique,« dit le garçon pâle et épuisé d’une
@@ -1055,7 +1055,8 @@ vous a-t-il remarqué quoi que ce soit de différent au sujet du
 professeur Rogue ?« »Différent ?« dit le directeur.
 
 Minerva ne laissa pas son sourire narquois apparaître sur son visage.
-Bien sûr que le garçon éprouvait une appréhension vis-à-vis du »maléfique maître de Potions« , puisqu’il n’avait aucun moyen de savoir
+Bien sûr que le garçon éprouvait une appréhension vis-à-vis du
+“maléfique maître de Potions”, puisqu’il n’avait aucun moyen de savoir
 la raison pour laquelle on pouvait faire confiance à Severus. Ç’aurait
 été pour le moins étrange d’expliquer à Harry que Severus était toujours
 amoureux de sa mère. »Je veux dire, son comportement a-t-il récemment changé de quelque façon

@@ -294,7 +294,7 @@ même si ça le tuait, répondre à leurs attentes. Puis il allait *excéder*
 ces attentes, pour que les gens s’étonnent, en regardant en arrière, de
 lui en avoir demandé si peu.
 
-* « HARRY POTTER ! HARRY POTTER ! HARRY POTTER ! »*
+* »HARRY POTTER ! HARRY POTTER ! HARRY POTTER ! »*
 
 Harry fit ses derniers pas vers le Choixpeau Magique alors que la
 musique se terminait. Il fit une courbette à l’Ordre du Chaos à la table

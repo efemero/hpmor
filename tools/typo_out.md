@@ -4,6 +4,36 @@
 C’est ce que je dis : rien n’a d’importance…
 :::
 
+d’*expliquer* la présence
+« texte » ici
+
+c’**est** noté
+« texte » ici
+
+d’_ailleurs_ ensuite
+« texte » ici
+
+c’__est__ bon
+« texte » ici
+
+d’`identifier` la cause
+« texte » ici
+
+d’[lire](#annexe) plus tard
+« texte » ici
+
+d’![schema](img.png)
+« texte » ici
+
+d’[^1] référence
+« texte » ici
+
+d’<em>expliquer</em> simplement
+« texte » ici
+
+d’~~retirer~~ ceci
+« texte » ici
+
 — les sons l’entourant changèrent.
 — les sons l’entourant changèrent.
 

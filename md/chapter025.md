@@ -123,7 +123,7 @@ savait, on n’en savait pas plus que le mot lui-même.
 
 Ça aurait pu être une pure légende. Mais il était aussi plausible qu’une
 civilisation d’utilisateurs de la magie, soit parvenue à se faire
-sauter, en particulier une civilisation datant d« *avant* l’Interdit de
+sauter, en particulier une civilisation datant d’*avant* l’Interdit de
 Merlin.
 
 Le raisonnement continuait : Atlantis avait été une civilisation isolée
@@ -152,7 +152,9 @@ Le raisonnement logique était inexorable.
 Et il menait à une seule conclusion finale.
 
 Des milliers d’années plus tôt, les aïeux des sorciers avaient dit à la
-Source de Magie de faire léviter les choses uniquement si vous disiez… »Wingardium Leviosa« .
+Source de Magie de faire léviter les choses uniquement si vous disiez…
+
+« Wingardium Leviosa ».
 
 Harry s’effondra sur la table des Serdaigle, reposant son front sur sa
 main droite avec lassitude.
@@ -170,7 +172,7 @@ Harry commençait à comprendre ce que l’étudiant devait avoir ressenti.
 Pourquoi était-il plus difficile de jeter le sort Alohomora si c’était
 comme d’appuyer sur un bouton ?
 
-Qui avait été assez idiot pour construire un sort d »*Avada Kedavra* qui
+Qui avait été assez idiot pour construire un sort d’*Avada Kedavra* qui
 ne pouvait être jeté qu’avec de la haine ?
 
 Pourquoi la métamorphose muette requérait que vous fassiez une
@@ -254,7 +256,7 @@ véritables*. »
 « *Ha !* Ouais, comme si *ça* aurait marché. »
 
 Le vieux sorcier soupira. Ça allait trop loin. « Dis-moi, Harry, t’est-il
-déjà *venu* à l’esprit qu’il y avait quelque chose d« *incongru* dans le
+déjà *venu* à l’esprit qu’il y avait quelque chose d’*incongru* dans le
 fait d’amener quelqu’un à la *repentance* en utilisant le mensonge et la
 manipulation ? »
 
@@ -738,7 +740,7 @@ Marque des Ténèbres… »
 Potter… »
 
 « … et il est le pire professeur de Défense de mémoire d’homme à
-Poudlard, il n »*échoue* pas seulement à nous apprendre des choses, il
+Poudlard, il n’*échoue* pas seulement à nous apprendre des choses, il
 explique aussi tout de travers, l’inverse complet de qu’il devrait
 dire… »
 

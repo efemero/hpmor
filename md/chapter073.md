@@ -272,7 +272,7 @@ joue.« »S-s’il vous plaît,« dit Hermione Granger d’une voix défaill
 de te rendre si on les laisse partir ? On vous a déjà *toutes*, tu
 sais.« Jugson sourit alors. »Ça pourrait être amusant,« dit le Mangemort de
 sixième année d’un ton à la fois doux et menaçant. »Et si tu léchais mes
-chaussures, Sang-de-Bourbe, pour qu« *une* de tes amies puisse partir ?
+chaussures, Sang-de-Bourbe, pour qu’*une* de tes amies puisse partir ?
 Choisis celle que tu aimes le plus, les autres souffriront.« »Nan,« dit la jeune voix de Susan Bones, »aucune chance que ça arrive,« et d’un geste trop rapide pour être ne serait-ce que suivi du regard, la
 Poufsouffle se jeta sur le côté au moment même où un tir
 d’étourdissement pourpre fusait de la baguette de Belka ; Daphné put à

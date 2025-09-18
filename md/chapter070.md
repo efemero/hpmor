@@ -515,7 +515,7 @@ comment continuer quand tout espoir semble perdu. On ne peut inculquer
 par routine quand le moment est venu de se lever et de dire au directeur
 qu’il a mal agi. Les héros sont nés, pas éduqués. Et pour une raison ou
 une autre, ce sont plus souvent des garçons que des filles. » Le
-directeur haussa les épaules comme pour dire qu« *il* ne pouvait rien y
+directeur haussa les épaules comme pour dire qu’*il* ne pouvait rien y
 faire.
 
 « Euh, » dit Hermione. Elle ne put s’empêcher ne regarder derrière elle.

@@ -48,7 +48,7 @@ sous les draps. Ils l’avaient tous laissé dormir jusqu’à après le petit
 déjeuner.
 
 La colère s’écoula hors de lui et fut remplacée par de la confusion et
-par l’horrible sentiment d’avoir été blessé. Ils l« *aimaient*. Avait-il
+par l’horrible sentiment d’avoir été blessé. Ils l’*aimaient*. Avait-il
 cru. La nuit dernière, il pensait qu’ils l’aimaient. *Pourquoi…*
 
 Alors que Harry se levait de son lit, il aperçut un bout de papier
@@ -591,7 +591,7 @@ Serpentard.
 
 Puis Harry leva son autre main, dit « Abracadabra, » et claqua des doigts.
 
-Au son d »*Abracadabra*, deux des Poufsouffle hurlèrent, y compris
+Au son d’*Abracadabra*, deux des Poufsouffle hurlèrent, y compris
 Neville, trois autres Serpentard se jetèrent désespérément loin de la
 direction vers laquelle pointait le doigt de Harry, et le plus grand des
 Serpentard fit un pas chancelant en arrière avec un air choqué. Une

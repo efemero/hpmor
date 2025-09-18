@@ -214,7 +214,7 @@ Geignarde en 1943. »
 fait que je suis un Fourchelangue. Professeur, par tous les suaves
 serpents susurrants — »
 
-« L« *autre* suspect du meurtre était le monstre de Serpentard, le
+« L’*autre* suspect du meurtre était le monstre de Serpentard, le
 légendaire habitant de la Chambre des Secrets. C’est la raison pour
 laquelle mes sources m’ont alerté de ce fait, et pourquoi il a
 suffisamment attiré mon attention pour que je dépense une bonne quantité
@@ -467,7 +467,8 @@ s’écoulait frénétiquement dans ses veines.
 À l’autre bout de la pièce ondulait un serpent d’un mètre de haut, aux
 yeux vert vif et au corps tortueusement couvert de bandes bleues et
 blanches. Harry ne s’y connaissait pas assez en serpents pour
-reconnaître l’espèce, mais il savait que »couleurs vives« signifiait »venimeux« .
+reconnaître l’espèce, mais il savait que « couleurs vives » signifiait
+« venimeux ».
 
 La sensation funeste avait ironiquement diminué après que le professeur
 de Défense de Poudlard se fut transformé en un serpent venimeux.

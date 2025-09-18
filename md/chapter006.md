@@ -3,7 +3,7 @@
 *Certains* enfants auraient attendu d’avoir *terminé* leur premier
 voyage au Chemin de Traverse.
 
-« Sac de l’élément 79, » dit Harry, et il retira sa main vide de la bourse en peau de Moke.
+« Sac de l’élément 79″, dit Harry, et il retira sa main vide de la bourse en peau de Moke.
 
 La plupart des enfants auraient au moins attendu d’avoir leur *baguette
 magique*.
@@ -324,7 +324,7 @@ ne me comprenez pas *du tout*. Je n’*aime* pas le danger, ça me fait
 *contingences imprévues*. Comme mes parents me chantonnaient : *Soyez
 prêts ! C’est la chanson de marche des scouts, soyez prêts ! Comme on
 marche dans la vie ! Pas nerveux, pas énervé, pas effrayé, soyez
-prêt !* »
+prêt ! »*
 
 (Les parents de Harry n’avaient de fait chanté que *ces vers là* de la
 chanson de Tom Lehrer, et Harry vivait dans l’heureuse ignorance du

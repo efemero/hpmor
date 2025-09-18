@@ -781,15 +781,24 @@ me rends compte maintenant que c’était stupide. Mais de jeunes élèves ne
 doivent pas s’aventurer seuls dans les couloirs et doivent être en
 permanence accompagnés d’un étudiant en sixième ou septième année. Et
 maintenant, on a Drago Malfoy et on peut tous rentrer. S’il vous plaît ?
-Avant que ça ne devienne encore plus ridicule ? »*Par Merlin, qu’est-ce qui se passe ici ?*« »Ah,« dit le professeur Rogue, qui pointait toujours sa baguette vers
+Avant que ça ne devienne encore plus ridicule ? »
+
+« *Par Merlin, qu’est-ce qui se passe ici ?* »
+
+« Ah, » dit le professeur Rogue, qui pointait toujours sa baguette vers
 une Susan Bones aux cheveux rouges et dont l’autre main tenait toujours
 le col de la tête sans corps de Drago Malfoy, et dont les pieds étaient
-à quelques centimètres du corps affalé du professeur de Défense. »Professeur Chourave, n’est-ce pas.« »Ce n’est pas ce que vous croyez,« s’expliqua Tracey Davis.
+à quelques centimètres du corps affalé du professeur de Défense.
+« Professeur Chourave, n’est-ce pas. »
+
+« Ce n’est pas ce que vous croyez, » s’expliqua Tracey Davis.
 
 La silhouette courtaude du professeur de Botanique s’avança à grands
 pas. Elle avait déjà sorti sa baguette, mais ne la dirigeait vers
-personne en particulier. »*Je ne sais même pas quoi en penser !*
-Abaissez tous vos baguettes *immédiatement* ! Vous aussi, professeur !« *Distraction*. L’idée vint à Harry avec une soudaine clarté. Ce qu’il
+personne en particulier. « *Je ne sais même pas quoi en penser !*
+Abaissez tous vos baguettes *immédiatement* ! Vous aussi, professeur ! »
+
+*Distraction*. L’idée vint à Harry avec une soudaine clarté. Ce qu’il
 regardait maintenant, invisible, retiré de l’action, ce n’était pas la
 scène importante ; ce n’était pas le fil narratif principal ; ça avait
 été *planifié*. L’arrivée du professeur Chourave avait mis fin à la
@@ -801,15 +810,20 @@ Harry espérait vraiment ne pas être remonté dans le temps pour faire
 tout ça… parce que c’était exactement le genre de chose qu’il aurait pu
 faire.
 
-Severus Rogue abaissa sa baguette. Son autre main relâcha Drago Malfoy. »Professeur Chourave,« dit le maître des potions, »je suis ici sur ordre
+Severus Rogue abaissa sa baguette. Son autre main relâcha Drago Malfoy.
+« Professeur Chourave, » dit le maître des potions, « je suis ici sur ordre
 du directeur afin de garder cette porte. Toutes les autres personnes
 présentes ici ne devraient *pas* l’être, et je vous prie de les faire
-partir.« »Une histoire plausible,« dit le professeur Chourave. »Pourquoi
+partir. »
+
+« Une histoire plausible, » dit le professeur Chourave. « Pourquoi
 Dumbledore choisirait vous plutôt que n’importe qui d’autre pour garder
 la porte de son terrain de jeu ? Ce n’est pas comme s’il voulait
 empêcher les élèves d’entrer, oh que non, il faut qu’ils rentrent et
 qu’ils se prennent dans *mon* filet du diable ! Chère Susan, vous avez
-un miroir de communication ? Utilisez-le pour prévenir les Aurors.« Harry hocha la tête pour son propre compte. C’était *ça*, le but. Les
+un miroir de communication ? Utilisez-le pour prévenir les Aurors. »
+
+Harry hocha la tête pour son propre compte. C’était *ça*, le but. Les
 Aurors embarqueraient tous ceux qui avaient participé à cette situation
 absurde, n’écouteraient aucune explication, et il n’y aurait plus
 personne pour surveiller la porte.
@@ -818,9 +832,19 @@ Mais Harry était-il censé se rendre dans le couloir interdit ? Ou
 observer, voir qui arriverait enfin, après le départ des autres ?
 
 Une violente quinte de toux dirigea tous les regards vers l’endroit où
-le professeur de Défense reposait. »Rogue… écoutez-moi…« dit le professeur de Défense entre deux quintes de
-toux. »Si…Chourave… est ici…« Le maître des potions baissa les yeux. »Sortilège d’Oubliettes… nécessite… un professeur…« le professeur de
-Défense se remit à tousser. »*Hein ?*« Et la logique se déroula dans l’esprit de Harry, le désarroi cristallin,
+le professeur de Défense reposait.
+
+« Rogue… écoutez-moi… » dit le professeur de Défense entre deux quintes de
+toux. « Si…Chourave… est ici… »
+
+Le maître des potions baissa les yeux.
+
+« Sortilège d’Oubliettes… nécessite… un professeur… » le professeur de
+Défense se remit à tousser.
+
+« *Hein ?* »
+
+Et la logique se déroula dans l’esprit de Harry, le désarroi cristallin,
 chaque étape déjà soupçonnée, la terrible compréhension répétée, plus
 sûre à chaque fois.
 
@@ -865,8 +889,10 @@ Botanique fit à nouveau face à pas-Susan, le regard vide, de nouveaux
 tentacules dressés derrière elle. Ces tiges semblaient être d’un vert
 plus sombre et disposer de leurs propres boucliers.
 
-Harry Potter murmura, apparemment dans le vide : »Attaque Chourave. Aide
-Bones. Attaques non mortelles seulement.« »Oui, Seigneur,« murmura un Lesath Lestrange caché sous la Cape
+Harry Potter murmura, apparemment dans le vide : « Attaque Chourave. Aide
+Bones. Attaques non mortelles seulement. »
+
+« Oui, Seigneur, » murmura un Lesath Lestrange caché sous la Cape
 d’Invisibilité de Harry ; et le Serpentard en cinquième année s’avança
 vers la bataille, toujours dissimulé.
 
@@ -902,10 +928,19 @@ professeur Chourave, son armure de plante, et l’abattit.
 Celle qui n’était pas Susan Bones tomba à genoux, haletante, ses robes
 trempées de sueur.
 
-Elle regarda autour d’elle, les corps stupéfixés ou entourés de plantes. »Quoi,« dit pas-Susan. »Quoi. Quoi. *Quoi.*« Il n’y eut pas de réponse. Les victimes prises dans les tiges du
+Elle regarda autour d’elle, les corps stupéfixés ou entourés de plantes.
+
+« Quoi, » dit pas-Susan. « Quoi. Quoi. *Quoi.* »
+
+Il n’y eut pas de réponse. Les victimes prises dans les tiges du
 professeur Chourave semblaient immobiles, mais elles paraissaient
-respirer. »Malfoy…« dit une fausse Susan aux cheveux roses, toujours haletante. »Drago Malfoy, où es-tu ? Est-ce que tu es là ? Appelle vite les
-Aurors ! Bordel de Merlin — *Hominum Revelio !*« Et Harry fut de nouveau visible, et vit dans son miroir un Drago Malfoy
+respirer.
+
+« Malfoy… » dit une fausse Susan aux cheveux roses, toujours haletante.
+« Drago Malfoy, où es-tu ? Est-ce que tu es là ? Appelle vite les
+Aurors ! Bordel de Merlin — *Hominum Revelio !* »
+
+Et Harry fut de nouveau visible, et vit dans son miroir un Drago Malfoy
 à moitié visible derrière une cape miroitante, debout derrière
 pas-Susan, sa baguette pointée droit vers un trou dans le halo bleu de
 cette dernière.
@@ -916,14 +951,19 @@ lentement, et pourtant trop vite ; il inhala, bouche béante, se prépara
 
 *prends garde à la constellation*  
 il y avait une constellation du Dragon  
-si on pouvait contrôler un professeur, on pouvait contrôler un élève »*Baisse-toi !*« hurla Harry, mais c’était trop tard. Tiré à bout
+si on pouvait contrôler un professeur, on pouvait contrôler un élève
+
+« *Baisse-toi !* » hurla Harry, mais c’était trop tard. Tiré à bout
 portant, une salve rouge frappa la tête de pas-Susan et la fracassa au
 sol.
 
-Harry franchit l’angle du couloir et dit »*Somnium Somnium Somnium
-Somnium Somnium Somnium.*« La silhouette miroitante de Drago s’effondra.
+Harry franchit l’angle du couloir et dit « *Somnium Somnium Somnium
+Somnium Somnium Somnium.* »
 
-Harry prit un moment pour reprendre son souffle. Puis il dit »*Stupéfix !*« et vérifia que le sortilège d’étourdissement avait bien
+La silhouette miroitante de Drago s’effondra.
+
+Harry prit un moment pour reprendre son souffle. Puis il dit
+« *Stupéfix !* » et vérifia que le sortilège d’étourdissement avait bien
 touché le corps de Drago.
 
 (On pouvait croire à tort qu’un Somnium avait touché sa cible. Harry
@@ -946,27 +986,49 @@ Aurors, et Harry ne savait *toujours pas* ce qui se passait.
 
 Le corps étendu du professeur Quirrell eut une autre quinte de toux,
 leva une main vers le mur situé derrière lui et se remit lentement sur
-pieds. »Harry,« croassa le professeur Quirrell. »Harry. Tu es là ?« C’était la première fois que le professeur Quirrell l’appelait par son
-prénom. »Je suis là,« dit Harry. Sans même qu’il réfléchisse, ses pieds
-avançaient. »S’il te plaît,« dit le professeur Quirrell. »S’il te plaît, je n’ai…
+pieds.
+
+« Harry, » croassa le professeur Quirrell. « Harry. Tu es là ? »
+
+C’était la première fois que le professeur Quirrell l’appelait par son
+prénom.
+
+« Je suis là, » dit Harry. Sans même qu’il réfléchisse, ses pieds
+avançaient.
+
+« S’il te plaît, » dit le professeur Quirrell. « S’il te plaît, je n’ai…
 plus beaucoup de temps. S’il te plaît… emmène-moi au miroir… aide-moi… à
-trouver la pierre.« »La pierre *philosophale* ?« dit Harry. Il regarda les corps éparpillés
+trouver la pierre. »
+
+« La pierre *philosophale* ? » dit Harry. Il regarda les corps éparpillés
 autour de lui, mais Drago n’était plus visible, le sortilège de
-révélation s’était dissipé. »Vous pensez que M. Nott avait *raison* ? Je
-ne pense pas que Dumbledore…« »Pas… Dumbledore,« s’étrangla le professeur Quirrell. »Parce que…
-Chourave…« »Je comprends,« dit Harry. Si Dumbledore avait été derrière tout cela,
+révélation s’était dissipé. « Vous pensez que M. Nott avait *raison* ? Je
+ne pense pas que Dumbledore… »
+
+« Pas… Dumbledore, » s’étrangla le professeur Quirrell. « Parce que…
+Chourave… »
+
+« Je comprends, » dit Harry. Si Dumbledore avait été derrière tout cela,
 il n’aurait pas eu besoin de contrôler l’esprit d’un professeur pour
-utiliser des sortilèges d’Oubliettes. »Miroir… vieille relique… pourrait dissimuler… n’importe quoi… pierre
+utiliser des sortilèges d’Oubliettes.
+
+« Miroir… vieille relique… pourrait dissimuler… n’importe quoi… pierre
 devrait y être… nombreux autres la désirent… l’un d’eux a… envoyé
-Chourave…« Harry répéta rapidement : »Le miroir là-bas est une ancienne relique qui
+Chourave… »
+
+Harry répéta rapidement : « Le miroir là-bas est une ancienne relique qui
 permet de cacher des choses et la Pierre Philosophale s’y trouve
 peut-être. Si la Pierre Philosophale est dans le miroir, plein de gens
 peuvent vouloir s’en emparer. L’un d’eux contrôle Chourave, et ça
 expliquerait son véritable but… seulement… ça n’explique pas pourquoi
-celui qui contrôle Chourave s’en prendrait à Hermione…« »Harry, s’il te plaît,« dit le professeur Quirrell. Sa respiration était
-plus laborieuse, sa voix d’une lenteur insoutenable. »C’est la seule
+celui qui contrôle Chourave s’en prendrait à Hermione… »
+
+« Harry, s’il te plaît, » dit le professeur Quirrell. Sa respiration était
+plus laborieuse, sa voix d’une lenteur insoutenable. « C’est la seule
 chose… qui peut me sauver… et je me rends compte… que je ne veux pas
-mourir… aide-moi, s’il te plaît…« Et le voile se déchira.
+mourir… aide-moi, s’il te plaît… »
+
+Et le voile se déchira.
 
 Étrangement, c’en fut trop.
 
@@ -981,15 +1043,25 @@ Toute l’expérience qu’il avait accumulée pendant l’année s’était enf
 cristallisée et l’avait un peu aguerri. Un instinct né dans des
 désastres passés lui soufflait que s’il fonçait droit devant, il aurait
 une triste conversation où il comprendrait que son comportement avait
-été stupide. *Une fois de plus*. »Laissez-moi réfléchir,« dit-il. »Laissez-moi réfléchir une minute avant
-qu’on y aille.« Il se détourna du professeur de Défense et regarda les
+été stupide. *Une fois de plus*.
+
+« Laissez-moi réfléchir, » dit-il. « Laissez-moi réfléchir une minute avant
+qu’on y aille. » Il se détourna du professeur de Défense et regarda les
 corps inconscients au sol. Il avait déjà obtenu tellement de pièces du
 puzzle, peut-être que tout se mettrait en place s’il en trouvait une de
-plus… »Harry…« dit le professeur de Défense d’une voix chancelante, »Harry, je
-suis mourant…« *Une minute de plus ou de moins ne peut pas avoir tant d’importance que
+plus…
+
+« Harry… » dit le professeur de Défense d’une voix chancelante, « Harry, je
+suis mourant… »
+
+*Une minute de plus ou de moins ne peut pas avoir tant d’importance que
 ça, il a été malade TOUTE L’ANNÉE, il est PEU PROBABLE que sa vie se
 joue précisément à cette minute, indépendamment de ce qui est arrivé à
-Hermione…* »Je *sais* !« répondit Harry. »Je vais réfléchir *vite !*« Harry regarda les corps et essaya de réfléchir. Il n’avait pas le temps
+Hermione…*
+
+« Je *sais* ! » répondit Harry. « Je vais réfléchir *vite !* »
+
+Harry regarda les corps et essaya de réfléchir. Il n’avait pas le temps
 de douter, de discuter, de se freiner ou de faire marche arrière, il
 fallait juste saisir ses pensées au vol et *les suivre*…
 
@@ -1028,7 +1100,7 @@ hypothèse lui était venue sur le moment, mais Drago aurait pu essayer
 d’abattre pas-Susan pour pouvoir entrer dans le couloir sans être gêné…
 
 Non c’était la mauvaise façon d’attaquer le problème, changer de point
-de vue, essayer d« *expliquer* la présence de Drago et de son groupe à ce
+de vue, essayer d’*expliquer* la présence de Drago et de son groupe à ce
 moment, pas le temps de douter, *saisis l’hypothèse et fonce*, donc
 suppose que le cerveau derrière Chourave a envoyé Drago ou s’est arrangé
 pour qu’il vienne.
@@ -1113,7 +1185,12 @@ Un soupçon de doute fut propulsé jusqu’à sa conscience.
 
 Le message codé sur le parchemin… une ligne ou deux n’avaient pas été
 dans le ton, n’avait pas ressemblé à un code que Harry s’attendrait à se
-voir utiliser… »Harry,« murmura la voix mourante du professeur Quirrell, derrière lui. »Harry, s’il te plaît,« »J’ai presque fini de réfléchir,« dit la voix de Harry, et il se rendit
+voir utiliser…
+
+« Harry, » murmura la voix mourante du professeur Quirrell, derrière lui.
+« Harry, s’il te plaît, »
+
+« J’ai presque fini de réfléchir, » dit la voix de Harry, et il se rendit
 compte que c’était vrai.
 
 Sous l’angle inverse.
@@ -1144,20 +1221,20 @@ bourse de Harry. Tu préfères falsifier l’écriture de Harry sur un
 parchemin de sorcier. Tu peux la falsifier parce que tu l’as vue sur des
 examens du ministère que tu as toi-même corrigés.
 
-Tu appelles Drago Malfoy »la constellation« parce que tu sais que Harry
+Tu appelles Drago Malfoy « la constellation » parce que tu sais que Harry
 Potter s’intéresse à l’astronomie, que tu es un sorcier, que tu as suivi
 des cours d’astronomie et que tu as mémorisé les noms des
 constellations. Mais ce n’est pas le code que Harry Potter aurait
 instinctivement utilisé pour parler de Drago Malfoy à lui-même. Il
-aurait dit »l’apprenti« .
+aurait dit « l’apprenti ».
 
-Tu appelles le professeur Quirrell »celui qui contemple les étoiles« et
+Tu appelles le professeur Quirrell « celui qui contemple les étoiles » et
 tu dis à Harry Potter de l’aider.
 
 Tu sais que mange-mort est le nom d’un Détraqueur en Fourchelangue et tu
 comptes sur Harry pour voir les Aurors comme leurs complices.
 
-Tu encodes 6 h 49 en écrivant »six, et sept dans un carré« parce que tu as
+Tu encodes 6 h 49 en écrivant « six, et sept dans un carré » parce que tu as
 lu un livre de physique Moldu que Harry Potter t’a donné.
 
 Dans ce cas, qui es-tu ?
@@ -1176,7 +1253,7 @@ calmées, mais,
 Mais pourquoi le professeur Quirrell risquerait-il la fragile alliance
 entre Harry et Drago via la tentative de fausse accusation de meurtre
 
-(que le professeur Quirrell avait »détectée« et »empêchée« via un
+(que le professeur Quirrell avait « détectée » et « empêchée » via un
 mouchard placé sur Drago)
 
 Pourquoi le professeur Quirrell tuerait-il Hermione
@@ -1244,10 +1321,10 @@ Et dans ces cas-là, lorsque la bonne hypothèse est enfin pensée, tout
 s’aligne à sa suite, par-delà le déni ou l’horreur, et arrache les
 doutes et les émotions qui auraient pu s’interposer.
 
-… alors »David Monroe« et »Lord Voldemort« n’avaient été qu’une seule
+… alors « David Monroe » et « Lord Voldemort » n’avaient été qu’une seule
 personne jouant sur les deux tableaux pendant la guerre des sorciers, et
 c’était pour ça que la famille Monroe avait été tuée avant de pouvoir
-rencontrer »David Monroe« , comme Maugrey s’en était douté…
+rencontrer « David Monroe, » comme Maugrey s’en était douté…
 
 La réalité se figea en un point stable, une situation cohérente capable
 de générer élégamment l’ensemble des observations.
@@ -1255,12 +1332,16 @@ de générer élégamment l’ensemble des observations.
 Harry ne sursauta pas, il ne haleta pas, il essaya de ne montrer aucun
 signe de l’agonie et de l’horreur qui inondaient son esprit.
 
-L’Ennemi était derrière lui. L’observait. »Très bien,« dit Harry à voix haute dès qu’il fit à nouveau confiance à
+L’Ennemi était derrière lui. L’observait.
+
+« Très bien, » dit Harry à voix haute dès qu’il fit à nouveau confiance à
 sa voix. Il continua de regarder les corps, loin du professeur Quirrell,
 parce qu’il ne faisait pas confiance à son visage. Il leva une manche
 pour essuyer la sueur sur son front, essaya de rendre le geste
 nonchalant ; il ne pouvait contrôler ni la sueur ni les rapides
-battements de son cœur. »Allons chercher cette Pierre Philosophale.« Tout ce dont Harry avait besoin, c’était d’un seul moment de distraction
+battements de son cœur. « Allons chercher cette Pierre Philosophale. »
+
+Tout ce dont Harry avait besoin, c’était d’un seul moment de distraction
 pour pouvoir utiliser son Retourneur de Temps.
 
 Aucune réponse ne vint.
@@ -1276,5 +1357,8 @@ le bras armé de Harry, tenu avec l’assurance de celui qui sait
 parfaitement de servir d’un pistolet semi-automatique.
 
 Le bouche de Harry était sèche ; même ses lèvres tremblaient, emplies
-d’adrénaline, mais il parvint à parler. »Bonjour, Lord Voldemort.« Le professeur Quirrell inclina la tête en retour, et dit : »Bonjour, Tom
-Jedusor.« 
+d’adrénaline, mais il parvint à parler. « Bonjour, Lord Voldemort. »
+
+Le professeur Quirrell inclina la tête en retour, et dit : « Bonjour, Tom
+Jedusor. »
+

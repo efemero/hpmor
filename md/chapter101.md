@@ -292,12 +292,7 @@ façon aussi routinière qu’eux, était prestement partie se coucher.
 point de vue, M. le directeur, Poudlard est enfin, enfin normale. C’est
 ce qui devrait se produire quand quatre enfants sont envoyés nuitamment
 dans la Forêt interdite. Il devrait y avoir du tapage, on devrait faire
-venir la police, et les responsables devraient être renvoyés. »
-
-« Argus Rusard a servi cette institution pendant plusieurs décennies. »
-
-« Et quand on lui a donné du Veritaserum, » dit Harry d’un ton fatigué,
-« il a révélé avoir envoyé un garçon de onze ans dans la Forêt interdite
+venir la police, et les responsables devraient être renvoyés. »Argus Rusard a servi cette institution pendant plusieurs décennies.« »Et quand on lui a donné du Veritaserum,« dit Harry d’un ton fatigué, »il a révélé avoir envoyé un garçon de onze ans dans la Forêt interdite
 dans l’espoir que quelque chose d’horrible lui arriverait, parce qu’il
 pensait que le père de l’enfant avait tué son chat. Il n’a pas semblé
 avoir été alarmé par la présence des trois autres enfants en compagnie
@@ -305,66 +300,86 @@ de Drago. J’aurais bien requis une peine de prison, mais dans ce pays,
 votre concept de prison, c’est Azkaban. Je noterais aussi que Rusard
 était remarquablement déplaisant envers les enfant de Poudlard et je
 m’attends à ce que l’indice hédonique de l’école augmente suite à son
-départ, non que vous vous en souciez, je suppose. »
-
-Derrière les lunettes en demi-lune, les yeux du directeur étaient
-impénétrables. « Argus Rusard est un Cracmol. Tout ce qu’il a, c’est cet
-emploi à Poudlard. Avait, plutôt. »
-
-« Le but d’une école n’est pas de fournir du travail à ses employés. Je
+départ, non que vous vous en souciez, je suppose.« Derrière les lunettes en demi-lune, les yeux du directeur étaient
+impénétrables. »Argus Rusard est un Cracmol. Tout ce qu’il a, c’est cet
+emploi à Poudlard. Avait, plutôt.« »Le but d’une école n’est pas de fournir du travail à ses employés. Je
 sais que vous passez probablement plus de temps auprès d’Argus Rusard
 qu’auprès de n’importe quel élève, mais cela ne devrait pas
 proportionnellement faire grandir l’importance à vos yeux du ressenti de
-Rusard. Les élèves aussi ont une vie intérieure. »
-
-« Tu t’en fiches complètement, Harry ? » la voix de Dumbledore était
-douce. « De ceux auxquels tu fais du mal. »
-
-« Je me soucie des innocents, » dit Harry. « Comme M. Hagrid, au sujet
+Rusard. Les élèves aussi ont une vie intérieure.« »Tu t’en fiches complètement, Harry ?« la voix de Dumbledore était
+douce. »De ceux auxquels tu fais du mal.« »Je me soucie des innocents,« dit Harry. »Comme M. Hagrid, au sujet
 duquel vous remarquerez que j’ai soutenu qu’il devait être considéré
 comme inconscient, pas comme malveillant. J’aurais été heureux de voir
 M. Hagrid continuer à travailler ici à condition qu’il n’emmène plus
-personne dans la Forêt interdite. »
-
-« J’avais pensé que, innocenté, Rubeus aurait pu enseigner le soin aux
+personne dans la Forêt interdite.« »J’avais pensé que, innocenté, Rubeus aurait pu enseigner le soin aux
 créatures magiques après le départ de Silvanus. Mais une grande partie
 de cet enseignement a lieu dans la Forêt interdite. Cela, suite à ton
 passage, n’aura donc pas lieu non plus.
 
-Harry dit lentement : »Mais… vous nous avez dit que M. Hagrid avait un
+Harry dit lentement : « Mais… vous nous avez dit que M. Hagrid avait un
 angle mort lorsqu’il s’agissait des menaces que les créatures magiques
 pouvaient poser aux sorciers. Que M. Hagrid a un déficit cognitif et
 qu’il n’a pas la capacité d’imaginer Drago ou Tracey en train de
 souffrir, et que c’est pour cela que M. Hagrid n’a pas trouvé
 problématique de les laisser seuls, dans la Forêt interdite, de nuit.
-N’est-ce pas ?« »Si, c’est vrai.« »Alors M. Hagrid ne serait-il pas le pire professeur de soin aux
-créatures magiques possible ?« Le vieux sorcier regarda Harry à travers ses lunettes en demi-lune.
-Lorsqu’il parla, sa voix était étouffée. »M. Malfoy lui-même n’avait
+N’est-ce pas ? »
+
+« Si, c’est vrai. »
+
+« Alors M. Hagrid ne serait-il pas le pire professeur de soin aux
+créatures magiques possible ? »
+
+Le vieux sorcier regarda Harry à travers ses lunettes en demi-lune.
+Lorsqu’il parla, sa voix était étouffée. « M. Malfoy lui-même n’avait
 rien à y redire. Le tour joué par Argus n’était pas si terrible, Harry
 Potter. Et Rubeus aurait pu s’adapter à son poste. Ça aurait été… tout
-ce que Rubeus aurait voulu, son plus cher désir…« »Votre erreur,« dit Harry en regardant ses genoux, et avec le sentiment
+ce que Rubeus aurait voulu, son plus cher désir… »
+
+« Votre erreur, » dit Harry en regardant ses genoux, et avec le sentiment
 d’être à au moins dix pour cent de son niveau de fatigue maximal
-historique, »est un biais cognitif que l’on appellerait dans le métier
+historique, « est un biais cognitif que l’on appellerait dans le métier
 insensibilité à l’échelle. Incapacité à multiplier. Vous pensez au
 bonheur que ressentirait M. Hagrid en entendant la nouvelle. Songez aux
 dix prochaines années et aux mille élèves inscrits en cours de soin aux
 créatures magiques et au dix pour cent d’entre eux brûlés par des
 Serpencendres. Aucun élève ne souffrirait autant que M. Hagrid ne serait
 heureux, mais il y aurait cent élèves en souffrance et un seul
-professeur heureux.« »Peut-être,« dit le vieux sorcier. »Et ton erreur, Harry, c’est de ne
+professeur heureux. »
+
+« Peut-être, » dit le vieux sorcier. « Et ton erreur, Harry, c’est de ne
 pas ressentir la douleur de ceux auxquels tu fais du mal, une fois tes
-multiplications terminées.« »Peut-être.« Harry continua de regarder ses genoux. »Ou peut-être que
+multiplications terminées. »
+
+« Peut-être. » Harry continua de regarder ses genoux. « Ou peut-être que
 c’est encore pire que ça. M. le directeur, si un centaure ne m’aime pas,
-qu’est-ce que ça veut dire ?« *Si un membre d’une race de créatures
+qu’est-ce que ça veut dire ? » *Si un membre d’une race de créatures
 magiques connues pour leurs pouvoirs de divination vous donne un cours
 sur les gens qui sont ignorants des conséquences, vous présente ses
 excuses et essaie ensuite de vous poignarder avec une lance, qu’est-ce
-que ça veut dire ?* »Un centaure ?« dit le directeur. »Quand as-tu… ah, le Retourneur de
+que ça veut dire ?*
+
+« Un centaure ? » dit le directeur. « Quand as-tu… ah, le Retourneur de
 Temps. C’est toi, la raison qui m’empêchait de revenir avant l’événement
-sans provoquer de paradoxe.« »C’est moi ? Oui, je crois que c’est moi.« Harry secoua la tête d’un air
-distant. »Pardon.« »À quelques rares exceptions près,« dit Dumbledore, »les centaures
-n’aiment pas du tout les sorciers.« »Il était un peu plus précis que ça.« »Que t’as-t-il dit ?« Harry ne répondit pas. »Ah.« Le directeur hésita. »Les centaures ont eu tort nombre de fois, et
+sans provoquer de paradoxe. »
+
+« C’est moi ? Oui, je crois que c’est moi. » Harry secoua la tête d’un air
+distant. « Pardon. »
+
+« À quelques rares exceptions près, » dit Dumbledore, « les centaures
+n’aiment pas du tout les sorciers. »
+
+« Il était un peu plus précis que ça. »
+
+« Que t’as-t-il dit ? »
+
+Harry ne répondit pas.
+
+« Ah. » Le directeur hésita. « Les centaures ont eu tort nombre de fois, et
 s’il y a quelqu’un dans ce monde qui pourrait embrouiller les étoiles
-elles-mêmes, c’est toi.« Harry leva les yeux et vit que les yeux bleus derrière les lunettes en
-demi-lune étaient à nouveau doux. »Ne t’en fais pas trop,« dit Albus Dumbledore.
+elles-mêmes, c’est toi. »
+
+Harry leva les yeux et vit que les yeux bleus derrière les lunettes en
+demi-lune étaient à nouveau doux.
+
+« Ne t’en fais pas trop, » dit Albus Dumbledore.
 

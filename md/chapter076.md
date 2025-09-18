@@ -124,7 +124,7 @@ Rogue secoua la tête et son visage se pinça.
 
 « C’est — » dit Rianne d’une voix hésitante. « Enfin — tant que nous sommes
 là — y a-t-il quoi que ce soit dont vous voudriez me parler ? » Il y
-avait quelque chose qu« *elle* aurait voulu dire mais elle n’arrivait pas
+avait quelque chose qu’*elle* aurait voulu dire mais elle n’arrivait pas
 à faire passer les mots au travers de ses lèvres.
 
 « Je peux penser à autre chose, » dit Rogue après un silence. « Si vous
@@ -200,7 +200,7 @@ chose à dire.
 « Il est curieux, » dit Rogue d’une voix encore plus douce, « de regarder
 en arrière après trente-deux ans et de se demander quand sa vie a été
 détruite au-delà de tout espoir de récupération. Cela a-t-il été
-déterminé lorsque le Choixpeau a crié »Serpentard !« ? Cela semble
+déterminé lorsque le Choixpeau a crié “Serpentard !” ? Cela semble
 injuste puisqu’on ne m’a offert aucun choix ; le Choixpeau a parlé au
 moment où il a touché ma tête. Pourtant je ne puis dire qu’il m’ait
 faussement nommé. Je n’ai jamais chéri le savoir en tant que tel. Je
@@ -279,7 +279,7 @@ merci d’avoir essayé. » Les longs doigts délicats et affûtés par la
 préparation de potions à des degrés de précision inimaginables
 s’élevèrent et massèrent les tempes de l’homme. « Le poids de mots si
 fragiles suffit à me rendre fou. Un pouvoir qu’il ignore… ça *doit* être
-plus qu’un sortilège inconnu quelconque. Pas quelque chose qu »*il*
+plus qu’un sortilège inconnu quelconque. Pas quelque chose qu’*il*
 pourrait acquérir par la pratique et l’étude. Quelque talent inné ?
 Personne ne peut apprendre à être un métamorphomage… et pourtant ce
 n’est certainement pas là un pouvoir qu’il *ignore*. Je ne peux pas non

@@ -220,6 +220,8 @@ fn pass_spaces_punct(s: &str) -> String {
     let re_quad_line = Regex::new(r"(?m)^:::\u{202F}:$").unwrap();
     let re_collapse_line = Regex::new(r"(?m)^(:+)\u{202F}(:+)$").unwrap();
     let re_attr_after = Regex::new(r"\u{202F}:\{").unwrap();
+    // Don't add thin space before Markdown image marker: `![` should stay tight.
+    let re_img_tight = Regex::new(r"\u{202F}!\[").unwrap();
 
     let mut out = re_sc.replace_all(s, "$1\u{202F}$2").into_owned();
     out = re_colon.replace_all(&out, "$1\u{202F}:").into_owned();
@@ -232,6 +234,7 @@ fn pass_spaces_punct(s: &str) -> String {
     out = re_quad_merge.replace_all(&out, "::::").into_owned();
     out = re_quad_line.replace_all(&out, "::::").into_owned();
     out = re_collapse_line.replace_all(&out, "$1$2").into_owned();
+    out = re_img_tight.replace_all(&out, "![").into_owned();
     out
 }
 
@@ -380,26 +383,48 @@ fn convert_straight_quotes_to_french(text: &str) -> String {
                 }
             }
             '\'' => {
-                // Apostrophe between letters stays an apostrophe; otherwise treat as a quote delimiter
+                // Apostrophe and quote handling
                 let prev = if i > 0 { chars[i - 1] } else { '\0' };
                 let next = if i + 1 < len { chars[i + 1] } else { '\0' };
+
+                // Always prioritize lexical apostrophe between letters
                 if prev.is_alphabetic() && next.is_alphabetic() {
                     out.push('’');
-                } else {
-                    if french_level == 0 {
-                        if !open_top_sq {
-                            out.push('«');
-                        } else {
-                            out.push('»');
-                        }
-                        open_top_sq = !open_top_sq;
+                } else if french_level > 0 {
+                    // Inside « … »: single quotes map to English curly “ … ”
+                    if !open_inner_sq {
+                        out.push('\u{201C}'); // “
                     } else {
-                        if !open_inner_sq {
-                            out.push('\u{201C}'); // “
-                        } else {
-                            out.push('\u{201D}'); // ”
+                        out.push('\u{201D}'); // ”
+                    }
+                    open_inner_sq = !open_inner_sq;
+                } else {
+                    // Top-level context
+                    if open_top_sq {
+                        // Prefer closing the already-open quote
+                        out.push('»');
+                        open_top_sq = false;
+                    } else {
+                        // Heuristic for French elision across inline markup on the same line
+                        let mut line_has_later_letter = false;
+                        if prev.is_alphabetic() {
+                            let mut j = i + 1;
+                            while j < len && chars[j] != '\n' {
+                                if chars[j].is_alphabetic() {
+                                    line_has_later_letter = true;
+                                    break;
+                                }
+                                j += 1;
+                            }
                         }
-                        open_inner_sq = !open_inner_sq;
+                        if (prev.is_alphabetic() && next.is_alphabetic())
+                            || (prev.is_alphabetic() && line_has_later_letter)
+                        {
+                            out.push('’');
+                        } else {
+                            out.push('«');
+                            open_top_sq = true;
+                        }
                     }
                 }
             }

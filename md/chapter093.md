@@ -294,7 +294,7 @@ J’ai essayé d’écraser toute tendance à la rébellion au lieu d’entraîn
 votre courage jusqu’à la sagesse. Quoi que le Choixpeau ait pu voir en
 moi pour me placer à Gryffondor, je l’ai trahi. J’ai transmis au
 directeur ma démission de mes postes de directrice adjointe et de
-directrice de la maison Gryffondor.
+directrice de la maison Gryffondor. »
 
 
 
@@ -313,61 +313,94 @@ n’avait pas voulu que *ça* se…
 
 
 
-Minerva respira et poursuivit. »Cependant, le directeur n’a pas accepté
-ma démission,« dit-elle. »Je continuerai donc mon travail et essaierai
+Minerva respira et poursuivit. « Cependant, le directeur n’a pas accepté
+ma démission, » dit-elle. « Je continuerai donc mon travail et essaierai
 de défaire ce que j’ai façonné. Je dois parvenir à trouver un moyen
 d’enseigner à mes élèves comment faire ce qui est juste. Pas ce qui est
 sûr, pas ce qui simple, pas ce qu’on nous dit de faire. Si tout ce dont
 je suis capable est de vous apprendre à rendre vos devoirs à l’heure,
 autant ne pas avoir de maison Gryffondor. Cette voie sera plus difficile
 pour moi, et peut-être pour nous tous. Mais je sais à présent que
-jusqu’ici, je ne faisais que suivre la voie de la facilité.« Elle s’écarta du pupitre et descendit pour rejoindre les jumeaux
-Weasley. »Fred Weasley, George Weasley,« dit-elle. »Vous n’avez pas toujours fait
+jusqu’ici, je ne faisais que suivre la voie de la facilité. »
+
+Elle s’écarta du pupitre et descendit pour rejoindre les jumeaux
+Weasley.
+
+« Fred Weasley, George Weasley, » dit-elle. « Vous n’avez pas toujours fait
 ce qui est juste. Le chemin vers la sagesse n’est pas semé de défis
 éhontés et inutiles envers l’autorité. Et pourtant, aujourd’hui, vous
 avez prouvé être les derniers de notre maison à avoir survécu à mes
 erreurs. Parce que c’était la bonne chose à faire, vous avez défié la
 menace d’expulsion et avez risqué vos vies face à un troll des
 montagnes. Pour votre courage stupéfiant, qui fait honneur à votre
-maison, je vous décerne à chacun deux cent points pour Gryffondor.« Encore cet air surpris sur leurs visages, encore la douleur, comme un
+maison, je vous décerne à chacun deux cent points pour Gryffondor. »
+
+Encore cet air surpris sur leurs visages, encore la douleur, comme un
 lame à travers son cœur.
 
-Elle se retourna pour faire face aux autres élèves. »Je ne décernerai aucun point à Serdaigle,« dit-elle. »Je devine que M.
+Elle se retourna pour faire face aux autres élèves.
+
+« Je ne décernerai aucun point à Serdaigle, » dit-elle. « Je devine que M.
 Potter n’en voudrait pas. Si j’ai tort, qu’il me corrige et prenne
 autant de points qu’il le souhaitera. Mais pour ce que ça vaut, M.
-Potter, je suis,« elle hésita, »je suis désolée…« ------------------------------------------------------------------------ »*Arrêtez !*« hurla Harry, puis, encore : »Arrêtez.« Le mot râpait sa
-gorge. »Vous n’avez pas à faire ça, professeur.« Quelque chose en lui se
+Potter, je suis, » elle hésita, « je suis désolée… »
+
+
+
+------------------------------------------------------------------------
+
+
+
+« *Arrêtez !* » hurla Harry, puis, encore : « Arrêtez. » Le mot râpait sa
+gorge. « Vous n’avez pas à faire ça, professeur. » Quelque chose en lui se
 tordait, menaçait de s’ouvrir grand, comme des mains immenses qui
-l’auraient saisit pour l’ouvrir en deux. »Et, et vous ne devriez pas
+l’auraient saisit pour l’ouvrir en deux. « Et, et vous ne devriez pas
 oublier Susan Bones et Ron Weasley… eux aussi ont aidé, ils devraient
-aussi recevoir des points…« »Mlle Bones et le jeune Weasley ?« dit le professeur McGonagall. »Rubeus
-ne m’a rien dit de cela… qu’ont-ils fait ?« »Mlle Bones a essayé d’étourdir M. Hagrid quand il a essayé de
+aussi recevoir des points… »
+
+« Mlle Bones et le jeune Weasley ? » dit le professeur McGonagall. « Rubeus
+ne m’a rien dit de cela… qu’ont-ils fait ? »
+
+« Mlle Bones a essayé d’étourdir M. Hagrid quand il a essayé de
 m’arrêter, et M. Weasley a tiré sur Neville quand Neville a essayé de
-m’arrêter. Ils devraient aussi avoir des points et, et Neville aussi,« Harry n’avait pas pensé à y songer, à la façon dont Neville devait
-maintenant se sentir, mais à l’instant où il y pensa, il sut, »parce que
+m’arrêter. Ils devraient aussi avoir des points et, et Neville aussi, »
+Harry n’avait pas pensé à y songer, à la façon dont Neville devait
+maintenant se sentir, mais à l’instant où il y pensa, il sut, « parce que
 Neville a essayé de faire quelque chose, même si ce n’était pas juste,
 faire ce qui est juste est la *deuxième* leçon, on peut commencer à la
-pratiquer après avoir appris à faire quelque chose, tout court…« »Dix points pour Poufsouffle, Mlle Bones,« dit le professeur McGonagall
-d’une voix qui se brisa à mi-phrase. »Dix points à Gryffondor, Ron
+pratiquer après avoir appris à faire quelque chose, tout court… »
+
+« Dix points pour Poufsouffle, Mlle Bones, » dit le professeur McGonagall
+d’une voix qui se brisa à mi-phrase. « Dix points à Gryffondor, Ron
 Weasley, votre famille a de quoi être extrêmement fière, aujourd’hui. Et
 dix points à Poufsouffle pour Neville Londubat, pour avoir fait face à
-M. Potter et avoir fait ce qu’il pensait être juste…« »*Vous ne devriez pas !*« hurla une jeune voix à la table Poufsouffle,
+M. Potter et avoir fait ce qu’il pensait être juste… »
+
+« *Vous ne devriez pas !* » hurla une jeune voix à la table Poufsouffle,
 suivie d’un unique hoquet.
 
 Harry regarda dans cette direction et revint rapidement au professeur
-McGonagall avant de dire d’une voix aussi assurée que possible : »En
+McGonagall avant de dire d’une voix aussi assurée que possible : « En
 fait Neville a raison, on ne peut pas décerner littéralement zéro points
 pour avoir agi correctement tout en envoyant le mauvais message, mais il
-était à mi-chemin alors il devrait plutôt avoir cinq points.« Le professeur McGonagall eut l’air, l’espace d’un instant, de ne pas
+était à mi-chemin alors il devrait plutôt avoir cinq points. »
+
+Le professeur McGonagall eut l’air, l’espace d’un instant, de ne pas
 savoir quoi dire ; puis ses yeux se dirigèrent vers Neville et elle
-dit : »Comme vous le souhaitez, M. Potter. Qu’y a-t-il, Mlle Bones ?« Harry regarda et vit que Susan Bones s’était avancé, qu’elle s’essuyait
-les yeux, et la Poufsouffle dit : »En fait — professeur McGonagall — le
+dit : « Comme vous le souhaitez, M. Potter. Qu’y a-t-il, Mlle Bones ? »
+
+Harry regarda et vit que Susan Bones s’était avancé, qu’elle s’essuyait
+les yeux, et la Poufsouffle dit : « En fait — professeur McGonagall — le
 général Potter ne l’a pas vu — mais le capitaine Weasley et moi n’avons
 pas été les seuls à tenter de nous interposer face à M. Hagrid après que
 Harry soit sorti. Avant que certains des élèves plus âgés ne nous
 arrêtent. Mais nous sommes parvenus à ralentir M. Hagrid pendant une
-minute pour que le général Potter puisse partir.« »Vous devez leur donner des points à eux aussi,« dit Ron Weasley depuis
-la table Gryffondor. »Ou je n’en accepterai aucun.« »Qui d’autre ?« dit le professeur McGonagall d’une voix peu stable.
+minute pour que le général Potter puisse partir. »
+
+« Vous devez leur donner des points à eux aussi, » dit Ron Weasley depuis
+la table Gryffondor. « Ou je n’en accepterai aucun. »
+
+« Qui d’autre ? » dit le professeur McGonagall d’une voix peu stable.
 
 Sept autre enfants se levèrent.
 
@@ -386,10 +419,14 @@ force pour se retenir.
 Lorsque tout fut dit, lorsque tout fut fait, Minerva alla rejoindre
 Harry Potter. Bien que ce ne fut pas un domaine où elle excellait, elle
 lança une barrière afin de brouiller la vue, puis d’une autre pensée
-elle étouffa les sons. »Vous, vous n’aviez pas à…« dit Harry Potter. »Vous n’auriez pas dû
-dire…« Il avait l’air de s’étrangler. »P-Professeur, tout ce que je vous
-ait dit, je cherchais à faire mal, à calmer ma haine, j’avais tort…« »Je le savais déjà, Harry Potter,« dit-elle. »Mais je souhaitais quand
-même m’améliorer.« Il y avait une sensation de légèreté dans sa
+elle étouffa les sons.
+
+« Vous, vous n’aviez pas à… » dit Harry Potter. « Vous n’auriez pas dû
+dire… » Il avait l’air de s’étrangler. « P-Professeur, tout ce que je vous
+ait dit, je cherchais à faire mal, à calmer ma haine, j’avais tort… »
+
+« Je le savais déjà, Harry Potter, » dit-elle. « Mais je souhaitais quand
+même m’améliorer. » Il y avait une sensation de légèreté dans sa
 poitrine, très similaire à ce qu’on pouvait ressentir en sautant d’une
 falaise, quand les jambes n’avaient plus à soutenir le corps. Elle
 n’étais pas certaine de pouvoir faire ça, elle ne savait pas comment le
@@ -404,7 +441,9 @@ Elle s’agenouilla et le prit dans ses bras. Peut-être que ça se
 passerait mal, mais peut-être que ça se passerait bien, et elle n’allait
 pas laisser cette incertitude l’arrêter ; il était temps qu’elle
 commence à apprendre le courage d’un Gryffondor afin qu’elle puisse
-ensuite l’enseigner. »Avant, j’avais une sœur,« chuchota-t-elle. Juste cela, rien de plus.
+ensuite l’enseigner.
+
+« Avant, j’avais une sœur, » chuchota-t-elle. Juste cela, rien de plus.
 
 
 

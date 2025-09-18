@@ -314,12 +314,12 @@ Quelques étudiants rirent, mais pas beaucoup.
 vous poser la question, je ne serais pas le moins du monde surpris s’il
 y avait un étudiant ou deux dans mes cours qui entretenaient l’ambition
 de devenir le prochain Seigneur des Ténèbres. Après tout, *je* voulais
-être le prochain Seigneur des Ténèbres quand *j« *étais un jeune
+être le prochain Seigneur des Ténèbres quand *j’*étais un jeune
 Serpentard. »
 
 Cette fois le rire fut bien plus général.
 
-« C »*est* la Maison des ambitions, après tout, » dit le professeur
+« C’*est* la Maison des ambitions, après tout, » dit le professeur
 Quirrell en souriant. « Je ne me suis rendu compte que plus tard que ce
 que j’aimais vraiment, c’était la Magie de Combat, et que ma véritable
 ambition était de devenir un grand sorcier combattant et d’enseigner un
@@ -736,7 +736,7 @@ parvenu à faire sonner ça comme une insulte, Potter ? Vous ne pouvez
 vous attendre qu’à une seule réponse de la part de M. Derrick.« Derrick s’avança délibérément et bouscula Harry.
 
 Harry recula de quelques pieds, et, avant de pouvoir s’en empêcher, se
-raidit comme de la glace. »Faux,« dit le professeur Quirrell, »faux, faux, faux.« »Tu m’as bousculé, Potter,« dit Derrick. »Excuse-toi.« »Je suis désolé !« »Tu n’as pas l« *air* désolé,« dit Derrick.
+raidit comme de la glace. »Faux,« dit le professeur Quirrell, »faux, faux, faux.« »Tu m’as bousculé, Potter,« dit Derrick. »Excuse-toi.« »Je suis désolé !« »Tu n’as pas l’*air* désolé,« dit Derrick.
 
 Les yeux de Harry s’écarquillèrent sous le coup de l’indignation, il
 *était* parvenu à avoir l’air de plaider -
@@ -877,7 +877,7 @@ Cela prit un bon moment. »Surpris, M. Potter ?« dit le professeur Quirre
 comme dans vos pires cauchemars. Oui, si vous aviez été un pauvre petit
 garçon anonyme victime d’abus, alors ils vous auraient probablement
 respecté encore moins après ça, ils auraient eu pitié de vous tout en
-vous réconfortant depuis leur hautains perchoirs. C »*est* la nature
+vous réconfortant depuis leur hautains perchoirs. C’*est* la nature
 humaine, j’en ai peur. Mais *vous*, ils voyaient déjà en vous une figure
 de pouvoir. Et ils vous ont vu faire face à votre peur, et continuer à
 lui faire face, même si vous auriez pu partir n’importe quand. Avez-vous

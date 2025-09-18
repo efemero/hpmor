@@ -549,7 +549,7 @@ leurs *vies* entières à attendre qu’une opportunité assez bonne se
 présente et ensuite mouraient. Père avait dit que, même si se saisir
 d’opportunités impliquait que plein de choses tourneraient mal, ça
 n’était pas aussi grave que d’être un raté sans espoir. Père avait dit
-qu« *une fois* qu’elle aurait pris l’habitude de se saisir des
+qu’*une fois* qu’elle aurait pris l’habitude de se saisir des
 opportunités qui se présentaient à elle, *alors* il serait temps d’être
 exigeant.
 

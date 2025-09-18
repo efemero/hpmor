@@ -624,7 +624,7 @@ pourriez l’avoir défié à une partie de Bataille Explosive, mais non,
 vous deviez utiliser le Retourneur de Temps de façon inutile et
 flagrante ! »
 
-« C’est tout ce que j’ai pu trouver ! Je ne sais même pas ce qu« *est* la
+« C’est tout ce que j’ai pu trouver ! Je ne sais même pas ce qu’*est* la
 Bataille Explosive, ils n’auraient pas accepté une partie d’échecs, et
 si j’avais choisi le bras de fer, j’aurais perdu ! »
 
@@ -747,7 +747,7 @@ vous parlerai franchement. Vous, et vous seul, avez fait état de cette
 mystérieuse sensation funeste. Vous, et vous seul, êtes un aimant à
 chaos tel que je n’en ai jamais vu. Après notre petite excursion au
 Chemin de Traverse, *puis* le Choixpeau Magique, puis le petit épisode
-d »*aujourd’hui*, je puis prédire que je suis condamnée à m’asseoir dans
+d’*aujourd’hui*, je puis prédire que je suis condamnée à m’asseoir dans
 le bureau du directeur et à entendre une histoire hilarante au sujet du
 professeur Quirrell dans laquelle vous et vous seul tiendrez un premier
 rôle, après quoi je n’aurai d’autre choix que de le licencier. J’y suis
@@ -1309,7 +1309,7 @@ son attention* sans déjà avoir de bonnes raisons de le soupçonner.
 Lorsqu’il y a beaucoup de possibilités, le plus gros du travail consiste
 à *localiser* la bonne réponse — à commencer à y faire attention. Vous
 n’avez pas besoin de *preuves* comme celles requises par la science ou
-par les tribunaux, mais il vous faut une sorte d« *indice*, et cet indice
+par les tribunaux, mais il vous faut une sorte d’*indice*, et cet indice
 doit établir une distinction entre une possibilité en particulier et les
 millions d’autres. Sans cela, vous ne pouvez pas juste sortir la bonne
 réponse de nulle part. Vous ne pouvez même pas sortir une possibilité

@@ -366,14 +366,14 @@ En dépit de l’adrénaline, les mains de Li restèrent stables lorsqu’il
 débloqua les barreaux de l’armoire à disparaître qui reliait Azkaban à
 une pièce bien gardée située à l’intérieur du département de la justice
 magique (une armoire à disparaître à sens unique, bien sûr. La sécurité
-autorisait quelques moyens rapides d« *entrer* à Azkaban, tous hautement
+autorisait quelques moyens rapides d’*entrer* à Azkaban, tous hautement
 restreints, mais *aucun* moyen d’en sortir rapidement).
 
 Li fit un bon pas en arrière, dirigea sa baguette vers l’armoire et
-prononça l’incantation : “*Harmonia Nectere Passus*”, et même pas une
+prononça l’incantation : « *Harmonia Nectere Passus*, » et même pas une
 seconde plus tard -
 
-La porte de l’armoire s’ouvrit grand, accompagnée d’un »boum« , et une
+La porte de l’armoire s’ouvrit grand, accompagnée d’un « boum, » et une
 sorcière costaude à la mâchoire carrée entra dans la pièce. Elle avait
 des cheveux gris qui formaient un cadre serré autour de sa tête. Elle ne
 portait ni insigne ni bijoux ni aucun ornement, seules les robes
@@ -420,7 +420,7 @@ Un bref soubresaut de peur fut contré par la pensée que le professeur
 Quirrell l’avait assommée pour l’empêcher d’entendre le misérable
 serviteur du Seigneur des Ténèbres soudain devenir un criminel endurci
 puis un mage de combat expert. C’était mieux ainsi, car elle n’avait
-donc pas non plus entendu la voix de Harry dire »Expecto Patronum« .
+donc pas non plus entendu la voix de Harry dire « Expecto Patronum ».
 
 Harry enleva la capuche de la Cape, pointa sa baguette vers Bellatrix et
 murmura aussi gentiment qu’il le pouvait : « *Innerver* ».
@@ -564,8 +564,9 @@ Quelqu’un allait *brûler* pour ça.
 Le Détraqueur flottait toujours de l’autre côté de la fenêtre et
 projetait son inutile ombre de malheur sur leur travail en cours ; tout
 ce que la créature pouvait faire était de régurgiter son ignorance ou de
-ne pas répondre du tout lorsqu’on lui demandait des choses comme : »Bellatrix Black s’est-elle échappée ?« et »Pourquoi ne pouvez-vous pas
-la trouver ?« et »Comment est-elle cachée ?« Amélia commençait à
+ne pas répondre du tout lorsqu’on lui demandait des choses comme :
+« Bellatrix Black s’est-elle échappée ? » et « Pourquoi ne pouvez-vous pas
+la trouver ? » et « Comment est-elle cachée ? » Amélia commençait à
 s’inquiéter de la possibilité que les criminels soient déjà partis quand
 -
 
@@ -710,8 +711,8 @@ En pilote automatique, la voix de Harry siffla : « Nous ne retournons pas
 à ta cellule ». Aucun de ses sentiments ne fut autorisé à atteindre son
 visage.
 
-*Euh…* dit Poufsouffle. *Est-ce que tu viens vraiment de penser : »Tu
-devrais travailler pour moi, parce que* moi*, je saurais t’apprécier« ?*
+*Euh…* dit Poufsouffle. *Est-ce que tu viens vraiment de penser : « Tu
+devrais travailler pour moi, parce que* moi*, je saurais t’apprécier » ?*
 
 *Une pierre répondrait à une loyauté pareille*, pensa Harry. *Même ce
 n’est que par erreur que j’en suis le récipiendaire, je ne peux pas

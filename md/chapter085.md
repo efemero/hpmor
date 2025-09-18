@@ -18,7 +18,7 @@ longtemps pour récolter quelques signatures qui pourraient par la suite
 n’avaient pas été entraînées à penser selon la méthode scientifique
 Moldue du *prouves-le ou tais-toi*, aussi appelée *prends un risque et
 fais une prédiction ou arrêtes de prétendre que tu crois à ta théorie*.
-La plupart d’entre eux n’avaient rien trouvé d« *incongru* à l’idée
+La plupart d’entre eux n’avaient rien trouvé d’*incongru* à l’idée
 d’être trop nerveux pour signer un contrat disant que Hermione se
 réservait le droit de les faire payer jusqu’à la fin de leurs vies s’ils
 avaient eu tort tout en affichant ouvertement leur confiance en sa
@@ -273,7 +273,8 @@ l’espace de simultanéité terrestre.
 Au-dessus et sur le côté, Polaris, l’étoile du nord ; la première que
 Harry avait apprise à identifier en suivant la frontière de la Grande
 Ourse. C’était en fait un système à cinq étoiles avec une supergéante
-centrale située à 434 années-lumières de la terre. C’était la première »étoile« que Harry avait apprise de son père, il y a si longtemps qu’il
+centrale située à 434 années-lumières de la terre. C’était la première
+« étoile » que Harry avait apprise de son père, il y a si longtemps qu’il
 ne pouvait se souvenir de l’âge qu’il avait alors eu.
 
 Le pâle brouillard était la voie lactée, tant de milliards de lointaines
@@ -351,7 +352,7 @@ rendait compte de ce que l’on avait sous les yeux. Même si la première
 idée de Harry avait été fausse, d’une façon ou d’une autre il était
 toujours inconcevable que les lois *fondamentales* de l’univers
 contiennent un cas particulier pour des lèvres humaines formant la
-phrase »Wingardium Leviosa« . Et pourtant même cette maîtrise tâtonnante
+phrase « Wingardium Leviosa ». Et pourtant même cette maîtrise tâtonnante
 de la magie suffisait à faire des choses qu’un professeur de physique
 moldu aurait déclaré être *pour toujours impossibles* : le Retourneur de
 Temps, de l’eau invoquée à partir de rien par *Aguamenti*. Quelles
@@ -567,7 +568,7 @@ s’éloignait.
 Le phénix croassa à nouveau, un son désespéré, plaintif. Il ne fut pas
 compris comme un mot, cette fois, mais comme une émotion, un écho de
 tout ce que Harry avait ressentit au sujet d’Azkaban, de chaque
-tentation d »*agir*, de juste *faire* quelque chose, du besoin désespéré
+tentation d’*agir*, de juste *faire* quelque chose, du besoin désespéré
 de faire quelque chose *maintenant*, de ne plus repousser, tout cela
 dans le cri d’un oiseau.
 

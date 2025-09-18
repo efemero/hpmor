@@ -224,7 +224,7 @@ Il ne se dressa pas.
 
 « Il y a… *il y a un rituel dont le directeur m’a parlé, par le moyen
 duquel il pensse que le Sseigneur des Ténèbres pourrait avoir continué
-de vivre. Il ss’appelle… »* et Harry se tut lorsqu’il se rendit compte
+de vivre. Il ss’appelle…* » et Harry se tut lorsqu’il se rendit compte
 qu’il connaissait le mot en Fourchelangue. *« Horcruxe. J’ai entendu dire
 qu’il nécesssite une mort. Mais ssi vous êtes de toute façon mourant,
 vous pourriez esssayer d’adapter le rituel, même ssi le nouveau
@@ -498,7 +498,7 @@ Cela ne durerait pas.
 
 Les poings de Harry se refermèrent, de la tension irradia des muscles de
 ses bras. Si le régime thérapeutique du professeur de Défense n’avait
-pas été interrompu par Harry et les Aurors qu« *il* avait amené à
+pas été interrompu par Harry et les Aurors qu’*il* avait amené à
 Poudlard…
 
 Il était idiot de s’en vouloir. Harry le savait, et pourtant, son

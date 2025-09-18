@@ -196,7 +196,7 @@ d’Invisibilité, et il s’en recouvrit.
 
 Et alors, dans cette pièce protégée contre toute intrusion possible,
 dont le professeur Quirrell avait personnellement amélioré la sécurité,
-ce ne fut qu« *après* avoir revêtu la véritable Cape d’Invisibilité qu’il
+ce ne fut qu’*après* avoir revêtu la véritable Cape d’Invisibilité qu’il
 passa sa main sous sa chemise et opéra une rotation de la coque externe
 du Retourneur de Temps.
 

@@ -60,7 +60,7 @@ Et depuis, elle s’était demandé ce que Harry pouvait bien penser
 d’elle — s’il la détestait parce qu’il avait perdu tout son argent -
 s’il était *vraiment* amoureux d’elle et que c’était pour ça qu’il avait
 agi — s’il avait abandonné tout espoir qu’elle reste à sa hauteur parce
-qu« *elle* ne pouvait pas *effrayer les Détraqueurs*. En cet instant,
+qu’*elle* ne pouvait pas *effrayer les Détraqueurs*. En cet instant,
 elle ne pouvait pas lui faire face, elle en était incapable, elle avait
 passé des nuits d’insomnies à se demander ce qu’il pensait d’elle, et
 elle avait peur, car elle avait évité le garçon qui avait dépensé tout
@@ -157,7 +157,7 @@ toujours toute seule et prenait Harry complètement par surprise)…
 
 « J’ai pensé que ça avait l’air assez intéressant, » dit sa voix.
 
-« Numéro quatorze, »Crozier« , véritable nom : inconnu, » dit Harry .« Wow,
+« Numéro quatorze, “Crozier”, véritable nom : inconnu, » dit Harry .« Wow,
 c’est… le chapeau haut de forme à carreau le plus Gaudiesque que j’ai
 jamais vu. Fortune : au moins six cent mille Gallions… donc environ
 trente millions de livres sterling, pas assez pour rendre un Moldu
@@ -178,10 +178,10 @@ celui-ci… tu penses que c’est trop beau pour être vrai ? »
 
 « Non, bien sûr que non, » dit Harry. Il tira la chaise située à côté de
 Hermione et s’assit à son emplacement habituel, à sa droite, comme s’il
-n’en était jamais parti ; elle dut refréner un hoquet. « L’idée de »trop
-beau pour être vrai« ne constitue pas un raisonnement causal, l’univers
-ne vérifie pas si le résultat d’une équation est »trop beau« ou »trop
-mauvais« avant de le permettre. Les gens pensaient que les avions et les
+n’en était jamais parti ; elle dut refréner un hoquet. « L’idée de « trop
+beau pour être vrai » ne constitue pas un raisonnement causal, l’univers
+ne vérifie pas si le résultat d’une équation est « trop beau » ou « trop
+mauvais » avant de le permettre. Les gens pensaient que les avions et les
 vaccins contre la variole étaient trop beaux pour être vrais. Les moldus
 ont découvert comment voyager vers d’autres étoiles sans même utiliser
 la magie, et toi et moi pouvons utiliser nos baguettes pour faire des
@@ -198,7 +198,7 @@ rouge d’où gouttait un liquide écarlate. « Le problème numéro un c’es
 qu’il n’y a pas de raison logique pour laquelle le *même* appareil
 serait capable de transmuter du plomb en or *et* de produire un élixir
 qui maintient la jeunesse. Je me demande s’il y a un nom officiel pour
-ça dans la littérature ? L’effet »monte jusqu’à 11« , peut-être ? Si tout
+ça dans la littérature ? L’effet “monte jusqu’à 11”, peut-être ? Si tout
 le monde peut voir ce qu’est fleur, ce n’est pas crédible de dire que
 les fleurs sont aussi grandes que des maisons. Mais si on fait partie
 d’une secte adoratrice d’OVNIS, puisque personne ne peut voir le
@@ -292,8 +292,8 @@ difficiles… »
 toute la bibliothèque pour trouver le seul livre sur l’alchimie qui
 n’était pas dans la section interdite. Et alors… elle se souvenait de
 l’écrasante déception, de l’espoir soudain qui s’était dissipé comme un
-brouillard. « Parce que *tous* les cercles alchimiques doivent être »de
-la finesse d’un cheveu d’enfant« , ce n’est pas plus fin pour certaines
+brouillard. « Parce que *tous* les cercles alchimiques doivent être “de
+la finesse d’un cheveu d’enfant”, ce n’est pas plus fin pour certaines
 alchimies ou pour d’autres. Et les sorciers *ont* des Multiplettes, et
 je n’ai entendu parler d’aucun sortilège permettant d’utiliser des
 Multiplettes pour agrandir les choses et être plus précis. J’aurais dû
@@ -336,7 +336,7 @@ saisit le truc. « Et qu’est-ce que tu as fait pendant tout ce temps,
 Harry ? »
 
 Harry prit un air dégoûté. « Essayé de récolter des preuves sur ce
-mystère de »Qui a piégé Hermione Granger« ».
+mystère de “Qui a piégé Hermione Granger” ».
 
 « Je… » Hermione leva les yeux vers Harry. « Est-ce ça ne devrait pas
 plutôt être moi… qui essaie de résoudre mon *propre* mystère ? » Ça
@@ -510,8 +510,8 @@ anatomique correct, mais il s’arrêta et déplaça sa main vers sa tête, au
 niveau de l’oreille, »… c’est qu’il souffrent quand ils voient leurs
 *amis* souffrir. Quand la personne entre dans leur cercle de
 préoccupation, quand c’est un membre de leur tribu. Cette sensation a un
-interrupteur, un bouton on-off étiqueté »ennemi« , »étranger« , ou parfois
-juste »inconnu« . Les gens sont comme ça si on ne leur *apprend* rien
+interrupteur, un bouton on-off étiqueté « ennemi, » « étranger, » ou parfois
+juste « inconnu ». Les gens sont comme ça si on ne leur *apprend* rien
 d’autre. Donc non, le fait que Drago Malfoy a grandi en croyant que
 c’est drôle de faire souffrir ses ennemis ne veut *pas* dire qu’il est
 inhumain, ni même inhabituellement mauvais…« »Si tu crois ça,« dit-elle d’une voix instable, »si tu *peux* croire ça,
@@ -519,7 +519,7 @@ alors tu es mauvais. Les gens sont toujours responsables de leurs actes.
 Ce qu’on te *dit* de faire n’a pas d’importance ; c’est toi qui agis.
 Tout le monde sait ça…« »*Non, tout le monde ne le sait pas !* Tu as grandi dans une société
 post-Seconde Guerre mondiale, dans laquelle *tout le monde sait* que les
-méchants disent »je ne faisais qu’obéir aux ordres« . Au quinzième
+méchants disent « je ne faisais qu’obéir aux ordres ». Au quinzième
 siècle, on aurait dit que l’accusé avait agit avec un sens du devoir
 honorable.« La voix de Harry montait. »Est-ce que tu penses que tu, que
 tu es juste *génétiquement* meilleure que tous ceux qui vivaient à cette
@@ -683,8 +683,8 @@ probablement pas fortement avec qui je serai dans sept ans… je ne veux
 pas avoir l’air de *promettre* quoi que ce soit…« Sa gorge émit un ensemble de sons aigus, elle n’écoutait pas exactement
 pas de quoi il s’agissait. Tout son univers s’était restreint à la
 terrible, terrible voix de Harry. »Et puis j’ai lu des livres sur la psychologie évolutionniste et, enfin,
-il est possible que »un homme et une femme heureux avec beaucoup
-d’enfants« est peut-être plus proche de l’exception que de la règle, et
+il est possible que « un homme et une femme heureux avec beaucoup
+d’enfants » est peut-être plus proche de l’exception que de la règle, et
 dans les tribus de chasseurs-cueilleurs il s’agissait plus souvent de
 juste rester ensemble pendant deux ou trois ans pour élever l’enfant à
 ses niveaux de développement les plus vulnérables… et, enfin, étant

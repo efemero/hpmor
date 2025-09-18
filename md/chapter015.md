@@ -42,7 +42,7 @@ minuscule qui n’avait pas du tout l’air d’être un ancien champion de
 duel. « Excellent ! Prodigieux ! »
 
 Harry s’était attendu à être deuxième après Hermione, dans le pire des
-cas. Il aurait bien sûr préféré qu« *elle* soit *son* rival, mais il
+cas. Il aurait bien sûr préféré qu’*elle* soit *son* rival, mais il
 aurait accepté que la situation soit inversée.
 
 En ce lundi, Harry se destinait à être bon dernier de la classe, une
@@ -119,7 +119,7 @@ cherche *pas* à deviner. Les mauvaises réponses seront notées avec une
 sévérité extrême, les questions laissées vides seront notées avec une
 grande indulgence. Vous devez apprendre à savoir ce que vous ne savez
 pas. Si je vous pose n’importe quelle question, peu importe qu’elle soit
-basique ou évidente, et que vous répondez »Je ne suis pas sûr« , je ne
+basique ou évidente, et que vous répondez “Je ne suis pas sûr”, je ne
 vous en voudrai pas, et celui ou celle qui rira fera perdre des points à
 sa maison. Pouvez-vous me dire pourquoi cette règle existe, M. Potter ? »
 
@@ -152,7 +152,7 @@ en un verre d’eau et que vous le buviez. Que pouvez-vous imaginer qu’il
 se passera lorsque la métamorphose se dissipera ?« Il y eut une pause. »Excusez-moi, M. Potter, je n’aurais pas dû vous demander cela,
 j’oubliais que vous êtes béni d’une imagination exceptionnellement
 pessimiste -« »Pas de souci,« dit Harry, avalant bruyamment sa salive. »Donc la
-première réponse est que je ne *sais* pas,« McGonagall hocha la tête, »mais j »*imagine* qu’il pourrait y avoir… du bois dans mon estomac, et
+première réponse est que je ne *sais* pas,« McGonagall hocha la tête, »mais j’*imagine* qu’il pourrait y avoir… du bois dans mon estomac, et
 dans mon système sanguin, et si une partie de cette eau avait été
 absorbée par mes tissus corporels — serait-ce de la pulpe de bois ou du
 bois solide ou…« Le manque de maîtrise de la magie de Harry le mit en

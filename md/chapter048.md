@@ -51,7 +51,7 @@ quand même — disant que Salazar Serpentard avait envoyé une jeune et
 brave vipère *collecter des informations auprès d’autres serpents.*
 
 Si un serpent auquel un Fourchelangue avait parlé pouvait rendre
-d« *autres* serpents conscients de leur propre existence en *leur*
+d’*autres* serpents conscients de leur propre existence en *leur*
 parlant, alors…
 
 Alors…
@@ -288,9 +288,9 @@ dès le début que vous étiez une célébrité au-dessus des conventions
 sociales, l’esprit des gens ne se fatiguerait pas à prendre note de
 toutes les entorses aux règles. « C’est pourquoi quand Ron est venu *me*
 voir, quand j’étais assis à la table Serdaigle, et qu’il m’a dit de
-rester loin de toi, j’ai mis ma main au-dessus du sol et j’ai dit »Tu
+rester loin de toi, j’ai mis ma main au-dessus du sol et j’ai dit “Tu
 vois la hauteur où j’ai mis ma main ? C’est le niveau d’intelligence
-minimum pour avoir le droit de me parler.« Et alors il m’a accusé de, je
+minimum pour avoir le droit de me parler.” Et alors il m’a accusé de, je
 cite, t’aspirer dans les ténèbres, fin de citation, alors j’ai resserré
 mes lèvres et j’ai fait *shluuuuurp* et après ça sa bouche faisait
 encore ces bruits en forme de parole alors j’ai lancé un Silencio. Je ne

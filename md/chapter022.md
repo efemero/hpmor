@@ -342,7 +342,7 @@ Harry. »
 
 « Ça *va* ! »
 
-« Mais c« *est* mignon. C’est tellement un truc de garçon. »
+« Mais c’*est* mignon. C’est tellement un truc de garçon. »
 
 « *Va mourir*. »
 
@@ -397,10 +397,10 @@ vite que possible si tes idées sont fausses avant de commencer à y
 investir d’immenses efforts. Que penses-tu de cette morale ? »
 
 « Mmm… d’accord, » dit Hermione. « Mais j’espérais aussi quelque chose
-comme »les livres de Hermione ne sont pas sans valeur. Ils sont écrits
+comme “les livres de Hermione ne sont pas sans valeur. Ils sont écrits
 par de sages vieux sorciers qui en savent beaucoup plus long sur la
 magie que moi. Je devrais prêter attention à ce que disent les livres de
-Hermione.« On peut aussi avoir cette morale ? »
+Hermione.” On peut aussi avoir cette morale ? »
 
 La mâchoire de Harry semblait être bien trop crispée pour pouvoir
 laisser échapper le moindre mot, alors il hocha juste la tête.
@@ -657,7 +657,7 @@ rester assis là à le regarder en face et à dire que ce n’était pas un
 piège.
 
 Harry Potter avait répondu, toujours en le regardant en face, que si
-c’était un piège ça aurait été tellement pathétiquement évident qu »*il*
+c’était un piège ça aurait été tellement pathétiquement évident qu’*il*
 aurait dû être donné à manger à des serpents de compagnie, mais ce
 n’était *pas* un piège, c’était simplement une règle sur la façon dont
 les scientifiques opéraient, et elle disait que vous deviez essayer de
@@ -871,7 +871,7 @@ hypothèses plausibles. »
 
 Drago essayait furieusement d’ordonner à son cerveau de penser à ce
 qu’il dirait s’il faisait semblant d’être dans le camp de Dumbledore, ce
-qu« *ils* prétendaient être l’explication pour le déclin de la
+qu’*ils* prétendaient être l’explication pour le déclin de la
 sorcellerie, Drago ne s’était jamais embêté à vraiment poser cette
 question…
 
@@ -1133,7 +1133,7 @@ très bon test, ça distingue plutôt entre la perte de la sorcellerie
 puissante et la perte de toute la sorcellerie, car le sang de quelqu’un
 pourrait être trop faible pour la sorcellerie puissante mais assez fort
 pour les sorts simples… Drago, sais-tu si les sorciers les plus
-puissants d »*une* époque, par exemple les sorciers puissants de ce
+puissants d’*une* époque, par exemple les sorciers puissants de ce
 siècle, étaient plus puissants que les autres enfants ? Si le Seigneur
 des Ténèbres avait jeté le sort de Refroidissement, aurait-il pu geler
 la salle entière ? »

@@ -239,7 +239,7 @@ le coup avait eu Ron pendant qu’il se relevait.
 « Nous sommes les Chevaliers Gris du Chaos, » dit la voix de Neville.
 
 « Nous serons vos ennemis lors de cette bataille, » dit la voix de Harry,
-« pendant que l« *autre* armée du Chaos massacrera les Dragons. »
+« pendant que l’*autre* armée du Chaos massacrera les Dragons. »
 
 « Et au fait, » dit la voix de Neville, « nous sommes invincibles. »
 

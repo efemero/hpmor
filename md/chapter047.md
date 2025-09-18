@@ -22,17 +22,17 @@ de son estomac quand Grégory lui avait parlé du Baiser.
 Parfois, vous jetiez un regard en arrière, et vous voyiez des choses…
 
 (Dans une salle sans lumière — on ne pouvait plus tout à fait la
-qualifier d« *inusitée*, puisqu’elle avait été mise à profit de façon
+qualifier d’*inusitée*, puisqu’elle avait été mise à profit de façon
 hebdomadaire pendant les quelques mois précédents — un garçon était
 assis, enveloppé dans une houppelande à capuche, avec un globe de
 cristal éteint posé sur le bureau devant lui. Réfléchissant en silence,
 réfléchissant dans les ténèbres, attendant qu’une porte ouverte laisse
 entrer la lumière.)
 
-Harry avait repoussé Granger et il avait dit : »*Je t’ai dit pas de
-bisou ! « *
+Harry avait repoussé Granger et il avait dit : « *Je t’ai dit pas de
+bisou ! »*
 
-Il dirait probablement quelque chose comme : »*Elle l’a fait juste pour
+Il dirait probablement quelque chose comme : « *Elle l’a fait juste pour
 m’agacer la dernière fois, exactement comme elle m’a fait aller à ce
 rendez-vous galant.*
 
@@ -132,7 +132,7 @@ de fantômes derrière eux lorsqu’ils meurent ? »
 « Parce que les Moldus n’ont pas d’âme, évidemment, » dit Drago. Il ne se
 rendit compte que cela contredisait peut-être les opinons politiques de
 Harry qu’après avoir prononcé ces mots, et il décida qu’il s’en fichait.
-Et puis après tout, c« *était* évident.
+Et puis après tout, c »*était* évident.
 
 Le visage de Harry ne fit montre d’aucune surprise. « Avant de te poser
 ma question importante, je veux voir si tu peux apprendre le Patronus. »
@@ -221,7 +221,7 @@ pouvait faire, » dit Harry d’une voix neutre. « C’est un test
 expérimental, et je ne te dirai pas ce qu’il signifie avant que tu ne
 l’aies exécuté. Vas-tu le faire ? »
 
-… C »*était* probablement une bonne idée de se décharger de cette faveur
+… C’*était* probablement une bonne idée de se décharger de cette faveur
 en faisant quelque chose d’innocent, et ce d’autant plus que l’heure de
 rompre avec Harry Potter semblait être venue. « Très bien. »
 
@@ -565,7 +565,7 @@ triste vérité, c’est que les gens ne remarquent tout simplement pas les
 problèmes moraux tant que quelqu’un ne le pointe pas du doigt ; et une
 fois qu’ils sont aussi âgés que Salazar l’était quand il a rencontré
 Godric, ils ont perdu leur capacité à changer d’avis. Ce n’est
-qu« *alors* que Poudlard a été construite, et l’école a commencé à
+qu’*alors* que Poudlard a été construite, et l’école a commencé à
 envoyer des lettres aux Moldus, car Godric avait insisté, et de plus en
 plus de gens commencèrent à remarquer que les Moldus *n’étaient pas*
 différents. Maintenant c’est un gros problème politique au lieu d’être
@@ -785,7 +785,7 @@ Russie Stalinienne, et rien de tout cela n’aurait été vrai. Mais ici,
 les puristes du sang ne pouvaient pas se permettre de tout inventer…
 si ? La *Gazette du Sorcier* avait montré une tendance prononcée à
 inventer toutes sortes de choses… mais, une fois encore, lorsqu’elle
-s’était trop avancée au sujet des fiançailles Weasley, on l »*avait*
+s’était trop avancée au sujet des fiançailles Weasley, on l’*avait*
 pointée du doigt et elle *avait* été gênée…
 
 Harry ouvrit ses yeux et vit que Drago le regardait sans ciller, comme
@@ -964,7 +964,7 @@ Harry releva les yeux vers Drago.
 « Alors on pourrait se battre, » dit Harry, « on pourrait juste continuer
 ce combat. Tu pourrais me dire qu’il était juste que ma mère meure,
 parce qu’elle était la femme de James, qui avait tué un Mangemort. Mais
-que *ta* mère n’aurait pas dû mourir, parce qu« *elle* était innocente.
+que *ta* mère n’aurait pas dû mourir, parce qu’*elle* était innocente.
 Et je pourrais te dire qu’il était juste que ta mère meure, que
 Dumbledore devait avoir une *raison* qui rendait *acceptable* le fait
 qu’il la brûle vive dans sa chambre ; mais que *ma* mère n’aurait pas dû
@@ -977,7 +977,7 @@ l’ennemie des Mangemorts et qu’il est juste de tuer ses ennemis, alors
 la même règle dit que Dumbledore avait raison de tuer Narcissa
 puisqu’elle était *son* ennemi. » La voix de Harry redevint rauque.
 « Alors si nous devons être d’accord sur quelque chose, ça va être que la
-mort d »*aucun* de nos parents n’était juste et que qu« *aucune* mère ne
+mort d’*aucun* de nos parents n’était juste et que qu’*aucune* mère ne
 devrait plus avoir à mourir. »
 
 
@@ -1020,7 +1020,7 @@ Mère ? »
 « Alors on *doit* être ennemis ? » La voix de Harry devenait aussi
 incontrôlée que celle de Drago. « Que *nous* sommes-nous fait *l’un à
 l’autre* qui justifie le fait que nous devions être ennemis ? Je refuse
-d’être pris au piège comme ça ! »Justice« ne peut pas signifier que nous
+d’être pris au piège comme ça ! “Justice” ne peut pas signifier que nous
 devrions *tous les deux* attaquer *l’autre*, ça n’a aucun sens ! » Harry
 s’interrompit, prit une profonde inspiration, fit courir ses doigts le
 long de sa tignasse étudiée — les doigts émergèrent drapés de sueur,

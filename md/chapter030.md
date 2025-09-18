@@ -498,7 +498,7 @@ n’avait jamais parlé de ça avec *personne* ni donné le moindre signe ;
 et les *autres* n’étaient pas comme ça, pas qu’il ait pu l’observer en
 tout cas.
 
-Et la promesse de Harry s’était réalisée, c« *était* différent d’un
+Et la promesse de Harry s’était réalisée, c’*était* différent d’un
 entraînement en cours de Défense. Neville avait espéré que
 l’entraînement résolve tout ce qui n’allait pas chez lui, et, eh bien,
 ça n’avait rien résolu. Même s’il pouvait jeter quelques sorts sur un

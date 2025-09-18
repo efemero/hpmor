@@ -35,10 +35,10 @@ Il essaya de deviner. « Maman, tu sais que je ne vais pas devenir comme
 ta sœur juste parce que j’apprends la magie ? Je ferai toute la magie
 que tu voudras — enfin, si j’en suis capable — et si tu veux que je
 n’utilise *aucune* magie dans la maison, je le ferais aussi, je te
-promets que je ne laisserai jamais la magie nous séparer. »
+promets que je ne laisserai jamais la magie nous séparer.
 
-Un câlin écrasant lui coupa le souffle. « Tu as bon cœur, » lui murmura sa
-mère à l’oreille. « Très bon cœur, mon fils. »
+Un câlin écrasant lui coupa le souffle. “Tu as bon cœur,” lui murmura sa
+mère à l’oreille. “Très bon cœur, mon fils.”
 
 Et alors, Harry s’étrangla un peu lui aussi.
 
@@ -50,14 +50,14 @@ la gare de King’s Cross. En vérité, papa avait déjà du mal à simplement r
  La magie flottait dans les arbres généalogiques,
  et Michael Verres-Evans était incapable d’atteindre ne serait-ce que la première branche.
 
-Au lieu de ça, son père s’éclaircit la gorge. « Bonne chance à l’école,
-Harry, » dit-il. « Penses-tu que j’ai acheté assez de livres ? »
+Au lieu de ça, son père s’éclaircit la gorge. “Bonne chance à l’école,
+Harry,” dit-il. “Penses-tu que j’ai acheté assez de livres ?”
 
 Harry avait expliqué à son père qu’il pensait que c’était sa chance de
 faire quelque chose de vraiment révolutionnaire et important, et le
 Professeur Verres-Evans avait hoché la tête et avait annulé son emploi
-du temps très chargé pour deux jours pleins afin d’organiser le « Plus
-Grand Raid de Librairies d’Occasion Jamais Fait, » qui avait couvert
+du temps très chargé pour deux jours pleins afin d’organiser le “Plus
+Grand Raid de Librairies d’Occasion Jamais Fait”, qui avait couvert
 quatre villes et produit *trente* boites de livres scientifiques
 attendant à présent à l’étage caverne de la malle de Harry. La plupart
 des livres s’étaient vendus pour une livre ou deux, mais certains
@@ -69,17 +69,17 @@ mille livres. Harry avait dit à son père qu’il le rembourserait dès
 qu’il aurait appris à convertir l’or des sorciers en argent moldu, et
 son père lui avait dit d’aller se jeter dans un lac.
 
-Puis son père lui avait demandé : « Penses-tu que j’ai acheté assez de
-livres » La réponse que Papa attendait était très claire.
+Puis son père lui avait demandé : “Penses-tu que j’ai acheté assez de
+livres” La réponse que Papa attendait était très claire.
 
-Bizarrement, la gorge de Harry était enrouée. « On ne peut jamais avoir
-assez de livres, » dit-il, récitant la devise de la famille Verres, et
-son père s’agenouilla et lui donna un câlin bref et résolu. « Mais tu as
-*certainement* essayé, » dit Harry, et il se sentit s’étrangler à
-nouveau. « C’était un très, très, *très* bon essai. »
+Bizarrement, la gorge de Harry était enrouée. “On ne peut jamais avoir
+assez de livres,” dit-il, récitant la devise de la famille Verres, et
+son père s’agenouilla et lui donna un câlin bref et résolu. “Mais tu as
+*certainement* essayé,” dit Harry, et il se sentit s’étrangler à
+nouveau. “C’était un très, très, *très* bon essai.”
 
-Son père se redressa. « Alors… » dit-il. « Vois — *tu* un quai neuf
-trois-quarts ? »
+Son père se redressa. “Alors…” dit-il. “Vois — *tu* un quai neuf
+trois-quarts ?”
 
 La gare de King’s Cross était énorme et bondée, les murs et le sol
 couverts d’ordinaires carreaux couleur terre, pleine de gens ordinaires
@@ -113,13 +113,11 @@ temps supplémentaire que vous vous octroyiez déterminait si vous étiez
 consciencieux, ce qui était le second facteur le plus important de la
 réussite scolaire.)
 
-« Je trouverai un moyen, » dit Harry à ses parents, qui attendaient.
-« C’est probablement une espèce de test. »
+“Je trouverai un moyen,” dit Harry à ses parents, qui attendaient.
+“C’est probablement une espèce de test.”
 
-Le père de Harry grimaça. « Hmm… essaie peut-être de chercher des traces
-de pas au sol menant à un endroit absurde… »
-
-« *Papa !*, » dit Harry. « Arrête ça ! Je n’ai même pas encore *essayé* de
+Le père de Harry grimaça. “Hmm… essaie peut-être de chercher des traces
+de pas au sol menant à un endroit absurde…” »*Papa !*, » dit Harry. « Arrête ça ! Je n’ai même pas encore *essayé* de
 trouver la solution tout seul ! » En plus, c’était une très bonne
 suggestion, ce qui était pire.
 
@@ -486,7 +484,7 @@ simplement parti ? »
 « Euh… sa mère m’a aidé à comprendre comment aller sur ce quai depuis la
 gare de King’s Cross, donc c’était un peu difficile de lui dire d’aller
 se faire voir. Et puis ce n’est pas que je le *déteste*, » dit Harry,
-« c’est juste que je, que je… » Harry chercha ses mots. « … ne vois aucune raison justifiant son existence ? » proposa Drago.
+« c’est juste que je, que je… » Harry chercha ses mots. »… ne vois aucune raison justifiant son existence ? » proposa Drago.
 
 « À peu près. »
 

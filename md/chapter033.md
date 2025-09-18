@@ -193,7 +193,7 @@ encore plus irritée.
 « Je n’arrive pas à croire que tu aies fait ça, Harry ! » dit Granger.
 
 « Désolé, » dit Harry, l’air pas désolé du tout, ses lèvres recourbées en
-un joyeux sourire maléfique. « Souviens-toi Hermione, c« *est* juste un
+un joyeux sourire maléfique. « Souviens-toi Hermione, c’*est* juste un
 jeu, et pourquoi les généraux comme nous devraient-ils être les seuls à
 avoir le droit de comploter ? Et puis, qu’est-ce que vous allez y faire,
 tous les deux ? Vous allier contre moi ? »
@@ -239,7 +239,7 @@ Malfoy ou le ressentiment qu’il avait développé contre Harry Potter.
 Elle s’était d’abord inquiétée que Zabini la trahisse, mais le garçon
 semblait désespérément vouloir montrer que les deux autres généraux
 n’étaient pas meilleurs que lui ; et Hermione pensait que même si Zabini
-serait probablement heureux de la vendre à n’importe qui d »*autre*, il
+serait probablement heureux de la vendre à n’importe qui d’*autre*, il
 ne laisserait jamais Malfoy ou Harry gagner.
 
 « La plupart de vos soldats vous *sont* toujours loyaux, j’en suis assez
@@ -428,7 +428,7 @@ d’expérience pour savoir qu’il valait mieux ne rien dire.
 
 « Général Potter, » dit Drago avait autant de dignité qu’il en était
 capable, « vous savez que nos deux armées doivent travailler ensemble
-pour qu« *un* d’entre nous ait une chance de remporter le vœu du
+pour qu’*un* d’entre nous ait une chance de remporter le vœu du
 professeur Quirrell ? »
 
 « Sc’est scela, » siffla Harry, comme si le garçon avait cru être un
@@ -538,10 +538,11 @@ alors l’autre Pansy penserait exactement de même. Deux copies identiques
 ne feraient pas des choix différents. Pansy devait donc choisir entre un
 monde où toutes les Pansies coopéraient et un monde où toutes les
 Pansies trahissaient, et elle serait mieux lotie si les deux copies
-coopéraient. Et si Harry avait pensé que les gens »rationnels« *trahissaient* au dilemme du prisonnier, il n’aurait alors rien fait
-pour répandre ce genre de »rationalité« , parce qu’un pays ou une
-conspiration pleins de gens »rationnels« se seraient dissolus dans le
-chaos. Vous parleriez de la »rationalité« à vos *ennemis*.
+coopéraient. Et si Harry avait pensé que les gens « rationnels »
+*trahissaient* au dilemme du prisonnier, il n’aurait alors rien fait
+pour répandre ce genre de « rationalité, » parce qu’un pays ou une
+conspiration pleins de gens « rationnels » se seraient dissolus dans le
+chaos. Vous parleriez de la « rationalité » à vos *ennemis*.
 
 Sur le moment, tout cela avait *semblé* raisonnable à Drago, mais
 *maintenant* la pensée lui venait que…
@@ -575,7 +576,7 @@ que tu peux prédire que je le déciderai ? »
 
 … et Drago ne pouvait pas s’empêcher de penser que, vu qu’il avait
 besoin de faire un effort pour comprendre *la moitié* de ce que Harry
-venait de dire, la réponse était évidemment »Non« .
+venait de dire, la réponse était évidemment « Non ».
 
 « Oui, » dit Drago.
 
@@ -850,7 +851,7 @@ les armées arriveront. Battez-vous, d’accord ? S’il vous plaît ? »
 Daphné riait si bruyamment et avec tant de force que ses exhalaisons
 sous-marines l’avaient mise tête en bas.
 
-« Je ne suis pas certain de ce qu »*est* Londubat, » dit Ron d’un air
+« Je ne suis pas certain de ce qu’*est* Londubat, » dit Ron d’un air
 sombre, « mais je ne pense pas qu’il soit toujours un Poufsouffle. Pas
 maintenant que *Harry Potter* a fait main basse sur lui. »
 

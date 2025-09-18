@@ -692,7 +692,7 @@ Le général Soleil ne sembla pas remarquer qu’on la regardait et
 continua, le regard braqué vers l’avant.
 
 Après un moment, Hermione Granger, d’une voix un peu pensive et un peu
-triste, dit : « Hannah a dit qu« *elle* ne voulait pas qu’on s’arrête. Je
+triste, dit : « Hannah a dit qu’*elle* ne voulait pas qu’on s’arrête. Je
 ne sais pas si ce serait juste qu’on aie… moins de courage *pour* elle
 qu’elle n’en a elle-même. »
 
@@ -1133,7 +1133,7 @@ Millicent dut remarquer l’hésitation de Daphné car elle commença à
 prendre un peu d’assurance. « Eh bien, » dit Millicent d’une voix sèche,
 « ce n’est pas une pièce ! Écoute, je te dirai si je vois une bataille
 facile ou une bataille difficile. Mais c’est *tout* ce que je peux
-faire, tu comprends ? Et si je dis »difficile« , tu ne *peux pas* être
+faire, tu comprends ? Et si je dis “difficile”, tu ne *peux pas* être
 absente ! Ou — ou — » les yeux de Millicent remontèrent dans ses orbites
 et elle entonna d’une voix creuse : « *Ceux qui tentent de tromper leur
 destin connaîtrons des tristes et sombres fins — »*

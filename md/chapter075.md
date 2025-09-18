@@ -436,7 +436,7 @@ alors un peu coupable parce que Hannah *essayait* de toutes ses forces
 et qu’elle *s’était* beaucoup améliorée -
 
 « Est-ce que tu te permettrais de compter sur quelqu’un d’autre, sur
-Tracey par exemple, pour être l« *ultime* responsable du bien-être de
+Tracey par exemple, pour être l’*ultime* responsable du bien-être de
 Hannah ? Si tu savais que Hannah allait tomber dans une embuscade et que
 tu trouvais un plan pour la protéger, te sentirais-tu bien à l’idée de
 permettre à Tracey de te dire si tu as ou non le droit de le mettre à
@@ -642,7 +642,7 @@ du temps avec Harry — peut-être Godric Gryffondor avait-il eu *tort*.
 veux dire, il vit dans cette école et c’est le héros le plus légendaire
 du monde — »
 
-« C »*était* le héros le plus légendaire du monde, » dit Harry. « Maintenant
+« C’*était* le héros le plus légendaire du monde, » dit Harry. « Maintenant
 il met le feu à des poulets. Franchement, est-ce que Dumbledore t’a
 l’air fiable à *toi* ? »
 

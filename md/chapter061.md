@@ -269,7 +269,7 @@ lui aussi, pour d’autres raisons. »
 
 Le cœur de Minerva manqua quelques battements. Elle ne savait pas
 *comment* ni *pourquoi* mais une appréhension terrible était en train de
-naître en elle quant à l« *identité* de cette personne -
+naître en elle quant à l’*identité* de cette personne -
 
 « Et de *qui* s’agirait-il ? » dit Severus, visiblement perplexe.
 
@@ -296,7 +296,7 @@ c’était un regard suppliant. « Dois-je prendre ceci au sérieux ? »
 
 Minerva se contenta de hocher la tête.
 
-« Quelqu’un d »*autre* est-il au courant de l’existence de ce… sortilège
+« Quelqu’un d’*autre* est-il au courant de l’existence de ce… sortilège
 nouveau et puissant ? » demanda Severus.
 
 Le directeur regarda Minerva d’un air contrit -
@@ -503,7 +503,7 @@ madame Bones : »De quoi s’agit-il, Albus ? Je suis plutôt occupée.«�
 découvert sur cette affaire.« Il y eut un moment de silence. »Oh,« dit la voix froide de madame Bones
 à travers le feu brûlant, »et j’imagine que ce sera réciproque ?« »Cela se pourrait,« dit Albus d’une voix calme. »Si un Auror meurt à cause de tes réticences, vieux fouineur, je t’en
 tiendrai pour entièrement responsable.« »Je comprends, Amélia,« répondit-il, »mais je ne souhaite certainement
-pas être une source d’incrédulité ou de panique inutile -« »*Bellatrix Black* s’est échappée d« *Azkaban* ! Quel genre de panique ou
+pas être une source d’incrédulité ou de panique inutile -« »*Bellatrix Black* s’est échappée d’*Azkaban* ! Quel genre de panique ou
 d’incrédulité penses-tu que je vais qualifier *d’inutile* dans une
 situation pareille ?« »Je te demanderai peut-être de te souvenir de ces mots,« dit le vieux
 sorcier à travers les flammes vertes. »Car si j’apprends que mes peurs
@@ -558,7 +558,7 @@ Noël…« il haussa les épaules. »Oui, j’admets que rétrospectivement,
 c’était de la folie. Continuons.« Minerva se cogna doucement la tête plusieurs fois contre l’appuie-tête
 de sa chaise. »Cela dit, monsieur le directeur,« dit Severus. »Ce n’est pas parce que
 les Mangemorts n’ont pas utilisé d’engin Moldu pendant la première
-guerre qu »*il* ignore leur existence. Des fusées transformées en armes
+guerre qu’*il* ignore leur existence. Des fusées transformées en armes
 sont tombées sur l’Angleterre côté Moldu pendant la guerre de
 Grindelwald. Si, comme vous nous l’avez dit, il a passé les étés de ces
 années dans un orphelinat Moldu… alors il connaît lui aussi les fusées

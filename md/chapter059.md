@@ -25,7 +25,7 @@ votre élan actuel.
 Les balais avaient des vitesses maximales mais pas d’accélérations
 maximales. Cela n’avait rien à voir avec la résistance de l’air mais
 était dû au fait que les enchantements d’un balais volant étaient
-pourvus d’un niveau maximum d« *impetus* Aristotélicien.
+pourvus d’un niveau maximum d’*impetus* Aristotélicien.
 
 Même s’il était assez adroit pour obtenir les meilleures notes en cours
 de vol du balais, Harry ne l’avait encore jamais *remarqué*. Le

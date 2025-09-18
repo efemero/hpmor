@@ -309,7 +309,7 @@ autres dans le dortoir, alors que Harry Potter marchait jusqu’aux
 escaliers.
 
 Et alors qu’il commençait à monter, il dit : « Et personne ne la
-harcèlera de questions à moins qu« *elle* ne veuille en parler, j’espère
+harcèlera de questions à moins qu’*elle* ne veuille en parler, j’espère
 que tout le monde a *compris* ? »
 
 « Compris, » dirent la plupart des première année et quelques uns des
@@ -398,7 +398,7 @@ proposé que je fasse — » c’est là que Harry se rendit compte de ce qu
 disait et qu’il ferma la bouche une seconde trop tard.
 
 Hermione serra ses boucles amande, un geste qu’il ne l’avait jamais vue
-faire. « Qu’est-ce qu »*il* a dit de faire ? De la *tuer* ? »
+faire. « Qu’est-ce qu’*il* a dit de faire ? De la *tuer* ? »
 
 Le professeur de Défense avait suggéré que Harry identifie tous les
 élèves influents, tous les élèves clés dans son année et dans les autres

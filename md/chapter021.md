@@ -83,7 +83,7 @@ quand Harry perdrait leur concours de lecture, dont *toute l’école*
 de joie pure et débordante que cela lui causait.
 
 Il était 14 h 45, on était samedi, et Harry Potter avait encore la moitié
-d« *Une Histoire de la Magie* de Bathilda Tourdesac à lire et Hermione
+d’*Une Histoire de la Magie* de Bathilda Tourdesac à lire et Hermione
 regardait sa montre de poche alors qu’elle tic-taquait avec une
 épouvantable lenteur jusqu’à 14 h 47.
 
@@ -148,7 +148,7 @@ du professeur Rogue, ou me faire battre en cours de Défense, et si je te
 disais comment j’ai perdu mon temps entre 17 h et le dîner jeudi tu
 penserais que je suis fou — »
 
-« Ooooh, on dirait que *quelqu’un* est devenu la proie de l »*illusion de
+« Ooooh, on dirait que *quelqu’un* est devenu la proie de l’*illusion de
 la planification*. »
 
 Le visage de Harry révéla une profonde stupéfaction.
@@ -158,7 +158,7 @@ tu m’as prêté, » dit Hermione de son air le plus innocent. Deux avaient
 été *difficiles*. Elle se demandait combien de temps ça *lui* avait pris
 pour finir de les lire.
 
-« Un jour, » dit le Survivant, « quand les lointains descendants d« *Homo
+« Un jour, » dit le Survivant, « quand les lointains descendants d’*Homo
 sapiens* contempleront l’histoire de la galaxie et se demanderont quand
 les choses ont mal tournées, ils concluront que l’erreur originelle a
 été commise quand quelqu’un a appris à Hermione Granger à lire. »
@@ -232,7 +232,7 @@ père racontaient sur les Mangemorts.
 mortel, « que je ne te blâme pas pour ma récente défaite. »
 
 Sans réfléchir, Drago ouvrit la bouche pour protester, il n’y avait
-absolument aucune raison pour qu »*il* soit blâmé.
+absolument aucune raison pour qu’*il* soit blâmé.
 
 « C’était, plus que toute autre chose, dû à ma propre stupidité, »
 continua la sombre silhouette. « J’aurais pu faire beaucoup d’autres
@@ -244,7 +244,7 @@ ton idiot de compagnie, et la faveur que tu as demandée, et, oui, ma
 propre idiotie quant à la façon de t’accorder cette faveur, m’ont fait
 *perdre du temps*. Plus de temps que tu ne le sais. Du temps qui, à la
 fin, s’est avéré crucial. Le fait demeure, Drago Malfoy, que si tu ne
-m’avais pas demandé cette faveur, j« *aurais* gagné. Et non… pas…
+m’avais pas demandé cette faveur, j’*aurais* gagné. Et non… pas…
 *perdu*. »
 
 Drago avait déjà entendu parler de la défaite de Harry, et du gage que
@@ -290,7 +290,7 @@ d’un Mangemort mais aussi celle d’Amycus Carrow ce jour-là, juste avant
 que Père ne lui dise d’arrêter, qu’il n’était pas le Seigneur des
 Ténèbres.
 
-Bien sûr c »*était* toujours la voix non muée d’un jeune garçon, et quand
+Bien sûr c’*était* toujours la voix non muée d’un jeune garçon, et quand
 on la combinait avec les *mots qu’il avait prononcés*, eh bien, ça ne
 fonctionnait pas. Si Harry Potter *devenait* un jour le prochain
 Seigneur des Ténèbres, Drago utiliserait une Pensine pour conserver une
@@ -329,7 +329,7 @@ est-ce toujours ton souhait que d’apprendre le pouvoir humain ? »
 Drago prit une profonde inspiration. Il y avait déjà réfléchi. Et il
 avait du mal à voir comment il pourrait répondre autrement. Il avait
 reçu l’instruction de s’engager dans toute voie pouvant mener à une
-amitié avec Harry Potter. Il ne faisait qu« *apprendre*, il ne promettait
+amitié avec Harry Potter. Il ne faisait qu’*apprendre*, il ne promettait
 pas de *faire* quoi que ce soit. Il pouvait toujours arrêter les leçons
 n’importe quand…
 
@@ -395,7 +395,7 @@ chose, si tu essaies de dire que la Lune est faite de fromage tu pourras
 argumenter pendant des jours et ça ne changera pas la Lune ! Ce dont tu
 parles, c’est de *rationaliser*, comme de commencer avec une feuille de
 papier, d’aller directement à la dernière ligne, d’utiliser de l’encre
-pour écrire »et *par conséquent*, la Lune est faite de fromage« , puis de
+pour écrire « et *par conséquent*, la Lune est faite de fromage, » puis de
 remonter tout en haut pour écrire plein d’arguments ingénieux. Mais soit
 la Lune est faite de fromage, soit elle ne l’est pas. Au moment où tu as
 écrit la conclusion, c’était déjà vrai ou faux. Que la page se termine
@@ -404,7 +404,7 @@ par la bonne ou la mauvaise conclusion est déterminé à l’instant où tu
 chères, et que tu aimes celle qui brille, les arguments ingénieux que tu
 inventes pour justifier son achat n’ont aucune importance, la *vraie*
 règle que tu as utilisée pour *choisir pour quelle malle tu allais
-argumenter* était »prend celle qui brille« , et quelle que soit
+argumenter* était « prend celle qui brille, » et quelle que soit
 l’efficacité de cette règle en ce qui concerne la sélection de malles,
 c’est le genre de malle que tu auras. La rationalité *ne peut pas* être
 utilisée pour argumenter en faveur d’un camp déjà fixé, il est seulement
@@ -609,9 +609,9 @@ l’identification des nôtres trop facile ? »
 
 « Hein ? »
 
-« Je veux dire que si quelqu’un dit »OK, maintenant tout le monde relève
-ses robes au-dessus de du bras droit« et que nos gars sont là »oups,
-désolé, on dirait que je suis un espion« — »
+« Je veux dire que si quelqu’un dit « OK, maintenant tout le monde relève
+ses robes au-dessus de du bras droit » et que nos gars sont là « oups,
+désolé, on dirait que je suis un espion » — »
 
 « *Oublie ce que je viens de dire*, » dit immédiatement Drago, de la sueur
 perlant soudain sur toute la surface de son corps. Il avait besoin d’une
@@ -627,7 +627,7 @@ Père avait dit que le Seigneur des Ténèbres était *intelligent* !
 « J’ai trouvé ! » dit soudain la sombre silhouette. « Tu ne comprendras pas
 pour l’instant, mais crois moi, ça convient. »
 
-Pour le moment, Drago aurait accepté »Mangeurs Malfoy« du moment que ça
+Pour le moment, Drago aurait accepté « Mangeurs Malfoy » du moment que ça
 changeait de sujet. « C’est quoi ? »
 
 Et, debout entre les pupitres poussiéreux d’une salle abandonnée des
@@ -798,7 +798,7 @@ signe de tête. « Bonjour, George. » L’autre jumeau hocha la tête.
 
 « Tu devrais te réjouir, » dit Fred.
 
-« Regarde ce qu »*on* a pour toi ! »
+« Regarde ce qu’*on* a pour toi ! »
 
 Et de derrière le dos de Fred, George récupéra -
 
@@ -849,7 +849,7 @@ La conversation continua autour de lui.
 
 « Et déchirer *quoi* ? »
 
-« J’ai cru entendre Trelawney dire quelque chose qui commençait par un »A« juste avant que le Directeur ne l’attrape. »
+« J’ai cru entendre Trelawney dire quelque chose qui commençait par un »A’ juste avant que le Directeur ne l’attrape. »
 
 « Comme… âme ? astre ? »
 

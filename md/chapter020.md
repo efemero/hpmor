@@ -187,7 +187,7 @@ attendu.
 l’impression qu’il y *avait* bien quelque chose que vous pouviez dire
 qui me convaincrait. »
 
-« J« *ai* déjà deviné que mon côté obscur n’est en fait qu’une partie de
+« J’*ai* déjà deviné que mon côté obscur n’est en fait qu’une partie de
 moi et que la réponse n’est pas de ne jamais me mettre en colère mais,
 en l’acceptant, d’apprendre à garder le contrôle de moi-même, je ne suis
 pas stupide et j’ai déjà vu cette histoire assez de fois pour savoir où
@@ -224,7 +224,7 @@ iota de sens commun, votre secret est en sécurité à Poudlard. »
 
 Harry ouvrit la bouche, puis la referma, se sentant complètement
 impuissant. Le professeur Quirrell avait tort, mais tort d’une façon
-tellement convaincante que Harry commençait à se dire que c »*était*
+tellement convaincante que Harry commençait à se dire que c’*était*
 simplement le jugement rationnel à avoir étant donné les informations
 dont disposait le professeur. Il y avait des occasions, jamais des
 occasions *prévisibles*, mais ça arrivait quand même, où vous auriez des
@@ -257,7 +257,7 @@ produise. »
 promets que vous ne serez pas noté en fonction de ce que vous allez
 dire. Je veux seulement connaître votre réponse honnête. Pourquoi pas ? »
 
-Harry eut à nouveau ce sentiment d« *impuissance*. *Tu ne deviendras
+Harry eut à nouveau ce sentiment d’*impuissance*. *Tu ne deviendras
 point un Seigneur des Ténèbres* était un théorème tellement évident dans
 son système moral que c’était difficile de décrire les étapes concrètes
 aboutissant à cette conclusion. « Euh, des gens souffriraient ? »
@@ -283,7 +283,7 @@ les préférences de la majorité — »
 « Non, » dit le professeur Quirrell. Ses doigts frottaient l’arête de son
 nez. « Je ne pense pas que ce soit tout à fait ce que je voulais dire. M.
 Potter, en définitive, tout le monde agit selon ses désirs. Parfois les
-gens donnent des noms, comme »juste« , à ce qu’ils font, mais comment
+gens donnent des noms, comme “juste”, à ce qu’ils font, mais comment
 serait-il possible que nous soyons mûs par *autre chose* que nos
 désirs ? »
 
@@ -390,7 +390,7 @@ années ! Je ne peux pas vous imaginer gâchant votre vie en blouse
 blanche, à faire des choses inutiles à des rats ! »
 
 « Hé ! » dit Harry. « La science ne se résume pas à ça ! Non pas que ce
-soit *mal* de faire des expériences sur des rats, bien sûr. Mais c »*est*
+soit *mal* de faire des expériences sur des rats, bien sûr. Mais c’*est*
 par la science qu’on peut comprendre et contrôler l’univers. »
 
 « Pauvre idiot, » dit le professeur Quirrell d’une voix à l’intensité
@@ -419,7 +419,7 @@ qu’empirer ! » Le professeur Quirrell se tenait droit au lieu de
 s’appuyer sur son bureau. « Il y a des portes qu’on n’ouvre pas, des
 sceaux que l’on ne brise pas ! Les idiots qui ne peuvent pas s’empêcher
 de fouiner sont tués par de moindres périls bien plus tôt, et les
-survivants savent alors tous qu’il y a des secrets qu« *on ne partage
+survivants savent alors tous qu’il y a des secrets qu’*on ne partage
 pas* avec quiconque ne possédant pas l’intelligence et la discipline
 nécessaire pour les découvrir eux-mêmes ! Tout sorcier puissant sait
 ça ! Même le pire des Seigneurs des Ténèbres sait ça ! Et ces idiots de
@@ -810,7 +810,7 @@ le temps, ça n’aurait pas vraiment de sens de devenir un Seigneur des
 Ténèbres, » dit Harry.
 
 « *Précisément*, » dit le professeur Quirrell. Il souriait. « Alors je vais
-transgresser la règle numéro deux — qui était juste »ne te vante pas« -
+transgresser la règle numéro deux — qui était juste “ne te vante pas” -
 et vous parler de quelque chose que j’ai fait. Je ne vois pas comment
 votre connaissance de ce fait pourrait poser problème. Et je soupçonne
 fortement que vous l’auriez deviné de toute façon après que nous soyons
@@ -838,7 +838,7 @@ mètres de plus, »je me disais que vous pourriez réagir ainsi.« …
 
 …
 
-… »M. Potter ?« »… je ne sais pas quoi dire.« » »Vous avez gagné« me semblerait de circonstance,« dit le professeur
+… »M. Potter ?« »… je ne sais pas quoi dire.« »« Vous avez gagné » me semblerait de circonstance,« dit le professeur
 Quirrell. »Vous avez gagné,« dit immédiatement Harry. »Vous voyez ?« dit le professeur Quirrell. »Nous ne pouvons qu’imaginer
 le pétrin immense dans lequel vous vous seriez retrouvé si vous n’aviez
 pas été capable de dire ça.« Ils rirent tous les deux.

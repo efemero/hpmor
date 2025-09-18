@@ -186,7 +186,7 @@ souviens bien de qui il s’agit ? »
 Potter qui avait révélé à Voldemort l’emplacement des parents de Harry.
 
 « Eh bien il s’avère qu’il y a eu un certain nombre de, disons
-d« *irrégularités* liées à la venue de Black à Azkaban. Il n’a pas eu de
+d’*irrégularités* liées à la venue de Black à Azkaban. Il n’a pas eu de
 procès, et le sous-secrétaire d’État en poste à l’époque où les Aurors
 ont arrêté Black n’était autre que Cornelius Fudge, l’actuel ministre de
 la Magie. »
@@ -697,7 +697,7 @@ rival tout ce temps… »
 Drago ? J’ai simplement un sens de la justice instinctif. Granger aussi,
 tu sais. Elle a une très bonne maîtrise des notions de bien et de mal,
 et elle va probablement commencer par attaquer le mal. Tu sais, il faut
-vraiment le chercher pour s’appeler »Malfoy« . »
+vraiment le chercher pour s’appeler “Malfoy”. »
 
 *BON SANG !*
 
@@ -707,7 +707,7 @@ veux tu pas te battre de façon *équitable* contre moi ? »
 « Tu veux dire plutôt que de t’attaquer après que tu aies déjà perdu
 quelques une de tes troupes en vainquant Granger ? » dit Harry. « Oh, je
 ne sais pas. Peut-être qu’une fois que je me serais ennuyé de gagner
-j’essaierai la méthode »équitable« . »
+j’essaierai la méthode “équitable”. »
 
 « Peut-être qu’elle t’attaquera *toi*, » dit Drago. « *Tu* es son rival. »
 

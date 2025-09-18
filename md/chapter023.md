@@ -150,25 +150,26 @@ puissants de temps en temps, quand par chance, ils obtiendraient
 beaucoup de papiers magiques. Mais ils ne seraient pas aussi puissants
 que les sorciers les plus puissants qui les auraient précédés.« Drago hocha lentement la tête. Il avait déjà entendu cette idée
 auparavant. Il y avait une surprenante beauté à voir à quel point ça
-correspondait à l’explication de Harry. »*Mais*,« dit Harry, »ce n’est qu« *une* hypothèse. Imagine qu’au lieu de
+correspondait à l’explication de Harry. »*Mais*,« dit Harry, »ce n’est qu’*une* hypothèse. Imagine qu’au lieu de
 ça, il y ait *un seul* endroit dans la recette qui détermine si tu es un
-sorcier. *Un* seul endroit où un bout de papier peut dire »magique« ou »pas magique« . Et il y a toujours deux copies de tout. Alors il n’y a
-que trois possibilités. Les deux copies peuvent dire »magique« . Une
-copie peut dire »magique« et l’autre copie peut dire »pas magique« . Ou
-les deux copies peuvent dire »pas magique« . Sorciers, Cracmols et
+sorcier. *Un* seul endroit où un bout de papier peut dire « magique » ou
+« pas magique ». Et il y a toujours deux copies de tout. Alors il n’y a
+que trois possibilités. Les deux copies peuvent dire « magique ». Une
+copie peut dire « magique » et l’autre copie peut dire « pas magique ». Ou
+les deux copies peuvent dire « pas magique ». Sorciers, Cracmols et
 Moldus. Les nés-Moldus ne seraient pas vraiment nés de Moldus, ils
 seraient nés de deux Cracmols, deux parents ayant chacun une copie
 magique et qui auraient grandi dans le monde Moldu. Maintenant imagine
 qu’une sorcière épouse un Cracmol. Chaque enfant obtiendrait toujours de
-sa mère un bout de papier disant »magique« . Peu importe quel bout a été
-choisi au hasard puisque les deux disent »magique« . Mais comme quand on
+sa mère un bout de papier disant « magique ». Peu importe quel bout a été
+choisi au hasard puisque les deux disent « magique ». Mais comme quand on
 jette une pièce, la moitié du temps, l’enfant obtiendrait le papier
-disant »magique« de son père, et l’autre moitié du temps, l’enfant
-obtiendrait le bout de papier disant »non magique« de son père. Quand
-une sorcière épouserait un Cracmol, le résultat ne serait pas »beaucoup
-d’enfants faibles en magie« . La moitié des enfants serait des sorciers
+disant « magique » de son père, et l’autre moitié du temps, l’enfant
+obtiendrait le bout de papier disant « non magique » de son père. Quand
+une sorcière épouserait un Cracmol, le résultat ne serait pas « beaucoup
+d’enfants faibles en magie ». La moitié des enfants serait des sorciers
 et des sorcières tout aussi puissants que leur mère, et l’autre moitié
-serait des Cracmols. Parce que s’il n’y a qu »*un* endroit dans la
+serait des Cracmols. Parce que s’il n’y a qu’*un* endroit dans la
 recette qui fait de toi un sorcier, alors la magie n’est pas un verre de
 billes qui se mélangent. C’est plutôt comme une seule bille magique,
 comme une pierre de sorcier.« Harry disposa trois paires de papiers côte à côte. Sur une paire, il

@@ -150,7 +150,7 @@ directeur pense-t-il qu’il a affaire ? »
 venu à l’idée de craindre les conséquences qui se produiraient si vous
 concentriez votre ingéniosité sur l’obtention de fonds. Mais vous avez
 bien fait de perdre plutôt que de formuler une menace explicite. Par
-simple curiosité, M. Potter, qu« *auriez* vous fait si je ne m’étais pas
+simple curiosité, M. Potter, qu’*auriez* vous fait si je ne m’étais pas
 détourné sous le coup de l’ennui tandis que vous, dans un accès de
 puérilité, récupériez vos cinq Gallions une Noise à la fois ? »
 

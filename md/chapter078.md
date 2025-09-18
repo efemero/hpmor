@@ -155,7 +155,7 @@ pour les jeter sur des gens mais — »
 
 « Mauvaise idée, » dit Ernie Macmillan. Le Poufsouffle secoua la tête d’un
 air encore plus sérieux que celui d’Anthony. « Enfin c’est exactement
-comme de lancer un sortilège : ils l« *éviteront. »*
+comme de lancer un sortilège : ils l’*éviteront. »*
 
 Anthony hocha la tête. « C’est ce que je me disais aussi. Tu aurais une
 idée, Seamus ? »
@@ -235,7 +235,7 @@ gère tout ce qu’ils nous balancent, et on finit par les surmonter. »
 « Mais — » dit Anthony en jetant un regard furieux à Ron. « Mais général,
 Harry Potter n’a plus que *seize* personnes dans son armée. Dragon et
 nous en avons vingt-huit chacun. Harry le *sait*, il sait qu’il *doit*
-trouver quelque chose d »*incroyable* — »
+trouver quelque chose d’*incroyable* — »
 
 « Comme *quoi* ? » demanda Hermione d’un ton stressé. « Si on ne *sait pas*
 ce qu’ils préparent, autant économiser notre magie pour lancer des

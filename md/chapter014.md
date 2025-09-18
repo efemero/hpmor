@@ -21,7 +21,7 @@ peut-être une légère note d’appréhension.
 « M. Potter ? » dit le professeur McGonagall. « De quoi s’agit-il ? »
 
 Le cerveau de Harry était vide. Le jeu l’avait chargé de venir ici et il
-s’était attendu à ce qu« *elle* ait quelque chose en tête…
+s’était attendu à ce qu’*elle* ait quelque chose en tête…
 
 « M. Potter ? » dit le professeur McGonagall, et elle commençait à avoir
 l’air légèrement agacée.
@@ -359,7 +359,7 @@ DE CES CHOSES ? »*
 
 Le professeur McGonagall riait franchement. C’était un son heureux et
 agréable qui ne semblait pas à sa place sur ce visage dur. « Vous vivez
-un de ces »vous venez de vous transformer en chat« , n’est-ce pas, M.
+un de ces “vous venez de vous transformer en chat”, n’est-ce pas, M.
 Potter ? Vous n’avez probablement pas envie de savoir ça, mais c’est
 délicieusement attachant. »
 
@@ -369,9 +369,9 @@ l’arrière de mon esprit disant que la seule réponse possible était que
 mon univers entier était une simulation informatique, comme dans le
 livre *Simulacron 3*, mais maintenant *même cette possibilité est
 exclue* parce que ce petit jouet N’EST PAS UNE FONCTION CALCULABLE PAR
-UNE MACHINE DE TURING ! Une machine de Turing pourrait simuler »revenir
+UNE MACHINE DE TURING ! Une machine de Turing pourrait simuler “revenir
 à un moment défini du passé et calculer un futur différent à partir de
-ce point« , une machine avec oracle pourrait prendre en compte le
+ce point”, une machine avec oracle pourrait prendre en compte le
 comportement d’arrêt des machines d’ordre inférieur, mais ce que vous
 décrivez est une réalité qui, d’une façon ou d’une autre, parviendrait à
 se calculer de façon cohérente en une seule fois, en utilisant des

@@ -122,7 +122,7 @@ en dire du bien. Ou parce qu’être cynique donne l’impression de
 connaître une vérité secrète que le commun des mortels ignore… » Harry
 Potter regarda en direction de la table d’honneur et sa voix tomba
 presque jusqu’au chuchotement. « Je pense que c’est peut-être sur ça
-qu« *il* se trompe — qu’il est cynique sur tout le reste mais pas sur le
+qu’*il* se trompe — qu’il est cynique sur tout le reste mais pas sur le
 cynisme. »
 
 Sans y penser, Hermione regarda vers la table d’honneur, mais le siège
@@ -621,7 +621,7 @@ Sauf bien sûr s’il y avait *vraiment* un Seigneur des Ténèbres à
 craindre. La prophétie *existait* bel et bien.
 
 Il avait presque oublié de le faire, mais il *avait* bien montré au
-professeur Quirrell le jeu de cartes que le »Père Noël« lui avait donné
+professeur Quirrell le jeu de cartes que le « Père Noël » lui avait donné
 dimanche soir et dont le roi de cœur était prétendument un Portoloin qui
 l’emmènerait à l’Institut des Sorcières de Salem, aux États-Unis. Sauf
 que bien sûr Harry n’avait pas dit au professeur Quirrell *qui* lui

@@ -47,7 +47,7 @@ Honteux, Harry récita du mieux qu’il pouvait, et il en était presque
 arrivé à la moitié lorsqu’il se rendit compte que ce n’était pas
 intelligent d’aller tout raconter à un directeur qui était peut-être
 fou, du moins pas sans y *penser* avant, mais après tout Lucius était
-*clairement* un méchant et l’ennemi de Dumbledore donc c« *était*
+*clairement* un méchant et l’ennemi de Dumbledore donc c’*était*
 probablement une bonne idée de tout lui dire, et Harry avait déjà
 commencé à parler et maintenant il était trop tard pour essayer de faire
 des calculs…
@@ -880,7 +880,7 @@ veux-tu dire ?« »Je veux dire,« dit Harry, la voix mordante, »que Dr
 propres croyances au sérieux* et *considérait* mes mots au lieu de
 simplement les *jeter par la fenêtre* en souriant avec une aimable
 supériorité. Vous êtes si vieux et sage que vous ne pouvez même pas
-*remarquer* ce que je dis ! Pas comprendre, *remarquer* !« »Je t »*ai* écouté, Harry,« dit Dumbledore, l’air maintenant plus
+*remarquer* ce que je dis ! Pas comprendre, *remarquer* !« »Je t’*ai* écouté, Harry,« dit Dumbledore, l’air maintenant plus
 solennel, »mais écouter n’est pas toujours être d’accord. Désaccords mis
 à part, que crois-tu que je ne comprends pas ?« *Que si vous croyiez vraiment à un au-delà, vous iriez à Sainte
 Mangouste et tueriez les parents de Neville, Alice et Frank Londubat,

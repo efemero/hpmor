@@ -364,7 +364,7 @@ stupides, mais une fois que vous les auriez compris, son raisonnement se
 
 La façon dont Harry se comportait envers Drago n’avait *aucun* sens.
 
-Parce que si vous étiez l« *ami* de Harry, alors il essayait d’être votre
+Parce que si vous étiez l’*ami* de Harry, alors il essayait d’être votre
 ami de la façon étrange et incompréhensible que les Moldus lui avaient
 enseignée, même si ça voulait dire qu’il allait détruire votre vie.
 
@@ -488,7 +488,7 @@ Et ça n’allait pas arrêter la vengeance de Drago, ni même la ralentir.
 personne n’était proche. Leur voix était bien sûr brouillée, mais ça ne
 pouvait pas faire de mal d’être parfaitement certain. « J’ai réfléchi. En
 amenant de nouvelles recrues dans la Conspiration, il faudra qu’ils
-*croient* être nos égaux. Sinon, il suffirait de l »*un* d’entre eux pour
+*croient* être nos égaux. Sinon, il suffirait de l’*un* d’entre eux pour
 que le complot soit éventé auprès de Père. Tu as déjà compris ça, bien
 sûr ? »
 
@@ -512,7 +512,7 @@ ignores des faits scientifiques précis tels que l’acide
 désoxyribonucléique. *Cela* ne t’empêcherait pas d’être mon égal. Le
 problème est que tu n’as pas été entraîné aux méthodes de la
 rationalité, aux secrets *plus profonds* qui ont permis à toutes ces
-découvertes d’être faites. J« *essaierai* de te les enseigner, mais ils
+découvertes d’être faites. J’*essaierai* de te les enseigner, mais ils
 sont beaucoup plus difficiles à apprendre. Pense à ce que nous avons
 fait aujourd’hui, Drago. Oui, tu as fait une partie du travail. Mais
 c’était moi qui tenais la barre. Tu as répondu à certaines des
@@ -549,7 +549,7 @@ que tout cela avait été pour le bien de Harry, vraiment, il devrait le
 remercier -
 
 Et dans une convulsion de plaisir surpris, Drago se rendit compte que
-c »*était* vraiment pour le bien de Harry. Si Harry essayait de prendre
+c’*était* vraiment pour le bien de Harry. Si Harry essayait de prendre
 Dumbledore et Père pour des idiots, il *mourrait*.
 
 Voilà qui était *parfait*.

@@ -101,7 +101,7 @@ vampires, et tout le monde sait ce qui se passe quand un loup-garou, une
 fille et un vampire se retrouvent au même endroit ! »
 
 L’immense demi-géant fronçait les sourcils. « Argus, j’pensais toi et
-p’têt queq« septième année. Y’a pas grand sens à les ramener pour donner
+p’têt queq’ septième année. Y’a pas grand sens à les ramener pour donner
 un coup d’main si j’dois les surveiller tou’c’temps. »
 
 Une satisfaction cruelle illumina le visage d’Argus. « Sont à l’affût,
@@ -180,7 +180,7 @@ pour avoir une licorne. C’est des créature puissantes, les licornes,
 j’en avais jamais vu une s’faire faire mal avant. »
 
 Drago écouta cela et songea au puzzle presque malgré lui. « Alors
-qu »*est-ce* qui est assez rapide pour attraper une licorne ? »
+qu’*est-ce* qui est assez rapide pour attraper une licorne ? »
 
 « Ça s’rait pas une question d’vitesse, » dit Hagrid en donnant à Drago un
 regard indéchiffrable. « Les créatures, elles chassent de mille façons.
@@ -192,8 +192,8 @@ Un nuage passa devant la lune et plongea la forêt dans une ombre
 éclairée seulement par le parapluie de Hagrid.
 
 « Moi-même, » continua Hagrid, « j’pense qu’on pourrait bien avoir une
-hydre Parisienne su« les bras. É » sont pas dangereuses pour un sorcier,
-y’a qu’à les maintenir assez longtemps et c’est pas possib« de perdre.
+hydre Parisienne su’ les bras. É’ sont pas dangereuses pour un sorcier,
+y’a qu’à les maintenir assez longtemps et c’est pas possib’ de perdre.
 J’veux dire littéralement y’a pas moyen de perdre tant qu’tu t’bas.
 L’problème c’est que contre une hydre Parisienne la plupart des
 créatures, elles abandonnent longtemps avant ça. Pacque tu vois, ça
@@ -245,13 +245,13 @@ maintenant plus forte. « J’sais pas c’qui vous a tous pris d’croire que
 ça voulait dire une licorne à ailes, jamais entendu parler d’une chose
 pareille. C’est juste comme d’appeler un chien Croc, » dit-il en montrant
 son immense chien à l’apparence de loup qui atteignait à peine ses
-genoux. « Comment vous l’auriez appelé, hein ? Anna ou queq » chose comme
+genoux. « Comment vous l’auriez appelé, hein ? Anna ou queq’ chose comme
 ça ? J’lui ai donné un nom qu’aurait voulu dire queq’chose pour *elle*.
 D’la courtoisie, voilà c’que c’est. »
 
 Personne ne répondit et, après un moment, l’immense homme hocha
 brutalement le menton. « On commencera à chercher d’ici, l’dernier
-endroit où l’a frappé. On va faire deux groupes « pi suivre la piste dans
+endroit où l’a frappé. On va faire deux groupes ’pi suivre la piste dans
 des directions différentes. Vous deux, Walt et Yuliy, z’irez par là, et
 prenez Croc. Y’a rien dans la Forêt qui pourrait vous faire du mal si
 vous êtes avec lui. Envoyez des étincelles vertes si vous voyez

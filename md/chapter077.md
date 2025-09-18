@@ -895,7 +895,7 @@ pratiquer un million de milliard de fois mieux en utilisant des méthodes
 que Harry avait essayé d’expliquer et que Drago ne pouvait toujours pas
 commencer à comprendre, mis à part qu’apparemment, il n’y avait même pas
 besoin de *magie* pour que des *objets* soient capables de faire de
-l« *Arithmancie*.
+l’*Arithmancie*.
 
 Drago regarda les images des constellations et se demanda si c’était
 pareil dans les autres maisons, si les gens se menaçaient en permanence
@@ -1021,7 +1021,8 @@ mains, plus de pieds, juste un point de vue mouvant. C’était une
 sensation qui rendait nerveux ; pas tant d’être *invisible* que de ne
 *pas exister*.
 
-Harry ne lui avait posé aucune question. Il avait juste entendu le mot »invisibilité« et Harry avait alors sorti la cape de sa poche. Elle
+Harry ne lui avait posé aucune question. Il avait juste entendu le mot
+“invisibilité” et Harry avait alors sorti la cape de sa poche. Elle
 n’avait même pas eu une chance de lui expliquer ni sa réunion
 extrêmement secrète avec Daphné et Millicent Bulstrode ni qu’elle
 pensait que cela protégerait les autres filles. Harry lui avait juste

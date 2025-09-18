@@ -1259,9 +1259,11 @@ senti plus libre de dire du mal de Dumbledore que tu n’en as jamais dit
 de moi. Même en pensée, je parie, car ces instincts sont profonds. Tu
 savais qu’il pourrait t’en coûter de te moquer du puissant et vengeur
 professeur Quirrell, mais pas de manquer de respect au faible, à
-l’inoffensif Dumbledore. »Merci,« dit Harry, empli de douleur, »merci pour cette leçon
+l’inoffensif Dumbledore. »
+
+« Merci, » dit Harry, empli de douleur, « merci pour cette leçon
 importante, professeur Quirrell, je me rends compte que ce que vous
-dites sur ma façon de penser est vrai.« Même si les souvenirs de Tom
+dites sur ma façon de penser est vrai. » Même si les souvenirs de Tom
 Jedusor avaient probablement un rapport avec ses emportements soudains
 contre Dumbledore ; il n’avait pas été ainsi envers le professeur
 McGonagall… quoi qu’il faille admettre qu’elle pouvait prendre des
@@ -1279,16 +1281,22 @@ plus pensé pendant ses neuf années de réflexion, peut-être valait-il
 mieux ne pas le dire… ou peut-être que si : l’agonie de la guerre des
 sorciers n’avait pas fait de bien à l’Angleterre.
 
-Il se décida, et prit la parole : »Ce qui m’étonne, c’est que la guerre
-ait duré si longtemps,« se hasarda-t-il, »enfin, peut-être que je
-sous-estime les difficultés auxquelles Lord Voldemort faisait face…« »Tu veux savoir pourquoi je n’ai pas lancé un Imperius sur les plus
+Il se décida, et prit la parole : « Ce qui m’étonne, c’est que la guerre
+ait duré si longtemps, » se hasarda-t-il, « enfin, peut-être que je
+sous-estime les difficultés auxquelles Lord Voldemort faisait face… »
+
+« Tu veux savoir pourquoi je n’ai pas lancé un Imperius sur les plus
 puissants sorciers capables de lancer un Imperius sur d’autres, tué ceux
 des puissants qui pouvaient résister à mon Imperius, et fait main basse
-sur le ministère en 3 jours au plus ?« Harry hocha la tête.
+sur le ministère en 3 jours au plus ? »
+
+Harry hocha la tête.
 
 Le professeur Quirrell prit un air contemplatif. Sa main versait de
 l’herbe hachée dans le chaudron. Si Harry se souvenait bien, nous en
-étions aux quatre cinquièmes de la recette. »Je me suis posé la même question,« dit-il enfin, »quand j’ai entendu
+étions aux quatre cinquièmes de la recette.
+
+« Je me suis posé la même question, » dit-il enfin, « quand j’ai entendu
 Rogue prononcer la prophétie de Trelawney, et que j’ai contemplé le
 passé autant que l’avenir. Si tu avais demandé à mon moi passé pourquoi
 il n’avait pas utilisé l’Imperius, il aurait parlé du besoin d’être
@@ -1303,8 +1311,8 @@ dernière chose à faire. Puis j’ai entendu la prophétie et j’ai *su* que
 le moment était venu, car le Temps lui-même m’avait remarqué. Que le
 temps de l’hésitation avait pris fin. Et j’ai contemplé mes actes, et je
 me suis rendu compte que je jouais à ce jeu depuis des années. Je
-pense…« Un peu d’herbe tombait encore parfois de sa main, mais le
-professeur Quirrell ne semblait pas y prêter la moindre attention. »J’ai
+pense… » Un peu d’herbe tombait encore parfois de sa main, mais le
+professeur Quirrell ne semblait pas y prêter la moindre attention. « J’ai
 pensé, sous les étoiles, contemplant mon passé, que je m’étais habitué
 au jeu contre Dumbledore. Il était intelligent, il s’appliquait à
 inventer des ruses, il n’attendait pas mes attaques : il me surprenait.
@@ -1324,7 +1332,9 @@ avantage à saisir, une pièce qu’il *faut* mettre en position, avant
 d’abandonner une époque amusante et de passer au fatiguant contrôle de
 l’Angleterre… Eh bien même moi, je ne suis pas à l’abri d’une erreur de
 ce genre si je ne me rends pas compte que je suis en train de la
-commettre.« Et c’est alors que Harry comprit ce qui allait se passer ensuite, après
+commettre. »
+
+Et c’est alors que Harry comprit ce qui allait se passer ensuite, après
 que la Pierre Philosophale ait été récupérée.
 
 Après ça, le professeur Quirrell allait le tuer.
@@ -1343,9 +1353,9 @@ sorciers pour continuer de jouer contre Dumbledore.
 
 Il ne se souvenait pas bien de ce que le professeur Quirrell avait dit
 sur le fait de ne pas tuer Harry. Ce n’avait pas été parfaitement clair,
-comme »Je ne n’ai absolument aucune intention de tuer Harry de quelque
+comme « Je ne n’ai absolument aucune intention de tuer Harry de quelque
 façon que ce soit à moins qu’il se comporte vraiment comme le dernier
-des imbéciles.« Harry lui-même n’avait pas voulu trop promettre et
+des imbéciles. » Harry lui-même n’avait pas voulu trop promettre et
 insister sur une absence d’ambiguïté, car il pensait déjà au besoin de
 neutraliser Lord Voldemort et avait craint qu’une formulation plus
 précise ne révèle ce fait. Donc, quoi qu’ils aient dit, il y avait
@@ -1369,74 +1379,125 @@ presque la phase finale, si sa mémoire était bonne. Il ne restait pas
 non plus beaucoup de campanules.
 
 Il était probablement temps de faire moins preuve de prudence et de
-jouer cette conversation de façon plus risquée. »Si je fais remarquer une erreur de Lord Voldemort,« dit Harry, »serais-je puni ?« Le professeur Quirrell leva un sourcil. »Pas si l’erreur est réelle. Je
+jouer cette conversation de façon plus risquée.
+
+« Si je fais remarquer une erreur de Lord Voldemort, » dit Harry,
+« serais-je puni ? »
+
+Le professeur Quirrell leva un sourcil. « Pas si l’erreur est réelle. Je
 te suggère d’éviter de me faire la morale. Mais je ne tuerai pas le
 porteur de mauvaise nouvelle, ni le subordonné qui tente honnêtement de
 signaler un problème. Même sous les traits de Lord Voldemort, je n’ai
 jamais pu m’abaisser à de telles sottises. Bien sûr, certains idiots ont
 prit cette politique comme un signe de faiblesse et ont essayé de se
 mettre en avant en me rabaissant en public, me croyant obligé de tolérer
-leurs paroles déguisées en simples critiques.« Le professeur Quirrell
-sourit, perdu dans ses souvenirs. »Les Mangemorts se passèrent bien
-d’eux, et je te conseille d’éviter cette erreur.« Harry hocha la tête, et un léger frisson le traversa. »Euh, quand vous
+leurs paroles déguisées en simples critiques. » Le professeur Quirrell
+sourit, perdu dans ses souvenirs. « Les Mangemorts se passèrent bien
+d’eux, et je te conseille d’éviter cette erreur. »
+
+Harry hocha la tête, et un léger frisson le traversa. « Euh, quand vous
 m’avez parlé de ce qui s’est passé à Godric’s Hollow, la nuit de
 Halloween, en 1981, j’ai, euh… j’ai cru voir une autre erreur de
 raisonnement. Une façon dont vous auriez pu éviter le désastre. Mais,
 euh, je pense que vous avez un angle mort, un ensemble de stratégies que
-vous n’envisagez pas, donc vous ne l’avez même pas vue par la suite…« »J’espère que tu n’es pas sur le point de dire quelque chose de bête,
-comme « ne tuez pas les gens, »« dit le professeur Quirrell. »Sinon, je
-serai mécontent.« »*Pas différence de valeurs. Véritable erreur, étant donné vos buts. Me
+vous n’envisagez pas, donc vous ne l’avez même pas vue par la suite… »
+
+« J’espère que tu n’es pas sur le point de dire quelque chose de bête,
+comme “ne tuez pas les gens”, » dit le professeur Quirrell. « Sinon, je
+serai mécontent. »
+
+« *Pas différence de valeurs. Véritable erreur, étant donné vos buts. Me
 ferez-vous du mal, ssi je joue rôle du professseur, et vous ensseigne
 leçon ? Ou ssi erreur est ssimple et évidente, vous fait vous ssentir
-sstupide ?*« »*Non,*« siffla le professeur Quirrell. »*Pas ssi véritable leçon.*« Harry déglutit. »Hmm. Pourquoi ne pas avoir testé le système de Horcruxe
-avant de vraiment devoir l’utiliser ?« »Le tester ?« dit le professeur Quirrell. Il leva les yeux et prit un
-ton indigné : »Qu’est-ce que tu veux dire, le *tester* ?« »Pourquoi ne pas avoir vérifié si votre système de Horcruxe fonctionnait
-bien avant d’en avoir besoin le soir d’Halloween ?« Le professeur Quirrell avait l’air dégoûté. »Espèce de ridicule… je ne
+sstupide ?* »
+
+« *Non,* » siffla le professeur Quirrell. « *Pas ssi véritable leçon.* »
+
+Harry déglutit. « Hmm. Pourquoi ne pas avoir testé le système de Horcruxe
+avant de vraiment devoir l’utiliser ? »
+
+« Le tester ? » dit le professeur Quirrell. Il leva les yeux et prit un
+ton indigné : « Qu’est-ce que tu veux dire, le *tester* ? »
+
+« Pourquoi ne pas avoir vérifié si votre système de Horcruxe fonctionnait
+bien avant d’en avoir besoin le soir d’Halloween ? »
+
+Le professeur Quirrell avait l’air dégoûté. « Espèce de ridicule… je ne
 voulais pas *mourir*, petit, et c’était la seule façon que j’avais de
 tester ma grande création ! Quel bien cela m’aurait-il fait de risquer
-ma vie avant d’y être forcé ? En quoi cela m’aurait-il avantagé ?« Harry avait une boule dans la gorge. »*Il y avait un moyen de le tester
+ma vie avant d’y être forcé ? En quoi cela m’aurait-il avantagé ? »
+
+Harry avait une boule dans la gorge. « *Il y avait un moyen de le tester
 sans mourir.* L’idée au sens plus général est importante. Est-ce que
-vous comprenez, maintenant ?« »Non,« dit le professeur Quirrell au bout d’un moment. Il broya
+vous comprenez, maintenant ? »
+
+« Non, » dit le professeur Quirrell au bout d’un moment. Il broya
 doucement l’une des dernières campanules avec un fil de longs cheveux
 blonds et les fit tomber dans la potion, qui bouillonnait et s’était
-éclaircie. Seuls deux campanules restaient sur la table. »Et j’espère,
-pour ton bien, que c’est une bonne leçon.« »Supposez, professeur, que j’ai appris à lancer le Horcruxe amélioré et
-que je sois prêt à m’en servir. Qu’est-ce que j’en ferais ?« Le professeur Quirrell répondit immédiatement. »Tu trouverais quelqu’un
+éclaircie. Seuls deux campanules restaient sur la table. « Et j’espère,
+pour ton bien, que c’est une bonne leçon. »
+
+« Supposez, professeur, que j’ai appris à lancer le Horcruxe amélioré et
+que je sois prêt à m’en servir. Qu’est-ce que j’en ferais ? »
+
+Le professeur Quirrell répondit immédiatement. « Tu trouverais quelqu’un
 qui te répugne moralement et dont tu pourrais te convaincre que la mort
 sauverait beaucoup d’autres, puis tu l’assassinerais pour créer un
-Horcruxe.« »Et ensuite ?« »Toujours plus de Horcruxes,« dit le professeur Quirrell. Il prit un
-bocal qui semblait emplit d’écailles de dragon. »Avant ça,« dit Harry.
+Horcruxe. »
 
-Au bout d’un moment, le professeur de Défense secoua la tête. »Je ne
+« Et ensuite ? »
+
+« Toujours plus de Horcruxes, » dit le professeur Quirrell. Il prit un
+bocal qui semblait emplit d’écailles de dragon.
+
+« Avant ça, » dit Harry.
+
+Au bout d’un moment, le professeur de Défense secoua la tête. « Je ne
 comprends toujours pas, et tu vas arrêter ce petit jeu et me dire la
-réponse.« »Je ferais des Horcruxes pour mes amis. Si vous vous étiez soucié d’une
+réponse. »
+
+« Je ferais des Horcruxes pour mes amis. Si vous vous étiez soucié d’une
 seule personne à part vous, une seule qui aurait donné du *sens* à votre
 immortalité, une seule avec laquelle vous auriez voulu vivre pour
-toujours…« la gorge de Harry se serra. »Alors l’idée de faire un
-Horcruxe pour quelqu’un d’autre n’aurait pas été si contre-intuitive.« Il pleurait presque. »Vous avez un angle mort dirigé vers les stratégies
+toujours… » la gorge de Harry se serra. « Alors l’idée de faire un
+Horcruxe pour quelqu’un d’autre n’aurait pas été si contre-intuitive. »
+Il pleurait presque. « Vous avez un angle mort dirigé vers les stratégies
 qui font du bien aux autres, à un point tel que cela vous empêche
 d’atteindre vos propres buts égoïstes. Vous pensez… J’imagine que de
 votre point de vue, ce n’est tout simplement pas votre style. C’est cet…
 aspect particulier de l’image que vous avez de vous-même. C’est ce qui
-vous a coûté ces neuf ans.« Le professeur Quirrell de Défense tenait une bouteille. Des gouttes
-d’huile de mente tombaient dans le chaudron. »Je vois…« dit-il lentement. »Je vois. J’aurais dû apprendre la nouvelle
+vous a coûté ces neuf ans. »
+
+Le professeur Quirrell de Défense tenait une bouteille. Des gouttes
+d’huile de mente tombaient dans le chaudron.
+
+« Je vois… » dit-il lentement. « Je vois. J’aurais dû apprendre la nouvelle
 version du rituel de Horcruxe à Rabastan et le forcer à tester
 l’invention. Oui, avec le recul, c’est profondément évident. J’aurais
 même pu lui ordonner de s’imprimer dans l’esprit d’un nourrisson jetable
 afin de pouvoir observer le résultat avant de me rendre à Godric’s
-Hollow et de te créer.« Le professeur Quirrell secoua la tête, amusé. »Eh bien. Je suis content de comprendre ça maintenant et pas il y a dix
-ans. J’avais assez de choses à me reprocher à l’époque.« »Vous ne voyez pas les moyens gentils de faire *ce que vous voulez
-faire*,« dit Harry. Il sentait le désespoir dans sa propre voix. »Même
-quand une stratégie gentille serait *plus efficace*, vous ne la voyez
-pas parce que vous avez cette image de *personne méchante*.« »C’est juste,« dit le professeur Quirrell. »De fait, maintenant que tu
-me l’as fait remarquer, je viens de penser à des gentillesse que je
-pourrais faire aujourd’hui même et qui me seront très utiles.« Harry le regarda fixement.
+Hollow et de te créer. » Le professeur Quirrell secoua la tête, amusé.
+« Eh bien. Je suis content de comprendre ça maintenant et pas il y a dix
+ans. J’avais assez de choses à me reprocher à l’époque. »
 
-Le professeur Quirrell souriait. »C’est une bonne leçon, petit.
+« Vous ne voyez pas les moyens gentils de faire *ce que vous voulez
+faire*, » dit Harry. Il sentait le désespoir dans sa propre voix. « Même
+quand une stratégie gentille serait *plus efficace*, vous ne la voyez
+pas parce que vous avez cette image de *personne méchante*. »
+
+« C’est juste, » dit le professeur Quirrell. « De fait, maintenant que tu
+me l’as fait remarquer, je viens de penser à des gentillesse que je
+pourrais faire aujourd’hui même et qui me seront très utiles. »
+
+Harry le regarda fixement.
+
+Le professeur Quirrell souriait. « C’est une bonne leçon, petit.
 Dorénavant, et jusqu’à ce que j’y sois habitué, je m’assurerai
 d’envisager des ruses qui impliquent d’être bon envers les autres.
 Peut-être irais-je pratiquer un peu de charité jusqu’à ce que cela me
-soit naturel.« Des frissons traversèrent l’échine de Harry.
+soit naturel. »
+
+Des frissons traversèrent l’échine de Harry.
 
 Le professeur Quirrell avait dit cela sans la moindre trace
 d’hésitation.
@@ -1444,12 +1505,18 @@ d’hésitation.
 Lord Voldemort était absolument certain d’être à l’abri de toute
 rédemption. Il n’était en rien inquiet que cela puisse lui arriver.
 
-L’avant-dernière campanule fut doucement placée dans la potion. »D’autres leçons utiles que tu souhaiterais m’enseigner aujourd’hui,
-petit ?« dit le professeur Quirrell. Il avait relevé les yeux et
-souriait comme s’il savait exactement ce que pensait Harry. »Oui,« dit-il, d’une voix presque brisée. »Si votre but est d’être
+L’avant-dernière campanule fut doucement placée dans la potion.
+
+« D’autres leçons utiles que tu souhaiterais m’enseigner aujourd’hui,
+petit ? » dit le professeur Quirrell. Il avait relevé les yeux et
+souriait comme s’il savait exactement ce que pensait Harry.
+
+« Oui, » dit-il, d’une voix presque brisée. « Si votre but est d’être
 heureux : être bon envers les autres est plus agréable que de l’être
-envers soi-même…« »Est-ce que tu crois *vraiment* que je n’y ai pas pensé, petit ?« le
-sourire avait disparu. »Crois-tu que je sois stupide ? Après avoir été
+envers soi-même… »
+
+« Est-ce que tu crois *vraiment* que je n’y ai pas pensé, petit ? » le
+sourire avait disparu. « Crois-tu que je sois stupide ? Après avoir été
 diplômé de Poudlard, j’ai parcouru le monde pendant des années avant de
 revenir en Angleterre sous les traits de Lord Voldemort. J’ai arrêté de
 compter le nombre de masques que j’ai porté. Crois-tu que je n’ai jamais
@@ -1463,13 +1530,17 @@ s’emparer du pouvoir. J’ai dépensé mon or — enfin, pas le mien, mais
 principe est le même — pour améliorer leur petit pays et instaurer un
 semblant d’ordre. Ils ont continué de ramper, ils ont donné à un enfant
 sur trois le nom d’Alexander. Je n’ai toujours rien senti, alors j’ai
-hoché la tête, je me suis dit « ça valait le coup d’essayer, » et j’ai
-continué mon chemin.« »Et alors vous étiez heureux, quand vous étiez Lord Voldemort ?« La voix
+hoché la tête, je me suis dit “ça valait le coup d’essayer”, et j’ai
+continué mon chemin. »
+
+« Et alors vous étiez heureux, quand vous étiez Lord Voldemort ? » La voix
 de Harry était montée d’un cran, comme s’il en avait perdu la maîtrise.
 
-Le professeur Quirrell hésita puis haussa les épaules. »Il semble que tu
-connaisses déjà la réponse à cette question.« »Alors *pourquoi* ? Pourquoi être Voldemort si *ça ne vous rend même pas
-heureux* ?« sa voix se brisa. »Je suis *vous*, je suis basé sur vous,
+Le professeur Quirrell hésita puis haussa les épaules. « Il semble que tu
+connaisses déjà la réponse à cette question. »
+
+« Alors *pourquoi* ? Pourquoi être Voldemort si *ça ne vous rend même pas
+heureux* ? » sa voix se brisa. « Je suis *vous*, je suis basé sur vous,
 alors *je sais* que le professeur Quirrell n’est pas qu’un masque ! Je
 *sais* que vous auriez vraiment pu l’être ! Pourquoi ne pas simplement
 rester comme ça ? Levez la malédiction du poste de Défense et *restez
@@ -1477,42 +1548,67 @@ ici*, utilisez la Pierre Philosophale pour prendre l’apparence de David
 Monroe, laissez Quirinus Quirrell partir ; si vous dites que vous ne
 tuerez plus personne, je promets de ne dire à personne qui vous êtes
 vraiment. Soyez juste le *professeur Quirrell*, pour toujours ! Vos
-élèves vous apprécieraient, ceux de *mon père* l’apprécient bien…« Le professeur Quirrell gloussait tout en remuant le contenu du chaudron. »Il reste peut-être quinze mille sorciers en Angleterre magique, petit.
+élèves vous apprécieraient, ceux de *mon père* l’apprécient bien… »
+
+Le professeur Quirrell gloussait tout en remuant le contenu du chaudron.
+« Il reste peut-être quinze mille sorciers en Angleterre magique, petit.
 Il y en avait plus, avant. Ce n’est pas pour rien qu’on a peur de
 prononcer mon nom. Tu me pardonnerais parce que tu aimais mes leçons de
-magie de bataille ?« *Il a raison*, dit le Poufsouffle interne de Harry. *Non mais
+magie de bataille ? »
+
+*Il a raison*, dit le Poufsouffle interne de Harry. *Non mais
 franchement, c’est n’importe quoi !*
 
-Harry garda la tête droite, mais elle tremblait. »Ce n’est pas à moi de
-pardonner vos actes. Mais ça vaut mieux qu’une autre guerre.« »Ha,« dit le professeur de Défense. »Si tu trouves un jour un Retourneur
+Harry garda la tête droite, mais elle tremblait. « Ce n’est pas à moi de
+pardonner vos actes. Mais ça vaut mieux qu’une autre guerre. »
+
+« Ha, » dit le professeur de Défense. « Si tu trouves un jour un Retourneur
 de Temps qui peut revenir quarante ans dans le passé et altérer
 l’histoire, assure-toi de dire ça à Dumbledore avant qu’il ne refuse la
 candidature de Tom Jedusor au poste de professeur de Défense. Mais
 hélas, j’ai peur que Tom Jedusor n’ait jamais trouvé son bonheur à
-Poudlard.« »*Pourquoi pas ?*« »Parce que j’aurais toujours été entouré d’idiots et que je n’aurais pas
-pu les tuer,« dit-il d’un ton calme. »Ma plus grande joie est de tuer
+Poudlard. »
+
+« *Pourquoi pas ?* »
+
+« Parce que j’aurais toujours été entouré d’idiots et que je n’aurais pas
+pu les tuer, » dit-il d’un ton calme. « Ma plus grande joie est de tuer
 des idiots, et je te serais reconnaissant de ne pas me critiquer avant
-d’avoir toi-même essayé.« »Il doit bien y avoir *quelque chose* qui vous rendrait plus heureux que
-ça,« dit Harry, et sa voix se brisa à nouveau. »Il le faut.« »Pourquoi ?« dit le professeur Quirrell. »Est-ce qu’il y a une loi
-scientifique que j’ignore ? Dis-m’en plus.« Harry ouvrit la bouche, mais il ne put trouver les mots, il fallait
+d’avoir toi-même essayé. »
+
+« Il doit bien y avoir *quelque chose* qui vous rendrait plus heureux que
+ça, » dit Harry, et sa voix se brisa à nouveau. « Il le faut. »
+
+« Pourquoi ? » dit le professeur Quirrell. « Est-ce qu’il y a une loi
+scientifique que j’ignore ? Dis-m’en plus. »
+
+Harry ouvrit la bouche, mais il ne put trouver les mots, il fallait
 bien, il *fallait qu’il y ait quelque chose*, si seulement il trouvait
-quoi répondre… »Et *toi*,« dit le professeur Quirrell, »tu n’as aucun droit de parler
+quoi répondre…
+
+« Et *toi*, » dit le professeur Quirrell, « tu n’as aucun droit de parler
 de bonheur. Ce n’est pas ce qui t’est le plus précieux. Tu l’as décidé
 dès le départ, au début de l’année, quand le Choixpeau t’a proposé
 d’aller à Poufsouffle. Ce que je sais, car j’ai reçu une offre
 similaire, accompagnée des mêmes avertissements, il y a de nombreuses
 années, et je l’ai refusée, tout comme toi. Passé ça, je pense que nous
-n’avons plus grand-chose à nous dire, d’un Tom Jedusor à l’autre.« Le
+n’avons plus grand-chose à nous dire, d’un Tom Jedusor à l’autre. » Le
 professeur de Défense se retourna vers le chaudron.
 
 Il lâcha la dernière campanule et des bulles lumineuses s’élevèrent du
-chaudron avant que Harry ne trouve quoi répondre. »Je crois que nous en avons fini,« dit le professeur Quirrell. »Si tu as
-d’autres questions, elles devront attendre.« Harry se leva, les jambes flageolantes ; le professeur Quirrell prit le
+chaudron avant que Harry ne trouve quoi répondre.
+
+« Je crois que nous en avons fini, » dit le professeur Quirrell. « Si tu as
+d’autres questions, elles devront attendre. »
+
+Harry se leva, les jambes flageolantes ; le professeur Quirrell prit le
 chaudron et versa un volume démesurément immense du liquide splendide,
 bien plus que le chaudron n’aurait dû pouvoir contenir, sur le feu
 violet qui gardait l’entrée.
 
-Le feu s’éteint soudainement. »Maintenant, le Miroir,« dit le professeur Quirrell. Il sortit la Cape
+Le feu s’éteint soudainement.
+
+« Maintenant, le Miroir, » dit le professeur Quirrell. Il sortit la Cape
 d’Invisibilité de ses Robes et l’envoya léviter jusqu’aux pieds de
 Harry.
 

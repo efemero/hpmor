@@ -710,7 +710,7 @@ conventionnelles ? Ce n’est… ce n’est même pas faire un effort.*
 
 *Peut-être que Voldemort avait des idées plus créatives*, répondit
 Serdaigle Trois, *mais qu’il ne voulait pas révéler sa main aux
-gouvernements des* autres *pays, qu’il ne voulait pas qu« *eux
+gouvernements des* autres *pays, qu’il ne voulait pas qu’*eux
 *découvrent à quel point ils étaient vulnérables et installent des
 Cascades du Voleur dans* leur *Ministère. Pas avant d’avoir l’Angleterre
 comme base et assez de serviteurs pour subvertir* tous *les autres
@@ -739,7 +739,7 @@ d’empêcher son cerveau de remarquer que c’était un poisson. Ce qu’il
 année, ou un niveau d’Auror, ou d’anciennes magies perdues telles que
 celles que Lord Voldemort avait possédées… rien qu’y penser était
 insupportable. Un psychopathe génial, créatif et doté de pouvoirs
-magiques n’était pas une »menace« , c’était la fin d’une espèce.
+magiques n’était pas une « menace, » c’était la fin d’une espèce.
 
 Puis Harry secoua la tête et rejeta la lugubre trajectoire le long de
 laquelle son raisonnement l’avait menée. La question était de savoir
@@ -757,7 +757,7 @@ proportion qui s’était essayée à des rituels d’immortalité.
 *Et si le Seigneur des Ténèbres est aussi intelligent que nous ?* Dit
 Serdaigle Trois. *Tu sais, notre* égal *comme Trelawney l’a prophétisé.
 Dans ce cas il se* débrouillerait *pour que son rituel fonctionne. P.S.
-N’oublie pas la partie »…détruire l’autre, n’en laissant presque rien« .*
+N’oublie pas la partie « …détruire l’autre, n’en laissant presque rien ».*
 
 Nécessiter ce niveau d’intelligence constituait un détail de poids : la
 probabilité à priori qu’un membre de la population choisi au hasard soit
@@ -780,12 +780,13 @@ l’Ordre du Phénix n’était *pas* mort instantanément, mais ces hypothèses
 étaient plus complexes et se devaient de recevoir une pénalité de
 complexité. Après que ces pénalités et autres excuses aient été
 intégrées, on se retrouvait avec un écart très élevés entre la
-vraisemblance des hypothèses »Le Seigneur des Ténèbres est intelligent« et »Le Seigneur des Ténèbres est stupide« vis à vis de l’observation »Le
-Seigneur des Ténèbres n’a pas instantanément gagné la guerre« .
+vraisemblance des hypothèses « Le Seigneur des Ténèbres est intelligent »
+et « Le Seigneur des Ténèbres est stupide » vis à vis de l’observation « Le
+Seigneur des Ténèbres n’a pas instantanément gagné la guerre ».
 Probablement un rapport de vraisemblance de 10 contre 1 en faveur de la
 stupidité du Seigneur des Ténèbres… mais peut-être pas 100 contre 1. On
-ne pouvait tout à fait dire que »Le Seigneur des Ténèbres gagne
-instantanément« avait une probabilité *supérieure* à 99 % en
+ne pouvait tout à fait dire que « Le Seigneur des Ténèbres gagne
+instantanément » avait une probabilité *supérieure* à 99 % en
 présupposant son intelligence ; la somme de toutes les excuses possibles
 dépassait 0,01.
 
@@ -844,7 +845,7 @@ assis à quatre énormes tables… »C’est drôle,« dit Dean Thomas d’u
 général quand il nous a dit que ce que nous avions appris nous
 changerait pour toujours, que nous ne pourrions jamais revenir à une vie
 normale. Maintenant que nous savions. Maintenant que nous pouvions voir
-ce qu »*il* pouvait voir.« »Je sais !« dit Seamus Finnigan. »Je pensais aussi que c’était une
+ce qu’*il* pouvait voir.« »Je sais !« dit Seamus Finnigan. »Je pensais aussi que c’était une
 blague ! Un peu… comme tout ce que le général Chaos dit.« »Mais maintenant…« dit tristement Dean. »On ne peut *pas* revenir en
 arrière, hein ? Ce serait comme de retourner à l’école moldue après
 avoir été à Poudlard. On doit juste… on doit juste tous rester
@@ -1713,7 +1714,7 @@ poste. »
 
 Et il n’y eut bientôt plus qu’eux quatre – Harry, le professeur
 McGonagall, le maître des potions et Alastor Maugrey aussi appelé »Fol
-Œil« – confortablement installés dans le bureau du directeur.
+Œil’ – confortablement installés dans le bureau du directeur.
 
 Il était étrange de constater à quel point le bureau du directeur
 semblait… *déséquilibré*… sans le directeur à l’intérieur. Sans avoir
@@ -1750,7 +1751,7 @@ certain qu’elle sait qu’on l’a, mais c’est sous le manteau, compris ?
 Quoi qu’il en soit… »
 
 Et Maugrey leur dit qui, selon le département de justice magique, était
-réellement »Quirinus Quirrell« . Un élève de Poudlard apparemment
+réellement « Quirinus Quirrell ». Un élève de Poudlard apparemment
 ordinaire (bien que suffisamment talentueux pour avoir été battu de peu
 dans la course au poste de préfet-en-chef) parti en vacance en Albanie
 après avoir reçu son diplôme, disparu, revenu 25 ans plus tard, puis
@@ -1798,7 +1799,8 @@ dit Maugrey Fol Œil, concluant son rapport. « Maintenant qu’est-ce que
 *tu* en penses, petit ? »
 
 « Eh bien… » dit lentement Harry. *Il est aussi possible d’avoir un masque
-sous le masque.*« La pensée évidente suivante est que ce »David Monroe« est bel et bien mort pendant la guerre et que c’est juste quelqu’un qui
+sous le masque.*« La pensée évidente suivante est que ce “David Monroe”
+est bel et bien mort pendant la guerre et que c’est juste quelqu’un qui
 prétend être David Monroe prétendant être Quirinus Quirrell. »
 
 « C’est *évident* ? » dit le Professeur McGonagall. « Par Merlin… »
@@ -1832,7 +1834,7 @@ vers personne, elle était légèrement inclinée vers le bas, mais il
 l’avait en main. Elle ne l’avait jamais quittée depuis qu’il était entré
 dans la pièce. « Il y a des mages noirs qui ont un nom. Il y en a qui ont
 deux noms. Et il y a ceux qui changent de nom comme toi et moi changeons
-de vêtements. J’ai vu »Monroe« enchaîner trois Mangemorts comme il
+de vêtements. J’ai vu “Monroe” enchaîner trois Mangemorts comme il
 aurait cassé des brindilles. Il n’y a pas beaucoup de sorciers aussi
 bons que ça à quarante-cinq ans. Dumbledore, peut-être, mais pas
 beaucoup d’autres. »
@@ -1847,7 +1849,7 @@ mort. Ils le craignaient beaucoup. »
 McGonagall, « que l’on dise cela d’un professeur de Défense. »
 
 Maugrey fit un demi-tour pour lui lancer un regard furieux. « Et où
-diable était »Monroe« toutes ces années où il avait disparu, hein ?
+diable était “Monroe” toutes ces années où il avait disparu, hein ?
 Peut-être qu’il pensait pouvoir se forger un nom en s’opposant à Voldie
 et qu’il a disparu quand il a découvert qu’il avait tort. Mais alors
 pourquoi revenir *maintenant*, hein ? Quel est son *nouveau* plan ? »
@@ -1868,8 +1870,8 @@ l’élimination de toute la maison Monroe ? »
 « *Quoi ?* » s’écria le professeur McGonagall.
 
 « Notre sorcier mystère entend parler d’un gamin disparu d’une Très
-Ancienne Maison d’Angleterre, » dit Maugrey. « Il prend la place de »David
-Monroe« mais reste à l’écart de la véritable famille Monroe. Mais la
+Ancienne Maison d’Angleterre, » dit Maugrey. « Il prend la place de “David
+Monroe” mais reste à l’écart de la véritable famille Monroe. Mais la
 Maison doit bien finir par remarquer que quelque chose cloche. Donc cet
 imposteur pousse d’une façon ou d’une autre Voldie à tous les éliminer -
 peut-être en lui révélant le mot de passe qu’ils lui avaient donné pour
@@ -1953,7 +1955,7 @@ l’air un rituel noir qui a mal tourné ! »
 
 « Tu n’as aucune preuve que c’est vrai ! » dit le professeur McGonagall.
 
-« Cet homme pourrait aussi bien porter un signe disant »Mage Noir« en
+« Cet homme pourrait aussi bien porter un signe disant “Mage Noir” en
 lettres vertes lumineuses au-dessus de sa tête. »
 
 « Ah… » dit Harry. Le moment ne semblait pas particulièrement bien choisi
@@ -2178,7 +2180,8 @@ professeur McGonagall avec une note d’urgence. »*Pourquoi* avez-vous dit
 ça, M. Potter ?« Harry mit alors un moment à se souvenir, à se remémorer la raison pour
 laquelle il *avait* dit cela. Harry et Neville avaient secouru Lesath
 Lestrange de brutes, puis Harry s’était alors confronté à Severus dans
-le couloir et, du moins selon le maître des potions lui-même, avait »failli mourir« … »J’ai appris quelque chose qui m’a inquiété,« dit Harry au bout d’un
+le couloir et, du moins selon le maître des potions lui-même, avait
+“failli mourir”… »J’ai appris quelque chose qui m’a inquiété,« dit Harry au bout d’un
 moment. »De la part de quelqu’un qui m’a fait promettre de ne le révéler
 à personne d’autre.« Severus avait fait promettre à Harry que leur
 conversation n’atteindrait les oreilles de personne et Harry était
@@ -2228,7 +2231,7 @@ conclusion ne lui apparaisse enfin.
 
 *Bien sûr, c’était avant que je lui donne mes bons conseils en matière
 de relations amoureuses.* »Je vois,« dit Harry avec précaution quelques instants plus tard.
-Parfois, dire »Oups« était loin de faire justice à la situation. »Vous
+Parfois, dire “Oups” était loin de faire justice à la situation. »Vous
 avez raison, ce n’est pas bon signe.« Le professeur McGonagall mit ses deux mains sur son visage. »Quoi que
 vous pensiez maintenant,« dit-elle d’une voix légèrement étouffée, »je
 vous assure que c’est *aussi* faux et je ne veux jamais l’entendre.« »Donc…« dit Harry. »Si, comme vous dites, le lien qui unissait le
@@ -2352,8 +2355,8 @@ une crise de nerfs. Le souvenir revenait à présent avec plus de force,
 accompagné de froid et de ténèbres. »Il a utilisé… le sortilège de la
 mort… puis il a monté les escaliers, je crois qu’il doit avoir volé, je
 ne me souviens d’aucun pas dans les escaliers ou quoi que ce soit du
-genre… et puis ma mère a dit : »Non, pas Harry, s’il vous plaît, pas
-Harry !« ou quelque chose comme ça. Et le Seigneur des Ténèbres — sa
+genre… et puis ma mère a dit : « Non, pas Harry, s’il vous plaît, pas
+Harry ! » ou quelque chose comme ça. Et le Seigneur des Ténèbres — sa
 voix était tellement aiguë, comme de l’eau sifflant d’une bouilloire
 mais *froide* — le Seigneur des Ténèbres a dit…« *Écarte-toi, femme ! Ce n’est pas pour toi que je suis venu, mais pour
 le garçon.*
@@ -2377,9 +2380,9 @@ commencé à se moquer d’elle et c’était horrible et… et elle a finit par
 essayer la dernière chose à faire qui n’était ni m’abandonner ni laisser
 tomber et mourir. Je ne sais pas si elle aurait même pu le lancer, si le
 sortilège aurait fonctionné, mais à y réfléchir, elle se devait
-d’essayer. La dernière chose que ma mère a dit fut »Avada K…« mais le
+d’essayer. La dernière chose que ma mère a dit fut « Avada K… » mais le
 Seigneur des Ténèbres a commencé son propre sortilège dès qu’elle a
-commencé à dire »Av« et il l’a dit en moins d’une demi seconde et il y a
+commencé à dire « Av » et il l’a dit en moins d’une demi seconde et il y a
 eu un flash de lumière verte et alors… et alors… *et alors…*« »Cela suffit.« Lentement, comme un corps remontant à la surface de l’eau, Harry revint
 de là où il avait été. »Cela suffit,« dit le maître des potions d’une voix rauque. »Elle est
 morte… elle est morte sans souffrir, alors ? Le Seigneur des Ténèbres…

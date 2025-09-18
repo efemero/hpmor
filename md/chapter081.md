@@ -306,7 +306,7 @@ depuis son perchoir. « Mais j’ai peur que Lord Malfoy n’ait certains
 droits sur toi avant ce terme. »
 
 Lucius Malfoy demeurait immobile et regardait Harry, les sourcils
-froncés. « Qui est-elle pour vous, alors ? *Qu« *est-elle pour vous, pour
+froncés. « Qui est-elle pour vous, alors ? *Qu’*est-elle pour vous, pour
 que vous soyez prêt à payer autant dans le but de l’épargner ? »
 
 « Mon amie, » dit doucement le garçon.
@@ -557,7 +557,7 @@ de douze ans à Azkaban.*
 Dire cela pour mettre en place les attentes et patienter jusqu’à ce que
 les gens comprennent et rient. Puis dire la fatale vérité, et lorsque
 les Patronus des Aurors se seraient volatilisés, confirmant les dires de
-Harry, alors soit l »*anticipation* que les autres auraient au sujet du
+Harry, alors soit l’*anticipation* que les autres auraient au sujet du
 vide sans esprit soit les menaces de destruction de Harry pousseraient
 le Détraqueur à obéir. Ceux qui avaient cherché à faire des compromis
 avec les ténèbres seraient consumés par elle.

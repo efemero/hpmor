@@ -69,7 +69,7 @@ savaient pas.
 Même Maman ne les avait pas interrogé à ce sujet en dépit de l’évidente
 connexion avec la famille Weasley. Quoi qu’ils aient accompli, c’était
 loin hors de la portée de tout étudiant de Poudlard… à part peut-être
-d« *un*, qui, si certaines rumeurs étaient vraies, aurait pu le faire en
+d’*un*, qui, si certaines rumeurs étaient vraies, aurait pu le faire en
 claquant des doigts. *Harry* avait été interrogé sous Veritaserum, leur
 avait-il dit, et Dumbledore était là, jetant des regards inquiétants aux
 Aurors. Les Aurors l’avaient interrogé juste assez pour déterminer que
@@ -550,7 +550,7 @@ astronomiques.
 
 Dumbledore avait eu l’air de penser que Severus était sien, et il n’y
 avait rien eu pour venir contredire cela ; le maître de Potions avait
-été »effrayant mais pas abusif« , comme promis. Harry s’était donc dit un
+été « effrayant mais pas abusif, » comme promis. Harry s’était donc dit un
 peu plus tôt qu’il s’agissait là d’une affaire liée à la Communauté. Si
 Severus avait prévu de lui faire du mal, il ne serait certainement pas
 venu chercher Harry devant Hermione, un témoin, alors qu’il aurait
@@ -613,7 +613,7 @@ gérer une telle situation. *Vous* pourriez peut-être l’aider. Si vous le
 souhaitiez. Je ne vous demande pas une faveur et je ne vous en devrai
 aucune. Il s’agit simplement d’une opportunité de faire ce que vous
 voulez.« Harry regarda Severus en réfléchissant. »Vous vous demandez si c’est un piège ?« dit Severus, un léger sourire
-sur les lèvres. »Ce n’est pas un piège. C »*est* un test. Considérez cela
+sur les lèvres. »Ce n’est pas un piège. C’*est* un test. Considérez cela
 comme une marque de ma curiosité. Mais les problèmes de Lesath sont
 réels, tout comme le sont mes propres difficultés à intervenir.« C’était le problème quand les gens savaient que vous étiez un des
 gentils. Même si vous saviez qu’ils le savaient, vous ne pouviez

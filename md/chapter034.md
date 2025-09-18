@@ -142,7 +142,7 @@ maison Malfoy, puissent travailler ensemble pour vaincre leur ennemi
 commun, Harry Potter. » Un sourire amusé passa sur le visage de Harry
 Potter. « Peut-être que je ferai juste ce que Drago a essayé de faire
 avec Zabini et que j’écrirai une lettre à Lucius Malfoy pour voir ce
-qu« *il* pense de ça. »
+qu’*il* pense de ça. »
 
 « *Harry* * !* » s’étrangla Hermione, l’air absolument atterrée, et il y
 eut aussi des bruits d’étranglements venant de l’audience.

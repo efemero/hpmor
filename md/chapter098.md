@@ -175,7 +175,7 @@ devraient suffire à tout payer, j’espère. Je vous dirais bien d’où ces
 Gallions viennent, mais je ne voudrais pas vous gâcher la surprise de
 demain. »
 
-« Qu’est-ce que c« *est* que ces trucs ? » dit Fred ou George, tandis
+« Qu’est-ce que c’*est* que ces trucs ? » dit Fred ou George, tandis
 qu’ils regardaient la liste. « Notre père est expert en Moldus… »
 
 « …et on n’en reconnaît même pas la *moitié*… »

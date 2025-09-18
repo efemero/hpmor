@@ -362,7 +362,7 @@ exactement ? Je pourrais revérifier, mais je suis raisonnablement
 certain qu’il n’y a rien à ce sujet dans *Enfance : un guide pour les
 parents*. Mon côté obscur n’est pas seulement un état émotionnel, il me
 *rend plus intelligent*. D’une certaine façon, en tout cas. On ne peut
-pas juste s« *imaginer* plus intelligent. »
+pas juste s’*imaginer* plus intelligent. »
 
 L’homme se frotta de nouveau la tête. « Eh bien… il y a un certain
 phénomène bien connu lors duquel les enfants traversent un processus

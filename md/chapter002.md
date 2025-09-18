@@ -76,9 +76,9 @@ navrée, M. Potter, » dit McGonagall, l’air sincère, bien que ses lèvres
 s’étirassent en un sourire. « J’aurais dû vous prévenir. »
 
 Harry avait le souffle court. Sa voix sortit étouffée. « *Vous ne POUVEZ
-pas faire ça !* »
+pas faire ça ! »*
 
-« Ce n’est qu’une métamorphose, » dit McGonagall. « Une transformation
+« Ce n’est qu’une métamorphose,* »* dit McGonagall. « Une transformation
 en Animagus, pour être exacte. »
 
 « Vous vous êtes transformée en chat ! Un PETIT chat ! Vous avez violé
@@ -214,8 +214,13 @@ que, si je vous laisse seul durant deux mois avec vos manuels scolaires,
 même sans baguette, je reviendrais dans cette maison et trouverais,
 à la place, un cratère bouillonnant d’une fumée violette entouré
 d’une ville dépeuplée, ainsi qu’un fléau de zèbres en feu terrorisant
-ce qui reste de l’Angleterre. »
+ce qui reste de l’Angleterre.
 
 La mère et le père de Harry hochèrent la tête à l’unisson.
 
 « *Maman ! Papa !* »
+11 phrases156 mots930 caractères
+0 / 24 détections
+Tout rétablir
+Apostrophe courbe – Vos réglages demandent l’emploi de l’apostrophe courbe, recommandée en typographie soignée. Réglage…
+

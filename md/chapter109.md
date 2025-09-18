@@ -447,7 +447,7 @@ même pas être neutralisées par un interrogatoire en Fourchelangue. »
 
 
 Harry mit la Cape d’Invisibilité sur ordre du professeur Quirrell afin
-d« *empêcher l’homme qui sse croira être le directeur de te voir*, comme
+*d’empêcher l’homme qui sse croira être le directeur de te voir*, comme
 l’avait dit le professeur Quirrell en Fourchelangue.
 
 « Avec ou sans Cape, tu te tiendras à proximité du Miroir, » avait aussi

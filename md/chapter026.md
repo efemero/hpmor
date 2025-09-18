@@ -405,7 +405,7 @@ de la session confidentielle du Magenmagot. »
 
 « Oui. »
 
-« *J« *aurais du mal à faire ça. »
+« *J’*aurais du mal à faire ça. »
 
 « Vraiment ? » dit Harry. « Parce que si mes soupçons sont fondés, ça a été
 fait par un élève de Poudlard. »
@@ -520,9 +520,9 @@ leur montra une large plaque de métal située près d’un feu. Elle leur
 ordonna de toucher la plaque, et ils sentirent que le métal proche du
 feu était plus froid tandis que le métal plus éloigné était plus chaud.
 Et elle leur dit d’essayer de deviner l’explication. Alors certains
-étudiants écrivirent : »à cause de la façon dont le métal conduit la
-chaleur« , et d’autres : »à cause de la façon dont l’air se déplace« , et
-personne ne dit : »ça a juste l’air impossible« , et la véritable réponse
+étudiants écrivirent : « à cause de la façon dont le métal conduit la
+chaleur, » et d’autres : « à cause de la façon dont l’air se déplace, » et
+personne ne dit : « ça a juste l’air impossible, » et la véritable réponse
 était qu’avant que les étudiants n’entrent dans la pièce, le professeur
 avait juste retourné la plaque. »
 
@@ -532,8 +532,8 @@ similaire. Y a-t-il une morale ? »
 « Que la force d’un rationaliste est d’être plus facilement confus par la
 fiction que par la réalité, » dit Harry. « Si on est capable d’expliquer
 n’importe quel phénomène, alors on ne sait rien. Les étudiants pensèrent
-qu’ils pouvaient utiliser des mots, comme »à cause de la conduction de
-la chaleur« pour expliquer n’importe quoi, même une plaque de métal plus
+qu’ils pouvaient utiliser des mots, comme “à cause de la conduction de
+la chaleur” pour expliquer n’importe quoi, même une plaque de métal plus
 froide du côté proche du feu. Ils ne se sont donc pas rendu compte à
 quel point ils étaient confus, et cela voulait dire qu’ils ne pouvaient
 pas être rendus plus confus par un mensonge que par une vérité. Si vous
@@ -621,7 +621,8 @@ Harry avait alors demandé à Gripsec s’il pouvait simplement lui *dire*
 comment diversifier ses investissements à plus que des piles de pièces
 d’or posées dans un coffre-fort.
 
-Gripsec l’avait regardé d’un œil vide et lui avait demandé ce que »diversifier« voulait dire.
+Gripsec l’avait regardé d’un œil vide et lui avait demandé ce que
+« diversifier » voulait dire.
 
 Il semblait que les banques ne faisaient pas d’investissements. Les
 banques stockaient vos pièces d’or dans des coffres-forts protégés en
@@ -860,7 +861,7 @@ rattrapa en souriant.
 
 *Non*, dirent Gryffondor et Poufsouffle.
 
-*Oui*, dit Serdaigle. *Quelle partie du mot »livre« n’as-tu pas
+*Oui*, dit Serdaigle. *Quelle partie du mot « livre » n’as-tu pas
 comprise ?*
 
 *La partie vol*, dit Poufsouffle.

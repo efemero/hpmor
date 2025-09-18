@@ -186,7 +186,7 @@ qu’il est assez puissant pour se Désillusionner lui-même ; les Aurors
 ont jeté des sortilèges de détection au début, mais ils ne les ont pas
 réitérés juste avant votre tour. Mais plus simple que tout cela, M.
 Potter, le méfait aurait pu avoir été commis par Dumbledore lui-même ;
-et si c« *est* le cas, eh bien, il a peut-être aussi pris des mesures
+et si c’*est* le cas, eh bien, il a peut-être aussi pris des mesures
 pour détourner vos soupçons. »
 
 Ils marchèrent de quelques pas.
@@ -341,7 +341,7 @@ de Poudlard à travers une fenêtre. « Le premier baiser remporte le
 prince. »
 
 *« Ce n’était pas leur premier baiser ! »* hurla Daphné. « Hermione était
-*déjà* son véritable amour ! C’est pour ça qu »*elle* a pu le ramener ! »
+*déjà* son véritable amour ! C’est pour ça qu’*elle* a pu le ramener ! »
 Puis Daphné se rendit compte de ce qu’elle venait de dire et grimaça
 intérieurement, mais après tout, il fallait bien s’adapter à son public.
 
@@ -361,7 +361,7 @@ dirent les jumelles Carrow. « On dirait que c’est la *mauvaise personne*
 qui l’a embrassé. »
 
 « C’était censé être *moi*, » murmura Tracey. Son visage exprimait encore
-la surprise. « *J« *étais censée être son véritable amour. Harry Potter
+la surprise. « *J’*étais censée être son véritable amour. Harry Potter
 était *mon* général. J’aurais dû, j’aurais dû me battre contre Granger,
 pour lui — »
 
@@ -453,7 +453,7 @@ sujets sans la permission du directeur ! »
 
 Le garçon dans son bureau reçut cette information sans changer
 d’expression. « Je préférerais ne pas déranger le directeur avec cette
-affaire, » dit calmement Harry Potter. « J »*insiste* pour qu’il ne soit
+affaire, » dit calmement Harry Potter. « J’*insiste* pour qu’il ne soit
 pas dérangé, en fait, et vous avez promis que notre conversation
 resterait privée. Alors laissez-moi le formuler ainsi. Je sais qu’il
 existe bel et bien une prophétie. Je sais que vous êtes celle qui l’avez
@@ -604,6 +604,6 @@ dire que mettre fin à la guerre des sorciers ne comptait pas comme
 circonstance atténuante. Mais cela… *l’embêtait quand même beaucoup*.
 
 Et l’heure était venue, et même depuis longtemps passée, de demander à
-Drago Malfoy ce que l« *autre* camp de cette guerre avait à dire sur la
+Drago Malfoy ce que l’*autre* camp de cette guerre avait à dire sur la
 personnalité d’Albus Perceval Wulfric Brian Dumbledore.
 

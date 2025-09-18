@@ -725,7 +725,7 @@ mange. Elle pourrait alors rentrer au dortoir Serdaigle et finir sa nuit
 dans son propre lit.
 
 Elle mangea en silence. Une partie d’elle voulait demander au professeur
-Flitwick s« *il* pensait qu’elle avait reçut un sortilège de faux
+Flitwick s’*il* pensait qu’elle avait reçut un sortilège de faux
 souvenirs ou s’il pensait qu’elle avait essayé de tuer Drago de son
 plein gré…
 
@@ -823,14 +823,14 @@ sujets expérimentaux tout en étant en réalité des complices de
 l’expérimentateur. Asch avait montré une ligne de référence sur un écran
 marquée X à côté de trois autres lignes marquées A, B et C.
 L’expérimentateur avait demandé quelle ligne avait la même longueur que
-X. La bonne réponse était C, de façon évidente. Les autres »sujets« , les
+X. La bonne réponse était C, de façon évidente. Les autres « sujets, » les
 complices, avaient l’un après l’autre dit que X était de la même
 longueur que B. Le vrai sujet avait été placé avant-dernier afin de
 n’éveiller aucun soupçon en le plaçant en dernier. Le test avait été de
-voir si le véritable sujet se »conformerait« à la mauvaise réponse
+voir si le véritable sujet se « conformerait » à la mauvaise réponse
 standard, B, ou dirait la réponse évidemment correcte, C.
 
-75 % des sujets avaient s’étaient »conformés« au moins une fois. Un
+75 % des sujets avaient s’étaient « conformés » au moins une fois. Un
 tiers des sujets s’étaient conformés plus de la moitié du temps.
 Certains avaient ensuite indiqué être réellement persuadés que X était
 de la même longueur que B. Et ça avait été dans un cas où les sujets ne
@@ -844,7 +844,8 @@ souviens, » murmura-t-elle.
 
 « Tu sais, j’ai donné un entraînement anti-conformité à la légion du
 Chaos. J’ai demandé à chaque Légionnaire de se placer au milieu du
-groupe et de dire »Deux et deux font quatre !« ou »L’herbe est verte !« pendant que tous les autres soldats de la Légion le traitaient d’idiot
+groupe et de dire « Deux et deux font quatre ! » ou « L’herbe est verte ! »
+pendant que tous les autres soldats de la Légion le traitaient d’idiot
 ou riaient de lui – les ricanements d’Allen Flint étaient vraiment bons
 – ou le regardaient d’un air atterré avant de tourner les talons et de
 s’en aller. Ce dont tu dois te rappeler c’est que *seule* la Légion du
@@ -946,7 +947,7 @@ Goldstein la regardaient, leurs têtes seules à suivre son mouvement) De
 derrière elle, elle entendit Harry Potter dire d’un ton très calme : »Vous tous, la vérité finira par éclater. Donc si vous êtes tous si sûrs
 qu’elle est coupable, pourrais-je tous vous demander de signer ce papier
 ici qui dit que si elle s’avère avoir été innocente, elle aura le droit
-de vous dire »Je te l’avais dit« et de vous en vouloir jusqu’à la fin de
+de vous dire « Je te l’avais dit » et de vous en vouloir jusqu’à la fin de
 vos jours ? Allez y, ne soyez pas lâches, si vous y croyez vraiment vous
 ne devriez pas avoir peur de parier…« Elle avait parcouru la moitié des escaliers lorsqu’elle se rendit compte
 qu’il y aurait aussi d’autres filles dans le dortoir.

@@ -60,7 +60,7 @@ Drago sourit avec beaucoup de suffisance et fit un geste vers l’arrière.
 
 M. Goyle pencha sa tête et jeta à Harry un regard qui était probablement
 censé signifier quelque chose mais qui lui donna juste l’air bigleux. M.
-Crabbe dit « Ravi d’fair vot« connaissance, » d’un ton qui laissait penser
+Crabbe dit « Ravi d’fair vot’ connaissance, » d’un ton qui laissait penser
 qu’il essayait de forcer sa voix vers des octaves aussi basses que
 possibles.
 
@@ -139,7 +139,7 @@ petit quelque chose à garder à l’esprit si votre employeur actuel vous
 semble ingrat. Et puis, ça ne peut pas faire de mal d’avoir d’autres
 offres pendant qu’on négocie ses conditions de travail, n’est-ce pas ? »
 
-« Qu’est ce qu »*il* fait à Serdaigle ? »
+« Qu’est ce qu’*il* fait à Serdaigle ? »
 
 « Je n’en ai pas la moindre idée, M. Crabbe. »
 

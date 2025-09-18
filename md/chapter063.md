@@ -391,7 +391,7 @@ vas-tu lui dire ? »
 
 « Surpris, » dit Harry d’un ton catégorique. « Ouais. Bien. Dis-lui ça. »
 
-« Qu’est-ce que c« *est* ? » dit Drago. Puis, remarquant que Harry semblait
+« Qu’est-ce que c’*est* ? » dit Drago. Puis, remarquant que Harry semblait
 hésiter : « Si tu mijotes avec Père derrière mon dos — »
 
 Et Harry, sans dire un mot, donna la feuille à Drago.
@@ -703,7 +703,7 @@ Le guérisseur avait dit qu’il était trop tôt pour se prononcer.
 Puis Amélia regarda l’autre sorcière dans la pièce, la détective.
 
 « Et vous dites, » dit Amélia, « que la matière inflammable avait été
-métamorphosée à partir d »*eau*, vraisemblablement sous forme de glace. »
+métamorphosée à partir d’*eau*, vraisemblablement sous forme de glace. »
 
 La détective hocha la tête et dit d’un ton perplexe : « Ça aurait pu être
 bien pire s’il avaient — »
@@ -1077,7 +1077,7 @@ lancé le second Portus.
 
 « *Quoi ? »* cracha Rogue. « Le venin de serpent est un composant actif de
 la potion de résurrection ! Sans parler du fait qu’il dissoudrait les os
-et toutes les autres substances ! Et où est-ce qu« *on* mettrait la main
+et toutes les autres substances ! Et où est-ce qu’*on* mettrait la main
 sur — »
 
 « Calme-toi fiston, je vérifiais juste si on pouvait te faire confiance. »
@@ -1088,7 +1088,7 @@ le cimetière tandis que le maîtres des potions continuait de verser.
 « Attends, » dit soudain Maugrey. « Comment est-ce que tu sais que *c’est*
 vraiment là que — »
 
-« Parce qu’il y a marqué »Tom Jedusor« sur la pierre tombale facile à
+« Parce qu’il y a marqué “Tom Jedusor” sur la pierre tombale facile à
 déplacer, dit sèchement Rogue. »Et je viens de gagner dix Mornilles du
 directeur qui a parié que vous y penseriez avant la cinquième bouteille.
 Au temps pour votre vigilance constante.« Il y eut un silence. »Combien de temps Albus a-t-il mit à comp-« »Trois ans après que nous ayons appris l’existence du rituel,« répondit
@@ -1268,7 +1268,8 @@ depuis son perchoir.
 
 Le marron des arbres désolés, le jaune de l’herbe morte, la glace
 couleur de glace qu’étaient les ruisseaux et les torrents gelés… le
-fonctionnaire de l’école qui l’avait appelée »La Forêt Interdite« n’avait vraiment rien compris au marketing : le nom ne faisait que
+fonctionnaire de l’école qui l’avait appelée « La Forêt Interdite »
+n’avait vraiment rien compris au marketing : le nom ne faisait que
 donner encore plus envie d’y aller. Le soleil sombrait dans le ciel car
 cela faisait maintenant quelques heures que Harry réfléchissait,
 principalement les mêmes pensées répétées en boucle, mais chaque fois
@@ -1303,8 +1304,8 @@ Pourquoi est-ce qu’il avait décidé de faire ça, déjà ?
 *Ce n’est pas utile, comme analyse de défaillances*, pensa Harry.
 
 *Si tu veux plus de détails*, dit Poufsouffle, *le professeur de Défense
-de Poudlard était là : »Faisons sortir Bellatrix Black d’Azkaban !« et
-tu étais là : »Ça marche !« *
+de Poudlard était là : « Faisons sortir Bellatrix Black d’Azkaban ! » et
+tu étais là : « Ça marche ! »*
 
 *Attends, ÇA n’est pas juste -*
 
@@ -1343,7 +1344,8 @@ proportionné avec ce qui n’avait alors semblé être qu’un faible risque.
 Ça ne semblait pas juste, vraiment pas *juste* que ce soit *ça* qui se
 produise quand il perdait sa mainmise sur la rationalité pendant juste
 une petite fraction de seconde, la petite fraction de seconde dont son
-cerveau avait eu besoin pour décider qu’il trouverait les arguments pour »oui« plus agréables que les arguments pour »non« pendant la discussion
+cerveau avait eu besoin pour décider qu’il trouverait les arguments pour
+« oui » plus agréables que les arguments pour « non » pendant la discussion
 qui avait suivie.
 
 De là haut, loin au-dessus des arbres fondus les uns parmi les autres,
@@ -1449,11 +1451,11 @@ sujets Américains afin d’avoir un groupe témoin.
 Après ça, il ne s’était pas embêté à essayer en Allemagne.
 
 Dispositif expérimental : une série de 30 boutons alignés
-horizontalement avec des étiquettes allant de »15 volts« à »450 volts« ,
+horizontalement avec des étiquettes allant de « 15 volts » à « 450 volts, »
 avec une étiquette supplémentaire par groupe de quatre boutons. Le
-premier groupe était marqué »Choc léger« , le sixième »Choc d’une extrême
-intensité« , le septième »Danger : Choc sévère« et les deux derniers
-boutons étaient seulement marqués d’un »XXX« .
+premier groupe était marqué « Choc léger, » le sixième « Choc d’une extrême
+intensité, » le septième « Danger : Choc sévère » et les deux derniers
+boutons étaient seulement marqués d’un « XXX ».
 
 Un acteur, complice de l’expérimentateur, était présenté au véritable
 sujet comme étant quelqu’un comme lui : quelqu’un qui avait répondu à
@@ -1468,7 +1470,8 @@ effets de la punition sur l’apprentissage et la mémoire et que cette
 partie du test cherchait à savoir si les résultats changeaient en
 fonction de la personne qui infligeait la punition ; la personne
 attachée à la chaise devrait s’efforcer de mémoriser des ensembles de
-paires de mots et à chaque fois que »l’apprenant« ferait une erreur, »l’enseignant« devrait administrer un choc de plus en plus fort.
+paires de mots et à chaque fois que « l’apprenant » ferait une erreur,
+« l’enseignant » devrait administrer un choc de plus en plus fort.
 
 À 300 volts, l’acteur cessait d’essayer de répondre et commençait à
 frapper le mur, ce sur quoi l’expérimentateur disait au sujet de
@@ -1481,10 +1484,10 @@ Puis plus un son jusqu’à la fin de l’expérience.
 
 Si le sujet soulevait des objections ou refusait d’appuyer sur un
 bouton, l’expérimentateur, tout en maintenant une attitude passive,
-habillé d’une blouse grise de laboratoire, disait »Poursuivez, s’il vous
-plaît« , puis »L’expérience requiert que vous poursuiviez« , puis »Il est
-absolument essentiel que vous poursuiviez« , puis »Vous n’avez pas le
-choix, vous *devez* continuer« . Si la quatrième incitation échouait,
+habillé d’une blouse grise de laboratoire, disait « Poursuivez, s’il vous
+plaît, » puis « L’expérience requiert que vous poursuiviez, » puis « Il est
+absolument essentiel que vous poursuiviez, » puis « Vous n’avez pas le
+choix, vous *devez* continuer ». Si la quatrième incitation échouait,
 l’expérience s’arrêtait.
 
 Avant de procéder à son expérience, Milgram avait décrit le dispositif
@@ -1554,7 +1557,7 @@ Milgram avait essayé certaines variantes de son test.
 
 Lors de la dix-huitième expérience, le sujet n’avait eu qu’à énoncer les
 questions à la victime attachée à sa chaise et à enregistrer les réponse
-pendant que quelqu’un d »*autre* appuyait sur les boutons. Vous voyiez la
+pendant que quelqu’un d’*autre* appuyait sur les boutons. Vous voyiez la
 même souffrance, les mêmes coups frénétiques suivis d’un silence ; mais
 ce n’était pas *vous* qui appuyiez sur les boutons. *Vous* ne faisiez
 que regarder et poser les questions à la personne qui se faisait
@@ -1798,7 +1801,7 @@ il doit être plus grand qu’eux afin de les faire jouer dans son esprit.
 Pour un acteur, un espion ou un politicien, la limite de son ampleur est
 la limite de ce qu’il peut prétendre être, la limite du visage qu’il
 sait porter comme un masque. Mais pour ceux semblables à vous et moi,
-tout ce que nous pouvons imaginer, nous pouvons l« *être*, réellement,
+tout ce que nous pouvons imaginer, nous pouvons l’*être*, réellement,
 sans faire semblant. Lorsque vous vous imaginiez un enfant, M. Potter,
 vous* étiez *un enfant. Et pourtant vous pourriez si vous le souhaitiez
 vivre d’autres existences, plus grandes. Pourquoi êtes-vous si libre,
@@ -1904,7 +1907,7 @@ l’instant où son changement de position brisa le sortilège de silence. »J
 maintenant normale et narquoise, »j’ai perdu un peu de temps et je dois
 le rattraper, mais je te verrai au petit déjeuner puis en Botanique, si
 ça ne te dérange pas. Sans parler du fait que ça ne serait pas juste de
-te faire porter tout le poids de ma dépression. »Nuit, Hermione.« »Bonne nuit, Harry,« dit-elle tout en se sentant très perplexe et
+te faire porter tout le poids de ma dépression. « Nuit, Hermione.« »Bonne nuit, Harry,« dit-elle tout en se sentant très perplexe et
 inquiète. »Beaux rêves.« Harry trébucha un peu lorsqu’elle dit cela, puis il continua vers les
 escaliers qui menaient au dortoir des garçons de première année.
 
