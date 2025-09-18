@@ -86,5 +86,5 @@ Son visage semblait légèrement plus ridé que lorsqu’elle était entrée
 dans la pièce. « On m’a fait comprendre qu’il n’y avait rien à craindre
 pour la santé de M. Malfoy. Mais j’ai malheureusement reçu une chouette
 de son père annonçant son départ de Poudlard. J’ai bien peur qu’il ne
-revienne pas.
+revienne pas. »
 
