@@ -420,7 +420,7 @@ que la recherche fondamentale en magie envoyait quand même des frissons
 d’inquiétude parcourir son corps.
 
 « Le département des mystères n’est pas à défier à la légère, » dit Albus.
-« Mais pour le reste - » le vieux sorcier sembla s’affaisser légèrement.
+« Mais pour le reste — » le vieux sorcier sembla s’affaisser légèrement.
 « Autant donner au garçon ce qu’il souhaite. Et je protégerais aussi
 Neville et écrirai à Augusta pour lui dire qu’il devrait rester ici
 pendant les vacances. »
@@ -590,7 +590,7 @@ gagne ? »
 Bones a malheureusement oublié d’inclure l’instruction explicite de ne
 pas la poser.)
 
-« Il - » dit l’Auror, et il jeta un regard dans la cellule. Le professeur
+« Il — » dit l’Auror, et il jeta un regard dans la cellule. Le professeur
 de Défense était maintenant appuyé dans sa chaise et avait l’air assez
 détendu. « Il me *regardait fixement* ! Et il *fredonnait* ! »
 
