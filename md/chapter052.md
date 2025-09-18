@@ -191,7 +191,7 @@ coulait autour de Harry sans le toucher. Elles étaient distantes mais
 nombreuses, les blessures du monde ; Harry aurait pu indiquer leur
 direction les yeux fermés.
 
-« *Lanccez vottre Patronuss, »* siffla un serpent au sol, l’air plus
+« *Lanccez vottre Patronuss,* » siffla un serpent au sol, l’air plus
 décoloré que vert sous la faible lumière orange.
 
 La légère tension se communiquait même en Fourchelangue. Harry fut
@@ -416,13 +416,13 @@ huit cellules encastrées dans le couloir, mais il ne pouvait voir à
 l’intérieur ; plus important encore, il ne pouvait voir personne dans le
 couloir.
 
-« *Je ne voiss rien, »* siffla Harry.
+« *Je ne voiss rien,* » siffla Harry.
 
 Le serpent darda, ondulant vivement le long du sol.
 
 Un moment plus tard -
 
-« *Elle est sseule, »* siffla-t-il.
+« *Elle est sseule,* » siffla-t-il.
 
 *Reste*, pensa Harry à l’intention de son Patronus, qui prit position
 juste à côté de la porte, comme s’il la gardait ; puis Harry ouvrit la

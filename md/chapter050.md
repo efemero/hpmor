@@ -29,7 +29,7 @@ Il n’y avait personne derrière non plus.
 
 Le murmure revint, doux et dangereux, accompagné d’un léger sifflement.
 
-« *Padma Patil, jeune Serpentard… »*
+« *Padma Patil, jeune Serpentard…* »
 
 « Harry Potter, jeune Serpentard, » dit-elle haut et fort.
 

@@ -128,7 +128,7 @@ voix claire, « que je n’avais qu’un demi-livre à lire, et que j’ai fai
 face à un certain nombre de délais inattendus — »
 
 « *Tu as perdu !* » glapit Hermione. « *Perdu !* Tu *as perdu notre
-concours ! »*
+concours !* »
 
 Il y eut une expiration collective tandis que tout le monde recommençait
 à respirer.
@@ -493,7 +493,7 @@ quelque chose qui pouvait provoquer une explosion politique gigantesque,
 et il serait dément de juste s’en aller et de le laisser le faire seul.
 « Nous étudierons le sang, » dit Drago.
 
-« *Excellent, »* dit la silhouette, et elle sourit. « Je te félicite pour
+« *Excellent,* » dit la silhouette, et elle sourit. « Je te félicite pour
 ton désir de poser la question. »
 
 « Merci, » dit Drago, ne parvenant pas tout à fait à masquer toute trace

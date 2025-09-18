@@ -74,16 +74,25 @@ forme et prouvant immédiatement cette affirmation en dansant comme un
 duelliste entre les trophées sous bonne garde tandis qu’elle courait
 frénétiquement en tous sens puis en lui assénant le coup final d’un
 sortilège qui l’avait envoyée s’écraser contre le mur et avait fait
-jaillir du sang de sa joue… Et alors… Alors elle avait…« »Mais vous vous souvenez l’avoir fait,« dit la sorcière plus âgée en la
-regardant avec compréhension et gentillesse. »Mlle Granger, une fillette
+jaillir du sang de sa joue… Et alors… Alors elle avait…
+
+« Mais vous vous souvenez l’avoir fait, » dit la sorcière plus âgée en la
+regardant avec compréhension et gentillesse. « Mlle Granger, une fillette
 de douze ans n’a pas besoin de supporter des souvenirs aussi affreux.
-Demandez-le moi et je serais heureuse de les enfermer pour vous.« C’était comme si on lui avait jeté un verre d’eau en plein visage. »Quoi ?« Le professeur McGonagall sortit sa baguette, un geste si expert et
+Demandez-le moi et je serais heureuse de les enfermer pour vous. »
+
+C’était comme si on lui avait jeté un verre d’eau en plein visage.
+« Quoi ? »
+
+Le professeur McGonagall sortit sa baguette, un geste si expert et
 rapide qu’on aurait dit qu’elle avait simplement pointé quelque chose du
-doigt. »Je ne peux pas vous offrir de vous débarrasser entièrement de
-ces souvenirs, Mlle Granger,« dit le professeur McGonagall avec sa
-précision habituelle. »D’importants faits pourraient s’y trouver
+doigt. « Je ne peux pas vous offrir de vous débarrasser entièrement de
+ces souvenirs, Mlle Granger, » dit le professeur McGonagall avec sa
+précision habituelle. « D’importants faits pourraient s’y trouver
 enfouis. Mais il existe une forme d’Oubliettes qui est réversible et je
-serais heureuse de le lancer sur vous.« Hermione regarda la baguette et sentit l’éclosion d’un espoir pour la
+serais heureuse de le lancer sur vous. »
+
+Hermione regarda la baguette et sentit l’éclosion d’un espoir pour la
 première fois en presque deux jours.
 
 *Faites que ça n’ait jamais eu lieu…* elle l’avait souhaité, encore et
@@ -92,10 +101,21 @@ l’horrible choix qui ne pourrait jamais, jamais être défait. Et même si
 l’effacement du souvenir n’allait pas jusque là, ce serait tout de même
 une forme de libération…
 
-Elle revint au doux visage du professeur McGonagall. »Vous ne pensez *vraiment pas* que je l’ai fait ?« dit Hermione d’une
-voix tremblante. »Je suis *tout à fait* certaine que vous ne feriez pas une chose
-pareille de votre plein gré.« Sous les couvertures, les mains de Hermione serraient les draps. »*Harry* pense que je ne l’ai pas fait ?« »M. Potter considère que vos souvenirs ont été entièrement manufacturés.
-Je comprends parfaitement son point de vue.« Les mains agrippées de Hermione laissèrent filer les draps et elle
+Elle revint au doux visage du professeur McGonagall.
+
+« Vous ne pensez *vraiment pas* que je l’ai fait ? » dit Hermione d’une
+voix tremblante.
+
+« Je suis *tout à fait* certaine que vous ne feriez pas une chose
+pareille de votre plein gré. »
+
+Sous les couvertures, les mains de Hermione serraient les draps.
+« *Harry* pense que je ne l’ai pas fait ? »
+
+« M. Potter considère que vos souvenirs ont été entièrement manufacturés.
+Je comprends parfaitement son point de vue. »
+
+Les mains agrippées de Hermione laissèrent filer les draps et elle
 s’affaissa de nouveau dans le lit, où elle s’était en partie assise.
 
 Non.
@@ -123,10 +143,13 @@ d’une autre, peut-être que tout le monde aurait vu qu’elle regrettait,
 et Harry n’aurait pas eu à perdre tout son argent pour la sauver…
 
 Hermione ferma les yeux, les serra très fort, car elle ne pouvait pas
-supporter l’idée de se remettre à pleurer. »Je suis quelqu’un
-d’horrible,« dit-elle d’une voix chancelante. »Je suis horrible et pas
-héroïque du tout…« La voix du professeur McGonagall fut très tranchante, comme si Hermione
-venait de faire une terrible erreur dans ses devoirs de Métamorphose. »Cessez de vous comporter comme une idiote, Mlle Granger ! La personne
+supporter l’idée de se remettre à pleurer. « Je suis quelqu’un
+d’horrible, » dit-elle d’une voix chancelante. « Je suis horrible et pas
+héroïque du tout… »
+
+La voix du professeur McGonagall fut très tranchante, comme si Hermione
+venait de faire une terrible erreur dans ses devoirs de Métamorphose.
+« Cessez de vous comporter comme une idiote, Mlle Granger ! La personne
 *horrible* est celle qui vous a fait cela ; Quand à l’héroïsme… Eh bien,
 Mlle Granger, vous avez déjà entendu mon opinion au sujet des jeunes
 filles qui s’essaient ce genre de choses avant même d’avoir quatorze
@@ -134,7 +157,9 @@ ans, aussi je ne vous ferai pas d’autre leçon à ce sujet. Je dirai
 seulement que vous venez de subir une expérience absolument atroce et à
 laquelle vous avez survécu aussi bien qu’il aurait été possible pour une
 sorcière de votre année. Aujourd’hui, vous avez le droit de pleurer
-autant qu’il vous plaira. Demain, vous retournez en cours.« C’est alors que Hermione sut le professeur McGonagall ne pouvait pas
+autant qu’il vous plaira. Demain, vous retournez en cours. »
+
+C’est alors que Hermione sut le professeur McGonagall ne pouvait pas
 l’aider. Elle avait besoin qu’on la gronde car elle ne pourrait pas être
 absoute avant d’avoir été blâmée, et le professeur McGonagall ne ferait
 jamais cela pour elle car elle n’en demanderait jamais autant à une
@@ -143,36 +168,70 @@ petite Serdaigle.
 C’était une chose pour laquelle Harry Potter ne l’aiderait pas non plus.
 
 Hermione se retourna dans son lit et se recroquevilla contre elle-même,
-loin du professeur McGonagall. »S’il vous plaît,« murmura-t-elle. »Je
-veux parler… Au directeur…« ------------------------------------------------------------------------ »Hermione.« Lorsque Hermione Granger ouvrit les yeux une seconde fois, elle vit le
+loin du professeur McGonagall. « S’il vous plaît, » murmura-t-elle. « Je
+veux parler… Au directeur… »
+
+
+
+------------------------------------------------------------------------
+
+
+
+« Hermione. »
+
+Lorsque Hermione Granger ouvrit les yeux une seconde fois, elle vit le
 visage ridé de soucis d’Albus Dumbledore, penché au-dessus de son lit
 avec l’air d’avoir *pleuré*, même si c’était bien sûr impossible ; et
 Hermione ressentit un pincement déchirant de culpabilité à l’idée de
-l’avoir autant dérangé. »Minerva dit que tu souhaitais me parler,« dit le vieux sorcier. »Je…« Hermione ne savait soudain plus quoi dire. Sa gorge se referma et
-elle ne put que bégayer : »Je – je suis…« Son ton devait être parvenu à communiquer l’autre mot, celui qu’elle ne
-parvenait même plus à prononcer. »*Désolée ?« * dit Dumbledore. »Pourquoi, pourquoi devrais-tu être
-désolée ?« Elle dut se forcer à faire sortir les mots de sa bouche. »Vous avez dit
+l’avoir autant dérangé.
+
+« Minerva dit que tu souhaitais me parler, » dit le vieux sorcier.
+
+« Je… » Hermione ne savait soudain plus quoi dire. Sa gorge se referma et
+elle ne put que bégayer : « Je – je suis… »
+
+Son ton devait être parvenu à communiquer l’autre mot, celui qu’elle ne
+parvenait même plus à prononcer.
+
+« *Désolée ?* » dit Dumbledore. « Pourquoi, pourquoi devrais-tu être
+désolée ? »
+
+Elle dut se forcer à faire sortir les mots de sa bouche. « Vous avez dit
 à Harry… Qu’il ne devrait pas payer… donc *je* n’aurais pas… Dû faire ce
 que le professeur McGonagall a dit, je n’aurais pas dû toucher sa
-baguette…« »Ma chérie,« dit Dumbledore, »si tu ne t’étais pas engagée auprès de la
+baguette… »
+
+« Ma chérie, » dit Dumbledore, « si tu ne t’étais pas engagée auprès de la
 maison Potter, Harry aurait attaqué Azkaban seul et aurait peut-être
 gagné. Ce garçon choisit peut-être ses mots avec soin, mais je ne l’ai
 encore jamais vu mentir, et chez le Survivant se trouve un pouvoir que
 le Seigneur des Ténèbres n’a jamais connu. Il aurait bel et bien essayé
-de briser Azkaban, même au prix de sa vie.« La voix du vieux sorcier
-devint plus douce et plus amicale. »Non, Hermione, tu n’as rien fait qui
-justifie que tu t’en veuilles à toi même.« »J’aurais pu *faire* qu’il n’attaque pas.« Dans les yeux de Dumbledore apparut un léger scintillement qui fut
-bientôt perdu dans sa fatigue. »Vraiment, Mlle Granger ? Peut-être
+de briser Azkaban, même au prix de sa vie. » La voix du vieux sorcier
+devint plus douce et plus amicale. « Non, Hermione, tu n’as rien fait qui
+justifie que tu t’en veuilles à toi même. »
+
+« J’aurais pu *faire* qu’il n’attaque pas. »
+
+Dans les yeux de Dumbledore apparut un léger scintillement qui fut
+bientôt perdu dans sa fatigue. « Vraiment, Mlle Granger ? Peut-être
 devriez-vous être directrice à ma place, car je n’ai moi-même pas un tel
-pouvoir sur les enfants bornés.« »Harry a promis…« sa voix s’interrompit. L’horrible vérité était très
-difficile à prononcer. »Harry Potter m’a promis… Qu’il ne m’aiderait
-jamais… Si je lui demandais de ne pas le faire.« Il y eut une pause. Hermione se rendit compte que les bruits lointains
+pouvoir sur les enfants bornés. »
+
+« Harry a promis… » sa voix s’interrompit. L’horrible vérité était très
+difficile à prononcer. « Harry Potter m’a promis… Qu’il ne m’aiderait
+jamais… Si je lui demandais de ne pas le faire. »
+
+Il y eut une pause. Hermione se rendit compte que les bruits lointains
 de l’infirmerie qui avaient accompagnés le professeur McGonagall avaient
 cessé lorsque Dumbledore l’avait réveillée. De là où elle se trouvait,
 allongée dans son lit, elle ne pouvait voir que le plafond et le haut de
 l’une des fenêtres, mais rien dans son champ de vision ne bougeait, et
-s’il y avait des sons, elle ne pouvait pas les entendre. »Ah,« dit Dumbledore. Le vieux sorcier eut un profond soupir. »J’imagine
-qu’il est *possible* que le garçon ait alors tenu sa promesse.« »« J’aurais… j’aurais dû… »
+s’il y avait des sons, elle ne pouvait pas les entendre.
+
+« Ah, » dit Dumbledore. Le vieux sorcier eut un profond soupir. « J’imagine
+qu’il est *possible* que le garçon ait alors tenu sa promesse. »
+
+« J’aurais… j’aurais dû… »
 
 « Aller à Azkaban de ton plein gré ? » dit Dumbledore. « Mlle Granger,
 c’est là plus que je n’exigerai jamais d’un autre. »
@@ -246,7 +305,7 @@ chargée d’une profonde tristesse. « Je m’interroge depuis trente ans et
 je ne comprends toujours pas. Toi et moi ne comprendrons jamais,
 Hermione Granger. Mais au moins je sais maintenant ce que le véritable
 mal répondrait, si on pouvait lui parler et lui demander pourquoi il
-était ainsi. Il dirait : *Pourquoi pas ? »*
+était ainsi. Il dirait : *Pourquoi pas ?* »
 
 Un bref éclair d’indignation la traversa. « Il doit y avoir au moins un
 *million* de raisons de ne pas l’être ! »
@@ -361,7 +420,7 @@ que la recherche fondamentale en magie envoyait quand même des frissons
 d’inquiétude parcourir son corps.
 
 « Le département des mystères n’est pas à défier à la légère, » dit Albus.
-« Mais pour le reste — » le vieux sorcier sembla s’affaisser légèrement.
+« Mais pour le reste - » le vieux sorcier sembla s’affaisser légèrement.
 « Autant donner au garçon ce qu’il souhaite. Et je protégerais aussi
 Neville et écrirai à Augusta pour lui dire qu’il devrait rester ici
 pendant les vacances. »
@@ -531,7 +590,7 @@ gagne ? »
 Bones a malheureusement oublié d’inclure l’instruction explicite de ne
 pas la poser.)
 
-« Il — » dit l’Auror, et il jeta un regard dans la cellule. Le professeur
+« Il - » dit l’Auror, et il jeta un regard dans la cellule. Le professeur
 de Défense était maintenant appuyé dans sa chaise et avait l’air assez
 détendu. « Il me *regardait fixement* ! Et il *fredonnait* ! »
 
@@ -896,14 +955,24 @@ tremblante.
 de Salem, aux États-Unis. »
 
 « *Quitter Poudlard ?* » Elle n’avait jamais songé à cette possibilité
-autrement que comme la punition ultime.« »Je… Hermione, je pense que tu pourrais vouloir faire ça de toute façon.
+autrement que comme la punition ultime.
+
+« Je… Hermione, je pense que tu pourrais vouloir faire ça de toute façon.
 Poudlard n’est pas un château, c’est de la folie emmurée. Tu *as*
-d’autres possibilités.« »Je…« bégaya-t-elle. »Je devrai… y réfléchir…« Harry hocha la tête. »Au moins personne n’essaierai de te lancer un
+d’autres possibilités. »
+
+« Je… » bégaya-t-elle. « Je devrai… y réfléchir… »
+
+Harry hocha la tête. « Au moins personne n’essaierai de te lancer un
 sortilège, pas après ce que le directeur a dit au dîner ce soir. Oh, et
 Ron Weasley est venu me voir avec un air très sérieux et m’a dit que si
 je te voyais en premier, je devrais te dire qu’il est désolé d’avoir
 pensé du mal de toi et qu’il ne dira plus jamais rien de méchant à ton
-égard.« »*Ron* croit que je suis innocente ?« dit Hermione. »Eh bien… ce n’est pas qu’il croit que tu es *innocente…« *
+égard. »
+
+« *Ron* croit que je suis innocente ? » dit Hermione.
+
+« Eh bien… ce n’est pas qu’il croit que tu es *innocente…* »
 
 
 
@@ -944,12 +1013,15 @@ regard…
 Hermione avança droit vers l’escalier qui menait directement au dortoir
 des filles en première année (Elle ne vit pas que Padma Patil et Anthony
 Goldstein la regardaient, leurs têtes seules à suivre son mouvement) De
-derrière elle, elle entendit Harry Potter dire d’un ton très calme : »Vous tous, la vérité finira par éclater. Donc si vous êtes tous si sûrs
+derrière elle, elle entendit Harry Potter dire d’un ton très calme :
+« Vous tous, la vérité finira par éclater. Donc si vous êtes tous si sûrs
 qu’elle est coupable, pourrais-je tous vous demander de signer ce papier
 ici qui dit que si elle s’avère avoir été innocente, elle aura le droit
-de vous dire « Je te l’avais dit » et de vous en vouloir jusqu’à la fin de
+de vous dire “Je te l’avais dit” et de vous en vouloir jusqu’à la fin de
 vos jours ? Allez y, ne soyez pas lâches, si vous y croyez vraiment vous
-ne devriez pas avoir peur de parier…« Elle avait parcouru la moitié des escaliers lorsqu’elle se rendit compte
+ne devriez pas avoir peur de parier… »
+
+Elle avait parcouru la moitié des escaliers lorsqu’elle se rendit compte
 qu’il y aurait aussi d’autres filles dans le dortoir.
 
 
@@ -969,7 +1041,9 @@ après s’être rendue compte que…
 …*elle ne pouvait juste pas aller dormir…*
 
 …les mots faisaient écho dans son esprit sur le même ton qu’auraient eu
-ceux-ci : »Tu ne peux plus rentrer chez toi.« Elle regarda le terrain vide, le soleil couchant, l’herbe nouvelle, si
+ceux-ci : « Tu ne peux plus rentrer chez toi. »
+
+Elle regarda le terrain vide, le soleil couchant, l’herbe nouvelle, si
 loin, en contrebas.
 
 Fatiguée, elle était fatiguée, elle ne pouvait plus penser, elle avait
@@ -1011,13 +1085,17 @@ coupables potentiels. Elle ne s’était même pas rendue compte qu’elle
 *avait* une liste de suspect avant cet instant.
 
 L’homme se tenait devant cette porte sans rien dire et elle ne pouvait
-pas voir ses yeux. Que *faisait-*il ici, en premier lieu ? »Êtes-vous ici pour me tuer ?« dit Hermione Granger.
+pas voir ses yeux. Que *faisait-*il ici, en premier lieu ?
+
+« Êtes-vous ici pour me tuer ? » dit Hermione Granger.
 
 Sur ces mots, la tête du professeur Quirrell s’inclina.
 
 Puis il s’élança vers elle, la sombre silhouette levant une main
 lentement, délibérément, comme pour la faire tomber de la tour
-Serdaigle… »*Stupéfix !« *
+Serdaigle…
+
+« *Stupéfix !* »
 
 Le jet d’adrénaline écrasa tout le reste, elle sortit sa baguette sans
 avoir pensé, ses lèvres formèrent le mot d’elles-mêmes, le tir jaillit
@@ -1028,11 +1106,15 @@ ondulant dans un vol suspendu comme s’il essayait encore d’avancer,
 émettant un sifflement.
 
 La lueur rouge illumina le visage du professeur Quirrell pour la
-première fois et révéla un étrange et affectueux sourire. »Mieux,« dit le professeur Quirrell. »Mlle Granger, vous êtes toujours
+première fois et révéla un étrange et affectueux sourire.
+
+« Mieux, » dit le professeur Quirrell. « Mlle Granger, vous êtes toujours
 élève de mon cours de Défense. À ce titre, si vous me considérez comme
 une menace, j’attends de vous que ne fassiez pas que me regarder
 tristement et me demander si je suis ici pour vous tuer. Deux points
-Quirrell en moins.« Elle fut entièrement incapable de formuler une réponse.
+Quirrell en moins. »
+
+Elle fut entièrement incapable de formuler une réponse.
 
 Le professeur de Défense fit une chiquenaude nonchalante de l’index vers
 le tir suspendu et envoya le maléfice au-dessus de sa tête, loin dans la
@@ -1040,49 +1122,77 @@ nuit, si bien qu’ils se retrouvèrent dans les ténèbres. Puis le
 professeur Quirrell s’éloigna de la porte qui se referma d’un coup
 derrière lui et une douce lumière blanche apparut autour d’eux, si bien
 qu’elle pu de nouveau voir son visage, toujours avec cet étrange sourire
-affectueux. »Que… que *faites*-vous ici ?« Quelque pas de plus menèrent le professeur Quirrell à une partie plus
+affectueux.
+
+« Que… que *faites*-vous ici ? »
+
+Quelque pas de plus menèrent le professeur Quirrell à une partie plus
 élevée du balcon, où il posa ses coudes sur la pierre et s’inclina très
-avant, regardant la nuit. »Je suis venu ici immédiatement après avoir été relâché par les Aurors
-et à l’instant où j’ai fini de faire mon rapport au directeur,« dit le
-professeur Quirrell d’une voix tranquille, »parce que je suis votre
-professeur, que vous êtes mon élève et que je suis responsable de vous.« Hermione comprit alors ; elle se souvint de ce que le professeur
+avant, regardant la nuit.
+
+« Je suis venu ici immédiatement après avoir été relâché par les Aurors
+et à l’instant où j’ai fini de faire mon rapport au directeur, » dit le
+professeur Quirrell d’une voix tranquille, « parce que je suis votre
+professeur, que vous êtes mon élève et que je suis responsable de vous. »
+
+Hermione comprit alors ; elle se souvint de ce que le professeur
 Quirrell avait dit à Harry lors de sa seconde leçon de Défense de
 l’année au sujet du contrôle de sa colère. Elle sentit une vague de
 honte saisir sa poitrine. Il lui fallut un moment pour que le savoir
-surmonte la mortification, pour qu’elle force les mots à sortir… »Je…« dit Hermione. »Harry pense… que je ne me *suis pas* emportée, je
-veux dire…« »C’est ce que j’ai entendu,« dit le professeur Quirrell d’un ton plutôt
-sec. Il secoua la tête comme à l’intention des étoiles elles-mêmes. »Le
+surmonte la mortification, pour qu’elle force les mots à sortir…
+
+« Je… » dit Hermione. « Harry pense… que je ne me *suis pas* emportée, je
+veux dire… »
+
+« C’est ce que j’ai entendu, » dit le professeur Quirrell d’un ton plutôt
+sec. Il secoua la tête comme à l’intention des étoiles elles-mêmes. « Le
 garçon a la chance que j’ai dépassé le stade de l’agacement face à ses
 tendances autodestructrices et en sois à la pure curiosité quant à ce
 qu’il va faire ensuite. Mais je suis d’accord avec l’interprétation des
 faits de M. Potter. Ce meurtre était très bien préparé pour échapper à
 la détection, à la fois de Poudlard et de l’œil aux aguets du directeur.
 Naturellement, lors d’un meurtre si bien pensé, quelque innocent
-recevrait le blâme.« Un bref sourire ironique passa sur les lèvres du
-professeur de Défense, mais il ne la regardait pas. »Quant à l’idée que
+recevrait le blâme. » Un bref sourire ironique passa sur les lèvres du
+professeur de Défense, mais il ne la regardait pas. « Quant à l’idée que
 vous l’ayez fait vous-même – je me considère être un professeur de
 talent, mais même moi ne pourrais enseigner une telle intention
 meurtrière à une élève aussi obstinée et dénuée de talent que Hermione
-Granger.« La partie de son cerveau qui répondit *Quoi ?* d’un ton indignée fut
-loin d’être assez forte pour atteindre ses lèvres. »Non…« dit le professeur Quirrell. »Ce n’est pas pour cela que je suis
+Granger. »
+
+La partie de son cerveau qui répondit *Quoi ?* d’un ton indignée fut
+loin d’être assez forte pour atteindre ses lèvres.
+
+« Non… » dit le professeur Quirrell. « Ce n’est pas pour cela que je suis
 ici. Vous n’avez fait aucun effort pour masquer votre antipathie à mon
 égard, Mlle Granger. Je vous remercie pour cette absence de prétentions,
 car je préfère de loin la véritable haine à l’amour faux. Mais vous êtes
 toujours mon élève et j’ai quelque chose à vous dire, si vous voulez
-bien l’écouter.« Hermione le regarda tout en continuant de combattre les effets de
+bien l’écouter. »
+
+Hermione le regarda tout en continuant de combattre les effets de
 l’adrénaline de quelque instants auparavant. Le professeur de Défense
 semblait juste regarder le ciel noir dans lequel les étoiles
-apparaissaient. »Il fut un jour où j’allais devenir un héros,« dit le professeur
-Quirrell, les yeux toujours levés. »Pouvez-vous y croire, Mlle
-Granger ?« »Non.« »Merci, une fois de plus, Mlle Granger. C’est néanmoins vrai. Il y a
+apparaissaient.
+
+« Il fut un jour où j’allais devenir un héros, » dit le professeur
+Quirrell, les yeux toujours levés. « Pouvez-vous y croire, Mlle
+Granger ? »
+
+« Non. »
+
+« Merci, une fois de plus, Mlle Granger. C’est néanmoins vrai. Il y a
 longtemps, longtemps avant votre époque ou celle de Harry Potter, fut un
 homme salué comme un sauveur. L’héritier dont chacun reconnaissait le
 destin grâce aux contes de fées, maniant la justice et la vengeance
-comme deux baguettes face à sa terrible Némésis.« Le professeur Quirrell
+comme deux baguettes face à sa terrible Némésis. » Le professeur Quirrell
 eut un rire doux et amer avant de relever les yeux vers le ciel
-nocturne. »Savez-vous, Mlle Granger, qu’à cette époque je me croyais
-déjà cynique et que pourtant… eh bien.« Le silence s’étira dans le froid et la nuit. »En toute honnêteté,« dit le professeur Quirrell en relevant la tête
-vers les étoiles, »je ne comprends toujours pas. Ils auraient dû savoir
+nocturne. « Savez-vous, Mlle Granger, qu’à cette époque je me croyais
+déjà cynique et que pourtant… eh bien. »
+
+Le silence s’étira dans le froid et la nuit.
+
+« En toute honnêteté, » dit le professeur Quirrell en relevant la tête
+vers les étoiles, « je ne comprends toujours pas. Ils auraient dû savoir
 que leurs vies dépendaient du succès de cet homme. Et pourtant c’était
 comme s’ils essayaient de faire leur possible pour rendre sa vie
 *déplaisante*. Pour placer tous les obstacles possibles sur son chemin.
@@ -1093,39 +1203,50 @@ donc choqué de voir comme ils semblaient heureux de s’écarter et de
 laisser à cet hommes tous les fardeaux de la responsabilité. Ils se
 gaussaient de ses réussites, se faisaient remarquer l’un à l’autre à
 quel point ils auraient fait mieux à sa place, même s’ils ne
-s’abaissaient pas à le faire.« Le professeur Quirrell secoua la tête
-comme avec perplexité. »Et c’était la chose la plus étrange… le mage
+s’abaissaient pas à le faire. » Le professeur Quirrell secoua la tête
+comme avec perplexité. « Et c’était la chose la plus étrange… le mage
 noir, la terrible Némésis de cet homme – eh bien, ceux qui *le*
 servaient remplissaient leurs tâches avec zèle. Le mage noir devenait
 plus cruel envers ses adeptes et ils le suivaient d’autant plus. Les
 gens se battaient pour avoir la chance de *le* servir tandis que ceux
 dont la vie dépendait de cet autre homme se sentaient libre de rendre la
-sienne difficile… je ne parvenais pas à comprendre, Mlle Granger.« Le
-visage du professeur Quirrell était dans l’ombre, les yeux levés. »Peut-être en prenant sur lui le fardeau de l’action l’avait-il ôté des
+sienne difficile… je ne parvenais pas à comprendre, Mlle Granger. » Le
+visage du professeur Quirrell était dans l’ombre, les yeux levés.
+« Peut-être en prenant sur lui le fardeau de l’action l’avait-il ôté des
 épaules de tous les autres ? Était-ce pour cela qu’ils se sentaient
 libre de nuire à sa bataille contre le mage noir qui les aurait tous mis
 en esclavage ? Il s’avère que ce n’était pas du cynisme mais de
 l’optimisme absolu que de croire que les hommes agiraient pour leur
 intérêt personnel. En réalité, les hommes ne s’élèvent pas jusque là. Et
 il finit donc par se rendre compte qu’il ferait mieux de combattre le
-mage noir seul qu’avec de tels adeptes sur son dos.« »Donc…« dans la nuit, la voix de Hermione était étrange. »Vous avez
+mage noir seul qu’avec de tels adeptes sur son dos. »
+
+« Donc… » dans la nuit, la voix de Hermione était étrange. « Vous avez
 laissé vos amis derrière, en sécurité, et avez essayé d’attaquer le mage
-noir tout seul ?« »Allons, pas du tout,« dit le professeur Quirrell. »J’ai arrêté
+noir tout seul ? »
+
+« Allons, pas du tout, » dit le professeur Quirrell. « J’ai arrêté
 d’essayer d’être un héros et je suis parti faire quelque chose de plus
-plaisant.« »*Quoi ?« * dit Hermione sans même réfléchir. »C’est *horrible* !« Le professeur de Défense abaissa la tête, se détourna du ciel, et elle
+plaisant. »
+
+« *Quoi ?* » dit Hermione sans même réfléchir. « C’est *horrible* ! »
+
+Le professeur de Défense abaissa la tête, se détourna du ciel, et elle
 vit dans la lumière de la porte qu’il souriait – ou du moins que la
-moitié de son visage souriait. »Mlle Granger, allez-vous me dire que je
+moitié de son visage souriait. « Mlle Granger, allez-vous me dire que je
 suis quelqu’un d’horrible ? Eh bien peut-être. Mais alors les gens qui
 n’essaient même pas de devenir des héros sont-ils encore pires ? Si je
 n’avais jamais essayé de faire quoi que ce soit, auriez-vous eu une
-meilleure opinion de moi ?« Hermione ouvrit la bouche et découvrit à nouveau qu’une fois de plus,
+meilleure opinion de moi ? »
+
+Hermione ouvrit la bouche et découvrit à nouveau qu’une fois de plus,
 elle n’avait rien à dire. Ce n’était pas bien se désister de la tâche de
 héros, on ne pouvait tout simplement *pas* faire ça, mais elle ne
 *voulait pas* dire que tous ceux qui n’étaient pas un héros ne valaient
 rien, ça aurait été penser comme Quirrell…
 
-Le sourire ou demi-sourire avait disparu. »Vous étiez idiote,« dit
-doucement le professeur de Défense, »de vous attendre à la moindre
+Le sourire ou demi-sourire avait disparu. « Vous étiez idiote, » dit
+doucement le professeur de Défense, « de vous attendre à la moindre
 gratitude de la part de ceux que vous aviez essayé de protéger après
 vous être désignée comme héroïne. Tout comme attendez de cet homme qu’il
 continue d’être un héros et l’avez qualifié d’horrible parce qu’il s’est
@@ -1134,8 +1255,12 @@ arrêté, alors que mille autres n’ont jamais levé un doigt. Il était
 l’ont acceptée comme des princes, avec une moue moqueuse pour le retard
 de votre paiement. Et je gage que vous avez déjà été témoin de leur
 affection, disparaissant comme la poussière sous le vent une fois qu’il
-n’était plus dans leur intérêt de s’associer à vous…« Le professeur de Défense se raidit lentement sur le balcon, se tint
-presque droit et se tourna pour lui faire pleinement face. »Mais vous n’avez pas à être une héroïne, Mlle Granger, dit le
+n’était plus dans leur intérêt de s’associer à vous… »
+
+Le professeur de Défense se raidit lentement sur le balcon, se tint
+presque droit et se tourna pour lui faire pleinement face.
+
+« Mais vous n’avez pas à être une héroïne, Mlle Granger, » dit le
 professeur Quirrell. « Vous pouvez vous arrêter quand bon vous semble. »
 
 Cette idée…

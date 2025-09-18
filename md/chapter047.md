@@ -30,7 +30,7 @@ réfléchissant dans les ténèbres, attendant qu’une porte ouverte laisse
 entrer la lumière.)
 
 Harry avait repoussé Granger et il avait dit : « *Je t’ai dit pas de
-bisou ! »*
+bisou !* »
 
 Il dirait probablement quelque chose comme : « *Elle l’a fait juste pour
 m’agacer la dernière fois, exactement comme elle m’a fait aller à ce
@@ -410,7 +410,7 @@ te donne le droit de — »
 
 Et c’est *là* que Drago se rendit *enfin* compte.
 
-« *Tu as été Trié à Serpentard ! »* dit Drago. « C’est *ça*, et après tu,
+« *Tu as été Trié à Serpentard !* » dit Drago. « C’est *ça*, et après tu,
 tu as, je ne sais pas, tu as *claqué des doigts* — » Drago avait un jour
 demandé à Père s’il serait plus malin de se faire répartir dans une
 autre maison, pour que tout le monde lui fasse confiance, et Père avait
@@ -492,7 +492,7 @@ de choses…
 Puis Harry dit : « Pour que les Serpentard puissent à nouveau lancer le
 Patronus. »
 
-« *Ça… n’a… aucun… SENS ! »* Drago était conscient du fait qu’il
+« *Ça… n’a… aucun… SENS !* » Drago était conscient du fait qu’il
 commençait à perdre le contrôle de sa voix, mais il ne semblait pas être
 capable de s’arrêter. « *Qu’est-ce que ça a à voir avec Granger ?* »
 
@@ -883,7 +883,7 @@ seule fois, il aurait dû le remarquer plus tôt. « Elle… elle s’est
 retrouvée sur la trajectoire d’un sortilège ? »
 
 La voix de Drago était un cri. « *Dumbledore l’a brûlée vive dans sa
-chambre ! »*
+chambre !* »
 
 
 
@@ -900,7 +900,7 @@ de juger, l’émotion était trop forte, quelque en chose en lui voulait
 soit se mettre à pleurer, par empathie pour Drago, soit *savoir* que
 c’était faux…
 
-« *Dumbledore l’a brûlée vive dans sa chambre ! »*
+« *Dumbledore l’a brûlée vive dans sa chambre !* »
 
 Ça…
 
@@ -1145,7 +1145,7 @@ obtenir, je te *préviens* juste que je suis un Occlumens. Pas un
 Occlumens parfait, mais M. Bester a dit que j’arrivais à élever une
 barrière totale, et je pourrais probablement vaincre le Veritaserum. »
 
-« *Tu es en première année ! C’est de la folie ! »*
+« *Tu es en première année ! C’est de la folie !* »
 
 « Connais-tu un Legilimens en qui tu as confiance ? Je serais heureux de
 faire une démonstration — écoute Drago, je suis désolé, mais le fait que
@@ -1154,7 +1154,7 @@ de te laisser faire l’expérience, tu sais. »
 
 « *POURQUOI ? Pourquoi faut-il que tu sois toujours ainsi, Harry ?
 Pourquoi faut-il que tu chamboules tout même quand c’est IMPOSSIBLE ? Et
-arrête de sourire, ça n’est pas drôle ! »*
+arrête de sourire, ça n’est pas drôle !* »
 
 « Je suis désolé, je suis désolé, je *sais* que ce n’est pas drôle, je — »
 
@@ -1208,7 +1208,7 @@ Les étoiles brillaient à travers l’atmosphère transparente.
 Harry avait dit que les étoiles l’aideraient.
 
 De sa baguette, Drago toucha sa poitrine, fit glisser ses doigts d’un
-mouvement longuement pratiqué, et dit : « *Thermos »*. Une chaleur se
+mouvement longuement pratiqué, et dit : « *Thermos* ». Une chaleur se
 répandit en lui en partant de son cœur ; le vent vint souffler sur son
 visage, mais il n’avait plus froid.
 

@@ -547,7 +547,7 @@ demander cela, Fumseck, il n’est encore qu’un enfant ! »
 « Vous êtes allé à Azkaban, » chuchota Harry, « vous avez emmené Fumseck
 avec vous, il a vu — *vous* avez vu — vous étiez *là*, vous avez vu -
 *POURQUOI N’AVEZ-VOUS RIEN FAIT ? POURQUOI NE LES AVEZ-VOUS PAS LAISSÉS
-SORTIR ? »*
+SORTIR ?* »
 
 Lorsque les instruments eurent fini de vibrer, Harry se rendit compte
 que Fumseck avait crié en même temps que lui et qu’il volait maintenant

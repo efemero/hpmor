@@ -3,7 +3,7 @@
 Ce n’était pas tous les jours que vous pouviez voir Harry Potter
 supplier.
 
-« *S’il vous plaaaaaaaît, »* gémit Harry Potter.
+« *S’il vous plaaaaaaaît,* » gémit Harry Potter.
 
 Fred et George secouèrent la tête en souriant.
 

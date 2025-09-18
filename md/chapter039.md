@@ -318,7 +318,7 @@ Alors il prit une profonde inspiration, s’enfonça d’avantage dans la
 chaise, ferma les yeux et se souvint :
 
 « *Et ce sera… cinq points ? Non, disons dix points retirés à Serdaigle
-pour impertinence. »*
+pour impertinence.* »
 
 Le froid vint plus lentement cette fois, avec plus de réticence, Harry
 n’avait pas beaucoup fait appel à son côté obscur ces derniers temps…
@@ -370,7 +370,7 @@ Harry regarda le directeur avec surprise.
 comprendre le Seigneur des Ténèbres parce que je suis le héros, ou
 quelque chose comme ça ? »
 
-« *Oui ! »* dit Dumbledore. « Mon grand ennemi était Grindelwald, et *lui*,
+« *Oui !* » dit Dumbledore. « Mon grand ennemi était Grindelwald, et *lui*,
 je le comprenais parfaitement. Il était mon miroir obscur, l’homme que
 j’aurais si facilement pu être, aurais-je cédé à la tentation de croire
 que j’étais quelqu’un de bien et que j’avais par conséquent toujours

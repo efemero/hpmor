@@ -528,7 +528,7 @@ longtemps.
 
 « *Lagann !* » dit la voix de Neville derrière elle alors qu’elle
 s’enfuyait, et il y eut le bruit d’un mur prismatique fracassé, la voix
-de Hannah qui hurlait désespérément « *Somnium ! »* et quelques instants
+de Hannah qui hurlait désespérément « *Somnium !* » et quelques instants
 plus tard celle de Neville qui disait calmement « Somnium » et le bruit
 mat d’un autre de ses soldats qui tombait au sol.
 

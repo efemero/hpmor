@@ -51,7 +51,7 @@ Le professeur Quirrell finit ses sortilèges -
 \- se fondit en un serpent vert bariolé de bleu et de blanc -
 
 \- siffla « *Faim, garçon ? Mange ton content en vitesse, nouss aurons
-bessoin de forcces et de temps. »*
+bessoin de forcces et de temps.* »
 
 Les yeux de Harry s’écarquillèrent légèrement, mais il siffla « *J’ai
 bien mangé cce matin,* » avant de rapidement fourrer des nouilles dans sa
@@ -59,13 +59,13 @@ bouche.
 
 Le serpent le regarda un moment de ses yeux plats puis siffla : « *Ne
 ssouhaite pas expliquer icci. Préfère être ailleurs d’abord. Bessoin de
-partir pas vu, ssans ssigne que nouss avons jamais quitté piècce. »*
+partir pas vu, ssans ssigne que nouss avons jamais quitté piècce.* »
 
-« *Pour que perssonne ne puisse nous suivre, »* siffla Harry.
+« *Pour que perssonne ne puisse nous suivre,* » siffla Harry.
 
 « *Oui. Me fais-tu confiancce à cce point, garççon ? Pensses avant de
 répondre. J’ai requête importante pour toi, qui néccesssite confiancce ;
-si tu ssais que tu vas dire non, dis maintenant. »*
+si tu ssais que tu vas dire non, dis maintenant.* »
 
 Harry baissa le regard en évitant les yeux plats du serpent, considéra
 ses nouilles en sauce, et prit une autre bouchée, puis une autre, alors
@@ -170,7 +170,7 @@ serpent et la sensation funeste diminua à nouveau.
 Harry sortit sa baguette en faisant attention de ne pas déplacer ses
 jambes, afin que le Retourneur de Temps ne dévie pas de l’endroit où le
 professeur Quirrell avec fixé le sablier, placé sous la coque
-protectrice. « *Wingardium Leviosa »*, murmura Harry, et la bourse
+protectrice. « *Wingardium Leviosa*, » murmura Harry, et la bourse
 commença à flotter vers lui.
 
 Lentement, lentement, comme le professeur Quirrell le lui avait dit, la
@@ -254,7 +254,7 @@ halo blanc ; il prit la bourse à sa ceinture (la sensation funeste
 devenant un peu plus intense à mesure que ses doigts s’approchaient) et
 la jeta doucement vers le côté opposé de la pièce (la sensation funeste
 disparaissant presque totalement). Il commença alors à enlever la Cape
-d’Invisibilité, alors même que sa voix sifflait : « *Sc’est fait. »*
+d’Invisibilité, alors même que sa voix sifflait : « *Sc’est fait.* »
 
 *Onzième étape.*
 

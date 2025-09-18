@@ -219,7 +219,7 @@ comme si la réalité elle-même avait été chamboulée. Harry le savait sans
 savoir comment, il ne trouvait pas ce qui clochait ni pourquoi son
 esprit pensait que ça empirait…
 
-« *De l’ordre ! »* mugit Dumbledore. Il donna un coup sec du bâton de
+« *De l’ordre !* » mugit Dumbledore. Il donna un coup sec du bâton de
 pierre deux fois contre le podium et produisit deux autres petits clics
 qui l’emportèrent sur tous les autres bruits. « J’exige de l’ordre ici ! »
 
@@ -240,7 +240,7 @@ en lambeaux.
 Harry bondit sur ses pieds avant même de pouvoir penser et ce n’est que
 la poigne frénétique du professeur McGonagall sur son poignet qui
 l’empêcha d’atteindre sa baguette ; et le professeur de Métamorphose
-chuchota avec désespoir : « *Harry, tout va bien, il y a un Patronus… »*
+chuchota avec désespoir : « *Harry, tout va bien, il y a un Patronus…* »
 
 Il eut besoin de quelques secondes pour se souvenir. Pour que la part de
 lui-même qui comprenait que Hermione n’avait pas été directement exposée
@@ -475,7 +475,7 @@ au Magenmagot que le chef d’accusation était une *tentative de meurtre*
 et non un meurtre. Il dit, par-dessus un orage d’objections naissantes,
 que personne n’avait souffert de dommages durables. Et il le supplia de
 ne pas commettre pire que tout ce que qui avait été fait jusqu’à
-présent… »*Assez !« * mugit Lucius Malfoy, et un vote à main levée mit fin aux
+présent…* »Assez !« * mugit Lucius Malfoy, et un vote à main levée mit fin aux
 délibérations. L’homme à la crinière blanche se tenait, grand et
 terrible, sa canne d’argent tenue en l’air comme un marteau sur le point
 de s’abattre. »Pour ce que cette femme folle a tenté de faire à mon fils

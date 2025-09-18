@@ -1075,7 +1075,7 @@ lancé le second Portus.
 
 « Venin de Basilic, » proposa Maugrey.
 
-« *Quoi ? »* cracha Rogue. « Le venin de serpent est un composant actif de
+« *Quoi ?* » cracha Rogue. « Le venin de serpent est un composant actif de
 la potion de résurrection ! Sans parler du fait qu’il dissoudrait les os
 et toutes les autres substances ! Et où est-ce qu’*on* mettrait la main
 sur — »
@@ -2021,7 +2021,7 @@ son cerveau était assez réveillé pour penser mais quelque chose d’autre
 des contraintes du concept de soi, des idéaux de son soi éveillé quant à
 ce qu’il ne devait pas penser. C’était la liberté des rêves de son
 cerveau pendant le sommeil de son image de lui. Libre de répéter, encore
-et encore, le nouveau pire cauchemar de Harry : »*Non, je ne voulais pas, ne meurs pas s’il te plaît !« * »*Non, je ne voulais pas, ne meurs pas s’il te plaît !« * »*Non, je ne voulais pas, ne meurs pas s’il te plaît !« *
+et encore, le nouveau pire cauchemar de Harry :* »Non, je ne voulais pas, ne meurs pas s’il te plaît !« ** »Non, je ne voulais pas, ne meurs pas s’il te plaît !« ** »Non, je ne voulais pas, ne meurs pas s’il te plaît !« *
 
 Une rage grandit le long du dégoût de soi, un courroux terrible et
 brûlant, une haine de glace pour le monde qui avait infligé ça à la

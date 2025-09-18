@@ -73,7 +73,7 @@ celle de Harry ; et l’idée lui vint que les brutes et les membres de
 armées du professeur Quirrell ne se mêlaient peut-être jamais les uns
 aux autres.
 
-« *Stupéfix ! »* hurla à nouveau le garçon. « *Expelliarmus ! Stupéfix !* »
+« *Stupéfix !* » hurla à nouveau le garçon. « *Expelliarmus ! Stupéfix !* »
 
 Bref, *maintenant* elle venait de passer une heure à penser aux *autres*
 sortilèges qu’elle aurait dû lancer sur Harry et Neville -

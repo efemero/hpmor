@@ -409,7 +409,7 @@ Deux balais approchèrent à grande vitesse depuis le camp de Drago et
 tous les soldats se tendirent. Ils n’exécutaient pas les manœuvres qui
 étaient le code du jour pour signaler un balais *ami*.
 
-« *Dispersion et feu ! »* rugit le général Potter, et il accompagna ses
+« *Dispersion et feu !* » rugit le général Potter, et il accompagna ses
 mots de gestes, fonçant à pleine vitesse à couvert, dans la forêt ;
 puis, dès qu’il eut atteint les arbres, il pivota, leva sa baguette,
 essaya de trouver les balais dans le ciel -
@@ -722,7 +722,7 @@ Neville compta mentalement jusqu’à vingt puis il ouvrit les yeux un
 chouilla.
 
 Les trois dragons étaient très proches, leurs têtes pivotant en tous
-sens tandis que des « *Somnium ! »* et « *Des crânes pour le trône de
+sens tandis que des « *Somnium !* » et « *Des crânes pour le trône de
 crânes !* » emplissaient l’espace autour d’eux. Tous trois avaient leur
 bouclier simple levé.
 
@@ -849,7 +849,7 @@ La baguette de Harry se leva, dirigée vers M. Goyle, et l’esprit de
 Harry visualisa le motif, et les lèvres de Harry s’ouvrirent et sa voix
 hurla -
 
-« *- »*
+« *-* »
 
 
 
@@ -1077,7 +1077,7 @@ Et c’est alors que le chant terrifiant, étrange et joyeux s’éleva,
 venant de tout autour d’eux.
 
 « *N’aies pas peur ne sois pas triste,  
-On ne fait du mal qu’aux méchants… »*
+On ne fait du mal qu’aux méchants…* »
 
 « *Granger a triché !* » cracha Drago depuis l’intérieur du bouclier.
 « Elle a réveillé ses soldats ! Pourquoi le professeur Quirrell ne — »

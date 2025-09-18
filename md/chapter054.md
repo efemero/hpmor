@@ -140,7 +140,7 @@ d’Azkaban, toujours plus nombreuses à être protégées par son Patronus
 les airs transformés en argent par sa pensée, et Harry sut ce qu’il
 devait faire.*
 
-« *S’il vous plaît, Seigneur ! »*
+« *S’il vous plaît, Seigneur !* »
 
 Les mots ne furent pas entendus.
 
@@ -392,7 +392,7 @@ cette étape et utiliser n’importe quel matériau.
 Trente secondes plus tard, Harry était le fier propriétaire d’un miroir
 courbe, et …
 
-« *Wingardium Leviosa, »* chuchota-t-il aussi doucement qu’il le pouvait.
+« *Wingardium Leviosa,* » chuchota-t-il aussi doucement qu’il le pouvait.
 
 … il le faisait léviter juste au-dessus des marches, observant dans
 cette surface courbe la quasi-totalité du couloir où le professeur

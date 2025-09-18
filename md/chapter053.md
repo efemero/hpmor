@@ -62,7 +62,7 @@ Celui-Dont-Il-Ne-Faut-Pas-Prononcer-Le-Nom).
 
 Les yeux de Bellatrix restèrent fixés sur Harry, et elle demeura coite.
 
-« *Dites quelque chosse en Fourchelangue, »* siffla le serpent.
+« *Dites quelque chosse en Fourchelangue,* » siffla le serpent.
 
 Le visage de Harry se tourna vers le serpent afin de clairement montrer
 qu’il s’adressait à celui-ci, et il siffla : « *Un deux troiss quatre
@@ -99,13 +99,13 @@ Le visage de Bellatrix tressailli sous le coup d’une brève
 incompréhension, mais les membres ratatinés ne bronchèrent pas.
 
 « *Vous devrez la faire léviter jusqu’à la ssortie*, » siffla Harry au
-serpent. « *Elle ne peut plus ssonger à ss’enfuir. »*
+serpent. « *Elle ne peut plus ssonger à ss’enfuir.* »
 
-« *Oui, »* siffla le serpent, « *mais ne la ssous-esstimez pas. Elle était
-la plus mortelle des guerrières. »* La tête verte s’inclina en signe
+« *Oui,* » siffla le serpent, « *mais ne la ssous-esstimez pas. Elle était
+la plus mortelle des guerrières.* » La tête verte s’inclina en signe
 d’avertissement. « *Il serait sage de me craindre, enfant, même si
 j’étais affamé et mort aux neufs dixièmes ; méfiez-vous d’elle, ne
-permettez à aucune faille d’apparaître dans votre jeu. »*
+permettez à aucune faille d’apparaître dans votre jeu.* »
 
 Le serpent vert glissa élégamment jusqu’au couloir.
 

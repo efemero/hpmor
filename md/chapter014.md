@@ -355,7 +355,7 @@ en avoir entendu parler si *ce* genre de chose avait déjà eu lieu. »
 
 « *CE N’EST PAS RASSURANT ! AUCUN DE VOUS N’A DONC JAMAIS ENTENDU PARLER
 DU BIAIS ANTHROPIQUE ? ET QUI EST L’IDIOT QUI LE PREMIER A CONSTRUIT UNE
-DE CES CHOSES ? »*
+DE CES CHOSES ?* »
 
 Le professeur McGonagall riait franchement. C’était un son heureux et
 agréable qui ne semblait pas à sa place sur ce visage dur. « Vous vivez

@@ -170,7 +170,7 @@ comportait une note d’effroi.
 
 « Ta photo était dans les journaux, » dit un des deux vrais jumeaux.
 
-« *HARRY ! »*
+« *HARRY !* »
 
 « Papa ! Ce n’est pas ce que tu crois ! C’est parce que j’ai vaincu le
 Seigneur des Ténèbres Tu-Sais-Qui quand j’avais un an ! »
@@ -179,7 +179,7 @@ Seigneur des Ténèbres Tu-Sais-Qui quand j’avais un an ! »
 
 « Maman peut t’expliquer. »
 
-« *QUOI ? »*
+« *QUOI ?* »
 
 « Ah… Michael, très cher, il y a certaines choses avec lesquelles j’ai
 pensé qu’il serait mieux de ne pas t’embêter jusqu’à maintenant… »

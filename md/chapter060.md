@@ -59,7 +59,7 @@ jusqu’à cette cellule et la fermer à clé alors qu’elle hurlait,
 quelqu’un l’a nourrie tous les jours et est reparti *sans la laisser
 sortir -*
 
-« *COMMENT DES GENS PEUVENT-ILS FAIRE ÇA ? »*
+« *COMMENT DES GENS PEUVENT-ILS FAIRE ÇA ?* »
 
 « Pourquoi ne le feraient-ils pas ? » dit le professeur de Défense. Une
 pâle lumière bleue éclaira alors l’entrepôt, révélant un haut toit

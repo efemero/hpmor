@@ -170,7 +170,7 @@ sur sa chambre, juste au cas où papa n’aurait *pas* plaisanté…
 
 « Ce n’est pas une explication ! » dit le professeur Verres-Evans juste
 quand Harry hurla : « *Vous avez utilisé tout l’espace libre dans mes
-bibliothèques ? »*
+bibliothèques ?* »
 
 
 

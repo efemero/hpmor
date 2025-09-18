@@ -225,7 +225,7 @@ que vous l’auriez traversé en courant à grande vitesse…
 
 Alors vous auriez eu *tristement tort*.
 
-« *Luminos ! »* cria Drago.
+« *Luminos !* » cria Drago.
 
 « *Luminos !* » cria Granger.
 
@@ -362,7 +362,7 @@ pour mission de faire tomber *tous* les nés-Moldus ? »
 « Tu veux dire — ? » s’étrangla Tracey.
 
 « C’est ça ! » dit Daphné d’un ton théâtral. « Et si Malfoy était -
-*l’héritier de Glisserpentard ? »*
+*l’héritier de Glisserpentard ?* »
 
 « Le prochain Tombeur des Ténèbres ! » dit Tracey.
 
@@ -397,7 +397,7 @@ tomber du toit ou quoi que ce soit… »
 « Je, ah… je ne suis pas très expérimenté en excuses, je tomberai à
 genoux si tu veux, ou je t’achèterai quelque chose de cher, *Hermione je
 ne sais pas comment te demander pardon pour ce que j’ai fait est-ce que
-tu pourrais juste me dire quoi faire ? »*
+tu pourrais juste me dire quoi faire ?* »
 
 Elle continua de lire son livre en silence.
 

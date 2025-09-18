@@ -2324,7 +2324,7 @@ contre un sorcier nommé Gerald Grice, et tu pourras me demander ce que
 
 « Mais pourquoi est-il Impardonnable alors ? » dit Harry. « Je veux dire,
 un sortilège de coupure peut aussi tuer quelqu’un. Alors pourquoi est-ce
-qu’il vaut mieux utiliser Reducto plutôt qu’Avada Kedav - »
+qu’il vaut mieux utiliser Reducto plutôt qu’Avada Kedav — »
 
 « Ferme-la ! » dit brusquement Maugrey. « Quelqu’un pourrait mal le prendre
 en t’entendant prononcer cette incantation. Tu as *l’air* trop jeune

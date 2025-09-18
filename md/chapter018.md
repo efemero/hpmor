@@ -763,7 +763,7 @@ Une horreur soudaine s’abattit sur Minerva. Harry n’allait quand même
 pas -
 
 « Vous oubliez, » dit Harry, « que vous n’êtes pas le seul capable de
-déceler les motifs. *Ceci devient confidentiel. Maintenant faites-le — »*
+déceler les motifs. *Ceci devient confidentiel. Maintenant faites-le — * »
 Harry fit un nouveau geste en direction de Severus, puis s’arrêta au
 milieu de sa phrase et de son geste.
 

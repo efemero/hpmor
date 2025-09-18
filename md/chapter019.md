@@ -206,7 +206,7 @@ t’ai déjà parlé de l’importance potentielle de Harry Potter. Comme tu
 t’en es déjà rendu compte, celle-ci est à présent devenue plus grande et
 plus urgente. Si tu vois le moindre moyen menant à l’amitié ou le
 moindre point de pression exerçable, tu dois t’y aventurer, et toutes
-les ressources des Malfoy seront à ta disposition si besoin est. »*
+les ressources des Malfoy seront à ta disposition si besoin est.* »
 
 Eh ben. « Alors, » dit Harry, « sans commenter sur la véracité de l’édifice
 compliqué qu’est ta théorie, laisse-moi juste dire que nous ne sommes
@@ -225,7 +225,7 @@ non plus. Ça ne *ressemblait* pas au style de Dumbledore… mais…
 « Harry, » dit Drago, « tu as clairement un talent *incroyable*, mais tu
 n’as aucun entraînement et pas de mentors et tu fais parfois des choses
 stupides et *tu as vraiment besoin d’un conseiller qui sait s’y prendre
-ou tu vas te faire mal ! »* Le visage de Drago était plein de ferveur.
+ou tu vas te faire mal !* » Le visage de Drago était plein de ferveur.
 
 « Ah, » dit Harry. « Un conseiller, comme Lucius ? »
 

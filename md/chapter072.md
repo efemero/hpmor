@@ -629,7 +629,7 @@ tombées au sol, elle courut le long de la coursive aussi vite qu’elle le
 pouvait, zigzaguant au maximum -
 
 Juste avant qu’elle ne franchisse l’angle de la coursive, la voix de la
-brute dit : « *Cluthe ! »* et d’horribles crampes traversèrent ses jambes,
+brute dit : « *Cluthe !* » et d’horribles crampes traversèrent ses jambes,
 elle tomba, glissa et frappa sa tête contre le mur, sauf qu’elle ne
 remarqua même pas la douleur de l’impact, car elle avait commencé à
 hurler à cause de ses muscles qui s’entortillaient -
@@ -1136,7 +1136,7 @@ facile ou une bataille difficile. Mais c’est *tout* ce que je peux
 faire, tu comprends ? Et si je dis “difficile”, tu ne *peux pas* être
 absente ! Ou — ou — » les yeux de Millicent remontèrent dans ses orbites
 et elle entonna d’une voix creuse : « *Ceux qui tentent de tromper leur
-destin connaîtrons des tristes et sombres fins — »*
+destin connaîtrons des tristes et sombres fins — * »
 
 
 

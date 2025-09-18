@@ -89,7 +89,7 @@ Hermione vit l’expression choquée qui passa sur leur visage.
 « Il ne le pense pas vraiment, hein ? » dit Samus d’un ton suppliant.
 
 « Vous ne comprenez pas, » dit Hermione, sa voix se brisait, « *ce n’est
-pas Harry — »* et elle se tut avant d’en dire plus, mais il avait *fallu*
+pas Harry — * » et elle se tut avant d’en dire plus, mais il avait *fallu*
 qu’elle dise au moins cela.
 
 En le regardant, elle vit que Neville comprenait, et elle vit aussi que
@@ -196,7 +196,7 @@ d’importance, elle maintint le baiser sur ces lèvres barbouillées de
 chocolat alors que les larmes s’amoncelaient dans ses yeux.
 
 Et les bras de Harry s’élevèrent et la repoussèrent, et ses lèvres
-crièrent : « *Je t’ai dit pas de bisou ! »*
+crièrent : « *Je t’ai dit pas de bisou !* »
 
 
 

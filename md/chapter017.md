@@ -356,7 +356,7 @@ qu’il serait *renvoyé* ?
 
 « *Imbécile* ! » siffla Drago. Il ouvrit la bouche pour crier -
 
-« *Eh ! »* cria Ernie. « C’est à Neville ! *Rapporte-le* ! »
+« *Eh !* » cria Ernie. « C’est à Neville ! *Rapporte-le* ! »
 
 Les Serpentard commencèrent à acclamer et à siffler.
 
@@ -397,7 +397,7 @@ Deux secondes plus tard -
 
 « *Fais quelque chose, Potter !* » chuchota Drago. « *Je ne peux pas être
 celui qui arrête ça il faut que ce soit toi ! Je te devrai une faveur
-trouve juste quelque chose tu n’es pas censé être brillant ? »*
+trouve juste quelque chose tu n’es pas censé être brillant ?* »
 
 Harry mit environ cinq secondes et demie à se rendre compte que
 quelqu’un allait jeter le Sort d’Attaque Simple Sumérien et que quand ce
@@ -1350,7 +1350,7 @@ des choses que peu d’autres pourraient appréhender. Je vais donc être
 audacieux et t’offrir un *autre* héritage fort spécial. »
 
 « Vous ne voulez pas dire… » s’étrangla Harry. « Mon père… *possédait un
-autre rocher ? »*
+autre rocher ?* »
 
 « Excuse-moi, » dit Dumbledore. « Je *suis* encore plus vieux et plus
 mystérieux que toi, et si des révélations doivent être faites, alors
@@ -1537,7 +1537,7 @@ de Harry.
 
 *N’importe quoi !*
 
-*Tu veux dire, n’importe quoi sauf »*Fumseck *est un poulet« -*
+*Tu veux dire, n’importe quoi sauf* »Fumseck *est un poulet« -*
 
 *Oui ! N’importe quoi sauf ça !* »Et donc, ah, quelle sorte de magie font les phénix alors ?« »Leurs larmes ont le pouvoir de guérir,« dit Dumbledore. »Ce sont des
 créatures de feu, et ils se déplacent entre les lieux aussi facilement

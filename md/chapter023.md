@@ -559,7 +559,7 @@ C’était déjà trop tard pour lui.
 
 La baguette de Harry vola jusqu’à l’autre bout de la pièce.
 
-« *Gom jabbar ! »*
+« *Gom jabbar !* »
 
 Une pulsation de noirceur encrée frappa la main gauche de Harry.
 
@@ -609,7 +609,7 @@ Puis il s’en fut.
 
 
 
-« *Aaahhhhh ! Finite Incantatem ! Aaaahhh ! »*
+« *Aaahhhhh ! Finite Incantatem ! Aaaahhh !* »
 
 La main gauche de Harry avait été plongée dans une marmite d’huile de
 cuisson bouillante et laissée plantée là. Il avait tout donné pour jeter
@@ -619,7 +619,7 @@ Certains maléfices requéraient des contre-sorts spéciaux, sans lesquels
 on ne pouvait pas les défaire, ou peut-être que Drago était juste bien
 plus fort.
 
-« *Aaaaahhhh ! »*
+« *Aaaaahhhh !* »
 
 Sa main commençait vraiment à lui faire mal maintenant, et ça
 interférait avec ses tentatives d’improvisation.

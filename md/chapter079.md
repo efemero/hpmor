@@ -21,12 +21,12 @@ inculpée d’un crime sérieux : je vous arrête pour tentative de meurtre.
 Vous serez mise sous garde du ministère et interrogée sous l’effet de
 trois gouttes de Veritaserum… »
 
-« *Vous êtes dingues ? »* les mots jaillirent de la bouche de Harry alors
+« *Vous êtes dingues ?* » les mots jaillirent de la bouche de Harry alors
 qu’il se levait violemment de la table Serdaigle, un instant avant que
 la main de l’Auror Butnaru ne se pose avec force sur son épaule. Harry
 l’ignora. « Vous essayez d’arrêter *Hermione Granger*, la plus gentille
 fille de Serdaigle, elle aide les Poufsouffle à faire leurs devoirs,
-elle *mourrait* plutôt que d’essayer de tuer *qui que ce soit… »*
+elle *mourrait* plutôt que d’essayer de tuer *qui que ce soit…* »
 
 Le visage de Hermione s’était effondré. « Je l’ai fait, » chuchota-t-elle.
 « C’était moi. »
@@ -137,7 +137,7 @@ n’avait pas résisté aux effets du sortilège de refroidissement sanguin.
 
 « Son procès, » dit Albus Dumbledore, « est prévu pour demain, midi. »
 
-« *Quoi ? »* les mots jaillirent de Harry Potter. Le Survivant ne se leva
+« *Quoi ?* » les mots jaillirent de Harry Potter. Le Survivant ne se leva
 pas de sa chaise mais Minerva vit les doigts de ce dernier blanchir
 lorsqu’ils agrippèrent le tabouret de bois sur lequel il était assis.
 « C’est de la folie ! On ne peut pas faire une enquête de police en
@@ -260,7 +260,7 @@ prévu lorsqu’il se souvient pour la première fois du faux souvenir. Cela
 aurait été un stratagème risqué. Mais j’imagine que c’est l’un des
 moyens que le professeur Quirrell aurait pu employer. »
 
-« *Le professeur Quirrell ? »* dit Harry. « Quel motif pourrait-il avoir
+« *Le professeur Quirrell ?* » dit Harry. « Quel motif pourrait-il avoir
 pour… »
 
 Le maître des potions dit sèchement : « Le professeur de Défense est
@@ -342,7 +342,7 @@ château… »
 « Je veux dire, peut-être que vous n’avez pas remarqué, M. le directeur,
 mais ce château est plein D’ENFANTS… »
 
-« *Je n’avais pas le choix ! »* mugit Dumbledore. Les yeux bleus
+« *Je n’avais pas le choix !* » mugit Dumbledore. Les yeux bleus
 étincelaient à présent sous les verres en demi-lune. « Je ne la *possède*
 pas, cette chose que Voldemort désire. Elle appartient à un autre et
 elle est maintenue ici avec *son* consentement ! J’ai *demandé* si elle
@@ -543,7 +543,7 @@ se rendre dans le dortoir des filles de Serdaigle. Lorsque Hermione se
 battait contre les brutes, elle trouvait des mots sous son oreiller
 chaque matin qui lui disaient où aller… »
 
-« *Albus… »* gronda Minerva.
+« *Albus…* » gronda Minerva.
 
 « Je ne les ai pas envoyées, » dit le vieux sorcier. Ses sourcils blancs
 s’étaient élevés sous le coup de la surprise. « J’ignorais tout de cela.
@@ -568,7 +568,7 @@ Poudlard et qu’il me donnait une issue vers l’institut des sorcières de
 Salem, aux États-Unis. Le mot état accompagné d’un jeu de carte dont le
 roi de cœur est censé être un Portoloin… »
 
-« *M. Potter ! »* s’écria le professeur McGonagall, elle avait parlé sans
+« *M. Potter !* » s’écria le professeur McGonagall, elle avait parlé sans
 même y songer. « Cela pourrait très bien être une *tentative
 d’enlèvement* ! Vous auriez dû… »
 
@@ -728,10 +728,10 @@ sorcier fronçait lui-même les sourcils devant l’apparence vierge du
 parchemin.
 
 « Il faut dire, » expliquèrent-ils, « *je jure solennellement que mes
-intentions sont mauvaises… »*
+intentions sont mauvaises…* »
 
 « Je me refuse à mentir, » dit le vieux sorcier. Il leva la Carte bien
-haut et mugit : « Entends-moi, Poudlard ! *Deligitor prodi ! »* Un instant
+haut et mugit : « Entends-moi, Poudlard ! *Deligitor prodi !* » Un instant
 plus tard le directeur était coiffé du Choixpeau, et ce dernier lui
 allait *effroyablement* *bien*, comme si Dumbledore avait toujours
 attendu qu’un chapeau pointu rapiécé ne vienne compléter son existence.
@@ -880,7 +880,7 @@ Défense à la condition explicite qu’aucune question ne soit posée quant
 à mon — »
 
 Vif comme l’éclair, l’interrogateur brandit sa baguette et cracha
-« *Polyfluis Reverso ! »* au moment même où le professeur de Défense
+« *Polyfluis Reverso !* » au moment même où le professeur de Défense
 éternuait, ce qui brisa mystérieusement le rayon argenté en une douche
 d’étincelles blanches.
 
@@ -979,7 +979,7 @@ donc je ne comptais pas parler. Mais vous vous comportez tous comme des
 dit au sujet de gens innocents. Drago n’a rien fait, Hermione n’a rien
 fait, ils ont tous les deux été victimes d’une sortilège de faux
 souvenirs ! » La voix de Harry Potter s’était élevée sur ces derniers
-mots. « *Comment est-ce que ça peut ne pas CREVER LES YEUX ? »*
+mots. « *Comment est-ce que ça peut ne pas CREVER LES YEUX ?* »
 
 « Tu penses qu’on va croire *ÇA* ? » lui répondit Kevin Sifflebranche du
 tac au tac en hurlant. « C’est ce que tout le monde dit ! “Je ne l’ai pas

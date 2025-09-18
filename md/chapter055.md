@@ -274,7 +274,7 @@ que Harry était le Seigneur des Ténèbres et qu’elle lui obéirait.
 C’était donc une ressource. Mais Bellatrix était affamée et morte aux
 neuf dixièmes…
 
-« *Oh, je me sens un peu mieux maintenant, comme c’est bizarre… »*
+« *Oh, je me sens un peu mieux maintenant, comme c’est bizarre…* »
 
 Bellatrix avait dit cela de sa voix brisée lorsque Harry avait perdu
 tout contrôle sur son Patronus.

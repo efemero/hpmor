@@ -41,6 +41,19 @@ d’~~retirer~~ ceci
 « C’est pour ça, » dit-il avec de grands yeux, « que je ne peux pas. ».
 « C’est pour ça, » dit-il avec de grands yeux, « que je ne peux pas. ».
 
+« Yolo *yolo !* »
+« Yolo *yolo !* » 
+« Yolo *yolo yolo* » 
+« *Yolo yolo yolo* » 
+« Yolo *yolo !* »
+« Yolo *yolo !* » 
+« Yolo *yolo yolo* » 
+« *Yolo yolo yolo* » 
+« Yolo *yolo !* »
+« Yolo *yolo !* » 
+« Yolo *yolo yolo* » 
+« *Yolo yolo yolo* » 
+
 Il était d’ordinaire traditionnel à Poudlard que les simples parents se
 doivent de Rester à L’écart pour exactement les même raisons qui
 poussent à interdire aux enfants d’entrer dans la cuisine et de se mêler

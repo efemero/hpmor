@@ -328,5 +328,5 @@ Dans le silence de l’esprit de Harry, où il n’y avait eu auparavant
 aucune voix, hormis la sienne, s’éleva une seconde voix inconnue, à l’air
 nettement soucieux :
 
-« *Oh là. Ça n’était jamais arrivé avant… »*
+« *Oh là. Ça n’était jamais arrivé avant…* »
 

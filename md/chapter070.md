@@ -724,7 +724,7 @@ petite douzaine de points, et comme nous sommes deux de chaque maison
 qu’on veut* en toute impunité ! Et je n’avais même pas remarqué ton plan
 retors jusqu’à maintenant ! »
 
-« *EUH — »* dirent Hermione, Hannah et Susan.
+« *EUH — * » dirent Hermione, Hannah et Susan.
 
 « C’est ça ! » dit Parvati. « Donc maintenant il est temps pour nous de
 devenir de véritables héroïnes. Nous irons chercher le Mal — »

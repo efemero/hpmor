@@ -332,7 +332,7 @@ Moldus, et ce sont eux qui m’ont éduqué. »
 
 « Harry Potter, ravi de te faire ta connaissance. »
 
-« *Harry Potter ? »* haleta Drago. « *Le* Harry… » et le garçon s’arrêta
+« *Harry Potter ?* » haleta Drago. « *Le* Harry… » et le garçon s’arrêta
 brusquement.
 
 Il y eut un bref silence.
@@ -399,7 +399,7 @@ bien avant cela, tout le monde vous connait, Lucius Malfoy ! Le lauréat
 le plus honoré de Serpentard, j’ai moi-même pensé à aller à Serpentard
 juste parce que j’ai entendu que vous y étiez enfant… »
 
-« *Que dites-vous, M. Potter ? »* dit un quasi-cri depuis l’extérieur du
+« *Que dites-vous, M. Potter ?* » dit un quasi-cri depuis l’extérieur du
 magasin, et le Professeur McGonagall déboula une seconde plus tard.
 
 Il y avait une telle horreur sur son visage que la bouche de Harry

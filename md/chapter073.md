@@ -82,7 +82,7 @@ général Soleil l’a bien attrapé entre ses fils maintenant — tu aurais
 plus de chances en essayant de persuader Hermione d’avoir un de ces, tu
 sais, “arrangements à trois” -*
 
-Personne n’avait encore compris ce que Malfoy trafiquait. »*Certain ?« dit Harry Potter d’un ton quelque peu réticent. »Tu sais
+Personne n’avait encore compris ce que Malfoy trafiquait.* »Certain ?« dit Harry Potter d’un ton quelque peu réticent. »Tu sais
 qu’un rationaliste n’est jamais certain de rien, Hermione, pas même que
 deux et deux font quatre. Ce n’est pas comme si je pouvais lire l’esprit
 de Malfoy, et même si c’était le cas, je ne pourrais pas savoir qu’il
@@ -311,7 +311,7 @@ septième année souriait vraiment à présent. »Probablement juste une
 juste clavicule brisée, je dirais. Bien essayé, cela dit.« »Merlin ce qu’il *sont* rusés,« dit Jugson. »Vous m’avez eue pendant quelques secondes, mes chéris.« La septième
 année ne souriait pas du tout. »*Tonare !« * s’écria Daphné en levant sa baguette au-dessus de sa tête
 et en se concentrant avec plus de force qu’elle ne l’avait jamais fait
-de sa vie. »*Rava calvaria ! Lucis -*« Elle ne vit même pas le sortilège qui l’abattit.
+de sa vie.* »Rava calvaria ! Lucis -*« Elle ne vit même pas le sortilège qui l’abattit.
 
 
 

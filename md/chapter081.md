@@ -177,7 +177,7 @@ il semblait en être en phase terminale d’une maladie incurable. « Je – j
 suis désolé, Harry, mais ce n’est pas à toi de choisir – car je suis
 toujours le gardien de ta chambre forte. »
 
-« *Quoi ? »* dit Harry, trop stupéfait pour mieux formuler sa réponse.
+« *Quoi ?* » dit Harry, trop stupéfait pour mieux formuler sa réponse.
 
 « Je ne peux pas te laisser t’endetter auprès de Lucius Malfoy, Harry !
 Je ne peux pas ! Tu ne sais pas – tu ne te rends pas compte — »
@@ -395,7 +395,7 @@ Donc Harry, qui à ce stade avait une bonne dose d’adrénaline dans le
 sang, sursauta de façon assez visible lorsque le professeur McGonagall
 dont les yeux étincelaient maintenant d’un espoir impossible et dont les
 joues étaient couvertes de larmes à moitié sèches bondit et s’écria :
-« *Avec moi, M. Potter ! »* et qui sans attendre de réponse descendit
+« *Avec moi, M. Potter !* » et qui sans attendre de réponse descendit
 quatre à quatre les marches des escaliers qui menaient à la plate-forme
 inférieure où attendait une chaise de métal noir.
 

@@ -88,7 +88,7 @@ décrivant un arc de cercle.
 
 « 3 pour 2 pour 1. »
 
-« *Oogely boogely ! »*
+« *Oogely boogely !* »
 
 Cette fois la chauve-souris n’avait pas d’ailes du tout et tomba comme
 une souris morte en faisant un « plop ».
@@ -516,17 +516,17 @@ de meilleures notes que moi, je dois la battre avec mon *cerveau*, ou ça
 ne compte pas ! »
 
 « *Ce n’est qu’une sang-de-bourbe ! Pourquoi est-ce que tu la respecte
-autant ? »*
+autant ?* »
 
 « *Elle a du pouvoir à Serdaigle ! Pourquoi est-ce que tu te soucies de
-ce qu’un idiot sans pouvoir de Serpentard peut penser ? »*
+ce qu’un idiot sans pouvoir de Serpentard peut penser ?* »
 
 « *Ça s’appelle la politique ! Et si tu ne peux pas y jouer tu ne peux
-pas avoir de pouvoir ! »*
+pas avoir de pouvoir !* »
 
 « *Marcher sur la Lune est un pouvoir ! Être un grand sorcier est un
 pouvoir ! Il y a des genres de pouvoirs qui ne m’obligent pas à passer
-le reste de ma vie à satisfaire des demeurés ! »*
+le reste de ma vie à satisfaire des demeurés !* »
 
 Ils s’arrêtèrent tous les deux, et, presque parfaitement à l’unisson,
 commencèrent à prendre de profondes inspirations pour se calmer.
@@ -549,7 +549,7 @@ concernant et elle a été poser des questions. »
 
 Harry Potter leva les sourcils. « Qui ? »
 
-« Elle écrit pour *La Gazette du sorcier, »* dit Drago. Il essaya de ne
+« Elle écrit pour *La Gazette du sorcier,* » dit Drago. Il essaya de ne
 pas paraître soucieux. La *Gazette du sorcier* était l’un des principaux
 outils de Père, il l’utilisait comme il aurait usé d’une baguette
 magique. « C’est le journal auquel les gens prêtent vraiment attention.
@@ -610,7 +610,7 @@ et dit « *Frigideiro* ! »
 
 Quelques instants plus tard, Drago sentit le courant d’air froid.
 
-« *Frigideiro ! Frigideiro ! Frigideiro ! Frigideiro ! Frigideiro ! »*
+« *Frigideiro ! Frigideiro ! Frigideiro ! Frigideiro ! Frigideiro !* »
 
 Puis Harry Potter rabaissa sa baguette, même si sa main semblait un peu
 tremblante, et il la rangea dans ses robes.

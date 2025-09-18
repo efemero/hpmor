@@ -569,7 +569,7 @@ peu importe à quel point les règles sont stupides. Donc mon vœu, pour
 symboliser ce qui se passe lorsque les gens s’unissent dans la mauvaise
 direction, est qu’à Poudlard, on joue au Quidditch sans le Vif d’Or. »
 
-« *QUOI ? »* hurlèrent cent voix dans la foule, et la mâchoire de Drago
+« *QUOI ?* » hurlèrent cent voix dans la foule, et la mâchoire de Drago
 s’affaissa.
 
 « Le Vif gâche tout le jeu, » dit Harry Potter. « Tout ce que les autres

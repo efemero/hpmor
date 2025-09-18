@@ -497,7 +497,7 @@ Les barrières noires à chaque extrémité du couloir étaient parties en
 fumée comme si une pression immense les avait vaporisées mais leur
 évaporation révéla des sorties scellées, bloquées par des lames empilées
 faites d’un métal noir qui semblait avoir été taché de sang ; et lorsque
-Tracey chanta »*Lermarchand, Lamente, Lemarchand*« , une terrible lumière
+Tracey chanta* »Lermarchand, Lamente, Lemarchand*« , une terrible lumière
 bleutée commença à filtrer entre et sous les lames de métal, les six
 paires de portes se refermèrent d’un grand coup et des brutes en robes
 blanches paniquées commencèrent à tambouriner dessus et à hurler.
@@ -513,7 +513,7 @@ l’accompagnait. »*Ténèbre au-delà des ténèbres, plus profonde que la d
 obscurité.  
 Enterrée sous le flot du temps…  
 De ténèbre en ténèbre, ta voix fait écho au cœur du néant,  
-Ignorée de la mort, inconnue de la vie.« * »*Qu’est-ce que tu fabriques ?« * glapit Parvati, et la Gryffondor tendit
+Ignorée de la mort, inconnue de la vie.« ** »Qu’est-ce que tu fabriques ?« * glapit Parvati, et la Gryffondor tendit
 une main comme pour tirer la Serpentard vers elle, mais celle-ci
 commençait à s’éleva en l’air ; Daphné et Susan attrapèrent toutes deux
 le bras de Parvati en même temps et Daphné s’écria : »Non, on ne sait pas
@@ -538,7 +538,7 @@ solennité appuya son pouce contre son majeur.
 
 Et depuis les ténèbres Hermione regarda le visage de Tracey et vit que
 les yeux de la Serpentard avaient maintenant, à la nuance près, le vert
-des yeux de Harry Potter. »*Harry James Potter-Evans-Verres !  
+des yeux de Harry Potter.* »Harry James Potter-Evans-Verres !  
 Harry James Potter-Evans-Verres !  
 HARRY JAMES POTTER-EVANS-VERRES !« *
 

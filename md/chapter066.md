@@ -60,7 +60,7 @@ geste ne colportait aucune émotion, du moins aucune que les talents de
 Fourchelangue de Harry pouvaient lui révéler. « *Raison de refus ?* » dit
 le serpent vert.
 
-« *Trop rissqué, »* dit simplement Harry. C’était vrai, que le Seigneur
+« *Trop rissqué,* » dit simplement Harry. C’était vrai, que le Seigneur
 des Ténèbres existe encore ou pas. Se forcer à décider à l’avance lui
 avait permis de se rendre compte qu’il avait juste utilisé la question
 restée sans réponse comme une excuse pour hésiter ; la bonne décision
@@ -76,14 +76,14 @@ freiner tes pulssions ssauvages.* »
 
 « *Leçon apprise est de ne pas esssayer des plans qui donneraient à
 pensser à amie fille-enfant que je ssuis maléfique ou à ami
-garçon-enfant que je ssuis sstupide, »* rétorqua Harry. Il avait prévu
+garçon-enfant que je ssuis sstupide,* » rétorqua Harry. Il avait prévu
 une réponse plus atermoyante que cela mais les mots étaient parvenus à
 se glisser hors de sa bouche.
 
 Harry ne perçut pas le *sssssss* qui émana du serpent comme un mot mais
 comme de la rage pure. Un instant plus tard : *« Tu leur as dit — »*
 
-« *Bien ssûr que non ! Mais ssais ce qu’ils diraient. »*
+« *Bien ssûr que non ! Mais ssais ce qu’ils diraient.* »
 
 Il y eut un long silence et le serpent ondula tout en regardant Harry ;
 une fois de plus, aucune émotion détectable ne lui parvint et Harry se
@@ -92,16 +92,16 @@ mettrait si long à penser.
 
 « *Tu te préoccupes ssérieusement de ce que ces deux-là pensent ?* » dit
 le dernier sifflement du serpent. « *Ces deux là sont de vrais petiots,
-pas comme toi. Ne pourraient ss’occuper d’affaires d’adultes. »*
+pas comme toi. Ne pourraient ss’occuper d’affaires d’adultes.* »
 
-« *Auraient peut-être mieux réusssi que moi, »* siffla Harry. « *Ami
+« *Auraient peut-être mieux réusssi que moi,* » siffla Harry. « *Ami
 garçon-enfant aurait interrogé sur dessseins ssecrets avant de
-conssentir à ssauver femme — »*
+conssentir à ssauver femme — * »
 
 « *Heureux que tu comprennes cela maintenant,* » siffla le serpent d’un
 ton froid. « *Cherche toujours ce que l’autre a à gagner. Puis apprends à
 toujours chercher ce que tu peux y gagner. Ssi mon plan ne te convient
-pas, en quoi conssiste le tien ? »*
+pas, en quoi conssiste le tien ?* »
 
 « *Si nécesssaire — resster à l’école ssix ans et étudier. Poudlard
 semble bon endroit où s’attarder. Livres, amis, nourriture étrange mais
@@ -111,7 +111,7 @@ n’existait pour le genre de rire qu’il souhaitait exprimer.
 Les crevasses des yeux du serpent étaient quasiment noires. « *Facile à
 dire maintenant. Ceux comme toi et moi ne tolérons pas l’emprisonnement.
 Tu perdras patience longtemps avant sseptième année, peut-être avant fin
-de celle-ci. Je prévoirai en consséquence. »*
+de celle-ci. Je prévoirai en consséquence.* »
 
 Et avant que Harry ne puisse siffler un mot de plus en Fourchelangue, la
 forme humaine du professeur était de nouveau dans sa chaise. « Alors, M.

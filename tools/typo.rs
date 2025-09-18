@@ -122,6 +122,13 @@ fn main() -> Result<()> {
             s = pass_cleanup(&s);
         }
 
+        // Final tidy: move misplaced emphasis closers placed right after »
+        // back inside the French quotes before the thin NBSP, if they were
+        // opened inside that same pair of guillemets.
+        if run.quotes {
+            s = pass_fix_emphasis_guillemet(&s);
+        }
+
         if cli.write {
             if s != orig {
                 fs::write(&path, s).with_context(|| format!("Cannot write {}", path.display()))?;
@@ -515,5 +522,92 @@ fn pass_cleanup(s: &str) -> String {
             out.push('\n');
         }
     }
+    out
+}
+
+/// Move emphasis closing markers that mistakenly ended up immediately after
+/// a closing French guillemet » back inside the quotes, before the thin NBSP.
+/// Handles `*`, `**`, `_`, `__`.
+fn pass_fix_emphasis_guillemet(s: &str) -> String {
+    // Collect guillemet pairs as byte offsets
+    #[derive(Clone, Copy)]
+    struct Pair { start: usize, end: usize }
+    let mut stack: Vec<usize> = Vec::new();
+    let mut pairs: Vec<Pair> = Vec::new();
+    for (off, ch) in s.char_indices() {
+        match ch {
+            '«' => stack.push(off),
+            '»' => {
+                if let Some(start) = stack.pop() {
+                    pairs.push(Pair { start, end: off });
+                }
+            }
+            _ => {}
+        }
+    }
+
+    if pairs.is_empty() { return s.to_string(); }
+
+    // Process from the end to keep offsets stable
+    pairs.sort_by_key(|p| p.end);
+    let mut out = s.to_string();
+    for pair in pairs.into_iter().rev() {
+        // Determine marker right after »
+        let close_pos = pair.end; // byte offset of '»'
+        let after = close_pos + '»'.len_utf8();
+        if after > out.len() { continue; }
+        let mut ws_after = 0usize;
+        if out[after..].starts_with(' ') { ws_after = 1; }
+        let tail = &out[after + ws_after..];
+        let marker = if tail.starts_with("**") {
+            Some("**")
+        } else if tail.starts_with("__") {
+            Some("__")
+        } else if tail.starts_with("*") {
+            Some("*")
+        } else if tail.starts_with("_") {
+            Some("_")
+        } else { None };
+        let Some(mk) = marker else { continue };
+
+        // Check if there is an unmatched opener of `mk` inside this pair
+        let segment = &out[pair.start..pair.end];
+        if !segment.contains(mk) { continue; }
+        let mut depth = 0i32;
+        let mut i = 0usize;
+        while i < segment.len() {
+            if segment[i..].starts_with(mk) {
+                // toggle
+                if depth > 0 { depth -= 1; } else { depth += 1; }
+                i += mk.len();
+                continue;
+            }
+            if let Some(ch) = segment[i..].chars().next() {
+                i += ch.len_utf8();
+            } else { break; }
+        }
+        if depth <= 0 { continue; } // no unmatched opener
+
+        // Find insertion point: the thin NBSP just before » must exist
+        if pair.end == 0 { continue; }
+        let before_close = &out[..pair.end];
+        let nbsp_pos = before_close.char_indices().rev().next().map(|(pos, ch)| (pos, ch));
+        let Some((nbsp_off, nbsp_ch)) = nbsp_pos else { continue };
+        if nbsp_ch != '\u{202F}' { continue; } // require thin NBSP inside « … »
+
+        // Perform move: remove mk at `after`, insert mk at `nbsp_off`
+        let mut tmp = String::with_capacity(out.len());
+        // up to insertion point
+        tmp.push_str(&out[..nbsp_off]);
+        // insert marker
+        tmp.push_str(mk);
+        // rest up to the » (NBSP and » included)
+        tmp.push_str(&out[nbsp_off..after]);
+        if ws_after == 1 { tmp.push(' '); }
+        // skip the marker after »
+        tmp.push_str(&out[after + ws_after + mk.len()..]);
+        out = tmp;
+    }
+
     out
 }

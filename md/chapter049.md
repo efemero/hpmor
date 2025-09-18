@@ -333,7 +333,7 @@ de vivre pendant des siècles. Allons, M. Potter, cela devrait être
 vivant à un autre, mais jamais écrits ? »
 
 Harry le vit alors, avec un choc d’adrénaline qui fit bondir son cœur,
-et sa respiration s’accéléra. « *Oh. »*
+et sa respiration s’accéléra. « *Oh.* »
 
 Serpentard avait en effet été fort rusé. Assez pour trouver un moyen
 d’outrepasser l’Interdit de Merlin.
@@ -475,33 +475,33 @@ de Défense de Poudlard se fut transformé en un serpent venimeux.
 
 Harry déglutit et dit : »Salutations — ah, hssss, non, ah,
 *ssalutationss.*« »*Alors*,« siffla le serpent. »*Vouss parlez, j’entends. Je parle, vous
-entendez ?« * »*Oui, je comprends,« * siffla Harry. * »Vous êtess un Animaguss ?« * »*Bien ssûr*,« siffla le serpent. »*Trente-ssept règles, numéro
+entendez ?« ** »Oui, je comprends,« * siffla Harry. * »Vous êtess un Animaguss ?« ** »Bien ssûr*,« siffla le serpent. »*Trente-ssept règles, numéro
 trente-quatre : Devenir un Animaguss. Touss les gens ssensés le font
 s’ils en ssont capables. Très rare, donc.« * Les yeux du serpent étaient
 des surfaces plates logées dans des abysses noires, des pupilles noires
-acérées au milieu d’espaces gris. »*C’est le moyen de sse parler le plus
-ssûr. Voyez-vous pourquoi ? Perssonne d’autre ne nouss comprend.« * »*Même ss’ils ssont des sserpents Animaguss ?« * »*Pas à moins que l’héritier de Sserpentard ne le veuille.« * Le serpent
+acérées au milieu d’espaces gris.* »C’est le moyen de sse parler le plus
+ssûr. Voyez-vous pourquoi ? Perssonne d’autre ne nouss comprend.« ** »Même ss’ils ssont des sserpents Animaguss ?« ** »Pas à moins que l’héritier de Sserpentard ne le veuille.« * Le serpent
 émit une série de courts sifflements que le cerveau de Harry traduit en
-un rire sardonique. »*Sserpentard pas sstupide. Sserpent Animaguss pas
+un rire sardonique.* »Sserpentard pas sstupide. Sserpent Animaguss pas
 pareils que Fourchelangue. Sserait énorme défaut dans le plan.« *
 
 Eh bien *voilà* qui soutenait certainement que le Fourchelangue était
 une magie personnelle, pas le résultat d’une population de serpents
-sentiente dotée d’un langage qu’un humain pouvait apprendre — »*Je ne ssuis pas enregisstré*,« siffla le serpent. Les abysses noires
+sentiente dotée d’un langage qu’un humain pouvait apprendre — * »Je ne ssuis pas enregisstré*,« siffla le serpent. Les abysses noires
 fixaient Harry. »*Les Animaguss doivent être enregisstrés. La peine est
-deux ans d’emprisonnement. Garderez-vous mon ssecret, enfant ?« * »*Oui,« * siffla Harry. »*Ne briserai jamais promessse.« *
+deux ans d’emprisonnement. Garderez-vous mon ssecret, enfant ?« ** »Oui,« * siffla Harry.* »Ne briserai jamais promessse.« *
 
 Le serpent sembla rester immobile, comme sous l’effet d’un choc, puis il
-se remit à onduler. »*Nouss reviendronss dans ssept jourss. Amenez cape
+se remit à onduler.* »Nouss reviendronss dans ssept jourss. Amenez cape
 pour passser ssans être vu, et ssablier pour déplacement dans le
-temps.« * »*Vous ssavez ?« * siffla Harry, éberlué. »*Comment -*« Encore la série de courts sifflements rapides qui se traduisaient par un
+temps.« ** »Vous ssavez ?« * siffla Harry, éberlué.* »Comment -*« Encore la série de courts sifflements rapides qui se traduisaient par un
 rire sardonique. »*Vous arrivez à mon premier cours alors que vous êtes
 encore à un autre, abattez vos ennemis avec tarte, deux Rapeltouts -*« »*Laisssez tomber*,« siffla Harry. »*Quesstion sstupide, oublié que vous
 étiez malin.*« »*Sserait idiot de l’oublier,*« dit le serpent, mais le sifflement ne
-révélait pas d’offense. »*Ssablier resstreint,« * dit Harry. »*Ne peux pas utilisser avant
+révélait pas d’offense. »*Ssablier resstreint,« * dit Harry.* »Ne peux pas utilisser avant
 neuvième heure.« *
 
-Le serpent se tordit le cou, un hochement de tête reptilien. »*Nombreuses resstrictions. Utilisable sseulement par vous, ne peut être
+Le serpent se tordit le cou, un hochement de tête reptilien.* »Nombreuses resstrictions. Utilisable sseulement par vous, ne peut être
 volé. Ne peut transsporter d’autres humains. Mais sserpent porté dans
 boursse viendra avec, je pensse. Pensse possible de tenir ssablier
 immobile dans coquille ssans sse faire repérer pendant que vous
@@ -509,12 +509,12 @@ tournerez la coquille. Tessteronss dans ssept jours. Ne parlerons pas de
 sce qui vient après. Vous ne dites rien, à perssonne. Ne donnez aucun
 ssigne d’attente, aucun. Compris ?« *
 
-Harry hocha la tête. »*Répondez en parole.« * »*Oui.« * »*Ferez comme j’ai dit ?« * »*Oui. Mais,« * Harry émit un grincement vacillant que son esprit traduit
+Harry hocha la tête.* »Répondez en parole.« ** »Oui.« ** »Ferez comme j’ai dit ?« ** »Oui. Mais,« * Harry émit un grincement vacillant que son esprit traduit
 par un »Euuuuh« hésitant, »*Je ne promet pass de faire, quoi que ce
 ssoit, que vous n’avez pass dit -« *
 
 Le serpent eut un frisson que l’esprit de Harry traduit par un regard
-sévère. »*Bien ssûr que non. En disscuterons à prochaine rencontre.« *
+sévère.* »Bien ssûr que non. En disscuterons à prochaine rencontre.« *
 
 Le flou et le mouvement s’inversèrent, et le professeur Quirrell était
 de nouveau là. Pendant un moment, le professeur lui-même sembla onduler

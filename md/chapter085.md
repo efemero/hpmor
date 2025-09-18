@@ -644,7 +644,7 @@ ce faux pas aurait été sans conséquence avec un tel sorcier présent.
 « Ainsi en fut-il, » dit Albus Dumbledore presque dans un soupir. « Ainsi en fut-il. » Fumseck était sur son épaule et regardait là où
 s’était trouvé l’autre phénix d’un regard aviaire indéchiffrable.
 
-« *Que faites-vous ici ? »*
+« *Que faites-vous ici ?* »
 
 « Ah ? » dit le vieil homme depuis le coin opposé de la plate-forme. « J’ai ressentit la présence d’une créature inconnue de Poudlard alors je
 suis venu voir, bien sûr. » Lentement, la main tremblante du vieux

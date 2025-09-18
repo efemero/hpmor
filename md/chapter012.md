@@ -43,9 +43,9 @@ poses-tu la question* ? »
 « Non, je ne sais pas non plus comment j’ai vaincu le Seigneur des
 Ténèbres ! Préviens-moi si tu découvres comment ! »
 
-« *Silence ! »* cria le Professeur McGonagall depuis le podium de la table
+« *Silence !* » cria le Professeur McGonagall depuis le podium de la table
 d’honneur. « *Pas de discussions avant la fin de la Cérémonie de
-Triage ! »*
+Triage !* »
 
 Le volume sonore s’estompa brièvement pendant que chacun attendait de
 voir si elle allait faire des menaces crédibles, puis les chuchotements

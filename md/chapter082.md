@@ -167,16 +167,16 @@ Tout ce qui me reste !« *
 sensation physique de sembler prononcer ces mots. Harry entendit la
 profonde désolation dans les mots de Dumbledore, dans les sons qui
 semblaient venir de la gorge de Harry lui-même, mais il ne ressentit
-rien d’autre que ce son.* »*Tu n’as pas le choix,« dit une voix dure.*
+rien d’autre que ce son.** »Tu n’as pas le choix,« dit une voix dure.*
 
 *Les yeux se déplacèrent et le champ de vision sauta jusqu’à un homme
 que Harry ne reconnut pas, porteur d’une veste teintée du cramoisi Auror
 mais faite d’un cuir solide et dotée de nombreuses poches.*
 
 *Son œil droit était surdimensionné et avait une pupille d’un bleu
-électrique qui se déplaçait en permanence.* »*Tu ne peux pas me demander ça, Alastor !« la voix de Dumbledore
-devenait folle. »Pas ça ! Tout sauf ça !« * »*Je ne te le demande pas,« gronda l’homme. »C’est Voldy qui le demande,
-et tu vas lui dire non.« * »*Pour de l’argent, Alastor ?« la voix de Dumbledore était suppliante. »Seulement pour de l’argent ?« * »*Tu paies la rançon d’Aberforth, tu perds la guerre,« dit sèchement
+électrique qui se déplaçait en permanence.** »Tu ne peux pas me demander ça, Alastor !« la voix de Dumbledore
+devenait folle. »Pas ça ! Tout sauf ça !« ** »Je ne te le demande pas,« gronda l’homme. »C’est Voldy qui le demande,
+et tu vas lui dire non.« ** »Pour de l’argent, Alastor ?« la voix de Dumbledore était suppliante. »Seulement pour de l’argent ?« ** »Tu paies la rançon d’Aberforth, tu perds la guerre,« dit sèchement
 l’homme. »C’est aussi simple que ça. Cent mille Gallions, presque tout
 ce que nous avons dans notre trésor de guerre, et si tu l’utilises comme
 ça, on n’ira pas le remplir à nouveau. Qu’est-ce que tu vas faire,
@@ -184,13 +184,13 @@ essayer de convaincre les Potter de vider leur coffre comme les Londubat
 l’ont déjà fait ? Voldy va juste kidnapper quelqu’un d’autre et exiger
 autre chose. Alice, Minerva, tous ceux auxquels tu tiens, ils seront
 tous des cibles si tu paies les Mangemorts. Ce n’est pas la leçon que tu
-devrais essayer de leur faire apprendre.« * »*Si je fais ça, je n’aurais plus personne. Plus personne.« La voix de
+devrais essayer de leur faire apprendre.« ** »Si je fais ça, je n’aurais plus personne. Plus personne.« La voix de
 Dumbledore se brisa, le monde s’inclina, la tête d’où émanait le champ
 de vision tomba entre les vieilles mains et de terribles sons émergèrent
 de la gorge, qui n’était pas celle de Harry, lorsque Dumbledore commença
-à sangloter comme un enfant.* »*Devrais-je dire non au messager de Voldy ?« dit la voix d’Alastor,
+à sangloter comme un enfant.** »Devrais-je dire non au messager de Voldy ?« dit la voix d’Alastor,
 cette fois avec une étrange douceur. »Tu n’as pas à le faire toi-même,
-mon vieil ami.« * »*Non… Je le dirai moi-même… Je dois…« *
+mon vieil ami.« ** »Non… Je le dirai moi-même… Je dois…« *
 
 
 

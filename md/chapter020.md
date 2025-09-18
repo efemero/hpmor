@@ -79,11 +79,11 @@ chose qu’on fait quand on essaie de *convaincre* tout le monde que l’on
 est pas Ténébreux, pas — »
 
 « *Je n’y crois pas ! Vous ne pouvez pas décider que n’importe quelle
-observation confirmera votre théorie ! »*
+observation confirmera votre théorie !* »
 
 « Et c’était un *chouia* trop d’indignation. »
 
-« *Mais qu’est-ce que je dois faire pour vous convaincre ? »*
+« *Mais qu’est-ce que je dois faire pour vous convaincre ?* »
 
 « Pour me convaincre que vous n’entretenez aucune ambition de devenir un
 Seigneur des Ténèbres ? » dit le professeur Quirrell, l’air maintenant
@@ -556,7 +556,7 @@ chose qu’il pourrait jamais apprendre.
 Puis les lourdes portes en chêne de la salle s’arrachèrent de leurs
 gonds et ricochèrent sur le sol de marbre dans un crissement aigu.
 
-« *QUIRINUS ! COMMENT OSEZ-VOUS ! »*
+« *QUIRINUS ! COMMENT OSEZ-VOUS !* »
 
 Tel un vaste coup de tonnerre, un ancien et puissant sorcier surgit dans
 la pièce, son visage reflétant une rage d’une telle incandescence que le
@@ -650,7 +650,7 @@ vas bien. »
 Le professeur Quirrell toussa, fortement et délibérément. Harry regarda
 le professeur et vit qu’il fixait Dumbledore avec un air sévère.
 
-« *Ah-hem ! »* dit à nouveau le professeur Quirrell.
+« *Ah-hem !* » dit à nouveau le professeur Quirrell.
 
 Dumbledore et le professeur Quirrell se fixèrent l’un l’autre, et
 quelque chose sembla passer entre eux.

@@ -76,9 +76,9 @@ navrée, M. Potter, » dit McGonagall, l’air sincère, bien que ses lèvres
 s’étirassent en un sourire. « J’aurais dû vous prévenir. »
 
 Harry avait le souffle court. Sa voix sortit étouffée. « *Vous ne POUVEZ
-pas faire ça ! »*
+pas faire ça !* »
 
-« Ce n’est qu’une métamorphose,* »* dit McGonagall. « Une transformation
+« Ce n’est qu’une métamorphose,** » dit McGonagall. « Une transformation
 en Animagus, pour être exacte. »
 
 « Vous vous êtes transformée en chat ! Un PETIT chat ! Vous avez violé

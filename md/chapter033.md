@@ -1028,7 +1028,7 @@ Tombant en piquée tandis que l’ennemi s’élevait à sa rencontre, la
 marteau s’abattant pour rencontrer l’enclume le long d’une trajectoire
 qu’aucun n’était prêt à quitter…
 
-« *Attaque spéciale, vrille chaotique ! »*
+« *Attaque spéciale, vrille chaotique !* »
 
 Neville vit l’air horrifié sur le visage du capitaine Weasley lorsque le
 sort de lévitation l’atteint. Ils l’avaient testé avant le début de la
@@ -1037,7 +1037,7 @@ devenait un tout nouveau genre d’arme lorsque tout le monde nageait sous
 l’eau.
 
 « *Sois maudit, Londubat !* » piailla Ron Weasley, « *ne peux-tu jamais te
-battre sans tes attaques spéciales idiotes — »*
+battre sans tes attaques spéciales idiotes — * »
 
 et lorsque le capitaine Soleil eut fini d’être incliné sur le côté,
 Neville tira sur sa jambe.

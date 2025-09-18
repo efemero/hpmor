@@ -324,7 +324,7 @@ ne me comprenez pas *du tout*. Je n’*aime* pas le danger, ça me fait
 *contingences imprévues*. Comme mes parents me chantonnaient : *Soyez
 prêts ! C’est la chanson de marche des scouts, soyez prêts ! Comme on
 marche dans la vie ! Pas nerveux, pas énervé, pas effrayé, soyez
-prêt ! »*
+prêt !* »
 
 (Les parents de Harry n’avaient de fait chanté que *ces vers là* de la
 chanson de Tom Lehrer, et Harry vivait dans l’heureuse ignorance du
@@ -354,7 +354,7 @@ magasins qui était pavée de briques sales et se terminait par un
 cul-de-sac de terre noire et compacte.
 
 La grande sorcière pointa sa baguette en direction de la rue principale
-et dit : « *Sourdinam »*, et un écran de silence s’abattit autour d’eux,
+et dit : « *Sourdinam*, » et un écran de silence s’abattit autour d’eux,
 bloquant les bruits de la rue.
 
 *Qu’est-ce que j’ai fait de mal…*
@@ -611,7 +611,7 @@ rire. « Je ne voulais pas vous causer d’ennuis avec le Professeur
 McGonagall, » dit-elle. Sa voix baissa et prit un ton de conspiratrice.
 « J’espère qu’elle n’a pas été *trop* terrible avec vous. »
 
-« *Della ! »* dit McGonagall, scandalisée.
+« *Della !* » dit McGonagall, scandalisée.
 
 « Sac d’or, » dit Harry à sa bourse, et il s’adressa à nouveau à la
 vendeuse pendant qu’il comptait ses cinq Gallions. « Ne vous en faites
@@ -863,7 +863,7 @@ toujours su.
 Et —
 
 « *Il est en effet très curieux que vous soyez destiné à cette baguette,
-sachant que sa sœur, eh bien, sa sœur vous a donné cette cicatrice. »*
+sachant que sa sœur, eh bien, sa sœur vous a donné cette cicatrice.* »
 
 Ça ne *pouvait* pas être une coïncidence. Il y avait des *milliers* de
 baguettes dans ce magasin. Bon, d’accord, ça *pouvait* être une
@@ -1058,7 +1058,7 @@ devrai rien. »
 McGonagall s’arrêta net au milieu de la rue. Ses yeux flamboyèrent et sa
 voix se transforma en un sifflement. « Comment osez-vous ! »
 
-« *Comment osez-vous ! »* chuchota-t-il en retour.
+« *Comment osez-vous !* » chuchota-t-il en retour.
 
 « Vous me faites *chanter* ? »
 

@@ -37,7 +37,7 @@ ici ? »
 « Ce n’est plus équitable de mettre le général Potter seul contre nous
 deux, » dit Drago Malfoy d’une voix basse.
 
-« *Quoi ? »* laissa échapper Hermione. « On les *avait* presque, si Daphné
+« *Quoi ?* » laissa échapper Hermione. « On les *avait* presque, si Daphné
 ne s’était pas évanouie — »
 
 « Mademoiselle Greengrass ne s’est pas évanouie d’épuisement magique, »
@@ -95,7 +95,7 @@ laisse pas d’autre choix : général Potter, vous choisirez huit soldats
 de votre armées, dont au moins un lieutenant chaotique, et ils seront
 répartis entre l’armée Dragon et le régiment Soleil — »
 
-« *Quoi ? »* éclata de nouveau Hermione, elle jeta un coup d’œil aux deux
+« *Quoi ?* » éclata de nouveau Hermione, elle jeta un coup d’œil aux deux
 autres généraux et vit que Harry semblait aussi choqué qu’elle, tandis
 que Drago avait seulement l’air résigné.
 
@@ -104,7 +104,7 @@ professeur Quirrell d’une calme précision. « Votre concours est fini, il
 a gagné, et il est temps de rééquilibrer les équipes afin de le mettre
 face à un nouveau défi. »
 
-« *Professeur Quirrell ! »* dit Harry. « Je n’ai pas — »
+« *Professeur Quirrell !* » dit Harry. « Je n’ai pas — »
 
 « C’est ma décision de professeur de magie de bataille de l’école de
 sorcellerie de Poudlard et elle n’est pas sujette à quelque négociation
@@ -399,7 +399,7 @@ que cela lui ferait, vous le savez probablement mieux que moi. »
 
 « Ça – n’a pas l’air *juste*, » dit Hermione d’une voix tremblante. « Que
 je *doive* être l’amie de Harry parce qu’il n’a personne d’autre ? Ça
-n’a pas l’air *juste. »*
+n’a pas l’air *juste.* »
 
 « On peut pas vous forcer à *être* une amie, Mlle Granger. » Le regard
 bleu sembla la traverser. « Les sentiments sont là où pas. S’ils sont là,

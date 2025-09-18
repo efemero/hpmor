@@ -479,7 +479,7 @@ trous gris, renvoyaient la lumière de la torche et semblaient plus
 clairs que le reste de son corps.
 
 « *Alors*, » siffla la créature venimeuse. « *Que ssouhaitais-tu me
-dire ? »*
+dire ?* »
 
 Et Harry siffla : « *Le directeur pensse que c’est l’ancien Sseigneur de
 cette femme qui l’a volée à cette prison.* »
@@ -501,7 +501,7 @@ prochaines années par mesure de ssécurité ! J’ai décidé que je vais bel
 et bien me mettre en quête de pouvoir ; et la sséquestration ne m’y aide
 pas beaucoup. Je dois convaincre le directeur que le Sseigneur des
 Ténèbres n’est pas encore réveillé, que cette évasion était l’œuvre
-d’une autre force — »*
+d’une autre force — * »
 
 De nouveau l’oscillation rapide de la langue du serpent ; son rire était
 plus fort, plus sec cette fois. « *Bêtise d’amateur*. »
@@ -514,7 +514,7 @@ avancer. Tu pensses à convaincre les autres qu’ils ont tort. Bien plus
 ssimple de les convaincre qu’ils ont raison. Conssidères ceci, garçon :
 quel heureux hasard pousserait le maître de l’école à décider que tu es
 de nouveau en ssécurité et ferait simultanément avancer tes autres
-projets ? »*
+projets ?* »
 
 Harry regarda le serpent, perplexe. Son esprit essaya de comprendre, de
 dénouer l’énigme -
@@ -522,7 +522,7 @@ dénouer l’énigme -
 « *N’est-ce pas évident ?* » siffla le serpent. De nouveau la langue qui
 oscillait, le rire sardonique. « *Pour te libérer et gagner du pouvoir en
 Angleterre, on doit à nouveau te voir vaincre le Seigneur des
-Ténèbres. »*
+Ténèbres.* »
 
 
 
@@ -536,10 +536,10 @@ yeux.
 
 « *Donc*, » finit par dire Harry. « *Ssoyons clairs quant à votre
 proposition. Vous ssugérez de trouver un impossteur qui jouera le rôle
-du Sseigneur des Ténèbres. »*
+du Sseigneur des Ténèbres.* »
 
 « *Quelque chose comme ça. La femme ssauvée coopérera, ssera des plus
-convaincantes quand on la verra à sses côtés. »* De nouveau l’oscillement
+convaincantes quand on la verra à sses côtés.* » De nouveau l’oscillement
 lingual sardonique. « *Tu te fais enlever de Poudlard, emmené vers lieu
 public, nombreux témoins, barrières pour empêcher protecteurs
 d’approcher. Sseigneur des Ténèbres annonce qu’il a enfin retrouvé sson
@@ -548,22 +548,22 @@ que sson pouvoir est plus grand que jamais et que même toi ne pourras
 l’arrêter cette fois-ci. Propose duel. Tu lances sortilège gardien,
 Sseigneur des Ténèbres sse rit de toi, dit qu’il n’est pas un mange-vie.
 Lance ssort de mort vers toi, tu bloques, témoins voient le Seigneur des
-Ténèbres exploser — »*
+Ténèbres exploser — * »
 
-« *Lancer ssort de mort ? »* siffla Harry d’un ton incrédule. « *Ssur moi ?
+« *Lancer ssort de mort ?* » siffla Harry d’un ton incrédule. « *Ssur moi ?
 Deuxième fois ? Personne ne croira que le Sseigneur des Ténèbres sserait
-asssez bête pour — »*
+asssez bête pour — * »
 
 « *Toi et moi ssommes les deux sseules personnes du pays qui l’auraient
-remarqué, »* siffla le serpent. « *Fais-moi confiance sur ce point,
-garçon. »*
+remarqué,* » siffla le serpent. « *Fais-moi confiance sur ce point,
+garçon.* »
 
-« *Et ssi un jour il y en a une troisième ? »*
+« *Et ssi un jour il y en a une troisième ?* »
 
 Le serpent ondula pensivement. « *Pourrons écrire autre sscénario à jouer
 si tu ssouhaites. Quel qu’il ssoit, devrons laissser ouverte
 posssibilité que Sseigneur des Ténèbres revienne de nouveau — pays doit
-pensser qu’ils dépendent toujours de toi pour les protéger. »*
+pensser qu’ils dépendent toujours de toi pour les protéger.* »
 
 Harry regarda les trous rouge et vacillants des yeux du serpent.
 
@@ -584,11 +584,11 @@ dernière expérience était qu’il fallait toujours dire immédiatement
 *non* au professeur de Défense ou si…
 
 « *Y pensserai,* » siffla Harry. « *Ne répondrai pas tout de ssuite cette
-fois, énumérerai rissques et avantages avant — »*
+fois, énumérerai rissques et avantages avant — * »
 
-« *Compris, »* siffla le serpent. « *Mais souviens-toi de ceci, garçon,
+« *Compris,* » siffla le serpent. « *Mais souviens-toi de ceci, garçon,
 autres événements se produisent sans toi. Hésitation est toujours
-facile, rarement utile. »*
+facile, rarement utile.* »
 
 
 

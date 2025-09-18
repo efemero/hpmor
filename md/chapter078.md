@@ -155,7 +155,7 @@ pour les jeter sur des gens mais — »
 
 « Mauvaise idée, » dit Ernie Macmillan. Le Poufsouffle secoua la tête d’un
 air encore plus sérieux que celui d’Anthony. « Enfin c’est exactement
-comme de lancer un sortilège : ils l’*éviteront. »*
+comme de lancer un sortilège : ils l’*éviteront.* »
 
 Anthony hocha la tête. « C’est ce que je me disais aussi. Tu aurais une
 idée, Seamus ? »
@@ -1117,7 +1117,7 @@ La barrière prismatique se volatilisa.
 
 Les soldats Soleil continuèrent leur charge.
 
-Tracey hurla, sa voix tendue à l’extrême : « *Inflammare ! »* et la charge
+Tracey hurla, sa voix tendue à l’extrême : « *Inflammare !* » et la charge
 Soleil s’arrêta de nouveau alors qu’une ligne de feu s’élevait
 brusquement devant eux dans l’herbe mi-sèche le long de la direction
 vers laquelle Tracey avait pointé sa baguette, et un instant plus tard
@@ -1169,7 +1169,7 @@ les mènerait directement à une collision mutuelle.
 Les autres chaotiques apparaissaient maintenant entre les arbres,
 d’autres avaient *sauté d’arbres* et la bataille battait son plein,
 chacun tirant en tous sens sur tout ce qui ressemblait à un ennemi. Plus
-un certain nombre de Soleil qui criaient « *Luminos ! »* et Neville
+un certain nombre de Soleil qui criaient « *Luminos !* » et Neville
 Londubat, le Poufsouffle chaotique, qui zigzaguait et fusait à travers
 les airs le long de trajectoires qui n’auraient pu en effet être
 qualifiées autrement que « chaotiques »…
@@ -1188,7 +1188,7 @@ Quirrell. On pouvait tout se permettre tant que c’était *réaliste*, et
 dans la vraie vie, un soldat ne se volatilisait pas quand son *balais*
 était victime d’un sortilège.
 
-Neville tomba vers le sol en hurlant : « *Atterrissage chaotique !, »* les
+Neville tomba vers le sol en hurlant : « *Atterrissage chaotique !,* » les
 chaotiques arrachèrent leur attention au combat pour lancer un sortilège
 de lévitation (tout en courant afin de ne pas devenir des cibles
 faciles), presque tout le monde s’arrêta, bouche bée -
@@ -1218,7 +1218,7 @@ dire qu’un accompagnement musical était de rigueur.
 sorcière scrutait l’écran d’un regard calculateur.
 
 « En effet, » dit Augusta Londubat. « Certains d’entre eux, si j’entends
-bien, entonnent *Notre sang pour Neville ! Nos âmes pour Neville ! »*
+bien, entonnent *Notre sang pour Neville ! Nos âmes pour Neville !* »
 
 « En effet, » dit Amelia en prenant une gorgée d’une tasse qui, un instant
 plus tôt, n’avait pas été là. « On dirait que le gamin est taillé pour
@@ -1258,7 +1258,7 @@ l’étourdir… »
 À côté d’elle, Hannah hocha la tête, puis elles hurlèrent à pleins
 poumons et chargèrent, rendues plus rapides et légères par les
 sortilèges de lévitation de deux soldats Soleil. Daphné criait déjà
-« *Tonare ! »* alors que Hannah maintenait un immense *Contego* mouvant
+« *Tonare !* » alors que Hannah maintenait un immense *Contego* mouvant
 devant elles, et grâce à une brève poussée supplémentaire elles
 bondirent par-dessus la tête de la première ligne de soldats et
 atterrirent face à Neville, leurs cheveux tourbillonnant au-dessus de
@@ -1287,7 +1287,7 @@ l’envoya s’effondrer en arrière sur l’herbe et son dos frappa durement
 le sol. Tout aurait été alors fini pour elle si Neville n’avait pas lui
 aussi atterrit trop brusquement et ne s’était pas retrouvé à genoux avec
 un hoquet de douleur. Alors, avant que celui-ci ne puisse abattre sa
-Lame lumineuse, Hannah cria « *Somnium ! »* et Neville bondit
+Lame lumineuse, Hannah cria « *Somnium !* » et Neville bondit
 désespérément en arrière – même si bien sûr aucun sortilège n’était
 vraiment sorti de la baguette de Hannah car il était impossible pour la
 Poufsouffle de tirer une deuxième fois si vite – ce qui donna à Daphné
@@ -1322,16 +1322,16 @@ pratique de la magie. »
 
 
 
-« *Expelliarmus ! »* s’écria Drago en essayant d’empêcher sa voix de se
+« *Expelliarmus !* » s’écria Drago en essayant d’empêcher sa voix de se
 briser et en esquivant en même temps le jet rouge que Hermione Granger
 avait tiré vers lui. Ses muscles se tordirent pour bondir dans la
 mauvaise direction : elle avait pointé vers la gauche puis d’une
 mystérieuse convulsion avait tiré vers la droite…
 
 Hermione évita le rapide sortilège de duelliste et s’écria sans s’être
-le moins du monde interrompue : « *Steleus ! »*, un maléfice à effet de
+le moins du monde interrompue : « *Steleus !*, » un maléfice à effet de
 zone que Drago ne pouvait pas éviter, mais il réussit à diriger sa
-baguette vers son propre visage et à s’écrier « *Quiescus ! »* avant que
+baguette vers son propre visage et à s’écrier « *Quiescus !* » avant que
 le besoin soudain d’inspirer de l’air ne se transforme en une quinte de
 tout qui aurait mis fin à la bataille.
 
@@ -1369,7 +1369,7 @@ ne l’avaient pas encore vue en colère.*
 
 Daphné frappa de son Ancienne Lame, toujours sans essayer de frapper
 fort mais en la déplaçant aussi vite que possible tandis qu’au même
-instant Hannah criait « *Somnium ! »* et que Neville bondissait de nouveau
+instant Hannah criait « *Somnium !* » et que Neville bondissait de nouveau
 vers l’arrière, mais ça avait été un autre bluff, et Hannah s’avança
 pour tirer un véritable sort, presque à bout portant…
 
@@ -1436,7 +1436,7 @@ continuer leur attaque. Même Tracey avait entièrement laissé tomber son
 air sinistre et elle se balançait nerveusement d’un pied sur l’autre,
 comme si elle avait du mal à se souvenir dans quel camp elle était…
 
-« *Arrêtez ! »* hurla une voix. « *Arrêtez la bataille ! »*
+« *Arrêtez !* » hurla une voix. « *Arrêtez la bataille !* »
 
 Il n’y avait de toute façon pas de bataille en cours à proprement
 parler, mais on s’arrêta.
@@ -1483,7 +1483,7 @@ tête, toujours roulée en boule sur l’herbe.
 
 « Bon, ça suffit, » dit Harry. « *Chaotiques ! Plus vite on les étourdi
 plus vite elle sortira d’ici ! On va faire ça très vite même si on doit
-subir des pertes ! Fin de la trêve ! POISSONTHON ! »*
+subir des pertes ! Fin de la trêve ! POISSONTHON !* »
 
 La partie politique du cerveau de Daphné n’eut qu’un instant pour
 admirer comment les quelques mots de Harry venaient de mettre les
@@ -1577,7 +1577,7 @@ Cette bataille continua bien plus longtemps.
 
 
 
-« *Stupéfix ! »* s’écria le général Soleil.
+« *Stupéfix !* » s’écria le général Soleil.
 
 Drago n’évita ni ne contra car il n’avait plus assez d’énergie pour
 faire l’un ou l’autre ; il ne put que vite mettre sa main en position et
@@ -1621,10 +1621,10 @@ blanchirent sur la baguette qu’elle tenait braquée sur lui.
 Et Drago comprit alors, et son sang en bouillit. Même *elle* pensait
 qu’il manigançait secrètement quelque chose contre elle…
 
-« *Toi aussi ? »* cria Drago. « *Je t’ai aidée, petite morveuse aux dents
-de lapin ! Tu, tu, tu, »* — il bégaya entre tous les sortilèges noirs qui
+« *Toi aussi ?* » cria Drago. « *Je t’ai aidée, petite morveuse aux dents
+de lapin ! Tu, tu, tu,* » — il bégaya entre tous les sortilèges noirs qui
 lui vinrent à l’esprit jusqu’à trouver quelque chose qu’il puisse
-vraiment lui lancer — « *DENSAUGEO ! »*
+vraiment lui lancer — « *DENSAUGEO !* »
 
 Mais Granger bondit et tourbillonna autour du sortilège d’allongement
 dentaire puis sa propre baguette acheva de tourner et se retrouva
@@ -1634,7 +1634,7 @@ fermé entre lui et ce qu’elle était sur le point de tirer, quand le
 général Soleil poussa un cri audible à travers tout le champ de
 bataille…
 
-« *ALOHOMORA ! »*
+« *ALOHOMORA !* »
 
 Le temps aurait dû s’arrêter.
 
@@ -1661,7 +1661,7 @@ jaillit et donna un coup à la manière moldue qui fit sauter la baguette
 de Drago hors de sa main. Le corps et l’esprit encore choqués de Drago
 avaient réagit un peu trop lentement. Drago plongea sur sa baguette,
 fouilla le sol avec frénésie, mais de derrière lui la voix brisée d’une
-fille dit « *Somnium ! »*, et Drago Malfoy tomba pour ne pas se relever.
+fille dit « *Somnium !*, » et Drago Malfoy tomba pour ne pas se relever.
 
 Il y eut un autre moment de silence figé. Le général Soleil vacillait et
 donnait l’impression de risquer de s’évanouir.

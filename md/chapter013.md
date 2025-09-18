@@ -513,7 +513,7 @@ d’entourer un autre jeune garçon.
 
 Harry devint soudain plutôt coléreux.
 
-« *Excusez moi ! »* cria Harry de toutes ses forces.
+« *Excusez moi !* » cria Harry de toutes ses forces.
 
 Ça n’était peut-être pas forcément nécessaire. Les gens le regardaient
 déjà. Mais ça permettait certainement de figer la situation.
@@ -613,7 +613,7 @@ Puis Harry remarqua la note en-dessous du plat.
 « Attends, » dit Harry, et il s’élança pour récupérer la note. « Cette note
 est pour moi je pense — »
 
-« *Toi,* » grogna le plus grand des Serpentard, « *toi, tu, vas — »*
+« *Toi,* » grogna le plus grand des Serpentard, « *toi, tu, vas — * »
 
 « *Regardez*-moi ça ! » cria Harry, brandissant la note devant le
 Serpentard plus âgé. « Franchement, *regardez* ça ! Pouvez-vous croire

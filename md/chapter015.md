@@ -1,6 +1,6 @@
 # Être consciencieux
 
-« *Frigideiro ! »*
+« *Frigideiro !* »
 
 Harry trempa un doigt dans le verre d’eau posé sur son bureau. Il aurait
 dû être froid. Mais tiède il avait été, et tiède il était resté. Une
@@ -28,7 +28,7 @@ Harry avait été *roulé*. Il voulait écrire à quelqu’un et demander un
 *remboursement* de son côté obscur, qui aurait clairement *dû* avoir
 d’irrésistibles pouvoirs magiques mais s’était révélé *défectueux*.
 
-« *Frigideiro ! »* dit à nouveau Hermione, depuis le pupitre à côté du
+« *Frigideiro !* » dit à nouveau Hermione, depuis le pupitre à côté du
 sien. Son eau était un solide bloc de glace et il y avait des cristaux
 blancs se formant sur le rebord de son verre. Elle semblait totalement
 absorbée par son travail et pas du tout consciente des autres élèves du

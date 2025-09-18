@@ -322,7 +322,7 @@ ordre -
 Et il y eut un sifflement, faible, comme lent et confus, et ce
 sifflement dit :
 
-« *Quel était… cce sson ? »*
+« *Quel était… cce sson ?* »
 
 
 
@@ -367,7 +367,7 @@ métal de la prisson même ssi je ne ssuis qu’un élève de première année.
 Pas le temps d’expliquer, vous devez partir maintenant. Si nous ne nous
 recroissons jamais, professseur, alors je ssuis heureux de vous avoir
 connu pour un temps, même si vous êtes probablement maléfique. Il est
-bon d’avoir la chance de dire au moins cela : Au revoir. »*
+bon d’avoir la chance de dire au moins cela : Au revoir.* »
 
 Et Harry prit le balais volant, le présenta à Bellatrix, et dit
 simplement : « Monte. »
@@ -385,9 +385,9 @@ comporté en héros du début à la fin.
 « *Arrête, arrête, arrête ! Que veux-tu dire, au revoir ?* »
 
 « *Plan d’évasion est rissqué,* » dit Harry. « *Ma vie n’est pas en jeu,
-sseulement la vôtre et la ssienne. Alors je resste, je me rends — »*
+sseulement la vôtre et la ssienne. Alors je resste, je me rends — * »
 
-« *Non ! »* dit le serpent. Le sifflement était vigoureux. « *Ne doit pas !
+« *Non !* » dit le serpent. Le sifflement était vigoureux. « *Ne doit pas !
 Pas permis !* »
 
 Bellatrix monta sur le balais de feu ; Harry put sentir (mais il ne put
@@ -395,7 +395,7 @@ pas voir) sa tête se tourner vers lui. Elle ne dit rien. Elle
 l’attendait, peut-être, ou simplement ses ordre.
 
 « *Ne vous fais plus confiance,* » dit simplement Harry. « *Pas depuis que
-vous avez esssayé d’abattre homme protecteur. »*
+vous avez esssayé d’abattre homme protecteur.* »
 
 Et le serpent siffla : « *Je n’ai pas cherché à abattre homme
 protecteur ! Es-tu idiot, garçon ? L’abattre n’aurait aucun sens,
@@ -410,31 +410,31 @@ Ssi j’avais voulu l’abattre il sserait mort en quelques ssecondes,
 garçon idiot, il ne faissait pas le poids face à moi ! Je cherchais à le
 soumettre, le dominer, le forcer à abaissser les boucliers de sson
 essprit, devais lire en lui, savoir qui attendait ssa réponsse,
-apprendre détails pour ssortilège de mémoire — »*
+apprendre détails pour ssortilège de mémoire — * »
 
-« *Vous avez jeté ssortilège de mort ! »*
+« *Vous avez jeté ssortilège de mort !* »
 
-« *Savait qu’il éviterait ! »*
+« *Savait qu’il éviterait !* »
 
-« *Sa vie valait-elle si peu ? Et s’il n’avait pas évité ? »*
+« *Sa vie valait-elle si peu ? Et s’il n’avait pas évité ?* »
 
 « *L’aurais pousssé hors de trajectoire avec ma propre magie, garçon
-idiot ! »*
+idiot !* »
 
 Encore l’arrêt giratoire de la planète. Harry n’y avait pas pensé.
 
 « *Sstupide cancre de tous les consspirateurs,* » siffla le serpent avec
 tant de colère que les sifflements semblaient se chevaucher et se mordre
 la queue, « *imbécile dégourdi, idiot futé, ssot de Sserpentard pas
-entraîné, ta méfiance mal placée a ruiné — »*
+entraîné, ta méfiance mal placée a ruiné — * »
 
-« *N’est pas le bon moment pour disscuter, »* fit remarquer Harry avec
+« *N’est pas le bon moment pour disscuter,* » fit remarquer Harry avec
 douceur. La brusque montée de soulagement qui tentait de se répandre en
 lui était annulée par la tension montante. « *Puissque je ne peux pas me
 mettre correctement en colère contre vous ssans m’ouvrir aux
-manges-vies. Doit se dépêcher, quelqu’un a peut-être entendu bruit — »*
+manges-vies. Doit se dépêcher, quelqu’un a peut-être entendu bruit — * »
 
-« *Explique plan d’évassion, »* dit le serpent d’un ton impérieux.
+« *Explique plan d’évassion,* » dit le serpent d’un ton impérieux.
 « *Presstement !* »
 
 Harry expliqua. Le Fourchelangue n’avait pas de mots pour décrire la
@@ -447,9 +447,9 @@ regard, lance ssortilège de ssilence, mets charme gardien devant porte.
 Vais me transsformer, faire rapides améliorations à ton invention,
 donner potion d’urgence à femme pour qu’elle puissse nous protéger, me
 transsformer de nouveau avant que tu ne disssipes le charme. Plan ssera
-alors plus sûr. »*
+alors plus sûr.* »
 
-« *Et dois-je croire, »* siffla Harry, « *que Guérissseur pour femme nous
+« *Et dois-je croire,* » siffla Harry, « *que Guérissseur pour femme nous
 attend vraiment ?* »
 
 « *Utilise raison, jeune garçon ! Suppose que je ssuis maléfique. Arrêter
@@ -458,7 +458,7 @@ Misssion est opportunisste, inventée après avoir vu ton charme gardien,
 affaire scenssée ne pas être remarquée, caché quand parti de lieu où on
 mange. Évidemment que tu verras perssonne prétendant être Guérissseur à
 l’arrivée ! Retourner à lieu où l’on mange ensuite, plan original
-continue comme avant ! »*
+continue comme avant !* »
 
 Harry regarda le serpent invisible.
 

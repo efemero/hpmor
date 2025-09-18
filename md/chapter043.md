@@ -45,10 +45,10 @@ Harry tordit sa main une fois, deux fois, trois fois et quatre fois, il
 décala ses doigts de la distance exacte…
 
 « *Bonne chance à l’école, Harry. Penses-tu que je t’ai acheté assez de
-livres ? »*
+livres ?* »
 
 « *On ne peut jamais acheter assez de livres… mais tu as certainement
-essayé, c’était un très, très, très bon essai… »*
+essayé, c’était un très, très, très bon essai…* »
 
 La première fois que Harry s’en était souvenu et qu’il avait essayé de
 l’utiliser pour le sort, cela lui avait fait monter les larmes aux yeux.
@@ -857,7 +857,7 @@ de Harry, comme un tison de métal refroidi jusqu’à avoir atteint la
 température de l’hélium liquide qu’on aurait fait passer à la surface de
 tout son corps. Et la voix dit :*
 
-« *Avadakedavra. »*
+« *Avadakedavra.* »
 
 (La baguette s’envola des doigts flasques du garçon tandis que son corps
 commençait à convulser et à tomber, les yeux du directeur maintenant
@@ -875,7 +875,7 @@ poliment.*
 « *Écarte-toi, femme ! » dit la voix stridente d’un froid brûlant. « Ce
 n’est pas pour toi que je suis venu, mais pour le garçon. »*
 
-« *Pas Harry ! S’il vous plaît… ayez pitié… ayez pitié… »*
+« *Pas Harry ! S’il vous plaît… ayez pitié… ayez pitié…* »
 
 *Harry songea que Lily Potter ne semblait pas comprendre quel genre de
 personne devenait Seigneur des Ténèbres en premier lieu ; et si c’était
@@ -887,7 +887,7 @@ de son fils, alors c’était aussi son échec final en tant que mère.*
 sauvera pas ton enfant. Écarte-toi, femme imbécile, si tu as le moindre
 bon sens ! »*
 
-« *Pas Harry, s’il vous plaît, non, prenez moi, tuez moi à la place ! »*
+« *Pas Harry, s’il vous plaît, non, prenez moi, tuez moi à la place !* »
 
 *La chose vide qu’était devenu Harry se demanda si Lily Potter imaginait
 sérieusement que Lord Voldemort dirait oui, qu’il la tuerait et qu’il
@@ -906,7 +906,7 @@ abaisses ta baguette que je puisse te tuer. »*
 
 *La voix mortelle finit la première, le sort rapide et précis.*
 
-« *Avadakedavra. »*
+« *Avadakedavra.* »
 
 *Un éclat de vert aveuglant marqua la fin de Lily Potter.*
 
@@ -973,7 +973,7 @@ ne comprenait pas ce qui se passait, et le sorcier le plus puissant du
 monde semblait tout autant perdu qu’elle.
 
 « *Utilisez votre phénix !* » mugit le professeur Quirrell. « *Éloignez-le
-autant que possible de ce Détraqueur ! »*
+autant que possible de ce Détraqueur !* »
 
 Sans un mot le directeur prit Harry dans ses bras et disparut dans un
 éclat de feu au côté de Fumsec, qui venait subitement d’apparaître ; et
@@ -991,7 +991,7 @@ depuis les airs, et la créature de lumière lunaire alla vers Hermione
 Granger, et il cria de la voix d’Albus Dumbledore :
 
 « *Il se nourrit encore de lui, même ici ! Comment ? Si tu le sais,
-Hermione Granger, tu dois me le dire ! Dis-le moi ! »*
+Hermione Granger, tu dois me le dire ! Dis-le moi !* »
 
 L’Auror le plus âgé pivota pour la regarder, et de nombreux élèves
 firent de même. Le professeur Flitwick ne pivota pas, il tenait à

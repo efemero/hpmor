@@ -374,7 +374,7 @@ de Hermione ? »
 embrassé en premier, tu sais ce que ça aurait fait de toi ? La pauvre
 petite fille amoureuse qui meurt à la fin de l’Acte 2. »
 
-« *Retires ça ! »* hurla Tracey.
+« *Retires ça !* » hurla Tracey.
 
 Pendant ce temps, Gregory avait traversé la pièce jusqu’à l’endroit où
 Vincent faisait ses devoirs. « M. Crabbe, » dit Gregory d’une voix basse,
@@ -519,7 +519,7 @@ prophétie.
 
 « *Je te donne la rare chance de t’échapper. Mais je ne ferai pas
 l’effort de te maîtriser, et ta mort, ici, ne sauvera pas ton enfant.
-Écarte-toi, femme imbécile, si tu as le moindre bon sens ! »*
+Écarte-toi, femme imbécile, si tu as le moindre bon sens !* »
 
 Cela avait-il été un caprice, lui donner cette chance ? Mais alors il
 n’aurait pas essayé de la persuader. La prophétie l’avait-elle mis en

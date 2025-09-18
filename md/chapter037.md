@@ -24,7 +24,7 @@ Harry se redressa instantanément dans son lit.
 
 Il regarda par la fenêtre.
 
-« *Professeur Quirrell ? »* glapit-il très doucement.
+« *Professeur Quirrell ?* » glapit-il très doucement.
 
 Le professeur Quirrell éleva légèrement la main et la fenêtre de Harry
 sembla se replier dans son cadre. Une bouffée d’air hivernal pénétra
