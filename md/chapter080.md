@@ -169,23 +169,23 @@ L’article suivant avait dit la même chose en des mots moins éloquents.
 
 Plus tôt, Albus Dumbledore lui avait dit :
 
-« *Je n’essaierai pas de te tenir à l’écart de ce procès. » La voix du
-vieux sorcier avait été douce et inflexible. « Je peux tout à fait
+« *Je n’essaierai pas de te tenir à l’écart de ce procès.* » La voix du
+vieux sorcier avait été douce et inflexible. « *Je peux tout à fait
 prévoir comment cela se déroulerait. Mais je voudrais qu’en retour, tu
 me traite avec pareille courtoisie. La politique du Magenmagot est
 délicate et tu ignores tout d’elle. Ose quelque folie et il en coûtera à
 Hermione Granger ; et tu te souviendra de cette folie pour le restant de
-tes jours, Harry James Potter-Evans-Verres. »*
+tes jours, Harry James Potter-Evans-Verres.* »
 
-« *Je comprends, » dit Harry. « Je sais. Juste – si vous comptez faire
+« *Je comprends,* » dit Harry. « *Je sais. Juste – si vous comptez faire
 sortir un lapin de votre chapeau et sauver la mise au dernier moment
 alors que tout semble perdu, s’il vous plaît, dites-le moi maintenant au
-lieu de me laisser m’inquiéter… »*
+lieu de me laisser m’inquiéter…* »
 
-« *Je ne te ferais pas ça, » dit le vieux sorcier comme imprégné d’une
-terrible lassitude alors qu’il se retournerait pour partir. « Encore
+« *Je ne te ferais pas ça,* » dit le vieux sorcier comme imprégné d’une
+terrible lassitude alors qu’il se retournerait pour partir. « *Encore
 moins à Hermione. Mais je n’ai pas de lapins dans mon chapeau, Harry.
-Nous pouvons seulement voir ce que Lucius Malfoy désire. »*
+Nous pouvons seulement voir ce que Lucius Malfoy désire.* »
 
 Il y eu un petit coup sec, un unique son bref qui parvint pourtant à
 faire taire toute la chambre et à faire vivement pivoter la tête de
