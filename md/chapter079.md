@@ -1,8 +1,8 @@
 # Compromis Tabous, partie 1
 
 
-« *Hermione Granger, » dit l’Auror Komodo d’une voix sans timbre, « vous
-êtes en état d’arrestation pour avoir tenté d’assassiner Drago Malfoy. »*
+« *Hermione Granger,* » dit l’Auror Komodo d’une voix sans timbre, « *vous
+êtes en état d’arrestation pour avoir tenté d’assassiner Drago Malfoy.* »
 
 Les mots chutèrent dans l’esprit de Harry et brisèrent ses pensées en un
 milliers d’éclats d’incrédulité. Le choc causé par l’adrénaline causa
