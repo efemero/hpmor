@@ -68,7 +68,7 @@ reformer instantanément.
 « *Du feu et de l’acide !* » hurla Harry. « *Utilisez du feu ou de
 l’acide !* »
 
-« *Fuego !* » / « *Incendio ! »* Entendit-il, mais il ne regardait plus, il
+« *Fuego !* » / « *Incendio !* » Entendit-il, mais il ne regardait plus, il
 saisissait la seringue emplie du liquide orange et lumineux qu’était la
 potion oxygénante et la plongeait dans le cou de Hermione, là où Harry
 espérait trouver l’artère carotide, afin de maintenir son cerveau en vie

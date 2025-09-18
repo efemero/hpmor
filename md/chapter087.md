@@ -482,46 +482,64 @@ t’a dit *quand* c’était ? »
 dit des choses — comme celles que Malfoy a dites — ne peut pas être
 quelqu’un de bien. Tes tentations n’ont pas d’importance, il reste
 quelqu’un de pourri, parce que *quoiqu’il arrive* quelqu’un de bien ne
-pourrait *jamais*… »Tu as tort,« dit Harry en la regardant droit dans les yeux. »Je peux
+pourrait *jamais*… »
+
+« Tu as tort, » dit Harry en la regardant droit dans les yeux. « Je peux
 imaginer ce que Drago a menacé de te faire, parce que la deuxième fois
 que je l’ai rencontré, il parlait de le faire à une fille de dix ans.
 Mais est-ce que tu ne vois pas que le jour où Drago Malfoy est arrivé à
 Poudlard, il avait passé toute sa vie élevé par des *Mangemorts*. Il
 aurait fallu une *intervention surnaturelle* pour qu’il ait *ta*
-moralité étant donné *son* cadre éducatif…« Hermione secoua violemment la tête. »*Non*, Harry, personne n’a besoin
+moralité étant donné *son* cadre éducatif… »
+
+Hermione secoua violemment la tête. « *Non*, Harry, personne n’a besoin
 de te *dire* que c’est mal de faire souffrir les gens. Ce n’est pas
 quelque chose qu’on ne fait pas parce que le professeur a dit que
 c’était interdit, c’est quelque chose qu’on ne fait pas parce que… parce
-que *quand les gens souffrent, ça se voit*. Tu ne sais pas ça, Harry ?« Sa voix tremblait à présent. »Ce n’est pas… ce n’est pas une *règle* que
+que *quand les gens souffrent, ça se voit*. Tu ne sais pas ça, Harry ? »
+Sa voix tremblait à présent. « Ce n’est pas… ce n’est pas une *règle* que
 les gens suivent comme les règles de l’algèbre ! Si tu ne peux pas le
-*voir*, si tu ne peux pas le ressentir *ici*,« sa main frappa au centre
+*voir*, si tu ne peux pas le ressentir *ici*, » sa main frappa au centre
 de sa poitrine, pas tout à fait là où se trouvait son cœur, mais ça
 n’avait pas d’importance parce que tout se passait dans le cerveau de
-toute façon, »alors tu ne l’as pas !« L’idée vint alors à Hermione que Harry ne l’avait peut-être *pas*. »Il y a des livres d’Histoire que tu n’as pas lus,« dit doucement Harry. »Il y a des livres que tu n’as pas lus et qui pourraient te faire voir
+toute façon, « alors tu ne l’as pas ! »
+
+L’idée vint alors à Hermione que Harry ne l’avait peut-être *pas*.
+
+« Il y a des livres d’Histoire que tu n’as pas lus, » dit doucement Harry.
+« Il y a des livres que tu n’as pas lus et qui pourraient te faire voir
 les choses autrement. Il y a quelques siècles — je pense que c’était
 certainement encore en vogue au dix-septième siècle — c’était une forme
 d’amusement populaire au village que de prendre un panier en osier ou un
-ballot avec une dizaine de chats vivants à l’intérieur et…« »Arrête,« dit-elle. »…de les brûler dans un feu de joie. Juste une fête ordinaire. Un
+ballot avec une dizaine de chats vivants à l’intérieur et… »
+
+« Arrête, » dit-elle.
+
+« …de les brûler dans un feu de joie. Juste une fête ordinaire. Un
 plaisir sain. Et je leur accorderai ça : c’était plus sain que te brûler
 des femmes qu’on pensait être des sorcières. Parce que la façon dont les
 gens sont faits, Hermione, la façon dont les *sentiments* des gens sont
-faits…« Harry mit une main sur son propre cœur, à l’emplacement
+faits… » Harry mit une main sur son propre cœur, à l’emplacement
 anatomique correct, mais il s’arrêta et déplaça sa main vers sa tête, au
-niveau de l’oreille, »… c’est qu’il souffrent quand ils voient leurs
+niveau de l’oreille, « … c’est qu’il souffrent quand ils voient leurs
 *amis* souffrir. Quand la personne entre dans leur cercle de
 préoccupation, quand c’est un membre de leur tribu. Cette sensation a un
 interrupteur, un bouton on-off étiqueté « ennemi, » « étranger, » ou parfois
 juste « inconnu ». Les gens sont comme ça si on ne leur *apprend* rien
 d’autre. Donc non, le fait que Drago Malfoy a grandi en croyant que
 c’est drôle de faire souffrir ses ennemis ne veut *pas* dire qu’il est
-inhumain, ni même inhabituellement mauvais…« »Si tu crois ça,« dit-elle d’une voix instable, »si tu *peux* croire ça,
+inhumain, ni même inhabituellement mauvais… »
+
+« Si tu crois ça, » dit-elle d’une voix instable, « si tu *peux* croire ça,
 alors tu es mauvais. Les gens sont toujours responsables de leurs actes.
 Ce qu’on te *dit* de faire n’a pas d’importance ; c’est toi qui agis.
-Tout le monde sait ça…« »*Non, tout le monde ne le sait pas !* Tu as grandi dans une société
+Tout le monde sait ça… »
+
+« *Non, tout le monde ne le sait pas !* Tu as grandi dans une société
 post-Seconde Guerre mondiale, dans laquelle *tout le monde sait* que les
-méchants disent « je ne faisais qu’obéir aux ordres ». Au quinzième
+méchants disent “je ne faisais qu’obéir aux ordres”. Au quinzième
 siècle, on aurait dit que l’accusé avait agit avec un sens du devoir
-honorable.« La voix de Harry montait. »Est-ce que tu penses que tu, que
+honorable. » La voix de Harry montait. « Est-ce que tu penses que tu, que
 tu es juste *génétiquement* meilleure que tous ceux qui vivaient à cette
 époque ? Que si tu avais été transportée à Londres au quinzième siècle
 quand tu étais bébé tu te serais rendue compte *toute seule* que c’est
@@ -533,9 +551,11 @@ n’a jamais *dit* à Drago que c’est sa responsabilité personnelle de
 devenir plus éthiquement meilleur que la société dans laquelle il a
 grandi. Et *malgré ça* il ne lui a fallu que quatre mois pour en arriver
 au point où il attrape une née-Moldue par la main pour l’empêcher de
-tomber d’un bâtiment.« Les yeux de Harry étaient plus virulents qu’elle
-ne les avait jamais vus. »Je n’ai pas *fini* de corrompre Drago Malfoy,
-mais je pense que jusque là il s’en sort *plutôt bien*.« Le problème d’avoir une aussi bonne mémoire, c’était de *pouvoir* se
+tomber d’un bâtiment. » Les yeux de Harry étaient plus virulents qu’elle
+ne les avait jamais vus. « Je n’ai pas *fini* de corrompre Drago Malfoy,
+mais je pense que jusque là il s’en sort *plutôt bien*. »
+
+Le problème d’avoir une aussi bonne mémoire, c’était de *pouvoir* se
 souvenir.
 
 Elle se souvenait de Drago Malfoy saisissant son poignet avec tant de
@@ -547,42 +567,82 @@ Quidditch Serpentard.
 
 Et elle se souvenait — c’était en fait la raison pour laquelle elle
 avait entamé cette conversation — de ce qu’elle avait ressentit quand
-elle avait entendu le témoignage sous Veritaserum de Drago Malfoy. »Pourquoi est-ce que tu ne m’as rien *dit* de tout ça ?« dit Hermione,
-et en dépit d’elle-même, sa voix monta d’un cran. »Si j’avais *su*…« »Ce n’était pas à moi de te révéler ce secret,« dit Harry. »Drago aurait
-été mis en danger si son père l’avait découvert.« »Je ne suis pas stupide, M. Potter. Quelle est la *vraie* raison pour
+elle avait entendu le témoignage sous Veritaserum de Drago Malfoy.
+
+« Pourquoi est-ce que tu ne m’as rien *dit* de tout ça ? » dit Hermione,
+et en dépit d’elle-même, sa voix monta d’un cran. « Si j’avais *su*… »
+
+« Ce n’était pas à moi de te révéler ce secret, » dit Harry. « Drago aurait
+été mis en danger si son père l’avait découvert. »
+
+« Je ne suis pas stupide, M. Potter. Quelle est la *vraie* raison pour
 laquelle tu ne me l’as pas dit, et qu’est-ce que tu faisais *vraiment*
-avec M. Malfoy ?« »Ah. Eh bien…« Harry détourna le regard et baissa les yeux vers la
-table. »Drago Malfoy a dit aux Aurors, sous Veritaserum, qu’il avait désiré
+avec M. Malfoy ? »
+
+« Ah. Eh bien… » Harry détourna le regard et baissa les yeux vers la
+table.
+
+« Drago Malfoy a dit aux Aurors, sous Veritaserum, qu’il avait désiré
 savoir s’il pouvait me battre et qu’il m’avait donc provoquée en duel
 afin de le *tester empiriquement*. Ce furent ses *mots exacts*, selon la
-retranscription de son témoignage.« »Ouais,« dit Harry, toujours sans croiser son regard. »Hermione Granger.
+retranscription de son témoignage. »
+
+« Ouais, » dit Harry, toujours sans croiser son regard. « Hermione Granger.
 Bien *sûr* qu’elle se souviendrait des mots exacts. Peu importe qu’elle
 soit enchaînée à une chaise et accusée de meurtre devant tout le
-Magenmagot…« »Qu’est-ce que tu faisais *vraiment* avec Drago Malfoy ?« Harry grimaça et dit : »Probablement pas *exactement* ce que tu penses,
-mais…« L’horreur monta et monta en elle, puis se libéra enfin.
+Magenmagot… »
 
-* »Tu faisais de la SCIENCE avec lui ?« * »Eh bien…« * »Tu faisais de la SCIENCE avec lui ? Tu étais censé faire de la science
-avec MOI !« * »Ce n’est pas ça ! Ce n’est pas comme si je faisais *vraiment* de la
+« Qu’est-ce que tu faisais *vraiment* avec Drago Malfoy ? »
+
+Harry grimaça et dit : « Probablement pas *exactement* ce que tu penses,
+mais… »
+
+L’horreur monta et monta en elle, puis se libéra enfin.
+
+*« Tu faisais de la SCIENCE avec lui ? »*
+
+« Eh bien… »
+
+*« Tu faisais de la SCIENCE avec lui ? Tu étais censé faire de la science
+avec MOI ! »*
+
+« Ce n’est pas ça ! Ce n’est pas comme si je faisais *vraiment* de la
 science avec lui ! C’était juste, tu sais, pour lui *apprendre* des
 bouts de science moldue sans danger, comme la physique élémentaire,
 l’algèbre, et ainsi de suite… ce n’est pas comme si j’avais fait de la
-recherche originale en magie avec lui comme je l’ai fait avec toi…« »Et j’imagine que tu ne *lui* a pas parlé de *moi* non plus ?« »Euh, bien sûr que non ?« dit Harry. »J’ai fait de la science avec lui
+recherche originale en magie avec lui comme je l’ai fait avec toi… »
+
+« Et j’imagine que tu ne *lui* a pas parlé de *moi* non plus ? »
+
+« Euh, bien sûr que non ? » dit Harry. « J’ai fait de la science avec lui
 depuis octobre, et à cette époque il n’était pas tout à fait prêt à
-entendre parler de toi…« Le sentiment de trahison inexprimable enflait et enflait en elle,
+entendre parler de toi… »
+
+Le sentiment de trahison inexprimable enflait et enflait en elle,
 dominait tout : sa voix de plus en plus forte, ses yeux en furie, son
 nez dont elle était certaine qu’il se mettait à couler, la sensation de
 brûlure dans sa gorge. Elle se leva avec force de la table et fit un pas
 en arrière pour mieux voir celui qui l’avait trahie. Sa voix fut presque
-un cri perçant lorsqu’elle hurla : »*Ça n’est pas tenable ! Tu ne peux
-pas faire de la science avec deux personnes en même temps !*« »Euh…« »*Je veux dire, tu ne peux pas faire de la science avec deux personnes
-différentes et ne pas le leur dire !*« »Ah…« dit précautionneusement Harry. »J’y *ai* pensé, et j’ai été très
+un cri perçant lorsqu’elle hurla : « *Ça n’est pas tenable ! Tu ne peux
+pas faire de la science avec deux personnes en même temps !* »
+
+« Euh… »
+
+« *Je veux dire, tu ne peux pas faire de la science avec deux personnes
+différentes et ne pas le leur dire !* »
+
+« Ah… » dit précautionneusement Harry. « J’y *ai* pensé, et j’ai été très
 prudent de ne pas mélanger tes recherches avec quelque chose que
-j’aurais fait avec lui…« »Tu as été *prudent*.« Elle l’aurait *sifflé* s’il y avait eu des sss.
+j’aurais fait avec lui… »
+
+« Tu as été *prudent*. » Elle l’aurait *sifflé* s’il y avait eu des sss.
 
 Harry leva une main et frotta ses cheveux en bataille, et sans qu’elle
-sache pourquoi cela lui donna *encore plus* envie de hurler. »Mlle
-Granger,« dit Harry, »je pense que cette conversation est devenue
-*métaphorique* à un niveau qui, euh…« »*Quoi ?*« dit-elle d’une voix stridente depuis l’intérieur de la
+sache pourquoi cela lui donna *encore plus* envie de hurler. « Mlle
+Granger, » dit Harry, « je pense que cette conversation est devenue
+*métaphorique* à un niveau qui, euh… »
+
+« *Quoi ?* » dit-elle d’une voix stridente depuis l’intérieur de la
 barrière insonorisante.
 
 Puis elle comprit et devint si rouge que si elle avait eu une puissance
@@ -591,7 +651,9 @@ magique adulte ses cheveux auraient spontanément pris feu.
 Le seul autre visiteur de la bibliothèque, le garçon Serdaigle assit
 dans le coin opposé, les regardait tous les deux avec de grands yeux,
 tout en essayant assez tristement de le masquer en tenant un livre juste
-en-dessous de son visage. »Oui,« dit Harry avec un petit soupir. »Donc, en gardant *fermement à
+en-dessous de son visage.
+
+« Oui, » dit Harry avec un petit soupir. « Donc, en gardant *fermement à
 l’esprit* que c’était juste une mauvaise métaphore et que les *vrais
 scientifiques* collaborent *tout le temps*, je ne pense pas avoir trompé
 qui que ce soit. Les scientifiques sont souvent discrets quant aux
@@ -600,10 +662,16 @@ que nous gardons secrètes, et il y avait des raisons de ne pas en parler
 à Drago Malfoy en particulier — au début, il aurait entièrement arrêté
 de passer du temps avec moi s’il avait su que j’étais ton ami et pas ton
 rival. Et Drago aurait été celui à risque si j’avais parlé de *lui* à
-quelqu’un…« »C’est vraiment tout ?« dit-elle. »*Vraiment*, Harry ? Tu ne voulais pas
+quelqu’un… »
+
+« C’est vraiment tout ? » dit-elle. « *Vraiment*, Harry ? Tu ne voulais pas
 qu’on se sente tous les deux *spéciaux*, qu’on ait tous les deux
 l’impression d’être les *seuls* avec qui tu voulais être, les *seuls*
-qui puissent être avec toi ?« »Ce n’est *pas* pour ça que j’ai…« Harry s’interrompit.
+qui puissent être avec toi ? »
+
+« Ce n’est *pas* pour ça que j’ai… »
+
+Harry s’interrompit.
 
 Il la regarda.
 
@@ -613,54 +681,33 @@ avoir de la fumée en train de sortir de ses oreilles, une fumée qui
 aurait dû faire fondre sa tête, faire couler la chair le long de son
 cou.
 
-Harry la regardait avec une horreur absolue. »Enfin…« dit-elle d’une voix plutôt aiguë, »c’est… oh, je ne sais pas
+Harry la regardait avec une horreur absolue.
+
+« Enfin… » dit-elle d’une voix plutôt aiguë, « c’est… oh, je ne sais pas
 Harry ! *Est-ce que* c’est juste une métaphore ? Quand un garçon dépense
 cent mille Gallions pour sauver une fille d’une fin certaine, elle a le
 droit de se poser des questions, tu ne penses pas ? C’est comme de se
 faire offrir des fleurs, sauf que, tu vois, c’est *beaucoup plus*…
 
 Harry se releva vivement de la table et fit un pas chancelant en
-arrière, tout en levant les mains et en les agitant frénétiquement. « *Ce
+arrière, tout en levant les mains et en les agitant frénétiquement. »*Ce
 n’est pas pour ça que je l’ai fait ! Je l’ai fait parce qu’on est
-amis !* »
-
-« Juste amis ? »
-
-La respiration de Harry commençait à grimper vers l’hyperventilation.
-« De très bons amis ! D’extra-super-bons amis, même ! Meilleurs amis pour
-toujours, peut-être ! Mais pas *ce* genre d’amis ! »
-
-« Est-ce que c’est vraiment si horrible que ça d’y penser ? » dit-elle en
-manquant une respiration. « Je veux dire… je ne dis pas que *je* suis
-amoureuse de *toi*, mais… »
-
-« Ah non ? *Heureusement*. » Harry remonta une manche de sa robe et
-s’essuya le front. « Écoute Hermione, comprends-moi bien, je suis sûr que
-tu es quelqu’un de génial… »
-
-Elle fit un pas chancelant en arrière.
-
-« mais… mais avec mon côté obscur… »
-
-« C’est de *ça* qu’il s’agit ? » dit-elle. « Mais… je ne… »
-
-« Non, non, je veux dire que j’ai un mystérieux côté obscur et
+amis !*« »Juste amis ?« La respiration de Harry commençait à grimper vers l’hyperventilation. »De très bons amis ! D’extra-super-bons amis, même ! Meilleurs amis pour
+toujours, peut-être ! Mais pas *ce* genre d’amis !« »Est-ce que c’est vraiment si horrible que ça d’y penser ?« dit-elle en
+manquant une respiration. »Je veux dire… je ne dis pas que *je* suis
+amoureuse de *toi*, mais…« »Ah non ? *Heureusement*.« Harry remonta une manche de sa robe et
+s’essuya le front. »Écoute Hermione, comprends-moi bien, je suis sûr que
+tu es quelqu’un de génial…« Elle fit un pas chancelant en arrière. »mais… mais avec mon côté obscur…« »C’est de *ça* qu’il s’agit ?« dit-elle. »Mais… je ne…« »Non, non, je veux dire que j’ai un mystérieux côté obscur et
 probablement d’autres trucs magiques bizarres, tu *sais* que je ne suis
-pas un enfant normal, pas vraiment… »
-
-« Tu as le droit de ne pas être normal, » dit-elle avec la sensation
-d’être de plus en plus désespérée et perdue. « Ça *me* va… »
-
-« Mais *même avec tous ces trucs magiques bizarres* qui me permettent
+pas un enfant normal, pas vraiment…« »Tu as le droit de ne pas être normal,« dit-elle avec la sensation
+d’être de plus en plus désespérée et perdue. »Ça *me* va…« »Mais *même avec tous ces trucs magiques bizarres* qui me permettent
 d’être plus un adulte que je ne devrais l’être, je ne suis pas encore
 pubère et il n’y a pas d’hormones dans mon sang et mon cerveau est
 *physiquement incapable* de tomber amoureux de qui que ce soit. Donc je
 ne suis pas amoureux de toi ! Je ne pourrais pas être amoureux de toi !
 Pour tout ce que j’en sais, dans six mois mon cerveau va se réveiller et
 décider de tomber amoureux du professeur Rogue ! Euh, est-ce que je peux
-déduire de tout ça que *tu* as déjà atteint ta puberté ? »
-
-« Hiiii, » dit Hermione d’un ton aigu. Elle tangua, et un instant plus
+déduire de tout ça que *tu* as déjà atteint ta puberté ?« »Hiiii,« dit Hermione d’un ton aigu. Elle tangua, et un instant plus
 tard Harry se précipita à son côté et l’aida à s’asseoir par terre,
 soutenant son corps de ses mains fermes.
 
@@ -670,28 +717,42 @@ qu’elle s’était informée, mais quand même plutôt *mal à l’aise*, et
 c’était avec un grand soulagement qu’elle avait appris que les sorcières
 avaient des sortilèges pour gérer ce genre d’ennuis et *qu’est-ce qui
 prenait Harry de poser une question pareille à une pauvre fille
-innocente…« * »Écoute, je suis *désolé*,« s’empressa de dire Harry. »Je ne voulais
+innocente…* »
+
+« Écoute, je suis *désolé*, » s’empressa de dire Harry. « Je ne voulais
 vraiment pas dire la majorité de ce que j’ai eu l’air de vouloir dire !
 Je suis sûr que n’importe qui prenant une vue extérieure sur la
 situation et proposant des cotes de paris sur la personne que je finirai
 par épouser assignerait une plus grande probabilité à toi qu’à toute
-autre personne à laquelle je puisse penser…« Les pensées de Hermione, qui venaient à peine de commencer à se
-reformer, explosèrent promptement en un jet d’étincelles et de flammes. »Mais pas nécessairement une probabilité supérieure à cinquante pour
+autre personne à laquelle je puisse penser… »
+
+Les pensées de Hermione, qui venaient à peine de commencer à se
+reformer, explosèrent promptement en un jet d’étincelles et de flammes.
+
+« Mais pas nécessairement une probabilité supérieure à cinquante pour
 cent, je veux dire du point de vue extérieure il y a beaucoup d’autres
 possibilités, et qui j’aime avant ma puberté ne *diagnostique*
 probablement pas fortement avec qui je serai dans sept ans… je ne veux
-pas avoir l’air de *promettre* quoi que ce soit…« Sa gorge émit un ensemble de sons aigus, elle n’écoutait pas exactement
+pas avoir l’air de *promettre* quoi que ce soit… »
+
+Sa gorge émit un ensemble de sons aigus, elle n’écoutait pas exactement
 pas de quoi il s’agissait. Tout son univers s’était restreint à la
-terrible, terrible voix de Harry. »Et puis j’ai lu des livres sur la psychologie évolutionniste et, enfin,
-il est possible que « un homme et une femme heureux avec beaucoup
-d’enfants » est peut-être plus proche de l’exception que de la règle, et
+terrible, terrible voix de Harry.
+
+« Et puis j’ai lu des livres sur la psychologie évolutionniste et, enfin,
+il est possible que “un homme et une femme heureux avec beaucoup
+d’enfants” est peut-être plus proche de l’exception que de la règle, et
 dans les tribus de chasseurs-cueilleurs il s’agissait plus souvent de
 juste rester ensemble pendant deux ou trois ans pour élever l’enfant à
 ses niveaux de développement les plus vulnérables… et, enfin, étant
 donné combien de personnes finissent malheureuses dans les mariages
 traditionnels il semble que c’est le genre de choses qui pourrait
 bénéficier de remaniements astucieux — surtout si on résout le problème
-de l’immortalité…« ------------------------------------------------------------------------
+de l’immortalité… »
+
+
+
+------------------------------------------------------------------------
 
 
 
@@ -712,8 +773,12 @@ Le garçon ne dit rien lorsque Tano s’approcha de lui, mais son regard
 n’était pas amical.
 
 Tano déglutit, posa une main sur l’épaule de Harry Potter et récita
-d’une voix qui ne se brisa que légèrement : »Ah, les sorcières ! Allez
-comprendre, hein ?« »*Enlève ta main avant que je ne la jette dans les ténèbres
-extérieures.*« Les portes de la librairie s’ouvrirent grand une fois de plus sur le
+d’une voix qui ne se brisa que légèrement : « Ah, les sorcières ! Allez
+comprendre, hein ? »
+
+« *Enlève ta main avant que je ne la jette dans les ténèbres
+extérieures.* »
+
+Les portes de la librairie s’ouvrirent grand une fois de plus sur le
 passage d’un second départ.
 

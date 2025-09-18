@@ -269,18 +269,30 @@ Celui-Dont-Il-Ne-Faut-Pas-Prononcer-Le-Nom, que le garçon pourrait
 rejoindre les rangs de ceux dont les rituels sont inscrits sur les
 tombes de pays entiers. Ce n’est pas une crainte sans fondement,
 McGonagall ; j’ai déjà entendu des paroles susceptibles d’éveiller la
-plus terrible des appréhensions. »Êtes-vous fou ? Vous pensez que M. Potter pourrait… c’est ridicule. M.
-Potter ne pourrait jamais…« L’image muette d’un morceau de verre sur une sphère d’acier lui traversa
-l’esprit. »… M. Potter ne ferait pas une chose pareille !« »Son choix conscient n’est pas nécessaire. Les sorciers se décident
+plus terrible des appréhensions. »
+
+« Êtes-vous fou ? Vous pensez que M. Potter pourrait… c’est ridicule. M.
+Potter ne pourrait jamais… »
+
+L’image muette d’un morceau de verre sur une sphère d’acier lui traversa
+l’esprit.
+
+« … M. Potter ne ferait pas une chose pareille ! »
+
+« Son choix conscient n’est pas nécessaire. Les sorciers se décident
 rarement à provoquer leur propre perte. M. Potter ne vous semble
 peut-être pas mal intentionné. Vous semble-t-il inconscient, une fois
 qu’il s’est résolu à atteindre un but ? Je répète que j’ai des raisons
-précises de nourrir la pire des craintes possibles !« »En avez-vous parlé au directeur ?« dit-elle lentement. »Ce serait pire qu’inutile. Dumbledore ne peut atteindre le garçon. Au
+précises de nourrir la pire des craintes possibles ! »
+
+« En avez-vous parlé au directeur ? » dit-elle lentement.
+
+« Ce serait pire qu’inutile. Dumbledore ne peut atteindre le garçon. Au
 mieux, il est assez sage pour le savoir et ne pas aggraver les choses.
 Quant à moi, je ne possède pas l’état d’esprit nécessaire. Vous êtes
 celle qui… mais je vois que vous attendez encore d’être secourue par
-d’autres.« Le professeur de Défense se détourna d’elle et marcha jusqu’à
-la porte. »Je pense que je vais consulter Severus Rogue. L’homme est
+d’autres. » Le professeur de Défense se détourna d’elle et marcha jusqu’à
+la porte. « Je pense que je vais consulter Severus Rogue. L’homme est
 peut-être un désastre ambulant, mais il le sait, et il possédera
 peut-être une meilleure idée de l’humeur du garçon. Quant à vous,
 madame, imaginez-vous à la fin de votre vie, sachant que l’Angleterre -
@@ -288,4 +300,5 @@ mais non, l’Angleterre n’est pas votre vrai pays, n’est-ce pas ?
 Imaginez-vous à la fin de votre vie, alors que les ténèbres dévorent ce
 qui reste des murs de Poudlard, sachant que vos élèves mourront avec
 vous, vous souvenant de ce jour, comprenant qu’il y avait autre chose
-que vous auriez pu faire.« 
+que vous auriez pu faire. »
+
