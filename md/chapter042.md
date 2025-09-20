@@ -385,7 +385,7 @@ en y pensant. Harry avait perdu deux parents dont il ne se souvenait
 pas, qu’il ne connaissait que par le biais d’histoires. Remus Lupin
 avait perdu ses quatre meilleurs amis en moins de vingt-quatre heures ;
 et il n’y avait pas eu la moindre justification pour la perte de Peter
-Pettigrew, le dernier qui lui restait.
+Pettigrow, le dernier qui lui restait.
 
 « Parfois, cela me fait encore mal de penser qu’il est à Azkaban, » finit
 Remus, sa voix presque un murmure. « Harry, je suis heureux que les
@@ -393,7 +393,7 @@ Mangemorts n’aient pas le droit aux visiteurs. Cela veut dire que je
 n’ai pas à me sentir honteux de ne pas lui rendre visite. »
 
 Harry dut déglutir plusieurs fois avant de pouvoir parler de nouveau.
-« Pouvez-vous me parler de Peter Pettigrew ? Il semble qu’il était l’ami
+« Pouvez-vous me parler de Peter Pettigrow ? Il semble qu’il était l’ami
 de mon père, et il me semble — que je devrais savoir, que je devrais me
 souvenir — »
 
@@ -420,7 +420,7 @@ nous, cela ne fait-il pas de lui le plus courageux ? »
 « Si, » dit Harry. Sa propre gorge était si serrée qu’il ne pouvait
 presque pas parler. « Si vous le pouvez, M. Lupin, si vous avez le temps,
 je pense qu’il y a quelqu’un d’autre qui devrait entendre l’histoire de
-Peter Pettigrew, un élève de Poufsouffle en première année, Neville
+Peter Pettigrow, un élève de Poufsouffle en première année, Neville
 Londubat. »
 
 « Le garçon de Frank et Alice, » dit Remus d’une voix devenue triste. « Je
@@ -431,10 +431,10 @@ Harry hocha la tête.
 
 Un bref silence s’abattit.
 
-« Y avait-il *quoi que ce soit* d’inachevé entre Peter Pettigrew et
+« Y avait-il *quoi que ce soit* d’inachevé entre Peter Pettigrow et
 Black ? » dit Harry. « *N’importe quoi* qui aurait pu le faire partir à la
-recherche de Peter Pettigrew, même sans mériter un meurtre ? Comme un
-secret que M. Pettigrew aurait connu et que Black aurait voulu
+recherche de Peter Pettigrow, même sans mériter un meurtre ? Comme un
+secret que M. Pettigrow aurait connu et que Black aurait voulu
 connaître, ou qu’il aurait voulu protéger en le tuant ? »
 
 Quelque chose scintilla dans les yeux de Remus, mais l’homme plus âgé

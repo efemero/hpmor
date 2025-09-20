@@ -86,7 +86,7 @@ Le vendeur prit les pièces et Harry continua de lire.
 « Mince alors, » dit Harry une demi-minute plus tard, « Vous rendez une
 voyante complètement ivre avec six lampées de scotch et voilà qu’elle
 vend la mèche sur toutes *sortes* de choses secrètes. Je veux dire, qui
-aurait pensé que Sirius Black et Peter Pettigrew étaient secrètement la
+aurait pensé que Sirius Black et Peter Pettigrow étaient secrètement la
 même personne ? »
 
 « Pas moi, » dit le vendeur.

@@ -204,7 +204,7 @@ est un adepte des théories conspirationnistes, on peut toujours trouver
 d’un ton sérieux. « Les choses étaient alors chaotiques, et lorsque les
 Aurors remontèrent jusqu’à Black, il se tenait là, riant dans une
 ruelle, du sang jusqu’au chevilles, avec vingt témoins oculaires pour
-raconter comment il avait tué un ami de mon père nommé Peter Pettigrew
+raconter comment il avait tué un ami de mon père nommé Peter Pettigrow
 ainsi que douze passants. Je ne dis pas que j’approuve le fait que Black
 n’ait pas eu de procès. Mais il s’agit de sorciers dont nous parlons
 ici, alors ce n’est pas beaucoup plus suspect que, je ne sais pas, que
@@ -212,37 +212,37 @@ le genre de chose que les gens mentionnent lorsqu’ils débattent au sujet
 de l’identité de l’assassin de John F. Kennedy. Enfin bref, Sirius Black
 est le Lee Harvey Oswald des sorciers. Il y a toutes sortes de théories
 sur la personne qui aurait *vraiment* trahi mes parents, et l’une des
-théories les plus populaires est Peter Pettigrew, et c’est là que les
+théories les plus populaires est Peter Pettigrow, et c’est là que les
 choses commencent à se compliquer. »
 
 Hermione écoutait, fascinée. « Mais comment tu vas de ça au *rat* *de
 compagnie* des Weasley — »
 
-« Attends, » dit Harry, « j’y viens. Alors, après la mort de Pettigrew, il
+« Attends, » dit Harry, « j’y viens. Alors, après la mort de Pettigrow, il
 fut révélé qu’il avait été un espion pour le compte des gentils — pas un
 agent double, juste quelqu’un qui farfouillait et découvrait des
 secrets. Il avait été doué dans le domaine depuis son adolescence, et
 même à Poudlard il avait la réputation de pouvoir découvrir toutes
-sortes de secrets. La théorie est donc que Pettigrew est devenu un
+sortes de secrets. La théorie est donc que Pettigrow est devenu un
 Animagus non déclaré quand il était encore à Poudlard, un Animagus
 petit, capable de courir partout et d’écouter des conversations. Le
 problème principal étant que les gens capables d’être des Animagus sont
 rares et qu’il est encore plus rare d’y parvenir étant encore
 adolescent, donc les théories disent bien sûr que mon père et Black
 étaient eux aussi des Animagus non déclarés. Et dans cette théorie
-conspirationniste, Pettigrew a tué les douze témoins lui-même puis il
+conspirationniste, Pettigrow a tué les douze témoins lui-même puis il
 s’est transformé en sa petite forme Animagus, et il s’est enfuit. Donc
 Michael Shermer dit qu’il y a quatre problèmes avec cette théories. Un,
 Black était le seul à savoir où se trouvaient mes parents, » (la voix de
 Harry devint un peu rauque lorsqu’il prononça cette phrase), « deux,
-Black était à la base un suspect bien plus probable que Pettigrew, il y
+Black était à la base un suspect bien plus probable que Pettigrow, il y
 a une rumeur selon laquelle Black aurait délibérément essayé de faire
 tuer un élève lorsqu’il était à Poudlard, et il venait de cette famille
 Sang Pur vraiment méchante, Bellatrix Black était littéralement sa
-cousine. Trois, Black était vingt fois plus fort que Pettigrew en magie
+cousine. Trois, Black était vingt fois plus fort que Pettigrow en magie
 de combat, même s’il n’était pas aussi malin que lui. Le duel entre eux
 aurait été comme un duel entre le professeur Quirrell et le professeur
-Chourave. Pettigrew n’aurait probablement pas eu une chance de sortir sa
+Chourave. Pettigrow n’aurait probablement pas eu une chance de sortir sa
 baguette et encore moins de falsifier toutes les preuves dont cette
 théorie a besoin. Et quatre, Black se tenait au milieu de la rue en
 *riant*. »
@@ -251,12 +251,12 @@ théorie a besoin. Et quatre, Black se tenait au milieu de la rue en
 
 « Oui, » dit Harry. « Eh bien, pour résumer, Bill Weasley a décidé que le
 rat de compagnie de son petit frère Percy était la forme Animagus de
-Pettigrew — »
+Pettigrow — »
 
 La mâchoire de Hermione se décrocha.
 
 « Oui, » dit Harry, « on ne s’attendrait pas à ce que le maléfique
-Pettigrew vive une vie furtive et triste sous la forme du rat de
+Pettigrow vive une vie furtive et triste sous la forme du rat de
 compagnie d’une famille de sorciers ennemis, on l’imaginerait soit chez
 les Malfoy, soit plus probable encore quelque part aux Caraïbes après un
 peu de chirurgie esthétique. Quoi qu’il en soit, Bill met son petit
@@ -292,7 +292,7 @@ Hermione gloussait de façon incontrôlable. C’était vraiment horrible et
 elle n’aurait pas dû en rire et elle était une personne affreuse.
 
 « Ce que je ne comprends *pas*,, » dit Harry après que leurs gloussements
-se soient éteints, « c’est *pourquoi* Black pourchasserait Pettigrew au
+se soient éteints, « c’est *pourquoi* Black pourchasserait Pettigrow au
 lieu de courir aussi vite que possible. Il devait savoir que les Aurors
 étaient à ses trousses. Je me demande s’ils ont arraché la raison de son
 comportement à Black avant de l’emmener à Azkaban ? Tu vois, c’est pour

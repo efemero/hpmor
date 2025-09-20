@@ -3,8 +3,7 @@
 //! Markdown emphasis markers (*, **, _, __) across guillemets.
 //!
 //! Usage examples (globs expanded by your shell):
-//!   rust-script tools/orphans.rs md/*.md
-//!   nix shell nixpkgs#rust-script --command rust-script tools/orphans.rs md/*.md
+//!   tools/orphans.rs md/*.md
 /*
 #!nix shell nixpkgs#clang nixpkgs#cargo nixpkgs#rustc nixpkgs#rust-script --command rust-script
 */

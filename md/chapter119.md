@@ -992,15 +992,15 @@ dont le département ne devrait pas trop se préoccuper ? »
 
 Harry ferma les yeux et réfléchit.
 
-Sirius Black avait pourchassé Peter Pettigrew au lieu de fuir le pays
+Sirius Black avait pourchassé Peter Pettigrow au lieu de fuir le pays
 comme le bon sens le suggérait.
 
 Black avait été retrouvé au milieu de la rue, entouré de cadavres,
 hilare.
 
-Rien ne restait de Pettigrew, hormis un doigt.
+Rien ne restait de Pettigrow, hormis un doigt.
 
-Pettigrew avait été un espion des gentils, pas un agent double mais un
+Pettigrow avait été un espion des gentils, pas un agent double mais un
 infiltré, quelqu’un qui découvrait des secrets.
 
 L’une des théories de la conspiration qui le concernait disait que sa
@@ -1015,19 +1015,19 @@ un marteau et des pinces…
 
 Harry ouvrit les yeux.
 
-« Peter Pettigrew était-il secrètement un métamorphomage ? »
+« Peter Pettigrow était-il secrètement un métamorphomage ? »
 
 Le visage d’Amelia Bones changea d’expression. Elle émit un petit
 croassement et s’enfonça dans sa chaise.
 
 « Oui, effectivement… » dit lentement Minerva. « Pourquoi ? »
 
-« Sirius Black a lancé un Confundus sur Peter Pettigrew, » dit Harry d’un
+« Sirius Black a lancé un Confundus sur Peter Pettigrow, » dit Harry d’un
 ton patient, « pour le forcer à changer de forme et à prétendre être
 Black. Quand le Confundus s’est dissipé, Peter était à Azkaban et ne
 pouvait plus se retransformer. Les Aurors ont l’habitude d’entendre les
 prisonniers dire n’importe quoi dans l’espoir de sortir, alors ils n’ont
-pas écouté Peter Pettigrew quand il a hurlé encore et encore jusqu’à en
+pas écouté Peter Pettigrow quand il a hurlé encore et encore jusqu’à en
 perdre la voix. »
 
 Même Maugrey Fol-Œil parut horrifié.
@@ -1114,7 +1114,7 @@ que… qu’est-ce que c’est… »
 « Harry ? » dit la directrice, Minerva McGonagall.
 
 Harry pleurait et respirait par à-coups bruyants. Mais il ne s’arrêta
-pas de parler. Quelque part, pendant qu’il pleurait, Peter Pettigrew
+pas de parler. Quelque part, pendant qu’il pleurait, Peter Pettigrow
 attendait.
 
 Quelque part, pendant qu’il pleurait, tout le monde attendait.
@@ -1221,7 +1221,7 @@ Pierre seront bientôt disponibles pour tous, et qu’en attendant, tous
 les patients mourants devront être maintenus en vie à tout prix, quelle
 que soit la magie requise pour y parvenir. Cette annonce est votre
 priorité absolue. Quand vous en aurez fini, vous pourrez sauver Peter
-Pettigrew et dire à votre ancien département de se préparer à fermer
+Pettigrow et dire à votre ancien département de se préparer à fermer
 Azkaban. Puis arrangez-vous pour que quelqu’un prépare une liste des
 Mangemorts emprisonnés, ce qui a été dit à leurs procès, et si Lucius
 semblait étrangement peu intéressé par leur défense. C’est tout. »
