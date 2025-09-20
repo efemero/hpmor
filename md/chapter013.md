@@ -645,12 +645,12 @@ Le Serpentard leva lentement la main, regarda le plat à tarte, le
 retourna dans bruit de succion collant qui fit tomber encore plus de
 myrtille par terre, et lut une note qui disait :
 
-<span style="text-decoration : underline ;">AVERTISSEMENT  
-</span><span style="text-decoration : underline ;">AUCUNE</span> MAGIE NE
+[AVERTISSEMENT]{.underline}
+[AUCUNE]{.underline} MAGIE NE
 SERA UTILISÉE SUR LE CONCURRENT  
 PENDANT QUE LE JEU EST EN COURS  
 TOUTE AUTRE INTERFÉRENCE AU JEU  
-<span style="text-decoration : underline ;">SERA</span> REPORTÉE AUX
+[SERA]{.underline} REPORTÉE AUX
 AUTORITÉS DU JEU
 
 L’expression de pure perplexité sur le visage du Serpentard était un
@@ -996,7 +996,7 @@ TENTATIVE ÉCHOUÉE
 ÉCHOUÉE ÉCHOUÉE ÉCHOUÉE  
 AIIIIIIIIIIEEEEEEEEEEEEEE  
 POINTS ACTUELS : MOINS L’INFINI  
-<span style="text-decoration : underline ;">TU AS PERDU LE JEU</span>
+[TU AS PERDU LE JEU]{.underline}
 
 INSTRUCTION FINALE :  
 *vas au bureau du Professeur McGonagall*

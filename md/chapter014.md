@@ -544,7 +544,7 @@ trouvait. La lettre disait :
 « *Ceci est la Cape d’Invisibilité d’Ignotus Peverell, transmise à
 travers ses descendants, les Potter. Contrairement aux sorts et aux
 capes de moindre force, elle a le pouvoir de vous garder
-<span style="text-decoration :underline ;">caché</span>, et pas seulement
+[caché]{.underline}, et pas seulement
 invisible. Votre père me l’a prêtée pour étude peu de temps avant sa
 mort, et je confesse en avoir fait grand usage durant ces dernières
 années.*

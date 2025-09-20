@@ -330,12 +330,12 @@ grâce — et ils retournèrent dans la salle de classe.
 Et Harry sortit le parchemin original avec les hypothèses, et il
 commença à griffonner.
 
-*<span style="text-decoration : underline ;">Observation :</span>*
+*[Observation :]{.underline}*
 
 *La sorcellerie n’est pas aussi puissante qu’elle ne l’était quand
 Poudlard a été fondé.*
 
-*<span style="text-decoration : underline ;">Hypothèses :</span>*
+*[Hypothèses :]{.underline}*
 
 *1. La magie elle-même disparaît.*
 
@@ -352,11 +352,11 @@ quelque chose d’autre à part le sang les fait devenir plus faible.*
 unique ? Vérifier si trois sorciers puissants, Quirrell / Dumbledore /
 Seigneur des Ténèbres ont eu des enfants).*
 
-*<span style="text-decoration : underline ;">Tests :</span>*
+*[Tests :]{.underline}*
 
 *A. Y a-t-il des sorts que l’on connaît mais qu’on ne peut pas jeter (1
 ou 2) ou des sorts perdus qu’on ne connaît plus (3) ?
-<span style="text-decoration : underline ;">Résultat :</span>* *Peu
+[Résultat :]{.underline}* *Peu
 concluant à cause de l’Interdit de Merlin. Pas de sort connu injetable,
 mais ils pourraient simplement ne pas avoir été transmis.*
 
@@ -364,17 +364,17 @@ mais ils pourraient simplement ne pas avoir été transmis.*
 sort qu’aujourd’hui, au même niveau de puissance ? (Faible élément de
 preuve pour 1 et contre 2, mais le sang pourrait aussi faire disparaître
 uniquement la sorcellerie puissante).
-<span style="text-decoration : underline ;">Résultat :</span>* *Les sorts
+[Résultat :]{.underline}* *Les sorts
 de première année sont aussi puissants qu’avant.*
 
 *C. Test supplémentaire qui distingue entre 1 et 2 en utilisant les
 connaissances scientifiques sur le sang, j’expliquerai plus tard.
-<span style="text-decoration : underline ;">Résultat :</span>* *Il n’y a
+[Résultat :]{.underline}* *Il n’y a
 qu’un seul endroit dans la recette qui fait de quelqu’un un sorcier,
 soit on a deux papiers disant « magique, » soit on n’a rien.*
 
 *D. Les créatures magiques perdent-elles leurs pouvoirs ? Distingue 1 de
-(2 ou 3). <span style="text-decoration : underline ;">Résultat :</span>*
+(2 ou 3). [Résultat :]{.underline}*
 *Les créatures magiques semblent être aussi puissantes qu’elles l’ont
 toujours été.*
 

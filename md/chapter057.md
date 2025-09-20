@@ -23,7 +23,7 @@ s’appuyer contre un mur ni éclater en sanglots ni même se permettre un
 soupir. Sa chère Bella le regardait et ce n’était pas le genre de chose
 qu’un Seigneur des Ténèbres aurait fait.
 
-« Seigneur -, » dit Bellatrix. Sa voix, basse, était tendue. « Les
+« Seigneur —, » dit Bellatrix. Sa voix, basse, était tendue. « Les
 Détraqueurs — ils approchent — je peux les sentir, seigneur — »
 
 « Merci, Bella, » dit une voix sèche, « je suis au courant. »
