@@ -189,7 +189,7 @@ session, Serdaigle et Poufsouffle) ce qui le plaçait deux pupitres à
 gauche de Hermione.
 
 Severus s’assit au bureau du professeur, et sans la moindre transition
-ni la moindre introduction, dit : « Hannah Abbott. »
+ni la moindre introduction, dit : « Hannah Abbot. »
 
 « Présente, » dit Hannah d’une voix assez tremblante.
 

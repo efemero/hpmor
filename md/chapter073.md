@@ -298,7 +298,7 @@ contre des duettistes expérimentés et qu’ils avaient fait les efforts
 adéquats pour s’y préparer.
 
 Et derrière eux, attachée et soutenue par des cordes lumineuses, Hannah
-Abbott. Ses yeux étaient écarquillés sous l’effet de la panique, sa
+Abbot. Ses yeux étaient écarquillés sous l’effet de la panique, sa
 bouche bougeait, mais elles ne pouvaient rien entendre à cause du
 *Quietus* qu’elles avaient lancé plus tôt.
 

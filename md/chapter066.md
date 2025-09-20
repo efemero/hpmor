@@ -126,7 +126,7 @@ le duel. Pas la variante pour bons à rien dotée de *règles*, j’espère ?�
 
 
 
-Hannah Abbott avait l’air plus énervée que Hermione ne l’avait jamais
+Hannah Abbot avait l’air plus énervée que Hermione ne l’avait jamais
 vue (à part le jour du phénix, celui où Bellatrix Black s’était
 échappée, mais on n’aurait dû prendre ce jour là en compte pour
 personne). Pendant le dîner, la Poufsouffle s’était rendue jusqu’à la
@@ -151,7 +151,7 @@ Après que Hannah se soit enfin interrompue pour avaler un peu d’air (la
 liste avait continué pendant longtemps), Hermione parvint à placer un
 mot.
 
-« Soldat Soleil, Hannah Abbott ! » dit Hermione. « On se *calme*. On ne va
+« Soldat Soleil, Hannah Abbot ! » dit Hermione. « On se *calme*. On ne va
 pas se battre contre le général Diggory, n’est-ce pas ? D’accord,
 Neville s’entraîne pour nous battre, mais on peut étudier nous aussi — »
 

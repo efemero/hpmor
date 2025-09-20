@@ -604,7 +604,7 @@ au même instant : « *Wingardium Leviosa !* » -
 
 
 
-Hannah Abbott leva sa baguette d’une main qui tremblait d’épuisement,
+Hannah Abbot leva sa baguette d’une main qui tremblait d’épuisement,
 elle n’avait même plus assez de magie pour un seul *Innerver* à présent.
 
 Le reste de la coursive était silencieux, des corps étaient éparpillés

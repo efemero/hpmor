@@ -431,7 +431,7 @@ Harry avait un air très sérieux. « Qui à la S.P.E.H.S. essaye-tu de
 défendre le plus, Hermione ? Pour qui as-tu le plus peur quand tu te
 bats ? »
 
-« Hannah Abbott, » dit Hermione sans avoir à y penser, et elle se sentit
+« Hannah Abbot, » dit Hermione sans avoir à y penser, et elle se sentit
 alors un peu coupable parce que Hannah *essayait* de toutes ses forces
 et qu’elle *s’était* beaucoup améliorée -
 
@@ -526,7 +526,7 @@ héroïque de trouver *un* moyen de la sauver, quoi qu’il en coûte. Au
 lieu de ça, tu risques de juste jouer le *rôle* de Hermione Granger, la
 Serdaigle raisonnable ; et le *rôle* de Hermione Granger dit non
 automatiquement, qu’elle ait un meilleur plan en tête ou pas. Et alors
-quarante-quatre brutes feront la queue pour tabasser Hannah Abbott et ce
+quarante-quatre brutes feront la queue pour tabasser Hannah Abbot et ce
 sera ma faute parce que je le *l’aurais su*, même si je ne voulais pas
 que les choses soient ainsi, j’aurais su que c’est comme ça qu’elles se
 dérouleraient. Je suis quasiment certain que c’était là ma peur secrète,
@@ -561,7 +561,7 @@ réfléchir pendant vingt secondes d’abord, de l’étudier comme un
 véritable choix. D’être assez raisonnable pour te rendre compte que je
 t’offre un moyen de protéger les autres filles et que si tu dis
 automatiquement *non* sans l’envisager sérieusement, il y a cette
-*conséquence réelle* où Hannah Abbott se retrouve à l’hôpital. »
+*conséquence réelle* où Hannah Abbot se retrouve à l’hôpital. »
 
 Hermione continua de regarder fixement Harry lorsque la récitation de ce
 dernier s’acheva.

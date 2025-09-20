@@ -42,7 +42,7 @@ Minerva exhiba un petit disque d’argent qui portait les initiales SPEHS,
 le posa sur le bureau d’Albus et le frappa brièvement du doigt.
 
 Et les voix de Hermione Granger, Padma Patil, Parvati Patil, Lavande
-Brown, Susan Bones, Hannah Abbott, Daphné Greengrass et Tracey Davis
+Brown, Susan Bones, Hannah Abbot, Daphné Greengrass et Tracey Davis
 s’écrièrent à l’unisson : « *Les sorcières sont pas en reste, c’est
 l’heure de nous donner une quête !* »
 

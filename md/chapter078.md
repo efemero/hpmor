@@ -1445,7 +1445,7 @@ Le général Potter, plus Survivant que jamais, émergea des bois d’un pas
 vif avec quelque chose de grand et de recouvert par du tissu de
 camouflage maintenu sous le bras.
 
-« Mlle Abbott respire-t-elle bien ? » cria le général Potter.
+« Mlle Abbot respire-t-elle bien ? » cria le général Potter.
 
 Daphné ne regarda pas en arrière. Elle ne rejetait pas la possibilité
 qu’il s’agisse d’un piège – il était absolument certain que si les
@@ -1462,17 +1462,17 @@ quelque chose. »
 De derrière Daphné, une petite voix haletante dit : « Je… peux… encore…
 me battre… »
 
-« Mlle Abbott, ne… » dit Harry au moment même ou le son de quelqu’un qui
+« Mlle Abbot, ne… » dit Harry au moment même ou le son de quelqu’un qui
 s’effondrait après avoir essayé de se relever survint derrière Daphné.
 Tout le monde grimaça mais Daphné ne fit pas dos à Harry.
 
 « Pourquoi les professeur n’ont-ils pas interrompu la bataille ? » demanda
 Susan avec colère.
 
-« Je suppose que c’est parce que Mlle Abbott ne risque pas de dommages
+« Je suppose que c’est parce que Mlle Abbot ne risque pas de dommages
 permanents et que le professeur Quirrell pense que nous sommes en train
 d’apprendre de précieuses leçons, » dit Harry d’une voix dure. « Écoutez,
-Mlle Abbott, si vous partez, Tracey se retirera de la bataille. Vous
+Mlle Abbot, si vous partez, Tracey se retirera de la bataille. Vous
 êtes déjà en surnombre, alors cette offre vous avantage beaucoup.
 Acceptez-la, s’il vous plaît. »
 

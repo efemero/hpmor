@@ -59,7 +59,7 @@ le coup *qu’elles* le fassent exactement comme Mère aurait fait pour
 elle. Toujours faire attention à soi et à ses amis, c’était ça la vraie
 Serpentardise…
 
-Hannah Abbott, la nerveuse petite Poufsouffle, eut une petite voix
+Hannah Abbot, la nerveuse petite Poufsouffle, eut une petite voix
 tremblante lorsqu’elle dit : « Oui ».
 
 Et maintenant Daphné, Susan et Hermione *devaient* rester avec les cinq
