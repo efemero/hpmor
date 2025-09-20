@@ -645,7 +645,7 @@ Le Serpentard leva lentement la main, regarda le plat à tarte, le
 retourna dans bruit de succion collant qui fit tomber encore plus de
 myrtille par terre, et lut une note qui disait :
 
-[AVERTISSEMENT]{.underline}
+[AVERTISSEMENT]{.underline}  
 [AUCUNE]{.underline} MAGIE NE
 SERA UTILISÉE SUR LE CONCURRENT  
 PENDANT QUE LE JEU EST EN COURS  
