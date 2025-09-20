@@ -125,11 +125,13 @@ sang n’est pas un fluide parfait, il ne se mélange pas parfaitement.
 L’acide désoxyribonucléique est fait de beaucoup de petits morceaux,
 comme un verre qui serait rempli de billes plutôt que d’eau. C’est pour
 ça qu’un enfant n’est pas toujours exactement dans la moyenne de ses
-parents.
+parents. »
 
 Drago écoutait, bouche bée. Nom de Merlin, comment les Moldus
 avaient-ils fait pour découvrir tout ça ? Ils pouvaient *voir* la
-recette ? »Maintenant,« dit Harry Potter, »imagine que, comme pour la taille, il y
+recette ?
+
+« Maintenant, » dit Harry Potter, « imagine que, comme pour la taille, il y
 ait beaucoup de petits emplacements dans la recette où un bout de papier
 disant « magique » ou « pas magique » pourrait se trouver. Si tu as assez de
 bouts de papier disant « magique, » tu es un sorcier. Si tu as *beaucoup*
@@ -148,9 +150,13 @@ parfaitement, car c’est comme ça qu’il se comporte : comme un verre de
 billes et pas comme un verre d’eau. Dans ce cas, on verrait des sorciers
 puissants de temps en temps, quand par chance, ils obtiendraient
 beaucoup de papiers magiques. Mais ils ne seraient pas aussi puissants
-que les sorciers les plus puissants qui les auraient précédés.« Drago hocha lentement la tête. Il avait déjà entendu cette idée
+que les sorciers les plus puissants qui les auraient précédés. »
+
+Drago hocha lentement la tête. Il avait déjà entendu cette idée
 auparavant. Il y avait une surprenante beauté à voir à quel point ça
-correspondait à l’explication de Harry. »*Mais*,« dit Harry, »ce n’est qu’*une* hypothèse. Imagine qu’au lieu de
+correspondait à l’explication de Harry.
+
+« *Mais*, » dit Harry, « ce n’est qu’*une* hypothèse. Imagine qu’au lieu de
 ça, il y ait *un seul* endroit dans la recette qui détermine si tu es un
 sorcier. *Un* seul endroit où un bout de papier peut dire « magique » ou
 « pas magique ». Et il y a toujours deux copies de tout. Alors il n’y a
@@ -172,10 +178,14 @@ et des sorcières tout aussi puissants que leur mère, et l’autre moitié
 serait des Cracmols. Parce que s’il n’y a qu’*un* endroit dans la
 recette qui fait de toi un sorcier, alors la magie n’est pas un verre de
 billes qui se mélangent. C’est plutôt comme une seule bille magique,
-comme une pierre de sorcier.« Harry disposa trois paires de papiers côte à côte. Sur une paire, il
+comme une pierre de sorcier. »
+
+Harry disposa trois paires de papiers côte à côte. Sur une paire, il
 écrivit « magique » et « magique ». Sur une autre paire il écrivit « magique »
 sur le papier du haut seulement. Et il laissa la troisième paire
-blanche. »Auquel cas,« dit Harry, »soit tu as deux pierres, soit tu n’en as
+blanche.
+
+« Auquel cas, » dit Harry, « soit tu as deux pierres, soit tu n’en as
 aucune. Soit tu es un sorcier, soit tu n’en es pas un. Les sorciers
 puissants le deviendraient en étudiant plus dur et en pratiquant plus.
 Et si le pouvoir des sorciers devient *essentiellement* moins puissant,
@@ -183,9 +193,13 @@ pas parce que des sorts sont perdus, mais parce que les gens ne peuvent
 plus les jeter… alors peut-être qu’on mange de mauvais aliments ou
 quelque chose comme ça. Mais si c’est devenu régulièrement pire pendant
 les huit cent dernières années, alors ça pourrait vouloir dire que la
-magie elle-même disparaît.« Harry disposa deux autres paires de papiers côte à côte et sortit une
-plume. Bientôt, chaque paire eut un bout de papier disant “magique” et
-l’autre laissé vide. »Ce qui m’amène à ma prédiction,« dit Harry. »Ce qui se passe quand deux
+magie elle-même disparaît. »
+
+Harry disposa deux autres paires de papiers côte à côte et sortit une
+plume. Bientôt, chaque paire eut un bout de papier disant « magique » et
+l’autre laissé vide.
+
+« Ce qui m’amène à ma prédiction, » dit Harry. « Ce qui se passe quand deux
 Cracmols se marient. Jette une pièce deux fois. Elle peut être face puis
 face, face puis pile, pile puis face, ou pile puis pile. Donc un quart
 du temps tu obtiendras deux face, une quart du temps tu obtiendras deux
@@ -201,7 +215,9 @@ motif. Il ne sera pas exact, pas plus que si tu jetais une pièce
 quarante fois tu n’obtiendrais pas exactement dix paires de deux faces.
 Mais si tu as obtenu sept ou treize sorciers parmi quarante enfants,
 alors c’est un fort indicateur. Voilà le test que je t’ai fait faire.
-Maintenant voyons tes données.« Et avant que Drago ne puisse même penser, Harry Potter prit le parchemin
+Maintenant voyons tes données. »
+
+Et avant que Drago ne puisse même penser, Harry Potter prit le parchemin
 de ses mains.
 
 La gorge de Drago était très sèche.
@@ -209,22 +225,43 @@ La gorge de Drago était très sèche.
 Vingt-huit enfants.
 
 Il ne se souvenait pas du nombre exact mais il était à peu près sûr
-qu’environ un quart avaient été sorciers. »Six sorciers sur vingt-huit enfants,« dit Harry Potter après un moment. »Eh bien voilà. Et il y a huit siècles, les première année jetaient les
-même sorts au même niveau de pouvoir. Ton test et mon test ont produit
-le même résultat.« Il y eut un long silence dans la salle. »Et maintenant ?« murmura Drago.
+qu’environ un quart avaient été sorciers.
 
-Il n’avait jamais été si terrifié. »Ce n’est pas encore définitif,« dit Harry Potter. »Mon expérience a
+« Six sorciers sur vingt-huit enfants, » dit Harry Potter après un moment.
+« Eh bien voilà. Et il y a huit siècles, les première année jetaient les
+même sorts au même niveau de pouvoir. Ton test et mon test ont produit
+le même résultat. »
+
+Il y eut un long silence dans la salle.
+
+« Et maintenant ? » murmura Drago.
+
+Il n’avait jamais été si terrifié.
+
+« Ce n’est pas encore définitif, » dit Harry Potter. « Mon expérience a
 échoué, tu te souviens ? J’ai besoin que tu concoives un autre test,
-Drago.« »Je, je…« dit Drago. Sa voix se brisait. »Je ne peux pas faire ça Harry,
-c’est trop pour moi.« Le regard de Harry était ardent. »Si, tu peux, parce que tu dois le
+Drago. »
+
+« Je, je… » dit Drago. Sa voix se brisait. « Je ne peux pas faire ça Harry,
+c’est trop pour moi. »
+
+Le regard de Harry était ardent. « Si, tu peux, parce que tu dois le
 faire. Moi, j’y ai déjà réfléchi après avoir découvert l’Interdit de
 Merlin. Drago, y a-t-il le moindre moyen permettant d’observer
 directement la force de la magie ? Une méthode qui n’aurait rien à voir
-avec le sang des sorciers ou les sorts qu’on apprend ?« Le cerveau de Drago était juste vide. »Tout ce qui affecte la magie affecte les sorciers,« dit Harry. »Mais
-dans ce cas on ne peut pas dire si ça vient des sorciers ou de la magie.
-Qu’est-ce que la magie affecte qui *n’est pas* un sorcier ?« »Les créatures magiques, évidemment,« dit Drago sans même y penser.
+avec le sang des sorciers ou les sorts qu’on apprend ? »
 
-Harry Potter sourit lentement. »Drago, c’est *génial*.« *C’était le genre de question stupide qu’on ne poserait que si on avait
+Le cerveau de Drago était juste vide.
+
+« Tout ce qui affecte la magie affecte les sorciers, » dit Harry. « Mais
+dans ce cas on ne peut pas dire si ça vient des sorciers ou de la magie.
+Qu’est-ce que la magie affecte qui *n’est pas* un sorcier ? »
+
+« Les créatures magiques, évidemment, » dit Drago sans même y penser.
+
+Harry Potter sourit lentement. « Drago, c’est *génial*. »
+
+*C’était le genre de question stupide qu’on ne poserait que si on avait
 été élevé par des Moldus*.
 
 Puis le malaise dans l’estomac de Drago devint encore pire quand il
@@ -234,10 +271,14 @@ et une partie de Drago était déjà certaine que c’était exactement ce
 qu’ils allaient découvrir. Il ne voulait pas voir ça, il ne voulait pas
 savoir…
 
-Harry Potter était déjà à mi-chemin de la porte. »*Viens*, Drago ! Il y
+Harry Potter était déjà à mi-chemin de la porte. « *Viens*, Drago ! Il y
 a un portrait pas loin, on lui demandera juste d’aller chercher
 quelqu’un de vieux, et on saura tout de suite ! On a des capes, si
-quelqu’un nous voit, nous pourrons simplement nous enfuir ! Allons-y !« ------------------------------------------------------------------------
+quelqu’un nous voit, nous pourrons simplement nous enfuir ! Allons-y ! »
+
+
+
+------------------------------------------------------------------------
 
 
 
@@ -274,9 +315,13 @@ Apparemment, les créatures magiques étaient aussi puissantes aujourd’hui
 qu’elles l’avaient toujours été.
 
 Le malaise dans l’estomac de Drago se calma, et il se sentit juste
-dérouté. »Harry,« dit Drago au beau milieu d’une phrase du vieil homme qui
-traduisait la liste des onze pouvoirs des yeux du tyrannoeil, »qu’est-ce
-que ça veut dire ?« Harry leva un doigt et le vieil homme acheva sa liste.
+dérouté.
+
+« Harry, » dit Drago au beau milieu d’une phrase du vieil homme qui
+traduisait la liste des onze pouvoirs des yeux du tyrannoeil, « qu’est-ce
+que ça veut dire ? »
+
+Harry leva un doigt et le vieil homme acheva sa liste.
 
 Puis Harry remercia tous les portraits pour leur aide — Drago, presque
 entièrement en pilote automatique, le fit aussi, avec bien plus de
@@ -285,12 +330,12 @@ grâce — et ils retournèrent dans la salle de classe.
 Et Harry sortit le parchemin original avec les hypothèses, et il
 commença à griffonner.
 
-*<span style= »text-decoration : underline ;« >Observation :</span>*
+*<span style=« text-decoration : underline ; »>Observation :</span>*
 
 *La sorcellerie n’est pas aussi puissante qu’elle ne l’était quand
 Poudlard a été fondé.*
 
-*<span style= »text-decoration : underline ;« >Hypothèses :</span>*
+*<span style=« text-decoration : underline ; »>Hypothèses :</span>*
 
 *1. La magie elle-même disparaît.*
 
@@ -307,11 +352,11 @@ quelque chose d’autre à part le sang les fait devenir plus faible.*
 unique ? Vérifier si trois sorciers puissants, Quirrell / Dumbledore /
 Seigneur des Ténèbres ont eu des enfants).*
 
-*<span style= »text-decoration : underline ;« >Tests :</span>*
+*<span style=« text-decoration : underline ; »>Tests :</span>*
 
 *A. Y a-t-il des sorts que l’on connaît mais qu’on ne peut pas jeter (1
 ou 2) ou des sorts perdus qu’on ne connaît plus (3) ?
-<span style= »text-decoration : underline ;« >Résultat :</span>* *Peu
+<span style=« text-decoration : underline ; »>Résultat :</span>* *Peu
 concluant à cause de l’Interdit de Merlin. Pas de sort connu injetable,
 mais ils pourraient simplement ne pas avoir été transmis.*
 
@@ -319,24 +364,26 @@ mais ils pourraient simplement ne pas avoir été transmis.*
 sort qu’aujourd’hui, au même niveau de puissance ? (Faible élément de
 preuve pour 1 et contre 2, mais le sang pourrait aussi faire disparaître
 uniquement la sorcellerie puissante).
-<span style= »text-decoration : underline ;« >Résultat :</span>* *Les sorts
+<span style=« text-decoration : underline ; »>Résultat :</span>* *Les sorts
 de première année sont aussi puissants qu’avant.*
 
 *C. Test supplémentaire qui distingue entre 1 et 2 en utilisant les
 connaissances scientifiques sur le sang, j’expliquerai plus tard.
-<span style= »text-decoration : underline ;« >Résultat :</span>* *Il n’y a
+<span style=« text-decoration : underline ; »>Résultat :</span>* *Il n’y a
 qu’un seul endroit dans la recette qui fait de quelqu’un un sorcier,
-soit on a deux papiers disant “magique”, soit on n’a rien.*
+soit on a deux papiers disant « magique, » soit on n’a rien.*
 
 *D. Les créatures magiques perdent-elles leurs pouvoirs ? Distingue 1 de
-(2 ou 3). <span style= »text-decoration : underline ;« >Résultat :</span>*
+(2 ou 3). <span style=« text-decoration : underline ; »>Résultat :</span>*
 *Les créatures magiques semblent être aussi puissantes qu’elles l’ont
-toujours été.* »A a échoué,« dit Harry Potter. »B est un faible élément de preuve pour
+toujours été.*
+
+« A a échoué, » dit Harry Potter. « B est un faible élément de preuve pour
 1 au détriment de 2. C falsifie 2. D falsifie 1. 4 était peu probable et
 B contredit aussi 4. 5 était peu probable et D le contredit. 6 est
 falsifié en même temps que 2. Ce qui nous laisse 3. Interdit de Merlin
 ou pas, je n’ai trouvé aucun sort connu ne pouvant être jeté. Donc quand
-on additionne le tout, on dirait que le savoir est perdu.
+on additionne le tout, on dirait que le savoir est perdu. »
 
 Et la trappe se referma.
 
@@ -574,7 +621,7 @@ Harry. La main de Drago s’abaissa et ramassa son cartable sans que son
 bras ne vacille.
 
 La douleur était déjà visible sur le visage de Harry quand il parla.
-« Dois-je comprendre que les Malefoy sont au-dessus des lois sur la magie
+« Dois-je comprendre que les Malfoy sont au-dessus des lois sur la magie
 des mineurs ? Ce n’est pas parce que ton sang est plus fort. C’est parce
 que tu as déjà pratiqué. Au début, tu étais aussi faible que n’importe
 lequel d’entre nous. Ma prédiction est-elle fausse ? »
@@ -746,7 +793,7 @@ s’approcher du couloir interdit de Dumbledore. Mais un sort permettant
 d’ouvrir des verrous magiques semblait être de toute façon utile, alors
 Harry l’avait appris. Le couloir interdit de Dumbledore était-il censé
 attirer des gens assez stupides pour ne pas se rendre compte que la
-sécurité de celui-ci était pire que celle que Drago Malefoy aurait su
+sécurité de celui-ci était pire que celle que Drago Malfoy aurait su
 mettre en place ?
 
 La peur affluait à nouveau dans l’organisme de Harry. La note dans le
