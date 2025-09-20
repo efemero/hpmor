@@ -712,7 +712,7 @@ En pilote automatique, la voix de Harry siffla : « Nous ne retournons pas
 visage.
 
 *Euh…* dit Poufsouffle. *Est-ce que tu viens vraiment de penser : « Tu
-devrais travailler pour moi, parce que* moi*, je saurais t’apprécier » ?*
+devrais travailler pour moi, parce que *moi*, je saurais t’apprécier » ?*
 
 *Une pierre répondrait à une loyauté pareille*, pensa Harry. *Même ce
 n’est que par erreur que j’en suis le récipiendaire, je ne peux pas
