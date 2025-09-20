@@ -18,8 +18,8 @@ fn main() {
         eprintln!(
             "Usage: rust-script tools/orphans.rs <FILES...>\n\
 Reports:\n\
-  - unmatched guillemets as 'path +line\n\torphan …'\n\
-  - interleaved guillemets/emphasis like « *… »* or * « … * » as 'path +line\n\tinterleaved (* or _)'
+  - unmatched guillemets as 'path +line # orphan'\n\
+  - interleaved guillemets/emphasis like « *… »* or * « … * » as 'path +line # interleaved (* or _)'
             "
         );
         std::process::exit(2);
@@ -86,7 +86,7 @@ fn report_file<P: AsRef<Path>>(path: P, had_issue: &mut bool) {
                     end_line: cur_line,
                 });
             } else {
-                println!("{} +{}\n\torphan »", p.display(), cur_line);
+                println!("{} +{} # orphan »", p.display(), cur_line);
                 *had_issue = true;
             }
             i += "»".len();
@@ -103,7 +103,7 @@ fn report_file<P: AsRef<Path>>(path: P, had_issue: &mut bool) {
     if !guil_stack.is_empty() {
         *had_issue = true;
         for (_off, line) in guil_stack {
-            println!("{} +{}\n\torphan «", p.display(), line);
+            println!("{} +{} # orphan «", p.display(), line);
         }
     }
 
@@ -238,7 +238,7 @@ fn report_file<P: AsRef<Path>>(path: P, had_issue: &mut bool) {
                     let close_pair = pair_index(k);
                     if open_pair.is_some() && close_pair.is_none() {
                         println!(
-                            "{} +{}\n\tinterleaved guillemets/emphasis (« {}…» {})",
+                            "{} +{} # interleaved guillemets/emphasis (« {}…» {})",
                             p.display(),
                             cur_line,
                             marker,
@@ -247,7 +247,7 @@ fn report_file<P: AsRef<Path>>(path: P, had_issue: &mut bool) {
                         *had_issue = true;
                     } else if open_pair.is_none() && close_pair.is_some() {
                         println!(
-                            "{} +{}\n\tinterleaved guillemets/emphasis ({} « … {} »)",
+                            "{} +{} # interleaved guillemets/emphasis ({} « … {} »)",
                             p.display(),
                             cur_line,
                             marker,
@@ -257,7 +257,7 @@ fn report_file<P: AsRef<Path>>(path: P, had_issue: &mut bool) {
                     } else if let (Some(a), Some(b)) = (open_pair, close_pair) {
                         if a != b {
                             println!(
-                                "{} +{}\n\tinterleaved guillemets/emphasis (cross-pair {} … {})",
+                                "{} +{} # interleaved guillemets/emphasis (cross-pair {} … {})",
                                 p.display(),
                                 cur_line,
                                 marker,
@@ -282,7 +282,7 @@ fn report_file<P: AsRef<Path>>(path: P, had_issue: &mut bool) {
                 let close_pair = pair_index(i);
                 if open_pair.is_some() && close_pair.is_none() {
                     println!(
-                        "{} +{}\n\tinterleaved guillemets/emphasis (« {}…» {})",
+                        "{} +{} # interleaved guillemets/emphasis (« {}…» {})",
                         p.display(),
                         cur_line,
                         marker,
@@ -291,7 +291,7 @@ fn report_file<P: AsRef<Path>>(path: P, had_issue: &mut bool) {
                     *had_issue = true;
                 } else if open_pair.is_none() && close_pair.is_some() {
                     println!(
-                        "{} +{}\n\tinterleaved guillemets/emphasis ({} « … {} »)",
+                        "{} +{} # interleaved guillemets/emphasis ({} « … {} »)",
                         p.display(),
                         cur_line,
                         marker,
@@ -301,7 +301,7 @@ fn report_file<P: AsRef<Path>>(path: P, had_issue: &mut bool) {
                 } else if let (Some(a), Some(b)) = (open_pair, close_pair) {
                     if a != b {
                         println!(
-                            "{} +{}\n\tinterleaved guillemets/emphasis (cross-pair {} … {})",
+                            "{} +{} # interleaved guillemets/emphasis (cross-pair {} … {})",
                             p.display(),
                             cur_line,
                             marker,

@@ -844,8 +844,8 @@ morte, les corps de son père et de sa mère, puis même cela fut absorbé.
 Du vide émergea le souvenir, le pire de tous, quelque chose d’oublié il
 y a si longtemps que la structure neuronale n’aurait plus dû exister.
 
-« *Lily, prends Harry et pars ! C’est lui ! » cria la voix d’un homme.
-« Cours ! Allez ! Je le retiendrai ! »*
+« *Lily, prends Harry et pars ! C’est lui !* » cria la voix d’un homme.
+« *Cours ! Allez ! Je le retiendrai !* »
 
 *Et Harry ne pouvait s’empêcher de penser, depuis les profondeurs vides
 de son côté obscur, à quel point l’excès de confiance en lui de James
@@ -864,16 +864,16 @@ commençait à convulser et à tomber, les yeux du directeur maintenant
 alarmé s’écarquillant tandis qu’il commençait à lancer son propre
 Patronus).
 
-« *Pas Harry, pas Harry, s’il vous plaît pas Harry ! » hurla la voix de la
-femme.*
+« *Pas Harry, pas Harry, s’il vous plaît pas Harry !* » hurla la voix de la
+femme.
 
 *Le peu qui restait de Harry écoutait cela alors que toute lumière avait
 été extirpée de lui, dans le vide mort de son corps, et il se demanda si
 elle pensait que Lord Voldemort s’arrêterait parce qu’elle avait demandé
 poliment.*
 
-« *Écarte-toi, femme ! » dit la voix stridente d’un froid brûlant. « Ce
-n’est pas pour toi que je suis venu, mais pour le garçon. »*
+« *Écarte-toi, femme !* » dit la voix stridente d’un froid brûlant. « *Ce
+n’est pas pour toi que je suis venu, mais pour le garçon.* »
 
 « *Pas Harry ! S’il vous plaît… ayez pitié… ayez pitié…* »
 
@@ -882,10 +882,10 @@ personne devenait Seigneur des Ténèbres en premier lieu ; et si c’était
 là la meilleure stratégie qu’elle pouvait concevoir pour sauver la vie
 de son fils, alors c’était aussi son échec final en tant que mère.*
 
-« *Je te donne la rare chance de t’échapper, » dit la voix stridente.
-« Mais je ne ferai pas l’effort de te maîtriser, et ta mort, ici, ne
+« *Je te donne la rare chance de t’échapper,* » dit la voix stridente.
+« *Mais je ne ferai pas l’effort de te maîtriser, et ta mort, ici, ne
 sauvera pas ton enfant. Écarte-toi, femme imbécile, si tu as le moindre
-bon sens ! »*
+bon sens !* »
 
 « *Pas Harry, s’il vous plaît, non, prenez moi, tuez moi à la place !* »
 
@@ -893,9 +893,9 @@ bon sens ! »*
 sérieusement que Lord Voldemort dirait oui, qu’il la tuerait et qu’il
 laisserait son fils sain et sauf.*
 
-« *Très bien, » dit la voix de la mort d’un ton à présent froidement
-amusé. « J’accepte le marché. Tu mourras, et l’enfant vivra. Maintenant
-abaisses ta baguette que je puisse te tuer. »*
+« *Très bien,* » dit la voix de la mort d’un ton à présent froidement
+amusé. « *J’accepte le marché. Tu mourras, et l’enfant vivra. Maintenant
+abaisses ta baguette que je puisse te tuer.* »
 
 *Il y eut un silence hideux.*
 
