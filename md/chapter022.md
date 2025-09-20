@@ -1013,12 +1013,12 @@ vraiment. » Harry revint à son travail, griffonna un peu plus, puis
 tourna le parchemin pour que Drago puisse le voir. Drago se pencha sur
 le bureau et Harry rapprocha la lumière verte.
 
-*<span style=« text-decoration : underline ; »>Observation :</span>*
+*<span style="text-decoration : underline ;">Observation :</span>*
 
 *La sorcellerie n’est pas aussi puissante qu’elle ne l’était quand
 Poudlard a été fondée.*
 
-*<span style=« text-decoration : underline ; »>Hypothèses :</span>*
+*<span style="text-decoration : underline ;">Hypothèses :</span>*
 
 *1. La magie elle-même disparaît.*
 
@@ -1035,7 +1035,7 @@ chose d’autre à part le sang les fait devenir plus faible.*
 unique ? Vérifier si trois sorciers puissants, Quirrell / Dumbledore /
 Seigneur des Ténèbres ont eu des enfants).*
 
-*<span style=« text-decoration : underline ; »>Tests :</span>*
+*<span style="text-decoration : underline ;">Tests :</span>*
 
 « Très bien, » dit Harry. Sa respiration semblait un peu plus calme.
 « Maintenant, quand tu fais face à un problème déroutant et que tu ne

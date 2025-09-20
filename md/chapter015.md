@@ -144,7 +144,7 @@ métamorphose est dangereuse, mais l’une d’elles s’élève au-dessus des
 autres. » Elle prit l’un des marqueurs et dessina des lettres rouge vif
 qu’elle souligna ensuite en bleu :
 
-<span style=« text-decoration : underline ; »>UNE MÉTAMORPHOSE N’EST PAS
+<span style="text-decoration : underline ;">UNE MÉTAMORPHOSE N’EST PAS
 PERMANENTE !</span>
 
 « Une métamorphose n’est pas permanente ! » dit McGonagall. « Une

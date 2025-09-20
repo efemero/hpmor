@@ -1953,7 +1953,7 @@ standard et en trouva une qui lui sembla appropriée.
 *Moi, Drago, d’une Très Ancienne maison, demande réparation, pour vous
 avoir par trois fois aidé et offert seulement ma bienveillance et qu’en
 retour vous m’accusiez
-<span style=« text-decoration : underline ; »>faussement</span> de comploter
+<span style="text-decoration : underline ;">faussement</span> de comploter
 contre vous,*
 
 Drago dut s’arrêter, reprendre son souffle et forcer la colère
