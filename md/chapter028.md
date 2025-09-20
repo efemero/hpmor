@@ -961,7 +961,9 @@ de loin son aîné en matière de métamorphose, et il avait littéralement
 essayé des milliers de nouvelles métamorphoses sans jamais choisir un
 niveau de prudence trop bas. Il avait utilisé la métamorphose *en
 combat* et il était *toujours en vie*. Si le directeur pensait que le
-deuxième niveau suffisait, ça suffisait.« Le fait que Harry allait certainement échouer était bien sûr sans
+deuxième niveau suffisait, ça suffisait.
+
+Le fait que Harry allait certainement échouer était bien sûr sans
 rapport avec ce sujet.
 
 Les deux sorciers commencèrent à mettre en place les lieux et à
@@ -977,12 +979,16 @@ presque aussi rapidement, et c’est pour cette raison que toutes les
 fenêtres s’ouvraient vers l’extérieur. Harry lui-même serait éjecté par
 une autre lucarne au premier contretemps.
 
-Harry les regarda travailler avec un air un peu effrayé. »Ne vous en faites pas M. Potter,« dit le professeur McGonagall au
-milieu de sa description de l’installation, »ce sera presque
+Harry les regarda travailler avec un air un peu effrayé.
+
+« Ne vous en faites pas M. Potter, » dit le professeur McGonagall au
+milieu de sa description de l’installation, « ce sera presque
 certainement inutile. Si nous nous *attendions* à ce que quoi que ce
 soit tourne mal, vous ne seriez pas autorisé à essayer. Ce sont juste
 des précautions ordinaires pour toute métamorphose que personne n’a
-essayé auparavant.« Harry déglutit et acquiesça.
+essayé auparavant. »
+
+Harry déglutit et acquiesça.
 
 Quelques minutes plus tard, Harry était attaché à une chaise de sûreté,
 baguette posée contre une sphère de métal — une sphère qu’il aurait dû,
@@ -1000,70 +1006,127 @@ visage le disait à sa place.
 
 Dumbledore jetait des sorts d’analyse sur la sphère, une expression de
 plus en plus intriguée sur le visage. Trente ans venaient de s’envoler
-de ses traits. »Fascinant,« dit Dumbledore. »C’est exactement ce qu’il avait annoncé.
+de ses traits.
+
+« Fascinant, » dit Dumbledore. « C’est exactement ce qu’il avait annoncé.
 Il a simplement métamorphosé une partie du sujet sans en métamorphoser
 le tout. Harry, tu dis que ce n’est en réalité qu’une limite
-conceptuelle ?« »Oui,« dit Harry, »mais une limite profonde, le seul fait de savoir que
+conceptuelle ? »
+
+« Oui, » dit Harry, « mais une limite profonde, le seul fait de savoir que
 ça devait être une limite conceptuelle n’a pas suffit. J’ai dû refouler
 la partie de mon esprit qui commettait l’erreur et la remplacer par une
 pensée au sujet de la véritable réalité sous-jacente aux choses, celle
-que les scientifiques ont découverte.« »Vraiment fascinant,« dit Dumbledore. »Je suppose que pour qu’un autre
+que les scientifiques ont découverte. »
+
+« Vraiment fascinant, » dit Dumbledore. « Je suppose que pour qu’un autre
 sorcier reproduise ce que tu as fait, il lui faudrait des mois d’études,
 et encore ? Et pourrais-je te demander de métamorphoser partiellement
-quelques autres sujets ?« »Probablement que oui et bien sûr,« répondit Harry.
+quelques autres sujets ? »
+
+« Probablement que oui et bien sûr, » répondit Harry.
 
 Une demi-heure plus tard, Minerva se sentait toujours autant abasourdie,
 mais considérablement rassurée quant aux questions de sûreté.
 
 C’*était* bien la même chose, mis à part le fait que ce soit logiquement
-impossible. »Je pense que cela suffira, directeur,« dit enfin Minerva. »Je soupçonne
+impossible.
+
+« Je pense que cela suffira, directeur, » dit enfin Minerva. « Je soupçonne
 que la métamorphose partielle est plus fatigante que la variante
-ordinaire.« »De moins en moins avec la pratique,« dit le garçon pâle et épuisé d’une
-voix instable, »mais ouais, vous avez raison à ce sujet.« Le processus consistant à extraire Harry du dispositif prit une minute
+ordinaire. »
+
+« De moins en moins avec la pratique, » dit le garçon pâle et épuisé d’une
+voix instable, « mais ouais, vous avez raison à ce sujet. »
+
+Le processus consistant à extraire Harry du dispositif prit une minute
 de plus, et Minerva l’escorta ensuite jusqu’à une chaise plus
 confortable, suite à quoi Dumbledore fit surgit un soda à la crème
-glacée. »*Félicitations*, M. Potter !« dit le professeur McGonagall, et elle
+glacée.
+
+« *Félicitations*, M. Potter ! » dit le professeur McGonagall, et elle
 était sincère. Elle aurait été prête à parier presque n’importe quoi que
-ça n’allait pas fonctionner. »Félicitations, en effet,« dit Dumbledore. »Même moi, je n’ai fait
+ça n’allait pas fonctionner.
+
+« Félicitations, en effet, » dit Dumbledore. « Même moi, je n’ai fait
 aucune découverte originale en Métamorphose avant l’âge de quatorze ans.
 Jamais depuis l’époque de Dorotea Senjak génie n’avait si rapidement
-éclos.« »Merci,« dit Harry, l’air un peu surpris. »Néanmoins,« dit Dumbledore d’un ton pensif, »je pense qu’il serait fort
+éclos. »
+
+« Merci, » dit Harry, l’air un peu surpris.
+
+« Néanmoins, » dit Dumbledore d’un ton pensif, « je pense qu’il serait fort
 sage de garder cet heureux événement secret, du moins pour l’instant.
 Harry, as-tu parlé de ton idée avec qui que ce soit d’autre avant d’en
-parler au professeur McGonagall ?« Il y eut un silence. »Euh…« dit Harry. »Je ne veux vendre personne à l’Inquisition, mais il y
-a bien quelqu’un d’autre à qui -« Les mots explosèrent presque à travers les lèvres du professeur
-McGonagall : »*Quoi* ? Vous avez discuté d’une forme de métamorphose
+parler au professeur McGonagall ? »
+
+Il y eut un silence.
+
+« Euh… » dit Harry. « Je ne veux vendre personne à l’Inquisition, mais il y
+a bien quelqu’un d’autre à qui — »
+
+Les mots explosèrent presque à travers les lèvres du professeur
+McGonagall : « *Quoi* ? Vous avez discuté d’une forme de métamorphose
 totalement nouvelle avec un *élève* avant de consulter une autorité
 reconnue ? Avez-vous la moindre idée d’à quel point c’était
-*irresponsable* ?« »Je suis désolé,« dit Harry. »Je ne m’en suis pas rendu compte.« Le garçon avait l’air correctement apeuré, et Minerva sentit quelque
+*irresponsable* ? »
+
+« Je suis désolé, » dit Harry. « Je ne m’en suis pas rendu compte. »
+
+Le garçon avait l’air correctement apeuré, et Minerva sentit quelque
 chose se détendre à l’intérieur d’elle-même. Au moins Harry comprenait à
-quel point il avait été insensé. »Tu dois faire jurer le secret à mademoiselle Granger,« dit Dumbledore
-avec le plus grand sérieux. »Et n’en parles à personne d’autre à moins
+quel point il avait été insensé.
+
+« Tu dois faire jurer le secret à mademoiselle Granger, » dit Dumbledore
+avec le plus grand sérieux. « Et n’en parles à personne d’autre à moins
 que tu n’aies une raison particulièrement bonne de le faire, et cette
-personne devra jurer elle aussi.« »Ah… pourquoi ?« dit Harry. »Parce que tu peux faire quelque chose que personne ne te croira capable
-de faire,« dit Dumbledore. »Quelque chose de totalement inattendu. Cela
+personne devra jurer elle aussi. »
+
+« Ah… pourquoi ? » dit Harry.
+
+« Parce que tu peux faire quelque chose que personne ne te croira capable
+de faire, » dit Dumbledore. « Quelque chose de totalement inattendu. Cela
 pourrait se révéler ton avantage capital, Harry, et nous devons le
-préserver. S’il te plaît, fais-moi confiance à ce sujet.« Le professeur McGonagall hocha la tête, son visage ferme ne montrant
-rien de sa confusion intérieure. »S’il vous plaît M. Potter, faites-le,« dit-elle. »Très bien…« dit lentement Harry. »Lorsque nous aurons fini d’examiner vos sujets de métamorphose,« ajouta
-Dumbledore, »vous pourrez pratiquer la métamorphose partielle, verre
+préserver. S’il te plaît, fais-moi confiance à ce sujet. »
+
+Le professeur McGonagall hocha la tête, son visage ferme ne montrant
+rien de sa confusion intérieure. « S’il vous plaît M. Potter, faites-le, »
+dit-elle.
+
+« Très bien… » dit lentement Harry.
+
+« Lorsque nous aurons fini d’examiner vos sujets de métamorphose, » ajouta
+Dumbledore, « vous pourrez pratiquer la métamorphose partielle, verre
 vers acier et acier vers verre *uniquement*, avec mademoiselle Granger
 comme guetteuse. Naturellement, si l’un de vous suspecte le moindre
 symptôme d’une quelconque forme de maladie de métamorphose, informez-en
-un professeur immédiatement.« Juste avant qu’il ne quitte la pièce, la main sur la poignée de la
-porte, Harry se retourna et dit : »Pendant qu’on est tous là, l’un de
+un professeur immédiatement. »
+
+Juste avant qu’il ne quitte la pièce, la main sur la poignée de la
+porte, Harry se retourna et dit : « Pendant qu’on est tous là, l’un de
 vous a-t-il remarqué quoi que ce soit de différent au sujet du
-professeur Rogue ?« »Différent ?« dit le directeur.
+professeur Rogue ? »
+
+« Différent ? » dit le directeur.
 
 Minerva ne laissa pas son sourire narquois apparaître sur son visage.
 Bien sûr que le garçon éprouvait une appréhension vis-à-vis du
-“maléfique maître de Potions”, puisqu’il n’avait aucun moyen de savoir
+« maléfique maître de Potions, » puisqu’il n’avait aucun moyen de savoir
 la raison pour laquelle on pouvait faire confiance à Severus. Ç’aurait
 été pour le moins étrange d’expliquer à Harry que Severus était toujours
-amoureux de sa mère. »Je veux dire, son comportement a-t-il récemment changé de quelque façon
-que ce soit ?« dit Harry. »Pas que j’ai pu constater…« dit lentement le directeur. »Pourquoi
-poses-tu cette question ?« Harry secoua sa tête. »Je ne veux pas créer de préconception dans vos
+amoureux de sa mère.
+
+« Je veux dire, son comportement a-t-il récemment changé de quelque façon
+que ce soit ? » dit Harry.
+
+« Pas que j’ai pu constater… » dit lentement le directeur. « Pourquoi
+poses-tu cette question ? »
+
+Harry secoua sa tête. « Je ne veux pas créer de préconception dans vos
 observations en le disant. Peut-être que vous pourriez juste ouvrir
-l’œil ?« Cela envoya un frémissement de malaise à travers le corps de Minerva
+l’œil ? »
+
+Cela envoya un frémissement de malaise à travers le corps de Minerva
 d’une façon qu’aucune accusation directe à l’encontre de Severus
 n’aurait pu accomplir.
 
@@ -1071,12 +1134,20 @@ Harry s’inclina respectueusement devant eux et prit congé.
 
 
 
------------------------------------------------------------------------- »Albus,« dit Minerva après que le garçon fut parti, »comment
+------------------------------------------------------------------------
+
+
+
+« Albus, » dit Minerva après que le garçon fut parti, « comment
 *saviez-vous* qu’il fallait prendre Harry au sérieux ? J’aurais
-considéré son idée comme étant simplement impossible !« Le vieux sorcier affichait un visage très sérieux. »Pour la même raison
+considéré son idée comme étant simplement impossible ! »
+
+Le vieux sorcier affichait un visage très sérieux. « Pour la même raison
 qu’elle doit être gardée secrète, Minerva. Pour la même raison que je
 t’ai dit de venir me voir si Harry déclarait quoi que ce soit de cette
-sorte. Parce que c’est un pouvoir que Voldemort ignore.« Elle mit quelques secondes à absorber le sens des mots.
+sorte. Parce que c’est un pouvoir que Voldemort ignore. »
+
+Elle mit quelques secondes à absorber le sens des mots.
 
 Et le frisson glacé descendit le long de son épine dorsale, comme à
 chaque fois qu’elle se souvenait.
@@ -1094,24 +1165,40 @@ CAR CES DEUX DIFFÉRENTS ESPRITS NE PEUVENT EXISTER DANS LE MÊME MONDE.*
 
 Ces mots effroyables, prononcés par cette terrible voix tonitruante, ne
 semblait pas correspondre à quelque chose comme la métamorphose
-partielle. »Peut-être que non alors,« dit Dumbledore après que Minerva ait essayé
-de le lui expliquer. »J’avoue avoir espéré quelque chose qui nous aide à
-trouver l’horcruxe de Voldemort, où qu’il puisse être caché. Mais…« Le
-vieux sorcier haussa les épaules. »Les prophéties sont des choses
+partielle.
+
+« Peut-être que non alors, » dit Dumbledore après que Minerva ait essayé
+de le lui expliquer. « J’avoue avoir espéré quelque chose qui nous aide à
+trouver l’horcruxe de Voldemort, où qu’il puisse être caché. Mais… » Le
+vieux sorcier haussa les épaules. « Les prophéties sont des choses
 épineuses Minerva, et il vaut mieux ne prendre aucun risque. Le plus
-petit détail pourrait se révéler décisif s’il peut rester inattendu.« »Et que pensez-vous qu’il ait voulu dire au sujet de *Severus* ?« dit
-Minerva. »Là, je n’en ai aucune idée,« soupira Dumbledore. »À moins que Harry ne
+petit détail pourrait se révéler décisif s’il peut rester inattendu. »
+
+« Et que pensez-vous qu’il ait voulu dire au sujet de *Severus* ? » dit
+Minerva.
+
+« Là, je n’en ai aucune idée, » soupira Dumbledore. « À moins que Harry ne
 soit en train de jouer un coup contre Severus et qu’il ait pensé qu’une
 question ouverte pourrait être prise sérieusement là où une allégation
 directe aurait été rejetée. Et si c’est en effet ce qui se s’est passé,
 Harry a eu raison en pensant que je ne penserais pas que ce serait le
 cas. Gardons simplement l’œil ouvert, sans préconceptions, comme il l’a
-demandé.« ------------------------------------------------------------------------
+demandé. »
 
 
 
-Après-coup, 1 : »Euh, Hermione ?« dit Harry d’une toute petite voix. »Je crois que je te
-dois de très, très grandes excuses.« ------------------------------------------------------------------------
+------------------------------------------------------------------------
+
+
+
+Après-coup, 1 :
+
+« Euh, Hermione ? » dit Harry d’une toute petite voix. « Je crois que je te
+dois de très, très grandes excuses. »
+
+
+
+------------------------------------------------------------------------
 
 
 
@@ -1125,12 +1212,19 @@ avait eu du mal à écouter en cours de Potions. Elle n’arrêtait pas de
 regarder leur horrible professeur méchant et graisseux et à fantasmer au
 sujet de retenues spéciales. Il y avait probablement quelque chose qui
 n’allait *pas du tout* chez elle, mais elle ne pouvait pas s’empêcher de
-continuer — »Ouille !« dit alors Alissa.
+continuer -
+
+« Ouille ! » dit alors Alissa.
 
 Rogue venait d’envoyer le haricot de bronze sur le front d’Alissa avec
-une infaillible précision. »Mademoiselle Cornfoot,« dit le maître de Potions, la voix coupante, »c’est une potion délicate à réaliser, et si vous n’arrivez pas à faire
+une infaillible précision.
+
+« Mademoiselle Cornfoot, » dit le maître de Potions, la voix coupante,
+« c’est une potion délicate à réaliser, et si vous n’arrivez pas à faire
 attention, vous ferez du mal à vos camarades, pas seulement à vous-même.
-Venez me voir après le cours.« Les quatre derniers mots ne l’aidèrent absolument pas, mais elle essaya
+Venez me voir après le cours. »
+
+Les quatre derniers mots ne l’aidèrent absolument pas, mais elle essaya
 de plus belle et parvint au terme de la journée sans faire fondre
 personne.
 
@@ -1139,9 +1233,13 @@ voulait se tenir là timidement, le visage confus, les mains jointes dans
 son dos avec repentance, juste au cas où, mais un sourd instinct lui dit
 que ce pourrait être une *mauvaise idée*. Alors elle s’avança, le visage
 neutre, avec une posture tout à fait appropriée pour une jeune
-demoiselle, et dit : »Professeur ?« »Mademoiselle Cornfoot,« dit Rogue sans lever les yeux des contrôles
-qu’il corrigeait, »je ne vous renvoie pas vos affections, je commence à
+demoiselle, et dit : « Professeur ? »
+
+« Mademoiselle Cornfoot, » dit Rogue sans lever les yeux des contrôles
+qu’il corrigeait, « je ne vous renvoie pas vos affections, je commence à
 trouver vos regards dérangeants, et vous retiendrez vos yeux à partir
-d’aujourd’hui. Est-ce assez clair ?« »Oui,« dit Alissa dans un glapissement étranglé, et Rogue la congédia,
+d’aujourd’hui. Est-ce assez clair ? »
+
+« Oui, » dit Alissa dans un glapissement étranglé, et Rogue la congédia,
 et elle fuit la salle, ses joues en feu comme si elles avaient été
 faites de lave en fusion.
