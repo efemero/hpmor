@@ -67,7 +67,7 @@ n’était pas ce qui s’était passé à l’instant où Harry avait enlevé l
 Choixpeau de sa tête ; il avait alors entendu un léger murmure qui ne
 semblait venir de nulle part, quelque chose qui sonnait étrangement
 anglais tout en étant un sifflement, quelque chose qui avait dit :
-[*« Ssalutations de Sserpentard à Sserpentard : si tu veux chercher mes
+[*« “Ssalutations de Sserpentard à Sserpentard : si tu veux chercher mes
 ssecrets, parle à mon sserpent. »*]{ .serpent}
 
 Harry devinait vaguement que ce n’était pas censé faire partie du
@@ -312,7 +312,7 @@ les types de magie de l’esprit que tu pourras trouver. L’esprit est la
 fondation de notre pouvoir en tant qu’humains, donc toute magie
 l’affectant est la plus importante des magies.*
 
-*À faire 2. En fait, c’est « À faire 1′ et l’autre est « À faire 2′.
+*À faire 2. En fait, c’est « À faire 1 » et l’autre est « À faire 2 ».
 Parcours les bibliothèques de Poudlard et de Serdaigle, familiarise-toi
 avec le système et assure-toi que tu as au moins lu tous les titres de
 livres. Deuxième passage : lire toutes les tables des matières.
@@ -542,7 +542,7 @@ autre que la perfection. Et j’ai donc bien l’intention que chacun de
 vous se souvienne toujours de cette année comme de celle du *meilleur*
 cours de Défense que vous ayez jamais eu. Ce que vous apprendrez cette
 année vous servira à jamais et sera une fondation solide pour vos arts
-de Défense, qui qu’aient été vos enseignants passés et futurs.
+de Défense, qui qu’aient été vos enseignants passés et futurs. »
 
 L’expression du Professeur Quirrell devint sérieuse. « Nous avons
 *beaucoup* de terrain à rattraper, et peu de temps pour le parcourir.
