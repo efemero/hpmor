@@ -36,11 +36,23 @@
             const path_to_root = "../";
             const default_light_theme = "light";
             const default_dark_theme = "navy";
+            window.path_to_searchindex_js = "../searchindex.js";
         </script>
         <!-- Start loading toc.js asap -->
         <script src="../toc.js"></script>
     </head>
     <body>
+    <div id="mdbook-help-container">
+        <div id="mdbook-help-popup">
+            <h2 class="mdbook-help-title">Keyboard shortcuts</h2>
+            <div>
+                <p>Press <kbd>←</kbd> or <kbd>→</kbd> to navigate between chapters</p>
+                <p>Press <kbd>S</kbd> or <kbd>/</kbd> to search in the book</p>
+                <p>Press <kbd>?</kbd> to show this help</p>
+                <p>Press <kbd>Esc</kbd> to hide this help</p>
+            </div>
+        </div>
+    </div>
     <div id="body-container">
         <!-- Work around some values being stored in localStorage wrapped in quotes -->
         <script>
@@ -81,10 +93,13 @@
                 sidebar = sidebar || 'visible';
             } else {
                 sidebar = 'hidden';
+                sidebar_toggle.checked = false;
             }
-            sidebar_toggle.checked = sidebar === 'visible';
-            html.classList.remove('sidebar-visible');
-            html.classList.add("sidebar-" + sidebar);
+            if (sidebar === 'visible') {
+                sidebar_toggle.checked = true;
+            } else {
+                html.classList.remove('sidebar-visible');
+            }
         </script>
 
         <nav id="sidebar" class="sidebar" aria-label="Table of contents">
@@ -118,7 +133,7 @@
                             <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
                             <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
                         </ul>
-                        <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                        <button id="search-toggle" class="icon-button" type="button" title="Search (`/`)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="/ s" aria-controls="searchbar">
                             <i class="fa fa-search"></i>
                         </button>
                     </div>
@@ -135,7 +150,12 @@
 
                 <div id="search-wrapper" class="hidden">
                     <form id="searchbar-outer" class="searchbar-outer">
-                        <input type="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                        <div class="search-wrapper">
+                            <input type="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                            <div class="spinner-wrapper">
+                                <i class="fa fa-spinner fa-spin"></i>
+                            </div>
+                        </div>
                     </form>
                     <div id="searchresults-outer" class="searchresults-outer hidden">
                         <div id="searchresults-header" class="searchresults-header"></div>
@@ -160,64 +180,62 @@
 <p>Daphné Greengrass était dans la salle commune des Serpentard et écrivait
 une lettre à Dame sa mère (étonnamment intransigeante quant au partage
 de son pouvoir alors même qu'elle n'était <em>même pas</em> à Poudlard)
-lorsqu'elle vit Draco Malfoy entrer par le portrait en chancelant, avec
-dans les bras au moins douze livres ; Vincent et Grégory étaient
+lorsqu'elle vit Drago Malefoy entrer par le portrait en chancelant, avec
+dans les bras au moins douze livres ; Vincent et Grégory étaient
 derrière lui et en portaient une autre douzaine. L'Auror qui
-accompagnait Malfoy glissa sa tête par le passage puis s'en fut on ne
+accompagnait Malefoy glissa sa tête par le passage puis s'en fut on ne
 sait où.</p>
-<p>Draco regarda autour de lui et une idée brillante sembla soudain le
+<p>Drago regarda autour de lui et une idée brillante sembla soudain le
 frapper . Il s'avança, toujours chancelant, Vincent et Grégory derrière
 lui.</p>
-<p>"Est-ce que tu pourrais m'aider à les lire ?" demanda Draco en
+<p>« Est-ce que tu pourrais m'aider à les lire ? » demanda Drago en
 s'approchant, le souffle un peu court.</p>
-<p>"Quoi." Il n'y avait plus de cours, seulement des examens, et depuis
-quand un <em>Malfoy</em> demandait-il de l'aide à une <em>Greengrass</em> pour ses
-devoirs ?</p>
-<p>"Voici," dit Draco d'un ton solennel, "tous les livres empruntés à la
+<p>« Quoi. » Il n'y avait plus de cours, seulement des examens, et depuis
+quand un <em>Malefoy</em> demandait-il de l'aide à une <em>Greengrass</em> pour ses
+devoirs ?</p>
+<p>« Voici, » dit Drago d'un ton solennel, « tous les livres empruntés à la
 bibliothèque par Granger entre le 1er et le 16 avril. Je pensais les
 parcourir au cas où l'un d'eux renfermerait un indice, mais je me suis
 dit que <em>tu</em> devrais peut-être participer, vu que tu la connaissais
-mieux."</p>
-<p>Daphné fixa les livres du regard. "Le Général a lu tout ça en <em>deux
-semaines</em> ?" Une pointe de douleur traversa son cœur, mais elle la
+mieux. »</p>
+<p>Daphné fixa les livres du regard. « Le Général a lu tout ça en <em>deux
+semaines</em> ? » Une pointe de douleur traversa son cœur, mais elle la
 réprima.</p>
-<p>"Eh bien, je ne sais pas si elle les a tous finis," dit Draco. Il éleva
-un index, comme pour appeler à la prudence. "En fait, je ne sais pas si
-elle a lu un seul de ces livres, ni même si elle les a vraiment
+<p>« Eh bien, je ne sais pas si elle les a tous finis, » dit Drago. Il
+éleva un index, comme pour appeler à la prudence. « En fait, je ne sais
+pas si elle a lu un seul de ces livres, ni même si elle les a vraiment
 empruntés. En fait, tout ce qu'on a <em>observé</em>, c'est que le registre de
-la bibliothèque dit qu'elle les a pris..."</p>
-<p>Daphné réprima un grognement. Malfoy parlait comme ça depuis plusieurs
+la bibliothèque dit qu'elle les a pris... »</p>
+<p>Daphné réprima un grognement. Malefoy parlait comme ça depuis plusieurs
 semaines. Il était clair que certains individus ne devraient jamais
 s'intéresser à des meurtres mystérieux car l'effet que cela produisait
-sur leur cerveau était <em>bizarre</em>. "M. Malfoy, je ne pourrais pas lire
-ces livres même si j'y passais tout l'été;"</p>
-<p>"Alors essayez de juste les parcourir, s'il vous plaît ?" répondit
-Draco. "Surtout si on y trouve, tu sais, d'étranges notes de sa main, ou
-un marque-page laissé à l'intérieur, ou..."</p>
-<p>"Oui, j'ai vu ces pièces aussi, M. Malfoy," dit Daphné en levant les
-yeux au ciel. "Mais on a des <em>Aurors</em> pour ça maint..."</p>
-<p>"<em>Nous sommes perdus !</em>" glapit Millicent Bulstrode, jaillissant dans la
-salle commune Serpentard depuis les chambres du sous-sol.</p>
+sur leur cerveau était <em>bizarre</em>. « M. Malefoy, je ne pourrais pas lire
+ces livres même si j'y passais tout l'été ; »</p>
+<p>« Alors essayez de juste les parcourir, s'il vous plaît ? » répondit
+Drago. « Surtout si on y trouve, tu sais, d'étranges notes de sa main,
+ou un marque-page laissé à l'intérieur, ou... »</p>
+<p>« Oui, j'ai vu ces pièces aussi, M. Malefoy, » dit Daphné en levant les
+yeux au ciel. « Mais on a des <em>Aurors</em> pour ça maint... »</p>
+<p>« <em>Nous sommes perdus !</em> » glapit Millicent Bulstrode, jaillissant dans
+la salle commune Serpentard depuis les chambres du sous-sol.</p>
 <p>Tout le monde s'interrompit et la regarda.</p>
-<p>"<em>C'est le professeur Quirrell !</em>"</p>
+<p>« <em>C'est le professeur Quirrell !</em> »</p>
 <p>Une attention soudaine, comme si de vieilles querelles s'apprêtaient à
-être réglées. "Enfin," dit quelqu'un alors que Millicent reprenait son
-souffle. "Il lui reste quoi, dix jours avant de mal tourner ?"</p>
-<p>"Onze jours," dit l'élève de septième année qui prenait les paris.</p>
-<p>"<em>Son état s'est soudainement amélioré et il va faire venir les première
-année pour leur examen final de Défense ! Un examen surprise ! Dans
-cinquante minutes !</em>"</p>
-<p>"Un examen final de défense ?" dit Pansy, choquée. "Mais le professeur
-Quirrell ne donne pas d'examens."</p>
-<p>"L'examen final du <em>ministère</em> !" glapit Millicent.</p>
-<p>"Mais le professeur Quirrell n'enseigne pas du tout le programme du
-ministère", fit remarquer Pansy.</p>
+être réglées. « Enfin, » dit quelqu'un alors que Millicent reprenait son
+souffle. « Il lui reste quoi, dix jours avant de mal tourner ? »</p>
+<p>« Onze jours, » dit l'élève de septième année qui prenait les paris.</p>
+<p>« <em>Son état s'est soudainement amélioré et il va faire venir les
+première année pour leur examen final de Défense ! Un examen surprise !
+Dans cinquante minutes !</em> »</p>
+<p>« Un examen final de défense ? » dit Pansy, choquée. « Mais le
+professeur Quirrell ne donne pas d'examens. »</p>
+<p>« L'examen final du <em>ministère</em> ! » glapit Millicent.</p>
+<p>« Mais le professeur Quirrell n'enseigne pas du tout le programme du
+ministère, » fit remarquer Pansy.</p>
 <p>Daphné fonçait déjà vers sa chambre, vers le manuel de Défense de
 première année qu'elle n'avait pas ouvert depuis septembre, un hurlement
 de jurons à l'esprit.</p>
-<p> </p>
 <hr />
-<p> </p>
 <p>Une table derrière elle, quelqu'un pleurait, les doux sanglots comme un
 fond sonore de désespoir qui emplissait la salle. Daphné regarda
 derrière elle en s'attendant à voir une Poufsouffle et en espérant que
@@ -235,14 +253,14 @@ l'unité des maisons.</p>
 pleurer. C'était Katherine Tung, de l'armée Dragon, qui, si Daphné se
 souvenait bien, avait un jour descendu sans ciller trois soldats Soleil.</p>
 <p>Daphné s'était calmée après quelques minutes de lecture frénétique. Ce
-n'était qu'un examen, pas une <em>mise à mort</em> ; et si presque tous les
+n'était qu'un examen, pas une <em>mise à mort</em> ; et si presque tous les
 élèves de première année rendaient des parchemins quasi-vierges,
 personne n'aurait à avoir honte. Mais même sans partager leur opinion,
-Daphné pouvait comprendre que les Poufsouffle et les Serdaigles voient
+Daphné pouvait comprendre que les Poufsouffle et les Serdaigle voient
 les choses autrement.</p>
-<p>"Il est maléfique," dit un Serdaigle d'une voix tremblante. "Cent pour
-cent pur mage noir jusqu'à la moelle. Grindelwald ne ferait pas ça à des
-enfants. Il est pire que Vous-Savez-Qui."</p>
+<p>« Il est maléfique, » dit un Serdaigle d'une voix tremblante. « Cent
+pour cent pur mage noir jusqu'à la moelle. Grindelwald ne ferait pas ça
+à des enfants. Il est pire que Vous-Savez-Qui. »</p>
 <p>Daphné regarda pensivement le professeur Quirrell, assis, penché d'un
 côté, mais le regard alerte, et l'espace d'un court instant elle crut
 voir le professeur de Défense sourire. Non, ça devait avoir été son
@@ -250,14 +268,14 @@ imagination. Jamais le professeur Quirrell n'aurait pu entendre ça.</p>
 <p>La cloche sonna.</p>
 <p>Daphné retourna son parchemin.</p>
 <p>Il était surmonté de tampons du ministère, du conseil d'administration
-de Poudlard et du département d'éducation magique ; ainsi que de runes
+de Poudlard et du département d'éducation magique ; ainsi que de runes
 détectrices de tricherie. En dessous, une ligne pour y inscrire son nom,
 et la liste des règles à suivre accompagnée d'une image de Lindsay
 Gagnon, directrice du département d'éducation magique, un doigt
 admonestant pointé vers le lecteur.</p>
 <p>À mi-hauteur se trouvait la première question.</p>
-<p>C'était : <em>Pourquoi est-il important que les enfants restent à distance
-des créatures étranges ?</em></p>
+<p>C'était : <em>Pourquoi est-il important que les enfants restent à distance
+des créatures étranges ?</em></p>
 <p>La salle se figea, stupéfaite.</p>
 <p>Un élève se mit à rire, probablement Gryffondor. Le professeur Quirrell
 ne chercha pas à l'interrompre et le rire se propagea.</p>
@@ -265,39 +283,37 @@ ne chercha pas à l'interrompre et le rire se propagea.</p>
 tut, et comme d'un accord muet ils regardèrent tous le professeur
 Quirrell, qui leur retournait un regard bienveillant.</p>
 <p>Daphné se pencha sur son examen, avec au visage un sourire défiant dont
-Godric Gryffondor et Grindelwald auraient été fiers ; puis elle
-écrivit : <em>Parce que mon sortilège d'étourdissement, ma Très Ancienne
+Godric Gryffondor et Grindelwald auraient été fiers ; puis elle
+écrivit : <em>Parce que mon sortilège d'étourdissement, ma Très Ancienne
 Lame et mon Patronus ne marcheront pas à chaque fois</em>.</p>
-<p> </p>
 <hr />
-<p> </p>
 <p>Harry Potter retourna la dernière page de son examen de Défense.</p>
 <p>Même Harry avait eu à réprimer un peu de nervosité, un petit vestige de
-son enfance, lorsqu'il avait lu la première vraie question ('Comment
-faire taire une anguille hurleuse ?'). Les cours du professeur Quirrell
+son enfance, lorsqu'il avait lu la première vraie question (« Comment
+faire taire une anguille hurleuse ? »). Les cours du professeur Quirrell
 n'avaient pas abordé une seule fois les futilités certes étonnantes
-qu'un idiot avait cru devoir faire partie d'un 'cours de Défense'. En
+qu'un idiot avait cru devoir faire partie d'un « cours de Défense ». En
 principe, après avoir appris que l'examen aurait lieu, Harry aurait pu
-utiliser son Retourneur de Temps pour lire son livre de Défense ; mais
+utiliser son Retourneur de Temps pour lire son livre de Défense ; mais
 cela aurait injustement décalé la courbe de notation pour les autres.
 Après avoir contemplé la question pendant quelques secondes, Harry avait
-écrit 'sortilège de silence' et avait ajouté les instructions, au cas où
-l'employé du ministère chargé de le noter refuserait de croire que Harry
-connaissait ce sort.</p>
+écrit « sortilège de silence » et avait ajouté les instructions, au cas
+où l'employé du ministère chargé de le noter refuserait de croire que
+Harry connaissait ce sort.</p>
 <p>Après qu'il eut décidé de répondre <em>correctement</em> aux questions, tout
 était allé plus vite. La réponse la plus réaliste à plus de la moitié
-des questions était 'sortilège d'étourdissement' et de nombreuses autres
-avaient des réponses optimales proches de 'Se retourner et marcher dans
-l'autre sens' ou 'Jeter le fromage à la poubelle et s'acheter de
-nouvelles chaussures.'</p>
-<p>La dernière question de l'examen était : 'Que feriez-vous si vous
-pensiez qu'un serpent-mitaine était sous votre lit ?'. Harry se
+des questions était « sortilège d'étourdissement » et de nombreuses
+autres avaient des réponses optimales proches de « Se retourner et
+marcher dans l'autre sens » ou « Jeter le fromage à la poubelle et
+s'acheter de nouvelles chaussures. »</p>
+<p>La dernière question de l'examen était : « Que feriez-vous si vous
+pensiez qu'un serpent-mitaine était sous votre lit ? ». Harry se
 souvenait que la réponse officiellement approuvée par le ministère était
 de <em>le dire à ses parents</em>. Le problème, c'est que c'était la première
 chose à laquelle Harry avait pensé, et c'était pour ça qu'il s'en
 souvenait.</p>
-<p>Après un peu de réflexion, il écrivit :</p>
-<p><em>Cher examinateur du ministère : j'ai bien peur que la bonne réponse ne
+<p>Après un peu de réflexion, il écrivit :</p>
+<p><em>Cher examinateur du ministère : j'ai bien peur que la bonne réponse ne
 soit secrète, mais soyez assuré qu'un serpent-mitaine ne me poserait pas
 plus de problèmes qu'un Troll des montagnes, qu'un Détraqueur ou que
 Vous-Savez-Qui. Veuillez dire à vos supérieurs que je trouve la réponse
@@ -317,26 +333,26 @@ Quirrell leur avait enseignée.</p>
 année alla de table en table pour récupérer les parchemins à la place du
 professeur Quirrell.</p>
 <p>Lorsque ce fut fait, le professeur Quirrell se redressa.</p>
-<p>"Mes jeunes élèves," dit-il doucement. L'élève de septième avait sa
+<p>« Mes jeunes élèves, » dit-il doucement. L'élève de septième avait sa
 baguette pointée vers la bouche du professeur de Défense, si bien que
 tous entendaient la voix du professeur aussi clairement que s'il avait
-été à côté d'eux. "Je sais... que vous avez été nombreux à avoir peur...
-c'est une autre peur que d'être face à la baguette de l'ennemi...il vous
-faudra la conquérir, elle aussi. Je vous dirais donc ceci... maintenant.
-La coutume de Poudlard... est de donner les notes pendant la seconde
-semaine de juin. Je pense qu'ils peuvent faire une exception... pour
-moi." Le professeur de Défense eut son sourire sec habituel, mais il se
-tordit, comme si une grimace avait été réprimée. "Je sais que vous êtes
-inquiets... que vous n'étiez pas préparés à l'examen... que mes cours
-n'en parlaient pas... et j'ai complètement oublié de mentionner... qu'il
-approchait... même si vous auriez dû savoir... qu'il finirait par
-arriver. Mais je viens de vérifier magiquement... les réponses que vous
-avez fournies à ce... capital examen... bien que seule la note du
-ministère est officielle... j'ai inscrit vos notes pour l'année en
-prenant compte de ce résultat... et je les ai écrites sur ces
-parchemins," le professeur Quirrell toucha une pile de parchemin située
-à côté de son bureau, "ils vous seront maintenant distribués... un
-sortilège incroyable... non ?"</p>
+été à côté d'eux. « Je sais... que vous avez été nombreux à avoir
+peur... c'est une autre peur que d'être face à la baguette de
+l'ennemi...il vous faudra la conquérir, elle aussi. Je vous dirais donc
+ceci... maintenant. La coutume de Poudlard... est de donner les notes
+pendant la seconde semaine de juin. Je pense qu'ils peuvent faire une
+exception... pour moi. » Le professeur de Défense eut son sourire sec
+habituel, mais il se tordit, comme si une grimace avait été réprimée.
+« Je sais que vous êtes inquiets... que vous n'étiez pas préparés à
+l'examen... que mes cours n'en parlaient pas... et j'ai complètement
+oublié de mentionner... qu'il approchait... même si vous auriez dû
+savoir... qu'il finirait par arriver. Mais je viens de vérifier
+magiquement... les réponses que vous avez fournies à ce... capital
+examen... bien que seule la note du ministère est officielle... j'ai
+inscrit vos notes pour l'année en prenant compte de ce résultat... et je
+les ai écrites sur ces parchemins, » le professeur Quirrell toucha une
+pile de parchemin située à côté de son bureau, « ils vous seront
+maintenant distribués... un sortilège incroyable... non ? »</p>
 <p>Certains des élèves de Serdaigle semblaient indignés, mais la plupart
 avaient seulement l'air soulagés. Des Serpentard gloussaient. Harry
 aurait ri aussi, s'il n'avait autant souffert de voir le professeur
@@ -354,40 +370,40 @@ deuxième meilleure note. Ce Harry réfléchit en silence. Le professeur
 Quirrell cherchait à lui dire quelque chose, et ce n'était pas comme si
 la note exacte avait de l'importance. Voulait-il dire que Harry s'en
 était bien tiré mais qu'il n'avait pas totalement accompli son
-potentiel ? Ou la note signifiait-elle littéralement que Harry avait
-bien dépassé les attentes du professeur ?</p>
-<p>"Vous avez tous... réussi," dit le professeur Quirrell tandis que les
+potentiel ? Ou la note signifiait-elle littéralement que Harry avait
+bien dépassé les attentes du professeur ?</p>
+<p>« Vous avez tous... réussi, » dit le professeur Quirrell tandis que les
 élèves découvraient leur note finale, et des soupirs de soulagement
 s'élevèrent des tables. Lavande Brown leva son parchemin tenu dans un
-poing serré en signe de triomphe. "Tous les élèves du cours de magie de
-bataille ont réussi... sauf une."</p>
+poing serré en signe de triomphe. « Tous les élèves du cours de magie de
+bataille ont réussi... sauf une. »</p>
 <p>De nombreuses élèves relevèrent les yeux, soudain terrifiées.</p>
 <p>Harry demeura silencieux. Il avait immédiatement compris, et même s'il
 n'était pas d'accord, il savait que rien ni personne ne découragerait le
 professeur de dire ce qu'il avait à dire.</p>
-<p>"Vous tous ici... avez au moins reçu la note Acceptable. Neville
+<p>« Vous tous ici... avez au moins reçu la note Acceptable. Neville
 Londubat... qui a passé l'examen depuis la maison Londubat... a reçu la
 note Extraordinaire. Mais l'autre élève qui n'est pas là... a reçu la
 note Affreux... car elle a échoué le seul examen d'importance... qu'elle
 ait passé cette année. Je lui aurais bien donné une note encore plus
-basse... mais ç'aurait été de mauvais goût."</p>
+basse... mais ç'aurait été de mauvais goût. »</p>
 <p>La salle était très silencieuse, mais de nombreux élèves regardaient le
 professeur avec colère.</p>
-<p>"Vous pensez peut-être que la note Affreux... est injuste. Que Mlle
+<p>« Vous pensez peut-être que la note Affreux... est injuste. Que Mlle
 Granger a fait face à un test... à laquelle ses leçons... ne l'avaient
 pas préparée. Qu'on ne lui avait pas dit... que l'examen viendrait ce
-jour-là."</p>
+jour-là. »</p>
 <p>Le professeur de Défense inspira avec difficulté.</p>
-<p>"Ainsi va le monde réel," dit le professeur Quirrell. "Le seul véritable
-test... peut arriver n'importe quand... mieux vaut s'y préparer. Quant
-au reste d'entre vous... ceux qui ont reçu EE ou plus... vous avez reçu
-mes lettres de recommandation... pour certaines organisations par-delà
-les côtes de Grande-Bretagne... où votre entraînement pourra s'achever.
-Ils vous contacteront... quand vous serez assez âgés. Et
-souvenez-vous... à partir d'aujourd'hui... vous devrez vous entraîner...
-vous ne pourrez pas compter... sur les professeurs de Défense à venir.
-Votre première année de magie de bataille est terminée... vous pouvez
-disposer."</p>
+<p>« Ainsi va le monde réel, » dit le professeur Quirrell. « Le seul
+véritable test... peut arriver n'importe quand... mieux vaut s'y
+préparer. Quant au reste d'entre vous... ceux qui ont reçu EE ou plus...
+vous avez reçu mes lettres de recommandation... pour certaines
+organisations par-delà les côtes de Grande-Bretagne... où votre
+entraînement pourra s'achever. Ils vous contacteront... quand vous serez
+assez âgés. Et souvenez-vous... à partir d'aujourd'hui... vous devrez
+vous entraîner... vous ne pourrez pas compter... sur les professeurs de
+Défense à venir. Votre première année de magie de bataille est
+terminée... vous pouvez disposer. »</p>
 <p>Le professeur Quirrell s'inclina, les yeux fermés, et sembla ne pas
 remarquer les babillements excités qui venaient de naître autour de lui.</p>
 <p>La plupart des élèves finirent par partir, et un seul demeura, à une
@@ -396,11 +412,11 @@ certaine distance du professeur de Défense.</p>
 <p>Harry tenait le parchemin et son <em>EE+</em>, toujours muet.</p>
 <p>Le professeur de Défense sourit, et le sourire atteint jusqu'à ses yeux
 fatigués.</p>
-<p>"C'est la même note... que celle que j'ai reçue en première année."</p>
-<p>"Me... me... me...", Harry ne parvint pas à faire sortir le mot <em>merci</em>
-de sa gorge soudain nouée. Le professeur de défense inclina la tête, le
-regarda avec curiosité, et Harry s'inclina vivement avant de quitter la
-pièce.</p>
+<p>« C'est la même note... que celle que j'ai reçue en première année. »</p>
+<p>« Me... me... me..., » Harry ne parvint pas à faire sortir le mot
+<em>merci</em> de sa gorge soudain nouée. Le professeur de défense inclina la
+tête, le regarda avec curiosité, et Harry s'inclina vivement avant de
+quitter la pièce.</p>
 <p>Il restait neuf jours.</p>
 
                     </main>
@@ -449,6 +465,7 @@ pièce.</p>
         <script src="../book.js"></script>
 
         <!-- Custom JS scripts -->
+
 
 
     </div>

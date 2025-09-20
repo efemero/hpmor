@@ -36,11 +36,23 @@
             const path_to_root = "../";
             const default_light_theme = "light";
             const default_dark_theme = "navy";
+            window.path_to_searchindex_js = "../searchindex.js";
         </script>
         <!-- Start loading toc.js asap -->
         <script src="../toc.js"></script>
     </head>
     <body>
+    <div id="mdbook-help-container">
+        <div id="mdbook-help-popup">
+            <h2 class="mdbook-help-title">Keyboard shortcuts</h2>
+            <div>
+                <p>Press <kbd>←</kbd> or <kbd>→</kbd> to navigate between chapters</p>
+                <p>Press <kbd>S</kbd> or <kbd>/</kbd> to search in the book</p>
+                <p>Press <kbd>?</kbd> to show this help</p>
+                <p>Press <kbd>Esc</kbd> to hide this help</p>
+            </div>
+        </div>
+    </div>
     <div id="body-container">
         <!-- Work around some values being stored in localStorage wrapped in quotes -->
         <script>
@@ -81,10 +93,13 @@
                 sidebar = sidebar || 'visible';
             } else {
                 sidebar = 'hidden';
+                sidebar_toggle.checked = false;
             }
-            sidebar_toggle.checked = sidebar === 'visible';
-            html.classList.remove('sidebar-visible');
-            html.classList.add("sidebar-" + sidebar);
+            if (sidebar === 'visible') {
+                sidebar_toggle.checked = true;
+            } else {
+                html.classList.remove('sidebar-visible');
+            }
         </script>
 
         <nav id="sidebar" class="sidebar" aria-label="Table of contents">
@@ -118,7 +133,7 @@
                             <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
                             <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
                         </ul>
-                        <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                        <button id="search-toggle" class="icon-button" type="button" title="Search (`/`)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="/ s" aria-controls="searchbar">
                             <i class="fa fa-search"></i>
                         </button>
                     </div>
@@ -135,7 +150,12 @@
 
                 <div id="search-wrapper" class="hidden">
                     <form id="searchbar-outer" class="searchbar-outer">
-                        <input type="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                        <div class="search-wrapper">
+                            <input type="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                            <div class="spinner-wrapper">
+                                <i class="fa fa-spinner fa-spin"></i>
+                            </div>
+                        </div>
                     </form>
                     <div id="searchresults-outer" class="searchresults-outer hidden">
                         <div id="searchresults-header" class="searchresults-header"></div>
@@ -156,8 +176,8 @@
                 <div id="content" class="content">
                     <main>
                         <h1 id="rôles-partie-7"><a class="header" href="#rôles-partie-7">Rôles, partie 7</a></h1>
-<p><em>La quatrième rencontre :<br />
-(Le 17 avril 1992 à 16h38)</em></p>
+<p><em>La quatrième rencontre :<br />
+(Le 17 avril 1992 à 16 h 38)</em></p>
 <p>L'homme qui portait la manteau usé et chaud ainsi que trois légères
 cicatrices pour toujours gravées sur sa joue observait Harry d'aussi
 près que possible tandis que le garçon déambulait poliment entre les
@@ -165,13 +185,13 @@ rangées de maisonnettes. Pour quelqu'un dont la meilleure amie était
 morte la veille, Harry Potter semblait étrangement tranquille, sans que
 cela ne laisse toutefois penser qu'il était insensible ou qu'il trouve
 cela normal. <em>Je ne souhaite pas en parler</em>, avait dit le garçon, <em>avec
-vous ou qui que ce soit d'autre</em>. Il avait dit 'souhaite' et non pas
-'veux', comme pour insister sur le fait qu'il était capable d'utiliser
+vous ou qui que ce soit d'autre</em>. Il avait dit « souhaite » et non pas
+« veux, » comme pour insister sur le fait qu'il était capable d'utiliser
 des mots d'adulte et de prendre des décisions d'adulte. Remus n'avait pu
 songer qu'à une chose susceptible d'aider après avoir reçu les chouettes
 du professeur McGonagall et de cette étrange homme nommé Quirinus
 Quirrell.</p>
-<p>"Il y a beaucoup de maisons vides," dit Harry, après avoir jeté un
+<p>« Il y a beaucoup de maisons vides, » dit Harry, après avoir jeté un
 nouveau coup d'œil.</p>
 <p>Godric's Hollow avait changé pendant la décennie depuis que Remus Lupin
 avait cessé de s'y rendre fréquemment. Nombre des vieilles maisonnettes
@@ -191,7 +211,7 @@ le dernier d'entre eux le décidait.</p>
 <p>Remus Lupin essaya d'expliquer tout cela, simplifiant de son mieux pour
 le jeune garçon. Le Serdaigle hochait pensivement la tête et ne parlait
 pas, comme s'il comprenait tout sans avoir besoin de poser de questions.
-Peut-être était-ce le cas ; l'enfant de James Potter et Lily Evans,
+Peut-être était-ce le cas ; l'enfant de James Potter et Lily Evans,
 préfet et préfète en chef de Poudlard, ne risquait pas d'être stupide.
 L'enfant lui avait certainement semblé très intelligent lors de leur
 courte conversation de janvier, bien qu'alors ce fut surtout Remus qui
@@ -200,21 +220,19 @@ avait parlé.</p>
 entendu des rumeurs, mais il n'en croyait pas un mot, pas plus qu'il ne
 croyait que James avait promis son fils en mariage à la plus jeune fille
 de Molly).</p>
-<p>"Voilà le monument," dit Remus en tendant la main vers l'avant.</p>
-<p> </p>
+<p>« Voilà le monument, » dit Remus en tendant la main vers l'avant.</p>
 <hr />
-<p> </p>
 <p>Harry marcha à côté de M. Lupin vers l'obélisque de marbre noir tout en
 réfléchissant en silence. Il lui semblait que cette aventure était
-profondément malavisée ; il n'avait besoin d'aucun accompagnement dans
+profondément malavisée ; il n'avait besoin d'aucun accompagnement dans
 le deuil, n'ayant pas choisi cette voie. En ce qui le concernait, les
 cinq étapes du deuil étaient Rage, Remords, Résolution, Recherche et
-Résurrection (non pas que les 'cinq étapes du deuil' aient jamais
+Résurrection (non pas que les « cinq étapes du deuil » aient jamais
 bénéficié de la moindre confirmation expérimentale dont Harry ait
 entendu parler). Mais M. Lupin était apparu trop sincère pour que Harry
-puisse refuser ; et il avait semblé à Harry qu'il se devait de ne pas
+puisse refuser ; et il avait semblé à Harry qu'il se devait de ne pas
 refuser une visite chez James et Lily. Il marchait donc, empli d'un
-sentiment d'étrange détachement ; il marchait silencieusement comme au
+sentiment d'étrange détachement ; il marchait silencieusement comme au
 milieu d'une pièce dont la lecture du texte ne l'aurait pas intéressé.</p>
 <p>On avait dit à Harry de ne pas porter la Cape d'Invisibilité pendant son
 voyage afin que M. Lupin puisse le garder à l'œil.</p>
@@ -233,12 +251,12 @@ face à Lord Voldemort, et Lily Potter bras tendus devant le berceau.</p>
 <p>Au lieu de cela on pouvait voir un homme aux cheveux et aux lunettes
 sales, une femme aux cheveux détachés, un bébé dans ses bras, et c'était
 tout.</p>
-<p>"Ça m'a l'air très... normal," dit Harry, et il sentit que sa voix lui
+<p>« Ça m'a l'air très... normal, » dit Harry, et il sentit que sa voix lui
 échappait.</p>
-<p>"Madame Londubat et le professeur Dumbledore y ont particulièrement
-tenu," dit M. Lupin, qui regardait plus Harry que le monument. "Ils ont
-dit que nous devions nous souvenir des Potter comme ils avaient vécu,
-pas comme ils étaient morts."</p>
+<p>« Madame Londubat et le professeur Dumbledore y ont particulièrement
+tenu, » dit M. Lupin, qui regardait plus Harry que le monument. « Ils
+ont dit que nous devions nous souvenir des Potter comme ils avaient
+vécu, pas comme ils étaient morts. »</p>
 <p>Harry regarda la statue et réfléchit. Très étrange, de se voir sous la
 forme d'un bébé de pierre, sans cicatrice sur le front. C'était un
 aperçu d'un monde parallèle, d'un monde où Harry James Potter (sans
@@ -252,30 +270,30 @@ que le professeur Verres-Evans aurait appelé <em>la poursuite de l'effort
 commun</em>. Ses parents biologiques l'auraient beaucoup aimé, et ça
 n'aurait pas aidé grand-monde sauf Harry. Si quelqu'un avait défait leur
 mort...</p>
-<p>"Vous étiez leur ami," dit Harry en se retournant vers Lupin. "Depuis
-longtemps, depuis votre enfance."</p>
+<p>« Vous étiez leur ami, » dit Harry en se retournant vers Lupin. « Depuis
+longtemps, depuis votre enfance. »</p>
 <p>M. Lupin acquiesça silencieusement.</p>
 <p>La voix du professeur Quirrell résonna dans le souvenir approximatif de
-Harry : <em>La différence la plus probable n'est pas que vous y accordez
+Harry : <em>La différence la plus probable n'est pas que vous y accordez
 plus d'importance. C'est plutôt que, étant une créature plus logique
 qu'eux, seul vous êtes conscient du fait que le rôle d'Ami exige cet
 acte de votre part...</em></p>
-<p>"Quand Lily et James sont morts," dit Harry, "vous êtes-vous le moins du
-monde demandé s'il pourrait y avoir quelque objet magique capable de les
-ramener ? Comme Orphée et Eurydice ? Ou comme les, comment
-s'appelaient-ils déjà, les frères Elrin ?"</p>
-<p>"Aucune magie ne peut défaire la mort," dit doucement M. Lupin. "Il y a
-certains mystère que les sorciers ne peuvent atteindre."</p>
-<p>"Avez-vous effectué une vérification mentale de ce que vous saviez, de
-pourquoi vous le saviez, et de la probabilité de cette conclusion ?"</p>
-<p>"Quoi ?" dit M. Lupin. "Pourrais-tu répéter ça, Harry ?"</p>
-<p>"Je vous demande si vous y avez quand même réfléchi."</p>
+<p>« Quand Lily et James sont morts, » dit Harry, « vous êtes-vous le moins
+du monde demandé s'il pourrait y avoir quelque objet magique capable de
+les ramener ? Comme Orphée et Eurydice ? Ou comme les, comment
+s'appelaient-ils déjà, les frères Elrin ? »</p>
+<p>« Aucune magie ne peut défaire la mort, » dit doucement M. Lupin. « Il y
+a certains mystère que les sorciers ne peuvent atteindre. »</p>
+<p>« Avez-vous effectué une vérification mentale de ce que vous saviez, de
+pourquoi vous le saviez, et de la probabilité de cette conclusion ? »</p>
+<p>« Quoi ? » dit M. Lupin. « Pourrais-tu répéter ça, Harry ? »</p>
+<p>« Je vous demande si vous y avez quand même réfléchi. »</p>
 <p>M. Lupin secoua la tête.</p>
-<p>"Pourquoi pas ?"</p>
-<p>"Parce que c'était fait, c'était accompli," dit Remus Lupin avec
-gentillesse. "Parce que, où que soient James et Lily à présent, ils
+<p>« Pourquoi pas ? »</p>
+<p>« Parce que c'était fait, c'était accompli, » dit Remus Lupin avec
+gentillesse. « Parce que, où que soient James et Lily à présent, ils
 voudraient que j'agisse pour le bien des vivants, pas pour celui des
-morts."</p>
+morts. »</p>
 <p>Harry hocha silencieusement la tête. Il avait été assez certain de ce
 que serait la réponse avant de poser la question. Il connaissait déjà ce
 script. Mais il avait quand même posé la question, juste au cas où M.
@@ -289,11 +307,11 @@ que d'y réfléchir cinq minutes avant d'abandonner...</em></p>
 cette capacité simplement parce qu'il est préoccupé. Je l'ai acquise
 parce que j'ai lu certains livres à la bibliothèque, produits par un
 immense édifice scientifique...</em></p>
-<p>Et l'autre partie de Harry dit de cette même voix douce : <em>Mais il y a
+<p>Et l'autre partie de Harry dit de cette même voix douce : <em>Mais il y a
 une autre hypothèse, M. Potter, et elle cadre beaucoup plus simplement
 avec les observations.</em></p>
-<p><em>Pas du tout ! Comment les gens sauraient-ils quoi prétendre si personne
-ne s'était jamais soucié de son prochain ?</em></p>
+<p><em>Pas du tout ! Comment les gens sauraient-ils quoi prétendre si personne
+ne s'était jamais soucié de son prochain ?</em></p>
 <p><em>Ils ne le savent pas. C'est ce que vous observez.</em></p>
 <p>Ils continuèrent d'avancer vers une certaine maison derrière une longue
 rangée de maisonnettes habitées et d'autres recouvertes de vignes.</p>
@@ -311,12 +329,12 @@ tuteur. Les vitres étaient fracassées. Là où l'ont aurait dû trouver une
 porte d'entrée on ne trouvait plus que des échardes de bois.</p>
 <p>Ici, Lord Voldemort était venu, <em>en silence, il faisait moins de bruit
 que les feuilles mortes qui glissaient le long des pavés...</em></p>
-<p>Remus Lupin plaça une main sur l'épaule de Harry. "Touche la porte," dit
-M. Lupin.</p>
+<p>Remus Lupin plaça une main sur l'épaule de Harry. « Touche la porte, »
+dit M. Lupin.</p>
 <p>Harry tendit une main et s'exécuta.</p>
 <p>Un panneau jaillit comme une fleur à l'éclosion soudaine entre les
 mauvaises herbes enchevêtrées derrière le portail, un panneau de bois
-aux lettres d'or, et qui disait :</p>
+aux lettres d'or, et qui disait :</p>
 <p>Ici, la nuit du 32 Octobre 1981,<br />
 Lily et James Potter ont perdu la vie.</p>
 <p>Ne leur survit que leur fils, Harry Potter,<br />
@@ -328,7 +346,7 @@ en rappel de leur sacrifice.</p>
 <p>Dans l'espace vide sous les lettres d'or étaient inscrits d'autres
 messages, des dizaines, d'une encre magique qui montait à la surface et
 luisait assez longtemps pour être lue avant de s'estomper et de laisser
-place à d'autres messages :</p>
+place à d'autres messages :</p>
 <p>Mon Gideon est enfin vengé</p>
 <p>Merci, Harry Potter. Sois bénis, où que tu sois.</p>
 <p>Nous serons à jamais débiteurs de Harry Potter</p>
@@ -340,14 +358,14 @@ navré.</p>
 <p>Après la nuit vient toujours l'aube.</p>
 <p>Repose sereine, Lily</p>
 <p>Sois béni, Survivant. Tu fus notre miracle.</p>
-<p>"J'imagine..." dit Harry. "J'imagine que c'est ce que les gens font...
-au lieu d'essayer d'arranger les choses..." Harry se tut. Cette pensée
-ne lui sembla pas digne de cet endroit. Il leva les yeux et vit Remus
-Lupin l'observer avec tant de gentillesse que Harry s'arracha à cette
-vue et s'intéressa au toit détruit, explosé.</p>
+<p>« J'imagine... » dit Harry. « J'imagine que c'est ce que les gens
+font... au lieu d'essayer d'arranger les choses... » Harry se tut. Cette
+pensée ne lui sembla pas digne de cet endroit. Il leva les yeux et vit
+Remus Lupin l'observer avec tant de gentillesse que Harry s'arracha à
+cette vue et s'intéressa au toit détruit, explosé.</p>
 <p><em>Tu fus notre miracle</em>. Harry avait toujours entendu utiliser le mot
-'miracle' dans des phrases destinées à indiquer qu'ils n'existaient pas.
-Et pourtant, en regardant cette maison détruite, il sut soudain
+« miracle » dans des phrases destinées à indiquer qu'ils n'existaient
+pas. Et pourtant, en regardant cette maison détruite, il sut soudain
 exactement ce que le mot signifiait, ce soupçon de grâce inexpliquée. Le
 Seigneur des Ténèbres avait presque gagné, puis en une nuit toute la
 terreur, toutes les ténèbres s'étaient achevées, un salut injustifié,
@@ -355,7 +373,7 @@ une aube soudaine jaillie des ténèbres sans que personne ne sache même
 <em>pourquoi</em>...</p>
 <p>Si Lily Potter avait survécu à sa confrontation avec Lord Voldemort,
 c'est ce qu'elle aurait ressenti en voyant que son bébé avait survécu.</p>
-<p>"Allons-y," murmura le bébé, dix ans plus tard.</p>
+<p>« Allons-y, » murmura le bébé, dix ans plus tard.</p>
 <p>Ils partirent.</p>
 <p>L'entrée du cimetière était protégée par un portail sans cadenas, de
 ceux qui maintenaient les animaux à l'écart, avec un endroit où se tenir
@@ -376,69 +394,69 @@ longtemps, pourquoi les sorciers n'ont ils pas essayé de l'empêcher,
 pourquoi n'investissent-ils pas toutes leurs forces dans ce projet comme
 les Moldus dans la recherche médicale, mais avec encore plus
 d'intensité, les sorciers ont de meilleures raisons d'espérer...</em></p>
-<p>"Les Dumbledore vivaient aussi à Godric's Hollow ?" dit Harry lorsqu'ils
-dépassèrent deux pierres relativement neuves marquées <em>Kendra
+<p>« Les Dumbledore vivaient aussi à Godric's Hollow ? » dit Harry
+lorsqu'ils dépassèrent deux pierres relativement neuves marquées <em>Kendra
 Dumbledore</em> et <em>Ariana Dumbledore</em>.</p>
-<p>"Depuis très, très longtemps," dit M. Lupin.</p>
+<p>« Depuis très, très longtemps, » dit M. Lupin.</p>
 <p>Ils s'avancèrent dans le cimetière, en atteignirent presque le bout,
 derrière tous ces morts, tous pleurés.</p>
 <p>Puis M. Lupin indiqua deux pierres tombales jumelles, reliées, d'un
 marbre encore blanc et neuf.</p>
-<p>"Y aura-t-il des messages ici aussi ?" dit Harry. Il ne voulait plus
+<p>« Y aura-t-il des messages ici aussi ? » dit Harry. Il ne voulait plus
 avoir à se confronter à la façon dont les autres se confrontaient à la
 mort.</p>
 <p>M. Lupin secoua la tête.</p>
 <p>Ils s'avancèrent jusqu'aux pierres blanches reliées.</p>
 <p>Et se tint devant...</p>
-<p>"Qu'est-ce c'est ?" chuchota Harry. "Qui... <em>qui a écrit ça ?</em>"</p>
+<p>« Qu'est-ce c'est ? » chuchota Harry. « Qui... <em>qui a écrit ça ?</em> »</p>
 <p>JAMES POTTER<br />
 NÉ LE 28 MARS 1960<br />
 MORT LE 31 OCTOBRE 1981</p>
-<p>"Écrit quoi ?" dit M. Lupin, interloqué.</p>
+<p>« Écrit quoi ? » dit M. Lupin, interloqué.</p>
 <p>LILY POTTER<br />
 NÉE LE 30 JANVIER 1960<br />
 MORTE LE 31 OCTOBRE 1981</p>
-<p>"<em>Ça !</em>" s'écria Harry. "L'<em>inscription !</em>" Des larmes s'amoncelaient
-dans ses yeux, face à la lueur étrangère et inexpliquée, face au soupçon
-de grâce là où il n'y aurait pas dû y en avoir, face à la mystérieuse
-bénédiction, ses larmes s'amoncelaient face à</p>
+<p>« <em>Ça !</em> » s'écria Harry. « L'<em>inscription !</em> » Des larmes
+s'amoncelaient dans ses yeux, face à la lueur étrangère et inexpliquée,
+face au soupçon de grâce là où il n'y aurait pas dû y en avoir, face à
+la mystérieuse bénédiction, ses larmes s'amoncelaient face à</p>
 <p>LE DERNIER ENNEMI QUI SERA DÉTRUIT EST LA MORT</p>
-<p>"Ça ?" dit M. Lupin. "C'est la... devise, j'imagine qu'on pourrait dire
-ça, c'est la devise des Potter. Même si je pense que ça n'a jamais été
-aussi formel que ça. C'est juste un dicton transmis depuis très, très
-longtemps..."</p>
-<p>"C'est... ce..." Harry s'agenouilla tant bien que mal face à la tombe,
-toucha l'inscription d'une main tremblante. "<em>Comment ?</em> Ce genre de
-chose ne peut pas être, être <em>génétique</em>..."</p>
+<p>« Ça ? » dit M. Lupin. « C'est la... devise, j'imagine qu'on pourrait
+dire ça, c'est la devise des Potter. Même si je pense que ça n'a jamais
+été aussi formel que ça. C'est juste un dicton transmis depuis très,
+très longtemps... »</p>
+<p>« C'est... ce... » Harry s'agenouilla tant bien que mal face à la tombe,
+toucha l'inscription d'une main tremblante. « <em>Comment ?</em> Ce genre de
+chose ne peut pas être, être <em>génétique</em>... »</p>
 <p>Puis Harry vit ce que ses larmes avaient brouillées, la légère gravure
 d'une ligne dans un cercle dans un triangle.</p>
 <p>Le symbole des Reliques de la Mort.</p>
 <p>Et Harry comprit.</p>
-<p>"Ils ont essayé," chuchota Harry.</p>
+<p>« Ils ont essayé, » chuchota Harry.</p>
 <p><em>Les trois frères Peverell.</em></p>
 <p><em>Avaient-ils perdu quelqu'un qui leur était précieux, est-ce ainsi que
-cela avait commencé ?</em></p>
-<p>"Ils y ont consacré leur vie, ils ont essayé, ils ont progressé..."</p>
+cela avait commencé ?</em></p>
+<p>« Ils y ont consacré leur vie, ils ont essayé, ils ont progressé... »</p>
 <p><em>La Cape d'Invisibilité, capable d'échapper au regard des Détraqueurs.</em></p>
-<p>"...mais ils n'ont pas terminé leurs recherches..."</p>
+<p>« ...mais ils n'ont pas terminé leurs recherches... »</p>
 <p><em>Se cacher de l'ombre de la Mort ne revient pas à vaincre la Mort
 elle-même. La Pierre de Résurrection ne peut pas réellement faire
 revenir qui que ce soit. La Baguette de Sureau ne protège pas de la
 vieillesse.</em></p>
-<p>"...ils ont alors transmis la mission à leurs enfants et aux enfants de
-leurs enfants."</p>
+<p>« ...ils ont alors transmis la mission à leurs enfants et aux enfants de
+leurs enfants. »</p>
 <p><em>Génération après génération.</em></p>
 <p><em>Jusqu'à en venir à moi.</em></p>
 <p>Le Temps pouvait-il produire de tels échos, rimer entre un futur et un
-passé si lointains ? Cela ne <em>pouvait pas</em> être une coïncidence. Pas ce
+passé si lointains ? Cela ne <em>pouvait pas</em> être une coïncidence. Pas ce
 message, pas ici.</p>
 <p><em>Ma famille.</em></p>
 <p><em>Vous étiez véritablement mon père et ma mère.</em></p>
-<p>"Ça ne parle pas de ressusciter les morts, Harry," dit M. Lupin. "Ça
-parle d'accepter la mort, de pouvoir la dépasser, la maîtriser."</p>
-<p>"Est-ce que James vous a dit ça ?" dit Harry d'une voix étrange.</p>
-<p>"Non," dit M. Lupin, "mais..."</p>
-<p>"Bien."</p>
+<p>« Ça ne parle pas de ressusciter les morts, Harry, » dit M. Lupin. « Ça
+parle d'accepter la mort, de pouvoir la dépasser, la maîtriser. »</p>
+<p>« Est-ce que James vous a dit ça ? » dit Harry d'une voix étrange.</p>
+<p>« Non, » dit M. Lupin, « mais... »</p>
+<p>« Bien. »</p>
 <p>Harry se releva lentement de sa position agenouillée avec la sensation
 de pousser un soleil sur ses épaules, de faire se lever l'aube au-dessus
 de l'horizon.</p>
@@ -446,46 +464,46 @@ de l'horizon.</p>
 n'ai jamais été seul. Ces sentiments que je ressens en moi, ils ne sont
 pas particulièrement spéciaux, pas plus dans le monde des sorciers que
 dans le monde Moldu.</em></p>
-<p>"Harry, ta baguette ?" La voix de M. Lupin s'était soudain agitée, et
+<p>« Harry, ta baguette ? » La voix de M. Lupin s'était soudain agitée, et
 lorsque Harry leva sa baguette pour la regarder de plus près, il vit
 qu'elle luisait, très légèrement, d'une lueur argentée qui suintait du
 bois.</p>
-<p>"Lance le Patronus !" le pressa M. Lupin. "Réessaye de le lancer,
-Harry !"</p>
+<p>« Lance le Patronus ! » le pressa M. Lupin. « Réessaye de le lancer,
+Harry ! »</p>
 <p><em>Ah oui, pour ce qu'il en sait, je ne peux pas...</em></p>
-<p>Harry sourit, rit même un peu. "Il ne vaut mieux pas," dit Harry. "Si
+<p>Harry sourit, rit même un peu. « Il ne vaut mieux pas, » dit Harry. « Si
 j'essayais de lancer le sortilège dans mon état d'esprit actuel, ça me
-tuerait probablement."</p>
-<p>"<em>Quoi ?</em>" dit M. Lupin. "Le Patronus ne fait pas ça !"</p>
+tuerait probablement. »</p>
+<p>« <em>Quoi ?</em> » dit M. Lupin. « Le Patronus ne fait pas ça ! »</p>
 <p>Harry James Potter-Evans-Verres leva sa main gauche, toujours en riant,
 et essuya quelques-unes des larmes.</p>
-<p>"Vous savez, M. Lupin," dit Harry, "il faut vraiment être capable
+<p>« Vous savez, M. Lupin, » dit Harry, « il faut vraiment être capable
 d'interpréter les choses de façon <em>baroque</em> pour pouvoir penser que
 quelqu'un, songeant que la mort est une chose que nous devrions tous
-accepter, communiquerait son état d'esprit en disant : 'Le dernier
-ennemi qui sera détruit est la mort'. Peut-être que quelqu'un a trouvé
+accepter, communiquerait son état d'esprit en disant : "Le dernier
+ennemi qui sera détruit est la mort". Peut-être que quelqu'un a trouvé
 que c'était poétique, qu'il a récupéré la phrase et a tenté de
 l'interpréter différemment, mais celui ou celle qui l'a dit en premier
-n'appréciait pas beaucoup la mort." Harry trouvait parfois mystérieux de
-voir comment les gens étaient capables de ne même pas <em>remarquer</em> qu'ils
-tordaient une phrase jusqu'à lui faire effectuer un revirement complet,
-à l'opposé de sa signification première évidente. Ça ne pouvait pas être
-une question d'intelligence brute, les gens pouvaient comprendre le sens
-évident de la plupart des phrases en anglais. "D'autre part, 'sera
-détruit' fait référence à une situation future, cela ne peut donc pas
-parler de l'état actuel des choses."</p>
-<p>Remus Lupin le regardait avec des yeux écarquillés. "Tu es certainement
-l'enfant de James et Lily," dit l'homme d'un air plutôt stupéfait.</p>
-<p>"Oui, effectivement," dit Harry. Mais ça ne suffisait pas, il devait
+n'appréciait pas beaucoup la mort. » Harry trouvait parfois mystérieux
+de voir comment les gens étaient capables de ne même pas <em>remarquer</em>
+qu'ils tordaient une phrase jusqu'à lui faire effectuer un revirement
+complet, à l'opposé de sa signification première évidente. Ça ne pouvait
+pas être une question d'intelligence brute, les gens pouvaient
+comprendre le sens évident de la plupart des phrases en anglais.
+« D'autre part, "sera détruit" fait référence à une situation future,
+cela ne peut donc pas parler de l'état actuel des choses. »</p>
+<p>Remus Lupin le regardait avec des yeux écarquillés. « Tu es certainement
+l'enfant de James et Lily, » dit l'homme d'un air plutôt stupéfait.</p>
+<p>« Oui, effectivement, » dit Harry. Mais ça ne suffisait pas, il devait
 faire plus, alors il leva sa baguette et dit d'une voix aussi assurée
-que possible : "Je suis Harry James Potter-Evans-Verres, le fils de Lily
-et James Potter de la maison Potter, et j'accepte la quête de ma
-famille. La Mort est mon ennemi et je le vaincrai."</p>
+que possible : « Je suis Harry James Potter-Evans-Verres, le fils de
+Lily et James Potter de la maison Potter, et j'accepte la quête de ma
+famille. La Mort est mon ennemi et je le vaincrai. »</p>
 <p><em>Thrayen beyn Peverlas soona ahnd thrih heera toal thissoom Dath bey
 yewoonen.</em></p>
-<p>"Quoi ?" dit Harry. Les mots étaient apparus dans sa conscience comme
+<p>« Quoi ? » dit Harry. Les mots étaient apparus dans sa conscience comme
 s'ils avaient été l'une de ses pensées, sans autre explication.</p>
-<p>"Qu'est-ce que c'était ?" dit Remus Lupin au même instant.</p>
+<p>« Qu'est-ce que c'était ? » dit Remus Lupin au même instant.</p>
 <p>Harry se retourna, parcourut le cimetière du regard, mais il ne vit
 rien. À côté de lui, M. Lupin faisait de même.</p>
 <p>Aucun d'eux ne remarqua la grande pierre, apparemment vieille de mille
@@ -493,32 +511,28 @@ ans, sur laquelle une ligne dans un cercle dans un triangle luisait,
 très légèrement, d'une couleur argent, semblable à la lumière qui avait
 émané de la baguette de Harry, invisible à cette distance, sous le
 soleil encore radieux.</p>
-<p> </p>
 <hr />
-<p> </p>
-<p><em>Quelques temps plus tard :</em></p>
-<p>"Merci encore, M. Lupin," dit Harry au grand homme légèrement balafré
-qui se préparait à repartir. "Même si j'aurais vraiment aimé que vous
-ne..."</p>
-<p>"Le professeur Dumbledore a dit que je devais te ramener par Portoloin à
-Poudlard si quoi que ce soit d'inhabituel arrivait, que cela ressemble à
-une attaque ou non," dit M. Lupin avec conviction. "Ce qui est fort
-raisonnable."</p>
+<p><em>Quelques temps plus tard :</em></p>
+<p>« Merci encore, M. Lupin, » dit Harry au grand homme légèrement balafré
+qui se préparait à repartir. « Même si j'aurais vraiment aimé que vous
+ne... »</p>
+<p>« Le professeur Dumbledore a dit que je devais te ramener par Portoloin
+à Poudlard si quoi que ce soit d'inhabituel arrivait, que cela ressemble
+à une attaque ou non, » dit M. Lupin avec conviction. « Ce qui est fort
+raisonnable. »</p>
 <p>Harry hocha la tête. Puis, ayant choisi avec soin de prononcer cette
-question en dernier : "Avez-vous la moindre idée de ce que ces mots
-signifiaient ?"</p>
-<p>"Si je le savais, je ne te le dirais pas," dit M. Lupin d'un air plutôt
-sévère. "Certainement pas sans la permission du professeur Dumbledore.
-Je peux comprendre ton impatience, mais tu ne devrais essayer de
-découvrir aucun secret ancestral des Potter avant d'être un adulte.
-C'est à dire après avoir passé des ASPICs, Harry, ou au moins tes BUSEs.
-Et je pense toujours que tu as très mal compris le sens premier de la
-devise de ta famille !"</p>
+question en dernier : « Avez-vous la moindre idée de ce que ces mots
+signifiaient ? »</p>
+<p>« Si je le savais, je ne te le dirais pas, » dit M. Lupin d'un air
+plutôt sévère. « Certainement pas sans la permission du professeur
+Dumbledore. Je peux comprendre ton impatience, mais tu ne devrais
+essayer de découvrir aucun secret ancestral des Potter avant d'être un
+adulte. C'est-à-dire après avoir passé des ASPICs, Harry, ou au moins
+tes BUSEs. Et je pense toujours que tu as très mal compris le sens
+premier de la devise de ta famille ! »</p>
 <p>Harry hocha la tête, soupira intérieurement, et fit ses adieux à M.
 Lupin.</p>
-<p> </p>
 <hr />
-<p> </p>
 <p>Harry retraversa Poudlard en direction de la tour Serdaigle avec une
 sensation étrange, comme s'il était devenu plus fort. Jamais il ne se
 serait attendu à aucun de ces événements, mais ils avaient tous été pour
@@ -527,9 +541,7 @@ le mieux.</p>
 <p>C'est alors que la créature lumineuse vint vers lui, d'un doux blanc qui
 étincelait sous les torches de la salle commune Serdaigle, se glissant
 de nulle part, le serpent blanc.</p>
-<p> </p>
 <hr />
-<p> </p>
 <p>Þregen béon Pefearles suna and þrie hira tól þissum Déað béo gewunen.</p>
 <p>Trois seront les fils Peverell et trois seront leurs instruments au
 moyen desquels la Mort sera vaincue.</p>
@@ -583,6 +595,7 @@ tard Godric's Hollow.</p>
         <script src="../book.js"></script>
 
         <!-- Custom JS scripts -->
+
 
 
     </div>

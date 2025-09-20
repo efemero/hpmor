@@ -36,11 +36,23 @@
             const path_to_root = "../";
             const default_light_theme = "light";
             const default_dark_theme = "navy";
+            window.path_to_searchindex_js = "../searchindex.js";
         </script>
         <!-- Start loading toc.js asap -->
         <script src="../toc.js"></script>
     </head>
     <body>
+    <div id="mdbook-help-container">
+        <div id="mdbook-help-popup">
+            <h2 class="mdbook-help-title">Keyboard shortcuts</h2>
+            <div>
+                <p>Press <kbd>←</kbd> or <kbd>→</kbd> to navigate between chapters</p>
+                <p>Press <kbd>S</kbd> or <kbd>/</kbd> to search in the book</p>
+                <p>Press <kbd>?</kbd> to show this help</p>
+                <p>Press <kbd>Esc</kbd> to hide this help</p>
+            </div>
+        </div>
+    </div>
     <div id="body-container">
         <!-- Work around some values being stored in localStorage wrapped in quotes -->
         <script>
@@ -81,10 +93,13 @@
                 sidebar = sidebar || 'visible';
             } else {
                 sidebar = 'hidden';
+                sidebar_toggle.checked = false;
             }
-            sidebar_toggle.checked = sidebar === 'visible';
-            html.classList.remove('sidebar-visible');
-            html.classList.add("sidebar-" + sidebar);
+            if (sidebar === 'visible') {
+                sidebar_toggle.checked = true;
+            } else {
+                html.classList.remove('sidebar-visible');
+            }
         </script>
 
         <nav id="sidebar" class="sidebar" aria-label="Table of contents">
@@ -118,7 +133,7 @@
                             <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
                             <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
                         </ul>
-                        <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                        <button id="search-toggle" class="icon-button" type="button" title="Search (`/`)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="/ s" aria-controls="searchbar">
                             <i class="fa fa-search"></i>
                         </button>
                     </div>
@@ -135,7 +150,12 @@
 
                 <div id="search-wrapper" class="hidden">
                     <form id="searchbar-outer" class="searchbar-outer">
-                        <input type="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                        <div class="search-wrapper">
+                            <input type="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                            <div class="spinner-wrapper">
+                                <i class="fa fa-spinner fa-spin"></i>
+                            </div>
+                        </div>
                     </form>
                     <div id="searchresults-outer" class="searchresults-outer hidden">
                         <div id="searchresults-header" class="searchresults-header"></div>
@@ -162,7 +182,7 @@ légumes. Il les inspectait nerveusement, à la recherche de la moindre
 trace de viande.</p>
 <p>La réaction avait <em>peut-être</em> été excessive. Après s'être remis du choc
 initial, le bon sens de Harry s'était réveillé et avait émit l'hypothèse
-que "Fourchelangue" n'était probablement qu'une interface linguistique
+que « Fourchelangue » n'était probablement qu'une interface linguistique
 permettant de contrôler les serpents...</p>
 <p>...après tout, les serpents ne pouvaient pas <em>vraiment</em> être aussi
 intelligents que les humains, <em>quelqu'un</em> aurait finit par s'en rendre
@@ -171,44 +191,44 @@ linguistique dont Harry avait jamais entendu parler était celui du
 perroquet gris d'Afrique, entraîné par Irene Pepperberg. Et c'était un
 protolangage sans structure, chez une espèce qui jouait à de complexes
 jeux adultérins et qui devait donc être capable de se représenter
-d'autres perroquets. En revanche, selon les souvenirs de Draco, les
+d'autres perroquets. En revanche, selon les souvenirs de Drago, les
 serpents parlaient Fourchelangue dans ce qui semblait être un langage
-humain normal, c'est à dire avec une grammaire complète et
+humain normal, c'est-à-dire avec une grammaire complète et
 syntaxiquement récursive. Il avait fallut <em>longtemps</em> pour que, par le
 biais de l'évolution, les hominidés acquièrent cette capacité, et ils
 avaient des cerveaux immenses, et de fortes pressions de sélection
 sociale. Pour ce que Harry en savait, les serpents n'avaient pour ainsi
 dire pas de société. Et avec des milliers et des milliers d'espèces
 différentes dans le monde, comment auraient-ils tous pu utiliser la
-<em>même</em> version de leur langage mythique ?</p>
+<em>même</em> version de leur langage mythique ?</p>
 <p>Bien sûr, tout cela n'était que du bon sens, auquel Harry commençait à
 complètement cesser de croire.</p>
 <p>Mais il était certain d'avoir déjà entendu des serpents siffler à la
-télévision - après tout, il devait bien avoir entendu ce son <em>quelque
-part</em> - et <em>ça</em> ne lui avait pas semblé être un langage, ce qui avait
+télévision --- après tout, il devait bien avoir entendu ce son <em>quelque
+part</em> --- et <em>ça</em> ne lui avait pas semblé être un langage, ce qui avait
 été fort rassurant...</p>
-<p>... au début. Le problème, c'était que Draco avait aussi affirmé que les
+<p>... au début. Le problème, c'était que Drago avait aussi affirmé que les
 Fourchelangue pouvaient aussi envoyer des serpents exécuter des missions
 complexes. Et si c'était vrai, alors il fallait que les Fourchelangue
 rendent les serpents <em>intelligents de façon permanente</em> en leur parlant.
 Dans le pire des cas, cela rendrai le serpent conscient de sa propre
 existence, comme ce que Harry avait accidentellement fait au Choixpeau.</p>
-<p>Et quand Harry avait offert <em>cette</em> hypothèse, Draco avait prétendu se
-souvenir d'une histoire - Harry priait Cthulhu pour que <em>celle-ci</em> ne
+<p>Et quand Harry avait offert <em>cette</em> hypothèse, Drago avait prétendu se
+souvenir d'une histoire --- Harry priait Cthulhu pour que <em>celle-ci</em> ne
 soit qu'un compte de fée, elle y ressemblait, mais l'histoire <em>existait</em>
-quand même - disant que Salazar Serpentard avait envoyé une jeune et
+quand même --- disant que Salazar Serpentard avait envoyé une jeune et
 brave vipère <em>collecter des informations auprès d'autres serpents.</em></p>
 <p>Si un serpent auquel un Fourchelangue avait parlé pouvait rendre
 d'<em>autres</em> serpents conscients de leur propre existence en <em>leur</em>
 parlant, alors...</p>
 <p>Alors...</p>
 <p>Harry ne savait même pas pourquoi son cerveau continuait de dire
-"alors... alors..." puisqu'il savait parfaitement bien comment la
+« alors... alors... » puisqu'il savait parfaitement bien comment la
 progression exponentielle fonctionnerait, c'était juste que l'horreur
 morale profonde de la situation bloquait son esprit.</p>
 <p>Et si quelqu'un avait inventé un sort similaire permettant de parler aux
-vaches ?</p>
-<p>Et s'il y avait des Volaillelangue ?</p>
+vaches ?</p>
+<p>Et s'il y avait des Volaillelangue ?</p>
 <p>Ou tant qu'on y était...</p>
 <p>Harry se figea sous l'effet de la compréhension soudaine, alors même
 qu'une pleine fourchetée de carottes était sur le point d'entrer dans sa
@@ -223,15 +243,13 @@ tout comme ça ne lui était même pas venu à l'esprit que les <em>nés-Moldus<
 puissent être assez intelligents pour mériter d'avoir des droits. La
 plupart des gens ne remarquaient même pas qu'un problème moral existait
 tant qu'on ne le leur avait pas directement montré...</p>
-<p>"Harry ?" dit Terry, à côté de lui, comme s'il avait peur d'être sur le
-point de regretter d'avoir posé la question. "Pourquoi est-ce que tu
-regardes ta fourchette comme ça ?"</p>
-<p>"Je commence à penser que la magie devrait être illégale," dit Harry.
-"Au fait, est-ce que tu as déjà entendu des histoires au sujet de
-sorciers capables de parler aux plantes ?"</p>
-<p> </p>
+<p>« Harry ? » dit Terry, à côté de lui, comme s'il avait peur d'être sur
+le point de regretter d'avoir posé la question. « Pourquoi est-ce que tu
+regardes ta fourchette comme ça ? »</p>
+<p>« Je commence à penser que la magie devrait être illégale, » dit Harry.
+« Au fait, est-ce que tu as déjà entendu des histoires au sujet de
+sorciers capables de parler aux plantes ? »</p>
 <hr />
-<p> </p>
 <p>Terry n'avait jamais rien entendu de cet acabit.</p>
 <p>Pas plus qu'aucun des autres Serdaigle de septième année auxquels Harry
 avait posé la question.</p>
@@ -247,10 +265,10 @@ des volailles n'est pas si élevée que</em> ça <em>comparée à la probabilit�
 qu'il l'ait fait sur des plantes, alors, puisque de toute façon tu en es
 à manger de la nourriture dont la sentience est soupçonnable, pourquoi
 ne pas manger ces délicieuses tranches de Dirico grillées dans
-l'huile ?</em></p>
+l'huile ?</em></p>
 <p><em>Je ne suis pas sûr que ce soit de la bonne logique utilitariste, là -</em></p>
-<p><em>Oh, tu veux de la logique utilitariste ? Eh bien en voilà une bonne
-part : même au cas peu probable où un abruti</em> aurait <em>réussi à conférer
+<p><em>Oh, tu veux de la logique utilitariste ? Eh bien en voilà une bonne
+part : même au cas peu probable où un abruti</em> aurait <em>réussi à conférer
 la sentience aux poulets, c'est</em> tes <em>recherches qui ont le plus de
 chances de le découvrir et de faire quelque chose à ce sujet. Si tu peux
 finir ton travail, même un peu plus vite, en ne chamboulant</em> pas <em>ton
@@ -262,33 +280,33 @@ Ce n'est pas comme si les elfes de maison n'avaient pas déjà préparé la
 nourriture, que tu la mettes dans ton assiette ou pas.</em></p>
 <p>Harry considéra cela pendant un moment. C'était un raisonnement
 séduisant -</p>
-<p><em>Bien !</em> dit Serpentard. <em>Je suis heureux que tu voies maintenant que le
+<p><em>Bien !</em> dit Serpentard. <em>Je suis heureux que tu voies maintenant que le
 choix moral est de sacrifier la vie d'êtres sentients pour ton confort
 personnel, pour nourrir tes appétits morbides, pour le plaisir ancestral
 de les déchirer de tes dents -</em></p>
-<p><em>Quoi ?</em> pensa Harry avec indignation. <em>Tu es dans quel camp, là ?</em></p>
+<p><em>Quoi ?</em> pensa Harry avec indignation. <em>Tu es dans quel camp, là ?</em></p>
 <p>La voix de son Serpentard mental était sinistre. <em>Toi aussi tu ouvriras
 un jour les bras à la doctrine selon laquelle... la faim justifie les
 moyens.</em> Ceci fut suivit par une sorte de rire sarcastique mental.</p>
 <p>Depuis que Harry avait commencé à s'inquiéter de la possibilité que les
 plantes soient sentientes, ses composants non-Serdaigle avaient eu du
 mal à prendre ses doutes moraux au sérieux. Poufsouffle criait
-<em>Cannibalisme !</em> à chaque fois que Harry essayait de penser à quelque
+<em>Cannibalisme !</em> à chaque fois que Harry essayait de penser à quelque
 chose de comestible, et Gryffondor visualisait cette nourriture en train
 de crier, même s'il s'agissait d'un sandwich -</p>
-<p><em>Cannibalisme !</em></p>
+<p><em>Cannibalisme !</em></p>
 <p><em>AAAIIEEEEEE NE ME MANGE PAS -</em></p>
-<p><em>Ignore les cris, mange-le quand même ! C'est le genre de situation où
+<p><em>Ignore les cris, mange-le quand même ! C'est le genre de situation où
 il faut compromettre son éthique au service de ses idéaux,</em> tout le
 monde <em>pense que c'est normal de manger des sandwiches alors tu ne peux
 pas utiliser ta rationalisation habituelle au sujet de la faible
 probabilité d'un grand désavantage dans le cas où tu serais pris -</em></p>
-<p>Harry laissa échapper un soupir mental et pensa : <em>Tant ça ne te dérange
+<p>Harry laissa échapper un soupir mental et pensa : <em>Tant ça ne te dérange
 pas que</em> nous <em>soyons dévorés par des monstres géants qui n'ont pas
 assez faits de recherches pour découvrir si on était sentients ou pas.</em></p>
-<p><em>Ça ne me dérange pas</em>, dit Serpentard. <em>Ça ne dérange personne ?</em>
+<p><em>Ça ne me dérange pas</em>, dit Serpentard. <em>Ça ne dérange personne ?</em>
 Hochements de tête mentaux. <em>Génial, on peut en revenir aux tranches de
-Dirico plongées dans l'huile bouillante maintenant ?</em></p>
+Dirico plongées dans l'huile bouillante maintenant ?</em></p>
 <p><em>Pas avant que j'ai fait quelques recherches pour découvrir ce qui est
 sentient et ce qui ne l'est pas. Maintenant la ferme.</em> Et Harry se
 détourna d'un geste volontaire de son assiette pleine de légumes si
@@ -299,34 +317,32 @@ tentants avant de se diriger vers la bibliothèque -</p>
 jeunes sont les plus goûtus.</em></p>
 <p>Harry commençait à se demander si le Détraqueur n'était pas parvenu à
 endommager ses personnalités imaginaires.</p>
-<p> </p>
 <hr />
-<p> </p>
-<p>"<em>Franchement,</em>" dit Hermione d'une voix acerbe tandis que son regard
+<p>« <em>Franchement,</em> » dit Hermione d'une voix acerbe tandis que son regard
 scannait les rayons de Botanique de la bibliothèque de Poudlard. Harry
 lui avait laissé un message lui demandant si elle pouvait se rendre à la
-bibliothèque après le petit déjeuner que lui-même avait sauté ; mais
+bibliothèque après le petit déjeuner que lui-même avait sauté ; mais
 lorsque Harry avait introduit le sujet du jour, elle avait semblé un peu
-décontenancée. "Tu sais ce que c'est ton problème, Harry ? Tu n'a aucun
+décontenancée. « Tu sais ce que c'est ton problème, Harry ? Tu n'a aucun
 sens des priorités. Une idée te vient et tu dois tout de suite la
-poursuivre."</p>
-<p>"J'ai un <em>excellent</em> sens des priorités," dit Harry. Sa main s'avança et
-il attrapa <em>Rouerie végétale</em>, de Casey McNama, puis il commença à faire
-défiler les premières pages, à la recherche de la table des matières.
-"C'est pourquoi je veux découvrir si les plantes peuvent parler <em>avant</em>
-de manger mes carottes."</p>
-<p>"Tu ne penses pas qu'on a peut-être des choses plus <em>importantes</em> à
-faire ?"</p>
-<p><em>On dirait Draco</em>, pensa Harry, mais il ne le dit évidemment pas. Ce
-qu'il dit fut : "Qu'est qui <em>pourrait</em> être plus importante que la
-découverte que les plantes sont sentientes ?"</p>
+poursuivre. »</p>
+<p>« J'ai un <em>excellent</em> sens des priorités, » dit Harry. Sa main s'avança
+et il attrapa <em>Rouerie végétale</em>, de Casey McNama, puis il commença à
+faire défiler les premières pages, à la recherche de la table des
+matières. « C'est pourquoi je veux découvrir si les plantes peuvent
+parler <em>avant</em> de manger mes carottes. »</p>
+<p>« Tu ne penses pas qu'on a peut-être des choses plus <em>importantes</em> à
+faire ? »</p>
+<p><em>On dirait Drago</em>, pensa Harry, mais il ne le dit évidemment pas. Ce
+qu'il dit fut : « Qu'est qui <em>pourrait</em> être plus importante que la
+découverte que les plantes sont sentientes ? »</p>
 <p>Il y eut un silence éloquent, et il baissa les yeux sur la table des
 matières. Il y avait bien un chapitre sur le langage des plantes, ce qui
-fit manquer un battement à son cœur ; et ses mains commencèrent alors à
+fit manquer un battement à son cœur ; et ses mains commencèrent alors à
 rapidement tourner les pages, en direction du bon numéro.</p>
-<p>"Parfois," dit Hermione Granger, "je n'ai vraiment, mais alors vraiment
-aucune idée de ce qui se passe dans ta tête."</p>
-<p>"Écoute, c'est une question de multiplication. Il y a <em>beaucoup</em> de
+<p>« Parfois, » dit Hermione Granger, « je n'ai vraiment, mais alors
+vraiment aucune idée de ce qui se passe dans ta tête. »</p>
+<p>« Écoute, c'est une question de multiplication. Il y a <em>beaucoup</em> de
 plantes dans le monde, et si elles ne sont <em>pas</em> sentientes alors elles
 n'ont pas d'importance, mais si les plantes <em>sont</em> des gens, alors cela
 leur donne plus de poids moral que toute l'humanité réunie. Bien sûr,
@@ -340,22 +356,22 @@ quatre-vingt dollars. En d'autres termes, aucune différence. Ça
 s'appelle l'insensibilité à l'échelle. Ton cerveau imagine un seul
 oiseau luttant dans une mare de pétrole, et cette image créée une
 quantité donnée d'émotion qui détermine ce que tu es prête à payer. Mais
-personne ne peut visualiser ne serait-ce que deux mille"quelque chose",
-alors la <em>quantité</em> est immédiatement évacuée. Essaie maintenant de
-<em>corriger</em> ce biais pour <em>cent billions</em> de brins d'herbe sentients, et
-tu comprendras qu'ils pourraient avoir des milliers de fois plus
-d'importance que celle que nous accordions à l'espèce humaine... oh,
-Azathot merci, ça dit qu'il ne s'agit que de quelques plantes magiques
-capables de parler et qu'elles parlent le langage humain à voix haute,
-pas qu'il existe un sort permettant de parler à <em>n'importe quelle</em>
-plante -"</p>
-<p>"Ron est venu me voir au petit déjeuner hier matin," dit Hermione. Sa
+personne ne peut visualiser ne serait-ce que deux mille »quelque
+chose« , alors la <em>quantité</em> est immédiatement évacuée. Essaie
+maintenant de <em>corriger</em> ce biais pour <em>cent billions</em> de brins d'herbe
+sentients, et tu comprendras qu'ils pourraient avoir des milliers de
+fois plus d'importance que celle que nous accordions à l'espèce
+humaine... oh, Azathot merci, ça dit qu'il ne s'agit que de quelques
+plantes magiques capables de parler et qu'elles parlent le langage
+humain à voix haute, pas qu'il existe un sort permettant de parler à
+<em>n'importe quelle</em> plante --- »</p>
+<p>« Ron est venu me voir au petit déjeuner hier matin, » dit Hermione. Sa
 voix était à présent un peu étouffée, un peu triste, et peut-être même
-un peu effrayée. "Il a dit que te voir m'embrasser l'avait mortifié. Que
-ce que tu avais dit quand tu étais Détraqué aurait dû me montrer tout le
-mal que tu cachais à l'intérieur de toi. Et que si je comptais être la
-disciple d'un Mage Noir, alors il ne comptait certainement plus faire
-partie de mon armée."</p>
+un peu effrayée. « Il a dit que te voir m'embrasser l'avait mortifié.
+Que ce que tu avais dit quand tu étais Détraqué aurait dû me montrer
+tout le mal que tu cachais à l'intérieur de toi. Et que si je comptais
+être la disciple d'un Mage Noir, alors il ne comptait certainement plus
+faire partie de mon armée. »</p>
 <p>Les mains de Harry cessèrent de tourner les pages. Il semblait que le
 cerveau de Harry, en dépit de tout son savoir abstrait, était toujours
 incapable d'apprécier des différences d'échelle à un niveau
@@ -364,99 +380,100 @@ attention, loin de billions de brins d'herbes peut-être sentients qui
 pouvaient être en train de souffrir, voir de mourir à l'instant même,
 vers la vie d'un seul être humain qui se trouvait être plus proche et
 lui être plus cher.</p>
-<p>"Ron est le plus grand des crétins," dit Harry. "Et ça ne risque pas de
-paraître dans les journaux, parce que ce n'est pas une nouvelle. Alors
-après que tu l'ais viré, combien de ses bras et de ses jambes as-tu
-brisés ?"</p>
-<p>"J'ai essayé de lui dire que les choses n'étaient pas ce qu'elles
-semblaient être," dit Hermione de la même petite voix. "j'ai essayé de
+<p>« Ron est le plus grand des crétins, » dit Harry. « Et ça ne risque pas
+de paraître dans les journaux, parce que ce n'est pas une nouvelle.
+Alors après que tu l'ais viré, combien de ses bras et de ses jambes
+as-tu brisés ? »</p>
+<p>« J'ai essayé de lui dire que les choses n'étaient pas ce qu'elles
+semblaient être, » dit Hermione de la même petite voix. « j'ai essayé de
 lui dire que <em>tu</em> n'est pas comme ça, et que ce n'était pas comme ça
 entre nous, mais ça n'a semblé faire que le... le renforcer dans ses
-convictions."</p>
-<p>"Eh bien oui," dit Harry. Il était surpris de n'être pas plus en colère
-contre le capitaine Weasley, mais sa préoccupation pour Hermione
-semblait prendre le dessus pour le moment. "Plus tu essaies de te
+convictions. »</p>
+<p>« Eh bien oui, » dit Harry. Il était surpris de n'être pas plus en
+colère contre le capitaine Weasley, mais sa préoccupation pour Hermione
+semblait prendre le dessus pour le moment. « Plus tu essaies de te
 justifier auprès de ce genre de personne, plus cela entérine le fait
 qu'ils ont le <em>droit</em> de te remettre en question. Ça montre que tu
 penses qu'ils peuvent être tes inquisiteurs, et une fois que tu donnes
 ce genre de pouvoir à quelqu'un, il ne va faire qu'insister encore et
-encore." C'était l'une des leçons de Draco Malfoy que Harry avait
-trouvées assez intelligentes : les gens qui <em>essayaient</em> de se défendre
+encore. » C'était l'une des leçons de Drago Malefoy que Harry avait
+trouvées assez intelligentes : les gens qui <em>essayaient</em> de se défendre
 se faisaient interroger sur chaque petit détail et n'arrivaient jamais à
-satisfaire leurs interrogateurs ; mais si vous faisiez clairement sentir
+satisfaire leurs interrogateurs ; mais si vous faisiez clairement sentir
 dès le début que vous étiez une célébrité au-dessus des conventions
 sociales, l'esprit des gens ne se fatiguerait pas à prendre note de
-toutes les entorses aux règles. "C'est pourquoi quand Ron est venu <em>me</em>
+toutes les entorses aux règles. « C'est pourquoi quand Ron est venu <em>me</em>
 voir, quand j'étais assis à la table Serdaigle, et qu'il m'a dit de
-rester loin de toi, j'ai mis ma main au-dessus du sol et j'ai dit 'Tu
-vois la hauteur où j'ai mis ma main ? C'est le niveau d'intelligence
-minimum pour avoir le droit de me parler.' Et alors il m'a accusé de, je
+rester loin de toi, j'ai mis ma main au-dessus du sol et j'ai dit "Tu
+vois la hauteur où j'ai mis ma main ? C'est le niveau d'intelligence
+minimum pour avoir le droit de me parler." Et alors il m'a accusé de, je
 cite, t'aspirer dans les ténèbres, fin de citation, alors j'ai resserré
 mes lèvres et j'ai fait <em>shluuuuurp</em> et après ça sa bouche faisait
 encore ces bruits en forme de parole alors j'ai lancé un Silencio. Je ne
-pense pas qu'il essaiera à nouveau de me faire la morale."</p>
-<p>"Je comprends pourquoi tu as fait ça," dit Hermione d'une voix pincée,
-"je <em>voulais</em> le renvoyer, moi aussi, mais j'aurais vraiment aimé que tu
-ne le fasses pas, ça va rendre les choses plus difficiles pour <em>moi</em>,
-Harry !"</p>
+pense pas qu'il essaiera à nouveau de me faire la morale. »</p>
+<p>« Je comprends pourquoi tu as fait ça, » dit Hermione d'une voix pincée,
+« je <em>voulais</em> le renvoyer, moi aussi, mais j'aurais vraiment aimé que
+tu ne le fasses pas, ça va rendre les choses plus difficiles pour <em>moi</em>,
+Harry ! »</p>
 <p>Ce dernier releva de nouveau les yeux de <em>Roueries Végétales</em>, de toute
-façon il n'avançait pas dans sa lecture ; et il vit que Hermione lisait
+façon il n'avançait pas dans sa lecture ; et il vit que Hermione lisait
 toujours son livre, qu'elle ne le regardait pas. Alors même qu'il
 regardait, les mains de cette dernière tournèrent une autre page.</p>
-<p>"Je pense que tu as choisi une mauvaise approche en essayant de te
-défendre," dit Harry. "Vraiment. Tu es qui tu es. Tu es l'amie de qui tu
-veux. Dis à tous ceux qui questionnent cela de mettre leur questions où
-je pense."</p>
+<p>« Je pense que tu as choisi une mauvaise approche en essayant de te
+défendre, » dit Harry. « Vraiment. Tu es qui tu es. Tu es l'amie de qui
+tu veux. Dis à tous ceux qui questionnent cela de mettre leur questions
+où je pense. »</p>
 <p>Hermione se contenta de secouer la tête, et elle tourna une autre page.</p>
-<p>"Option deux," dit Harry. "Vas voir Fred et George et dis leur d'avoir
-une petite conversation avec leur frère difficile, <em>ces deux-là</em> sont
-vraiment des mecs bien -"</p>
-<p>"Il ne s'agit pas que de Ron," dit Hermione, presque dans un murmure.
-"Plein de gens disent ça, Harry. Même Mandy me regarde d'un air inquiet
-quand elle pense que je ne regarde pas. C'est drôle, non ? Je n'arrête
+<p>« Option deux, » dit Harry. « Vas voir Fred et George et dis leur
+d'avoir une petite conversation avec leur frère difficile, <em>ces deux-là</em>
+sont vraiment des mecs bien --- »</p>
+<p>« Il ne s'agit pas que de Ron, » dit Hermione, presque dans un murmure.
+« Plein de gens disent ça, Harry. Même Mandy me regarde d'un air inquiet
+quand elle pense que je ne regarde pas. C'est drôle, non ? Je n'arrête
 pas de m'inquiéter à l'idée que le professeur Quirrell puisse t'aspirer
 dans les ténèbres, et maintenant les gens me mettent en garde exactement
-comme j'essaie de le faire pour toi."</p>
-<p>"Ben <em>ouais</em>," dit Harry. "Est-ce que ça ne te rassure pas un peu sur le
-professeur Quirrell et moi ?"</p>
-<p>"En un mot," dit Hermione, "non."</p>
+comme j'essaie de le faire pour toi. »</p>
+<p>« Ben <em>ouais</em>, » dit Harry. « Est-ce que ça ne te rassure pas un peu sur
+le professeur Quirrell et moi ? »</p>
+<p>« En un mot, » dit Hermione, « non. »</p>
 <p>Il y eut un silence qui dura assez pour que Hermione tourne une autre
-page, puis sa voix, un vrai chuchotement cette fois-ci, "et, et Padma
+page, puis sa voix, un vrai chuchotement cette fois-ci, « et, et Padma
 court partout en disant que, que puisque je n'ai pas pu lancer le
 P-Patronus, ça veut dire que je fais seulement s-semblant d'être
-g-gentille..."</p>
-<p>"Padma n'a même pas <em>essayé</em> !" dit Harry d'un ton indigné. "Si tu étais
-une Mage Noire qui faisait seulement semblant, tu n'aurais pas <em>essayé</em>
-devant tout le monde, est-ce qu'ils pensent que tu es <em>stupide</em> ?"</p>
+g-gentille... »</p>
+<p>« Padma n'a même pas <em>essayé</em> ! » dit Harry d'un ton indigné. « Si tu
+étais une Mage Noire qui faisait seulement semblant, tu n'aurais pas
+<em>essayé</em> devant tout le monde, est-ce qu'ils pensent que tu es
+<em>stupide</em> ? »</p>
 <p>Hermione sourit un peu et cligna plusieurs fois des yeux.</p>
-<p>"Hé, <em>moi</em> je dois m'inquiéter de la possibilité que je devienne
+<p>« Hé, <em>moi</em> je dois m'inquiéter de la possibilité que je devienne
 <em>vraiment</em> maléfique. <em>Là</em>, le scénario catastrophe, c'est que les gens
 pensent que tu es plus maléfique que tu ne l'es en réalité. Est-ce que
-ça va te tuer ? Je veux dire, est-ce que c'est si <em>grave</em> que ça ?"</p>
+ça va te tuer ? Je veux dire, est-ce que c'est si <em>grave</em> que ça ? »</p>
 <p>La jeune fille hocha la tête, le visage renfrogné.</p>
-<p>"Écoute Hermione... si tu t'inquiètes tant de ce que les gens pensent,
+<p>« Écoute Hermione... si tu t'inquiètes tant de ce que les gens pensent,
 si tu es malheureuse à chaque fois que les gens ne te voient pas
 exactement de la même façon que tu te vois toi-même, alors tu t'es
 <em>déjà</em> condamnée au malheur. Personne ne nous voit jamais comme nous
-nous voyons nous-même."</p>
-<p>"Je ne sais pas comment t'expliquer," dit Hermione d'une voix douce. "Je
-ne sais pas si c'est quelque chose que tu pourras un jour comprendre.
-Tout ce que je peux te dire c'est : comment te sentirais-tu si <em>je</em>
-pensais que tu étais maléfique ?"</p>
-<p>"Euh..." Harry le visualisa. "Oui, ça me <em>ferait</em> mal. Beaucoup. Mais tu
-es quelqu'un de bien qui pense intelligemment à ce genre de choses, tu
-as <em>mérité</em> ce pouvoir sur moi, ça <em>voudrait dire</em> quelque chose si tu
-pensais que je m'étais égaré. Je n'arrive pas à imaginer un seul élève,
-à part toi, dont l'opinion m'importerait autant -"</p>
-<p>"Tu peux vivre comme ça," chuchota Hermione Granger. "Moi pas."</p>
+nous voyons nous-même. »</p>
+<p>« Je ne sais pas comment t'expliquer, » dit Hermione d'une voix douce.
+« Je ne sais pas si c'est quelque chose que tu pourras un jour
+comprendre. Tout ce que je peux te dire c'est : comment te sentirais-tu
+si <em>je</em> pensais que tu étais maléfique ? »</p>
+<p>« Euh... » Harry le visualisa. « Oui, ça me <em>ferait</em> mal. Beaucoup. Mais
+tu es quelqu'un de bien qui pense intelligemment à ce genre de choses,
+tu as <em>mérité</em> ce pouvoir sur moi, ça <em>voudrait dire</em> quelque chose si
+tu pensais que je m'étais égaré. Je n'arrive pas à imaginer un seul
+élève, à part toi, dont l'opinion m'importerait autant --- »</p>
+<p>« Tu peux vivre comme ça, » chuchota Hermione Granger. « Moi pas. »</p>
 <p>La fille avait lu trois autre pages en silence, et Harry en était revenu
 à son livre, essayant de garder sa concentration, quand Hermione dit
-enfin, d'une petite voix : "Es-tu vraiment certain que je ne dois pas
-savoir comment lancer le Patronus ?"</p>
-<p>"Je..." Harry dut avaler une boule dans sa gorge. Il se vit soudain,
+enfin, d'une petite voix : « Es-tu vraiment certain que je ne dois pas
+savoir comment lancer le Patronus ? »</p>
+<p>« Je... » Harry dut avaler une boule dans sa gorge. Il se vit soudain,
 lui, ne sachant <em>pas</em> pourquoi il n'arrivait pas à lancer le Patronus,
-ne pouvant <em>pas</em> le montrer à Draco, se faisant dire qu'il y avait une
-raison, ne sachant rien de plus. "Hermione, ton Patronus brillerait de
+ne pouvant <em>pas</em> le montrer à Drago, se faisant dire qu'il y avait une
+raison, ne sachant rien de plus. « Hermione, ton Patronus brillerait de
 la même lumière mais il ne serait pas <em>normal</em>, il ne ressemblerait pas
 à ce que les gens attendent d'un Patronus, tous ceux qui le verraient
 sauraient que ce n'est pas normal. Même si je te donnais le secret tu ne
@@ -464,24 +481,24 @@ pourrais pas le <em>démontrer</em> à qui que ce soit, à moins de les faire
 regarder ailleurs, pour qu'ils puissent seulement voir la lumière, et...
 et la partie la plus importante d'un secret, c'est de savoir que le
 secret existe, tu pourrais seulement le montrer à un ou deux amis, si tu
-les faisais promettre..." La voix de Harry resta en suspens.</p>
-<p>"J'accepte." Sa voix était encore étouffée.</p>
+les faisais promettre... » La voix de Harry resta en suspens.</p>
+<p>« J'accepte. » Sa voix était encore étouffée.</p>
 <p>Harry eut beaucoup de mal à ne pas lui dire le secret, ici, dans la
 bibliothèque.</p>
-<p>"Je, je ne devrais pas, je ne devrais <em>vraiment</em> pas, c'est <em>dangereux</em>,
-Hermione, ça pourrait causer beaucoup de dommages si le secret était
-éventé ! Tu n'as pas entendu le dicton, trois personnes peuvent garder
-un secret si deux d'entre elles sont mortes ? Qu'essayer de le dire
-seulement à tes amis les plus proches, c'est comme de le dire à tout le
-monde, parce que tu ne fais pas confiance qu'à eux, tu fais aussi
-confiance à tous ceux en qui ils ont confiance ? C'est trop important,
-le risque est trop grand, ce n'est pas le genre de décision qui devrait
-être prise dans le but d'arranger la réputation de quelqu'un à l'école
-!"</p>
-<p>"D'accord," dit Hermione. Elle ferma le livre et le remit sur l'étagère.
-"Je ne peux pas me concentrer Harry, je suis désolée."</p>
-<p>"S'il y a <em>quoi que ce soit</em> d'autre que je puisse faire -"</p>
-<p>"Sois plus gentil avec tout le monde."</p>
+<p>« Je, je ne devrais pas, je ne devrais <em>vraiment</em> pas, c'est
+<em>dangereux</em>, Hermione, ça pourrait causer beaucoup de dommages si le
+secret était éventé ! Tu n'as pas entendu le dicton, trois personnes
+peuvent garder un secret si deux d'entre elles sont mortes ? Qu'essayer
+de le dire seulement à tes amis les plus proches, c'est comme de le dire
+à tout le monde, parce que tu ne fais pas confiance qu'à eux, tu fais
+aussi confiance à tous ceux en qui ils ont confiance ? C'est trop
+important, le risque est trop grand, ce n'est pas le genre de décision
+qui devrait être prise dans le but d'arranger la réputation de quelqu'un
+à l'école ! »</p>
+<p>« D'accord, » dit Hermione. Elle ferma le livre et le remit sur
+l'étagère. « Je ne peux pas me concentrer Harry, je suis désolée. »</p>
+<p>« S'il y a <em>quoi que ce soit</em> d'autre que je puisse faire --- »</p>
+<p>« Sois plus gentil avec tout le monde. »</p>
 <p>Elle ne se retourna pas en quittant la bibliothèque, ce qui fut
 peut-être une bonne chose, parce que le garçon était figé sur place,
 immobile.</p>
@@ -533,6 +550,7 @@ immobile.</p>
         <script src="../book.js"></script>
 
         <!-- Custom JS scripts -->
+
 
 
     </div>

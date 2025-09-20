@@ -36,11 +36,23 @@
             const path_to_root = "../";
             const default_light_theme = "light";
             const default_dark_theme = "navy";
+            window.path_to_searchindex_js = "../searchindex.js";
         </script>
         <!-- Start loading toc.js asap -->
         <script src="../toc.js"></script>
     </head>
     <body>
+    <div id="mdbook-help-container">
+        <div id="mdbook-help-popup">
+            <h2 class="mdbook-help-title">Keyboard shortcuts</h2>
+            <div>
+                <p>Press <kbd>←</kbd> or <kbd>→</kbd> to navigate between chapters</p>
+                <p>Press <kbd>S</kbd> or <kbd>/</kbd> to search in the book</p>
+                <p>Press <kbd>?</kbd> to show this help</p>
+                <p>Press <kbd>Esc</kbd> to hide this help</p>
+            </div>
+        </div>
+    </div>
     <div id="body-container">
         <!-- Work around some values being stored in localStorage wrapped in quotes -->
         <script>
@@ -81,10 +93,13 @@
                 sidebar = sidebar || 'visible';
             } else {
                 sidebar = 'hidden';
+                sidebar_toggle.checked = false;
             }
-            sidebar_toggle.checked = sidebar === 'visible';
-            html.classList.remove('sidebar-visible');
-            html.classList.add("sidebar-" + sidebar);
+            if (sidebar === 'visible') {
+                sidebar_toggle.checked = true;
+            } else {
+                html.classList.remove('sidebar-visible');
+            }
         </script>
 
         <nav id="sidebar" class="sidebar" aria-label="Table of contents">
@@ -118,7 +133,7 @@
                             <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
                             <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
                         </ul>
-                        <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                        <button id="search-toggle" class="icon-button" type="button" title="Search (`/`)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="/ s" aria-controls="searchbar">
                             <i class="fa fa-search"></i>
                         </button>
                     </div>
@@ -135,7 +150,12 @@
 
                 <div id="search-wrapper" class="hidden">
                     <form id="searchbar-outer" class="searchbar-outer">
-                        <input type="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                        <div class="search-wrapper">
+                            <input type="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                            <div class="spinner-wrapper">
+                                <i class="fa fa-spinner fa-spin"></i>
+                            </div>
+                        </div>
                     </form>
                     <div id="searchresults-outer" class="searchresults-outer hidden">
                         <div id="searchresults-header" class="searchresults-header"></div>
@@ -157,7 +177,7 @@
                     <main>
                         <h1 id="tais-toi-et-accomplis-limpossible"><a class="header" href="#tais-toi-et-accomplis-limpossible">Tais-toi et accomplis l'impossible</a></h1>
 <p>La lune gibbeuse levée dans le ciel sans nuage, la majesté des étoiles
-et de la Voie Lactée visibles dans les ténèbres : voilà ce qui
+et de la Voie Lactée visibles dans les ténèbres : voilà ce qui
 illuminait le cimetière, qui observait la scène, depuis d'inimaginables
 distances.</p>
 <p>À l'instant où Harry avait compris qu'il ne pourrait pas sauver tout le
@@ -167,88 +187,88 @@ devenues un but en occupant chaque recoin.</p>
 <p>Quarante secondes.</p>
 <p>Le regard de Harry se déplaça lentement jusqu'à tomber sur le premier
 Mangemort, le plus proche de lui.</p>
-<p>Trente secondes ?</p>
-<p>Vingt secondes ?</p>
-<p>"<em>Le temps est pressque écoulé...</em>" siffla Voldemort.</p>
-<p>"<em>Je connais des ssecrets que vous aimeriez connaître,</em>" répondit Harry
-en Fourchelangue sans regarder directement le Seigneur des Ténèbres.
-"<em>Mais je pensse qu'à vos yeux, le plus précieux sserait mes idées ssur
-la façon dont le monde pourrait être détruit. Pourtant partager ces
-idées pourrait mener à cette destruction. Je ne connais pas la
-prophétie, mais ss'il y en a une, cela augmente la probabilité que mes
-actes aient cet effet. Ou alors, vous parler empêchera la desstruction
-du monde, puissque vous ssemblez enclin à l'éviter. Je n'ai pas le droit
-de prendre une telle déscision. J'ai besoin d'éveiller et de conssulter
-amie fille-enfant. Sserment le requiert.</em>"</p>
+<p>Trente secondes ?</p>
+<p>Vingt secondes ?</p>
+<p>« <em>Le temps est pressque écoulé...</em> » siffla Voldemort.</p>
+<p>« <em>Je connais des ssecrets que vous aimeriez connaître,</em> » répondit
+Harry en Fourchelangue sans regarder directement le Seigneur des
+Ténèbres. « <em>Mais je pensse qu'à vos yeux, le plus précieux sserait mes
+idées ssur la façon dont le monde pourrait être détruit. Pourtant
+partager ces idées pourrait mener à cette destruction. Je ne connais pas
+la prophétie, mais ss'il y en a une, cela augmente la probabilité que
+mes actes aient cet effet. Ou alors, vous parler empêchera la
+desstruction du monde, puissque vous ssemblez enclin à l'éviter. Je n'ai
+pas le droit de prendre une telle déscision. J'ai besoin d'éveiller et
+de conssulter amie fille-enfant. Sserment le requiert.</em> »</p>
 <p>Il y eut un long silence. Le Seigneur des Ténèbres, en lévitation
 derrière le demi-cercle de Mangemorts aux baguettes brandies, se mit à
-rire comme Salazar Serpentard avait pensé qu'un serpent rirait : un
-froid amusement sifflé. "<em>Alors tu ssais comment détruire le monde ?</em>"</p>
-<p>"<em>Je ne peux pas y réfléchir. Un de vos sserviteurs pourrait voler mes
+rire comme Salazar Serpentard avait pensé qu'un serpent rirait : un
+froid amusement sifflé. « <em>Alors tu ssais comment détruire le monde ?</em> »</p>
+<p>« <em>Je ne peux pas y réfléchir. Un de vos sserviteurs pourrait voler mes
 penssées. Sserment l'interdit. Mais je pensse que je pourrais inventer
-une méthode, ssi fille-enfant me disait d'esssayer.</em>"</p>
+une méthode, ssi fille-enfant me disait d'esssayer.</em> »</p>
 <p>Les yeux de Harry passèrent lentement à un autre Mangemort, puis à un
 autre encore.</p>
-<p>À nouveau le rire serpentin. "<em>Malin. Je te félicite d'avoir penssé à
-une tactique de ce genre. Mais non.</em>"</p>
-<p>"<em>Je ssais que c'est agaçant, mais avec le monde et votre éternité en
-jeu, ne penssez-vous pas...</em>"</p>
-<p>"<em>Le rissque pour le monde est plus grand en introduisant de telles
+<p>À nouveau le rire serpentin. « <em>Malin. Je te félicite d'avoir penssé à
+une tactique de ce genre. Mais non.</em> »</p>
+<p>« <em>Je ssais que c'est agaçant, mais avec le monde et votre éternité en
+jeu, ne penssez-vous pas...</em> »</p>
+<p>« <em>Le rissque pour le monde est plus grand en introduisant de telles
 complications, en retardant ta fin. J'étudierai moi-même les ssciences
 Moldues et pensserai à tout ce que tu aurais pu imaginer. Maintenant
-dis-moi les ssecrets que tu voudras bien me dire, ou cela prend fin.</em>"</p>
+dis-moi les ssecrets que tu voudras bien me dire, ou cela prend fin.</em> »</p>
 <p>Le regard de Harry parcourait lentement, prudemment le cimetière,
 indifférent au Seigneur des Ténèbres, sauf pris comme une noirceur dans
 sa vision périphérique. Sa bouche continua de parler, mais il n'y prêta
-attention qu'à moitié. "<em>J'ai eu une idée que vous n'avez pas
+attention qu'à moitié. « <em>J'ai eu une idée que vous n'avez pas
 conssidérée, professseur. Votre tentative de me tuer pourrait échouer de
 certaines façons en dépit de toutes vos précautions, pourrait me
 poussser à détruire le monde plus tard. Je ne jugerais pas cela probable
 en temps normal, mais avec la prophétie en jeu, peut-être bien que c'est
-le cas.</em>"</p>
-<p>Voldemort s'immobilisa en l'air. "<em>Comment ?</em>"</p>
-<p>"<em>Je ne ssuis pas obligé de vous le dire.</em>"</p>
-<p>Une froide colère bouillonnait dans la réponse serpentine. "<em>Même ssi je
-comprends bien ton désesspoir et tes tentatives de ruses, çcela
+le cas.</em> »</p>
+<p>Voldemort s'immobilisa en l'air. « <em>Comment ?</em> »</p>
+<p>« <em>Je ne ssuis pas obligé de vous le dire.</em> »</p>
+<p>Une froide colère bouillonnait dans la réponse serpentine. « <em>Même ssi
+je comprends bien ton désesspoir et tes tentatives de ruses, çcela
 commençce à m'agaçcer. Je ne m'empêcherai pas de te tuer, car c'est un
 rissque encore plus grand. Ne pas partager tes penssées rissque de
-détruire le monde. Parle !</em>"</p>
-<p>"<em>Non. Le Serment ne m'oblige à aucune mesure active.</em>"</p>
+détruire le monde. Parle !</em> »</p>
+<p>« <em>Non. Le Serment ne m'oblige à aucune mesure active.</em> »</p>
 <p>Le Seigneur des Ténèbres baissa les yeux vers Harry Potter, qui ne
 rendit que brièvement son regard au visage colérique avant de passer au
 prochain Mangemort. Certains d'entre eux ajustaient légèrement leur
 posture, mais ils restaient immobiles et silencieux, baguettes brandies.
 Les masques d'argents étaient indéchiffrables.</p>
-<p>Puis le Seigneur des Ténèbres se remit à glousser. "<em>Tu pensses pouvoir
-ssurvivre à ta mort ? Non, petit, mes Horcruxes ne ssont pas aussi liées
+<p>Puis le Seigneur des Ténèbres se remit à glousser. « <em>Tu pensses pouvoir
+ssurvivre à ta mort ? Non, petit, mes Horcruxes ne ssont pas aussi liées
 à toi. Ssi c'était le cas, je le ssaurais. Ou as-tu une autre raison de
-croire que tu pourrais ssurvivre à mes plans te concernant ?</em>"</p>
+croire que tu pourrais ssurvivre à mes plans te concernant ?</em> »</p>
 <p>Harry ne se laissa pas être distrait. Les échecs répétés n'avaient pas
 d'importance, ils ne faisaient que mener au coup suivant... mais il
 avait <em>toujours besoin d'un coup suivant à jouer</em>...</p>
-<p>"<em>Maintenant dis-moi un ssecret,</em>" siffla le Seigneur des Ténèbres, "<em>ou
-je...</em>"</p>
-<p>"<em>Les manges-vie vous pourssuivront toujours, vous haïront toujours,
-vous ssuivront où que vous alliez ; ssi ce que je viens de faire a
-fonctionné, ils ssont à vos troussses ! Ssecret de charme gardien ssera
-hors de votre portée pendant très longtemps, peut-être toujours !
-Meilleure défensse contre manges-vie mourrait avec moi !</em>"</p>
-<p>"<em>Ça commence à être un peu trisste...</em>" le Seigneur des Ténèbres laissa
-sa voix en suspens. "<em>Ah. Je vois. Les mange-vie réagisssent aux
+<p>« <em>Maintenant dis-moi un ssecret,</em> » siffla le Seigneur des Ténèbres,
+« <em>ou je...</em> »</p>
+<p>« <em>Les manges-vie vous pourssuivront toujours, vous haïront toujours,
+vous ssuivront où que vous alliez ; ssi ce que je viens de faire a
+fonctionné, ils ssont à vos troussses ! Ssecret de charme gardien ssera
+hors de votre portée pendant très longtemps, peut-être toujours !
+Meilleure défensse contre manges-vie mourrait avec moi !</em> »</p>
+<p>« <em>Ça commence à être un peu trisste...</em> » le Seigneur des Ténèbres
+laissa sa voix en suspens. « <em>Ah. Je vois. Les mange-vie réagisssent aux
 attentes. Tu me dis que je sserai pourchasssé, je m'attends à l'être,
 ils me pourchasssent. C'est rare, mais pas ssans précédent. Ssecret
-important, oui. Peux voir nombreux ussages.</em>" Un ssourire cruel. "<em>Je te
-laissse choissir une perssonne à ssauver.</em>"</p>
-<p>"<em>Moi-même.</em>"</p>
-<p>"<em>Je te dirais bien de mourir dignement, mais je me connais asssez pour
+important, oui. Peux voir nombreux ussages.</em> » Un ssourire cruel. « <em>Je
+te laissse choissir une perssonne à ssauver.</em> »</p>
+<p>« <em>Moi-même.</em> »</p>
+<p>« <em>Je te dirais bien de mourir dignement, mais je me connais asssez pour
 ssavoir que ce sserait en vain. Tu viens de gâcher mon gracieux cadeau
-en m'agaçant, et je le reprends. D'autres ssecrets ?</em>"</p>
-<p>"<em>Oui. Des ssecrets vraiment intéressants. Dont certains que vous ne
+en m'agaçant, et je le reprends. D'autres ssecrets ?</em> »</p>
+<p>« <em>Oui. Des ssecrets vraiment intéressants. Dont certains que vous ne
 découvrirez probablement pas avant longtemps, ssi vous les découvrez un
 jour. Ssi je vous affirme que je vous ai dit tout ce qui ne met pas le
-monde en danger, laissserez-vous mes amis et ma famille tranquille ?
+monde en danger, laissserez-vous mes amis et ma famille tranquille ?
 Toute cette disscussion n'a commencé que parce que vous ne m'avez
-laisssé aucun moyen de ssauver tout le monde.</em>"</p>
+laisssé aucun moyen de ssauver tout le monde.</em> »</p>
 <p>Le Seigneur des Ténèbres demeura immobile un long moment.</p>
 <p>Et les yeux de Harry reprirent leur parcours du cimetière. Sa main
 tenait fermement sa baguette.</p>
@@ -260,81 +280,81 @@ Métamorphose était muette.</p>
 pas être Métamorphosé. Mais Voldemort ne connaissait pas la Métamorphose
 partielle, grâce à laquelle Harry pouvait Métamorphoser un petit bout de
 la baguette elle-même.</p>
-<p>"<em>Tu esssaies de gagner du temps,</em>" dit le Seigneur des Ténèbres.
-"<em>Jusste pour retarder ta mort ? Ou dans un but précis ?</em>"</p>
+<p>« <em>Tu esssaies de gagner du temps,</em> » dit le Seigneur des Ténèbres.
+« <em>Jusste pour retarder ta mort ? Ou dans un but précis ?</em> »</p>
 <p>Harry ne répondit pas, le reste de son œuvre ralentit, et son esprit
 chercha un moyen de poursuivre la conversation en dépit des désirs du
 Seigneur des Ténèbres...</p>
-<p>"<em>Réponds, dis-moi ton but, ou j'en finis maintenant et tes amis
-ssouffriront jussqu'à la fin de leur vie !</em>"</p>
-<p>"<em>Abaisssez votre arme Moldue et ne pointez pas votre baguette vers
-moi,</em>" siffla Harry d'un ton aussi froid et menaçant que sa voix de
-serpent le lui permettait. "<em>Ne donnez aucun ordre à vos sserviteurs. Je
-ssuis capable de choses que vous ignorez. Je peux par exemple provoquer
-une immense explosion quasiment insstantanément ssans prononcer
-d'incantation. Détruire votre nouveau corps, vos sserviteurs. La Pierre
-irait voler on ne ssait où.</em>"</p>
+<p>« <em>Réponds, dis-moi ton but, ou j'en finis maintenant et tes amis
+ssouffriront jussqu'à la fin de leur vie !</em> »</p>
+<p>« <em>Abaisssez votre arme Moldue et ne pointez pas votre baguette vers
+moi,</em> » siffla Harry d'un ton aussi froid et menaçant que sa voix de
+serpent le lui permettait. « <em>Ne donnez aucun ordre à vos sserviteurs.
+Je ssuis capable de choses que vous ignorez. Je peux par exemple
+provoquer une immense explosion quasiment insstantanément ssans
+prononcer d'incantation. Détruire votre nouveau corps, vos sserviteurs.
+La Pierre irait voler on ne ssait où.</em> »</p>
 <p>À son niveau actuel, Harry pouvait Métamorphoser un millimètre cube
 aussi vite que sa volonté et sa magie le lui permettaient.</p>
 <p>Une millimètre cube d'antimatière.</p>
 <p>Cela ne risquait pas de provoquer la fin du monde.</p>
-<p>Voldemort s'était figé. "<em>Je ne ssais pas comment, mais tu bluffes.</em>"</p>
-<p>"<em>Pas un bluff. Je parle en langue de sserpent, et je vous dis que je
+<p>Voldemort s'était figé. « <em>Je ne ssais pas comment, mais tu bluffes.</em> »</p>
+<p>« <em>Pas un bluff. Je parle en langue de sserpent, et je vous dis que je
 peux le faire pressque insstantanément, avant qu'un ssortilège ne me
 ssoit lancé, je pensse. Vous ignorez toujours pressque tout de la
 sscience. Le pouvoir que je contrôle est plus grand que çcelui qui
-alimente les étoiles.</em>"</p>
-<p>"<em>Le Sserment t'arrêtera,</em>" siffla Voldemort. "<em>Tu ne peux pas rissquer
-le monde. Tu ne peux prendre aucun rissque, aucun, avec tes idées
-asstucieuses !</em>"</p>
-<p>"<em>Je ne rissquerais pas le monde. J'ai esstimé la taille de l'explosion,
-beaucoup plus petite.</em>"</p>
-<p>"<em>Tu n'en es pas SSÛR, idiot ! Tu ne peux pas en être SSÛR !</em>" le
+alimente les étoiles.</em> »</p>
+<p>« <em>Le Sserment t'arrêtera,</em> » siffla Voldemort. « <em>Tu ne peux pas
+rissquer le monde. Tu ne peux prendre aucun rissque, aucun, avec tes
+idées asstucieuses !</em> »</p>
+<p>« <em>Je ne rissquerais pas le monde. J'ai esstimé la taille de
+l'explosion, beaucoup plus petite.</em> »</p>
+<p>« <em>Tu n'en es pas SSÛR, idiot ! Tu ne peux pas en être SSÛR !</em> » le
 sifflement de Voldemort était monté d'un cran.</p>
-<p>"<em>J'en ssuis raisonnablement certain. Le Sserment ne m'arrêtera pas.</em>"</p>
+<p>« <em>J'en ssuis raisonnablement certain. Le Sserment ne m'arrêtera pas.</em> »</p>
 <p>La furie affichée par Voldemort augmenta, mais son sifflement révélait
-un soupçon de peur : "<em>J'infligerai une douleur inimaginable à tous
-çceux qui te ssont chers...</em>"</p>
-<p>"<em>Fermez-la. Je vais ignorer toutes les menaçces de ce genre, comme la
+un soupçon de peur : « <em>J'infligerai une douleur inimaginable à tous
+çceux qui te ssont chers...</em> »</p>
+<p>« <em>Fermez-la. Je vais ignorer toutes les menaçces de ce genre, comme la
 théorie des jeux le préconise. La sseule raison pour laquelle vous
 lançcez des menaces, çc'est que vous vous attendez à çce que j'y
-réponde.</em>" En dernière extrémité, Harry avait aussi compris cela.
-"<em>Offrez-moi quelque chose que je désire, professseur. Pour votre
+réponde.</em> » En dernière extrémité, Harry avait aussi compris cela.
+« <em>Offrez-moi quelque chose que je désire, professseur. Pour votre
 nouveau corps, pour garder la Pierre, pour les vies de vos
-sserviteurs.</em>"</p>
+sserviteurs.</em> »</p>
 <p>La bouche de Harry était en pilote automatique, son attention était
 dirigée ailleurs.</p>
 <p><em>Sous la lune scintille un infime fragment d'argent, une fraction de
 ligne...</em></p>
 <p>Un petit morceau du bout de la baguette de Harry était devenu un socle
 d'un millimètre cube d'où s'étirait un mince fil de soie d'araignée. La
-moindre tension l'aurait brisé ; personne ne l'aurait remarqué, même en
+moindre tension l'aurait brisé ; personne ne l'aurait remarqué, même en
 le voyant scintiller. De moins d'un dixième de millimètre de large,
-c'était une forme que Harry pouvait rapidement Métamorphoser : dix
+c'était une forme que Harry pouvait rapidement Métamorphoser : dix
 centimètres de long pour un millimètre cube de volume total. Et Harry
 pouvait Métamorphoser un millimètre cube en une fraction de seconde. Il
 poussait la Métamorphose vers l'extérieur, l'étendait dans l'air aussi
 vite que possible.</p>
 <p>La trace d'un fil de soie d'araignée s'enroula autour de la capuche d'un
 Mangemort, au niveau du cou, et redescendit le long des fils de la robe.</p>
-<p>Le visage de Voldemort était à présent impassible. "<em>Tu ne dois pas
+<p>Le visage de Voldemort était à présent impassible. « <em>Tu ne dois pas
 quitter çcet endroit vivant. Des gens raisonnables et bons sseraient
 d'accord, et je te dis çcela en langue de sserpent. Mais ssi tu acceptes
 de mourir maintenant, dignement, comme tu le devrais, je traiterai tous
-tes amis avec bonté et je les protégerai pendant mon règne.</em>"</p>
+tes amis avec bonté et je les protégerai pendant mon règne.</em> »</p>
 <p>Le dernier Mangemort fut pris dans une boucle. L'assemblage de soie
 était complet. La toile avait été enroulée autour du cou de chaque
 Mangemort. Chacune de ces boucles avait été attachée à un cercle
-central ; et trois fils de ce cercle se rejoignaient en son centre. Le
+central ; et trois fils de ce cercle se rejoignaient en son centre. Le
 motif touchait toujours le fil principal, attaché à la baguette de
 Harry.</p>
 <p>En quelques secondes, ces fils presque invisibles de lumière
 scintillante devinrent noirs.</p>
 <p>Des filaments plus fins, plus résistants, plus tranchants que du fil
-d'acier : des nanotubes de carbone tressés, chaque tube composé d'une
+d'acier : des nanotubes de carbone tressés, chaque tube composé d'une
 seule molécule.</p>
-<p>Harry siffla : "<em>Je veux ausssi que vous promettiez de régner avec
-bonté. Je n'acçcepterais rien de moins.</em>"</p>
+<p>Harry siffla : « <em>Je veux ausssi que vous promettiez de régner avec
+bonté. Je n'acçcepterais rien de moins.</em> »</p>
 <p>Voldemort lévitait toujours. Une furie naissait sur son visage de
 serpent.</p>
 <p>Les deux derniers brins s'éloignèrent du sombre motif, des brins noirs
@@ -345,7 +365,7 @@ baguette d'If, d'abord trop haut, pour qu'ils puissent lentement
 retomber. Les brins s'enroulèrent, formèrent une boucle puis un nœud
 coulant. Ils se resserrèrent, s'approchèrent de la manche quand Harry
 les raccourcit par Métamorphose...</p>
-<p>Harry sentit le chatouillement du pouvoir de Voldemort toucher le sien ;
+<p>Harry sentit le chatouillement du pouvoir de Voldemort toucher le sien ;
 au même instant, le Seigneur des Ténèbres écarquilla les yeux, ouvrit la
 bouche.</p>
 <p>Et Harry Métamorphosa les brins noirs au centre du motif sombre pour
@@ -358,7 +378,7 @@ sang, il perçut vaguement des explosions de magie semblables à celle
 qu'il avait ressentie à la mort de Hermione mais les ignora, il ne vit
 que les mains du Seigneur des Ténèbres, son arme et sa baguette tomber,
 et alors il leva sa baguette vers lui...</p>
-<p>Harry hurla : "<em>STUPORFIX !</em>"</p>
+<p>Harry hurla : « <em>STUPORFIX !</em> »</p>
 <p>Semblable au sortilège d'étourdissement, le tir rouge fonça vers
 Voldemort, traversa le cimetière en un éclair, presque trop vite pour
 être suivi du regard.</p>
@@ -367,7 +387,7 @@ subitement en bas à droite.</p>
 <p>Et le tir rouge de l'étourdisseur à embardées secret du professeur
 Flitwick pivota à mi-parcours et s'écrasa sur Voldemort.</p>
 <p>La douleur qui éclata dans la cicatrice de Harry était si brûlante qu'il
-cria ; un voile rouge apparut devant son regard, et en dépit de tout,
+cria ; un voile rouge apparut devant son regard, et en dépit de tout,
 accablé par la douleur et la fatigue, il laissa tomber sa baguette.</p>
 <p>Lorsqu'il la laissa tomber, la douleur commença à se dissiper...</p>
 
@@ -417,6 +437,7 @@ accablé par la douleur et la fatigue, il laissa tomber sa baguette.</p>
         <script src="../book.js"></script>
 
         <!-- Custom JS scripts -->
+
 
 
     </div>

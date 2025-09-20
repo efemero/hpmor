@@ -36,11 +36,23 @@
             const path_to_root = "../";
             const default_light_theme = "light";
             const default_dark_theme = "navy";
+            window.path_to_searchindex_js = "../searchindex.js";
         </script>
         <!-- Start loading toc.js asap -->
         <script src="../toc.js"></script>
     </head>
     <body>
+    <div id="mdbook-help-container">
+        <div id="mdbook-help-popup">
+            <h2 class="mdbook-help-title">Keyboard shortcuts</h2>
+            <div>
+                <p>Press <kbd>←</kbd> or <kbd>→</kbd> to navigate between chapters</p>
+                <p>Press <kbd>S</kbd> or <kbd>/</kbd> to search in the book</p>
+                <p>Press <kbd>?</kbd> to show this help</p>
+                <p>Press <kbd>Esc</kbd> to hide this help</p>
+            </div>
+        </div>
+    </div>
     <div id="body-container">
         <!-- Work around some values being stored in localStorage wrapped in quotes -->
         <script>
@@ -81,10 +93,13 @@
                 sidebar = sidebar || 'visible';
             } else {
                 sidebar = 'hidden';
+                sidebar_toggle.checked = false;
             }
-            sidebar_toggle.checked = sidebar === 'visible';
-            html.classList.remove('sidebar-visible');
-            html.classList.add("sidebar-" + sidebar);
+            if (sidebar === 'visible') {
+                sidebar_toggle.checked = true;
+            } else {
+                html.classList.remove('sidebar-visible');
+            }
         </script>
 
         <nav id="sidebar" class="sidebar" aria-label="Table of contents">
@@ -118,7 +133,7 @@
                             <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
                             <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
                         </ul>
-                        <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                        <button id="search-toggle" class="icon-button" type="button" title="Search (`/`)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="/ s" aria-controls="searchbar">
                             <i class="fa fa-search"></i>
                         </button>
                     </div>
@@ -135,7 +150,12 @@
 
                 <div id="search-wrapper" class="hidden">
                     <form id="searchbar-outer" class="searchbar-outer">
-                        <input type="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                        <div class="search-wrapper">
+                            <input type="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                            <div class="spinner-wrapper">
+                                <i class="fa fa-spinner fa-spin"></i>
+                            </div>
+                        </div>
                     </form>
                     <div id="searchresults-outer" class="searchresults-outer hidden">
                         <div id="searchresults-header" class="searchresults-header"></div>
@@ -160,43 +180,43 @@
 perçant et bondit en arrière. Il se cogna contre le professeur Rogue, et
 ils s'effondrèrent par terre.</p>
 <p>Ce dernier se releva et reprit son poste devant la porte. Il fit pivoter
-sa tête vers Harry : "Je garde cette porte sur ordre du directeur,"
-dit-il de son ton sardonique habituel. "Allez-vous-en sur le champ, où
-je déduirai des points de Maison !"</p>
+sa tête vers Harry : « Je garde cette porte sur ordre du directeur, »
+dit-il de son ton sardonique habituel. « Allez-vous-en sur le champ, où
+je déduirai des points de Maison ! »</p>
 <p>C'était à glacer le sang, mais Harry était plus préoccupé par l'immense
 chien à trois têtes qui venait de se jeter sur lui avant d'être retenu
 par la chaîne attachée à son collier.</p>
-<p>"C'est... c'est... c'est..." dit Harry.</p>
-<p>"Oui," dit le professeur Quirrell, loin derrière lui, "c'est bien
+<p>« C'est... c'est... c'est... » dit Harry.</p>
+<p>« Oui, » dit le professeur Quirrell, loin derrière lui, « c'est bien
 l'occupant normal de cette pièce, qui est interdite à tous les élèves et
-surtout à ceux qui sont en première année."</p>
-<p>"<em>Même des sorciers devraient trouver ça dangereux !</em>" Dans la pièce, la
-gigantesque créature noire émit un chœur de mugissements. Des flots de
-salive jaillissaient de ses trois gueules pleines de crocs.</p>
-<p>Le professeur Quirrell soupira. "Un sortilège l'empêche de manger les
+surtout à ceux qui sont en première année. »</p>
+<p>« <em>Même des sorciers devraient trouver ça dangereux !</em> » Dans la pièce,
+la gigantesque créature noire émit un chœur de mugissements. Des flots
+de salive jaillissaient de ses trois gueules pleines de crocs.</p>
+<p>Le professeur Quirrell soupira. « Un sortilège l'empêche de manger les
 élèves, il les recrache seulement de l'autre côté de la porte.
 Maintenant, petit, comment penses-tu que nous devrions nous occuper de
-cette créature ?"</p>
-<p>"Euh," bégaya Harry. Il essayait de s'entendre penser malgré le
-rugissement continu du gardien de cette pièce. "Euh. Si c'est comme le
-cerbère de la légende Moldue 'Orphée et Eurydice', on doit lui chanter
-une berceuse pour pouvoir passer..."</p>
-<p>"<em>Avada Kedavra.</em>"</p>
+cette créature ? »</p>
+<p>« Euh, » bégaya Harry. Il essayait de s'entendre penser malgré le
+rugissement continu du gardien de cette pièce. « Euh. Si c'est comme le
+cerbère de la légende Moldue "Orphée et Eurydice", on doit lui chanter
+une berceuse pour pouvoir passer... »</p>
+<p>« <em>Avada Kedavra.</em> »</p>
 <p>La bête à trois têtes tomba.</p>
 <p>Harry se retourna vers le professeur Quirrell. Celui-ci avait l'air
 extrêmement déçu et semblait se demander si Harry avait jamais assisté à
 un seul de ses cours.</p>
-<p>"J'ai plus ou moins <em>supposé</em>," dit Harry entre deux halètements, "que
-ne pas surmonter ces épreuves à la façon d'un élève de première année
-pourrait déclencher une <em>alarme</em>."</p>
-<p>"Petit, c'est un mensonge. Tu as simplement oublié mes leçons à ta
+<p>« J'ai plus ou moins <em>supposé</em>, » dit Harry entre deux halètements,
+« que ne pas surmonter ces épreuves à la façon d'un élève de première
+année pourrait déclencher une <em>alarme</em>. »</p>
+<p>« Petit, c'est un mensonge. Tu as simplement oublié mes leçons à ta
 première véritable occasion de t'en souvenir. Quant aux alarmes, j'ai
 passé des mois à embrouiller les protections et les détecteurs de ces
-pièces."</p>
-<p>"Alors pourquoi est-ce que vous m'avez fait passer devant ?"</p>
+pièces. »</p>
+<p>« Alors pourquoi est-ce que vous m'avez fait passer devant ? »</p>
 <p>Le professeur Quirrell se contenta de sourire. Il avait l'air beaucoup
 plus maléfique que d'habitude.</p>
-<p>"Je vois," dit Harry avant d'entrer lentement dans la pièce, toujours
+<p>« Je vois, » dit Harry avant d'entrer lentement dans la pièce, toujours
 tremblant.</p>
 <p>La pièce, entièrement en pierre, était illuminée d'un bleu pâle venu de
 recoins arrondis creusés dans le mur, comme si la lumière d'un ciel gris
@@ -206,50 +226,52 @@ gigantesque chien mort et ses trois têtes sans vie.</p>
 <p>Harry se tourna vers l'un des recoins arrondis et alla le regarder de
 plus près. Il n'y avait rien là sinon la lueur bleue sans source, alors
 il continua pour observer le suivant, examinant le mur au passage.</p>
-<p>"Que fais-tu ?", demanda le professeur Quirrell.</p>
-<p>"J'inspecte la pièce," dit Harry. "Il pourrait y avoir un indice,
-quelque chose d'écrit, une clé utile plus tard, quelque chose comme ça."</p>
-<p>"Dis-tu cela sérieusement ? Ou essaies-tu de nous ralentir ? Réponds en
-Fourchelangue."</p>
-<p>Harry se retourna. "<em>J'étais ssérieux</em>," siffla Harry. "<em>J'aurais fait
-pareil ssi j'avaiss été sseul.</em>"</p>
-<p>Le professeur Quirrell se passa une main sur le front. "J'admets,"
-dit-il, "que ton approche aurait un intérêt dans la tombe d'Amon-Set,
+<p>« Que fais-tu ?, » demanda le professeur Quirrell.</p>
+<p>« J'inspecte la pièce, » dit Harry. « Il pourrait y avoir un indice,
+quelque chose d'écrit, une clé utile plus tard, quelque chose comme
+ça. »</p>
+<p>« Dis-tu cela sérieusement ? Ou essaies-tu de nous ralentir ? Réponds en
+Fourchelangue. »</p>
+<p>Harry se retourna. « <em>J'étais ssérieux</em>, » siffla Harry. « <em>J'aurais
+fait pareil ssi j'avaiss été sseul.</em> »</p>
+<p>Le professeur Quirrell se passa une main sur le front. « J'admets, »
+dit-il, « que ton approche aurait un intérêt dans la tombe d'Amon-Set,
 par exemple. Donc je ne vais pas te traiter d'idiot. Mais quand même. Le
 faux puzzle, la partie visible du défi, c'est un jeu pour les première
-année. Nous allons simplement ouvrir cette trappe."</p>
+année. Nous allons simplement ouvrir cette trappe. »</p>
 <p>Sous la trappe se trouvait une plante immense, semblable à un
 dieffenbachia géant. Ses larges feuilles sortaient de sa tige centrale
 pour former un escalier en colimaçon, mais elles étaient plus sombres
-que celles d'un dieffenbachia normal ; d'autres tiges veineuses
+que celles d'un dieffenbachia normal ; d'autres tiges veineuses
 poussaient de la tige centrale et pendaient dans le vide. La base était
 plus large, recouverte de feuilles encore plus grandes. Elle avait l'air
 de promettre une douce réception à celui qui tomberait. En dessous, une
 autre pièce de pierre, proche de la première, avec les mêmes recoins
 comme de fausses fenêtres, sources de la même lumière bleu-gris.</p>
-<p>"Une idée évidente est de voler jusqu'au sol avec le balai dans ma
+<p>« Une idée évidente est de voler jusqu'au sol avec le balai dans ma
 bourse ou de jeter quelque chose de lourd pour voir si ces petites tiges
-sont piégées," dit Harry en jetant un coup d'œil en bas. "Mais j'imagine
-que vous allez juste me dire de descendre l'escalier de feuilles." Elles
-avaient vraiment l'air de vouloir servir d'escalier en colimaçon.</p>
-<p>"Après toi," dit le professeur Quirrell.</p>
+sont piégées, » dit Harry en jetant un coup d'œil en bas. « Mais
+j'imagine que vous allez juste me dire de descendre l'escalier de
+feuilles. » Elles avaient vraiment l'air de vouloir servir d'escalier en
+colimaçon.</p>
+<p>« Après toi, » dit le professeur Quirrell.</p>
 <p>Harry posa un pied prudent sur la première feuille et découvrit qu'elle
 supportait bien son poids. Puis il regarda la pièce une dernière fois
 avant de la quitter, au cas où quelque chose attirerait son attention.</p>
 <p>L'énorme chien mort attirait tant le regard qu'il était difficile de se
 concentrer sur autre chose.</p>
-<p>"Professeur Quirrell," et il s'empêcha de continua par : <em>votre façon
-d'écarter les obstacles a des défauts évidents</em>, "et si quelqu'un
-passait sa tête par la porte et voyait que le cerbère est mort ?"</p>
-<p>"Dans ce cas, la personne aurait aussi vu que Rogue n'est pas dans son
-état normal," répondit le professeur Quirrell. "Mais puisque tu
-insistes..." le professeur de Défense s'avança jusqu'au chien et posa sa
-baguette sur la tête de ce dernier. Il entonna un sortilège aux accents
-latins qui, pour Harry, s'accompagna d'un sentiment d'appréhension
-grandissant. Comme depuis toujours, le Survivant ressentait le pouvoir
-du Seigneur des Ténèbres.</p>
-<p>Le dernier mot fut "<em>Inferius</em>" et fut, pour Harry, accompagné d'une
-sorte de pulsion intérieure : <em>NON, ARRÊTE</em>.</p>
+<p>« Professeur Quirrell, » et il s'empêcha de continua par : <em>votre façon
+d'écarter les obstacles a des défauts évidents</em>, « et si quelqu'un
+passait sa tête par la porte et voyait que le cerbère est mort ? »</p>
+<p>« Dans ce cas, la personne aurait aussi vu que Rogue n'est pas dans son
+état normal, » répondit le professeur Quirrell. « Mais puisque tu
+insistes... » le professeur de Défense s'avança jusqu'au chien et posa
+sa baguette sur la tête de ce dernier. Il entonna un sortilège aux
+accents latins qui, pour Harry, s'accompagna d'un sentiment
+d'appréhension grandissant. Comme depuis toujours, le Survivant
+ressentait le pouvoir du Seigneur des Ténèbres.</p>
+<p>Le dernier mot fut « <em>Inferius</em> » et fut, pour Harry, accompagné d'une
+sorte de pulsion intérieure : <em>NON, ARRÊTE</em>.</p>
 <p>Alors le chien à trois têtes se leva, ses six yeux mornes, vides, et il
 se tourna de nouveau vers la porte.</p>
 <p>Harry regarda l'immense Inferius et il sentit son estomac se retourner.
@@ -260,7 +282,7 @@ Seule l'incantation latine avait manqué.</p>
 mort. Le professeur de Défense lui avait envoyé un véritable Avada
 Kedavra, pas un faux.</p>
 <p>Presque inconsciemment, Harry avait continué de croire que si Hermione
-pouvait <em>revenir</em>, lui pourrait revenir à l'éthique de Batman : personne
+pouvait <em>revenir</em>, lui pourrait revenir à l'éthique de Batman : personne
 ne meurt. La plupart des gens traversaient les aventures de leur vie
 sans que personne ne meure.</p>
 <p>Il n'en serait rien.</p>
@@ -271,12 +293,12 @@ pour que cette histoire se termine sans victime.</p>
 <p>Il se dit que soit le professeur de Défense confirmerait l'accusation en
 Fourchelangue, soit il mentirait de sa voix normale. Dans un cas comme
 dans l'autre, ses soupçons envers Harry augmenteraient. Mais Harry
-savait que - même s'il ignorait <em>comment</em> il arrêterait le professeur
+savait que --- même s'il ignorait <em>comment</em> il arrêterait le professeur
 Quirrell, même s'il n'osait pas le trahir activement ni même <em>décider</em>
-de le faire avant que l'heure de vaincre n'ait presque sonné - il savait
-que le choses ne se régleraient jamais à l'amiable entre Lord Voldemort
-et lui ; que ces deux différents esprits ne pouvaient pas vivre dans le
-même monde.</p>
+de le faire avant que l'heure de vaincre n'ait presque sonné --- il
+savait que le choses ne se régleraient jamais à l'amiable entre Lord
+Voldemort et lui ; que ces deux différents esprits ne pouvaient pas
+vivre dans le même monde.</p>
 <p>Et ce fut comme si cette résolution, cette certitude dans l'opposition,
 avait fait appel à la force que Harry avait toujours considérée comme
 son côté obscur. Il avait cessé d'y faire délibérément appel après le
@@ -286,7 +308,7 @@ qui avait mené à ça, mais en supposant que ce soit bien le cas, il
 devait faire usage de ce qui restait d'intelligence dans ce côté obscur.
 Pas comme un mode de pensé alternatif, comme il l'avait initialement
 conçu, mais comme des motifs neuronaux fortement enclins à se mêler les
-uns aux autres - puisqu'ils avaient jadis fait partie d'un tout.</p>
+uns aux autres --- puisqu'ils avaient jadis fait partie d'un tout.</p>
 <p>Ce qui ne changeait malheureusement rien au fait que le professeur
 Quirrell avait les mêmes capacités, beaucoup plus d'expérience derrière,
 et aussi un pistolet.</p>
@@ -350,6 +372,7 @@ vie à Hermione.</p>
         <script src="../book.js"></script>
 
         <!-- Custom JS scripts -->
+
 
 
     </div>

@@ -36,11 +36,23 @@
             const path_to_root = "../";
             const default_light_theme = "light";
             const default_dark_theme = "navy";
+            window.path_to_searchindex_js = "../searchindex.js";
         </script>
         <!-- Start loading toc.js asap -->
         <script src="../toc.js"></script>
     </head>
     <body>
+    <div id="mdbook-help-container">
+        <div id="mdbook-help-popup">
+            <h2 class="mdbook-help-title">Keyboard shortcuts</h2>
+            <div>
+                <p>Press <kbd>←</kbd> or <kbd>→</kbd> to navigate between chapters</p>
+                <p>Press <kbd>S</kbd> or <kbd>/</kbd> to search in the book</p>
+                <p>Press <kbd>?</kbd> to show this help</p>
+                <p>Press <kbd>Esc</kbd> to hide this help</p>
+            </div>
+        </div>
+    </div>
     <div id="body-container">
         <!-- Work around some values being stored in localStorage wrapped in quotes -->
         <script>
@@ -81,10 +93,13 @@
                 sidebar = sidebar || 'visible';
             } else {
                 sidebar = 'hidden';
+                sidebar_toggle.checked = false;
             }
-            sidebar_toggle.checked = sidebar === 'visible';
-            html.classList.remove('sidebar-visible');
-            html.classList.add("sidebar-" + sidebar);
+            if (sidebar === 'visible') {
+                sidebar_toggle.checked = true;
+            } else {
+                html.classList.remove('sidebar-visible');
+            }
         </script>
 
         <nav id="sidebar" class="sidebar" aria-label="Table of contents">
@@ -118,7 +133,7 @@
                             <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
                             <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
                         </ul>
-                        <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                        <button id="search-toggle" class="icon-button" type="button" title="Search (`/`)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="/ s" aria-controls="searchbar">
                             <i class="fa fa-search"></i>
                         </button>
                     </div>
@@ -135,7 +150,12 @@
 
                 <div id="search-wrapper" class="hidden">
                     <form id="searchbar-outer" class="searchbar-outer">
-                        <input type="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                        <div class="search-wrapper">
+                            <input type="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                            <div class="spinner-wrapper">
+                                <i class="fa fa-spinner fa-spin"></i>
+                            </div>
+                        </div>
                     </form>
                     <div id="searchresults-outer" class="searchresults-outer hidden">
                         <div id="searchresults-header" class="searchresults-header"></div>
@@ -183,7 +203,7 @@ tu aimes. Dumbledore n'est plus là pour l'arrêter.</em></p>
 instant.</em></p>
 <p><em>Il ne peut être définitivement tué sans détruire plus de cent
 Horcruxes, et l'un d'eux est la plaque de Pioneer.</em></p>
-<p><em>Matériel : Une baguette. Cette fois tu peux la brandir et parler.</em></p>
+<p><em>Matériel : Une baguette. Cette fois tu peux la brandir et parler.</em></p>
 <p><em>Tu as cinq minutes.</em></p>
 <p><em>Résous.</em></p>
 <p>Harry chancela vers l'autel, s'y agenouilla et ramassa sa bourse.</p>
@@ -194,13 +214,13 @@ terrifiants sommets, s'éveillait dans sa cicatrice sous forme de
 douleur.</p>
 <p>Harry ignora un glapissement intérieur. C'était le dernier souvenir de
 Tom Jedusor, gravé dans son cerveau, le dernier motif mental à avoir été
-transféré au nourrisson avant que Tom Jedusor n'explose : un sentiment
+transféré au nourrisson avant que Tom Jedusor n'explose : un sentiment
 d'horreur et de consternation croissant associé à la résonance devenue
 incontrôlable. Harry connaissait maintenant le sens de ce sentiment
 d'appréhension, et cela le rendait plus simple à ignorer. Il avait parié
 que l'effet de la résonance toucherait principalement le lanceur de
 sort, proportionnellement à sa puissance, et il avait gagné.</p>
-<p>Harry regarda le corps de Voldemort et inspira profondément - par la
+<p>Harry regarda le corps de Voldemort et inspira profondément --- par la
 bouche, car les relents de cuivre auquel Harry ne pensaient pas seraient
 entrés par ses narines.</p>
 <p>Harry s'agenouilla à côté de Voldemort, sortit son kit médical de sa
@@ -212,14 +232,14 @@ venaient de vivre quelque chose d'extrêmement négatif. Si Harry avait
 fait subir le même sort à Voldemort sans hésiter, voilà qui aurait été
 équilibré, voilà qui aurait été juste. Ce que Harry faisait à présent
 lui rappelait un Batman plus soucieux du Joker que des victimes de ce
-dernier ; lui rappelait un comic book dont les auteurs se torturaient
+dernier ; lui rappelait un comic book dont les auteurs se torturaient
 quant à la moralité d'abattre les Célèbres Méchants pendant que des
 innocents continuaient de mourir en arrière-plan. Montrer plus de
 sollicitude envers le chef des méchants qu'envers ses laquais, faire
 <em>plus attention</em> à son sort qu'à celui de ses partisans d'importance
-moindre : c'était là un défaut de la nature humaine.</p>
+moindre : c'était là un défaut de la nature humaine.</p>
 <p>Harry se sentit donc mal en se relevant près du corps, les garrots
-serrés autour des poignets de Voldemort ; il avait l'impression d'être
+serrés autour des poignets de Voldemort ; il avait l'impression d'être
 éthiquement monstrueux.</p>
 <p>Pourtant, toute stratégie sensée <em>exigeait</em> que le corps de Voldemort ne
 meure pas. L'âme qu'il s'était créée devait être attachée à son cerveau,
@@ -241,14 +261,14 @@ plus haute n'y changerait rien.</p>
 problème, il cessait d'être difficile, surtout comparé au précédent.</p>
 <p>Par exemple, les parents de Neville avaient été torturés jusqu'à en
 devenir définitivement fous. Deux cent Horcruxes améliorés
-n'empêcheraient pas cette folie ; ils ne seraient plus que des échos du
+n'empêcheraient pas cette folie ; ils ne seraient plus que des échos du
 même esprit abîmé.</p>
 <p>Si cela avait été la seule façon d'arrêter définitivement Voldemort,
 cette utilisation d'Endoloris aurait été justifiée. Elle aurait été
 juste et aurait montré que la vie du Joker ne valait pas plus que celle
 que le dernier de ses hommes de main.</p>
 <p>Harry avait seulement besoin de créer un Patronus, de l'envoyer à...
-Maugrey Fol-Œil ?... et de lui dire de venir. Enfin, non, il était assez
+Maugrey Fol-Œil ?... et de lui dire de venir. Enfin, non, il était assez
 probable que le Patronus ne fonctionnerait pas si il était lancé dans
 <em>ce</em> but. Il pouvait peut-être se promettre de dire ça à Maugrey puis
 utiliser son Retourneur de Temps une fois hors de portée des barrières
@@ -269,15 +289,15 @@ ses serviteurs de le torturer. Quand on faisait face à Voldemort,
 c'était lourd de sens. En fin de compte, peut-être qu'il avait eu un
 reste de sympathie pour l'autre Tom Jedusor.</p>
 <p>Harry n'aurait pas dû prendre cela en compte.</p>
-<p>Si ?</p>
+<p>Si ?</p>
 <p>Harry releva les yeux vers les étoiles. Ici, sous l'atmosphère, les
 étoiles scintillaient, elles étaient incrustée dans le faux dôme du ciel
-nocturne, répandues sur la trace de la voie Lactée - elle-même lumineuse
-comme un long ruban - l'air d'être si proches qu'un vol en balai aurait
-permis de les atteindre.</p>
+nocturne, répandues sur la trace de la voie Lactée --- elle-même
+lumineuse comme un long ruban --- l'air d'être si proches qu'un vol en
+balai aurait permis de les atteindre.</p>
 <p>En ce moment critique, qu'auraient-ils voulu qu'il fasse, les enfants
-des enfants des enfants ?</p>
-<p>La réponse à question semblait aussi évidente - à moins qu'elle n'ait
+des enfants des enfants ?</p>
+<p>La réponse à question semblait aussi évidente --- à moins qu'elle n'ait
 émané de la partie de Harry qui se souciait encore du professeur
 Quirrell.</p>
 <p>Les actes précédents de Harry avaient été justifiés car ils avaient
@@ -292,13 +312,13 @@ rendre bien symétrique.</p>
 <p>Les enfants des enfants des enfants ne voudraient pas que Voldemort ait
 à mourir en plus de ses serviteurs. Ils ne voudraient pas le voir
 souffrir si cela n'accomplissait rien d'autre.</p>
-<p>Harry inspira profondément et se délesta - pas de sa haine - pas tout à
-fait de sa haine - même à la fin, il n'avait pas réussi à haïr son
-créateur - mais quand bien même, Harry se délesta de <em>quelque chose</em>. Du
-sentiment de <em>devoir</em> haïr Voldemort, de l'idée qu'il avait l'obligation
-de ressentir cette haine en réponse à la liste infinie de crimes que
-Voldemort avait commis sans raison particulière, pas même pour son
-propre bonheur...</p>
+<p>Harry inspira profondément et se délesta --- pas de sa haine --- pas
+tout à fait de sa haine --- même à la fin, il n'avait pas réussi à haïr
+son créateur --- mais quand bien même, Harry se délesta de <em>quelque
+chose</em>. Du sentiment de <em>devoir</em> haïr Voldemort, de l'idée qu'il avait
+l'obligation de ressentir cette haine en réponse à la liste infinie de
+crimes que Voldemort avait commis sans raison particulière, pas même
+pour son propre bonheur...</p>
 <p><em>Tu peux,</em> lui murmurèrent les étoiles. <em>Tu peux ne pas le haïr. Ça ne
 t'empêche pas d'être quelqu'un de bien.</em></p>
 <p>En définitive, une seule solution était envisageable, et puisqu'il le
@@ -315,14 +335,14 @@ jamais été rien d'autre que des motifs cognitifs hérités, qu'une autre
 mauvaise habitude de pensée à briser.</p>
 <p>Il préféra regarder Hermione qui respirait, allongée sur l'autel, et il
 laissa enfin les larmes quitter ses yeux. Ce qu'il adviendrait d'elle à
-présent, le chemin qu'elle choisirait, Harry l'ignorait ; mais elle
+présent, le chemin qu'elle choisirait, Harry l'ignorait ; mais elle
 <em>existerait</em> pour ce choix, et leur amitié n'aurait pas détruit son
 existence. Ce n'est qu'après avoir remarqué sa surprise, lorsque son
 espoir s'était réalisé, que Harry avait compris à quel point cet espoir
 avait été précaire. Les choses se passaient parfois mieux que prévu.</p>
 <p>Et Harry prit cette pensée pour alimenter la magie qu'il accumulait.</p>
-<p>Le pouvoir qu'il emmagasinait vibrait en lui ; on aurait dit que tout
-son corps était sa baguette ; soit ses yeux s'étaient brouillés, soit un
+<p>Le pouvoir qu'il emmagasinait vibrait en lui ; on aurait dit que tout
+son corps était sa baguette ; soit ses yeux s'étaient brouillés, soit un
 tremblement blanc lumineux courait sur le houx. Et Harry imagina la
 forme du sortilège qu'il allait lancer, une forme grossière, au motif
 simple, il fallait seulement inclure...</p>
@@ -337,8 +357,8 @@ l'autre ou d'être aidé, il y en aura peu, peut-être venus de votre
 enfance, si vous avez jamais eu des souvenirs heureux, alors
 gardez-les...</em></p>
 <p>Quelque chose en lui se déplia alors et il sut qu'il avait fait le bon
-choix ; il envoya cela aussi dans sa baguette...</p>
-<p><em><strong>"OUBLIETTES !"</strong></em></p>
+choix ; il envoya cela aussi dans sa baguette...</p>
+<p><em><strong>« OUBLIETTES ! »</strong></em></p>
 <p>Et tout se déversa, de Harry vers le sortilège.</p>
 <p>Il chuta de côté, laissa tomber sa baguette. Des cris gutturaux
 sortirent de sa gorge, sa main toucha sa cicatrice en vain, puis
@@ -357,26 +377,24 @@ celui de Harry.</p>
 <p>Il pleura un moment.</p>
 <p>Puis il finit par se remettre sur pied, difficilement, et par ramasser
 sa baguette, parce qu'il lui restait du travail à faire.</p>
-<p> </p>
 <hr />
-<p> </p>
 <p>Harry posa sa baguette directement sur le moignon de poignet de
-Voldemort ; sa cicatrice se gonfla de douleur, mais ni l'un ni l'autre
+Voldemort ; sa cicatrice se gonfla de douleur, mais ni l'un ni l'autre
 n'explosa.</p>
 <p>Et Harry entama une Métamorphose.</p>
-<p>Lentement - mais plus vite qu'il avait Métamorphosé Hermione - le corps
-étourdi de l'homme-serpent changea, se reforma. À mesure que la
+<p>Lentement --- mais plus vite qu'il avait Métamorphosé Hermione --- le
+corps étourdi de l'homme-serpent changea, se reforma. À mesure que la
 Métamorphose progressait, et surtout lorsque la tête de l'homme-serpent
 devint vitreuse et réduite, la douleur dans la cicatrice de Harry
 s'estompa.</p>
-<p>Le sortilège devrait être maintenu qu'il soit éveillé ou assoupi ; et
+<p>Le sortilège devrait être maintenu qu'il soit éveillé ou assoupi ; et
 plus tard, quand il serait plus âgé et plus puissant, et peut-être avec
 de l'aide, il annulerait la Métamorphose du Tom Jedusor à l'esprit vidé
 et soignerait son corps grâce au pouvoir de la Pierre. Ce serait <em>après</em>
 que le futur Harry ait trouvé quoi faire d'un sorcier presque
 entièrement amnésique, toujours doté de mauvaises habitudes de pensées
-et de motifs émotionnels très négatifs - on aurait presque pu appeler
-cela un côté obscur - en plus de beaucoup de connaissances et de
+et de motifs émotionnels très négatifs --- on aurait presque pu appeler
+cela un côté obscur --- en plus de beaucoup de connaissances et de
 savoir-faire magiques de haut niveau. Il avait fait de son mieux pour ne
 <em>pas</em> effacer cela, car il en aurait peut-être besoin un jour.</p>
 <p>Pendant ce temps, tout comme la magie n'avait pas considéré qu'une
@@ -393,7 +411,7 @@ chancelant avant de s'y effondrer, de s'y reposer presque, de repousser
 l'épuisement qui menaçait de pénétrer son esprit. <em>Je n'ai pas fini,
 j'ai encore du travail.</em></p>
 <p>Harry prit une autre profonde inspiration, toujours par la bouche, dit
-"<em>Lumos</em>" et observa le cimetière.</p>
+« <em>Lumos</em> » et observa le cimetière.</p>
 <p>Des robes noires et des masques de crânes détachés, entourés de mares de
 sang...</p>
 <p>Hermione Granger, endormie sur un autel.</p>
@@ -402,7 +420,7 @@ tombé.</p>
 <p>Quirinus Quirrell et ses robes déchiquetées, désarticulé, là où le
 sortilège de la Mort l'avait frappé.</p>
 <p>Harry imagina quelqu'un d'autre regardant la scène et essayant de la
-comprendre. Il secoua la tête : ça n'allait pas, ça n'allait pas du
+comprendre. Il secoua la tête : ça n'allait pas, ça n'allait pas du
 tout.</p>
 <p>Puis il se releva vivement du rocher en grimaçant. Son esprit protesta,
 et son corps aussi. Il n'avait pas été particulièrement blessé ni
@@ -411,17 +429,17 @@ journée.</p>
 <p>Il chancela vers ce qui restait de Voldemort et ramassa sa main gauche
 par terre.</p>
 <p>Même sur la main gauche, on pouvait voir la fine trace d'écailles de
-serpent ; c'était très Voldemort. Tant mieux.</p>
+serpent ; c'était très Voldemort. Tant mieux.</p>
 <p>Harry alla jusqu'à l'autel où gisait une Hermione endormie et plaça
 doucement la main amputée autour du cou de Hermione, plaça
 précautionneusement les doigts pour qu'ils enserrent sa gorge. C'était
-difficile : Hermione semblait si paisible, si innocente dans son
-sommeil, et la main amputée de Voldemort semblait si laide ; Harry
+difficile : Hermione semblait si paisible, si innocente dans son
+sommeil, et la main amputée de Voldemort semblait si laide ; Harry
 ignora violemment la partie de son esprit qui pensait à ça, puisque la
 pensée était absurde dans ce contexte.</p>
 <p>Quelques petits sortilèges de Découpe permirent de gâcher la marque
 quasiment parfaite des nanofibres, ce qui était d'une importance
-critique : il ne fallait pas que la blessure de la main ressemble à
+critique : il ne fallait pas que la blessure de la main ressemble à
 celle des cous. Plusieurs <em>Diffindos</em> répandirent de petits bouts du
 poignet de Voldemort sur la chemise de Hermione, et Harry dut se
 rappeler que cela faisait partie de son plan.</p>
@@ -437,8 +455,8 @@ de l'autel, lui fournit la baguette que le professeur de Défense avait
 utilisé sous le nom de Quirrell. Harry s'approcha de Quirrell, redressa
 son corps du mieux qu'il put et plaça sa baguette dans sa main. De façon
 prévisible, il se mit à pleurer, et essuya ses larmes de sa manche.</p>
-<p>Il prit une autre inspiration, toujours par la bouche, répéta "<em>Lumos</em>"
-et inspecta le cimetière une fois de plus.</p>
+<p>Il prit une autre inspiration, toujours par la bouche, répéta
+« <em>Lumos</em> » et inspecta le cimetière une fois de plus.</p>
 <p>Des robes noires, des masques de crâne détachés, et une Hermione Granger
 gisant sur un autel avec les mains tranchées de Voldemort agrippées à sa
 gorge, et ses habits roussis éparpillés autour d'elle. Quirinus Quirrell
@@ -453,14 +471,14 @@ et un rouleau de mèche. <em>Soyez prêts, c'est la rengaine des Scouts,
 soyez prêts pour une vie pleine de trolls et qui sait quoi...</em></p>
 <p>Harry gonfla le ballon avec l'oxyacétylène. Lorsqu'il exploserait, la
 surpression serait peut-être aussi bruyante qu'un bang supersonique.</p>
-<p>Il attacha le bâton de dynamite - c'était plus que nécessaire comme
+<p>Il attacha le bâton de dynamite --- c'était plus que nécessaire comme
 source d'explosion, mais ça ferait l'affaire.</p>
 <p>Il attacha une mèche de 60 secondes au bâton mais ne l'alluma pas tout
 de suite.</p>
 <p>Il mit sa Cape d'Invisibilité, qui s'était trouvée avec tous les objets,
 à côté de l'autel.</p>
 <p>Il récupéra son balai dans sa bourse et grimpa dessus.</p>
-<p>Il lança un sortilège de silence autour de Hermione Granger - ça
+<p>Il lança un sortilège de silence autour de Hermione Granger --- ça
 n'assourdirait pas <em>tout</em> le bruit, loin de là, et ce n'était de toute
 façon pas comme si elle serait définitivement handicapée si jamais ses
 tympans crevaient, mais c'était quand même poli.</p>
@@ -469,7 +487,7 @@ de magie à Harry. Il était probablement vidé pour au moins une heure.</p>
 <p>Il grimpa sur le balai et monta lentement, le ballon-sonde remplit
 d'oxyacétylène derrière lui. Lorsqu'il dépassa les arbres, le château de
 Poudlard devint visible, scintillant sous la Lune quelques kilomètres
-plus loin ; et il fit de son mieux pour estimer la distance et l'angle
+plus loin ; et il fit de son mieux pour estimer la distance et l'angle
 d'observation depuis Poudlard.</p>
 <p>Une fois loin au-dessus de la forêt, il utilisa un briquet pour mettre
 le feu à la mèche de la dynamite attachée au ballon-sonde rempli
@@ -530,6 +548,7 @@ Retourneur de Temps.</p>
         <script src="../book.js"></script>
 
         <!-- Custom JS scripts -->
+
 
 
     </div>

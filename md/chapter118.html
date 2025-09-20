@@ -36,11 +36,23 @@
             const path_to_root = "../";
             const default_light_theme = "light";
             const default_dark_theme = "navy";
+            window.path_to_searchindex_js = "../searchindex.js";
         </script>
         <!-- Start loading toc.js asap -->
         <script src="../toc.js"></script>
     </head>
     <body>
+    <div id="mdbook-help-container">
+        <div id="mdbook-help-popup">
+            <h2 class="mdbook-help-title">Keyboard shortcuts</h2>
+            <div>
+                <p>Press <kbd>←</kbd> or <kbd>→</kbd> to navigate between chapters</p>
+                <p>Press <kbd>S</kbd> or <kbd>/</kbd> to search in the book</p>
+                <p>Press <kbd>?</kbd> to show this help</p>
+                <p>Press <kbd>Esc</kbd> to hide this help</p>
+            </div>
+        </div>
+    </div>
     <div id="body-container">
         <!-- Work around some values being stored in localStorage wrapped in quotes -->
         <script>
@@ -81,10 +93,13 @@
                 sidebar = sidebar || 'visible';
             } else {
                 sidebar = 'hidden';
+                sidebar_toggle.checked = false;
             }
-            sidebar_toggle.checked = sidebar === 'visible';
-            html.classList.remove('sidebar-visible');
-            html.classList.add("sidebar-" + sidebar);
+            if (sidebar === 'visible') {
+                sidebar_toggle.checked = true;
+            } else {
+                html.classList.remove('sidebar-visible');
+            }
         </script>
 
         <nav id="sidebar" class="sidebar" aria-label="Table of contents">
@@ -118,7 +133,7 @@
                             <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
                             <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
                         </ul>
-                        <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                        <button id="search-toggle" class="icon-button" type="button" title="Search (`/`)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="/ s" aria-controls="searchbar">
                             <i class="fa fa-search"></i>
                         </button>
                     </div>
@@ -135,7 +150,12 @@
 
                 <div id="search-wrapper" class="hidden">
                     <form id="searchbar-outer" class="searchbar-outer">
-                        <input type="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                        <div class="search-wrapper">
+                            <input type="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                            <div class="spinner-wrapper">
+                                <i class="fa fa-spinner fa-spin"></i>
+                            </div>
+                        </div>
                     </form>
                     <div id="searchresults-outer" class="searchresults-outer hidden">
                         <div id="searchresults-header" class="searchresults-header"></div>
@@ -155,60 +175,60 @@
 
                 <div id="content" class="content">
                     <main>
-                        <h1 id="après-coup-quelque-chose-à-protéger--professeur-quirrell"><a class="header" href="#après-coup-quelque-chose-à-protéger--professeur-quirrell">Après-coup, quelque chose à protéger : Professeur Quirrell</a></h1>
+                        <h1 id="après-coup-quelque-chose-à-protéger--professeur-quirrell"><a class="header" href="#après-coup-quelque-chose-à-protéger--professeur-quirrell">Après-coup, quelque chose à protéger : Professeur Quirrell</a></h1>
 <p>Sous le ciel azur de ces funérailles, le soleil rayonnait sur l'herbe
 écossaise et faisait naître des éclats blancs dans les gouttes de rosée
 de certaines des feuilles lisses.</p>
 <p>Harry avait refusé de donner un éloge funèbre. Pour la seconde fois. Le
 professeur Flitwick le lui avait déjà demandé plusieurs semaines
 auparavant, en mai, pour lui donner le temps d'écrire, avant que la
-parole ne devienne nécessaire ; et Harry avait aussi refusé.</p>
+parole ne devienne nécessaire ; et Harry avait aussi refusé.</p>
 <p>La tâche incombait donc à un Gryffondor en sixième année, Oliver
 Habryka, qui était quatrième en points Quirrell, et qui avait aussi été
 général d'une armée. Le garçon de dix-sept ans était grand, pas
 particulièrement beau, et vêtu de robes noires. Plutôt qu'une cravate
 rouge, il en avait choisi une violette, comme le professeur Quirrell en
 avait parfois porté.</p>
-<p>Et il improvisait. L'éloge prévu longtemps à l'avance avait été rejeté ;
+<p>Et il improvisait. L'éloge prévu longtemps à l'avance avait été rejeté ;
 Oliver Habryka tenait encore le parchemin dans sa main gauche, mais il
 ne le regardait pas.</p>
-<p>"Le professeur Quirrell était très malade," dit le garçon d'une voix
+<p>« Le professeur Quirrell était très malade, » dit le garçon d'une voix
 hésitante, qui se perdait dans les murmures des autres élèves et se
-brisait parfois d'un sanglot. "Je pense qu'en pleine possession de ses
+brisait parfois d'un sanglot. « Je pense qu'en pleine possession de ses
 moyens, le professeur Quirrell aurait pu se battre, que Vous-Savez-Qui
 ne l'aurait pas vaincu facilement, peut-être même pas du tout. Ils
 disent qu'en son temps, David Monroe était le seul à avoir jamais
-effrayé Vous-Savez-Qui. Mais..." la voix d'Oliver se brisa. "... Le
+effrayé Vous-Savez-Qui. Mais... » la voix d'Oliver se brisa. « ... Le
 professeur Quirrell n'était pas en pleine possession de ses moyens. Il
 était très malade. Il avait du mal à marcher sans assistance. Et il
-s'est dressé contre le Seigneur des Ténèbres. Seul."</p>
+s'est dressé contre le Seigneur des Ténèbres. Seul. »</p>
 <p>Il y eut alors un silence, et certains élèves pleurèrent.</p>
 <p>Oliver essuya ses larmes du revers de sa manche et parla à nouveau.
-"Nous ne savons pas ce qui s'est passé," dit Oliver. "J'imagine que le
-Seigneur des Ténèbres lui a rit au nez. Peut-être qu'il s'est moqué du
-professeur, du fait qu'il lui tienne tête sans pouvoir tenir debout. Eh
-bien <em>il se marre moins, maintenant.</em>"</p>
-<p>De violents hochements de tête chez les étudiants ; Harry en observa
+« Nous ne savons pas ce qui s'est passé, » dit Oliver. « J'imagine que
+le Seigneur des Ténèbres lui a rit au nez. Peut-être qu'il s'est moqué
+du professeur, du fait qu'il lui tienne tête sans pouvoir tenir debout.
+Eh bien <em>il se marre moins, maintenant.</em> »</p>
+<p>De violents hochements de tête chez les étudiants ; Harry en observa
 partout, de Gryffondor à Serpentard.</p>
-<p>"Peut-être que le Seigneur des Ténèbres connaissait un moyen de soigner
-le professeur Quirrell ; après tout, il est revenu d'entre les morts.
+<p>« Peut-être que le Seigneur des Ténèbres connaissait un moyen de soigner
+le professeur Quirrell ; après tout, il est revenu d'entre les morts.
 Peut-être qu'il a offert au professeur Quirrell de lui rendre sa vie
 s'il devenait son serviteur. Le professeur Quirrell a souri et a dit au
 Seigneur des Ténèbres que c'était l'heure de jouer à un jeu appelé Qui
-Est Le Plus Dangereux Sorcier Du Monde."</p>
+Est Le Plus Dangereux Sorcier Du Monde. »</p>
 <p><em>Quand on ne sait pas, on n'invente pas.</em> Mais Harry resta coi. C'était
-peut-être ce que Voldemort aurait essayé ; et c'était peut-être ce que
+peut-être ce que Voldemort aurait essayé ; et c'était peut-être ce que
 le professeur Quirrell aurait répondu.</p>
-<p>"Et ils ne nous disent pas tout," dit Oliver, "mais on peut deviner ce
-qui s'est passé ensuite. Nous savons tous que Hermione Granger, une des
-meilleures élèves du professeur, s'est fait tuer par un troll plus tôt
-cette l'année, et le Seigneur des Ténèbres devait être dans le coup,
+<p>« Et ils ne nous disent pas tout, » dit Oliver, « mais on peut deviner
+ce qui s'est passé ensuite. Nous savons tous que Hermione Granger, une
+des meilleures élèves du professeur, s'est fait tuer par un troll plus
+tôt cette l'année, et le Seigneur des Ténèbres devait être dans le coup,
 tout comme il l'a sûrement faite accuser avec le sortilège de
 refroidissement du sang. Le professeur Quirrell savait que le Seigneur
 des Ténèbres était derrière ça, alors il a volé le corps de Mlle
-Granger, il l'a préservé, il l'a gardé à l'abri...".</p>
+Granger, il l'a préservé, il l'a gardé à l'abri... ».</p>
 <p>Une erreur pardonnable.</p>
-<p>"Et puis le professeur Quirrell est allé se battre contre le Seigneur
+<p>« Et puis le professeur Quirrell est allé se battre contre le Seigneur
 des Ténèbres. Il s'est fait tuer. Et Hermione Granger est revenue à la
 vie. Ils disent qu'elle est en vie maintenant, qu'elle va bien,
 peut-être mieux que bien. Le Seigneur des Ténèbres a essayé de
@@ -217,60 +237,60 @@ mains autour de la gorge de Mlle Granger. Tout comme l'amour et le
 sacrifice de sa mère ont sauvé Harry Potter du sortilège de la Mort, le
 professeur Quirrell a décidé de partir, d'aller se battre... seul...
 contre le Seigneur des Ténèbres... ça a dû invoquer... l'esprit de
-Hermione Granger... d'entre les morts... ou d'ailleurs..." Oliver
+Hermione Granger... d'entre les morts... ou d'ailleurs... » Oliver
 n'arrivait plus à parler.</p>
-<p>"Ce n'était pas seulement ça," dit Harry depuis le premier rang, d'une
+<p>« Ce n'était pas seulement ça, » dit Harry depuis le premier rang, d'une
 voix elle aussi enrouée. Il <em>devait</em> dire quelque chose avant que ça
-devienne n'importe quoi. Si ce n'était pas déjà le cas. "David Monroe
-était un sorcier puissant ; seul lui et moi savons à quel point il
+devienne n'importe quoi. Si ce n'était pas déjà le cas. « David Monroe
+était un sorcier puissant ; seul lui et moi savons à quel point il
 l'était. Je ne pense pas qu'on puisse ramener quelqu'un d'entre les
-morts en se sacrifiant. Personne ne devrait essayer cette méthode."</p>
+morts en se sacrifiant. Personne ne devrait essayer cette méthode. »</p>
 <p>Une histoire si belle. Elle aurait dû être vraie. <em>Elle aurait dû être
 vraie.</em></p>
-<p>"Je ne connais pas bien la personne qui se cachait derrière le
-professeur," dit Oliver Habryka après s'être repris. "Je sais que David
-Monroe n'était pas un homme heureux. Il n'a jamais pu créer de
-Patronus."</p>
+<p>« Je ne connais pas bien la personne qui se cachait derrière le
+professeur, » dit Oliver Habryka après s'être repris. « Je sais que
+David Monroe n'était pas un homme heureux. Il n'a jamais pu créer de
+Patronus. »</p>
 <p>Des larmes s'amoncelaient à nouveau dans les yeux de Harry. C'était
 injuste, Voldemort avait tué tant de gens, il aurait dû mourir avec les
 siens, il ne méritait aucun traitement de faveur. La faiblesse de Harry
-n'était pas seule responsable : les Horcruxes l'avaient empêché. Il ne
-<em>pouvait pas</em> être tué directement. Alors Harry pouvait se l'admettre :
+n'était pas seule responsable : les Horcruxes l'avaient empêché. Il ne
+<em>pouvait pas</em> être tué directement. Alors Harry pouvait se l'admettre :
 il était heureux, <em>heureux</em> que le professeur Quirrell n'ait pas
 totalement disparu...</p>
-<p>"Mais je... je sais," dit Oliver, des larmes scintillantes sur ses
-joues, "que, où qu'il soit, le professeur Quirrell est heureux,
-maintenant."</p>
+<p>« Mais je... je sais, » dit Oliver, des larmes scintillantes sur ses
+joues, « que, où qu'il soit, le professeur Quirrell est heureux,
+maintenant. »</p>
 <p>À la main gauche de Harry, une petite émeraude brillait sous le soleil
 de l'aube.</p>
-<p><em>Pas au paradis, pas une étoile lointaine, pas un autre lieu : une autre
+<p><em>Pas au paradis, pas une étoile lointaine, pas un autre lieu : une autre
 personne. Je vous montrerai, un jour je vous montrerai comment être
 heureux...</em></p>
 <p>Pour la première fois, le garçon jeta un regard au parchemin qu'il
-tenait en main. "Le professeur Quirrell," dit Oliver d'une voix devenue
-plus rapide, plus féroce, "était de loin le meilleur professeur de Magie
-de Bataille que Poudlard ait jamais eu. Peu importe les sortilèges que
-Salazar Serpentard connaissait, le professeur Quirrell était au moins
-deux fois meilleur. Le professeur Quirrell nous a dit au début de
-l'année que ce qu'il nous enseignait serait toujours notre socle en
-matière de Défense. Et c'est vrai. Ce le sera toujours. Nous le
+tenait en main. « Le professeur Quirrell, » dit Oliver d'une voix
+devenue plus rapide, plus féroce, « était de loin le meilleur professeur
+de Magie de Bataille que Poudlard ait jamais eu. Peu importe les
+sortilèges que Salazar Serpentard connaissait, le professeur Quirrell
+était au moins deux fois meilleur. Le professeur Quirrell nous a dit au
+début de l'année que ce qu'il nous enseignait serait toujours notre
+socle en matière de Défense. Et c'est vrai. Ce le sera toujours. Nous le
 transmettrons aux nouveaux l'année prochaine, peu importe notre
 professeur. Les élèves plus âgés apprendront aux plus jeunes. C'est la
 réponse à la malédiction jetée sur le poste de professeur de Défense.
 Nous n'attendrons pas que l'autorité nous enseigne. Et nous nous
 assurerons que les enseignements du professeur Quirrell ne disparaissent
-jamais de Poudlard."</p>
-<p>Harry regarda là où le directeur - non, là où la directrice McGonagall -
-était assise, et il la vit hocher la tête en silence, avec un air
-triste, sévère, et fier.</p>
-<p>"Ils ne nous ont pas encore laissé voir Mlle Granger," dit Oliver. Sa
-voix trembla. "La Ressuscitée. Mais je penserai toujours au professeur
+jamais de Poudlard. »</p>
+<p>Harry regarda là où le directeur --- non, là où la directrice
+McGonagall - était assise, et il la vit hocher la tête en silence, avec
+un air triste, sévère, et fier.</p>
+<p>« Ils ne nous ont pas encore laissé voir Mlle Granger, » dit Oliver. Sa
+voix trembla. « La Ressuscitée. Mais je penserai toujours au professeur
 de Défense en la regardant. Son sacrifice vit en elle, tout comme son
-savoir vit en nous." Oliver regarda Harry, puis regarda à nouveau le
-parchemin. "Au professeur Quirrell, le meilleur Serpentard à avoir
-jamais été, celui que tout Serpentard devrait être ! Pour le professeur
-Quirrell..."</p>
-<p>"<em>Hourra ! Hourra ! Hourra !</em>"</p>
+savoir vit en nous. » Oliver regarda Harry, puis regarda à nouveau le
+parchemin. « Au professeur Quirrell, le meilleur Serpentard à avoir
+jamais été, celui que tout Serpentard devrait être ! Pour le professeur
+Quirrell... »</p>
+<p>« <em>Hourra ! Hourra ! Hourra !</em> »</p>
 <p>Cette fois, pas un seul élève ne se tut.</p>
 
                     </main>
@@ -319,6 +339,7 @@ Quirrell..."</p>
         <script src="../book.js"></script>
 
         <!-- Custom JS scripts -->
+
 
 
     </div>

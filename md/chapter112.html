@@ -36,11 +36,23 @@
             const path_to_root = "../";
             const default_light_theme = "light";
             const default_dark_theme = "navy";
+            window.path_to_searchindex_js = "../searchindex.js";
         </script>
         <!-- Start loading toc.js asap -->
         <script src="../toc.js"></script>
     </head>
     <body>
+    <div id="mdbook-help-container">
+        <div id="mdbook-help-popup">
+            <h2 class="mdbook-help-title">Keyboard shortcuts</h2>
+            <div>
+                <p>Press <kbd>←</kbd> or <kbd>→</kbd> to navigate between chapters</p>
+                <p>Press <kbd>S</kbd> or <kbd>/</kbd> to search in the book</p>
+                <p>Press <kbd>?</kbd> to show this help</p>
+                <p>Press <kbd>Esc</kbd> to hide this help</p>
+            </div>
+        </div>
+    </div>
     <div id="body-container">
         <!-- Work around some values being stored in localStorage wrapped in quotes -->
         <script>
@@ -81,10 +93,13 @@
                 sidebar = sidebar || 'visible';
             } else {
                 sidebar = 'hidden';
+                sidebar_toggle.checked = false;
             }
-            sidebar_toggle.checked = sidebar === 'visible';
-            html.classList.remove('sidebar-visible');
-            html.classList.add("sidebar-" + sidebar);
+            if (sidebar === 'visible') {
+                sidebar_toggle.checked = true;
+            } else {
+                html.classList.remove('sidebar-visible');
+            }
         </script>
 
         <nav id="sidebar" class="sidebar" aria-label="Table of contents">
@@ -118,7 +133,7 @@
                             <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
                             <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
                         </ul>
-                        <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                        <button id="search-toggle" class="icon-button" type="button" title="Search (`/`)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="/ s" aria-controls="searchbar">
                             <i class="fa fa-search"></i>
                         </button>
                     </div>
@@ -135,7 +150,12 @@
 
                 <div id="search-wrapper" class="hidden">
                     <form id="searchbar-outer" class="searchbar-outer">
-                        <input type="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                        <div class="search-wrapper">
+                            <input type="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                            <div class="spinner-wrapper">
+                                <i class="fa fa-spinner fa-spin"></i>
+                            </div>
+                        </div>
                     </form>
                     <div id="searchresults-outer" class="searchresults-outer hidden">
                         <div id="searchresults-header" class="searchresults-header"></div>
@@ -157,7 +177,7 @@
                     <main>
                         <h1 id="Échec-partie-2"><a class="header" href="#Échec-partie-2">Échec, partie 2</a></h1>
 <p>Au moment même où il leva son arme, Harry sut qu'il commettait une
-erreur ; son cerveau antérieur le vit, essaya d'arrêter sa main, mais
+erreur ; son cerveau antérieur le vit, essaya d'arrêter sa main, mais
 l'écœurante certitude ne parvint pas à se propager assez vite pour
 empêcher son doigt d'appuyer sur la détente...</p>
 <p>L'écho des tirs résonna dans le cimetière.</p>
@@ -165,87 +185,87 @@ empêcher son doigt d'appuyer sur la détente...</p>
 avait baissé sa baguette et un large mur de terre s'était levé entre
 eux. Il intercepta les trois balles.</p>
 <p>Un instant plus tard, une douleur surgit dans la cicatrice de Harry, un
-fourmillement parcourut sa peau ; et sa bourse, ses vêtements, son
+fourmillement parcourut sa peau ; et sa bourse, ses vêtements, son
 pistolet, tout sauf sa baguette disparut. Il fut laissé nu, mis à part
 sa baguette et ses lunettes, ensorcelées pour coller à son nez. L'anneau
 d'acier à son petit doigt fut arraché si fort qu'il emmena de la peau,
 et le joyau métamorphosé partit avec.</p>
-<p>"Voilà," dit la voix de Voldemort venue de derrière le mur de terre,
-"qui était <em>parfaitement</em> prévisible. Penses-tu vraiment que, si mon
-immortalité venait à faillir, j'irais le crier sur les toits ? Vraiment,
-stupide enfant ? Abaisse ta baguette et ne la relève sous aucun
-prétexte, sans quoi tu mourras dans l'instant."</p>
-<p>Harry déglutit et abaissa sa baguette. "Je vous aurais déçu," dit Harry
-d'une voix plus fluette qu'à l'accoutumée, "je veux dire, si j'avais
-raté une opportunité pareille." Il n'avait pas le temps de réfléchir et
-sa bouche était sur pilote automatique, en mode calmer un sorcier
-maléfique qui abrite peut-être des instincts paternels à mon égard et
-que je viens juste sans succès de tenter d'assassiner.</p>
+<p>« Voilà, » dit la voix de Voldemort venue de derrière le mur de terre,
+« qui était <em>parfaitement</em> prévisible. Penses-tu vraiment que, si mon
+immortalité venait à faillir, j'irais le crier sur les toits ? Vraiment,
+stupide enfant ? Abaisse ta baguette et ne la relève sous aucun
+prétexte, sans quoi tu mourras dans l'instant. »</p>
+<p>Harry déglutit et abaissa sa baguette. « Je vous aurais déçu, » dit
+Harry d'une voix plus fluette qu'à l'accoutumée, « je veux dire, si
+j'avais raté une opportunité pareille. » Il n'avait pas le temps de
+réfléchir et sa bouche était sur pilote automatique, en mode calmer un
+sorcier maléfique qui abrite peut-être des instincts paternels à mon
+égard et que je viens juste sans succès de tenter d'assassiner.</p>
 <p>Voldemort fit le tour du mur de terre, avec cet horrible sourire qui lui
-donnait l'air d'avoir trop de dents. "J'ai promis de ne lever ni ma main
-ni ma baguette contre toi, petit, à condition que tu ne fasses pas de
-même."</p>
-<p>"J'ai utilisé des balles," dit Harry d'une voix toujours aiguë. "Ce
-n'est ni un coup de poing ni un sortilège."</p>
-<p>"Mon enchantement voit les choses autrement. C'est la pièce du puzzle
+donnait l'air d'avoir trop de dents. « J'ai promis de ne lever ni ma
+main ni ma baguette contre toi, petit, à condition que tu ne fasses pas
+de même. »</p>
+<p>« J'ai utilisé des balles, » dit Harry d'une voix toujours aiguë. « Ce
+n'est ni un coup de poing ni un sortilège. »</p>
+<p>« Mon enchantement voit les choses autrement. C'est la pièce du puzzle
 qui te manquait. Pensais-tu que je laisserais notre bonne entente au
-hasard ? Avant de te créer, j'ai jeté un enchantement sur moi-même et
+hasard ? Avant de te créer, j'ai jeté un enchantement sur moi-même et
 tous les Tom Jedusor qui descendraient de moi. Un enchantement qui nous
 empêchait tous de menacer l'immortalité des autres, tant qu'aucun autre
 n'attentait à la vie de l'un. À la manière typique des fiascos de ce
 genre, l'enchantement semble n'avoir eu d'effet que sur moi, pas sur le
-nourrisson à l'esprit perdu." Un gloussement sourd, mortel. "<em>Mais tu
+nourrisson à l'esprit perdu. » Un gloussement sourd, mortel. « <em>Mais tu
 viens de tenter de mettre fin à ma vie, sstupide enfant. Maintenant
-l'enchantement est levé, et je peux te tuer quand je le souhaite.</em>"</p>
-<p>"Je vois," dit Harry. Il voyait bien : c'était pour <em>ça</em> que Voldemort
+l'enchantement est levé, et je peux te tuer quand je le souhaite.</em> »</p>
+<p>« Je vois, » dit Harry. Il voyait bien : c'était pour <em>ça</em> que Voldemort
 lui avait parlé de son système de Horcruxes, juste pour préparer
 l'instant où Harry tenterait de mettre fin à son immortalité. L'esprit
 de Harry passait en revue ses options, mais aucune ne paraissait utile.
-Sa bourse, ses vêtements ; Harry les vit éclairés par la lune, en tas,
-près de l'autel, hors d'atteinte. "Et maintenant, vous me tuez ?" Harry
-avait toujours sa baguette. Le Seigneur des Ténèbres ne pouvait
+Sa bourse, ses vêtements ; Harry les vit éclairés par la lune, en tas,
+près de l'autel, hors d'atteinte. « Et maintenant, vous me tuez ? »
+Harry avait toujours sa baguette. Le Seigneur des Ténèbres ne pouvait
 probablement pas les toucher de sa magie, à cause de la résonance.
-<em>Lancer un sort en premier ? Non, Voldemort abaisserait simplement sa
+<em>Lancer un sort en premier ? Non, Voldemort abaisserait simplement sa
 baguette pour faire un autre bouclier, et ensuite il me descendrait -
-qu'est-ce que je peux faire d'autre ? QUOI D'AUTRE ?</em></p>
-<p>"Toujours aussi idiot. Si c'en était fini entre nous, je t'aurais déjà
-tué." Le mur s'effondra d'un autre mouvement de baguette, et Voldemort
+qu'est-ce que je peux faire d'autre ? QUOI D'AUTRE ?</em></p>
+<p>« Toujours aussi idiot. Si c'en était fini entre nous, je t'aurais déjà
+tué. » Le mur s'effondra d'un autre mouvement de baguette, et Voldemort
 revint prestement au tas d'objets tombés près de l'autel. Le Seigneur
 des Ténèbres tendit une main et le journal de Roger Bacon vola jusqu'à
-lui. "<em>C'est véritablement un Horcruxe de la fille-enfant, ma verssion
-améliorée.</em>" Dans son autre main apparut un parchemin. "<em>Voici le rituel
-pour la resssussciter, au cas où. Insstructions honnêtes, pas de piège.
-Souviens-toi que l'essprit de fille-enfant ne ssera pas libre comme
-celui d'un fantôme, Pierre de Résurrection est mon Horcruxe, pas le
-ssien. Ne perds pas sson Horcruxe, ou son essprit pourrait y resster
-enfermé.</em>" Voldemort s'abaissa et ramassa la bourse de Harry ; il y
-plaça le journal et le parchemin. "<em>Ssi jamais ce que j'ai prévu tourne
-mal, ssouviens-toi de ça.</em>"</p>
-<p>"Je ne comprends pas ce qui se passe," dit Harry. Il n'y avait plus rien
-à faire. "Expliquez-moi, s'il vous plaît."</p>
+lui. « <em>C'est véritablement un Horcruxe de la fille-enfant, ma verssion
+améliorée.</em> » Dans son autre main apparut un parchemin. « <em>Voici le
+rituel pour la resssussciter, au cas où. Insstructions honnêtes, pas de
+piège. Souviens-toi que l'essprit de fille-enfant ne ssera pas libre
+comme celui d'un fantôme, Pierre de Résurrection est mon Horcruxe, pas
+le ssien. Ne perds pas sson Horcruxe, ou son essprit pourrait y resster
+enfermé.</em> » Voldemort s'abaissa et ramassa la bourse de Harry ; il y
+plaça le journal et le parchemin. « <em>Ssi jamais ce que j'ai prévu tourne
+mal, ssouviens-toi de ça.</em> »</p>
+<p>« Je ne comprends pas ce qui se passe, » dit Harry. Il n'y avait plus
+rien à faire. « Expliquez-moi, s'il vous plaît. »</p>
 <p>Le Seigneur des Ténèbres regardait maintenant Harry avec un air sévère.
-"<em>Quand fille-enfant est morte, j'étais en compagnie de la voyante de
+« <em>Quand fille-enfant est morte, j'étais en compagnie de la voyante de
 l'école et j'ai entendu une prophétie disant que tu deviendrais une
 immensse force desstructriçce. Tu deviendrais menaçce défiant
 l'imagination, pire que l'apocalypsse. C'est pour cela que j'ai fait
 tant d'efforts pour annuler mon meurtre de la fille-enfant et qu'elle
-reste en vie.</em>"</p>
-<p>"Est-ce que -" quoi "est-ce que vous êtes sûr -" quoi.</p>
-<p>"<em>Je n'ose pas te donner de détails. Prophétie à mon ssujet que j'ai
-entendue m'a pousssé à l'accomplir. N'ai pas oublié ce désasstre.</em>"
+reste en vie.</em> »</p>
+<p>« Est-ce que --- » quoi « est-ce que vous êtes sûr --- » quoi.</p>
+<p>« <em>Je n'ose pas te donner de détails. Prophétie à mon ssujet que j'ai
+entendue m'a pousssé à l'accomplir. N'ai pas oublié ce désasstre.</em> »
 Voldemort s'éloigna un peu plus de Harry, ses yeux rouges et fendus
-fixés sur le Survivant, son pistolet fermement en main. "<em>Tout ceci,
+fixés sur le Survivant, son pistolet fermement en main. « <em>Tout ceci,
 tout ce que j'ai fait, c'est pour brisser ce desstin à tous les points
 d'intervention possibles. Ssi quelque malheur m'empêche de faire ce qui
 va suivre, alors, enfant imbécile, desstructeur annoncé, alors tu devras
 te tuer pour ssauver fille-enfant. Ssinon, tout ce à quoi tu prétends
-accorder valeur mourra par ta main.</em>"</p>
-<p>"Je," la voix de Harry grimpa d'une octave, "je," une autre octave, "je
-ne ferais <em>vraiment, vraiment pas ça, sérieusement !</em>"</p>
-<p>"<em>Ssilence, idiot. Resste muet tant que je ne t'autorisse pas à parler.
+accorder valeur mourra par ta main.</em> »</p>
+<p>« Je, » la voix de Harry grimpa d'une octave, « je, » une autre octave,
+« je ne ferais <em>vraiment, vraiment pas ça, sérieusement !</em> »</p>
+<p>« <em>Ssilence, idiot. Resste muet tant que je ne t'autorisse pas à parler.
 Garde ta baguette baisssée, ne la lève pas sans qu'on te l'ait dit.
 Ssinon tu mourras instantanément, et remarque bien que j'ai dit cela en
-Fourchelangue.</em>" Voldemort plongea à nouveau sa main dans l'autel.</p>
+Fourchelangue.</em> » Voldemort plongea à nouveau sa main dans l'autel.</p>
 <p>Pendant une seconde, l'esprit de Harry ne put appréhender ce qu'il
 voyait, puis il comprit que Voldemort tenait un bras humain, coupé près
 de l'épaule. Il semblait trop fin, ce bras.</p>
@@ -258,18 +278,18 @@ apparut dans le cimetière accompagnée d'un bruit de Transplanage.
 Quelques instants plus tard, un autre bruit, puis encore un autre.</p>
 <p>Les silhouettes encapuchonnées portaient des masques de crâne argentés
 et la lumière de la lune fuyait leurs robes.</p>
-<p>"Maître !" s'écria l'une des robes noires, le troisième à apparaître.
+<p>« Maître ! » s'écria l'une des robes noires, le troisième à apparaître.
 Derrière le masque de crâne, la voix était d'un étrange timbre.
-"Maître... cela faisait si longtemps... nous avions perdu espoir..."</p>
-<p>"Silence !" cria la voix flûtée du Seigneur des Ténèbres. Toute trace du
-professeur Quirrell avait quitté la silhouette trop grande. "Orientez
-vos baguettes vers le Survivant, et surveillez-le ! Ne vous laissez
-distraire par rien ! Étourdissez-le s'il bouge ou s'il se met à
-parler !"</p>
+« Maître... cela faisait si longtemps... nous avions perdu espoir... »</p>
+<p>« Silence ! » cria la voix flûtée du Seigneur des Ténèbres. Toute trace
+du professeur Quirrell avait quitté la silhouette trop grande.
+« Orientez vos baguettes vers le Survivant, et surveillez-le ! Ne vous
+laissez distraire par rien ! Étourdissez-le s'il bouge ou s'il se met à
+parler ! »</p>
 <p>D'autres transplanages. Entre les tombes, derrière un arbre, dans tous
 les recoins sombres, d'autres robes noires arrivaient, toutes
 encapuchonnées et masquées. Certaines poussèrent des exclamations de
-joies, forcées pour beaucoup ; d'autre s'avançaient, faisaient mine
+joies, forcées pour beaucoup ; d'autre s'avançaient, faisaient mine
 d'accueillir leur Maître. Voldemort leur donna à tous le même ordre,
 sauf à ceux qui devraient lui lancer Crucio s'il bougeait, à ceux qui
 devraient se jeter sur lui s'il bougeait, à ceux qui devraient lui
@@ -332,6 +352,7 @@ moi, je commence à penser qu'on est mal barrés.</em></p>
         <script src="../book.js"></script>
 
         <!-- Custom JS scripts -->
+
 
 
     </div>

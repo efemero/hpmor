@@ -36,11 +36,23 @@
             const path_to_root = "../";
             const default_light_theme = "light";
             const default_dark_theme = "navy";
+            window.path_to_searchindex_js = "../searchindex.js";
         </script>
         <!-- Start loading toc.js asap -->
         <script src="../toc.js"></script>
     </head>
     <body>
+    <div id="mdbook-help-container">
+        <div id="mdbook-help-popup">
+            <h2 class="mdbook-help-title">Keyboard shortcuts</h2>
+            <div>
+                <p>Press <kbd>←</kbd> or <kbd>→</kbd> to navigate between chapters</p>
+                <p>Press <kbd>S</kbd> or <kbd>/</kbd> to search in the book</p>
+                <p>Press <kbd>?</kbd> to show this help</p>
+                <p>Press <kbd>Esc</kbd> to hide this help</p>
+            </div>
+        </div>
+    </div>
     <div id="body-container">
         <!-- Work around some values being stored in localStorage wrapped in quotes -->
         <script>
@@ -81,10 +93,13 @@
                 sidebar = sidebar || 'visible';
             } else {
                 sidebar = 'hidden';
+                sidebar_toggle.checked = false;
             }
-            sidebar_toggle.checked = sidebar === 'visible';
-            html.classList.remove('sidebar-visible');
-            html.classList.add("sidebar-" + sidebar);
+            if (sidebar === 'visible') {
+                sidebar_toggle.checked = true;
+            } else {
+                html.classList.remove('sidebar-visible');
+            }
         </script>
 
         <nav id="sidebar" class="sidebar" aria-label="Table of contents">
@@ -118,7 +133,7 @@
                             <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
                             <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
                         </ul>
-                        <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                        <button id="search-toggle" class="icon-button" type="button" title="Search (`/`)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="/ s" aria-controls="searchbar">
                             <i class="fa fa-search"></i>
                         </button>
                     </div>
@@ -135,7 +150,12 @@
 
                 <div id="search-wrapper" class="hidden">
                     <form id="searchbar-outer" class="searchbar-outer">
-                        <input type="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                        <div class="search-wrapper">
+                            <input type="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                            <div class="spinner-wrapper">
+                                <i class="fa fa-spinner fa-spin"></i>
+                            </div>
+                        </div>
                     </form>
                     <div id="searchresults-outer" class="searchresults-outer hidden">
                         <div id="searchresults-header" class="searchresults-header"></div>
@@ -155,7 +175,7 @@
 
                 <div id="content" class="content">
                     <main>
-                        <h1 id="après-coup-quelque-chose-à-protéger--draco-malfoy"><a class="header" href="#après-coup-quelque-chose-à-protéger--draco-malfoy">Après-coup, quelque chose à protéger : Draco Malfoy</a></h1>
+                        <h1 id="après-coup-quelque-chose-à-protéger--drago-malefoy"><a class="header" href="#après-coup-quelque-chose-à-protéger--drago-malefoy">Après-coup, quelque chose à protéger : Drago Malefoy</a></h1>
 <p>Le garçon était assis dans un bureau non loin de l'ancien bureau de la
 directrice adjointe. Ses larmes s'étaient asséchées des heures plus tôt.
 Il ne lui restait que l'attente de son devenir, celui d'un orphelin de
@@ -164,58 +184,58 @@ de sa famille. On l'avait fait venir ici, et il avait obtempéré par
 manque d'alternatives. Vincent et Gregory l'avaient quitté, rappelés par
 leurs mères pour les funérailles hâtives de leurs pères. Peut-être le
 garçon aurait-il dû les accompagner, mais il n'avait pas réussi à le
-faire. Il n'aurait pas su jouer le rôle d'un Malfoy. Le sentiment de
+faire. Il n'aurait pas su jouer le rôle d'un Malefoy. Le sentiment de
 vide qui l'emplissait était si profond qu'il ne restait plus de place
 pour de la fausse courtoisie.</p>
 <p>Ils étaient tous morts.</p>
 <p>Son père était mort, son parrain MacNair aussi, tout comme son parrain
 de secours, M. Avery. Même Sirius Black, le cousin de sa mère, avait
 réussi à y passer, et tout ce qui restait de la maison Black éprouvait
-peu d'amitié pour les Malfoys.</p>
+peu d'amitié pour les Malefoy.</p>
 <p>Ils étaient tous morts.</p>
-<p>On frappa à la porte du bureau ; et quand le garçon ne répondit pas, la
+<p>On frappa à la porte du bureau ; et quand le garçon ne répondit pas, la
 porte s'ouvrit pour révéler...</p>
-<p>"Vas-t'en," dit Draco Malfoy au Survivant. Il ne parvint pas à prononcer
-les mots avec force.</p>
-<p>"Je partirai bientôt," dit Harry Potter en entrant. "Mais une décision
-doit être prise, et toi seul en es capable."</p>
-<p>Draco se tourna vers le mur, parce que la simple vue de Harry Potter lui
+<p>« Vas-t'en, » dit Drago Malefoy au Survivant. Il ne parvint pas à
+prononcer les mots avec force.</p>
+<p>« Je partirai bientôt, » dit Harry Potter en entrant. « Mais une
+décision doit être prise, et toi seul en es capable. »</p>
+<p>Drago se tourna vers le mur, parce que la simple vue de Harry Potter lui
 demandait plus d'efforts qu'il ne pouvait en fournir.</p>
-<p>"Tu dois décider," dit Harry, "ce qui va arriver à Draco Malfoy. Je ne
-veux pas être menaçant ; quoi qu'il arrive, tu deviendras le riche
-héritier d'une Noble et Très Ancienne Maison. Le truc," dit Harry d'une
-voix à présent vacillante, "le truc, c'est qu'il y a quelque chose
+<p>« Tu dois décider, » dit Harry, « ce qui va arriver à Drago Malefoy. Je
+ne veux pas être menaçant ; quoi qu'il arrive, tu deviendras le riche
+héritier d'une Noble et Très Ancienne Maison. Le truc, » dit Harry d'une
+voix à présent vacillante, « le truc, c'est qu'il y a quelque chose
 d'horrible que tu ignores, et je n'arrête pas de penser que si tu le
 savais, tu me dirais que tu ne veux plus être mon ami. Et je ne veux pas
 arrêter d'être ton ami. Mais de juste... ne jamais te le dire... et
 toujours maintenir ce mensonge, pour pouvoir continuer d'être ton ami...
 je ne peux pas. Et ce serait mal. Je ne... je ne veux plus faire ça, je
-ne veux plus te <em>manipuler</em>. Je t'ai fait trop de mal."</p>
+ne veux plus te <em>manipuler</em>. Je t'ai fait trop de mal. »</p>
 <p><em>Alors arrête d'essayer d'être mon ami, tu t'y prends mal de toute
-façon.</em> Les mots surgirent dans la conscience de Draco et ses lèvres les
+façon.</em> Les mots surgirent dans la conscience de Drago et ses lèvres les
 rejetèrent. Il avait déjà le sentiment d'avoir presque entièrement perdu
 Harry, à cause de la façon dont ce dernier avait joué avec leur amitié,
-à cause de ses mensonges, de ses manipulations ; et pourtant l'idée de
+à cause de ses mensonges, de ses manipulations ; et pourtant l'idée de
 retourner seul à Serpentard, peut-être sans Vincent et Gregory si leurs
 mères mettaient fin à l'accord... il ne souhaitait pas cela, il ne
 souhaitait pas retourner à Serpentard et vivre uniquement entourés de
 gens qui avaient acceptés d'y être Répartis. Il avait encore la présence
 d'esprit de comprendre combien de ses vrais amis étaient aussi amis avec
 Harry, que Padma était à Serpentard, et que même Théodore était un
-lieutenant du Chaos. Tout ce qui restait de la maison Malfoy était une
-tradition ; et cette tradition disait qu'il était idiot de dire au
-gagnant de la guerre de partir, de rejeter son amitié."</p>
-<p>"Très bien," dit Draco d'une voix vide. "Dis-moi."</p>
-<p>"C'est ce que je vais faire," dit Harry. "Et ensuite la directrice va
+lieutenant du Chaos. Tout ce qui restait de la maison Malefoy était une
+tradition ; et cette tradition disait qu'il était idiot de dire au
+gagnant de la guerre de partir, de rejeter son amitié.</p>
+<p>« Très bien, » dit Drago d'une voix vide. « Dis-moi. »</p>
+<p>« C'est ce que je vais faire, » dit Harry. « Et ensuite la directrice va
 venir après mon départ et sceller ta dernière demi-heure de souvenirs.
 Mais avant, en connaissant toute la vérité, tu vas décider si tu veux
-toujours passer du temps avec moi." Sa voix tremblait. "Hmm. Selon les
+toujours passer du temps avec moi. » Sa voix tremblait. « Hmm. Selon les
 archives que je lisais avant de venir ici, l'histoire a vraiment
 commencé en 1926 avec la naissance de Tom Erfin Jedusor. Sa mère est
 morte en couches et il a grandi dans un orphelinat Moldu jusqu'à ce que
-sa lettre de Poudlard lui soit apportée par Dumbledore..."</p>
+sa lettre de Poudlard lui soit apportée par Dumbledore... »</p>
 <p>Le Survivant continua de parler et les mots s'écrasèrent sur l'esprit de
-Draco comme une boule de démolition.</p>
+Drago comme une boule de démolition.</p>
 <p><em>Le Seigneur des Ténèbres était un Sang-Mêlé. Il n'a jamais cru à la
 pureté du sang.</em></p>
 <p><em>Pour Tom Jedusor, Lord Voldemort était une mauvaise blague.</em></p>
@@ -230,21 +250,21 @@ Philosophale.</em> Il ne s'en souvenait pas, mais on lui avait déjà dit
 qu'il avait été un pion, comme le professeur Chourave, et qu'il ne
 serait accusé de rien.</p>
 <p>Et la dernière horreur.</p>
-<p>"Tu..." murmura Draco Malfoy. "Tu..."</p>
-<p>"C'est moi qui ai tué ton père et tous les autres Mangemorts, cette
+<p>« Tu... » murmura Drago Malefoy. « Tu... »</p>
+<p>« C'est moi qui ai tué ton père et tous les autres Mangemorts, cette
 nuit-là. Ils avaient reçu l'ordre de me tirer dessus à la seconde où je
 ferai quelque chose, et je devais donc les tuer pour avoir une chance
-d'avoir Voldemort ; il présentait un danger pour la terre entière." La
-voix de Harry Potter était rauque. "Je n'ai pas pensé à toi, à Théodore,
-à Vincent ou à Gregory, mais si j'y avais pensé, je l'aurais fait quand
-même. Mon esprit a réussi à ne se rendre compte qu'après que M. Blanc
-était Lucius, mais même si je m'en étais rendu compte, je n'aurais
-toujours pas pris le risque de le laisser en vie, au cas où il aurait su
-pratiquer la magie muette. L'idée m'est venue il y a longtemps qu'il
-serait pratique, d'un point de vue politique, de tuer d'un coup tous les
-Mangemorts. J'ai toujours pensé que les Mangemorts étaient des gens
-horribles, bien plus que ce que je ne te l'ai laissé entendre, et ce
-depuis le jour où je t'ai rencontré. Mais si ton père n'avait pas été
+d'avoir Voldemort ; il présentait un danger pour la terre entière. » La
+voix de Harry Potter était rauque. « Je n'ai pas pensé à toi, à
+Théodore, à Vincent ou à Gregory, mais si j'y avais pensé, je l'aurais
+fait quand même. Mon esprit a réussi à ne se rendre compte qu'après que
+M. Blanc était Lucius, mais même si je m'en étais rendu compte, je
+n'aurais toujours pas pris le risque de le laisser en vie, au cas où il
+aurait su pratiquer la magie muette. L'idée m'est venue il y a longtemps
+qu'il serait pratique, d'un point de vue politique, de tuer d'un coup
+tous les Mangemorts. J'ai toujours pensé que les Mangemorts étaient des
+gens horribles, bien plus que ce que je ne te l'ai laissé entendre, et
+ce depuis le jour où je t'ai rencontré. Mais si ton père n'avait pas été
 là, et si j'avais eu un bouton pour le tuer à distance, je n'aurais pas
 appuyé sur le bouton pour des raisons purement politique. Ce que je
 ressens quand je pense à ce que j'ai fait, et le remords que je peux
@@ -253,36 +273,35 @@ tué quelqu'un. Et une autre partie dit que d'un point de vue moral, les
 Mangemorts ont accepté leur sort le jour où ils ont accepté de
 travailler pour Voldemort. Ils ont braqué leurs baguettes sur moi les
 premiers, bla bla bla etc. Mais là, je me sens juste malade de t'avoir
-infligé tout ça. Une fois de plus. Je sens que," sa voix vacilla un peu,
-"tout ce que je fais te fait du mal, en dépit de mes <em>bonnes
+infligé tout ça. Une fois de plus. Je sens que, » sa voix vacilla un
+peu, « tout ce que je fais te fait du mal, en dépit de mes <em>bonnes
 intentions</em>, qu'être à côté de moi ne t'a occasionné que des pertes.
-Alors, si tu me dis de ne plus fréquenter Draco Malfoy, c'est ce que je
+Alors, si tu me dis de ne plus fréquenter Drago Malefoy, c'est ce que je
 ferai. Et si tu veux que j'essaie d'être vraiment ton ami, sans jamais
 réessayer de te manipuler, sans jamais t'utiliser ou prendre le risque
-de te faire du mal, alors je le ferai, je te le jure."</p>
-<p>Le prochain Lord Malfoy pleurait ouvertement face à son ennemi. Le décor
-et les apparences avaient été abandonnés, parce qu'il n'y avait plus
-personne à qui faire croire quoi que ce soit.</p>
+de te faire du mal, alors je le ferai, je te le jure. »</p>
+<p>Le prochain Lord Malefoy pleurait ouvertement face à son ennemi. Le
+décor et les apparences avaient été abandonnés, parce qu'il n'y avait
+plus personne à qui faire croire quoi que ce soit.</p>
 <p>Un mensonge.</p>
 <p>Un mensonge.</p>
 <p>Tout avait été un mensonge, c'étaient des mensonges empilés sur
 d'autres, mensonges mensonges mensonges...</p>
-<p>"<em>Tu</em> devrais mourir," se força-t-il à dire. "Tu devrais mourir pour
-avoir tué Père." Les mots ne firent que le remplir de vide, mais il
+<p>« <em>Tu</em> devrais mourir, » se força-t-il à dire. « Tu devrais mourir pour
+avoir tué Père. » Les mots ne firent que le remplir de vide, mais il
 fallait qu'ils fussent dits.</p>
-<p>Harry Potter secoua simplement la tête. "Et si ce n'est pas possible ?"</p>
-<p>"Tu devrais <em>souffrir</em>."</p>
+<p>Harry Potter secoua simplement la tête. « Et si ce n'est pas
+possible ? »</p>
+<p>« Tu devrais <em>souffrir</em>. »</p>
 <p>À nouveau, Harry Potter secoua simplement la tête.</p>
-<p>Le Survivant insista, pressa Lord Malfoy de prendre une décision.</p>
-<p>Lord Malfoy s'y refusa. Il ne parvenait pas à prononcer une réponse,
+<p>Le Survivant insista, pressa Lord Malefoy de prendre une décision.</p>
+<p>Lord Malefoy s'y refusa. Il ne parvenait pas à prononcer une réponse,
 quelle qu'elle soit. Il ne voulait pas laisser le gagnant et leurs amis
 communs l'abandonner, et il n'allait pas non plus donner à Harry
 l'absolution qu'il désirait.</p>
-<p>Draco Malfoy se refusa donc à répondre, et les souvenirs de celui-ci
+<p>Drago Malefoy se refusa donc à répondre, et les souvenirs de celui-ci
 disparurent.</p>
-<p> </p>
 <hr />
-<p> </p>
 <p>Le garçon était assis dans un bureau non loin de l'ancien bureau de la
 directrice adjointe. Ses larmes s'étaient asséchées des heures plus tôt.
 Il ne lui restait que l'attente de son devenir, celui d'un orphelin de
@@ -291,46 +310,44 @@ sa famille. On l'avait fait venir ici, et il avait obtempéré par manque
 d'alternatives. Vincent et Gregory l'avaient quittés, rappelés par leurs
 mères pour les funérailles hâtives de leurs pères. Peut-être le garçon
 aurait-il dû les accompagner, mais il n'avait pas réussi à le faire. Il
-n'aurait pas su jouer le rôle d'un Malfoy. Le sentiment de vide qui
+n'aurait pas su jouer le rôle d'un Malefoy. Le sentiment de vide qui
 l'emplissait était si profond qu'il ne restait plus de place pour de la
 fausse courtoisie.</p>
 <p>Ils étaient tous morts.</p>
 <p>Ils étaient tous morts, et tout avait été futile depuis le début.</p>
 <p>On frappa à la porte du bureau, puis, après un moment de flottement
 poli, elle s'ouvrit pour révéler la directrice McGonagall, habillée
-comme à son habitude. "M. Malfoy," dit la famille de son ennemi
-victorieux. "Venez avec moi, s'il vous plaît."</p>
-<p>Draco Malfoy se leva avec indifférence et la suivit hors du bureau. Voir
-Harry Potter debout devant la porte l'interloqua, mais son esprit écarta
-simplement la pensée.</p>
-<p>"Une dernière chose" dit Harry Potter. "Je l'ai trouvé dans un parchemin
-roulé dont l'extérieur disait que c'était la dernière arme à utiliser
-contre la Maison Malfoy et de ne pas continuer à lire à moins que
-l'issue de toute la guerre ne soit en jeu. Je ne voulais pas te le dire
-avant parce que je pensais que ça t'influencerait injustement. Si tu
-étais quelqu'un de bien, que tu n'avais jamais tué ni menti, mais que tu
-devais faire l'un ou l'autre, qu'est-ce qui serait pire ?"</p>
-<p>Draco l'ignora, continua après la directrice McGonagall, et laissa un
+comme à son habitude. « M. Malefoy, » dit la famille de son ennemi
+victorieux. « Venez avec moi, s'il vous plaît. »</p>
+<p>Drago Malefoy se leva avec indifférence et la suivit hors du bureau.
+Voir Harry Potter debout devant la porte l'interloqua, mais son esprit
+écarta simplement la pensée.</p>
+<p>« Une dernière chose » dit Harry Potter. « Je l'ai trouvé dans un
+parchemin roulé dont l'extérieur disait que c'était la dernière arme à
+utiliser contre la Maison Malefoy et de ne pas continuer à lire à moins
+que l'issue de toute la guerre ne soit en jeu. Je ne voulais pas te le
+dire avant parce que je pensais que ça t'influencerait injustement. Si
+tu étais quelqu'un de bien, que tu n'avais jamais tué ni menti, mais que
+tu devais faire l'un ou l'autre, qu'est-ce qui serait pire ? »</p>
+<p>Drago l'ignora, continua après la directrice McGonagall, et laissa un
 Harry à l'air chagriné derrière lui.</p>
 <p>Ils se rendirent au vieux bureau de la directrice où cette dernière
-alluma la cheminée d'un mouvement de baguette et dit à la flamme verte :
-"Bureau des voyages de Gringotts" avant de s'y plonger, un regard ferme
-posé sur lui.</p>
-<p>N'ayant pas d'autre choix, Draco Malfoy la suivit.</p>
-<p> </p>
+alluma la cheminée d'un mouvement de baguette et dit à la flamme verte :
+« Bureau des voyages de Gringotts » avant de s'y plonger, un regard
+ferme posé sur lui.</p>
+<p>N'ayant pas d'autre choix, Drago Malefoy la suivit.</p>
 <hr />
-<p> </p>
 <p>Elle était au lit, plus indifférente qu'à son habitude, ce matin-là,
-réveillée trop tôt par un soleil en train de se lever - même si sa
+réveillée trop tôt par un soleil en train de se lever --- même si sa
 lumière directe était bloquée par les grattes-ciels qui faisaient de
 l'ombre à sa maison. Une légère gueule de bois rongeait ses tempes et
-asséchait sa bouche ; elle avait essayé de ne pas trop boire (même si
+asséchait sa bouche ; elle avait essayé de ne pas trop boire (même si
 elle se demandait bien pourquoi elle se fatiguait) mais hier elle
 s'était sentie... plus déprimée qu'à son habitude, comme si, sans savoir
 quoi, elle avait perdu quelque chose. Pas pour la première fois ni pour
-la centième, elle songea à déménager - vers Adelaide, vers Perth,
+la centième, elle songea à déménager --- vers Adelaide, vers Perth,
 peut-être même Perth Amboy s'il le fallait. Elle avait toujours eu le
-sentiment de devoir être ailleurs ; mais, même si elle pouvait vivre
+sentiment de devoir être ailleurs ; mais, même si elle pouvait vivre
 confortablement grâce au revenu mensuel fourni par la compagnie
 d'assurance, elle ne pouvait se permettre d'être dépensière. Elle ne
 pouvait pas aller vadrouiller de par le monde à la recherche d'un lieu
@@ -339,7 +356,7 @@ regardé la télévision et loué assez de documentaires de voyages pour
 savoir qu'aucun endroit montré par son magnétoscope ne lui conviendrait
 mieux que Sydney.</p>
 <p>Depuis l'accident de voiture qui lui avait ravi ses souvenirs, elle
-s'était sentie figée, arrêtée dans le temps - pas seulement les
+s'était sentie figée, arrêtée dans le temps --- pas seulement les
 souvenirs d'une famille morte qui ne signifiait plus rien pour elle,
 mais aussi la façon de faire marcher un four. Elle soupçonnait, non,
 elle <em>savait</em> que la clé qu'attendait son cœur, qu'attendait sa vie pour
@@ -348,26 +365,26 @@ Elle y pensait presque tous les matins et essayait de deviner ce qui lui
 manquait, manquait, manquait dans sa vie et son esprit.</p>
 <p>Quelqu'un sonna à la porte.</p>
 <p>Elle grogna et tourna la tête pour lire l'heure sur réveil-matin
-électronique. 6h31 du matin. <em>Sérieux ?</em> Eh bien, cet idiot pouvait
+électronique. 6 h 31 du matin. <em>Sérieux ?</em> Eh bien, cet idiot pouvait
 attendre qu'elle se lève à son rythme.</p>
 <p>Elle se leva lentement, bien à son rythme, et ignora l'alarme qui rentit
 de nouveau quand elle entra dans la salle de bains et commença à
 s'habiller.</p>
 <p>Elle descendit les escaliers sans conviction et ignora l'agaçant
 sentiment que quelqu'un d'autre aurait dû ouvrir la porte pour elle.
-"Qui est là ?" dit-elle à la porte fermée ; elle était munie d'un judas,
-mais il était obscurci.</p>
-<p>"Êtes-vous Nancy Manson ?" dit une voix féminine dotée d'un accent
+« Qui est là ? » dit-elle à la porte fermée ; elle était munie d'un
+judas, mais il était obscurci.</p>
+<p>« Êtes-vous Nancy Manson ? » dit une voix féminine dotée d'un accent
 Écossais marqué.</p>
-<p>"Oui," dit-elle d'un ton appréhensif.</p>
-<p>"<em>Eunoe</em>", dit la voix Écossaise, et Nancy fit un bond en arrière
+<p>« Oui, » dit-elle d'un ton appréhensif.</p>
+<p>« <em>Eunoe</em>, » dit la voix Écossaise, et Nancy fit un bond en arrière
 lorsque l'éclat lumineux traversa la porte et la <em>frappa</em> et...</p>
 <p>Nancy faillit tomber, mit une main contre son front. Des éclats de
 lumières qui traversaient les portes et frappaient les gens, c'était...
 c'était... ça n'était pas très surprenant...</p>
-<p>"Pourriez-vous ouvrir la porte ?" dit la femme Écossaise. "La guerre est
-finie et vos souvenirs devraient bientôt vous revenir. Il y a quelqu'un
-qui aimerait vous voir."</p>
+<p>« Pourriez-vous ouvrir la porte ? » dit la femme Écossaise. « La guerre
+est finie et vos souvenirs devraient bientôt vous revenir. Il y a
+quelqu'un qui aimerait vous voir. »</p>
 <p><em>Mes souvenirs...</em></p>
 <p>Elle avait l'impression d'avoir l'esprit congestionné, comme si elle
 avait arraché quelque chose à son cerveau, mais elle parvint à tendre la
@@ -376,23 +393,21 @@ main et à ouvrir la porte.</p>
 (<em>parfaitement normale</em>), vêtue de robes noires, d'un grand chapeau
 pointu...</p>
 <p>...et à côté d'elle un garçon aux courts cheveux blonds-blancs et vêtu
-de robes noires à liserets verts (<em>parfaitement normales</em>) ; il la
+de robes noires à liserets verts (<em>parfaitement normales</em>) ; il la
 regardait bouche bée, ses yeux écarquillés, des larmes naissantes.</p>
 <p><em>Des robes à liserets verts, des cheveux blonds-blancs...</em></p>
 <p>Quelque chose de chaud s'agita dans ses souvenirs. Elle sentit son cœur
 grandir, l'étouffer presque, lorsqu'elle se rendit compte que ce qu'elle
 avait cherché pendant ces dix dernières années était peut-être juste en
 face d'elle. En un lieu enfoui en elle, de la glace se brisait autour de
-son cœur ; la partie arrêtée depuis si longtemps se préparait à bouger à
+son cœur ; la partie arrêtée depuis si longtemps se préparait à bouger à
 nouveau.</p>
 <p>Le garçon la regardait, ses lèvres bougeaient, mais aucun son ne
 s'échappait.</p>
 <p>Un nom mystérieux lui vint à l'esprit, monta jusqu'à ses lèvres.</p>
-<p>"Lucius ?" murmura-t-elle.</p>
-<p> </p>
+<p>« Lucius ? » murmura-t-elle.</p>
 <hr />
-<p> </p>
-<p><em>Note de l'auteur : Si vous voulez découvrir Terry Pratchett, vous
+<p><em>Note de l'auteur : Si vous voulez découvrir Terry Pratchett, vous
 pouvez essayer <strong>Mort</strong></em>.</p>
 
                     </main>
@@ -441,6 +456,7 @@ pouvez essayer <strong>Mort</strong></em>.</p>
         <script src="../book.js"></script>
 
         <!-- Custom JS scripts -->
+
 
 
     </div>

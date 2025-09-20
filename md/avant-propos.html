@@ -36,11 +36,23 @@
             const path_to_root = "../";
             const default_light_theme = "light";
             const default_dark_theme = "navy";
+            window.path_to_searchindex_js = "../searchindex.js";
         </script>
         <!-- Start loading toc.js asap -->
         <script src="../toc.js"></script>
     </head>
     <body>
+    <div id="mdbook-help-container">
+        <div id="mdbook-help-popup">
+            <h2 class="mdbook-help-title">Keyboard shortcuts</h2>
+            <div>
+                <p>Press <kbd>←</kbd> or <kbd>→</kbd> to navigate between chapters</p>
+                <p>Press <kbd>S</kbd> or <kbd>/</kbd> to search in the book</p>
+                <p>Press <kbd>?</kbd> to show this help</p>
+                <p>Press <kbd>Esc</kbd> to hide this help</p>
+            </div>
+        </div>
+    </div>
     <div id="body-container">
         <!-- Work around some values being stored in localStorage wrapped in quotes -->
         <script>
@@ -81,10 +93,13 @@
                 sidebar = sidebar || 'visible';
             } else {
                 sidebar = 'hidden';
+                sidebar_toggle.checked = false;
             }
-            sidebar_toggle.checked = sidebar === 'visible';
-            html.classList.remove('sidebar-visible');
-            html.classList.add("sidebar-" + sidebar);
+            if (sidebar === 'visible') {
+                sidebar_toggle.checked = true;
+            } else {
+                html.classList.remove('sidebar-visible');
+            }
         </script>
 
         <nav id="sidebar" class="sidebar" aria-label="Table of contents">
@@ -118,7 +133,7 @@
                             <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
                             <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
                         </ul>
-                        <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                        <button id="search-toggle" class="icon-button" type="button" title="Search (`/`)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="/ s" aria-controls="searchbar">
                             <i class="fa fa-search"></i>
                         </button>
                     </div>
@@ -135,7 +150,12 @@
 
                 <div id="search-wrapper" class="hidden">
                     <form id="searchbar-outer" class="searchbar-outer">
-                        <input type="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                        <div class="search-wrapper">
+                            <input type="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                            <div class="spinner-wrapper">
+                                <i class="fa fa-spinner fa-spin"></i>
+                            </div>
+                        </div>
                     </form>
                     <div id="searchresults-outer" class="searchresults-outer hidden">
                         <div id="searchresults-header" class="searchresults-header"></div>
@@ -156,21 +176,22 @@
                 <div id="content" class="content">
                     <main>
                         <h1 id="avant-propos"><a class="header" href="#avant-propos">Avant-propos</a></h1>
-<div class="disclaimer">Avertissement : J.K. Rowling possède Harry Potter, et personne ne
+<div class="disclaimer">
+Avertissement : J.K. Rowling possède Harry Potter, et personne ne
 possède les méthodes de la rationalité.
 </div>
 <p>Il est largement admis que cette histoire atteint sa vitesse de
 croisière vers le chapitre 5. Si vous ne l'aimez toujours pas après lei
 chapitre 10, laissez tomber.</p>
-<p>Rendez-vous sur HPMOR POINT COM pour y trouver :</p>
+<p>Rendez-vous sur HPMOR POINT COM pour y trouver :</p>
 <ul>
 <li>Des notification par email, RSS ou Twitter de la sortie de nouveaux
-chapitres [NdT : en anglais].</li>
+chapitres [NdT : en anglais].</li>
 <li>Les notes de l'auteur.</li>
 <li>Une version PDF de l'histoire faite par un fan.</li>
-<li>Une version du texte [NdT : en anglais] sans publicités.</li>
+<li>Une version du texte [NdT : en anglais] sans publicités.</li>
 <li>Des versions ePUB et MOBI de l'histoire.</li>
-<li>L'histoire en podcast [NdT : en anglais].</li>
+<li>L'histoire en podcast [NdT : en anglais].</li>
 <li>Beaucoup, beaucoup de fan art.</li>
 <li>La liste des Caméos (personnages nommés d'après des fan artistes).</li>
 <li>Des fan-fanfictions de cette fanfiction.</li>
@@ -179,7 +200,7 @@ chapitres [NdT : en anglais].</li>
 <li>Le mot-clé OKCupid pour les lecteurs de HPMOR.</li>
 <li>Des liens vers la page HPMOR de TV Tropes et leur forum.</li>
 <li>Des trigger warnings (qui vous avertissent quant à de possibles
-associations traumatiques ; pour éviter les spoilers, il n'y a aucun
+associations traumatiques ; pour éviter les spoilers, il n'y a aucun
 trigger warning dans le texte lui-même).</li>
 <li>Comment apprendre tout ce que le personnage principal sait.</li>
 <li>Des offres d'emplois dans une organisation à but non lucratif en
@@ -190,11 +211,11 @@ rapport avec la rationalité.</li>
 <p>Cette histoire ne diverge pas de l'originale à partir d'un seul point.
 Il existe un point de départ principal, quelque part dans le passé, mais
 aussi d'autres altérations. La meilleure description qu'il m'ait été
-donnée d'entendre est « univers parallèle ».</p>
-<p>L'histoire contient de nombreux indices : certains évidents, d'autres
+donnée d'entendre est « univers parallèle ».</p>
+<p>L'histoire contient de nombreux indices : certains évidents, d'autres
 moins, et certains tellement obscurs que j'ai été extrêmement surpris de
 voir certains lecteurs les repérer. Il y a aussi des réponses limpides
-cachées sous votre nez. C'est une histoire rationaliste : ses mystères
+cachées sous votre nez. C'est une histoire rationaliste : ses mystères
 peuvent et doivent être résolus.</p>
 <p>Son rythme est celui d'une série télévisée qui s'étalerait sur plusieurs
 saisons et dont chaque épisode aurait son histoire en plus d'un arc
@@ -204,7 +225,7 @@ global qui mène à une conclusion finale.</p>
 qu'au-delà du domaine scientifique, l'auteur et les personnages ne sont
 pas toujours d'accord. Chaque acte du personnage principal n'est pas une
 leçon de sagesse, et les conseils offerts par les personnages les plus
-sombres peuvent être trompeurs, dangereux ou à double tranchant. </p>
+sombres peuvent être trompeurs, dangereux ou à double tranchant.</p>
 
                     </main>
 
@@ -246,6 +267,7 @@ sombres peuvent être trompeurs, dangereux ou à double tranchant. </p>
         <script src="../book.js"></script>
 
         <!-- Custom JS scripts -->
+
 
 
     </div>

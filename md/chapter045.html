@@ -36,11 +36,23 @@
             const path_to_root = "../";
             const default_light_theme = "light";
             const default_dark_theme = "navy";
+            window.path_to_searchindex_js = "../searchindex.js";
         </script>
         <!-- Start loading toc.js asap -->
         <script src="../toc.js"></script>
     </head>
     <body>
+    <div id="mdbook-help-container">
+        <div id="mdbook-help-popup">
+            <h2 class="mdbook-help-title">Keyboard shortcuts</h2>
+            <div>
+                <p>Press <kbd>←</kbd> or <kbd>→</kbd> to navigate between chapters</p>
+                <p>Press <kbd>S</kbd> or <kbd>/</kbd> to search in the book</p>
+                <p>Press <kbd>?</kbd> to show this help</p>
+                <p>Press <kbd>Esc</kbd> to hide this help</p>
+            </div>
+        </div>
+    </div>
     <div id="body-container">
         <!-- Work around some values being stored in localStorage wrapped in quotes -->
         <script>
@@ -81,10 +93,13 @@
                 sidebar = sidebar || 'visible';
             } else {
                 sidebar = 'hidden';
+                sidebar_toggle.checked = false;
             }
-            sidebar_toggle.checked = sidebar === 'visible';
-            html.classList.remove('sidebar-visible');
-            html.classList.add("sidebar-" + sidebar);
+            if (sidebar === 'visible') {
+                sidebar_toggle.checked = true;
+            } else {
+                html.classList.remove('sidebar-visible');
+            }
         </script>
 
         <nav id="sidebar" class="sidebar" aria-label="Table of contents">
@@ -118,7 +133,7 @@
                             <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
                             <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
                         </ul>
-                        <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                        <button id="search-toggle" class="icon-button" type="button" title="Search (`/`)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="/ s" aria-controls="searchbar">
                             <i class="fa fa-search"></i>
                         </button>
                     </div>
@@ -135,7 +150,12 @@
 
                 <div id="search-wrapper" class="hidden">
                     <form id="searchbar-outer" class="searchbar-outer">
-                        <input type="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                        <div class="search-wrapper">
+                            <input type="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                            <div class="spinner-wrapper">
+                                <i class="fa fa-spinner fa-spin"></i>
+                            </div>
+                        </div>
                     </form>
                     <div id="searchresults-outer" class="searchresults-outer hidden">
                         <div id="searchresults-header" class="searchresults-header"></div>
@@ -160,7 +180,7 @@
 <p>Harry se redressa de l'endroit où il avait été allongé, sur l'herbe
 constellée d'hiver, Fumseck toujours perché sur son épaule.</p>
 <p>Il y eut de grandes inspirations autour de lui.</p>
-<p>"Harry," dit Seamus d'une voix vacillante, "tu vas bien ?"</p>
+<p>« Harry, » dit Seamus d'une voix vacillante, « tu vas bien ? »</p>
 <p>La paix du phénix était toujours en lui, et une chaleur émanait de là où
 Fumseck était perché. Une chaleur qui se répandait à travers lui, et le
 souvenir de la chanson était toujours là, vivant par la présence du
@@ -171,36 +191,36 @@ néanmoins recouvré celui-ci. Un mot étrange continuait de résonner dans
 son esprit. Et tout cela pourrait être mis de côté, à plus tard, tant
 que le phénix brillerait d'or et de rouge sous le soleil couchant.</p>
 <p>Fumseck croassa en sa direction.</p>
-<p>"Quelque chose que je dois faire ?" dit Harry à Fumseck. "Quoi ?"</p>
+<p>« Quelque chose que je dois faire ? » dit Harry à Fumseck. « Quoi ? »</p>
 <p>Fumseck inclina sa tête en direction du Détraqueur.</p>
 <p>Harry regarda l'horreur impossible à regarder qui était toujours dans sa
 cage, puis de nouveau le phénix, confus.</p>
-<p>"M. Potter ?" dit la voix de Minerva McGonagall, dans son dos. "Vous
-<em>allez</em> bien ?"</p>
+<p>« M. Potter ? » dit la voix de Minerva McGonagall, dans son dos. « Vous
+<em>allez</em> bien ? »</p>
 <p>Harry se mit sur ses pieds et pivota.</p>
-<p>Minerva McGonagall le regardait, l'air très inquiète ; à côté d'elle,
-Albus Dumbledore l'observait avec attention ; Filius Flitwick semblait
-extrêmement soulagé ; et tous les élèves le regardaient bouche bée.</p>
-<p>"Je pense que oui, professeur McGonagall," dit Harry d'une voix calme.
+<p>Minerva McGonagall le regardait, l'air très inquiète ; à côté d'elle,
+Albus Dumbledore l'observait avec attention ; Filius Flitwick semblait
+extrêmement soulagé ; et tous les élèves le regardaient bouche bée.</p>
+<p>« Je pense que oui, professeur McGonagall, » dit Harry d'une voix calme.
 Il avait presque dit <em>Minerva</em>, avant de s'en empêcher. Tout irait bien,
-du moins tant que Fumseck serait sur son épaule ; il était possible
+du moins tant que Fumseck serait sur son épaule ; il était possible
 qu'il s'écroule un instant après le départ de ce dernier, mais ce genre
-de pensée ne lui semblait étrangement pas avoir d'importance. "Je pense
-que je vais bien."</p>
+de pensée ne lui semblait étrangement pas avoir d'importance. « Je pense
+que je vais bien. »</p>
 <p>Il y aurait dû y avoir des acclamations ou des soupirs de soulagement ou
 quelque chose, mais personne ne semblait savoir quoi dire, personne.</p>
 <p>La paix du phénix persista.</p>
-<p>Harry se retourna. "Hermione ?" dit-il.</p>
+<p>Harry se retourna. « Hermione ? » dit-il.</p>
 <p>Tous ceux qui avaient la moindre sensibilité romantique retinrent leur
 respiration.</p>
-<p>"Je ne sais pas vraiment comme remercier avec grâce," dit doucement
-Harry, "pas plus que je ne sais m'excuser. Tout ce que je peux dire,
-c'est qui si tu te demandes si tu as bien agi, la réponse est oui."</p>
+<p>« Je ne sais pas vraiment comme remercier avec grâce, » dit doucement
+Harry, « pas plus que je ne sais m'excuser. Tout ce que je peux dire,
+c'est qui si tu te demandes si tu as bien agi, la réponse est oui. »</p>
 <p>Le garçon et la fille se regardèrent dans les yeux l'un de l'autre.</p>
-<p>"Désolé," dit Harry. "Pour ce qui va se passer ensuite. S'il y a quoi
-que ce soit que je puisse faire -"</p>
-<p>"Non," répondit Hermione. "Tu ne peux rien faire. Mais ce n'est pas
-grave." Puis elle se détourna de Harry et partit vers le chemin qui
+<p>« Désolé, » dit Harry. « Pour ce qui va se passer ensuite. S'il y a quoi
+que ce soit que je puisse faire --- »</p>
+<p>« Non, » répondit Hermione. « Tu ne peux rien faire. Mais ce n'est pas
+grave. » Puis elle se détourna de Harry et partit vers le chemin qui
 menait aux portes de Poudlard.</p>
 <p>Un certain nombre de filles jetèrent des regards perplexes en direction
 de Hermione puis la suivirent. Sur leur chemin on pouvait entendre les
@@ -214,32 +234,32 @@ souffriraient et qu'ils seraient eux-mêmes malheureux, ils se
 souviendraient avoir vu Harry se tortiller au sol, et ils sauraient que
 leur souffrance et leurs problèmes n'avaient en fin de compte aucune
 importance. Le directeur avait-il prit cela en compte quand il avait
-laissé les autres élèves rester et regarder ?</p>
+laissé les autres élèves rester et regarder ?</p>
 <p>Les yeux de Harry revinrent sur la cape en lambeaux, distraitement, et
-sans vraiment savoir à qui il s'adressait, il dit : "Ça ne devrait pas
-exister."</p>
-<p>"Ah," dit une voix sèche et précise. "Je pensais que vous pourriez dire
-cela. M. Potter, je suis navré de vous apprendre que les Détraqueurs ne
-peuvent être tués. Nombreux sont ceux qui ont essayé."</p>
-<p>"Vraiment," dit Harry, toujours l'air absent. "Qu'ont-ils essayé ?"</p>
-<p>"Il existe un sort extrêmement dangereux et destructeur," dit le
-professeur Quirrell, "que je ne nommerai pas ici ; un sortilège de feu
+sans vraiment savoir à qui il s'adressait, il dit : « Ça ne devrait pas
+exister. »</p>
+<p>« Ah, » dit une voix sèche et précise. « Je pensais que vous pourriez
+dire cela. M. Potter, je suis navré de vous apprendre que les
+Détraqueurs ne peuvent être tués. Nombreux sont ceux qui ont essayé. »</p>
+<p>« Vraiment, » dit Harry, toujours l'air absent. « Qu'ont-ils essayé ? »</p>
+<p>« Il existe un sort extrêmement dangereux et destructeur, » dit le
+professeur Quirrell, « que je ne nommerai pas ici ; un sortilège de feu
 maudit. C'est ce que vous utiliseriez pour détruire un ancien artefact
 tel que le Choixpeau. Il n'a aucun effet sur les Détraqueurs. Ils sont
-éternels."</p>
-<p>"Il n'y a pas d'éternité," dit le directeur. Les mots étaient doux ; le
-regard acéré. "Ils ne possèdent pas la vie éternelle. Ils sont des
+éternels. »</p>
+<p>« Il n'y a pas d'éternité, » dit le directeur. Les mots étaient doux ;
+le regard acéré. « Ils ne possèdent pas la vie éternelle. Ils sont des
 plaies à la surface du monde, et attaquer une plaie ne fait que
-l'élargir."</p>
-<p>"Hmm," dit Harry. "Imaginez qu'on le jette dans le soleil ? L'astre
-serait-il détruit ?"</p>
-<p>"Le <em>jeter</em> dans le <em>soleil</em> ?" piailla le professeur Flitwick, et il
+l'élargir. »</p>
+<p>« Hmm, » dit Harry. « Imaginez qu'on le jette dans le soleil ? L'astre
+serait-il détruit ? »</p>
+<p>« Le <em>jeter</em> dans le <em>soleil</em> ? » piailla le professeur Flitwick, et il
 avait l'air de vouloir s'évanouir.</p>
-<p>"Cela semble peu probable, M. Potter," dit le professeur d'un ton sec.
-"Le soleil est très grand, après tout ; je doute que le Détraqueur lui
+<p>« Cela semble peu probable, M. Potter, » dit le professeur d'un ton sec.
+« Le soleil est très grand, après tout ; je doute que le Détraqueur lui
 fasse beaucoup d'effet. Mais ce n'est pas un test que je souhaiterais
-effectuer, juste au cas où."</p>
-<p>"Je vois," dit Harry.</p>
+effectuer, juste au cas où. »</p>
+<p>« Je vois, » dit Harry.</p>
 <p>Fumseck coassa une dernière fois, puis il recouvrit le visage de Harry
 de ses ailes et se propulsa alors loin de lui. Droit vers le Détraqueur,
 jetant un grand cri perçant de défi qui fit écho à travers le champ. Et
@@ -248,19 +268,19 @@ Fumseck était parti.</p>
 <p>La paix se dissipa, un peu.</p>
 <p>La chaleur se dissipa, un peu.</p>
 <p>Harry prit une profonde inspiration puis la laissa ressortir.</p>
-<p>"Ouais," dit Harry. "Toujours en vie."</p>
-<p>Encore ce silence, encore l'absence d'acclamations ; personne ne
+<p>« Ouais, » dit Harry. « Toujours en vie. »</p>
+<p>Encore ce silence, encore l'absence d'acclamations ; personne ne
 semblait savoir comment répondre -</p>
-<p>"Il est bon d'apprendre que vous êtes totalement rétabli," dit le
+<p>« Il est bon d'apprendre que vous êtes totalement rétabli, » dit le
 professeur Quirrell d'une voix ferme, comme s'il niait la possibilité
-d'une alternative. "Maintenant, je crois que mademoiselle Ransom vient
-ensuite ?"</p>
+d'une alternative. « Maintenant, je crois que mademoiselle Ransom vient
+ensuite ? »</p>
 <p>Cela fut le point de départ d'une dispute animée où le professeur
 Quirrell avait raison et tous les autres avaient tort. Le professeur
 Quirrell faisait remarquer qu'en dépit des émotions fort compréhensibles
 ressenties par toutes les personnes concernées, la chance qu'une
 mésaventure similaire arrive à un autre élève tendait à
-l'infinitésimal ; d'autant plus qu'ils savaient maintenant éviter celles
+l'infinitésimal ; d'autant plus qu'ils savaient maintenant éviter celles
 causées par les baguettes. Et de plus, il y avait d'autres élèves qui
 devaient à leur tour faire de leur mieux pour lancer un Patronus
 corporel, ou du moins pour apprendre la sensation provoquée par le
@@ -272,7 +292,7 @@ dispute.</p>
 <p>Harry jeta un coup d'œil en direction de celui-ci. Le mot résonna de
 nouveau dans son esprit.</p>
 <p><em>Très bien</em>, pensa Harry, <em>si le Détraqueur est une énigme, quelle est
-la réponse ?</em></p>
+la réponse ?</em></p>
 <p>Et juste comme ça, ce fut évident.</p>
 <p>Harry regarda la cage ternie et légèrement rouillée.</p>
 <p>Il vit ce qui se trouvait derrière la grande cape en lambeaux.</p>
@@ -283,16 +303,16 @@ dans ses yeux. Harry lui dit qu'il faudrait qu'il lui parle plus tard et
 qu'il lui pose une question qu'il avait évitée de poser pendant
 longtemps, mais ça n'avait pas à se faire maintenant si elle était
 occupée. Il y avait quelque chose sur son visage qui suggérait qu'on
-l'avait éloignée de quelque chose d'important ; et Harry le lui fit
+l'avait éloignée de quelque chose d'important ; et Harry le lui fit
 remarquer, et il lui dit qu'elle ne devrait franchement pas se sentir
 coupable de partir. Cela lui valut un regard dur, mais elle partit bel
 et bien, avec la promesse qu'ils parleraient plus tard.</p>
 <p>Dean Thomas lança de nouveau son ours blanc, même en présence du
-Détraqueur ; et Ron Weasley leva un bouclier convenable fait d'une brume
+Détraqueur ; et Ron Weasley leva un bouclier convenable fait d'une brume
 étincelante. Ce qui concluait la journée en ce qui concernait les
 autres, et le professeur Flitwick commença à mener les élèves vers
 Poudlard. Lorsqu'il fut devenu clair que Harry comptait rester en
-arrière, le professeur Flitwick lui jeta un regard interrogateur ; quant
+arrière, le professeur Flitwick lui jeta un regard interrogateur ; quant
 à Harry, il jeta un regard lourd de sens à Dumbledore. Harry ne savait
 pas ce que Flitwick en comprit, mais après un dur regard
 d'avertissement, son directeur de Maison s'en fut.</p>
@@ -300,33 +320,32 @@ d'avertissement, son directeur de Maison s'en fut.</p>
 Dumbledore et un trio d'Aurors.</p>
 <p>Il aurait mieux valu commencer par se débarrasser du trio, mais Harry
 n'arrivait pas à trouver un bon moyen d'y parvenir.</p>
-<p>"Très bien," dit l'Auror Komodo, "remmenons-le."</p>
-<p>"Excusez-moi," dit Harry. "J'aimerais réessayer le Détraqueur."</p>
-<p> </p>
+<p>« Très bien, » dit l'Auror Komodo, « remmenons-le. »</p>
+<p>« Excusez-moi, » dit Harry. « J'aimerais réessayer le Détraqueur. »</p>
 <hr />
-<p> </p>
 <p>La requête de Harry rencontra une certaine dose d'opposition, de celles
 du genre <em>mais vous êtes complètement cinglé</em>, même si l'Auror Butnaru
 fut le seul à le dire à voix haute.</p>
-<p>"Fumseck m'a dit de le faire," dit Harry.</p>
+<p>« Fumseck m'a dit de le faire, » dit Harry.</p>
 <p>Cela ne surmonta pas toute l'opposition, malgré l'expression choquée qui
 apparut alors sur le visage de Dumbledore. Le débat continua, et cela
 commença à ronger une partie de ce qui restait de la paix du phénix, ce
 qui agaça Harry, mais un peu seulement.</p>
-<p>"Écoutez," dit Harry, "je suis presque sûr de savoir ce que j'ai mal
+<p>« Écoutez, » dit Harry, « je suis presque sûr de savoir ce que j'ai mal
 fait la dernière fois. Il existe des gens qui doivent utiliser un autre
-genre de pensée heureuse. Laissez-moi juste essayer, d'accord ?"</p>
+genre de pensée heureuse. Laissez-moi juste essayer, d'accord ? »</p>
 <p>Cela ne fut pas plus persuasif.</p>
-<p>"Je pense," dit enfin le professeur Quirrell en regardant Harry avec des
-yeux étroits, "que si nous ne le laissons pas le faire sous supervision,
-il pourrait bien, à un moment ou un autre, nous fausser compagnie et
-chercher un Détraqueur seul. Vous accuserais-je faussement, M. Potter ?"</p>
+<p>« Je pense, » dit enfin le professeur Quirrell en regardant Harry avec
+des yeux étroits, « que si nous ne le laissons pas le faire sous
+supervision, il pourrait bien, à un moment ou un autre, nous fausser
+compagnie et chercher un Détraqueur seul. Vous accuserais-je faussement,
+M. Potter ? »</p>
 <p>Il y eut une pause horrifiée. Cela semblait un bon moment pour jouer
 l'atout qu'il avait gardé dans sa manche.</p>
-<p>"Ça ne me dérange pas que le directeur garde son Patronus," dit Harry.
+<p>« Ça ne me dérange pas que le directeur garde son Patronus, » dit Harry.
 <em>Car je serai tout autant en présence du Détraqueur, Patronus ou pas.</em></p>
-<p>Cela fut accueilli par une grande confusion ; même le professeur
-Quirrell semblait perplexe ; mais le directeur finit par accepter,
+<p>Cela fut accueilli par une grande confusion ; même le professeur
+Quirrell semblait perplexe ; mais le directeur finit par accepter,
 puisqu'il semblait peu probable que Harry puisse être atteint à travers
 quatre Patronus.</p>
 <p><em>Si le Détraqueur ne pouvait traverser votre Patronus d'une façon ou
@@ -334,10 +353,10 @@ d'une autre, Albus Dumbledore, vous ne verriez pas un homme nu et
 douloureux à regarder...</em></p>
 <p>Harry ne le dit pas à voix haute, pour des raisons évidentes.</p>
 <p>Et ils commencèrent à marcher vers le Détraqueur.</p>
-<p>"Professeur," dit Harry, "imaginons que la porte de Serdaigle vous pose
-cette énigme : Qu'est-ce qui se trouve au centre d'un Détraqueur ? Que
-diriez-vous ?"</p>
-<p>"La peur," dit le directeur.</p>
+<p>« Professeur, » dit Harry, « imaginons que la porte de Serdaigle vous
+pose cette énigme : Qu'est-ce qui se trouve au centre d'un Détraqueur ?
+Que diriez-vous ? »</p>
+<p>« La peur, » dit le directeur.</p>
 <p>C'était une erreur facile à commettre. Le Détraqueur approchait, et la
 peur vous englobait. La peur faisait mal, vous la sentiez vous
 affaiblir, vous vouliez qu'elle s'en aille.</p>
@@ -346,11 +365,11 @@ affaiblir, vous vouliez qu'elle s'en aille.</p>
 qu'il n'y avait rien à craindre sinon la peur elle-même, que le
 Détraqueur ne pouvait pas vous faire de mal si vous n'aviez pas peur...</p>
 <p>Mais...</p>
-<p><em>Qu'est-ce qui se trouve au centre d'un Détraqueur ?</em></p>
+<p><em>Qu'est-ce qui se trouve au centre d'un Détraqueur ?</em></p>
 <p><em>La peur.</em></p>
-<p><em>Qu'est-ce qui est tellement horrible que l'esprit refuse de le voir ?</em></p>
+<p><em>Qu'est-ce qui est tellement horrible que l'esprit refuse de le voir ?</em></p>
 <p><em>La peur.</em></p>
-<p><em>Qu'est-ce qu'on ne peut pas tuer ?</em></p>
+<p><em>Qu'est-ce qu'on ne peut pas tuer ?</em></p>
 <p><em>La peur.</em></p>
 <p>... ça ne collait pas vraiment quand y réfléchissait.</p>
 <p>Même si la raison pour laquelle les gens seraient réticents à regarder
@@ -358,39 +377,39 @@ au-delà de la peur était assez claire.</p>
 <p>Les gens <em>comprenaient</em> la peur.</p>
 <p>Les gens savaient ce qu'ils étaient censés <em>faire</em> face à la peur.</p>
 <p>Alors, face à un Détraqueur, il ne serait pas tout à fait réconfortant
-de se demander : 'Et si la peur était juste un effet collatéral plutôt
-que le problème principal ?'</p>
+de se demander : « Et si la peur était juste un effet collatéral plutôt
+que le problème principal ? »</p>
 <p>Ils étaient maintenant très près de la cage du Détraqueur gardée par
 quatre Patronus, et il y eut soudain quatre inspirations courtes venant
 des trois Aurors et du professeur Quirrell. Tous les visages se
-tournèrent vers le Détraqueur et semblèrent écouter ; il y avait de
+tournèrent vers le Détraqueur et semblèrent écouter ; il y avait de
 l'horreur sur le visage de l'Auror Goryanof.</p>
 <p>Puis le professeur Quirrell leva la tête, le visage dur, et il cracha en
 direction du Détraqueur.</p>
-<p>"Je suppose qu'il n'a pas aimé voir sa proie lui être enlevée," dit
-Dumbledore d'une voix douce. "Eh bien, si cela devient nécessaire,
-Quirinus, Poudlard vous offrira toujours refuge."</p>
-<p>"Qu'a-t-il dit ?" dit Harry.</p>
+<p>« Je suppose qu'il n'a pas aimé voir sa proie lui être enlevée, » dit
+Dumbledore d'une voix douce. « Eh bien, si cela devient nécessaire,
+Quirinus, Poudlard vous offrira toujours refuge. »</p>
+<p>« Qu'a-t-il dit ? » dit Harry.</p>
 <p>Toutes les têtes se tournèrent vers lui.</p>
-<p>"Tu ne l'as pas entendu... ?" dit Dumbledore.</p>
+<p>« Tu ne l'as pas entendu... ? » dit Dumbledore.</p>
 <p>Harry secoua sa tête.</p>
-<p>"Il m'a dit," dit le professeur Quirrell, "qu'il me connaissait, et
-qu'il me pourchasserait un jour, où que je me cache." Son visage était
+<p>« Il m'a dit, » dit le professeur Quirrell, « qu'il me connaissait, et
+qu'il me pourchasserait un jour, où que je me cache. » Son visage était
 rigide et n'exprimait aucune peur.</p>
-<p>"Ah," dit Harry, "je ne m'inquiéterais pas pour ça, professeur
-Quirrell." <em>Ce n'est pas comme si les Détraqueurs pouvaient vraiment
-parler, ou penser ; leur structure est empruntée à votre esprit et à ce
+<p>« Ah, » dit Harry, « je ne m'inquiéterais pas pour ça, professeur
+Quirrell. » <em>Ce n'est pas comme si les Détraqueurs pouvaient vraiment
+parler, ou penser ; leur structure est empruntée à votre esprit et à ce
 à quoi vous vous attendez...</em></p>
 <p>Maintenant tout le monde lui jetait des regards <em>très</em> bizarres. Les
 Aurors se jetaient des coups d'œil nerveux les uns aux autres, et au
 Détraqueur, et à Harry.</p>
 <p>Et ils se tinrent directement en face de la cage du Détraqueur.</p>
-<p>"Il existe des blessures dans le monde," dit Harry. "C'est une pure
-conjecture, mais j'imagine que c'est Godric Gryffondor qui a dit ça."</p>
-<p>"Oui..." dit Dumbledore. "Comment l'as-tu su ?"</p>
+<p>« Il existe des blessures dans le monde, » dit Harry. « C'est une pure
+conjecture, mais j'imagine que c'est Godric Gryffondor qui a dit ça. »</p>
+<p>« Oui... » dit Dumbledore. « Comment l'as-tu su ? »</p>
 <p><em>On croit souvent à tort</em>, pensa Harry, <em>que tous les meilleurs
 rationalistes sont répartis à Serdaigle, n'en laissant aucun pour les
-autres Maisons. Ce n'est pas le cas ; être réparti à Serdaigle indique
+autres Maisons. Ce n'est pas le cas ; être réparti à Serdaigle indique
 que votre vertu la plus forte est la curiosité, la capacité à
 s'interroger et à trouver la vraie réponse. Et ce n'est pas le</em> seule
 <em>vertu dont un rationaliste a besoin. Parfois il faut travailler dur sur
@@ -423,7 +442,7 @@ se souvenir du cri perçant de Fumseck et il se prépara à la bataille. Il
 demanda à toutes les parties de son être de s'éveiller. Il assembla en
 lui-même toute la force que le charme du Patronus pourrait jamais
 puiser, il se mit dans l'état d'esprit qui conviendrait à la pensée
-heureuse finale ; il se souvint de toutes les choses radieuses.</p>
+heureuse finale ; il se souvint de toutes les choses radieuses.</p>
 <p>Les livres que son père lui avait achetés.</p>
 <p>Le sourire de Maman quand Harry lui avait fabriqué une carte pour la
 fête des mères, un objet complexe qui avait utilisé près d'un quart de
@@ -434,7 +453,7 @@ mis trois jours à construire.</p>
 dignement, en le protégeant. Et ils l'avaient fait.</p>
 <p>Se rendre compte que Hermione tenait sa cadence, et courait même plus
 vite que lui, qu'ils pourraient être de vrais rivaux et des amis.</p>
-<p>Ruser Draco pour qu'il sorte des ténèbres, le regarder se déplacer
+<p>Ruser Drago pour qu'il sorte des ténèbres, le regarder se déplacer
 lentement vers la lumière.</p>
 <p>Neville et Seamus et Lavande et Dean et tous ceux qui l'admiraient, tous
 ceux pour qui il se serait battu, pour les protéger si quoi que ce soit
@@ -454,11 +473,11 @@ incontrôlées, parce que c'était la Terre qui coloniserait un jour la
 galaxie et répondrait à la promesse du ciel nocturne.</p>
 <p>Seraient-ils encore infestés de Détraqueurs, les enfants des enfants des
 enfants, les lointains descendants de l'humanité, pendant leur voyage
-d'étoile en étoile ? Non. Bien sûr que non. Les Détraqueurs n'étaient
+d'étoile en étoile ? Non. Bien sûr que non. Les Détraqueurs n'étaient
 que de petites nuisances, qui à la lumière de cette promesse devenaient
-dérisoires, jusqu'à ne plus exister ; pas intuables, pas invincibles,
+dérisoires, jusqu'à ne plus exister ; pas intuables, pas invincibles,
 loin de là. Il fallait supporter les petites nuisances si on était l'un
-des rares, chanceux et malchanceux, à être nés sur terre ; sur
+des rares, chanceux et malchanceux, à être nés sur terre ; sur
 l'Ancienne Terre, comme on se souviendrait un jour d'elle. Cela aussi
 faisait partie du sens qu'il y avait à être en vie si l'on faisait
 partie de la petite poignée d'être sentients nés au début de toute
@@ -467,11 +486,11 @@ pouvoir. Le futur, bien plus vaste, dépendait de ce que vous faisiez
 ici, maintenant, aux plus précoces des jours de l'aube, alors qu'il y
 avait encore tant de ténèbres à combattre, et des nuisances temporaires
 telles que les Détraqueurs.</p>
-<p>Maman et Papa, l'amitié de Hermione et le voyage de Draco, Neville et
+<p>Maman et Papa, l'amitié de Hermione et le voyage de Drago, Neville et
 Seamus et Lavande et Dean, le ciel bleu et le soleil brillant et toutes
 les choses radieuses, la Terre, les étoiles, la promesse, tout ce que
 l'humanité était et tout ce qu'elle deviendrait...</p>
-<p>Sur la baguette, les doigts de Harry prirent la position initiale ; il
+<p>Sur la baguette, les doigts de Harry prirent la position initiale ; il
 était prêt maintenant, prêt à penser le bon genre de pensée heureuse.</p>
 <p>Et ses yeux regardèrent droit vers ce qui était sous la cape en
 lambeaux, droit vers ce qui avait été nommé un Détraqueur. Le néant, le
@@ -492,13 +511,13 @@ assez mûre pour avoir pu quitter.</em></p>
 <p><em>Nous nous en passerons...</em></p>
 <p><em>Et les gens n'auront plus à se dire adieu...</em></p>
 <p>La baguette s'éleva et pointa droit vers le Détraqueur.</p>
-<p>"<em>EXPECTO PATRONUM !</em>"</p>
+<p>« <em>EXPECTO PATRONUM !</em> »</p>
 <p>La pensée explosa hors de lui comme une digue brisée, déferla le long de
 son bras et dans sa baguette, en jaillit sous la forme d'une lumière
 blanche éclatante. Une lumière qui devint corporelle, qui prit une forme
 et une substance.</p>
 <p>Un silhouette avec deux bras, deux jambes et une tête, qui se tenait
-debout ; l'animal <em>Homo sapiens</em>, la forme d'un être humain.</p>
+debout ; l'animal <em>Homo sapiens</em>, la forme d'un être humain.</p>
 <p>Brillant de plus en plus alors que Harry déversait toute sa force dans
 le sortilège, éclatant d'une lumière incandescente, plus brillante qu'un
 soleil bas, les Aurors et le professeur Quirrell se protégèrent les yeux
@@ -506,11 +525,11 @@ sous le choc -</p>
 <p><em>Et un jour, quand les descendants de l'humanité se seront répandus
 d'étoile en étoile, ils ne raconteront pas l'histoire de l'Ancienne
 Terre à leurs enfants avant qu'ils ne soient assez vieux pour le
-supporter ; et quand ils l'entendront, il pleureront d'apprendre qu'une
-chose telle que la Mort avait un jour existé !</em></p>
+supporter ; et quand ils l'entendront, il pleureront d'apprendre qu'une
+chose telle que la Mort avait un jour existé !</em></p>
 <p>La silhouette d'un humain brilla plus fort que le soleil de midi,
 flamboyant d'une telle force que Harry put en sentir la chaleur sur sa
-peau ; et il envoya toute sa défiance vers l'ombre de la Mort, ouvrant
+peau ; et il envoya toute sa défiance vers l'ombre de la Mort, ouvrant
 toutes les vannes, pour rendre la forme brillante plus forte, toujours
 plus forte.</p>
 <p><em>Tu n'es pas invincible, et un jour l'espèce humain t'achèvera.</em></p>
@@ -582,6 +601,7 @@ Détraqueur.</p>
         <script src="../book.js"></script>
 
         <!-- Custom JS scripts -->
+
 
 
     </div>
