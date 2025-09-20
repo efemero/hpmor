@@ -51,7 +51,7 @@ Drago comprit lentement à quel point il avait été un imbécile *complet*,
 bien pire que les Serpentard plus âgés qu’il avait incendiés plus tôt.
 
 Il avait simplement tenu pour acquis que personne n’irait voir les
-autorités pour se plaindre d’un Malefoy. Que personne ne voudrait attirer
+autorités pour se plaindre d’un Malfoy. Que personne ne voudrait attirer
 l’attention de Lucius. Jamais.
 
 Mais Harry Potter n’était pas un petit Poufsouffle effrayé essayant de
@@ -449,7 +449,7 @@ cas où Harry Potter aurait besoin d’un autre prêt.
 « C’est beaucoup trop, c’est ça, » dit Harry. « Je suis désolé, je n’aurais
 pas dû te demander — »
 
-« Excuse-moi mais tu sais, je *suis* un Malefoy, » dit Drago. « J’étais
+« Excuse-moi mais tu sais, je *suis* un Malfoy, » dit Drago. « J’étais
 juste surpris que tu en *veuilles* autant. »
 
 « Ne t’en fais pas, » dit Harry Potter d’un ton réjoui. « Ce n’est rien qui
@@ -528,7 +528,9 @@ tu dois aussi respecter mon expertise, et il est tout simplement
 *impossible* que tu sois mon égal lorsqu’il s’agit de manœuvrer la
 Conspiration. Tu es un scientifique depuis *hier*, tu connais *un*
 secret au sujet de l’acide désoxyribonucléique et tu n’as reçu
-d’entraînement dans *aucune* des méthodes de la rationalité. »Je comprends,« dit Drago.
+d’entraînement dans *aucune* des méthodes de la rationalité. »
+
+« Je comprends, » dit Drago.
 
 Et il comprenait.
 
@@ -680,13 +682,13 @@ songeait à sa vengeance.
 
 Un jour, peut-être dans plusieurs années, mais un jour, Harry Potter
 apprendrait exactement ce que ça voulait dire que de sous-estimer un
-Malefoy.
+Malfoy.
 
 Drago s’était éveillé à la science en une seule journée. Harry avait dit
 que ce n’était pas censé arriver avant des mois.
 
-Mais bien sûr, quand on était Malefoy, on se destinait à être un
-scientifique plus puissant que tous les non-Malefoy.
+Mais bien sûr, quand on était Malfoy, on se destinait à être un
+scientifique plus puissant que tous les non-Malfoy.
 
 Drago apprendrait donc toutes les méthodes de la rationalité de Harry,
 et quand le moment viendrait…
