@@ -827,53 +827,89 @@ toujours, » dit le professeur Quirrell, et il avait le plus large sourire
 que Harry l’avait jamais arborer, « je me suis introduit à la NASA, eh
 oui, et j’ai jeté un charmant petit sort sur cette charmante plaque d’or
 qui la fera durer beaucoup plus longtemps qu’elle n’aurait autrement
-tenue.
+tenu. »
 
 …
 
 …
 
-… »Oui,« dit le professeur Quirrell, qui semblait maintenant faire quinze
-mètres de plus, »je me disais que vous pourriez réagir ainsi.« …
+…
+
+« Oui, » dit le professeur Quirrell, qui semblait maintenant faire quinze
+mètres de plus, « je me disais que vous pourriez réagir ainsi. »
 
 …
 
-… »M. Potter ?« »… je ne sais pas quoi dire.« »« Vous avez gagné » me semblerait de circonstance,« dit le professeur
-Quirrell. »Vous avez gagné,« dit immédiatement Harry. »Vous voyez ?« dit le professeur Quirrell. »Nous ne pouvons qu’imaginer
+…
+
+…
+
+« M. Potter ? »
+
+« … je ne sais pas quoi dire. »
+
+« “Vous avez gagné” me semblerait de circonstance, » dit le professeur
+Quirrell.
+
+« Vous avez gagné, » dit immédiatement Harry.
+
+« Vous voyez ? » dit le professeur Quirrell. « Nous ne pouvons qu’imaginer
 le pétrin immense dans lequel vous vous seriez retrouvé si vous n’aviez
-pas été capable de dire ça.« Ils rirent tous les deux.
+pas été capable de dire ça. »
 
-Une autre pensée vint à Harry. »Vous n’avez ajouté aucune information
-supplémentaire à la plaque ?« »Information supplémentaire ?« dit le professeur Quirrell, comme si
+Ils rirent tous les deux.
+
+Une autre pensée vint à Harry. « Vous n’avez ajouté aucune information
+supplémentaire à la plaque ? »
+
+« Information supplémentaire ? » dit le professeur Quirrell, comme si
 l’idée ne lui était jamais venue avant et qu’il était assez intrigué.
 
 Ce qui rendit Harry plutôt suspicieux, étant donné que ça *lui* avait
-pris moins d’une minute pour y penser. »Peut-être que vous avez inclus un message holographique, comme dans
-*Star Wars* ?« dit Harry. »Ou… Hmm. Un portrait a l’air de contenir
+pris moins d’une minute pour y penser.
+
+« Peut-être que vous avez inclus un message holographique, comme dans
+*Star Wars* ? » dit Harry. « Ou… Hmm. Un portrait a l’air de contenir
 autant d’information qu’un cerveau humain… vous n’auriez pas pu ajouter
 un poids supplémentaire à la sonde, mais peut-être avez-vous pu
 transformer une partie déjà présente en un portrait de vous-même ? Ou
 vous avez trouvé un volontaire succombant à une maladie mortelle, l’avez
 introduit à la NASA, et avez jeté un sort pour vous assurer que son
-*fantôme* finirait dans la plaque -« »M. Potter,« dit le professeur Quirrell, sa voix soudain coupante, »un
+*fantôme* finirait dans la plaque — »
+
+« M. Potter, » dit le professeur Quirrell, sa voix soudain coupante, « un
 sort nécessitant la mort d’un humain serait certainement considéré comme
 de la Magie Noire par le Ministère, peu importe les circonstances. On ne
-devrait pas entendre un étudiant discuter de choses pareilles.« Et ce qui était incroyable dans la façon dont le professeur Quirrell
+devrait pas entendre un étudiant discuter de choses pareilles. »
+
+Et ce qui était incroyable dans la façon dont le professeur Quirrell
 avait dit ça, c’était la perfection avec laquelle il maintenait le déni
 plausible. Il l’avait dit d’un ton qui correspondait exactement à celui
 de quelqu’un ne désirant pas discuter de tels sujets et pensant que les
 étudiants devraient s’en tenir à distance. Harry ne savait honnêtement
 *pas* si le professeur Quirrell attendait juste que Harry ait appris à
-protéger son esprit avant de lui en parler. »J’ai compris,« dit Harry. »Je ne parlerai de cette idée à personne
-d’autre.« »Merci d’être discret en ce qui concerne toute cette affaire, M.
-Potter,« dit le professeur Quirrell. »Je préfère vivre sans attirer
+protéger son esprit avant de lui en parler.
+
+« J’ai compris, » dit Harry. « Je ne parlerai de cette idée à personne
+d’autre. »
+
+« Merci d’être discret en ce qui concerne toute cette affaire, M.
+Potter, » dit le professeur Quirrell. « Je préfère vivre sans attirer
 l’attention publique. Vous ne trouverez rien dans les journaux
 concernant Quirinus Quirrell qui date d’avant le jour où j’ai décidé
-qu’il était temps pour moi d’enseigner la Défense à Poudlard.« Ça semblait un peu triste, mais Harry comprenait. Puis il comprit ce que
-cela impliquait : »Et alors exactement combien de trucs géniaux
-*avez-vous* fait dont personne d’autre n’a jamais entendu -« »Oh, quelques-uns,« dit le professeur Quirrell. »Mais je pense que c’est
+qu’il était temps pour moi d’enseigner la Défense à Poudlard. »
+
+Ça semblait un peu triste, mais Harry comprenait. Puis il comprit ce que
+cela impliquait : « Et alors exactement combien de trucs géniaux
+*avez-vous* fait dont personne d’autre n’a jamais entendu — »
+
+« Oh, quelques-uns, » dit le professeur Quirrell. « Mais je pense que c’est
 assez pour aujourd’hui, M. Potter, je vous avoue que je me sens un peu
-fatigué -« »Je comprends. Et *merci*. Pour *tout*.« Le professeur Quirrell hocha la tête, mais il se penchait de plus en
+fatigué — »
+
+« Je comprends. Et *merci*. Pour *tout*. »
+
+Le professeur Quirrell hocha la tête, mais il se penchait de plus en
 plus sur son bureau.
 
 Harry prit rapidement congé.
