@@ -1165,11 +1165,11 @@ accepta de monter en grade malgré la fin tragique de son prédécesseur,
 en se frottant joyeusement les mains à l’idée d’être promu. Ils
 pensaient tous pouvoir faire affaire avec Voldemort en secret. J’ai mis
 *sept mois* à tous les éliminer, et pas un seul Mangemort ne m’a demandé
-pourquoi nous faisions cela. Et alors, même avec Bartemius Crouch au
+pourquoi nous faisions cela. Et alors, même avec Bartemius Croupton au
 poste de directeur et Amelia Bones en chef des Aurors, ça n’a pas
 suffit. J’aurais mieux combattu *seul*. Les chaînes morales que
 s’imposait Dumbledore rendaient son soutien presque inutile, et le
-respect de la loi de Crouch avait le même effet. » Le professeur Quirrell
+respect de la loi de Croupton avait le même effet. » Le professeur Quirrell
 attisa le feu sous la potion.
 
 « Et vous avez fini, » dit Harry, toujours nauséeux, « par comprendre que

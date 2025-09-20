@@ -162,7 +162,7 @@ ennemis seront alors balayés. Tu as tort. Lucius Malefoy contrôle Fudge,
 influence toute l’Angleterre par le biais de la Gazette du Sorcier, et
 ce n’est que par une très faible marge qu’il ne contrôle pas assez le
 conseil des gouverneurs pour m’exclure de Poudlard. Amelia Bones et
-Bartemius Crouch sont des alliés, mais même eux s’écarteraient s’ils
+Bartemius Croupton sont des alliés, mais même eux s’écarteraient s’ils
 nous voyaient agir avec inconséquence. Le monde qui nous entoure est
 plus fragile que ce que tu sembles croire, et il nous faut avancer avec
 plus de prudence. La vieille guerre des sorciers n’a jamais pris fin,

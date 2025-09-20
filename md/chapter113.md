@@ -123,7 +123,7 @@ jours, les Mangemorts marcheront à la vue de tous. Mes pouvoirs ont
 augmenté, et je me suis débarrassé de Dumbledore plus tôt dans la
 journée. » Des hoquets de surprise s’élevèrent chez les Mangemorts, ce à
 quoi Voldemort ne prêta aucune attention. « Demain je tuerai Bones,
-Crouch, Maugrey et Scrimgeour, à moins qu’ils n’aient fui. Vous autres
+Croupton, Maugrey et Scrimgeour, à moins qu’ils n’aient fui. Vous autres
 irez au ministère et au Magenmagot, où vous lancerez des Imperius selon
 mes ordres. Nous avons *fini* d’attendre. Demain soir, je me serai
 déclaré grand dirigeant d’Angleterre ! »

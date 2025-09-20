@@ -2114,7 +2114,7 @@ délires de grandeur et Bellatrix Black. Mais après ça… » Maugrey renifla
 que Voldie était prêt à tuer leurs excellences. Et c’est exactement ce
 que ces imbéciles ont fait : *espérer* qu’un autre idiot prenne la
 situation au sérieux. Pas un seul de ces lâches ne voulait se tenir en
-première ligne. Il y avait Monroe, Crouch, Bones et Londubat. Ils
+première ligne. Il y avait Monroe, Croupton, Bones et Londubat. Ils
 étaient les seuls au ministère à oser dire un mot qui aurait pu offenser
 Voldie. »
 

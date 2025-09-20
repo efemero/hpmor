@@ -37,7 +37,7 @@ Minerva monta sur les longs escaliers en spirales qui préféraient
 s’élever plutôt que d’être gravis, et Harry monta derrière elle.
 
 « Nous rencontrons Amelia Bones, directrice du département de justice
-magique, Alastor Maugrey, que vous avez rencontré, et Bartemius Crouch,
+magique, Alastor Maugrey, que vous avez rencontré, et Bartemius Croupton,
 directeur du département de coopération magique international, »
 poursuivit-elle en montant. « Ce sont les héritiers de Dumbledore, autant
 que vous ou moi. »
@@ -153,9 +153,9 @@ plus fort, plus strict que celui de Dumbledore émanait d’elle.
 
 « C’est la directrice Amelia Bones, M. Potter, » dit la directrice Minerva
 McGonagall, tout son flegme revenu. « Nous attendons toujours le
-directeur Crouch… »
+directeur Croupton… »
 
-« Le corps de Bartemius Crouch Junior a été retrouvé parmi ceux des
+« Le corps de Bartemius Croupton Junior a été retrouvé parmi ceux des
 Mangemorts décédés, » dit immédiatement la vieille sorcière tout en
 continuant vers les chaises. « Cela nous a profondément surpris et j’ai
 peur que Bartemius ne soit inconsolable, pour deux raisons. Il ne nous

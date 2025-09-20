@@ -339,7 +339,7 @@ quelques secondes disponibles avant que le vieux sorcier ne continue :
 « Peu de choses devront changer pour toi, » dit-il. « J’ai commencé à
 rassembler l’Ordre du Phénix, qui te servira, et j’ai alerté les
 quelques âmes qui devraient et vont comprendre : Amélia Bones, Alastor
-Maugrey, Bartemius Crouch et certains autres. De la prophétie — oui, il
+Maugrey, Bartemius Croupton et certains autres. De la prophétie — oui, il
 y a une prophétie — je ne leur ai rien dit, mais ils savent que
 Voldemort est de retour et ils savent que ton rôle sera vital. Eux et
 moi combattrons les prémisses de cette guerre, tandis que tu deviendras

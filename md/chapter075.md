@@ -823,5 +823,5 @@ neque defensori dominus,
 nec pater nec mater,  
 nihil supernum.
 
-\- Godric Gryffindor,  
+\- Godric Gryffondor,  
 1202 ap. JC.
