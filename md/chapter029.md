@@ -258,7 +258,7 @@ La mâchoire de Hermione se décrocha.
 « Oui, » dit Harry, « on ne s’attendrait pas à ce que le maléfique
 Pettigrow vive une vie furtive et triste sous la forme du rat de
 compagnie d’une famille de sorciers ennemis, on l’imaginerait soit chez
-les Malfoy, soit plus probable encore quelque part aux Caraïbes après un
+les Malefoy, soit plus probable encore quelque part aux Caraïbes après un
 peu de chirurgie esthétique. Quoi qu’il en soit, Bill met son petit
 frère Percy KO, puis il assomme le rat, s’en saisit, et il envoie tous
 ces messages d’urgences par chouette — »
@@ -485,7 +485,7 @@ mais je suis sûr que le professeur Quirrell me laissera en ajouter ou en
 Elle savait que c’était une supposition raisonnable de la part de Harry,
 mais ça l’énervait *quand même*.
 
-Harry cligna des yeux. « Sûrement pas celle de Malfoy. Alors tu veux être
+Harry cligna des yeux. « Sûrement pas celle de Malefoy. Alors tu veux être
 dans la troisième armée ? Même si on ne sait pas encore *qui* est le
 général ? » Harry avait l’air surpris et légèrement blessé, et elle ne
 pouvait pas lui en vouloir, même si bien sûr elle lui en *voulait*,
@@ -508,7 +508,7 @@ troisième général. »
 
 « Oh, » dit le professeur Quirrell, confortablement installé dans sa
 chaise, un air nonchalant et détendu sur le visage. « Protestez donc, M.
-Malfoy. »
+Malefoy. »
 
 « Granger n’est pas apte à tenir ce poste, » dit Drago.
 
@@ -533,7 +533,7 @@ maintenant et Harry ne l’avait *toujours pas* attaquée… mais voilà qui
 transformer tout cela en une farce. »
 
 « Sévèrement formulé, » dit Harry, « mais je ne peux faire autrement que de
-convenir que M. Malfoy a raison. Pour être direct, professeur Quirrell,
+convenir que M. Malefoy a raison. Pour être direct, professeur Quirrell,
 Hermione Granger a environ autant d’intention de tuer qu’un bol de
 raisins mûrs. »
 
@@ -586,7 +586,7 @@ Zabini ? »
 
 « Moi *pas*, » dit Drago. « Pourquoi pas Zabini ? »
 
-Le professeur Quirrell regarda Drago. « Parce que, M. Malfoy, peut
+Le professeur Quirrell regarda Drago. « Parce que, M. Malefoy, peut
 importe les efforts qu’il y mettra, il ne sera jamais à votre hauteur,
 ni à celle de M. Potter. »
 
@@ -613,7 +613,7 @@ lui fera pas de *bien* ! »
 
 « Votre amitié pour Hermione Granger vous fait honneur, » dit sèchement le
 professeur Quirrell. « Tout particulièrement parce que vous parvenez à
-être en même temps ami avec Drago Malfoy. En voilà une belle prouesse. »
+être en même temps ami avec Drago Malefoy. En voilà une belle prouesse. »
 
 Harry eut soudain l’air un peu nerveux, ce qui voulait dire qu’il se
 sentait probablement *beaucoup* plus nerveux, et Drago jura en son for
@@ -697,7 +697,7 @@ rival tout ce temps… »
 Drago ? J’ai simplement un sens de la justice instinctif. Granger aussi,
 tu sais. Elle a une très bonne maîtrise des notions de bien et de mal,
 et elle va probablement commencer par attaquer le mal. Tu sais, il faut
-vraiment le chercher pour s’appeler “Malfoy”. »
+vraiment le chercher pour s’appeler “Malefoy”. »
 
 *BON SANG !*
 
@@ -776,11 +776,11 @@ levée.
 
 Drago se garda bien d’exprimer le moindre outrage.
 
-« Eh bien, M. Drago Malfoy, » dit Granger une fois qu’il fut arrivé
+« Eh bien, M. Drago Malefoy, » dit Granger une fois qu’il fut arrivé
 jusqu’à elle, « vous avez sollicité une audience et j’ai eu la grâce de
 vous l’octroyer. Quelle est votre requête ? »
 
-*Viens me rendre visite au manoir Malfoy, mon père et moi voudrions te
+*Viens me rendre visite au manoir Malefoy, mon père et moi voudrions te
 montrer quelques sorts intéressants.*
 
 « Potter, votre rival, m’a fait une offre, » dit Drago, arborant un air
@@ -797,7 +797,7 @@ contre lui ? »
 « Bien sûr, » enchaîna immédiatement Drago. « Je n’ai pas trouvé que ce
 qu’il comptait vous faire était très juste. »
 
-« Voyons, mais c’est très gentil de votre part, M. Malfoy, » dit Granger.
+« Voyons, mais c’est très gentil de votre part, M. Malefoy, » dit Granger.
 « Je suis navrée la façon dont je vous ai parlé plus tôt. Nous devrions
 être amis. Puis-je vous appeler Draky ? »
 
@@ -817,8 +817,8 @@ leçon à Potter si nous l’attaquions tous les deux et l’éradiquions. »
 infliger cette trahison. »
 
 Granger le regardait d’un air sévère qui aurait peut-être pu l’intimider
-s’il avait été un Poufsouffle et pas un Malfoy. « Vous pensez que je suis
-assez stupide, n’est-ce pas M. Malfoy ? »
+s’il avait été un Poufsouffle et pas un Malefoy. « Vous pensez que je suis
+assez stupide, n’est-ce pas M. Malefoy ? »
 
 Drago eut un sourire charmeur. « Non, mademoiselle Granger, mais je me
 suis dit que je devrais au moins vérifier. Alors, que voulez-vous ? »
@@ -833,7 +833,7 @@ vous combattre de façon équitable au lieu que je me concentre sur vous. »
 
 « Dix Gallions représentent une forte somme, » dit prudemment Drago.
 
-« Je ne savais pas que les Malfoy étaient pauvres, » dit Granger.
+« Je ne savais pas que les Malefoy étaient pauvres, » dit Granger.
 
 Drago fixa Granger.
 
@@ -845,24 +845,24 @@ particulier avait l’habitude de dire.
 « Eh bien, » dit Drago, « on ne devient pas riche en jetant son argent par
 les fenêtres, vous savez. »
 
-« Je ne sais pas si vous savez ce qu’est un dentiste, M. Malfoy, mais mes
+« Je ne sais pas si vous savez ce qu’est un dentiste, M. Malefoy, mais mes
 parents sont *dentistes*, et toute somme inférieure à dix Gallions ne
 mérite pas que je m’y attarde. »
 
 « Trois Gallions, » dit Drago, plus pour sonder le terrain qu’autre chose.
 
 « Non, » dit Granger. « Pas si vous voulez un combat équitable pour tous,
-et je ne pense pas qu’un Malfoy désire un combat équitable moins qu’il
+et je ne pense pas qu’un Malefoy désire un combat équitable moins qu’il
 ne désire dix Gallions. »
 
 Drago commençait à trouver cette situation *très* étrange.
 
 « Non, » dit Drago.
 
-« Non ? » dit Granger. « Cette offre a une date d’expiration, M. Malfoy.
+« Non ? » dit Granger. « Cette offre a une date d’expiration, M. Malefoy.
 Êtes-vous certain de vouloir risquer une année entière pendant laquelle
 vous serez lamentablement écrasé par le Survivant ? Ce serait plutôt
-gênant pour la maison Malfoy, vous ne pensez pas ? »
+gênant pour la maison Malefoy, vous ne pensez pas ? »
 
 C’était un argument très persuasif, un argument très difficile à
 rejeter, mais vous ne deveniez pas riche en dépensant son argent quand

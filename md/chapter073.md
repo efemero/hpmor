@@ -82,19 +82,19 @@ général Soleil l’a bien attrapé entre ses fils maintenant — tu aurais
 plus de chances en essayant de persuader Hermione d’avoir un de ces, tu
 sais, “arrangements à trois” -* »
 
-Personne n’avait encore compris ce que Malfoy trafiquait.
+Personne n’avait encore compris ce que Malefoy trafiquait.
 
 « *Certain ?* » dit Harry Potter d’un ton quelque peu réticent. « *Tu sais
 qu’un rationaliste n’est jamais certain de rien, Hermione, pas même que
 deux et deux font quatre. Ce n’est pas comme si je pouvais lire l’esprit
-de Malfoy, et même si c’était le cas, je ne pourrais pas savoir qu’il
+de Malefoy, et même si c’était le cas, je ne pourrais pas savoir qu’il
 n’est pas un Occlumens parfait. Tout ce que je peux te dire, en me
 basant sur ce que j’ai observé chez lui, c’est qu’il est bien plus
 plausible, contrairement à ce que Daphné Greengrass en pense, qu’il
 essaie vraiment de montrer un voie meilleure à Serpentard. On devrait…
 on devrait vraiment essayer de suivre son mouvement, Hermione.* »
 
-(Bon, Harry semblait penser que Drago Malfoy était un type bien. Mais le
+(Bon, Harry semblait penser que Drago Malefoy était un type bien. Mais le
 problème, c’était que Harry avait aussi tendance à faire confiance au
 professeur Quirrell).
 

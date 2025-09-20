@@ -92,7 +92,7 @@ juger par la réaction de Drago, cette histoire d’Héritier de Serpentard
 ce soit d’autre au courant. Et au moment où Harry parlerait de
 Fourchelangue, le professeur Quirrell le fixerait de ses yeux bleu pâle
 et dirait : « Je vois, M. Potter, vous avez donc enseigné le Patronus à
-M. Malfoy et avez accidentellement parlé à son serpent. »
+M. Malefoy et avez accidentellement parlé à son serpent. »
 
 Le fait qu’il n’y aurait pas dû y avoir de preuves assez fortes pour
 localiser la bonne explication parmi toutes les hypothèses n’avait
@@ -232,7 +232,7 @@ l’expulsion de M. Hagrid et la confiscation de sa baguette. Notre
 directeur actuel a simplement besoin d’apporter quelques éléments de
 preuve supplémentaires suffisamment importants pour que le jury se
 réunisse de nouveau ; et puisque ce n’est plus Dippet qui fait pression
-mais Dumbledore, le résultat est couru d’avance. Lucius Malfoy n’a pas
+mais Dumbledore, le résultat est couru d’avance. Lucius Malefoy n’a pas
 de raison particulière de craindre le jour où M. Hagrid sera innocenté ;
 il ne résistera donc à cet appel que dans la mesure où cela ne lui
 coûtera rien tout en imposant des frais à Dumbledore, et Dumbledore est

@@ -141,7 +141,7 @@ Le visage de cette dernière se tordit et elle sentit de l’humidité au
 coin de ses yeux.
 
 « Je t’avertis quand même, » continua Harry, « je résoudrai peut-être le
-problème de la dette envers Lucius Malfoy moi-même si je découvre un
+problème de la dette envers Lucius Malefoy moi-même si je découvre un
 moyen de le faire avant toi. C’est plus important de résoudre le
 problème tout de suite que de savoir *lequel* d’entre nous l’a résolu.
 Tu as déjà trouvé quelque chose d’intéressant ? »
@@ -328,7 +328,7 @@ Harry parla de nouveau. « Donc tout cela étant dit… et s’il te plaît
 prends ça comme un renforcement positif… est-ce que tu as vraiment
 essayé d’inventer un moyen de faire de la *production de masse
 d’immortalité* pour que je puisse *rembourser ma dette envers Lucius
-Malfoy* ? »
+Malefoy* ? »
 
 « Oui, » dit-elle d’une voix encore plus petite. Même quand elle
 *essayait* de penser comme Harry, il semblait qu’elle n’avait pas encore
@@ -450,8 +450,8 @@ apparemment inventé un moyen de transformer de petits animaux en tartes
 au citron, lorsqu’elle trouva enfin le courage de parler.
 
 « Harry ? » dit-elle. (Elle s’était un peu écartée de lui, mais elle ne
-s’en était pas rendue compte). « S’il y a une copie de Drago Malfoy dans
-ta tête, est-ce que ça veut dire que tu es ami avec Drago Malfoy ? »
+s’en était pas rendue compte). « S’il y a une copie de Drago Malefoy dans
+ta tête, est-ce que ça veut dire que tu es ami avec Drago Malefoy ? »
 
 « Eh bien… » dit Harry. Il soupira. « Ouais, je comptais t’en parler de
 toute façon. J’aurais bien aimé t’en parler plus tôt. Bref, comment dire
@@ -465,13 +465,13 @@ Elle resta bouche bée.
 
 « Tu sais, comme l’Empereur et Dark Vador, mais à l’envers. »
 
-« *Drago Malfoy*, » dit-elle. « Harry, est-ce que tu as la *moindre idée*… »
+« *Drago Malefoy*, » dit-elle. « Harry, est-ce que tu as la *moindre idée*… »
 
 « Oui. »
 
-« …du genre de chose que Malfoy a *dit* sur moi ? De ce qu’il a dit qu’il
+« …du genre de chose que Malefoy a *dit* sur moi ? De ce qu’il a dit qu’il
 me *ferait* dès qu’il en aurait l’occasion ? Je ne sais pas ce qu’il
-*t’a* dit, mais Daphné Greengrass m’a répété ce que Malfoy dit quand il
+*t’a* dit, mais Daphné Greengrass m’a répété ce que Malefoy dit quand il
 est à Serpentard. C’est *indicible*, Harry ! C’est littéralement
 indicible, au sens que je ne peux pas le dire à voix haute ! »
 
@@ -479,7 +479,7 @@ indicible, au sens que je ne peux pas le dire à voix haute ! »
 t’a dit *quand* c’était ? »
 
 « Non, » dit Hermione. « Parce que le quand n’a pas d’importance. Quiconque
-dit des choses — comme celles que Malfoy a dites — ne peut pas être
+dit des choses — comme celles que Malefoy a dites — ne peut pas être
 quelqu’un de bien. Tes tentations n’ont pas d’importance, il reste
 quelqu’un de pourri, parce que *quoiqu’il arrive* quelqu’un de bien ne
 pourrait *jamais*… »
@@ -487,7 +487,7 @@ pourrait *jamais*… »
 « Tu as tort, » dit Harry en la regardant droit dans les yeux. « Je peux
 imaginer ce que Drago a menacé de te faire, parce que la deuxième fois
 que je l’ai rencontré, il parlait de le faire à une fille de dix ans.
-Mais est-ce que tu ne vois pas que le jour où Drago Malfoy est arrivé à
+Mais est-ce que tu ne vois pas que le jour où Drago Malefoy est arrivé à
 Poudlard, il avait passé toute sa vie élevé par des *Mangemorts*. Il
 aurait fallu une *intervention surnaturelle* pour qu’il ait *ta*
 moralité étant donné *son* cadre éducatif… »
@@ -526,7 +526,7 @@ niveau de l’oreille, « … c’est qu’il souffrent quand ils voient leurs
 préoccupation, quand c’est un membre de leur tribu. Cette sensation a un
 interrupteur, un bouton on-off étiqueté « ennemi, » « étranger, » ou parfois
 juste « inconnu ». Les gens sont comme ça si on ne leur *apprend* rien
-d’autre. Donc non, le fait que Drago Malfoy a grandi en croyant que
+d’autre. Donc non, le fait que Drago Malefoy a grandi en croyant que
 c’est drôle de faire souffrir ses ennemis ne veut *pas* dire qu’il est
 inhumain, ni même inhabituellement mauvais… »
 
@@ -552,13 +552,13 @@ devenir plus éthiquement meilleur que la société dans laquelle il a
 grandi. Et *malgré ça* il ne lui a fallu que quatre mois pour en arriver
 au point où il attrape une née-Moldue par la main pour l’empêcher de
 tomber d’un bâtiment. » Les yeux de Harry étaient plus virulents qu’elle
-ne les avait jamais vus. « Je n’ai pas *fini* de corrompre Drago Malfoy,
+ne les avait jamais vus. « Je n’ai pas *fini* de corrompre Drago Malefoy,
 mais je pense que jusque là il s’en sort *plutôt bien*. »
 
 Le problème d’avoir une aussi bonne mémoire, c’était de *pouvoir* se
 souvenir.
 
-Elle se souvenait de Drago Malfoy saisissant son poignet avec tant de
+Elle se souvenait de Drago Malefoy saisissant son poignet avec tant de
 force qu’elle avait eu un bleu.
 
 Elle se souvenait de Drago l’aidant à se relever après que ce mystérieux
@@ -567,7 +567,7 @@ Quidditch Serpentard.
 
 Et elle se souvenait — c’était en fait la raison pour laquelle elle
 avait entamé cette conversation — de ce qu’elle avait ressentit quand
-elle avait entendu le témoignage sous Veritaserum de Drago Malfoy.
+elle avait entendu le témoignage sous Veritaserum de Drago Malefoy.
 
 « Pourquoi est-ce que tu ne m’as rien *dit* de tout ça ? » dit Hermione,
 et en dépit d’elle-même, sa voix monta d’un cran. « Si j’avais *su*… »
@@ -577,12 +577,12 @@ et en dépit d’elle-même, sa voix monta d’un cran. « Si j’avais *su*�
 
 « Je ne suis pas stupide, M. Potter. Quelle est la *vraie* raison pour
 laquelle tu ne me l’as pas dit, et qu’est-ce que tu faisais *vraiment*
-avec M. Malfoy ? »
+avec M. Malefoy ? »
 
 « Ah. Eh bien… » Harry détourna le regard et baissa les yeux vers la
 table.
 
-« Drago Malfoy a dit aux Aurors, sous Veritaserum, qu’il avait désiré
+« Drago Malefoy a dit aux Aurors, sous Veritaserum, qu’il avait désiré
 savoir s’il pouvait me battre et qu’il m’avait donc provoquée en duel
 afin de le *tester empiriquement*. Ce furent ses *mots exacts*, selon la
 retranscription de son témoignage. »
@@ -592,7 +592,7 @@ Bien *sûr* qu’elle se souviendrait des mots exacts. Peu importe qu’elle
 soit enchaînée à une chaise et accusée de meurtre devant tout le
 Magenmagot… »
 
-« Qu’est-ce que tu faisais *vraiment* avec Drago Malfoy ? »
+« Qu’est-ce que tu faisais *vraiment* avec Drago Malefoy ? »
 
 Harry grimaça et dit : « Probablement pas *exactement* ce que tu penses,
 mais… »
@@ -659,7 +659,7 @@ scientifiques* collaborent *tout le temps*, je ne pense pas avoir trompé
 qui que ce soit. Les scientifiques sont souvent discrets quant aux
 projets sur lesquels ils travaillent. Toi et moi faisons des recherches
 que nous gardons secrètes, et il y avait des raisons de ne pas en parler
-à Drago Malfoy en particulier — au début, il aurait entièrement arrêté
+à Drago Malefoy en particulier — au début, il aurait entièrement arrêté
 de passer du temps avec moi s’il avait su que j’étais ton ami et pas ton
 rival. Et Drago aurait été celui à risque si j’avais parlé de *lui* à
 quelqu’un… »

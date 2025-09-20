@@ -130,7 +130,7 @@ compter parmi les victimes… »
 non non non non non non NON NON NON NON
 
 Comme attirés par un horrible aimant, les yeux de Harry se fixèrent sur
-l’image d’horreur absolue qu’était le visage de Drago Malfoy alors même
+l’image d’horreur absolue qu’était le visage de Drago Malefoy alors même
 que le coton réconfortant qui enveloppait les pensées de Harry était
 arraché comme du tissu.
 
@@ -148,7 +148,7 @@ Daniel Gibson. Jason Gross. Elsie Ambrose… »
 ne pas venir, peut-être qu’il a compris que c’était Voldemort qui s’en
 était pris à Drago…*
 
-« … Theodore Nott. Vincent Crabbe. Gregory Goyle. Drago Malfoy. C’est
+« … Theodore Nott. Vincent Crabbe. Gregory Goyle. Drago Malefoy. C’est
 tout. »
 
 Un élève de Gryffondor poussa un cri de joie et fut immédiatement giflé

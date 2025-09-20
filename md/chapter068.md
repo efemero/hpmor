@@ -17,7 +17,7 @@ n’avait pas l’air en aussi bonne santé que la dernière fois qu’elle
 avait été dans son bureau ; sa peau était plus pâle et il se déplaçait
 un peu plus lentement. Son expression était aussi sévère que d’habitude,
 son regard aussi pénétrant ; ses doigts frappaient sèchement son bureau,
-tap-tap. « J’imagine que parmi vous trois, seul M. Malfoy a deviné
+tap-tap. « J’imagine que parmi vous trois, seul M. Malefoy a deviné
 pourquoi j’ai demandé votre présence. »
 
 « Quelque chose en rapport avec les maisons Nobles et Très Anciennes ? »
@@ -31,11 +31,11 @@ n’aurais bien sûr pas autorisé un duel formel. La guerre ne respecte pas
 ce genre de règles. » Le professeur de Défense se pencha en avant et
 reposa son menton sur ses mains arquées, comme si avoir le dos droit
 l’avait déjà fatigué. Ses yeux, perçants et dangereux, les passèrent
-tous les trois en revue. « Général Malfoy. Pourquoi vous ais-je appelé
+tous les trois en revue. « Général Malefoy. Pourquoi vous ais-je appelé
 ici ? »
 
 « Ce n’est plus équitable de mettre le général Potter seul contre nous
-deux, » dit Drago Malfoy d’une voix basse.
+deux, » dit Drago Malefoy d’une voix basse.
 
 « *Quoi ?* » laissa échapper Hermione. « On les *avait* presque, si Daphné
 ne s’était pas évanouie — »
@@ -64,7 +64,7 @@ portait hormis ses sous-vêtements, ce qui me laisse à penser que M.
 Potter n’avait pas tout à fait compris à quel point il était vulnérable.
 Ou vous auriez pu demander à vos soldats de se ruer sur M. Potter et M.
 Londubat et d’arracher de force leur baguette de leur main. La réponse
-de M. Malfoy n’a pas été ce que je pourrais qualifier de *réfléchie*,
+de M. Malefoy n’a pas été ce que je pourrais qualifier de *réfléchie*,
 mais au moins il n’a pas complètement ignoré les milles alternatives qui
 lui étaient offertes. » Un sourire sardonique. « Mais vous, Mlle Granger,
 avez eu le malheur de vous souvenir comment lancer le sortilège
@@ -75,7 +75,7 @@ armée sur les épaules d’une seule personne, si bien que son moral est
 descendu en flèche lorsque vous êtes tombée. Ils ont ensuite continué de
 lancer leurs futiles sortilèges de sommeil, guidés par les habitudes de
 combat qui leur avaient été inculquées, incapables de briser ces motifs
-comme M. Malfoy l’a fait. Je ne peux pas tout à fait comprendre ce qui
+comme M. Malefoy l’a fait. Je ne peux pas tout à fait comprendre ce qui
 passe par la tête des gens lorsqu’ils répètent la même stratégie
 perdante encore et encore, mais il est apparemment rare de se rendre
 compte qu’on peut essayer autre chose. Ainsi le régiment Soleil a-t-il
@@ -86,9 +86,9 @@ dont notre bien-aimé ministère continue d’exercer le pouvoir. »
 
 Le professeur de Défense soupira. « *Néanmoins*, mademoiselle Granger, le
 fait demeure : ce n’est pas votre première défaite de ce genre. Lors de
-la bataille précédente, vous et M. Malfoy avez unis vos forces et vous
+la bataille précédente, vous et M. Malefoy avez unis vos forces et vous
 êtes quand même retrouvé dans une impasse, à tel point qu’il a fallu que
-M. Malfoy et vous poursuiviez M. Potter jusqu’au toit. La légion du
+M. Malefoy et vous poursuiviez M. Potter jusqu’au toit. La légion du
 Chaos a maintenant démontré deux fois de suite qu’elle possédait une
 force militaire égale à celle de vos deux armées réunies. Cela ne me
 laisse pas d’autre choix : général Potter, vous choisirez huit soldats
@@ -111,14 +111,14 @@ sorcellerie de Poudlard et elle n’est pas sujette à quelque négociation
 que ce soit. » Les mots étaient toujours précis mais bien qu’il ait
 regardé Harry et pas elle, le regard du professeur de Quirrell glaça les
 sangs de Hermione. « Et je trouve *suspicieux*, M. Potter, qu’au moment
-où vous avez choisi d’isoler Mlle Granger et M. Malfoy et de les forcer
+où vous avez choisi d’isoler Mlle Granger et M. Malefoy et de les forcer
 à vous poursuivre sur le toit, vous soyez parvenu à annihiler exactement
 autant de leurs forces rassemblées qu’il vous a convenu. De fait, c’est
 le niveau de performance que *j’attendais* de vous depuis le début de
 cette année et je suis *agacé* de découvrir que vous vous êtes retenus
 lors de mes cours pendant tout ce temps ! J’ai vu ce dont vous êtes
 vraiment capable, M. Potter. Vous êtes loin au-delà du stade où M.
-Malfoy et Mlle Granger peuvent vous affronter sur un pied d’égalité, et
+Malefoy et Mlle Granger peuvent vous affronter sur un pied d’égalité, et
 vous ne saurez prétendre qu’il en est autrement. Ceci, M. Potter, je
 vous le dis en tant que professeur : pour réaliser tout votre potentiel,
 vous devez pratiquer au maximum de vos capacités et ne vous retenir pour
@@ -145,7 +145,7 @@ vous gagner ! »
 Elle n’arrivait pas à répondre, elle en était incapable, tout craquerait
 si elle essayait de dire un seul mot.
 
-« Vraiment ? » dit Drago Malfoy. Le général Dragon avait encore cet air
+« Vraiment ? » dit Drago Malefoy. Le général Dragon avait encore cet air
 résigné. « Parce que tu sais, Quirrell a raison, c’est *suspicieux* que
 tu aies été capable d’abattre presque tout le monde dans nos deux armées
 dès que tu as voulu qu’on te pourchasse sur le toit. Et est-ce que tu
@@ -175,7 +175,7 @@ et l’écraser, c’était ça ?
 les yeux quand il était effrayant, comment avait-elle pu jamais croire
 qu’elle pourrait vraiment le battre ?
 
-Le couloir atteint un embranchement, Harry Potter et Drago Malfoy
+Le couloir atteint un embranchement, Harry Potter et Drago Malefoy
 prirent à gauche vers un escalier qui menait au deuxième étage et elle
 partit plutôt à droite ; elle ne savait pas où menait ce passage mais
 pour l’instant elle aurait préféré se perdre dans le château.
@@ -300,8 +300,8 @@ roulée en boule, le dos contre la pierre fraîche, les jambes repliées,
 en pleurs.
 
 Même si elle perdait contre Harry Potter elle ne perdrait jamais,
-*jamais*, contre Drago Malfoy, c’était *absolument* inacceptable, et le
-professeur Quirrell avait félicité le général Malfoy pour n’avoir pas
+*jamais*, contre Drago Malefoy, c’était *absolument* inacceptable, et le
+professeur Quirrell avait félicité le général Malefoy pour n’avoir pas
 ignoré les milles alternatives possibles ; et donc, après avoir épuisé
 toutes ses larmes, Hermione avait pensé à quatorze autre sortilèges
 qu’elle *aurait dû* essayer contre Harry et Neville, puis elle avait

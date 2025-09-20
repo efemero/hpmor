@@ -134,7 +134,7 @@ sort. »
 Harry applaudit involontairement sous le coup de l’excitation. Il
 suffirait de mettre l’argent sur un compte chez Ollivander et de dire à
 M. Ollivander de ne jamais le rendre — ou mieux encore, qu’il l’envoie à
-Lucius Malfoy si les jumeaux Weasley ne venaient pas acheter une
+Lucius Malefoy si les jumeaux Weasley ne venaient pas acheter une
 baguette avant le début de l’année prochaine. « C’est *génial*,
 professeur ! »
 
@@ -155,7 +155,7 @@ détourné sous le coup de l’ennui tandis que vous, dans un accès de
 puérilité, récupériez vos cinq Gallions une Noise à la fois ? »
 
 « Eh bien, la méthode la plus simple aurait été d’emprunter de l’argent à
-Drago Malfoy, » dit Harry.
+Drago Malefoy, » dit Harry.
 
 Le professeur Quirrell gloussa brièvement. « Sérieusement, M. Potter. »
 

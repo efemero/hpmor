@@ -442,7 +442,7 @@ Il y eut une longue pause.
 
 « Écoutez, qui que vous soyez, » dit la voix dure. « Vous semblez mal
 comprendre comment les choses fonctionnent. Je me fiche que ce soit
-Lucius Malfoy derrière vous, ou Albus Sacré Dumbledore. Vous sortez
+Lucius Malefoy derrière vous, ou Albus Sacré Dumbledore. Vous sortez
 *tous*, je vous inspecte, et *alors* on discute de combien ça va vous
 coûter — »
 

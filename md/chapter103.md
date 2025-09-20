@@ -6,10 +6,10 @@
 Daphné Greengrass était dans la salle commune des Serpentard et écrivait
 une lettre à Dame sa mère (étonnamment intransigeante quant au partage
 de son pouvoir alors même qu’elle n’était *même pas* à Poudlard)
-lorsqu’elle vit Drago Malfoy entrer par le portrait en chancelant, avec
+lorsqu’elle vit Drago Malefoy entrer par le portrait en chancelant, avec
 dans les bras au moins douze livres ; Vincent et Grégory étaient
 derrière lui et en portaient une autre douzaine. L’Auror qui
-accompagnait Malfoy glissa sa tête par le passage puis s’en fut on ne
+accompagnait Malefoy glissa sa tête par le passage puis s’en fut on ne
 sait où.
 
 Drago regarda autour de lui et une idée brillante sembla soudain le
@@ -20,7 +20,7 @@ lui.
 s’approchant, le souffle un peu court.
 
 « Quoi. » Il n’y avait plus de cours, seulement des examens, et depuis
-quand un *Malfoy* demandait-il de l’aide à une *Greengrass* pour ses
+quand un *Malefoy* demandait-il de l’aide à une *Greengrass* pour ses
 devoirs ?
 
 « Voici, » dit Drago d’un ton solennel, « tous les livres empruntés à la
@@ -39,17 +39,17 @@ elle a lu un seul de ces livres, ni même si elle les a vraiment
 empruntés. En fait, tout ce qu’on a *observé*, c’est que le registre de
 la bibliothèque dit qu’elle les a pris… »
 
-Daphné réprima un grognement. Malfoy parlait comme ça depuis plusieurs
+Daphné réprima un grognement. Malefoy parlait comme ça depuis plusieurs
 semaines. Il était clair que certains individus ne devraient jamais
 s’intéresser à des meurtres mystérieux car l’effet que cela produisait
-sur leur cerveau était *bizarre*. « M. Malfoy, je ne pourrais pas lire
+sur leur cerveau était *bizarre*. « M. Malefoy, je ne pourrais pas lire
 ces livres même si j’y passais tout l’été ; »
 
 « Alors essayez de juste les parcourir, s’il vous plaît ? » répondit
 Drago. « Surtout si on y trouve, tu sais, d’étranges notes de sa main, ou
 un marque-page laissé à l’intérieur, ou… »
 
-« Oui, j’ai vu ces pièces aussi, M. Malfoy, » dit Daphné en levant les
+« Oui, j’ai vu ces pièces aussi, M. Malefoy, » dit Daphné en levant les
 yeux au ciel. « Mais on a des *Aurors* pour ça maint… »
 
 « *Nous sommes perdus !* » glapit Millicent Bulstrode, jaillissant dans la

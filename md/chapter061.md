@@ -670,7 +670,7 @@ que toute attaque par une arme Moldue provoquera des représailles du
 même type. Ordonnez à M. Potter de cesser d’utiliser la technologie
 Moldue en bataille ; cela montrera que le message est reçu… et le
 privera d’une source d’inspiration. » Severus fronça les sourcils.
-« Quoique, maintenant que j’y pense, M. Malfoy — et bien sûr Mlle
+« Quoique, maintenant que j’y pense, M. Malefoy — et bien sûr Mlle
 Granger — eh bien, à la réflexion un interdit général sur la technologie
 semblerait plus sage — »
 

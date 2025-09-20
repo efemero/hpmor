@@ -8,7 +8,7 @@ assis seul dans un coin et regardait quelque lointain inconnu, ses
 paupières baissées, presque closes.
 
 La rumeur disait que les Aurors avaient découvert que le professeur de
-Défense s’était polynectaré en Granger pour avoir Malfoy.
+Défense s’était polynectaré en Granger pour avoir Malefoy.
 
 La rumeur disait que Hermione avait été liée par Serment Inviolable à
 être l’esclave de Drago.
@@ -74,7 +74,7 @@ je demanderai au directeur d’aller le chercher. Mais autant vous le
 dire : le conseil d’administration a prévu un vote quant au droit du
 professeur Quirrell à organiser d’autres batailles. »
 
-Kevin Sifflebranche parla. « Et le général Malfoy ? Quand est-ce qu’il
+Kevin Sifflebranche parla. « Et le général Malefoy ? Quand est-ce qu’il
 va rentrer de Sainte Mangouste ? »
 
 Le professeur de Métamorphose s’arrêta de dessiner à nouveau.
@@ -84,7 +84,7 @@ Elle se retourna encore, plus lentement cette fois.
 « Je *suis* navrée, M. Sifflebranche, » dit le professeur McGonagall.
 Son visage semblait légèrement plus ridé que lorsqu’elle était entrée
 dans la pièce. « On m’a fait comprendre qu’il n’y avait rien à craindre
-pour la santé de M. Malfoy. Mais j’ai malheureusement reçu une chouette
+pour la santé de M. Malefoy. Mais j’ai malheureusement reçu une chouette
 de son père annonçant son départ de Poudlard. J’ai bien peur qu’il ne
 revienne pas. »
 

@@ -103,7 +103,7 @@ atteindre ne serait-ce qu’une seule de tes ambitions, et sans même
 considérer le fait qu’elle a des alliés puissants qui pourraient s’en
 trouver offensés. Ce n’est pas là le fier Serpentard des jours anciens,
 Padma Patil, ce n’est pas la fierté de Salazar, c’est un Serpentard en
-décomposition, Padma Parkinson au lieu de Padma Malfoy… »
+décomposition, Padma Parkinson au lieu de Padma Malefoy… »
 
 Elle commençait à être plus terrorisée qu’elle ne l’avait jamais été au
 cours de sa vie, et la possibilité qu’il s’agisse *vraiment* d’un

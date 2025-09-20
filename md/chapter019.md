@@ -206,7 +206,7 @@ t’ai déjà parlé de l’importance potentielle de Harry Potter. Comme tu
 t’en es déjà rendu compte, celle-ci est à présent devenue plus grande et
 plus urgente. Si tu vois le moindre moyen menant à l’amitié ou le
 moindre point de pression exerçable, tu dois t’y aventurer, et toutes
-les ressources des Malfoy seront à ta disposition si besoin est.* »
+les ressources des Malefoy seront à ta disposition si besoin est.* »
 
 Eh ben. « Alors, » dit Harry, « sans commenter sur la véracité de l’édifice
 compliqué qu’est ta théorie, laisse-moi juste dire que nous ne sommes
@@ -292,7 +292,7 @@ Le regard du professeur Quirrell parcourut la rangée de sièges. Harry
 grimaça depuis son siège dans la dernière rangée. Il avait l’impression
 de savoir qui allait être appelé.
 
-« Drago, de la Noble et Ancienne Maison de Malfoy, » dit le professeur
+« Drago, de la Noble et Ancienne Maison de Malefoy, » dit le professeur
 Quirrell.
 
 Pfiou.
@@ -644,12 +644,12 @@ Appeler ça *désir d’avoir l’air amical* donna à Harry la sensation qu’i
 l’impressionner, ça marchait à la perfection.
 
 Le professeur Quirrell regardait Drago d’un air grave. »*Vous* avez peur
-de ne pas pouvoir faire semblant de perdre, M. Malfoy ? Ce défaut qui
+de ne pas pouvoir faire semblant de perdre, M. Malefoy ? Ce défaut qui
 décrit M. Potter vous décrit vous aussi ? Votre père vous a
 *certainement* mieux éduqué que ça.« »Lorsqu’il s’agit de parler, peut-être,« dit Drago, maintenant sur
 l’écran-relais. »Pas lorsqu’il s’agit d’être poussé en tous sens et
 projeté au sol. Je veux être au moins aussi fort que vous, professeur
-Quirrell.« Les sourcils du professeur Quirrell s’élevèrent et restèrent levés. »J’ai peur, M. Malfoy,« dit-il après un moment, »que les préparatifs que
+Quirrell.« Les sourcils du professeur Quirrell s’élevèrent et restèrent levés. »J’ai peur, M. Malefoy,« dit-il après un moment, »que les préparatifs que
 j’ai fait pour M. Potter, qui utilisent quelques Serpentard plus vieux à
 qui l’on dira *plus tard* à quel point ils étaient stupides, ne
 marcheraient pas avec vous. Mais, selon mon opinion professionnelle,
@@ -661,7 +661,7 @@ auriez blessée. Je ne pense cependant pas que cela sera nécessaire.« »Je c
 Le professeur Quirrell regarda la classe. »Quelqu’un d’autre
 souhaite-t-il devenir fort ?« Quelques étudiants regardèrent autour d’eux nerveusement. Certains,
 pensa Harry depuis le dernier rang, semblaient avoir ouvert leurs
-bouches, mais ils ne disaient rien. Personne ne se décida à parler. »Drago Malfoy sera l’un des généraux des armées de cette année,« dit le
+bouches, mais ils ne disaient rien. Personne ne se décida à parler. »Drago Malefoy sera l’un des généraux des armées de cette année,« dit le
 professeur Quirrell, »s’il daigne s’impliquer dans cette activité du
 soir. Et maintenant, M. Potter, merci de vous avancer.« ------------------------------------------------------------------------
 
@@ -799,7 +799,7 @@ avait monté puis décliné sourit avec une froide satisfaction.
 Puis Harry s’effondra sur le tapis.
 
 Le professeur Quirrell parla. Il y eut des bruits d’étranglement venant
-des Serpentard plus âgés. »Et je crois que l’héritier de Malfoy a quelque chose qu’il aimerait
+des Serpentard plus âgés. »Et je crois que l’héritier de Malefoy a quelque chose qu’il aimerait
 aussi vous expliquer,« conclut le professeur Quirrell.
 
 La voix de Drago commença à parler. Elle semblait aussi tranchante que
@@ -865,7 +865,7 @@ Harry ne pouvait pas dissimuler son air abasourdi. Il risqua un regard
 vers ses camarades et il vit leurs visages montrer non pas de la pitié
 mais de l’admiration. Les applaudissements venaient de Serdaigle et de
 Gryffondor et de Poufsouffle et même de Serpentard, probablement parce
-que Drago Malfoy applaudissait lui aussi. Certains étudiants se levaient
+que Drago Malefoy applaudissait lui aussi. Certains étudiants se levaient
 de leurs chaises et la moitié de Gryffondor se tenait sur ses pupitres.
 
 Alors Harry se tint là, chancelant, laissant le respect qu’ils

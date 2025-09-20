@@ -65,7 +65,7 @@ L’espace d’un instant, Hermione imagina ses parents lisant un article de
 journal à son sujet sauf qu’au lieu de parler de sa victoire nationale
 au concours d’orthographe ou de n’importe lequel des autres moyens par
 lesquels elle s’était imaginée finir dans le journal, le gros titre
-disait : « DRAGO MALFOY TOMBE ENCEINTE DE HERMIONE GRANGER ».
+disait : « DRAGO MALEFOY TOMBE ENCEINTE DE HERMIONE GRANGER ».
 
 Ça suffisait à vous faire réfléchir à deux fois à l’idée de se lancer
 dans une carrière d’héroïne.
@@ -845,16 +845,16 @@ Daphné se retourna, abasourdie, la bouche béante.
 
 « *Récurvite* » dit la voix mielleuse, et la purée disparut du visage de
 Hermione, révélant une expression de surprise sur le visage de la
-Serdaigle lorsque Drago Malfoy s’approcha, rengaina sa baguette puis
+Serdaigle lorsque Drago Malefoy s’approcha, rengaina sa baguette puis
 posa un genoux à terre et lui offrit sa main.
 
-« Navré pour tout ceci, Mlle Granger, » dit la voix polie de Drago Malfoy.
+« Navré pour tout ceci, Mlle Granger, » dit la voix polie de Drago Malefoy.
 « Je suppose que quelqu’un s’est crû drôle. »
 
 Hermione prit la main de Drago et Daphné comprit soudain ce qui allait
 se produire -
 
-Mais Drago Malfoy *ne laissa pas* Hermione se lever à moitié avant de la
+Mais Drago Malefoy *ne laissa pas* Hermione se lever à moitié avant de la
 laisser retomber par terre.
 
 Il la mit juste sur pieds.
@@ -940,7 +940,7 @@ dysfonctionnement qui l’empêchait de trouver autre chose à répondre que
 la vérité -
 
 Puis : « C’est probablement une sorte de plan incroyablement malin que
-Malfoy prépare, » dit un garçon en cinquième année. « Vous savez, comme
+Malefoy prépare, » dit un garçon en cinquième année. « Vous savez, comme
 dans *La Tragédie de Light*, où tous les revers font en fait partie du
 plan. Et ça finit avec la tête de Granger au bout d’une pique et
 personne pour le soupçonner. »
@@ -994,26 +994,26 @@ Et elle écouta ce que son soldat Soleil avait à dire…
 
 « Tu ne *comprends pas* ? » dit la voix de Daphné qui était à peine
 au-dessous d’un glapissement. « Ce n’est pas parce que quelqu’un est
-gentil avec toi qu’il veut être ton ami ! C’est *Drago Malfoy !* Son
+gentil avec toi qu’il veut être ton ami ! C’est *Drago Malefoy !* Son
 père est un Mangemort, tous les parents de tous ses amis sont des
 Mangemorts — Nott, Goyle, Crabbe, *tous les gens qui l’entourent*, tu
 comprends ? Ils méprisent *tous* les nés-Moldus, ils veulent que les
 gens comme toi *meurent*, ils pensent que tu n’es bonne qu’à être
 *sacrifiée* pour d’horribles rituels noirs ! Drago est le *prochain Lord
-Malfoy*, il a été éduqué depuis la naissance pour te haïr et pour
+Malefoy*, il a été éduqué depuis la naissance pour te haïr et pour
 *mentir* ! » Les yeux gris-vert de Daphné demandaient farouchement un
 assentiment ou le signe d’une compréhension.
 
 « Il — » dit Hermione d’une voix hésitante. Elle se souvint du toit, de
 l’horrible secousse lorsqu’elle avait commencé à tomber, de la main de
-Drago Malfoy qui avait attrapé la sienne et qui l’avait serrée si fort
+Drago Malefoy qui avait attrapé la sienne et qui l’avait serrée si fort
 qu’elle en avait ensuite eu des ecchymoses. Elle avait dû lui demander
 deux fois avant qu’il ne la laisse enfin tomber. « Peut-être que Drago
-Malfoy n’est pas comme eux — »
+Malefoy n’est pas comme eux — »
 
 Le chuchotement de Daphné était presque un cri. « S’il ne finit *pas* par
 t’infliger dix fois pire que ce qu’il a fait pour t’aider, sa *vie* est
-finie, tu comprends ? Je veux dire que Lucius Malfoy le *déshériterait*,
+finie, tu comprends ? Je veux dire que Lucius Malefoy le *déshériterait*,
 au sens propre ! T’sais quelles sont les chances qu’il ne soit *pas* en
 train de préparer quelque chose ? »
 
@@ -1027,7 +1027,7 @@ centaure ! Tout le monde à Serpentard sait qu’il fomente quelque chose
 contre toi et qu’il ne veut pas qu’on le soupçonne, j’ai entendu
 quelqu’un dire qu’il avait dirigé sa baguette vers toi juste avant que
 tu ne trébuches — tu ne comprends pas ? *Tout ça fait partie du plan de
-Malfoy !* »
+Malefoy !* »
 
 
 
@@ -1042,7 +1042,7 @@ pleurer non plus.
 
 Il avait *entendu parler* du concept de déni plausible mais il n’avait
 pas compris à quel point c’était important jusqu’au jour où il avait
-découvert que les Malfoy n’en avaient pas du tout.
+découvert que les Malefoy n’en avaient pas du tout.
 
 « Tu veux connaître mon plan ? » dit Drago. « *Voilà* mon plan. Je ne vais
 *rien faire* cette fois et comme ça la *prochaine* fois que les gens
@@ -1222,7 +1222,7 @@ Mais il était très clair que son directeur de maison n’allait pas croire
 
 « Oh, je suis tout à fait d’accord, » murmura Rogue d’un ton bas, emplit
 de menace. « Elles n’auraient pas dû. Je commence à me demander si M.
-Malfoy, quelles que soient ses manigances, n’a pas raison, Astorga. Ça
+Malefoy, quelles que soient ses manigances, n’a pas raison, Astorga. Ça
 ne peut qu’être mauvais pour la réputation de Serpentard si nos
 combattants, plutôt que de faire montre de leur force, perdent face à de
 petites filles ! » la voix de Rogue avait monté d’un ton. « Il est heureux
@@ -1260,7 +1260,7 @@ Le parchemin que Drago renvoya était tout aussi court et disait :
 Serpentard, père.*
 
 En autant de temps qu’il fallait à une chouette pour voler de Poudlard
-au manoir Malfoy puis d’en revenir, la chouette familiale porta un
+au manoir Malefoy puis d’en revenir, la chouette familiale porta un
 nouveau message à Drago, et celui-ci disait seulement :
 
 *Que fais-tu vraiment ?*

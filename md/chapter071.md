@@ -172,7 +172,7 @@ S’était allié à *Harry Potter ?*
 
 Et avait envoyé *Hermione Granger* arrêter l’équipe de Derrick ?
 
-Elle aurait payé cent Gallions pour être là quand Drago Malfoy
+Elle aurait payé cent Gallions pour être là quand Drago Malefoy
 entendrait ça.
 
 Quoique, à en juger par la vitesse à laquelle les rumeurs se répandaient
@@ -397,11 +397,11 @@ sont les chances que — »
 
 
 « Attends ici, » gronda M. Goyle, et il passa un angle ; et on put
-l’entendre frapper à la porte de la chambre privée de M. Malfoy.
+l’entendre frapper à la porte de la chambre privée de M. Malefoy.
 
 Elle avait légèrement la nausée et se rappela à nouveau que, puisque
 Padma avait craché le morceau, *quelqu’un* allait forcément le dire à
-Drago Malfoy, alors autant que ça soit *elle*, et puis ce n’était pas
+Drago Malefoy, alors autant que ça soit *elle*, et puis ce n’était pas
 comme si elle *devait* quoi que ce soit à Harry Potter, et une
 Serpentard devait faire le nécessaire pour accomplir ses Ambitions.
 
@@ -412,7 +412,7 @@ manger des grenouilles en chocolat à chaque petit déjeuner et vaincre au
 moins *trois* Seigneurs des Ténèbres juste pour faire bien voir au
 professeur Quirrell qui était ordinaire.
 
-« M. Malfoy va te recevoir, » dit la voix grave et menaçante de M. Goyle
+« M. Malefoy va te recevoir, » dit la voix grave et menaçante de M. Goyle
 lorsque celui-ci revint. « Et tu ferais mieux d’espérer qu’il ne pense
 pas que tu lui fais perdre son temps. » Il la regarda brièvement d’un air
 toujours menaçant puis s’écarta.
@@ -420,39 +420,39 @@ toujours menaçant puis s’écarta.
 Tracey ajouta à sa liste d’Ambitions qu’elle voulait avoir ses propres
 serviteurs puis entra.
 
-Le chambre privée de M. Malfoy ressemblait exactement à celle de Daphné.
+Le chambre privée de M. Malefoy ressemblait exactement à celle de Daphné.
 Elle avait secrètement espérer voir des chandeliers de diamant ou des
 fresques en or sur les murs — elle ne l’avait jamais dit devant Daphné
-mais la maison Malfoy *était* un cran au-dessus de Greengrass. Mais
+mais la maison Malefoy *était* un cran au-dessus de Greengrass. Mais
 c’était juste une petite chambre comme celle de Daphné et la seule
-différence était que le mobilier de Malfoy était décoré par des serpents
+différence était que le mobilier de Malefoy était décoré par des serpents
 d’argent à la place des plantes en émeraude.
 
-Alors qu’elle passait l’embrasure de la porte, Drago Malfoy — qui était
+Alors qu’elle passait l’embrasure de la porte, Drago Malefoy — qui était
 d’une apparence impeccable même dans sa propre chambre — se leva de sa
 chaise pour l’accueillir d’un petit salut amical, affublé d’un sourire
 charmant exactement comme si elle était quelqu’un *d’importance*, ce qui
 la rendit si nerveuse qu’elle oublia tout ce qu’elle avait répété dans
 sa tête et qu’elle dit juste : « J’ai un truc à te dire ! »
 
-« Oui, Gregory me l’a fait savoir, » dit doucement Drago Malfoy. « S’il
+« Oui, Gregory me l’a fait savoir, » dit doucement Drago Malefoy. « S’il
 vous plaît, Mlle Davis, asseyez-vous. » Il indiqua *sa propre chaise*
 tout en s’asseyant sur son lit.
 
 Elle eut quelque peu le tournis en s’asseyant précautionneusement sur la
-chaise de Malfoy, ses doigts jouant inconsciemment avec la chute de ses
+chaise de Malefoy, ses doigts jouant inconsciemment avec la chute de ses
 robes formelles au-dessus de ses genoux, essayant de la rendre aussi
-élégante et lisse que celle de Drago Malfoy -
+élégante et lisse que celle de Drago Malefoy -
 
-« Donc, Mlle Davis, » dit Drago Malfoy. « Que vouliez-vous me dire ? »
+« Donc, Mlle Davis, » dit Drago Malefoy. « Que vouliez-vous me dire ? »
 
-Tracey hésita puis, lorsque le visage de Drago Malfoy commença à avoir
+Tracey hésita puis, lorsque le visage de Drago Malefoy commença à avoir
 l’air impatient, elle lâcha tout, tout ce que Padma avait dit sur le
 fantôme de Salazar Serpentard qui envoyait Harry Potter arrêter les
 brutes et aussi ce que Daphné lui avait dit sur le fait que Hermione
 Granger était dans le coup -
 
-Le visage de Drago Malfoy ne changea pas à mesure qu’elle parlait, pas
+Le visage de Drago Malefoy ne changea pas à mesure qu’elle parlait, pas
 le moins du monde, et Tracey se sentit malade lorsqu’elle s’en rendit
 compte.
 
@@ -460,7 +460,7 @@ compte.
 
 Il y eut un court silence.
 
-« Eh bien, » dit Drago Malfoy avec un sourire qui n’était pas aussi
+« Eh bien, » dit Drago Malefoy avec un sourire qui n’était pas aussi
 charmant que le précédent, « je *crois* que c’est ce que Padma et Daphné
 ont dit, donc merci quand même, Mlle Davis. » Le garçon se leva de son
 lit et Tracey, sans réfléchir, se leva de sa chaise.
@@ -469,7 +469,7 @@ Alors qu’il l’escortait à la porte, juste avant qu’il ne tourne la
 poignée, l’idée vint à Tracey que — « Tu ne m’as pas demandé ce que je
 voulais en échange de cette information, » dit-elle.
 
-Drago Malfoy lui jeta un étrange regard, elle ne savait pas bien ce
+Drago Malefoy lui jeta un étrange regard, elle ne savait pas bien ce
 qu’il était censé signifier et il ne dit rien.
 
 « Eh bien en tout cas, » dit Tracey, modifiant ses plans sur-le-champ, « je
@@ -479,12 +479,12 @@ amicale. »
 Un bref air de surprise traversa le visage de Drago, uniquement l’espace
 d’un instant, avant que son expression ne devienne à nouveau neutre et
 qu’il ne dise : « Ce n’est pas aussi facile de devenir ami avec un
-Malfoy, Mlle Davis. »
+Malefoy, Mlle Davis. »
 
 Tracey sourit avec sincérité. « Alors je vais juste continuer de me
 montrer amicale, » dit-elle, et elle sortit de la pièce en gambadant
 presque, se sentant être une vraie Serpentard peut-être pour la première
-fois de sa vie et ayant décidé à l’instant que Drago Malfoy serait lui
+fois de sa vie et ayant décidé à l’instant que Drago Malefoy serait lui
 aussi un de ses maris.
 
 
@@ -494,7 +494,7 @@ aussi un de ses maris.
 
 
 Après le départ de la fille, Gregory entra, referma la porte et dit :
-« Vous allez bien, M. Malfoy ? »
+« Vous allez bien, M. Malefoy ? »
 
 Drago ne dit rien à son serviteur et ami. Ses yeux étaient dirigés vers
 le vide, comme s’il essayait de regarder à travers le mur de sa chambre,
@@ -504,7 +504,7 @@ la Voie Lactée, dans le néant absolument vide et noir entre les
 galaxies, là où aucun scientifique et aucun sorcier n’étaient jamais
 allés.
 
-« M. Malfoy ? » dit Gregory d’un ton qui commençait à être légèrement
+« M. Malefoy ? » dit Gregory d’un ton qui commençait à être légèrement
 inquiet.
 
 « Je n’arrive pas à croire que je crois à tout ça, » dit Drago.

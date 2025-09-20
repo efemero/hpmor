@@ -259,9 +259,9 @@ aurait eu des ratés, mais il ne voyait vraiment pas comment ça pourrait
 
 
 
-L’annonce que Drago Malfoy avait failli être mangé par quelque horreur
+L’annonce que Drago Malefoy avait failli être mangé par quelque horreur
 avait suffit à faire revenir Dumbledore du lieu inconnu où il était
-parti, à réveiller Lord Malfoy ainsi que le beau mari de Lady Greengrass
+parti, à réveiller Lord Malefoy ainsi que le beau mari de Lady Greengrass
 et à faire venir Amelia Bones. La supposée présence de l’horreur avait
 éveillé du scepticisme, même chez Dumbledore, et la possibilité de faux
 souvenirs avait été évoquée. Harry avait dit (après un débat interne
@@ -330,7 +330,7 @@ N’est-ce pas ? »
 créatures magiques possible ? »
 
 Le vieux sorcier regarda Harry à travers ses lunettes en demi-lune.
-Lorsqu’il parla, sa voix était étouffée. « M. Malfoy lui-même n’avait
+Lorsqu’il parla, sa voix était étouffée. « M. Malefoy lui-même n’avait
 rien à y redire. Le tour joué par Argus n’était pas si terrible, Harry
 Potter. Et Rubeus aurait pu s’adapter à son poste. Ça aurait été… tout
 ce que Rubeus aurait voulu, son plus cher désir… »

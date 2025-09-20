@@ -158,7 +158,7 @@ qu’elles viennent de Lord Jugson ou de qui que ce soit d’autre. »
 
 Lentement, le vieux sorcier secoua la tête. « Harry, il semble que tu
 crois que je n’aie qu’à employer tout mon pouvoir et que tous les
-ennemis seront alors balayés. Tu as tort. Lucius Malfoy contrôle Fudge,
+ennemis seront alors balayés. Tu as tort. Lucius Malefoy contrôle Fudge,
 influence toute l’Angleterre par le biais de la Gazette du Sorcier, et
 ce n’est que par une très faible marge qu’il ne contrôle pas assez le
 conseil des gouverneurs pour m’exclure de Poudlard. Amelia Bones et
@@ -167,7 +167,7 @@ nous voyaient agir avec inconséquence. Le monde qui nous entoure est
 plus fragile que ce que tu sembles croire, et il nous faut avancer avec
 plus de prudence. La vieille guerre des sorciers n’a jamais pris fin,
 Harry, elle n’a fait que continuer sous une forme différente ; le roi
-noir dormait et Lucius Malfoy a déplacé ses pièces pendant un moment.
+noir dormait et Lucius Malefoy a déplacé ses pièces pendant un moment.
 Penses-tu que Lucius te permettrait de lui prendre un de ses pions sans
 réagir ? »
 
@@ -548,7 +548,7 @@ en disant *oh, eh bien j’imagine que je ne pourrai jamais trouver un
 moyen d’arrêter les brutalités à Poudlard* et en *rester* là. On
 continue juste de chercher jusqu’à avoir trouvé un moyen de le faire. Si
 ça signifie qu’il faut faire voler en éclats toute la conspiration de
-Lucius Malfoy, *très bien*. »
+Lucius Malefoy, *très bien*. »
 
 « Et le véritable combat, celui contre Voldemort ? » dit le vieux sorcier
 d’une voix chancelante. « Que feras-tu pour gagner *celui-là*, Harry ?
@@ -676,7 +676,7 @@ l’effort extraordinaire, j’oserais dire l’effort *désespéré*, de lancer
 *cinquante-deux* sortilèges d’Oubliettes ? » Le professeur Quirrell
 inclina la tête. « Auriez-vous tant peur de l’opinion de simples élèves ?
 Je ne pense pas. Redouteriez-vous que l’affaire devienne connue de votre
-bon ami, Lord Malfoy ? Mais ces idiots avaient immédiatement inventé une
+bon ami, Lord Malefoy ? Mais ces idiots avaient immédiatement inventé une
 excuse assez satisfaisante quant à votre présence. Non, il n’y a qu’une
 personne qui a assez de pouvoir sur vous et qui serait des plus
 perturbées d’apprendre que vous exécutez le moindre plan sans qu’il en
@@ -788,7 +788,7 @@ pensiez. Prenez un peu de temps pour y réfléchir, mon ami. »
 
 
 
-*Après-coup : Drago Malfoy et…*
+*Après-coup : Drago Malefoy et…*
 
 Un hémisphère arc-en-ciel, un dôme de force lui-même doté de peu de
 chromaticité mais qui renvoyait la lumière incidente sous forme de
@@ -801,7 +801,7 @@ aucune des armées du professeur Quirrell, qui obtenait des notes
 passables au mieux en cours de Défense et qui n’aurait pas pu lancer une
 barrière prismatique même si sa vie en avait dépendu.
 
-« Oh, arrêtez ça, » dit Drago Malfoy en essayant de prendre un ton ennuyé
+« Oh, arrêtez ça, » dit Drago Malefoy en essayant de prendre un ton ennuyé
 en dépit de la sueur qui venait d’apparaître sous ses robes et en
 gardant sa baguette pointée vers la barrière qui protégeait Millicent
 Bulstrode.
@@ -820,7 +820,7 @@ déjà sorti leurs baguettes, mais elles n’étaient pas pointées. De toute
 façon, ils n’auraient pas pu gagner à trois.
 
 Mais les garçons plus âgés ne l’attaquèrent pas. Personne n’était assez
-stupide pour attaquer le prochain Lord Malfoy.
+stupide pour attaquer le prochain Lord Malefoy.
 
 Ce n’était pas la peur d’être attaqué qui avait déclenché les sueurs de
 Drago, dont il espérait d’ailleurs que les gouttelettes sur son front
@@ -829,9 +829,9 @@ n’étaient pas visibles.
 Drago suait à cause de la certitude naissance et écœurante qui lui
 disait que même en s’en tirant cette fois-ci, s’il continuait ainsi, le
 temps viendrait où tout s’écroulerait ; et alors il ne serait peut-être
-plus le prochain Lord Malfoy.
+plus le prochain Lord Malefoy.
 
-« M. Malfoy, » dit le garçon qui avait l’air le plus âgé. « Pourquoi la
+« M. Malefoy, » dit le garçon qui avait l’air le plus âgé. « Pourquoi la
 protégez-vous ? »
 
 « Vous avez donc localisé la maîtresse de la conspiration, » dit Drago
@@ -917,7 +917,7 @@ des Ténèbres était parti. Ils n’y avait pas eu assez d’affection *entre
 eux*.
 
 On pouvait recruter un groupe comprenant Bellatrix Black, Amycus Carrow,
-Lord Malfoy, M. MacNair et les maintenir au pas grâce au sortilège
+Lord Malefoy, M. MacNair et les maintenir au pas grâce au sortilège
 Doloris. Mais à l’instant où le maître de la marque des ténèbres
 partait, vous n’aviez plus une armée, seulement un cercle de
 connaissances. C’était pour cela que Père avait échoué. Ça n’avait même
@@ -931,7 +931,7 @@ il dirigeait les entraînements de son armée. Quand il travaillait avec
 des élèves des trois autres maisons, avec des élèves qui n’étaient pas
 de Serpentard. Une fois que vous pouviez voir les problèmes et les
 nommer, vous ne pouviez plus vous *empêcher* de les voir et ça devenait
-chaque jour de plus en plus *agaçant*. »M. Malfoy ?« dit la voix de Gregory Goyle depuis le sol de la chambre
+chaque jour de plus en plus *agaçant*. »M. Malefoy ?« dit la voix de Gregory Goyle depuis le sol de la chambre
 de Drago, certes petite mais privée. Gregory faisait ses devoirs de
 métamorphose, pour lesquels il avait souvent besoin d’aide.
 
@@ -963,8 +963,8 @@ La voix vacilla et se brisa. Lorsque Drago leva les yeux de ses devoirs,
 il vit que des larmes perlaient aux yeux de Gregory.
 
 Apparemment, ça n’avait pas fonctionné. »Je ne sais pas quoi faire,« dit Gregory dans un murmure. »Je ne sais
-pas quoi faire, M. Malfoy. Votre père ne va — quand il le découvrira -
-il ne va pas aimer ça, M. Malfoy !« *Ce n’est pas à toi de décider ce que Père aimera, Goyle -*
+pas quoi faire, M. Malefoy. Votre père ne va — quand il le découvrira -
+il ne va pas aimer ça, M. Malefoy !« *Ce n’est pas à toi de décider ce que Père aimera, Goyle -*
 
 Drago pouvait entendre les mots dans son esprit ; ils avaient la voix de
 Père, la même dureté. C’était le genre de choses que Père lui avait
@@ -973,13 +973,13 @@ et si cela ne fonctionnait pas, il devrait leur lancer un sortilège.
 Père avait dit qu’ils n’étaient *pas* des amis sur un pied d’égalité et
 que Drago ne devrait jamais l’oublier. C’était lui qui dirigeait, ils
 étaient ses serviteurs, et si Drago ne pouvait faire en sorte que cela
-reste ainsi alors il n’était pas apte à hériter de la maison Malfoy… »Tout va bien, Gregory,« dit Drago avec autant de gentillesse que
+reste ainsi alors il n’était pas apte à hériter de la maison Malefoy… »Tout va bien, Gregory,« dit Drago avec autant de gentillesse que
 possible. »Tout ce dont tu dois t’inquiéter, c’est de me protéger.
 Personne ne va te blâmer parce que tu as suivi mes ordres, ni mon père
 ni le tien.« Il mit toute la chaleur qu’il avait dans sa voix, comme
 s’il essayait de lancer un Patronus. »Et de toute façon, la prochaine
-guerre ne va pas ressembler à la précédente. La maison Malfoy était là
-longtemps avant le Seigneur des Ténèbres, et tous les Malfoy n’agissent
+guerre ne va pas ressembler à la précédente. La maison Malefoy était là
+longtemps avant le Seigneur des Ténèbres, et tous les Malefoy n’agissent
 pas de la même façon. Père le sait.« »Vraiment ?« dit Gregory d’une voix tremblante. »Il le sait *vraiment*
 ?« Drago hocha la tête. »Le professeur Quirrell le sait aussi,« dit Drago. »C’est le but des armées. Le professeur de Défense a raison : quand la
 prochaine guerre surviendra, Père n’arrivera pas à unir tout le pays car
@@ -987,11 +987,11 @@ les gens se souviendront de la *dernière* guerre. Mais tous ceux qui se
 seront battus dans les armées du professeur Quirrell sauront qui étaient
 les meilleurs généraux et ils sauront qui mérite de les mener. Ils le
 désigneront comme leur Seigneur, je serai son bras droit, et la maison
-Malfoy finira tout en haut, comme toujours. Les gens se tourneront
+Malefoy finira tout en haut, comme toujours. Les gens se tourneront
 peut-être même vers *moi*, si Potter n’est pas là, du moment qu’ils
 pensent que je suis digne de confiance. C’est ce que je mets en place
 maintenant. Père comprendra.« Gregory leva une main et s’essuya les yeux avant de se replonger dans
-ses devoirs de métamorphose. »D’accord,« dit-il d’une voix chancelante, »si vous le dites, M. Malfoy.« Drago hocha de nouveau la tête, ignora la sensation de néant qui
+ses devoirs de métamorphose. »D’accord,« dit-il d’une voix chancelante, »si vous le dites, M. Malefoy.« Drago hocha de nouveau la tête, ignora la sensation de néant qui
 s’emparait de lui face aux mensonges qu’il venait de dire à son ami et
 revint aux étoiles.
 
@@ -1222,13 +1222,13 @@ tête la faisait souffrir comme si elle avait regardé le brouillard noir
 pendant des jours ; elle ne savait pas comment elle s’était épuisée si
 vite.
 
-« Lucius Malfoy t’a remarqué, Hermione. » Le chuchotement avait monté d’un
+« Lucius Malefoy t’a remarqué, Hermione. » Le chuchotement avait monté d’un
 cran, il avait pris un timbre, un ton d’inquiétude audible. « Tu as
 humilié la maison Serpentard, tu as vaincu son fils au combat. Même
 avant cela, tu étais une gêne pour tous ceux du camp des Mangemort, car
 tu es née-Moldue et possèdes pourtant des capacités magiques supérieures
 à celles de n’importe quel Sang Pur. Et tu commences maintenant à être
-connue, à être observée par le monde extérieur. Lucius Malfoy cherche à
+connue, à être observée par le monde extérieur. Lucius Malefoy cherche à
 t’écraser, Hermione, à te faire mal, peut-être même à te tuer, et il a
 les moyens de le faire ! » Le chuchotement était devenu pressant.
 

@@ -392,14 +392,14 @@ le visage ? *Qu’est-ce* qui se tient à côté de toi ? »
 
 L’air horrifié de Ron fut remplacé par de la haine absolue. « *Toi !* »
 
-Harry tourna la tête ; et c’était bien Drago Malfoy, qui avait peut-être
+Harry tourna la tête ; et c’était bien Drago Malefoy, qui avait peut-être
 été forcé de revêtir les robes règlementaires de l’école, mais se
 rattrapait avec une malle à l’air au moins aussi magique et bien plus
 élégant que celle de Harry, décorée d’argent et d’émeraudes et portant
-ce que Harry devina être les armoiries de la famille Malfoy, un
+ce que Harry devina être les armoiries de la famille Malefoy, un
 magnifique serpent à crocs surmontant des baguettes d’ivoire.
 
-« Drago ! » dit Harry. « Euh, ou Malfoy si tu préfères, même si je trouve
+« Drago ! » dit Harry. « Euh, ou Malefoy si tu préfères, même si je trouve
 que ça fait un peu penser à Lucius. Je suis content de voir que tu vas
 si bien après notre dernière, euh, notre dernière rencontre. Voici Ron
 Weasley. J’essaie de rester incognito, alors appelle-moi, euh… » Harry
@@ -445,7 +445,7 @@ raconter, Weasley ? »
 Le visage de Ron se contorsionna. « Tu ne trouverais pas ça drôle si ça
 arrivait à *ta* famille ! »
 
-« Oh, » ronronna Drago, « mais ça n’*arriverait* jamais aux Malfoy. »
+« Oh, » ronronna Drago, « mais ça n’*arriverait* jamais aux Malefoy. »
 
 Les mains de Ron devinrent des poings —
 
@@ -467,7 +467,7 @@ aussi efficace. « Ron, » dit Harry calmement, « Je ne vais pas lui dire
 s’en aller. Il peut me parler s’il le veut. »
 
 « Eh bien, je n’ai pas l’intention de trainer avec quelqu’un qui traine
-avec Drago Malfoy, » annonça Ron froidement.
+avec Drago Malefoy, » annonça Ron froidement.
 
 Harry haussa les épaules. « Ça te regarde. *Je* ne compte pas laisser qui
 que ce soit me dire avec qui je peux et ne peux pas passer du temps. » Et
@@ -533,7 +533,7 @@ chose comme ça. »
 « Aïe, » dit Harry en grimaçant. « Je suis *vraiment* désolé — »
 
 « Non, on a l’habitude, Merlin sait qu’il y a déjà d’étranges rumeurs au
-sujet de la famille Malfoy. »
+sujet de la famille Malefoy. »
 
 Harry hocha la tête. « Heureux d’entendre que tu es hors du pétrin — »
 
@@ -742,7 +742,7 @@ que des canettes vert néon empilées.
 
 Le vendeur, à vrai dire, était penché en arrière, et buvait depuis l’une
 des canettes vert néon au moment même où il repéra l’élégant et raffiné
-Drago Malfoy s’approcher aux côtés d’un garçon mystérieux à l’air
+Drago Malefoy s’approcher aux côtés d’un garçon mystérieux à l’air
 incroyablement stupide avec une écharpe attachée autour de la tête, ce
 qui poussa le vendeur à subir une quinte de toux soudaine au milieu
 d’une gorgée et à faire dégouliner une grande quantité de liquide vert
@@ -831,7 +831,7 @@ Harry ne voyait pas comment ça allait fonctionner. Vous ne pouviez pas
 vous approcher de quelqu’un et lui dire « Maintenant, je vais vous
 surprendre » ou « Et maintenant, je vais vous dire la fin d’une blague, et
 ça va être vraiment drôle. » Ça détruisait l’impact du choc. Dans l’état
-de préparation mentale de Harry, Lucius Malfoy aurait pu passer devant
+de préparation mentale de Harry, Lucius Malefoy aurait pu passer devant
 eux habillé en ballerine que ça ne l’aurait pas fait s’étouffer. Quelle
 sorte de manigance tarée l’univers allait-il cracher *cette fois* ?
 
@@ -841,7 +841,7 @@ exactement au bon angle pour rabattre son regard et voir la portion de
 l’étal du vendeur consacrée à un journal nommé « Le Chicaneur, » qui portait
 le gros titre suivant :
 
-*DRAGO MALFOY TOMBE*
+*DRAGO MALEFOY TOMBE*
 
 *ENCEINTE DU SURVIVANT*
 
@@ -862,7 +862,7 @@ Drago.
 
 Puis il leva à nouveau les yeux et fixa le gros titre du journal.
 
-*DRAGO MALFOY TOMBE*
+*DRAGO MALEFOY TOMBE*
 
 *ENCEINTE DU SURVIVANT*
 
@@ -911,7 +911,7 @@ d’Hilari-Thé et se prépara à boire. « Tu veux rire ? C’est encore pi
 que le journalisme moldu, ce qui semble physiquement impossible. »
 
 Drago grogna à nouveau. « Elle a une espèce d’obsession perverse au sujet
-des Malfoy en plus, et son père nous est politiquement opposé, donc il
+des Malefoy en plus, et son père nous est politiquement opposé, donc il
 imprime tout ce qu’elle dit à notre sujet. Dès que je serai assez vieux,
 je vais la violer. »
 
@@ -989,9 +989,9 @@ vraiment te poser cette question par pure curiosité, que se passerait-il
 *théoriquement parlant* si *je* témoignais t’avoir entendu planifier
 ça ? »
 
-« Alors, si j’étais n’importe quelle personne sauf un Malfoy, je serais
+« Alors, si j’étais n’importe quelle personne sauf un Malefoy, je serais
 dans le pétrin, » répondit Drago avec suffisance. « Mais puisque je *suis*
-un Malfoy… Père a les votes. Et après ça, il t’écraserait… eh bien, pas
+un Malefoy… Père a les votes. Et après ça, il t’écraserait… eh bien, pas
 facilement je suppose, puisque tu *es* le Survivant, mais Père est
 plutôt doué pour ces choses-là. » Drago fronça les sourcils. « Au fait,
 *tu* étais prêt à discuter de son meurtre, alors pourquoi n’étais-tu pas
@@ -1010,7 +1010,7 @@ et esquiver une condamnation pour le viol d’une petite fille. »
 veut dire que, si c’est toi qui la violes, ça rend la chose exceptionnelle
 de ton point de vue ? Parce que je te laisserai la première place avec
 plaisir si c’est le cas. Mec, imagine Lovegood L’allumée essayant de
-prétendre qu’elle a été violée par Drago Malfoy *et* par le Survivant,
+prétendre qu’elle a été violée par Drago Malefoy *et* par le Survivant,
 même *Dumbledore* ne la croirait pas. »
 
 Heureusement que Harry ne buvait *pas* d’Hilari-Thé à ce moment précis.
@@ -1110,7 +1110,7 @@ Harry hocha la tête, ne faisant pas vraiment confiance à sa voix.
 « Eh bien, comme dit Père, il y a peut-être quatre maisons, mais à la fin,
 tout le monde appartient soit à Serpentard soit à Poufsouffle. Et
 franchement, tu n’es pas du genre Poufsouffle. Si tu décides de t’allier
-secrètement aux Malfoy… notre pouvoir et notre réputation… te
+secrètement aux Malefoy… notre pouvoir et notre réputation… te
 permettraient des choses que même *moi* je ne peux pas faire. Tu veux
 *essayer* pendant quelque temps ? Voir comment c’est ?
 
@@ -1424,7 +1424,7 @@ réseau de cheminées, mais au moins, Serpentard ne croyait pas à cette
 des dortoirs. Il n’y avait pas beaucoup de chambres particulières, vous deviez
 être parmi les meilleurs *des meilleurs* de la meilleure des Maisons, et
 au moins *cela* pouvait être considéré comme évident avec la maison
-Malfoy.
+Malefoy.
 
 *Cher Père*, écrit Drago.
 

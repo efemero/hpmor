@@ -16,14 +16,14 @@ seulement à moitié glacial ne s’était pas rendu compte…
 
 « La motion est adoptée, » entonna le secrétaire après que l’on ait fini
 de compter et que les mains levées se soient rabaissées. « Le Magenmagot
-reconnaît la dette de sang due par Hermione Granger à la maison Malfoy
+reconnaît la dette de sang due par Hermione Granger à la maison Malefoy
 pour la tentative de meurtre sur son héritier et la tentative de
 destruction de sa lignée. »
 
-Lucius Malfoy avait un sourire lugubre et satisfait. « Et maintenant, »
+Lucius Malefoy avait un sourire lugubre et satisfait. « Et maintenant, »
 dit l’homme à la crinière blanche, « je dis que sa dette sera payée… »
 
-Harry serra ses poings et s’écria : « Par la dette que la maison Malfoy
+Harry serra ses poings et s’écria : « Par la dette que la maison Malefoy
 doit à la maison Potter ! »
 
 « Silence ! » lâcha la femme recouverte de trop de maquillage rose assise
@@ -33,8 +33,8 @@ délibérations ! Aurors, escortez-le à l’extérieur ! »
 « Attendez, » dit Augusta Londubat depuis les sièges supérieurs. « De
 quelle dette s’agit-il ? »
 
-Les mains de Lucius Malfoy blanchirent autour de sa canne. « La maison
-Malfoy ne vous doit aucune dette ! »
+Les mains de Lucius Malefoy blanchirent autour de sa canne. « La maison
+Malefoy ne vous doit aucune dette ! »
 
 Ce n’était pas le plus solide des espoirs, car il n’était basé que sur
 un article de journal écrit par une femme qui avait reçu un sortilège de
@@ -53,18 +53,18 @@ Il y eut un bref silence dans la Très Ancienne Chambre.
 
 « Ah, mais quelle excellente remarque, » dit la vieille sorcière qui
 s’était révélée être Mme Bones. « Je suis moi aussi assez surprise de
-constater que Lord Malfoy a pu oublier un événement d’une telle
+constater que Lord Malefoy a pu oublier un événement d’une telle
 importance. Cela doit avoir été un jour tellement heureux pour lui. »
 
 « Oui, » dit Augusta Londubat. « Il a dû être tellement reconnaissant. »
 
-Mme Bones hocha la tête. « La maison Malfoy ne pourrait certainement pas
-nier cette dette – à moins peut-être que Lord Malfoy ne nous dise qu’il
+Mme Bones hocha la tête. « La maison Malefoy ne pourrait certainement pas
+nier cette dette – à moins peut-être que Lord Malefoy ne nous dise qu’il
 se souvient mal de quelque chose ? Cela m’intéressait pour des raisons
 tout à fait professionnelles. Nous essayons toujours d’obtenir une
 meilleure idée de ce qui s’est passé pendant cette sombre époque. »
 
-Les mains de Lucius Malfoy agrippaient sa canne à poignée serpent comme
+Les mains de Lucius Malefoy agrippaient sa canne à poignée serpent comme
 s’il était sur le point de l’abattre, de relâcher le pouvoir qui y était
 contenu, quel qu’il fut…
 
@@ -76,7 +76,7 @@ Potter n’essayait après tout que de se sauver elle-même… »
 
 « C’est faux, » dit Dumbledore, plus haut.
 
-« …et par conséquent, » entonna Lucius Malfoy, « je demande aussi une
+« …et par conséquent, » entonna Lucius Malefoy, « je demande aussi une
 compensation monétaire pour le rachat de la dette de sang due à mon
 fils. La loi dit aussi cela. »
 
@@ -93,7 +93,7 @@ accepter billet à ordre pour le reste. »
 Un rugissement de protestations s’éleva du côté Dumbledore de la pièce
 et même certaines des robes prune du centre semblaient assez choquées.
 
-« Devrions-nous faire appel au vote du Magenmagot ? » dit Lucius Malfoy.
+« Devrions-nous faire appel au vote du Magenmagot ? » dit Lucius Malefoy.
 « Je pense que peu d’entre nous aimeraient voir la petite meurtrière
 libérée. Par vote à main levée, qu’une compensation additionnelle de
 cent mille Gallions est nécessaire pour annuler la dette ! »
@@ -157,9 +157,9 @@ prise, exactement comme si le débat interne n’avait été qu’un simulacre,
 qu’une illusion, et que le véritable contrôleur de la voix n’y avait pas
 pris part.
 
-Il était clair que Lucius Malfoy ne s’était pas attendu à cette réponse.
+Il était clair que Lucius Malefoy ne s’était pas attendu à cette réponse.
 
-Le masque de calme de Lord Malfoy se brisa en mille morceaux, ses yeux
+Le masque de calme de Lord Malefoy se brisa en mille morceaux, ses yeux
 s’écarquillèrent et il regarda fixement Harry, figé par la stupéfaction.
 Sa bouche s’était légèrement ouverte mais il ne parlait pas, et s’il
 faisait des bruits étranges, ceux-ci ne pouvaient être entendus
@@ -179,7 +179,7 @@ toujours le gardien de ta chambre forte. »
 
 « *Quoi ?* » dit Harry, trop stupéfait pour mieux formuler sa réponse.
 
-« Je ne peux pas te laisser t’endetter auprès de Lucius Malfoy, Harry !
+« Je ne peux pas te laisser t’endetter auprès de Lucius Malefoy, Harry !
 Je ne peux pas ! Tu ne sais pas – tu ne te rends pas compte — »
 
 *MEURS.*
@@ -288,11 +288,11 @@ Le reste du monde recommença d’exister.
 faire ce qu’il désire, » et le Magenmagot explosa dans un rugissement
 ahuri et ne put être tut que par un dernier coup du bâton de pierre.
 
-Harry tourna la tête pour regarder Lord Malfoy qui semblait avoir vu un
+Harry tourna la tête pour regarder Lord Malefoy qui semblait avoir vu un
 chat se transformer en humain et commencer à manger d’autres chats. Dire
 qu’il avait l’air perdu était loin de faire justice à son apparence.
 
-« Vous le feriez vraiment… » dit lentement Lucius Malfoy. « Vous paieriez
+« Vous le feriez vraiment… » dit lentement Lucius Malefoy. « Vous paieriez
 vraiment cent mille Gallions pour sauver une Sang-de-Bourbe. »
 
 « Je pense qu’il y a environ quarante mille Gallions dans ma chambre
@@ -302,48 +302,48 @@ deux pour détruire Azkaban. « Quand aux autres soixante mille – quelles
 sont les règles, exactement ? »
 
 « Tu ne les devras qu’en sortant de Poudlard, » dit le vieux sorcier
-depuis son perchoir. « Mais j’ai peur que Lord Malfoy n’ait certains
+depuis son perchoir. « Mais j’ai peur que Lord Malefoy n’ait certains
 droits sur toi avant ce terme. »
 
-Lucius Malfoy demeurait immobile et regardait Harry, les sourcils
+Lucius Malefoy demeurait immobile et regardait Harry, les sourcils
 froncés. « Qui est-elle pour vous, alors ? *Qu’*est-elle pour vous, pour
 que vous soyez prêt à payer autant dans le but de l’épargner ? »
 
 « Mon amie, » dit doucement le garçon.
 
-Les yeux de Lucius Malfoy se plissèrent. « Selon le rapport que j’ai
+Les yeux de Lucius Malefoy se plissèrent. « Selon le rapport que j’ai
 reçu, vous ne pouvez pas lancer le Patronus, et Dumbledore le sait. Le
 pouvoir d’un seul Détraqueur a failli vous tuer. Vous n’oseriez pas vous
 approcher d’Azkaban en personne… »
 
 « C’était en janvier, » dit Harry. « Nous sommes en avril. »
 
-Les yeux de Lucius Malfoy demeurèrent froids et calculateurs. « Vous
+Les yeux de Lucius Malefoy demeurèrent froids et calculateurs. « Vous
 prétendez pouvoir détruire Azkaban et Dumbledore prétend le croire. »
 
 Harry ne répondit pas.
 
 L’homme aux cheveux blancs se détourna légèrement vers le centre du
 demi-cercle comme pour s’adresser aux étages supérieurs du Magenmagot.
-« Je retire mon offre ! » cria Lord Malfoy. « Je n’accepterai pas la dette
+« Je retire mon offre ! » cria Lord Malefoy. « Je n’accepterai pas la dette
 de la maison Potter en paiement, pas même pour cent mille Gallions ! La
-dette de sang que la fille doit à la maison Malfoy tient ! »
+dette de sang que la fille doit à la maison Malefoy tient ! »
 
 De nouveau un rugissement de voix. « Déshonorant ! » s’écria quelqu’un.
 « Vous reconnaissez votre dette envers la maison Potter et pourtant
 vous… » puis cette voix se tut abruptement.
 
 « Je reconnais la dette, mais je ne suis pas strictement obligé par la
-loi de l’accepter en annulation de l’autre, » dit Lucius Malfoy avec un
+loi de l’accepter en annulation de l’autre, » dit Lucius Malefoy avec un
 lugubre sourire. « Cette fille ne fait pas partie de la maison Potter ;
 la dette que je dois à cette maison n’est pas sienne. Quant au
-*déshonneur*… » Lucius Malfoy s’interrompit. « Quant à la grave honte que
+*déshonneur*… » Lucius Malefoy s’interrompit. « Quant à la grave honte que
 je ressens au sujet de mon ingratitude envers les Potter qui ont tant
-fait pour moi… » Lucius Malfoy inclina la tête. « Puissent mes ancêtres me
+fait pour moi… » Lucius Malefoy inclina la tête. « Puissent mes ancêtres me
 pardonner. »
 
 « Eh bien, mon garçon ? » dit l’homme balafré assis à la droite de Lord
-Malfoy. « Vas donc, et détruis Azkaban ! »
+Malefoy. « Vas donc, et détruis Azkaban ! »
 
 « J’aimerais voir ça, » dit une autre voix. « Vendrez-vous des tickets pour
 le spectacle ? »
@@ -494,7 +494,7 @@ l’existence, les regardait fixement.
 
 Puis Minerva McGonagall qui, bien qu’elle n’en ait pas toujours l’air,
 *était* directrice de Gryffondor, leva les yeux vers l’endroit où Lucius
-Malfoy se tenait, et elle lui dit, face à tout le Magenmagot : « Je
+Malefoy se tenait, et elle lui dit, face à tout le Magenmagot : « Je
 regrette chaque point que je t’ai donné en Métamorphose, espèce de vil
 petit vers. »
 
@@ -503,14 +503,14 @@ silence par un coup du court bâton dans la main de Dumbledore. « Ahem ! 
 dit le vieux sorcier sur son podium de pierre noire. « Cette séance a
 déjà duré un certain temps et si elle ne s’achève pas bientôt, certains
 pourraient manquer leur déjeuner. La loi en la matière est claire. Vous
-avez déjà voté sur les termes de l’échange, et Lord Malfoy ne peut
+avez déjà voté sur les termes de l’échange, et Lord Malefoy ne peut
 légalement le décliner. Comme nous avons de beaucoup dépassé le temps
 qui nous est alloué et en accord avec la dernière décision des
 survivants du quatre-vingt huitième Magenmagot, je lève la séance. »
 
 Le vieux sorcier frappa trois fois de son bâton de pierre.
 
-« Idiots ! » s’écria Lucius Malfoy. Les cheveux blancs se secouaient
+« Idiots ! » s’écria Lucius Malefoy. Les cheveux blancs se secouaient
 autant que si un vent les avait agités et le visage en-dessous était
 rendu pâle par la furie. « Vous pensez pouvoir vous en tirer avec ce que
 vous avez fait aujourd’hui ? Vous pensez que cette fille peut essayer de
@@ -603,13 +603,13 @@ La femme-crapaud retomba sur son banc sans un mot.
 
 Harry leva les yeux encore plus haut.
 
-« Une devinette, Lord Malfoy ! » s’écria le Survivant à travers la Très
+« Une devinette, Lord Malefoy ! » s’écria le Survivant à travers la Très
 Ancienne Chambre. « Je sais que vous n’étiez pas à Serdaigle, mais
 essayez quand même de répondre à celle-là ! Qu’est-ce qui détruit des
 Seigneur des Ténèbres, fait peur aux Détraqueurs et vous doit soixante
 mille Gallions ? »
 
-L’espace d’un instant, Lord Malfoy se tint là, les yeux légèrement
+L’espace d’un instant, Lord Malefoy se tint là, les yeux légèrement
 écarquillés ; puis son visage retomba à un mépris calme et sa réponse
 fut fraîche et maîtrisée : « Me menacez-vous ouvertement, M. Potter ? »
 
@@ -747,7 +747,7 @@ Godric’s Hollow telle que racontée par Albus Dumbledore comme étant un
 pourquoi cela s’est produit, si cela s’est produit, et si non, pourquoi
 Dumbledore ment.
 
-Et lorsqu’un garçon de onze ans se lève et dit « Lucius Malfoy » de cette
+Et lorsqu’un garçon de onze ans se lève et dit « Lucius Malefoy » de cette
 voix froide et adulte puis continue à prononcer des mots qu’on ne
 s’attendrait tout simplement pas à voir émaner d’un enfant en première
 année à Poudlard, ils ne laissent pas ce fait se glisser dans le flou

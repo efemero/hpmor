@@ -53,7 +53,7 @@ m’aurait pas mis en position d’autorité dans cette maison, étant donné
 mon comportement, s’il n’avait pas perdu tout espoir. » Sous sa cape
 tachée et salie, les épaules du maître des potions s’affaissèrent. « Mais
 vous et Mlle Granger essayiez de faire quelque chose, et vous étiez même
-parvenus à faire changer M. Malfoy et Mlle Greengrass, et peut-être que
+parvenus à faire changer M. Malefoy et Mlle Greengrass, et peut-être que
 ces deux là auraient pu montrer un autre exemple… j’imagine qu’il fut
 idiot de ma part d’y croire. Le directeur ne sait pas ce que j’ai fait,
 et je vous demande de ne pas lui dire. »
@@ -222,7 +222,7 @@ sorcier le plus puissant du monde, est devenu fou. Et, et Hermione a été
 victime d’une machination et accusée à tort de tentative de meurtre
 juste avant ça, non pas que quelqu’un en aurait parlé à ses parents.
 L’élève qu’on l’a accusée à tort de vouloir tuer est le fils de Lucius
-Malfoy, qui est le politicien le plus puissant d’Angleterre magique, et
+Malefoy, qui est le politicien le plus puissant d’Angleterre magique, et
 qui était le second du Seigneur des Ténèbres. Le poste de professeur de
 Défense de cette école est maudit, personne ne tient plus d’une année,
 ils ont un proverbe qui dit que le professeur de Défense est toujours

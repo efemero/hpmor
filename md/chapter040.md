@@ -33,7 +33,7 @@ qu’ils mettent un prix aussi gigantesque qu’imaginaire sur l’addition…
 
 Le professeur Quirrell avait l’air pensif et les traits tirés. « Non, »
 dit le professeur Quirrell, « vous n’auriez *pas* dû parler au directeur
-de votre conversation avec Lord Malfoy. Essayez de réfléchir plus vite
+de votre conversation avec Lord Malefoy. Essayez de réfléchir plus vite
 la prochaine fois, M. Potter. »
 
 « Je suis désolé, professeur Quirrell, » répondit humblement Harry. « Je ne
@@ -41,11 +41,11 @@ vois toujours pas pourquoi. » Parfois, Harry avait vraiment l’impression
 d’être un imposteur feignant d’être rusé lorsqu’il était en présence du
 professeur Quirrell.
 
-« Lord Malfoy est l’opposant d’Albus Dumbledore, » dit le professeur
+« Lord Malefoy est l’opposant d’Albus Dumbledore, » dit le professeur
 Quirrell. « Du moins pour le moment. Toute l’Angleterre est leur plateau
 d’échecs, tous les sorciers sont leurs pièces. Considérez ceci : Lord
-Malfoy a menacé de tout laisser tomber, d’abandonner son jeu, pour se
-venger de vous si jamais il arrivait malheur à M. Malfoy. Auquel cas, M.
+Malefoy a menacé de tout laisser tomber, d’abandonner son jeu, pour se
+venger de vous si jamais il arrivait malheur à M. Malefoy. Auquel cas, M.
 Potter… ? »
 
 Il lui fallut de longues secondes pour comprendre, mais il était clair

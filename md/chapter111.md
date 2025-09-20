@@ -719,7 +719,7 @@ obsstacle ?* »
 vie… c’est le cadavre d’une Moldue.* » Voldemort se détourna de l’autel
 et se mit à faire les cent pas. « La version complète du rituel
 résoudrait ça. Mais cela prendrait du temps… du temps et le sang de
-l’ennemi de Granger, et je ne pense pas que Drago Malfoy fasse toujours
+l’ennemi de Granger, et je ne pense pas que Drago Malefoy fasse toujours
 l’affaire, pas plus que je ne peux prendre mon propre sang contre ma
 volonté… idiot. » La voix de Voldemort était devenue un sourd sifflement.
 « Idiot, j’aurais dû le prévoir et me préparer. Je connais assez la

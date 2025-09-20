@@ -255,9 +255,9 @@ demi-seconde de frustration, il décida que c’en était assez.
 « Grands dieux, » murmura Harry, « ce n’est pas possible. » Il laissa ses
 yeux se dilater. « Votre… nom, monsieur ? »
 
-« Drago Malfoy, » dit Drago Malfoy, l’air un peu perplexe.
+« Drago Malefoy, » dit Drago Malefoy, l’air un peu perplexe.
 
-« C’*est* vous ! Drago Malfoy. Je… Je ne pensais pas avoir l’honneur un jour, monsieur. » Harry aurait aimé pouvoir faire sortir des larmes
+« C’*est* vous ! Drago Malefoy. Je… Je ne pensais pas avoir l’honneur un jour, monsieur. » Harry aurait aimé pouvoir faire sortir des larmes
 de ses yeux. Les autres commençaient généralement à pleurer à ce moment-là de la conversation.
 
 « Oh, » dit Drago d’un ton légèrement confus. Puis ses lèvres s’étirèrent
@@ -267,7 +267,7 @@ connait sa place. »
 L’une des assistantes, celle qui semblait avoir reconnu Harry, fit un
 bruit de gloussement étouffé.
 
-Harry continua son murmure. « Je suis ravi de vous rencontrer, M. Malfoy.
+Harry continua son murmure. « Je suis ravi de vous rencontrer, M. Malefoy.
 Juste ineffablement ravi. Et aller à Poudlard la même année que vous !
 Mon cœur se pâme. »
 
@@ -275,7 +275,7 @@ Oups. Cette dernière partie avait peut-être été un peu étrange, comme s’
 il flirtait avec Drago.
 
 « Et mon propre cœur est illuminé de constater que je puis m’attendre à
-être traité avec le respect dû à la famille Malfoy, » renvoya Malfoy avec
+être traité avec le respect dû à la famille Malefoy, » renvoya Malefoy avec
 un sourire similaire à l’un de ceux que le plus haut des rois pourrait
 octroyer au plus bas de ses sujets, si ce sujet était honnête en dépit
 de sa pauvreté.
@@ -288,7 +288,7 @@ vrai dire, ma vie entière. »
 
 Drago le foudroya du regard. « Je pense que vous demandez de ma personne
 une familiarité bien déplacée ! Qu’avez-vous jamais fait pour la famille
-Malfoy qui vous donne droit à une pareille requête ? »
+Malefoy qui vous donne droit à une pareille requête ? »
 
 *Oh, je vais tellement essayer cette routine sur la prochaine personne
 qui essaie de me serrer la main*. Harry inclina sa tête. « Non, non,
@@ -321,7 +321,7 @@ tu es. »
 
 « *Non, mais franchement* !, » dit Drago, violemment déçu. « Pourquoi
 ferais-tu ça ? ». Les yeux de Drago s’élargirent dans un élan de suspicion
-soudain. « Et comment peux-tu ne *pas* connaitre les Malfoy ? Et quels
+soudain. « Et comment peux-tu ne *pas* connaitre les Malefoy ? Et quels
 sont ces *vêtements* que tu portes ? Tes parents sont-ils *moldus* ? »
 
 « Deux de mes parents sont morts, » dit Harry. Il éprouva un pincement au
@@ -380,7 +380,7 @@ train de *dire* ? »
 En une demi-seconde de panique compatissante, Harry formula un plan de
 secours.
 
-« Lucius Malfoy ! » haleta Harry Potter. « *Le* Lucius Malfoy ? »
+« Lucius Malefoy ! » haleta Harry Potter. « *Le* Lucius Malefoy ? »
 
 L’un des assistants de Guipure dut détourner le regard et contempler le
 mur.
@@ -395,7 +395,7 @@ mortelle.
 « Votre fils m’a *tout* dit de vous, » continua Harry avec grande
 animation, sachant à peine ce qui sortait de sa bouche, essayant juste
 de parler le plus vite possible. « Mais, bien sûr, je savais tout de vous
-bien avant cela, tout le monde vous connait, Lucius Malfoy ! Le lauréat
+bien avant cela, tout le monde vous connait, Lucius Malefoy ! Le lauréat
 le plus honoré de Serpentard, j’ai moi-même pensé à aller à Serpentard
 juste parce que j’ai entendu que vous y étiez enfant… »
 
@@ -409,7 +409,7 @@ s’ouvrit automatiquement, puis se bloqua sur rien-à-dire.
 père m’a tellement parlé de vous quej’ai pensé à me faire trier à
 Gryffondor afin de… »
 
-« *Quoi* ?, » hurlèrent Lucius Malfoy et le Professeur McGonagall
+« *Quoi* ?, » hurlèrent Lucius Malefoy et le Professeur McGonagall
 parfaitement à l’unisson, debout l’un à côté de l’autre. Leurs têtes
 pivotèrent symétriquement et ils se regardèrent, puis ils s’éloignèrent
 l’un de l’autre comme s’ils interprétaient une danse synchronisée.
@@ -441,7 +441,7 @@ Potter, dixit cette horloge. »
 « Je ne faisais que plaisanter, » protesta Harry, alors que les rires
 hystériques continuaient non loin.
 
-« *Drago Malfoy a dit face à son père qu’il souhaitait être trié à
+« *Drago Malefoy a dit face à son père qu’il souhaitait être trié à
 Gryffondor !* Plaisanter *ne suffit pas* pour en arriver là ! » McGonagall
 pausa, respirant lourdement. « Quelle partie de “se faire prendre ses
 mesures” avez-vous interprété comme voulant dire *S’il vous plait, lancez
@@ -454,7 +454,7 @@ de son point de vue… »
 Jamais. Il y a certaines choses que je ne suis pas censée savoir, et
 c’est une de ces choses. Quelle que soit la force de chaos démoniaque
 qui vous habite, elle est *contagieuse*, et je ne veux pas finir comme
-ce pauvre Drago Malfoy, cette pauvre madame Guipure, ou ses deux pauvres
+ce pauvre Drago Malefoy, cette pauvre madame Guipure, ou ses deux pauvres
 assistantes. »
 
 Harry soupira. Il était clair que le Professeur McGonagall n’était pas

@@ -340,7 +340,7 @@ vous *dire* ce que j’espère nous voir faire aujourd’hui, M. Potter, vous
 *mentirez*. Vous mentirez de façon directe, sans hésitation, sans jeu
 sur les mots ni indice, à toute personne qui pourrait vous interroger,
 qu’ils soient votre ennemi ou votre ami le plus proche. Vous mentirez à
-Malfoy, à Granger et à McGonagall. Vous parlerez, à chaque fois et sans
+Malefoy, à Granger et à McGonagall. Vous parlerez, à chaque fois et sans
 hésitation, *exactement* de la façon dont vous auriez parlé si vous
 n’aviez rien su, et ce sans vous préoccuper de votre honneur. Il doit en
 être ainsi. »

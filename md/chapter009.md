@@ -184,7 +184,7 @@ hébétée et était allé s’égarer dans la cinquième voiture en partant de
 l’avant et dans le quatrième compartiment à gauche, qui contenait en
 effet sa tortue.)
 
-« Malfoy, Drago !, » alla à Serpentard, et Harry lâcha un soupir de
+« Malefoy, Drago !, » alla à Serpentard, et Harry lâcha un soupir de
 soulagement. Ça avait *semblé* certain, mais vous ne saviez jamais quel
 petit évènement pouvait bouleverser le cours de votre grand projet.
 

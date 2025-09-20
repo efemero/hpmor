@@ -119,7 +119,7 @@ choses se produisent au hasard maintenant, ça n’a rien à voir avec qui
 est le plus malin, ou avec quelle armée combat le mieux, c’est … » Il ne
 pouvait même pas le décrire.
 
-« Je suis d’accord avec M. Malfoy, » dit Granger d’un ton qui laissait
+« Je suis d’accord avec M. Malefoy, » dit Granger d’un ton qui laissait
 penser qu’elle ne s’était jamais attendue à s’entendre dire une chose
 pareille. « Autoriser les traîtres ne fonctionne pas, professeur
 Quirrell. »
@@ -164,7 +164,7 @@ Le professeur Quirrell avait un fin sourire, même si ses yeux étaient
 toujours mi-clos. « Et pourquoi donc, M. Potter ? »
 
 « Parce que je pense que je peux supporter le chaos mieux que Mlle
-Granger et M. Malfoy, » dit le traître. « Notre guerre est un jeu à somme
+Granger et M. Malefoy, » dit le traître. « Notre guerre est un jeu à somme
 nulle, et que ce soit facile ou difficile dans l’absolu n’a aucune
 importance, ce qui compte, c’est qui s’en sort mieux et qui s’en sort
 moins bien. »
@@ -172,7 +172,7 @@ moins bien. »
 Harry Potter apprenait trop vite.
 
 Les yeux du professeur Quirrell se déplacèrent sous leur paupière en
-direction de Drago, puis de Granger. « En vérité, M. Malfoy, Mlle
+direction de Drago, puis de Granger. « En vérité, M. Malefoy, Mlle
 Granger, je ne pourrais tout simplement pas me regarder en face si
 j’arrêtais le grand débâcle avant son paroxysme. L’un de vos soldats est
 même devenu un agent quadruple. »
@@ -235,12 +235,12 @@ Sa question avait fait naître un sourire ironique sur le jeune visage du
 Serpentard. Blaise Zabini avait toujours semblé légèrement dédaigneux
 envers elle, mais il ne semblait pas éprouver une aversion franche à son
 égard ; rien de semblable à la dérision dans laquelle il tenait Drago
-Malfoy ou le ressentiment qu’il avait développé contre Harry Potter.
+Malefoy ou le ressentiment qu’il avait développé contre Harry Potter.
 Elle s’était d’abord inquiétée que Zabini la trahisse, mais le garçon
 semblait désespérément vouloir montrer que les deux autres généraux
 n’étaient pas meilleurs que lui ; et Hermione pensait que même si Zabini
 serait probablement heureux de la vendre à n’importe qui d’*autre*, il
-ne laisserait jamais Malfoy ou Harry gagner.
+ne laisserait jamais Malefoy ou Harry gagner.
 
 « La plupart de vos soldats vous *sont* toujours loyaux, j’en suis assez
 certain, » dit Zabini. « C’est juste que personne ne veut passer à côté de
@@ -254,10 +254,10 @@ trahir. »
 qu’elles veulent être *nos* espions, » dit prudemment Hermione.
 
 Le jeune Serpentard haussa les épaules. « Je pense que j’ai bien réussi à
-déterminer ceux qui veulent vraiment vendre Malfoy, je ne suis pas
+déterminer ceux qui veulent vraiment vendre Malefoy, je ne suis pas
 certain que *quiconque* veuille vraiment vous vendre Potter. Mais Nott
-va sûrement vouloir trahir Potter pour Malfoy et puisque j’ai demandé à
-Soufflebranche de l’approcher, prétendument de la part de Malfoy, et que
+va sûrement vouloir trahir Potter pour Malefoy et puisque j’ai demandé à
+Soufflebranche de l’approcher, prétendument de la part de Malefoy, et que
 Soufflebranche présente en fait ses rapports à notre camp, c’est presque
 aussi bien que — »
 
@@ -291,14 +291,14 @@ les suicides avant que l’ennemi ait pu vous atteindre, mais vous pouviez
 toujours abattre les espions si nécessaire.
 
 Pour l’instant, Hermione avait deux cent quarante-quatre points
-Quirrell, et Malfoy en avait deux cent dix-neuf, et Harry en avait deux
+Quirrell, et Malefoy en avait deux cent dix-neuf, et Harry en avait deux
 cent vingt-et-un ; et il y avait vingt-quatre soldats dans chaque armée.
 
 « Donc nous nous battons avec précaution, » dit Hermione, « et nous
 essayons de ne pas perdre trop salement. »
 
 « Non, » dit Zabini. Le visage du jeune Serpentard était à présent
-sérieux. « Le problème, c’est que Malfoy et Potter savent maintenant que
+sérieux. « Le problème, c’est que Malefoy et Potter savent maintenant que
 leur seule façon de gagner est de s’allier et de nous écraser, puis de
 combattre seuls. Alors voilà ce que je pense que nous devrions faire — »
 
@@ -505,7 +505,7 @@ identique de toi-même créée par magie.
 
 Drago avait dit que s’il y avait deux Dragos, bien sûr qu’aucun Drago ne
 voudrait que quelque chose de mal arrive à l’autre, sans parler du fait
-qu’aucun Malfoy n’accepterait jamais de passer pour un traître.
+qu’aucun Malefoy n’accepterait jamais de passer pour un traître.
 
 Harry avait encore acquiescé, et il avait dit que c’était *encore* une
 autre solution au dilemme du prisonnier — que les gens pouvaient
@@ -705,7 +705,7 @@ Les conversations moururent presque instantanément sous le regard de
 glace de Drago, ses soldats levant les yeux vers lui avec de
 gratifiantes expressions de peur et d’inquiétude.
 
-« Écoutez-moi avec très attentivement, » dit le général Malfoy. Sa voix
+« Écoutez-moi avec très attentivement, » dit le général Malefoy. Sa voix
 était un peu plus grave, un peu bulleuse, *éboutez boi dlès
 attentibement*, mais le son se propageait avec clarté. « Il n’y a qu’une
 seule façon de gagner ceci. Nous devons avancer sur Soleil avec Chaos et
@@ -837,7 +837,7 @@ Hermione les regarda d’un air fatigué.
 « D’accord, » dit Hermione lorsque le tumulte se fut tarit, « vous avez
 tous compris ? Tous vos plans étaient fabriqués par la légion du Chaos,
 et certains peut-être par Dragon. Toute personne voulant *vraiment*
-trahir Harry ou Malfoy allait me voir moi ou Zabini, pas vous. Allez-y,
+trahir Harry ou Malefoy allait me voir moi ou Zabini, pas vous. Allez-y,
 comparez vos notes et tous vos plans secrets et vous verrez par
 vous-mêmes. » Elle n’était peut-être pas aussi bonne en complot que
 Zabini, mais elle pouvait toujours comprendre ce que ses officiers lui
@@ -1045,7 +1045,7 @@ Neville tira sur sa jambe.
 « Je ne me bats pas en juste, » dit Neville à la forme endormie, « je me
 bats comme Harry Potter. »
 
-*Granger : 237 / Malfoy : 217 / Potter : 220*
+*Granger : 237 / Malefoy : 217 / Potter : 220*
 
 
 
@@ -1139,7 +1139,7 @@ revenaient vers la bataille.
 Les deux bancs de poissons ondulèrent, pointant leurs baguettes avec
 difficulté.
 
-« Ne tirez pas ! » cria Harry, et un cri similaire vint du général Malfoy.
+« Ne tirez pas ! » cria Harry, et un cri similaire vint du général Malefoy.
 
 Il y eut un moment de respiration suspendue.
 
@@ -1169,7 +1169,7 @@ soldats Soleil.
 Et les chaotiques piquèrent, et tous les traîtres se préparèrent à
 frapper.
 
-Granger : 237 / Malfoy : 220 / Potter : 226
+Granger : 237 / Malefoy : 220 / Potter : 226
 
 
 
@@ -1271,14 +1271,14 @@ qu’il parle au professeur Quirrell d’un moyen permettant au moins de
 *punir* les traîtres, des conditions comme celles-ci n’était pas
 *réalistes*, dans la vraie vie on torturait les traîtres à mort.
 
-« Général Malfoy ! » cria le commandant de l’unité à problème tout en
+« Général Malefoy ! » cria le commandant de l’unité à problème tout en
 s’élevant, un garçon Serdaigle prénommé Terry. « Nous ne savons pas quoi
 faire, Cesi a abattu Bogdan, mais Cesi dit que Kellah lui a dit que
 Bogdan a abattu Specter — »
 
 « Je ne l’ai *pas* abattu ! » dit Kellah.
 
-« *Si* ! » hurla Cesi. « Général Malfoy, c’est *elle* l’espion, j’aurais dû
+« *Si* ! » hurla Cesi. « Général Malefoy, c’est *elle* l’espion, j’aurais dû
 m’en ren- »
 
 « *Somnium*, » dit Drago.
@@ -1333,7 +1333,7 @@ Dragon après — »
 
 
 
-Granger : 253 / Malfoy : 252 / Potter : 252
+Granger : 253 / Malefoy : 252 / Potter : 252
 
 Le corps de Londubat dérivait chaotiquement dans l’eau, bras et jambes
 désordonnés. Après que Drago soit enfin parvenu à le toucher ils lui
@@ -1397,7 +1397,7 @@ presque au même moment -
 
 
 
-Granger : 253 / Malfoy : 252 / Potter : 254
+Granger : 253 / Malefoy : 252 / Potter : 254
 
 Harry expira longuement sous l’effet du soulagement, et pas seulement
 parce qu’il n’avait plus besoin de maintenir sa sphère prismatique.
@@ -1434,7 +1434,7 @@ corps de Drago, « Zabini *a* un cousin — »
 
 
 
-Granger : 255 / Malfoy : 252 / Potter : 254
+Granger : 255 / Malefoy : 252 / Potter : 254
 
 Et le corps de Harry Potter dériva, l’expression de choc et d’horreur se
 relaxant rapidement sous l’effet du sommeil.
@@ -1465,12 +1465,12 @@ Si tu m’abats maintenant — »
 présent légèrement supérieur. « Ce n’est pas parce que nous sommes
 parvenus à *les* pousser à le faire que ça ne marchera pas pour nous. »
 
-Parvati le fixa, ses yeux s’amincissant. « Le général Malfoy a dit que ta
+Parvati le fixa, ses yeux s’amincissant. « Le général Malefoy a dit que ta
 mère n’aime pas Hermione. »
 
 « J’imagine, » dit Zabini, toujours avec ce rictus supérieur. « Mais
 certains d’entre nous sont plus disposés à agacer un parent que ne l’est
-Drago Malfoy. »
+Drago Malefoy. »
 
 « Et Harry Potter a dit que tu as un cousin — »
 
@@ -1504,7 +1504,7 @@ n’avait pas dit *pour Dragon*, et elle se coupa avec frénésie -
 
 
 
-Granger : 255 / Malfoy : 254 / Potter : 254
+Granger : 255 / Malefoy : 254 / Potter : 254
 
 « Bonjour tout le monde, » dit le visage de Blaise Zabini depuis les
 écrans, affichant air plutôt amusé, « j’ai l’impression qu’il ne reste

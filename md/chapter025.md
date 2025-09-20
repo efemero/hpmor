@@ -199,7 +199,7 @@ important que le fait qu’il ait essayé de conquérir l’Angleterre magique
 -
 
 « Excusez-moi, » dit une voix attendue venant de dernière lui, parlant
-d’un ton très inattendu. « Au moment qui vous siéra, M. Malfoy demande la
+d’un ton très inattendu. « Au moment qui vous siéra, M. Malefoy demande la
 faveur d’une conversation. »
 
 Harry ne s’étouffa pas sur ses céréales. Au lieu de ça, il pivota et
@@ -208,7 +208,7 @@ observa M. Crabbe.
 « Excuse-*moi*, » dit Harry. « Ne voulais-tu pas dire “Ya l’boss qui veut
 t’faire un brin d’causette ?” »
 
-M. Crabbe n’avait pas l’air content. « M. Malfoy m’a donné instruction de
+M. Crabbe n’avait pas l’air content. « M. Malefoy m’a donné instruction de
 parler convenablement. »
 
 « Je n’arrive pas à t’entendre, » dit Harry. « Tu ne parles pas
@@ -249,7 +249,7 @@ soufflements et sifflements des appareil délicats qui après un moment
 finirent par ressembler à du silence.
 
 « Doux Merlin, » dit le vieux sorcier, « je me *sens* idiot. Et j’étais
-*là* à croire que tu essaierais de racheter l’héritier des Malfoy, en
+*là* à croire que tu essaierais de racheter l’héritier des Malefoy, en
 lui, disons en lui *démontrant de l’amitié et de la gentillesse
 véritables*. »
 
@@ -261,7 +261,7 @@ fait d’amener quelqu’un à la *repentance* en utilisant le mensonge et la
 manipulation ? »
 
 « Je l’ai fait sans dire de mensonge direct, et puisque nous parlons de
-Drago Malfoy, je pense que le mot que vous cherchez est *congruent*. » Le
+Drago Malefoy, je pense que le mot que vous cherchez est *congruent*. » Le
 garçon avait l’air plutôt fier.
 
 Le vieux sorcier secoua sa tête avec désespoir. « Et c’est *ça* le héros.
@@ -358,11 +358,11 @@ SEIGNEUR DES TÉNÈBRES ? et montrait un jeune garçon que l’appareil photo
 d’un étudiant était parvenu à saisir à un moment où il arborait une
 expression inhabituellement froide et grimaçante.
 
-« Je n’arrive pas à croire que ce Malfoy fait ça, » lâcha Flume. « S’en
+« Je n’arrive pas à croire que ce Malefoy fait ça, » lâcha Flume. « S’en
 prendre à un garçon quand il a à peine onze ans ! Cet homme devrait être
 broyé en poudre et utilisé pour faire des chocolats ! »
 
-Fred et Georges clignèrent des yeux à l’unisson. *Malfoy* était derrière
+Fred et Georges clignèrent des yeux à l’unisson. *Malefoy* était derrière
 Rita Skeeter ? Harry Potter ne leur en avait pas fait part… ce qui
 voulait sûrement dire que Harry n’était pas au courant. Il ne les aurait
 jamais impliqués s’il avait su…

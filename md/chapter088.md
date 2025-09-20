@@ -14,7 +14,7 @@ ambiante, comme Harry pouvait l’entendre, avait trait au Quidditch ; un
 environnement sonore relativement pire que le bruit de tronçonneuses
 rouillées, mais supérieure aux imbécillités que la table Serdaigle
 racontait encore sur Hermione. Au moins Gryffondor avait initialement
-été moins sensible à la cause de Drago Malfoy et avait plus de raisons
+été moins sensible à la cause de Drago Malefoy et avait plus de raisons
 politiques de souhaiter que tout le monde se contente d’oublier certains
 faits malheureux ; et si ce n’était pas une bonne raison de se taire, au
 moins ils faisaient silence. Dean, Seamus et Lavande étaient tous partis

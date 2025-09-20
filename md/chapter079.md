@@ -2,7 +2,7 @@
 
 
 « *Hermione Granger,* » dit l’Auror Komodo d’une voix sans timbre, « *vous
-êtes en état d’arrestation pour avoir tenté d’assassiner Drago Malfoy.* »
+êtes en état d’arrestation pour avoir tenté d’assassiner Drago Malefoy.* »
 
 Les mots chutèrent dans l’esprit de Harry et brisèrent ses pensées en un
 milliers d’éclats d’incrédulité. Le choc causé par l’adrénaline causa
@@ -11,10 +11,10 @@ tant de confusion que…
 « Elle… » dit-il. « Elle… Elle ne… QUOI ? »
 
 Les Aurors ne faisaient pas attention à lui. Komodo parla de nouveau,
-toujours de cette voix fade. « M. Malfoy a repris conscience à Sainte
+toujours de cette voix fade. « M. Malefoy a repris conscience à Sainte
 Mangouste et vous a nommé, vous, Hermione Granger, comme son agresseur.
 Il a répété ces accusations sous l’effet de deux gouttes de Veritaserum.
-Le sortilège de refroidissement sanguin que vous lancé sur M. Malfoy
+Le sortilège de refroidissement sanguin que vous lancé sur M. Malefoy
 l’aurait tué s’il n’avait pas été trouvé et soigné, et il nous faut
 supposer que vous saviez que ce sortilège est fatal. Vous êtes donc
 inculpée d’un crime sérieux : je vous arrête pour tentative de meurtre.
@@ -87,12 +87,12 @@ de glace.
 
 À six heures et trente-trois minutes du matin, Quirinus Quirrell avait
 appelé Sainte Mangouste par cheminette depuis son propre bureau pour y
-faire immédiatement récupérer Drago Malfoy. Le professeur Quirrell avait
-trouvé M. Malfoy dans la salle des trophées de Poudlard, à l’article de
+faire immédiatement récupérer Drago Malefoy. Le professeur Quirrell avait
+trouvé M. Malefoy dans la salle des trophées de Poudlard, à l’article de
 la mort, victime des effets prolongés d’un sortilège de refroidissement
 sanguin qui avait lentement abaissé la température de son corps. Le
 professeur Quirrell avait immédiatement dissipé le charme, avait lancé
-des sortilèges stabilisants sur M. Malfoy et l’avait fait léviter
+des sortilèges stabilisants sur M. Malefoy et l’avait fait léviter
 jusqu’à son bureau afin de l’envoyer à Sainte Mangouste par cheminette
 pour que son traitement s’y poursuive ; Après cela, le professeur
 Quirrell avait informé le directeur, mentionnant brièvement les faits
@@ -100,38 +100,38 @@ avant de disparaître dans la cheminette : les Aurors, avisés par Sainte
 Mangouste, avaient requis sa présence afin qu’il soit questionné.
 
 Il était clair que l’intention derrière le sortilège de refroidissement
-sanguin avait été de tuer Drago Malfoy si lentement que les systèmes de
+sanguin avait été de tuer Drago Malefoy si lentement que les systèmes de
 sécurité de Poudlard, réglés pour détecter les blessures, ne se
 déclenchent pas. Interrogé par les Aurors, le professeur Quirrell leur
 avait dit qu’il avait lancé plusieurs sortilèges de surveillance sur
-Drago Malfoy après son retour des vacances de Yule. Il avait lancé ces
+Drago Malefoy après son retour des vacances de Yule. Il avait lancé ces
 sortilèges de surveillance car il avait appris l’existence d’une
-personne qui possédait un motif de faire du mal à M. Malfoy. Le
+personne qui possédait un motif de faire du mal à M. Malefoy. Le
 professeur Quirrell avait refusé d’identifier cette personne. Les
 sortilèges de surveillances lancés par le professeur avaient été
-déclenchés lorsque la santé de M. Malfoy était tombée en-dessous d’un
+déclenchés lorsque la santé de M. Malefoy était tombée en-dessous d’un
 certain niveau plutôt qu’à cause de changements soudains et avait donc
-alerté le professeur Quirrell avant que M. Malfoy ne meure.
+alerté le professeur Quirrell avant que M. Malefoy ne meure.
 
-Deux gouttes de Veritaserum, suffisantes pour empêcher M. Malfoy
+Deux gouttes de Veritaserum, suffisantes pour empêcher M. Malefoy
 d’omettre tout qualificatif de ses déclarations, qu’il soit mélioratif
 ou péjoratif, avaient révélées que ce dernier avait – légalement selon
 les lois des maisons Nobles, illégalement selon les règles de Poudlard –
-provoqué Hermione Granger en duel. M. Malfoy avait gagné le duel mais
+provoqué Hermione Granger en duel. M. Malefoy avait gagné le duel mais
 avait alors, en partant, été attaqué dans le dos par Mlle Granger qui
-lui avait lancé un sortilège d’étourdissement. M. Malfoy ignorait tout
+lui avait lancé un sortilège d’étourdissement. M. Malefoy ignorait tout
 de ce qui s’était passé ensuite.
 
 Trois gouttes de Veritaserum, qui l’avaient forcée à spontanément
 fournir toute information en rapport avec l’affaire, avaient permises de
-voir Hermione Granger confesser qu’elle avait étourdit M. Malfoy par
+voir Hermione Granger confesser qu’elle avait étourdit M. Malefoy par
 derrière et avait alors, sur un coup de colère, lancé le sortilège de
 refroidissement sanguin à son encontre avec l’intention de le tuer assez
 lentement pour échapper à toute détection par les systèmes de sécurité
 de Poudlard dont elle avait appris le fonctionnement en lisant
 *Poudlard : Une Histoire*. Elle avait été horrifiée par son acte en se
 réveillant le lendemain matin mais n’avait dit à personne ce qu’elle
-avait fait, croyant que M. Malfoy était déjà mort – comme il l’aurait
+avait fait, croyant que M. Malefoy était déjà mort – comme il l’aurait
 certainement été au bout de sept heures si la magie de son propre corps
 n’avait pas résisté aux effets du sortilège de refroidissement sanguin.
 
@@ -166,7 +166,7 @@ l’existence des Retourneur de Temps. J’espère qu’un Auror invisible a
 
 Dumbledore inclina la tête. « J’y ai été *moi-même*, Harry, au moment où
 je l’ai appris. Mais lorsque j’ai atteint la salle des trophées, M.
-Malfoy était déjà inconscient et Mlle Granger était partie… »
+Malefoy était déjà inconscient et Mlle Granger était partie… »
 
 « Non, » dit Harry Potter. « Vous avez atteint la salle des trophées et
 avez vu Drago inconscient. C’est tout ce que vous avez observé, M. le
@@ -230,8 +230,8 @@ telle qualité demande autant de temps qu’il en faut pour créer un
 véritable souvenir. Créer un souvenir détaillé de dix minutes exige dix
 minutes d’efforts. Et selon le Legilimens de la cour, » le visage d’Albus
 semblait maintenant encore plus fatigué et ridé qu’avant, « Mlle Granger
-est obsédée par M. Malfoy depuis le jour où Severus… lui a crié dessus.
-Elle a songé à comment M. Malfoy pourrait être en lice avec le
+est obsédée par M. Malefoy depuis le jour où Severus… lui a crié dessus.
+Elle a songé à comment M. Malefoy pourrait être en lice avec le
 professeur Rogue, comment il pourrait se préparer à faire du mal à elle
 et à Harry, elle l’a imaginé pendant des heures, tous les jours… il
 serait impossible de créer de faux souvenirs d’une durée aussi longue. »
@@ -420,7 +420,7 @@ est beaucoup plus efficace…* Alors il n’y a aucune contrainte légale ? 
 De la lumière miroita sur les lunettes en demi-lune du vieux sorcier ;
 il parla avec précaution mais pas sans colère. « Légalement, Harry, nous
 avons affaire à une dette de sang de Hermione Granger envers la maison
-Malfoy. Le Lord des Malfoy propose un remboursement de cette dette et le
+Malefoy. Le Lord des Malefoy propose un remboursement de cette dette et le
 Magenmagot vote sur cette proposition. C’est tout. »
 
 « Mais… » dit lentement Harry. « Lucius a été réparti à Serpentard, il
@@ -428,7 +428,7 @@ Magenmagot vote sur cette proposition. C’est tout. »
 il devrait vraiment en vouloir. Pas vrai ? »
 
 « Non, Harry Potter, » dit lourdement Albus Dumbledore. « C’est ce que tu
-*souhaites* que Lucius Malfoy pense. Lucius Malfoy lui-même… ne
+*souhaites* que Lucius Malefoy pense. Lucius Malefoy lui-même… ne
 partagera pas ton désir de le voir penser ainsi. »
 
 Harry regarda le directeur d’un regard qui devint de plus en plus froid
@@ -446,14 +446,14 @@ entendit les nuances contenues dans la voix qui avait prononcé ces mots.
 de Poudlard en première année. Notre pays n’est pas perdu à ce point,
 pas encore. »
 
-« Mais Lucius Malfoy, » dit Severus d’une voix sans timbre, « ne sera
+« Mais Lucius Malefoy, » dit Severus d’une voix sans timbre, « ne sera
 certainement pas satisfait de ne voir que sa baguette confisquée. »
 
 « Très bien, » dit Harry avec autorité. « Comme je vois les choses, nous
 avons essentiellement deux plans d’action. Premier plan, trouver le
 véritable coupable. Second plan, pouvoir influencer Lucius. Le
 professeur Quirrell a sauvé la vie de Drago, cela créé-t-il une dette de
-sang de la maison Malfoy envers lui qu’il pourrait racheter pour annuler
+sang de la maison Malefoy envers lui qu’il pourrait racheter pour annuler
 celle de Hermione ? »
 
 Minerva cilla à nouveau de surprise.
@@ -477,10 +477,10 @@ dette suffisante pour… »
 « Non, » dit le vieux sorcier (au moment même où elle lâchait un « Quoi ? »
 et où Severus soulevait un sourcil). « Cela n’aurait pas suffit, et ce
 n’est plus une dette du tout. Tu es un Occlumens et tu ne peux pas
-témoigner sous Veritaserum. Drago Malfoy pourrait être purgé de son
+témoigner sous Veritaserum. Drago Malefoy pourrait être purgé de son
 souvenir de l’événement avant de pouvoir témoigner… » Albus hésita.
 « Harry… quoi que tu aies fait avec Drago, tu dois partir du principe que
-Lucius Malfoy sera bientôt au courant. »
+Lucius Malefoy sera bientôt au courant. »
 
 La tête de Harry plongea dans ses mains. « Il va donner du Veritaserum à
 Drago. »
@@ -504,7 +504,7 @@ dû le voir plus tôt. Il a pris deux des pièces de *Harry* d’un seul
 coup. Voldemort a recommencé son jeu, pas contre moi mais contre
 *Harry*. Voldemort connaît la prophétie, il sait qui sera son dernier
 ennemi. Il n’attend pas d’avoir à faire face à Hermione Granger et Drago
-Malfoy aux côtés de Harry lorsqu’ils auront grandi. Il s’en prend à eux
+Malefoy aux côtés de Harry lorsqu’ils auront grandi. Il s’en prend à eux
 *maintenant*. »
 
 « Peut-être est-ce Vous-Savez-Qui, peut-être pas, » dit Harry d’une voix
@@ -514,7 +514,7 @@ est de coincer le véritable coupable avant le procès – ou au moins de
 trouver de bonnes preuves que *quelqu’un d’autre* est coupable. »
 
 « M. Potter, » dit Minerva. « Le professeur Quirrell a parlé aux Aurors
-d’une personne ayant un motif de faire du mal à Malfoy. Savez-*vous* de
+d’une personne ayant un motif de faire du mal à Malefoy. Savez-*vous* de
 qui il parlait ? »
 
 « Oui, » dit Harry après avoir hésité. « Mais je pense que je poursuivrai
@@ -700,7 +700,7 @@ Avec moi, maintenant ! »
 Il y eut un hoquet collectif et lorsque Fred et George eurent commencé à
 descendre l’échelle à la suite du directeur, toute la classe spéculait
 déjà sur le rôle qu’ils avaient joué dans la tentative de meurtre à
-l’encontre de Drago Malfoy.
+l’encontre de Drago Malefoy.
 
 La trappe venait à peine de se refermer au-dessus d’eux que tous les
 sons environnants diminuèrent, le vieux sorcier pivota, tendit une main
@@ -924,12 +924,12 @@ Padma regardait son assiette.
 quasiment en larmes, en fait elle *était* en larmes, sa voix aurait été
 assez forte pour réduire la grande salle au silence si tous les autres
 élèves n’avaient pas aussi été en train de se crier dessus. « Je… je
-parie que Malfoy et essayé de… de lui *faire* des choses… »
+parie que Malefoy et essayé de… de lui *faire* des choses… »
 
 « Notre général ne ferait *jamais* ça ! » hurla Kevin Sifflebranche encore
 plus fort que Mandy.
 
-« Bien sûr que si ! » s’écria Anthony Goldstein. « Malfoy est le fils d’un
+« Bien sûr que si ! » s’écria Anthony Goldstein. « Malefoy est le fils d’un
 *Mangemort* ! »
 
 
@@ -963,7 +963,7 @@ ses yeux.
 Morag MacDougal grogna si fort que ce fut audible au milieu du
 pandémonium de ce déjeuner et dit d’une voix forte : « Je parie que
 Granger a *triché* lors de sa bataille d’hier, je parie que c’est pour
-ça que Malfoy l’a défiée… »
+ça que Malefoy l’a défiée… »
 
 « FERMEZ-LA tous ! » rugit Harry Potter en frappant des poings sur la
 table avec tellement de force que les assiettes alentours

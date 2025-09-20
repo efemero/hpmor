@@ -88,11 +88,11 @@ théorie ; mais enfin, puisqu’il s’agissait d’une déduction du
 Le professeur de Défense se contentait de regarder Harry, paupières
 légèrement baissées, comme en signe d’impatience.
 
-« Et oui, » dit Harry, « je *suis* certain que Drago Malfoy n’est pas
+« Et oui, » dit Harry, « je *suis* certain que Drago Malefoy n’est pas
 derrière ça. »
 
 Un sifflement d’air expiré, comme un soupir. « Il est le fils de Lucius
-Malfoy, entraîné selon les règles les plus strictes. Quoi que vous ayez
+Malefoy, entraîné selon les règles les plus strictes. Quoi que vous ayez
 vu de lui, même dans ce qui semblait être des moments à découverts où
 son masque glissait et où vous croyiez avoir vu la vérité derrière
 celui-ci : tout cela peut aussi bien faire partie du visage qu’il
@@ -111,7 +111,7 @@ Harry entra dans la pièce. La porte se referma derrière.
 
 « Ce n’est pas là quelque chose que vous auriez dû dire à voix haute en
 langue humaine, » dit la douce voix du professeur Quirrell. « Légilimancie
-sur l’héritier Malfoy ? Si Lucius Malfoy apprenait cela, il me ferait
+sur l’héritier Malefoy ? Si Lucius Malefoy apprenait cela, il me ferait
 assassiner immédiatement. »
 
 « Il *essaierait*, » dit Harry. Cela aurait dû lui valoir un plissement
@@ -250,7 +250,7 @@ ceux qui feraient du mal à Tracey Davis, peu importe ce qu’elle faisait
 à ce moment là, allaient, je cite, apprendre le véritable sens du mot
 chaos, fin de citation.
 
-C’est grâce à une maîtrise de lui-même considérable que Drago Malfoy
+C’est grâce à une maîtrise de lui-même considérable que Drago Malefoy
 parvint à s’empêcher de frapper sa tête plusieurs fois de suite contre
 son assiette remplie de pain grillé.
 
@@ -1221,7 +1221,7 @@ moi ! »
 L’annonce donna naissance à un silence glacé qui s’empara de toute la
 salle.
 
-« Excusez-moi, Mlle Davis, » dit la voix cultivée de Drago Malfoy, qui
+« Excusez-moi, Mlle Davis, » dit la voix cultivée de Drago Malefoy, qui
 semblait indifférent et relisait ses parchemins de potions. Cet autre
 héritier d’une maison Très Ancienne ne leva pas les yeux de son bureau
 même lorsque tout le monde se tourna pour le regarder. « Harry Potter
@@ -1315,16 +1315,16 @@ exécrables et rien ne les rend jamais heureux. Ils sont pleins
 partie. »
 
 Pansy se retourna et tendit une main suppliante vers le bureau de Drago
-Malfoy. « Drago ! » dit-elle d’un ton plaidant. « M. Malfoy ! S’il vous
+Malefoy. « Drago ! » dit-elle d’un ton plaidant. « M. Malefoy ! S’il vous
 plaît, forcez Tracey à me rendre mon âme ! »
 
 « Je ne peux pas, » dit Tracey. « Je l’ai *mangée*. »
 
 « Forcez-la à la vomir ! » s’écria Pansy.
 
-L’héritier des Malfoy s’était effondré en avant et sa tête reposait
+L’héritier des Malefoy s’était effondré en avant et sa tête reposait
 entre ses mains pour que personne ne puisse voir son visage. « Pourquoi
-ma vie est-elle ainsi ? » dit Drago Malfoy.
+ma vie est-elle ainsi ? » dit Drago Malefoy.
 
 Un babillage de chuchotements incontrôlable commença à mesure que Tracey
 revenait à son bureau et souriait d’un air satisfait tandis que Pansy se

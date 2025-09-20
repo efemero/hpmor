@@ -31,7 +31,7 @@ réunir après le couvre-feu si c’était pour le plus grand bien de
 Poudlard. Encore un coup comme celui-ci et il irait parler à Daphné
 Greengrass, qui irait parler à son père, et Rusard apprendrait alors
 comme il était sage de regarder ailleurs lorsqu’il s’agissait des
-Malfoy.
+Malefoy.
 
 Lorsque Rusard parla de nouveau, les lumières du château étaient plus
 lointaines, plus réduites. « Hé, je parie que vous y réfléchirez à deux
@@ -144,7 +144,7 @@ l’inspecteur León le faire dans des pièces, « j’en déduis que nous
 cherchons quelque chose qui ne sort que la nuit. »
 
 « Yep, » dit le demi-géant d’un ton pensif. « T’es pas comme j’pensais,
-Drago Malfoy. Pas du tout comme j’pensais. Et toi tu s’rais Tracey Davis
+Drago Malefoy. Pas du tout comme j’pensais. Et toi tu s’rais Tracey Davis
 alors. J’ai entendu parler d’toi. Une des copines de la pauvre Mlle
 Granger. » Rubeus Hagrid observa les Serpentard plus âgés sous
 l’éclairage de son parapluie lumineux. « Et tu s’rais qui, toi ? J’me
@@ -256,7 +256,7 @@ des directions différentes. Vous deux, Walt et Yuliy, z’irez par là, et
 prenez Croc. Y’a rien dans la Forêt qui pourrait vous faire du mal si
 vous êtes avec lui. Envoyez des étincelles vertes si vous voyez
 queq’chose d’intéressant, et des rouges si y’a des ennuis. Davis,
-Malfoy, avec moi. »
+Malefoy, avec moi. »
 
 La Forêt était noire et silencieuse. Rubeus Hagrid avait diminué la
 lumière de son parapluie après qu’ils soient partis, si bien que Drago
@@ -305,7 +305,7 @@ sachant mage noir* et *probabilité de mage noir sachant Serpentard* dans
 un langage non scientifique. « Même si la plupart des mages noirs sont de
 Serpentard, très peu de Serpentard sont des mages noirs. Il n’y a pas
 tant de mages noirs que ça, donc tous les Serpentard ne peuvent pas en
-être un. » Ou comme père avait dit, même si un Malfoy se devait
+être un. » Ou comme père avait dit, même si un Malefoy se devait
 certainement de connaître nombre des secrets de la tradition, il valait
 mieux laisser les rituels plus… *coûteux* aux mains d’idiots utiles tels
 qu’Amycus Carrow.
@@ -365,7 +365,7 @@ qu’à l’habitude ; elles repéraient le moindre soupir du vent, le moindre
 craquement de brindille. Tracey continuait de regarder la lune, comme
 pour se rassurer quant au fait qu’elle n’était pas encore pleine.
 
-« Je… » chuchota Tracey. « Je deviens un peu nerveuse, M. Malfoy. »
+« Je… » chuchota Tracey. « Je deviens un peu nerveuse, M. Malefoy. »
 
 Drago y songea un moment. Pour être honnête, il y *avait* là quelque
 chose… eh bien, ce n’était pas de la lâcheté, ni même de la peur. Mais
@@ -380,7 +380,7 @@ immédiatement les sourcils.
 
 « Capitaine Auror Eneasz Brodski, » dit clairement l’homme, d’un ton fort
 qui fit sursauter Tracey dans la forêt silencieuse. « Qu’est-ce qu’il y
-a, Drago Malfoy ? »
+a, Drago Malefoy ? »
 
 « Vérifiez où j’en suis dans 10 minutes, » dit Drago. Il avait décidé de
 ne pas directement se plaindre de sa retenue. Il ne voulait *pas* avoir
@@ -388,7 +388,7 @@ l’air d’un môme pourrit gâté. « Si je ne répond pas, venez me cherche
 Je suis dans la Forêt interdite. »
 
 Dans le miroir, les sourcils de l’Auror s’arquèrent. « Qu’est-ce que vous
-faites dans la Forêt interdite, M. Malfoy ? »
+faites dans la Forêt interdite, M. Malefoy ? »
 
 « Je cherche le mangeur de licorne avec M. Hagrid, » dit Drago, puis il
 éteint le miroir d’un touché et le remit dans ses robes avant que
@@ -572,10 +572,10 @@ sensation funeste.
 
 Le professeur Quirrell se tenait droit, du sang argenté à l’avant de sa
 grande cape noire, et il laissa échapper un soupir en regardant les
-trois Aurors, Tracey Davis, Drago Malfoy et le professeur McGonagall.
+trois Aurors, Tracey Davis, Drago Malefoy et le professeur McGonagall.
 « Je pensais sincèrement, » murmura le professeur Quirrell, « avoir
 brouillé le miroir sans provoquer d’alarme. Qu’est-ce que deux
-Serpentard de première année faisaient dans la forêt ? M. Malfoy a plus
+Serpentard de première année faisaient dans la forêt ? M. Malefoy a plus
 de bon sens que ça… Quel fiasco. »
 
 Harry ne répondit pas. La sensation funeste n’avait jamais été plus
@@ -664,19 +664,19 @@ sur une souche, où la lumière de la lune presque pleine tomba presque
 entièrement sur lui. « Je dois d’abord vous dire que, quand vous parlerez
 aux Aurors, plus tard, vous devrez leur dire que vous avez effrayé la
 chose noire grouillante comme vous l’avez fait avec ce Détraqueur. C’est
-ce que M. Malfoy se souviendra avoir vu. » Le professeur Quirrell laissa
+ce que M. Malefoy se souviendra avoir vu. » Le professeur Quirrell laissa
 échapper un petit soupir. « Cela causera peut-être quelque alarme s’ils
 arrivent à la conclusion qu’une horreur semblable aux Détraqueurs et
 assez puissante pour briser des boucliers d’Auror déambule dans la Forêt
 interdite. Mais je n’ai pas su quoi faire d’autre. Si la forêt est mieux
 gardée après cela… mais avec de la chance, j’ai déjà consommé ce dont
 j’ai besoin. Voudriez-vous bien m’expliquer comment vous êtes arrivé si
-vite ? Comment saviez-vous que M. Malfoy avait des ennuis ? »
+vite ? Comment saviez-vous que M. Malefoy avait des ennuis ? »
 
-Après que la capitaine Brodski ait entendu que Drago Malfoy était dans
+Après que la capitaine Brodski ait entendu que Drago Malefoy était dans
 la Forêt interdite, visiblement en compagnie de Rubeus Hagrid, il avait
 commencé à poser des questions destinées à découvrir qui avait autorisé
-cela et avait toujours été bredouille lorsque Drago Malfoy ne l’avait
+cela et avait toujours été bredouille lorsque Drago Malefoy ne l’avait
 pas à nouveau contacté, dix minutes plus tard. En dépit des
 protestations de Harry, le capitaine Auror, qui était habilité en
 matière de Retourneurs de Temps, avait refusé d’autoriser un déploiement

@@ -544,16 +544,16 @@ Rapeltout ici — »
 as ma parole que celui que Ernie tient dans sa main est à Neville. Aucun
 commentaire en ce qui concerne celui de Gregory Goyle. »
 
-Zabini se tourna vers Drago. « *Malfoy !* Tu ne vas pas le laisser s’en
+Zabini se tourna vers Drago. « *Malefoy !* Tu ne vas pas le laisser s’en
 tirer avec ce — »
 
 « Tais-toi, toi, » gronda M. Crabbe, qui se tenait derrière Drago. « M.
-Malfoy n’a pas besoin que *tu* lui dises ce qu’il doit faire ! »
+Malefoy n’a pas besoin que *tu* lui dises ce qu’il doit faire ! »
 
 *Bon* laquais.
 
-« Mon pari était avec Drago, de la Noble et Ancienne Maison Malfoy, » dit
-Harry. « Pas avec toi, Zabini. J’ai fait ce que M. Malfoy a dit qu’il
+« Mon pari était avec Drago, de la Noble et Ancienne Maison Malefoy, » dit
+Harry. « Pas avec toi, Zabini. J’ai fait ce que M. Malefoy a dit qu’il
 aimerait me voir faire, et pour le jugement de ce pari, je m’en
 remettrai à lui. » Harry inclina sa tête vers Drago et releva légèrement
 ses sourcils. Ça devrait permettre à Drago de sauver la face.
@@ -568,7 +568,7 @@ possession. »
 
 Drago hocha la tête, l’air décidé. « Alors je ne remettrai pas en
 question la parole de la Noble Maison de Potter, peu importe que tout
-cela ait été très étrange. Et la Noble et Ancienne Maison Malfoy tient
+cela ait été très étrange. Et la Noble et Ancienne Maison Malefoy tient
 aussi sa parole. M. Goyle, donnez cela à M. Potter — »
 
 « Hé ! » dit Zabini. « Il n’a pas *encore* gagné, il n’a pas mis la main
@@ -1094,7 +1094,7 @@ semble probablement très charmant, » dit Dumbledore. « Poli — avec 
 moins. Choisissant bien ses mots, peut-être même admiratif. Toujours
 prêt à aider, à faire une faveur, à prodiguer un conseil — »
 
-« Oh, *Drago Malfoy* ! » dit Harry, se sentant plutôt soulagé qu’il ne
+« Oh, *Drago Malefoy* ! » dit Harry, se sentant plutôt soulagé qu’il ne
 s’agisse pas de Hermione ou de quelqu’un d’autre. « Oh non, non non non,
 vous vous trompez complètement, il ne me convertit pas, c’est moi qui le
 convertis. »
@@ -1115,12 +1115,12 @@ ne soit que l’attrait, l’appât — »
 passer pour un gentil alors il est sacrément nul. Ce n’est pas que Drago
 soit venu me voir, tout charmant, et que j’ai décidé qu’il devait avoir
 un noyau de bonté cachée au fond de lui. Je vise sa rédemption à lui en
-particulier parce qu’il est l’héritier de la Maison Malfoy, et que s’il
+particulier parce qu’il est l’héritier de la Maison Malefoy, et que s’il
 faut choisir une personne à sauver, c’est forcément lui. »
 
 L’œil gauche de Dumbledore eut un léger mouvement convulsif. « Tu essaies
 de planter les graines de l’amour et de la gentillesse dans le cœur de
-Drago parce que tu t’attends à ce que l’héritier des Malfoy te soit
+Drago parce que tu t’attends à ce que l’héritier des Malefoy te soit
 utile ? »
 
 « Pas seulement à *moi* ! » dit Harry d’une voix indignée. « À toute

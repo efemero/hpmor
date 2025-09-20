@@ -1,4 +1,4 @@
-# Après-coup, quelque chose à protéger : Drago Malfoy
+# Après-coup, quelque chose à protéger : Drago Malefoy
 
 Le garçon était assis dans un bureau non loin de l’ancien bureau de la
 directrice adjointe. Ses larmes s’étaient asséchées des heures plus tôt.
@@ -8,7 +8,7 @@ de sa famille. On l’avait fait venir ici, et il avait obtempéré par
 manque d’alternatives. Vincent et Gregory l’avaient quitté, rappelés par
 leurs mères pour les funérailles hâtives de leurs pères. Peut-être le
 garçon aurait-il dû les accompagner, mais il n’avait pas réussi à le
-faire. Il n’aurait pas su jouer le rôle d’un Malfoy. Le sentiment de
+faire. Il n’aurait pas su jouer le rôle d’un Malefoy. Le sentiment de
 vide qui l’emplissait était si profond qu’il ne restait plus de place
 pour de la fausse courtoisie.
 
@@ -17,14 +17,14 @@ Ils étaient tous morts.
 Son père était mort, son parrain MacNair aussi, tout comme son parrain
 de secours, M. Avery. Même Sirius Black, le cousin de sa mère, avait
 réussi à y passer, et tout ce qui restait de la maison Black éprouvait
-peu d’amitié pour les Malfoy.
+peu d’amitié pour les Malefoy.
 
 Ils étaient tous morts.
 
 On frappa à la porte du bureau ; et quand le garçon ne répondit pas, la
 porte s’ouvrit pour révéler…
 
-« Vas-t’en, » dit Drago Malfoy au Survivant. Il ne parvint pas à prononcer
+« Vas-t’en, » dit Drago Malefoy au Survivant. Il ne parvint pas à prononcer
 les mots avec force.
 
 « Je partirai bientôt, » dit Harry Potter en entrant. « Mais une décision
@@ -33,7 +33,7 @@ doit être prise, et toi seul en es capable. »
 Drago se tourna vers le mur, parce que la simple vue de Harry Potter lui
 demandait plus d’efforts qu’il ne pouvait en fournir.
 
-« Tu dois décider, » dit Harry, « ce qui va arriver à Drago Malfoy. Je ne
+« Tu dois décider, » dit Harry, « ce qui va arriver à Drago Malefoy. Je ne
 veux pas être menaçant ; quoi qu’il arrive, tu deviendras le riche
 héritier d’une Noble et Très Ancienne Maison. Le truc, » dit Harry d’une
 voix à présent vacillante, « le truc, c’est qu’il y a quelque chose
@@ -55,7 +55,7 @@ souhaitait pas retourner à Serpentard et vivre uniquement entourés de
 gens qui avaient acceptés d’y être Répartis. Il avait encore la présence
 d’esprit de comprendre combien de ses vrais amis étaient aussi amis avec
 Harry, que Padma était à Serpentard, et que même Théodore était un
-lieutenant du Chaos. Tout ce qui restait de la maison Malfoy était une
+lieutenant du Chaos. Tout ce qui restait de la maison Malefoy était une
 tradition ; et cette tradition disait qu’il était idiot de dire au
 gagnant de la guerre de partir, de rejeter son amitié.
 
@@ -93,7 +93,7 @@ serait accusé de rien.
 
 Et la dernière horreur.
 
-« Tu… » murmura Drago Malfoy. « Tu… »
+« Tu… » murmura Drago Malefoy. « Tu… »
 
 « C’est moi qui ai tué ton père et tous les autres Mangemorts, cette
 nuit-là. Ils avaient reçu l’ordre de me tirer dessus à la seconde où je
@@ -120,12 +120,12 @@ premiers, bla bla bla etc. Mais là, je me sens juste malade de t’avoir
 infligé tout ça. Une fois de plus. Je sens que, » sa voix vacilla un peu,
 « tout ce que je fais te fait du mal, en dépit de mes *bonnes
 intentions*, qu’être à côté de moi ne t’a occasionné que des pertes.
-Alors, si tu me dis de ne plus fréquenter Drago Malfoy, c’est ce que je
+Alors, si tu me dis de ne plus fréquenter Drago Malefoy, c’est ce que je
 ferai. Et si tu veux que j’essaie d’être vraiment ton ami, sans jamais
 réessayer de te manipuler, sans jamais t’utiliser ou prendre le risque
 de te faire du mal, alors je le ferai, je te le jure. »
 
-Le prochain Lord Malfoy pleurait ouvertement face à son ennemi. Le décor
+Le prochain Lord Malefoy pleurait ouvertement face à son ennemi. Le décor
 et les apparences avaient été abandonnés, parce qu’il n’y avait plus
 personne à qui faire croire quoi que ce soit.
 
@@ -146,14 +146,14 @@ Harry Potter secoua simplement la tête. « Et si ce n’est pas possible ?�
 
 À nouveau, Harry Potter secoua simplement la tête.
 
-Le Survivant insista, pressa Lord Malfoy de prendre une décision.
+Le Survivant insista, pressa Lord Malefoy de prendre une décision.
 
-Lord Malfoy s’y refusa. Il ne parvenait pas à prononcer une réponse,
+Lord Malefoy s’y refusa. Il ne parvenait pas à prononcer une réponse,
 quelle qu’elle soit. Il ne voulait pas laisser le gagnant et leurs amis
 communs l’abandonner, et il n’allait pas non plus donner à Harry
 l’absolution qu’il désirait.
 
-Drago Malfoy se refusa donc à répondre, et les souvenirs de celui-ci
+Drago Malefoy se refusa donc à répondre, et les souvenirs de celui-ci
 disparurent.
 
 
@@ -170,7 +170,7 @@ sa famille. On l’avait fait venir ici, et il avait obtempéré par manque
 d’alternatives. Vincent et Gregory l’avaient quittés, rappelés par leurs
 mères pour les funérailles hâtives de leurs pères. Peut-être le garçon
 aurait-il dû les accompagner, mais il n’avait pas réussi à le faire. Il
-n’aurait pas su jouer le rôle d’un Malfoy. Le sentiment de vide qui
+n’aurait pas su jouer le rôle d’un Malefoy. Le sentiment de vide qui
 l’emplissait était si profond qu’il ne restait plus de place pour de la
 fausse courtoisie.
 
@@ -180,16 +180,16 @@ Ils étaient tous morts, et tout avait été futile depuis le début.
 
 On frappa à la porte du bureau, puis, après un moment de flottement
 poli, elle s’ouvrit pour révéler la directrice McGonagall, habillée
-comme à son habitude. « M. Malfoy, » dit la famille de son ennemi
+comme à son habitude. « M. Malefoy, » dit la famille de son ennemi
 victorieux. « Venez avec moi, s’il vous plaît. »
 
-Drago Malfoy se leva avec indifférence et la suivit hors du bureau. Voir
+Drago Malefoy se leva avec indifférence et la suivit hors du bureau. Voir
 Harry Potter debout devant la porte l’interloqua, mais son esprit écarta
 simplement la pensée.
 
 « Une dernière chose » dit Harry Potter. « Je l’ai trouvé dans un parchemin
 roulé dont l’extérieur disait que c’était la dernière arme à utiliser
-contre la Maison Malfoy et de ne pas continuer à lire à moins que
+contre la Maison Malefoy et de ne pas continuer à lire à moins que
 l’issue de toute la guerre ne soit en jeu. Je ne voulais pas te le dire
 avant parce que je pensais que ça t’influencerait injustement. Si tu
 étais quelqu’un de bien, que tu n’avais jamais tué ni menti, mais que tu
@@ -203,7 +203,7 @@ alluma la cheminée d’un mouvement de baguette et dit à la flamme verte :
 « Bureau des voyages de Gringotts » avant de s’y plonger, un regard ferme
 posé sur lui.
 
-N’ayant pas d’autre choix, Drago Malfoy la suivit.
+N’ayant pas d’autre choix, Drago Malefoy la suivit.
 
 
 

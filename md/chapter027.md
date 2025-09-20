@@ -594,7 +594,7 @@ nous sommes *en train* d’avoir cette conversation.« Les yeux de Harry s’�
 promesse que vous ne parlerez pas de notre conversation à *quiconque*.
 En ce qui concerne l’école, nous discutons de vos devoirs de Potions.
 Qu’ils le croient ou non n’a aucune importance. En ce qui concerne
-Dumbledore et McGonagall, je trahis les confidences que Drago Malfoy m’a
+Dumbledore et McGonagall, je trahis les confidences que Drago Malefoy m’a
 faites, et aucun de nous deux ne pense qu’il serait de bon ton d’en dire
 plus long sur les détails.« Le cerveau de Harry essaya de calculer les ramifications et les
 implications de ce que Rogue venait de dire et il manqua de mémoire

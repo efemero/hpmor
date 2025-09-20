@@ -329,10 +329,10 @@ puissant dont tu pourras avoir l’usage aux moments désespérés. Si tu
 t’en sers, tu devras toujours redouter sa trahison.*
 
 *En mon absence, le Magenmagot tombera inévitablement aux mains de
-Malfoy. Je t’ai transmis la Lignée Ininterrompue de Merlin, avec Amelia
+Malefoy. Je t’ai transmis la Lignée Ininterrompue de Merlin, avec Amelia
 Bones comme régente jusqu’à ce que tu sois assez âgé ou que tu atteignes
 tout ton potentiel. Mais elle ne pourra pas longtemps tenir face à
-Malfoy, pas sans moi et avec Voldemort de retour pour le conseiller. Je
+Malefoy, pas sans moi et avec Voldemort de retour pour le conseiller. Je
 pense que le ministère tombera bientôt et que Poudlard deviendra la
 dernière forteresse. J’ai laissé les clés de Poudlard à Minerva, mais
 toi seul es son prince, et elle t’aidera de son mieux.*
@@ -613,7 +613,7 @@ quatre-vingt dix ans…*
 
 « Je ne suis pas une imbécile, » dit la vieille sorcière. « Je sais que
 vous n’êtes pas un enfant ordinaire. Je vous ai vu parler à Lucius
-Malfoy, je vous ai vu effrayer un Détraqueur, et j’ai vu Fumseck
+Malefoy, je vous ai vu effrayer un Détraqueur, et j’ai vu Fumseck
 répondre à votre prière. Tout sage témoin de vos actes au Magenmagot -
 et je parle donc de moi et au plus de deux autres personnes — a pu
 deviner que vous aviez absorbé une partie de l’âme broyée de
@@ -643,7 +643,7 @@ réponse. « Assez vite, en fait. Et plus important encore : Dumbledore ne
 l’ignorait pas. »
 
 La vieille sorcière continua. « Donner votre fortune et vous endetter
-auprès de Lucius Malfoy pour garder votre meilleure amie hors d’Azkaban
+auprès de Lucius Malefoy pour garder votre meilleure amie hors d’Azkaban
 a peut-être démontrer votre moralité exemplaire mais aussi votre
 incapacité à contrôler le Magenmagot. Je comprends maintenant que vous
 avez fait ce que vous aviez besoin de faire pour garder votre santé
@@ -1036,7 +1036,7 @@ Même Maugrey Fol-Œil parut horrifié.
 « vous auriez dû trouver étrange de pouvoir envoyer ne serait-ce *qu’un
 seul* Mangemort à Azkaban sans procès. »
 
-« Nous pensions que Malfoy était distrait, » dit la vieille sorcière.
+« Nous pensions que Malefoy était distrait, » dit la vieille sorcière.
 « Qu’il essayait seulement de se sauver lui-même. Nous avons réussi à
 avoir d’autres Mangemorts, Bellatrix par exemple… »
 

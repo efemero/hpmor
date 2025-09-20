@@ -68,7 +68,7 @@ nécessaire pour propager ces changements dans son esprit.
 meurtrière ! »
 
 « Mais j’ai… » son excellente mémoire lui repassa le souvenir avec
-obligeance pour la millième fois : Drago Malfoy lui disant avec un
+obligeance pour la millième fois : Drago Malefoy lui disant avec un
 sourire méprisant qu’elle ne le battrait jamais s’il était en pleine
 forme et prouvant immédiatement cette affirmation en dansant comme un
 duelliste entre les trophées sous bonne garde tandis qu’elle courait
@@ -125,7 +125,7 @@ Elle n’avait rien dit.
 Elle s’était réveillée, elle s’était souvenu de ce que s’était passé la
 nuit précédente, et ça avait été comme… Comme… Elle ne pouvait pas
 trouver les mots, même en pensée, pour décrire ce qu’elle avait
-ressenti. Mais elle avait su que Drago Malfoy était déjà mort et elle
+ressenti. Mais elle avait su que Drago Malefoy était déjà mort et elle
 n’avait rien dit, elle n’avait pas été voir le professeur Flitwick pour
 avouer. Elle s’était juste habillée et elle était allée prendre son
 petit déjeuner en *essayant de se comporter normalement* pour que
@@ -133,7 +133,7 @@ personne ne soit jamais au courant, et elle avait su que c’était mal,
 mal, Mal et atrocement atrocement MAL mais elle avait eu… Tellement
 peur…
 
-Même si Harry Potter avait raison, même si le duel contre Drago Malfoy
+Même si Harry Potter avait raison, même si le duel contre Drago Malefoy
 était un mensonge, elle avait fait *ce* choix toute seule. Elle ne
 méritait pas d’oublier cela ni qu’on la pardonne de l’avoir fait.
 
@@ -392,14 +392,14 @@ McGonagall. Ça avait presque été la première lettre qu’elle avait vu
 lorsqu’elle avait jeté un rapide coup d’œil sur son bureau : une
 enveloppe du plus fin des parchemins, scellée d’une cire vert-argent à
 l’effigie d’un serpent qui s’était dressé et lui avait sifflé dessus.
-« J’ai reçu la chouette de Lord Malfoy retirant son fils de Poudlard. »
+« J’ai reçu la chouette de Lord Malefoy retirant son fils de Poudlard. »
 
 Le vieux sorcier hocha la tête mais ne changea pas de rythme. « Harry
 est-il au courant ? »
 
 « Oui. » Sa voix flancha l’espace d’un instant lorsqu’elle se souvint de
 l’expression de Harry. « Après les cours, M. Potter a félicité le bon
-sens de Lord Malfoy et a dit qu’il écrirait à Mme Londubat pour lui
+sens de Lord Malefoy et a dit qu’il écrirait à Mme Londubat pour lui
 conseiller de faire de même avec son petit-fils au cas où celui-ci
 serait la prochaine cible. Au cas où la gardienne de M. Londubat serait
 suffisamment négligente pour le laisser à Poudlard, M. Potter voudrait
@@ -855,7 +855,7 @@ un croassement, mais non.
 comprendre, Hermione, c’est que tu avais beaucoup de gens pour te
 défendre au petit déjeuner d’aujourd’hui, mais que tous les gens de ton
 côté… *inventaient n’importe quoi*. Drago a essayé de te tuer en
-premier, des choses dans le genre. C’était Granger contre Malfoy, c’est
+premier, des choses dans le genre. C’était Granger contre Malefoy, c’est
 comme ça que les gens l’ont vu, comme s’il y avait une scie et
 qu’appuyer de son côté ferait remonter le tien. Je leur ai dit que vous
 étiez probablement *tous les deux* innocents, que vous aviez tous les
@@ -864,7 +864,7 @@ camps m’ont traité comme un traître à la recherche d’un juste milieu.
 Puis des gens ont entendu que Drago avait attesté sous Veritaserum qu’il
 avait essayé de t’aider avant la bataille – arrête de faire cette tête,
 Hermione, tu ne lui as pas réellement fait du mal. Bref, tout le monde
-en a tiré que le camp pro-Malfoy avait eu raison et que le camp
+en a tiré que le camp pro-Malefoy avait eu raison et que le camp
 pro-Granger avait eut tort. » Harry eut un bref soupir. « Je leur ai *dit*
 que quand la vérité éclaterait plus tard ils seraient honteux… »
 
@@ -917,7 +917,7 @@ Harry eut un autre haussement d’épaules triste. « Tout le monde en
 deuxième année et plus, puisqu’ils ne te connaissent pas. Tout le monde
 dans l’armée Dragon. Tout Serpentard bien sûr. Et, eh bien, presque tout
 le reste de l’Angleterre magique aussi, je pense. Rappelle toi que
-Lucius Malfoy contrôle la *Gazette du Sorcier*. »
+Lucius Malefoy contrôle la *Gazette du Sorcier*. »
 
 « Tout le monde ? » chuchota-t-elle. Ses membres commencèrent à devenir
 froid, comme si elle venait de sortir d’un piscine non chauffée.
@@ -926,7 +926,7 @@ froid, comme si elle venait de sortir d’un piscine non chauffée.
 *croyance*, ça leur semble être un *état du monde*. Toi et moi nous
 tenons dans cette petite sphère privée de l’univers où Hermione Granger
 a reçu un sortilège de faux souvenirs. Le reste du monde vit dans un
-monde où Hermione Granger a essayé de tuer Drago Malfoy. Si Ernie
+monde où Hermione Granger a essayé de tuer Drago Malefoy. Si Ernie
 Macmillan… »
 
 Hermione bloqua une inspiration à mi-parcours. *Le capitaine Macmillan…*
@@ -1306,7 +1306,7 @@ sujet de celui-ci.
 Le professeur Quirrell la regarda pendant un moment puis détourna les
 yeux d’elle, les releva vers les étoiles. Lorsqu’il reparla, sa voix
 était plus basse. « Quelqu’un ici vous prend pour cible, Mlle Granger, et
-je ne peux vous protéger comme j’ai protégé M. Malfoy. Le directeur
+je ne peux vous protéger comme j’ai protégé M. Malefoy. Le directeur
 l’empêche pour des raisons qu’il juge être bonnes. Il est facile de
 s’attacher à Poudlard, je le sais, car j’y suis moi aussi attaché. Mais
 en France ils ne voient pas les Anciennes Maisons comme en Angleterre ;
@@ -1332,7 +1332,7 @@ Mais alors pourquoi ses yeux la brûlaient-elle ?
 
 « Et si cela échoue à vous convaincre, Mlle Granger, considérez aussi que
 M. Potter, ne serait-ce qu’aujourd’hui à l’heure du déjeuner, a menacé
-Lucius Malfoy, Albus Dumbledore et l’intégralité du Magenmagot, juste
+Lucius Malefoy, Albus Dumbledore et l’intégralité du Magenmagot, juste
 parce qu’il est incapable de réfléchir lorsque quelque chose menace de
 vous arracher à lui. N’avez-vous pas peur de ce qu’il fera ensuite ? »
 

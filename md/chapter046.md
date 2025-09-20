@@ -378,7 +378,7 @@ petite fille amoureuse qui meurt à la fin de l’Acte 2. »
 
 Pendant ce temps, Gregory avait traversé la pièce jusqu’à l’endroit où
 Vincent faisait ses devoirs. « M. Crabbe, » dit Gregory d’une voix basse,
-« je pense que M. Malfoy devrait être mis au courant. »
+« je pense que M. Malefoy devrait être mis au courant. »
 
 
 
@@ -604,6 +604,6 @@ dire que mettre fin à la guerre des sorciers ne comptait pas comme
 circonstance atténuante. Mais cela… *l’embêtait quand même beaucoup*.
 
 Et l’heure était venue, et même depuis longtemps passée, de demander à
-Drago Malfoy ce que l’*autre* camp de cette guerre avait à dire sur la
+Drago Malefoy ce que l’*autre* camp de cette guerre avait à dire sur la
 personnalité d’Albus Perceval Wulfric Brian Dumbledore.
 

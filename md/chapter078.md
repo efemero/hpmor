@@ -51,14 +51,14 @@ adjointe ! »
 
 Assis à gauche de M. Davis se trouvait un autre parent soucieux, un
 homme aux cheveux blancs, vêtu de robes noires élégantes d’une qualité
-inégalable, un certain Lucius Malfoy, dirigeant politique de la plus
+inégalable, un certain Lucius Malefoy, dirigeant politique de la plus
 forte faction du Magenmagot.
 
-À gauche de Lord Malfoy, un aristocrate ricanant au visage balafré qu’on
+À gauche de Lord Malefoy, un aristocrate ricanant au visage balafré qu’on
 leur avait présenté sous le nom de Lord Jugson.
 
 Puis un brave homme vieux mais à l’œil perçant, Charles Nott, dont on
-disait qu’il était presque aussi riche que Lord Malfoy, assis à gauche
+disait qu’il était presque aussi riche que Lord Malefoy, assis à gauche
 de Lord Jugson.
 
 À droite de Mme Davis, on trouvait l’avenante Dame et l’encore plus
@@ -96,7 +96,7 @@ bancs rembourrés comme s’il se reposait et semblait parfaitement,
 naturellement à son aise en l’étouffante compagnie du quorum votant du
 conseil d’administration de Poudlard qui était passé par là en ce doux
 samedi pour apprendre quelles colleries pouvaient bien se dérouler à
-Poudlard en général et avec Drago Malfoy, Théodore Nott, Daphné
+Poudlard en général et avec Drago Malefoy, Théodore Nott, Daphné
 Greengrass, Susan Bones et Neville Londubat en particulier. Le nom de
 Harry Potter avait lui aussi été beaucoup mentionné.
 
@@ -104,7 +104,7 @@ Oh, et il n’aurait bien sûr pas fallu oublier Tracey Davis. Les sourcils
 de la directrice Bones s’élevèrent d’intérêt en entendant que les
 parents de celle-ci n’étaient autre que ce jeune couple. Lord Jugson
 leur avait jeté un regard bref et incrédule avant de les congédier d’un
-grognement. Lucius Malfoy les avait accueillis poliment avec un sourire
+grognement. Lucius Malefoy les avait accueillis poliment avec un sourire
 qui avait contenu un soupçon d’amusement morbide mêlé à de la pitié.
 
 M. et Mme Davis, dont le dernier vote sur quoi que ce soit d’importance
@@ -266,7 +266,7 @@ inspectèrent le périmètre, observèrent les arbres alentours.
 
 « Susan ? » dit Hermione d’une petite voix après qu’elles se furent
 retrouvées plus loin des autres. « Est-ce que tu penses que Daphné a
-raison quand elle dit que Drago Malfoy manigance quelque chose ? »
+raison quand elle dit que Drago Malefoy manigance quelque chose ? »
 
 « Oui, » répondit immédiatement Susan sans même y réfléchir. « C’est facile
 à savoir : il y a les lettres M, A, L, F, O et Y dans son nom de
@@ -274,11 +274,11 @@ famille. »
 
 Hermione regarda autour d’elle comme pour s’assurer que personne ne les
 regardait, même si c’était bien sûr un merveilleuse façon d’attirer
-l’attention. « Malfoy aurait-il pu être derrière ce que Rogue a fait ? »
+l’attention. « Malefoy aurait-il pu être derrière ce que Rogue a fait ? »
 
-« Rogue pourrait être derrière Malfoy, » dit Susan, pensive, en se
+« Rogue pourrait être derrière Malefoy, » dit Susan, pensive, en se
 souvenant les conversations qu’elle avait entendues lors de dîners chez
-sa tante, « ou Lucius Malfoy pourrait être derrière les deux. » Un léger
+sa tante, « ou Lucius Malefoy pourrait être derrière les deux. » Un léger
 frisson descendit le long de son échine lorsqu’elle eut cette pensée.
 Soudain, dire à Hermione de juste se concentrer sur la bataille à venir
 lui sembla être beaucoup moins raisonnable. « Pourquoi, est-ce que tu as
@@ -301,11 +301,11 @@ une flamme rouge les avait guidés sous le ciel gris.
 À la droite de Drago se tenait Padma Patil, sa commandante en second,
 qui avait un jour mené toute l’armée Dragon un jour où Drago s’était
 fait assommer. Derrière lui se trouvait Vincent, le fils des Crabbe, une
-famille qui avait servi les Malfoy depuis des temps oubliés. Le garçon
+famille qui avait servi les Malefoy depuis des temps oubliés. Le garçon
 musclé était vigilant, comme il l’était toujours, qu’une bataille ait
 été déclarée ou non. Plus loin en arrière, Grégory des Goyles se tenait
 à côté de l’un des deux balais qui avaient été fournis à l’armée
-Dragon ; et si les Goyles n’avaient pas servi les Malfoy aussi
+Dragon ; et si les Goyles n’avaient pas servi les Malefoy aussi
 longtemps que les Crabbes, ils ne l’avaient pas moins bien fait.
 
 À la gauche de Drago se tenait maintenant Dean Thomas de Gryffondor, un
@@ -352,7 +352,7 @@ si c’était une question parfaitement normale — s’il n’aurait pas qu
 idée sur la façon de vaincre la légion du Chaos.
 
 Le Gryffondor avait joyeusement répondu que Harry avait prédit que le
-général Malfoy s’arrangerait pour que l’un des soldats de ce dernier lui
+général Malefoy s’arrangerait pour que l’un des soldats de ce dernier lui
 pose la question et qu’il avait reçu du général Chaos un message disant
 que Drago devrait se demander quel était son avantage relatif, ce qu’il
 pouvait faire ou ce que l’armée Dragon pouvait faire qui soit impossible
@@ -399,7 +399,7 @@ soldats expérimentés et comptait bien protéger ces derniers d’une
 attaque surprise. Mis à part ça, les soldats Soleil continuaient
 d’avancer et conservaient leurs forces.
 
-Les soldats de l’armée du général Malfoy, ou du moins ceux qui avaient
+Les soldats de l’armée du général Malefoy, ou du moins ceux qui avaient
 les meilleures notes de métamorphose, ramassaient des feuilles et les
 métamorphosaient en… eh bien, si on regardait Padma Patil, qui en avait
 presque fini avec la sienne, il semblait que sa feuille devenait un gant
@@ -410,20 +410,20 @@ Lord Jugson regardait l’écran sans montrer le moindre intérêt ; sa voix,
 lorsqu’il parla, sembla suinter, ruisseler de dédain : « Que fait *donc*
 votre fils, Lucius ? »
 
-La sorcière venue de l’étranger qui se tenait à droite de Malfoy venait
+La sorcière venue de l’étranger qui se tenait à droite de Malefoy venait
 de finir de métamorphoser son gant et le portait à présent au général
 Dragon comme elle lui aurait fait offrande d’un sacrifice.
 
-« Je l’ignore, » dit Lucius Malfoy d’un ton aussi calme qu’aristocratique,
+« Je l’ignore, » dit Lucius Malefoy d’un ton aussi calme qu’aristocratique,
 « mais il me faut croire qu’il a de bonnes raisons de le faire. »
 
 Toute l’armée Dragon s’arrêta un instant lorsque Padma fit glisser le
-gant sur sa main gauche, attacha la sangle et le présenta à Drago Malfoy
+gant sur sa main gauche, attacha la sangle et le présenta à Drago Malefoy
 qui s’arrêta lui aussi, prit quelques profondes inspirations, leva sa
 baguette, exécuta huit mouvements précis et mugit : « *Collaporta !* »
 
 La guerrière Dragon leva alors sa main, fit jouer ses articulations et
-offrit un petit salut à Drago Malfoy qui lui en rendit un encore plus
+offrit un petit salut à Drago Malefoy qui lui en rendit un encore plus
 léger tout en chancelant un peu. Padma retourna alors au côté de Drago
 et les dragons se remirent en marche.
 
@@ -432,14 +432,14 @@ expliquer… ? » Amelia Bones fronçait légèrement les sourcils en regard
 l’écran.
 
 « Pour une raison ou une autre, » dit la voix amusée du professeur
-Quirrell, « il semble que l’héritier des Malfoy est capable de manier
+Quirrell, « il semble que l’héritier des Malefoy est capable de manier
 une magie étonnamment puissante pour un élève de première année. À cause
-de la pureté de son sang, bien sûr. Lord Malfoy n’aurait certainement
+de la pureté de son sang, bien sûr. Lord Malefoy n’aurait certainement
 pas bafoué les lois sur la magie des mineurs en s’arrangeant pour que
 son fils reçoive une baguette avant d’être admis à Poudlard. »
 
 « Je vous suggère de faire attention à ce que vous sous-entendez,
-Quirrell, » dit Lucius Malfoy avec froideur.
+Quirrell, » dit Lucius Malefoy avec froideur.
 
 « Oh, mais c’est ce que je fais, » dit le professeur Quirrell. « Un
 *Collaporta* ne peut être défait par un *Finite Incantatem* ; il
@@ -449,32 +449,32 @@ sortilège de sommeil ainsi que celui d’étourdissement. Et comme ni M.
 Potter ni Mlle Granger ne sont capables de lancer un contre-sort assez
 puissant, ce charme est donc invincible sur ce champ de bataille. Ce
 n’est pas le but originel ni l’intention qu’avait la personne qui a
-enseigné à M. Malfoy un sortilège d’urgence destiné à lui permettre
-d’échapper à ses ennemis. Mais il semblerait que M. Malfoy ait reçu des
+enseigné à M. Malefoy un sortilège d’urgence destiné à lui permettre
+d’échapper à ses ennemis. Mais il semblerait que M. Malefoy ait reçu des
 leçons de créativité. »
 
-Lucius Malfoy s’était raidit dans son siège à mesure que le professeur
+Lucius Malefoy s’était raidit dans son siège à mesure que le professeur
 de Défense avait parlé, et il se tenait maintenant droit sur son banc
 rembourré, sa tête tenue sensiblement plus haut qu’avant, et lorsqu’il
 parla, ce fut avec une fierté contenue : « Il sera le plus grand Lord
-Malfoy à avoir jamais vécu. »
+Malefoy à avoir jamais vécu. »
 
 « Bien médiocre éloge, » marmonna Augusta Londubat ; Amelia Bones gloussa,
 tout comme le fit M. Davis pendant une fraction de seconde fatale avant
 de s’arrêter dans un gargouillement étranglé.
 
 « Je suis tout à fait d’accord, » dit le professeur Quirrell, bien qu’on
-ne sache pas bien à qui il s’adressait. « Malheureusement pour M. Malfoy,
+ne sache pas bien à qui il s’adressait. « Malheureusement pour M. Malefoy,
 il est encore débutant en matière de créativité et a donc commis une
 classique erreur de Serdaigle. »
 
-« Et quelle est-elle ? » demanda Lucius Malfoy d’une voix redevenue
+« Et quelle est-elle ? » demanda Lucius Malefoy d’une voix redevenue
 fraîche.
 
 Le professeur Quirrell s’enfonça dans son siège et les pâles yeux bleus
 perdirent brièvement leur mise au point lorsque l’une des fenêtres
 changea de point de vue et zooma pour montrer la sueur qui se trouvait à
-présent sur le front de Drago. « C’est une idée si belle que M. Malfoy a
+présent sur le front de Drago. « C’est une idée si belle que M. Malefoy a
 négligé sa difficulté pratique. »
 
 « Quelqu’un pourrait-il m’expliquer cela ? » dit Lady Greengrass. « Nous ne
@@ -488,15 +488,15 @@ plus fort. »
 
 Le professeur Quirrell donna un demi hochement de tête de reconnaissance
 à la directrice du département de justice magique. « Comme vous dites,
-Mme Bones. M. Malfoy est débutant en nouvelles idées, et il devient donc
+Mme Bones. M. Malefoy est débutant en nouvelles idées, et il devient donc
 fier de lui lorsqu’il en a une. Il n’a pas encore eu assez d’idées pour
 se débarrasser sans hésitation de celles qui sont en partie belles et en
 partie irréalisables ; il n’a pas encore acquis assez de confiance dans
 sa capacité à trouver de nouvelles idées à mesure que le besoin s’en
 fait sentir. Ce que nous voyons la n’est pas la meilleure idée de M.
-Malfoy, j’en ai peur, mais plutôt sa seule idée. »
+Malefoy, j’en ai peur, mais plutôt sa seule idée. »
 
-Lord Malfoy se détourna tout simplement et regarda les écrans comme si
+Lord Malefoy se détourna tout simplement et regarda les écrans comme si
 le professeur de Défense venait d’épuiser son droit à exister.
 
 « Mais — » dit Lord Greengrass. « Mais par Merlin, *que* *fait* Harry
@@ -751,7 +751,7 @@ neutraliser leur avantage. » C’était un coup de poker, mais il fallait
 être prêt à en faire quand on voulait sortir gagnant d’un combat à
 trois.
 
-« Vous avez compris le plan de Chaos, général Malfoy ? » dit M. Thomas,
+« Vous avez compris le plan de Chaos, général Malefoy ? » dit M. Thomas,
 considérablement surpris.
 
 « Que font-ils ? » demanda Padma.
@@ -1232,7 +1232,7 @@ encore de stupéfaction, « semblent venir des bancs Poufsouffle. »
 « Albus Perceval Wulfric Brian Dumbledore ! *Nom de Merlin, qu’est-ce qui
 se passe dans cette école !* »
 
-Lucius Malfoy regardait les écrans avec un sourire ironique tandis que
+Lucius Malefoy regardait les écrans avec un sourire ironique tandis que
 ses doigts frappaient son dossier de chaise selon un rythme
 indiscernable. « Je ne sais pas ce qui est le plus effrayant, l’idée
 qu’il ait un plan secret derrière tout cela ou l’idée qu’il n’en ait
@@ -1335,7 +1335,7 @@ baguette vers son propre visage et à s’écrier « *Quiescus !* » avant
 le besoin soudain d’inspirer de l’air ne se transforme en une quinte de
 tout qui aurait mis fin à la bataille.
 
-Drago Malfoy était déjà à moitié épuisé suite à tous les sortilèges
+Drago Malefoy était déjà à moitié épuisé suite à tous les sortilèges
 d’emprisonnement et à toutes les métamorphoses précédentes, mais son
 état de confusion commençait à laisser place à un coup de sang
 bouillonnant. Il ne savait pas *pourquoi* Granger l’attaquait soudain
@@ -1348,7 +1348,7 @@ regarder, si bien que les Soleil devaient eux aussi continuer de se
 battre, mais le public bouche bée des gradins de Quidditch de Poudlard
 étaient même distraits du spectacle offert par Neville et Daphné,
 réorientaient leur regard vers le duel des deux généraux, alors que
-Malfoy et Granger se tiraient sort après sort, maléfice après maléfice,
+Malefoy et Granger se tiraient sort après sort, maléfice après maléfice,
 tiraient plus vite qu’aucun autre élève de leur année n’en aurait été
 capable, la danse de duel étudiée du général Dragon égalée par l’énergie
 frénétique du général Soleil, le combat ressemblant de plus en plus à un
@@ -1549,7 +1549,7 @@ rapidement les sangles par-dessus leur tête alors que les chaotiques
 mettaient leurs lunettes de soleil et que l’incandescence violette
 explosait.
 
-(Comme le général Malfoy l’avait expliqué, si M. Goyle rapportait que la
+(Comme le général Malefoy l’avait expliqué, si M. Goyle rapportait que la
 légion du Chaos portait des lunettes de potions vertes, il n’y avait pas
 besoin de savoir *pourquoi* pour pouvoir en métamorphoser quelques
 exemplaires).
@@ -1610,7 +1610,7 @@ particulière de m’en vouloir, Granger ? »
 
 La fille haletait à la recherche d’oxygène, sa voix chancelait : « Je
 sais ce que tu prépares, » dit Hermione Granger, montant d’une octave.
-« Je sais ce que Rogue et toi préparez, Malfoy, et je sais qui est
+« Je sais ce que Rogue et toi préparez, Malefoy, et je sais qui est
 derrière ça ! »
 
 « Hein ? » dit Drago sans même réfléchir.
@@ -1652,7 +1652,7 @@ Poudlard.
 
 Et le silence de mort qui s’abattit alors sur chaque banc de chaque
 gradin révéla que tout le monde comprenait très clairement ce que cela
-voulait dire : que le descendant de la maison Malfoy venait de voir sa
+voulait dire : que le descendant de la maison Malefoy venait de voir sa
 magie surmontée par celle d’une née-Moldue.
 
 Hermione Granger ne s’arrêta pas de combattre, elle n’émit aucun signe
@@ -1661,7 +1661,7 @@ jaillit et donna un coup à la manière moldue qui fit sauter la baguette
 de Drago hors de sa main. Le corps et l’esprit encore choqués de Drago
 avaient réagit un peu trop lentement. Drago plongea sur sa baguette,
 fouilla le sol avec frénésie, mais de derrière lui la voix brisée d’une
-fille dit « *Somnium !*, » et Drago Malfoy tomba pour ne pas se relever.
+fille dit « *Somnium !*, » et Drago Malefoy tomba pour ne pas se relever.
 
 Il y eut un autre moment de silence figé. Le général Soleil vacillait et
 donnait l’impression de risquer de s’évanouir.
@@ -1686,20 +1686,20 @@ eux-mêmes.
 Le vieux Charles Nott ne dit rien en se levant de sa chaise. Le balafré
 Lord Jugson ne dit rien en se levant de sa chaise.
 
-Lucius Malfoy ne dit rien en se levant.
+Lucius Malefoy ne dit rien en se levant.
 
 Ils se détournèrent tous les trois sans s’arrêter et s’avancèrent
 rapidement vers l’escalier qui menait aux gradins surélevés, se
 déplaçant d’un concert inquiétant, comme un trio d’Aurors…
 
-« Lord Malfoy, » dit le professeur de Défense avec douceur. L’homme était
+« Lord Malefoy, » dit le professeur de Défense avec douceur. L’homme était
 toujours assis sur sa chaise et regardait ses écrans-parchemins, ses
 bras flasques le long de ses flancs, comme s’il n’avait pas
 particulièrement envie de bouger.
 
 L’homme aux cheveux blancs s’arrêta juste avant d’atteindre l’arcade qui
 constituait la sortie, l’homme âgé et l’homme balafré s’arrêtèrent
-aussi, l’encadrant. La tête de Lord Malfoy se tourna, trop légèrement
+aussi, l’encadrant. La tête de Lord Malefoy se tourna, trop légèrement
 pour que le geste soit pris comme le moindre signe de réponse, mais
 toutefois vers le professeur de Défense.
 
@@ -1710,7 +1710,7 @@ douce, la voix du professeur de Défense. « En tant que professeur de
 votre fils, je suis de l’avis que votre fils ne bénéficiera pas d’une
 interférence de votre part dans cette — »
 
-Lord Malfoy et ses comparses disparurent le long des escaliers.
+Lord Malefoy et ses comparses disparurent le long des escaliers.
 
 « Un belle tentative Quirinus, » dit doucement Dumbledore. Le visage du
 vieux sorcier révélait de petites rides d’inquiétude. Lui non plus ne
@@ -1789,7 +1789,7 @@ tout en ayant assez de lunettes pour ses guerriers, et ainsi Padma était
 parvenue à mener l’armée dont elle avait héritée jusqu’à la victoire.
 
 À en voir la lumière dans les yeux de cette dernière et le sourire
-arrogant qui aurait rendu un Malfoy fier, elle s’attendait à des
+arrogant qui aurait rendu un Malefoy fier, elle s’attendait à des
 félicitations. Drago parvint à siffler quelque chose qui ressemblait à
 une éloge entre ses dents serrées, mais il n’aurait su dire ce qu’elle
 avait été un instant plus tard. Il semblait que la sorcière, née à
@@ -1799,7 +1799,7 @@ cela signifiait.
 *J’ai perdu.*
 
 Les Dragons traînaient les pieds jusqu’à Poudlard sous un ciel gris, de
-lourdes gouttes froides tombaient une à une sur la peau de Malfoy. Elle
+lourdes gouttes froides tombaient une à une sur la peau de Malefoy. Elle
 avait commencé pendant qu’il était étourdi, la pluie longtemps promise
 commençant enfin à tomber. Drago n’avait maintenant plus qu’une seule
 option. Un coup forcé, comme l’aurait appelé M. MacNair, qui avait
@@ -1839,7 +1839,7 @@ elle afin de bannir les traîtres… il lui avait tenu la main lorsqu’elle
 pendait du toit… il avait empêché une émeute de se déclencher autour
 d’elle dans la grande salle… avait-elle la moindre idée de ce qu’il
 avait *risqué*, de ce qu’il avait probablement déjà *perdu*, de ce que
-cela impliquait pour le descendant de la *maison Malfoy* de faire ça
+cela impliquait pour le descendant de la *maison Malefoy* de faire ça
 pour une S*ang-de-Bourbe*…
 
 Et il n’avait maintenant plus qu’un coup jouable, et la particularité
@@ -1854,9 +1854,9 @@ vaincre en un contre un, en public, pas avec des techniques de duel
 astucieuses mais en *l’écrasant* de sa magie. La battre à plates
 coutures, complètement, la *broyer* aussi parfaitement que le Seigneur
 des Ténèbres lui-même avait broyé ses ennemis. Le rendre parfaitement
-clair à tous, empêcher que quiconque en doute : Drago Malfoy avait
+clair à tous, empêcher que quiconque en doute : Drago Malefoy avait
 simplement été épuisé à force de lancer le sortilège autant de fois
-d’affilée. Prouver que le sang Malfoy était plus fort que celui de
+d’affilée. Prouver que le sang Malefoy était plus fort que celui de
 n’importe quel Sang-de-Bourbe…
 
 *Sauf qu’il ne l’est pas*, murmura la voix de Harry Potter dans l’esprit
@@ -1912,23 +1912,23 @@ Il savait ce qu’on était censé faire dans ce genre de situation. On
 serait *désastreux*, une manne à chantage parfaite même sans jamais être
 découvert, et tous les Serpentard le *sauraient*, ils *chercheraient*…
 
-Si vous l’aviez observé, vous auriez alors vu Drago Malfoy se lever de
+Si vous l’aviez observé, vous auriez alors vu Drago Malefoy se lever de
 son lit, se rendre à son bureau, tirer une feuille de son parchemin en
 peau de mouton le plus fin ainsi qu’un encrier creusé dans une perle
 remplit d’une encre d’un argent verdâtre qui avait été faite à partir de
 véritable argent et d’émeraudes broyées. De l’immense coffre au pied de
 son lit, le Serpentard en tira un livre lui aussi relié d’argent et
 d’émeraudes intitulé *Étiquette des maisons d’Angleterre*. Et avec une
-nouvelle plume propre, Drago Malfoy commença à écrire en regardant
+nouvelle plume propre, Drago Malefoy commença à écrire en regardant
 fréquemment le livre ouvert en référence à côté de lui. Le visage du
 garçon portait un sourire sinistre, ce qui faisait grandement ressembler
-le jeune Malfoy à son père tandis qu’il traçait précautionneusement
+le jeune Malefoy à son père tandis qu’il traçait précautionneusement
 chaque lettre comme si chacune avait été une œuvre d’art à part entière.
 
 *De Drago, fils de Lucius, fils d’Abraxis, Lords de la Noble et Très
-Ancienne maison Malfoy, aussi fils de Narcissa, fille de Druella Dame de
+Ancienne maison Malefoy, aussi fils de Narcissa, fille de Druella Dame de
 la Noble et Très Ancienne maison Black, descendant et héritier de la
-Noble et Très Ancienne maison Malfoy :*
+Noble et Très Ancienne maison Malefoy :*
 
 *À Hermione, la première Granger :*
 
@@ -2003,7 +2003,7 @@ combattre Granger pour la première fois *cette nuit*.
 
 *Au dernier coup de minuit qui mettra fin à ce jour même.*
 
-*Drago, de la Noble et Très Ancienne maison Malfoy.*
+*Drago, de la Noble et Très Ancienne maison Malefoy.*
 
 Drago signa le parchemin officiel puis tira un parchemin ordinaire et
 inférieur ainsi que son encre habituelle, pour son post-scriptum :
@@ -2015,7 +2015,7 @@ venir Flitwick dans la salle des trophées, ou même en en parlant à qui
 que ce soit d’autre, mon père t’amènera toi et ton honneur de pacotille
 droit au Magenmagot.*
 
-*Drago Malfoy*
+*Drago Malefoy*
 
 Sa plume s’appuya sur la dernière lettre avec tant de hargne sur son bec
 se brisa, créant une traînée d’encre et une légère éraflure à la surface
@@ -2028,7 +2028,7 @@ du parchemin que Drago jugea elles aussi être de de circonstance.
 
 
 Ce soir là au dîner, Susan Bones alla voir Harry Potter et lui dit
-qu’elle soupçonnait que Drago Malfoy allait mettre son plan contre
+qu’elle soupçonnait que Drago Malefoy allait mettre son plan contre
 Hermione à exécution très bientôt. Elle prévenait tous les membres de la
 S.P.E.H.S., elle avait prévenu le professeur Chourave et le professeur
 Flitwick, elle allait envoyer une lettre à sa tante ce soir là, et
@@ -2067,7 +2067,7 @@ l’autre bout de la table, et il sentit en lui une réticence à l’embêter
 alors qu’elle était déjà de mauvaise humeur.
 
 Il se dit donc qu’il était probablement plus raisonnable de parler
-d’abord à Drago Malfoy juste pour pouvoir définitivement et
+d’abord à Drago Malefoy juste pour pouvoir définitivement et
 irrévocablement assurer Hermione que Drago ne complotait vraiment rien
 contre elle.
 
@@ -2083,7 +2083,7 @@ déplaisant mais de nécessaire.
 Cette pensée lui traversa vraiment l’esprit.
 
 Puis Harry James Potter-Evans-Verres décida qu’il parlerait juste à
-Drago Malfoy le lendemain matin après le petit déjeuner du dimanche et
+Drago Malefoy le lendemain matin après le petit déjeuner du dimanche et
 qu’il parlerait *ensuite* à Hermione.
 
 Les humains faisaient ce genre de chose en permanence.
@@ -2113,7 +2113,7 @@ Serpentard pour prendre son petit déjeuner.
 
 C’était étrange.
 
-Drago Malfoy n’était presque jamais en retard.
+Drago Malefoy n’était presque jamais en retard.
 
 Puisque Harry regardait vers la table Serpentard, il ne vit pas que
 Hermione Granger était entrée, franchissant les immenses portes de la
@@ -2209,5 +2209,5 @@ trois côtés.
 « Oui ? » dit Harry aussi normalement que possible. « Qu’y a-t-il ? »
 
 « Hermione Granger, » dit Auror Komodo d’une voix sans timbre, « vous êtes
-en état d’arrestation pour avoir tenté d’assassiner Drago Malfoy. »
+en état d’arrestation pour avoir tenté d’assassiner Drago Malefoy. »
 

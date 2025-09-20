@@ -647,7 +647,7 @@ regardèrent intensément. « Cela devrait être évident… Mais je ne peux p
 t’en vouloir de ne pas croire à l’évidence. Pour comprendre le but d’un
 plan complexe, il faut regarder ses conséquences, et se demander qui
 pourrait les avoir désirées. J’ai tué Mlle Granger pour améliorer ta
-position face à Lucius Malfoy, puisque mes plans n’admettaient pas qu’il
+position face à Lucius Malefoy, puisque mes plans n’admettaient pas qu’il
 ait tant de pouvoir sur toi. J’avoue avoir été impressionné par la façon
 dont tu as exploité cette opportunité. »
 
@@ -658,22 +658,22 @@ l’influence qu’elle avait sur moi ? »
 
 « Ne sois pas ridicule, » dit le professeur Quirrell. « Si j’avais
 uniquement souhaité supprimer Mlle Granger, je n’aurais pas fait entrer
-les Malfoy en jeu. J’ai observé ton jeu avec Drago Malfoy, et je l’ai
+les Malefoy en jeu. J’ai observé ton jeu avec Drago Malefoy, et je l’ai
 trouvé amusant, mais j’ai su qu’il ne continuerai pas bien longtemps
 avant que Lucius n’en ai vent et n’intervienne. Et alors tes
 emportements t’auraient coûté cher, car Lucius n’aurait pas pris cette
 histoire à la légère. Si tu avais seulement pu *perdre* pendant le
 procès au Magenmagot, *perdre* comme je te l’avais appris, alors moins
 de deux semaines plus tard, des preuves irréfutables auraient montré que
-Lucius Malfoy, découvrant l’apparente perfidie de son fils, avait lancé
+Lucius Malefoy, découvrant l’apparente perfidie de son fils, avait lancé
 un Imperius sur le professeur Chourave pour qu’elle utilise le sortilège
-de refroidissement du sang sur M. Malfoy et un sortilège de faux
+de refroidissement du sang sur M. Malefoy et un sortilège de faux
 souvenirs sur Mlle Granger. Lucius aurait été éliminé de l’échiquier
 politique, envoyé en exil, voir à Azkaban ; Drago aurait hérité de la
-fortune de la maison Malfoy et ton influence sur lui aurait été sans
+fortune de la maison Malefoy et ton influence sur lui aurait été sans
 conteste. Mais j’ai dû interrompre ce plan en pleine course. Tu es
 parvenu à complètement défaire le véritable plan, et ce faisant à
-sacrifier le double de ta fortune tout en offrant à Lucius Malfoy une
+sacrifier le double de ta fortune tout en offrant à Lucius Malefoy une
 opportunité parfaite de prouver l’authenticité de sa préoccupation pour
 son fils. Je dois dire que tu as un incroyable anti-talent lorsqu’il
 s’agit de te mêler des choses. »
@@ -745,9 +745,9 @@ face à eux. Quoi qu’il en soit. Après deux heures d’échecs répétés, je
 me suis rendu compte que j’étais trop têtu et que je n’avais pas besoin
 de Mlle Granger pour que le rôle que je lui avais réservé soit joué.
 J’ai abandonné mon projet initial et j’ai préféré imprégner l’esprit de
-Mlle Granger de faux souvenirs, ceux d’avoir regardé M. Malfoy conspirer
+Mlle Granger de faux souvenirs, ceux d’avoir regardé M. Malefoy conspirer
 contre elle, dans des circonstances qui l’empêchaient d’en parler à toi
-ou aux autorités. C’est M. Malfoy qui m’a donné l’opportunité dont
+ou aux autorités. C’est M. Malefoy qui m’a donné l’opportunité dont
 j’avais besoin, par pure chance. » Le professeur Quirrell laissa tomber
 une campanule et un bout de parchemin dans le chaudron.
 
@@ -809,7 +809,7 @@ situation était extrêmement étrange. »
 « Cela aurait dû te diriger vers Dumbledore, pas vers moi, » dit le
 professeur Quirrell, et il fronça les sourcils. « Le fait est que Mlle
 Greengrass n’aurait dû arriver dans ce couloir que plusieurs heures plus
-tard… mais je suppose que, puisque je me suis arrangé pour que M. Malfoy
+tard… mais je suppose que, puisque je me suis arrangé pour que M. Malefoy
 lui donne l’indice qui lui était destiné, il n’est pas étonnant qu’ils
 aient formé un groupe. Si M. Nott était arrivé seul en apparence, les
 choses auraient été moins grotesques. Mais je me considère comme un
@@ -1126,7 +1126,7 @@ n’essayais pas de jouer au plus fin en envoyant mes serviteurs accomplir
 des missions, mais je ne leur donnais pas non plus des ordres absurdes… »
 Le professeur Quirrell eut un sourire qui, en d’autres circonstances,
 aurait pu être charmeur. « Un mois plus tard, Bellatrix Black se
-prostrait devant moi, et trois mois après, Lucius Malfoy négociait
+prostrait devant moi, et trois mois après, Lucius Malefoy négociait
 autour de verres d’un vieux Whiskey Pur Feu. J’ai soupiré, perdu tout
 espoir quant à l’humanité et aux sorciers, et j’ai placé David Monroe
 face à ce terrible Voldemort. »
@@ -1192,7 +1192,7 @@ Légilimancie, j’ai plongé mes doigts dans la fosse sceptique de sa
 stupidité et j’ai *arraché* la vérité de son esprit. Je ne comprenais
 pas, et je *voulais comprendre*. Grâce à ma maîtrise de la Légilimancie,
 j’ai forcé son petit cerveau d’employé à vivre d’autres possibilités, et
-j’ai vu ce qu’il aurait pensé si Lucius Malfoy, Lord Voldemort ou
+j’ai vu ce qu’il aurait pensé si Lucius Malefoy, Lord Voldemort ou
 Dumbledore, avaient été devant lui. » Les mains du professeur Quirrell
 s’étaient ralenties, il pelait délicatement de petits bouts de cire de
 bougie. « Ce que j’ai enfin compris est complexe, petit, et c’est pour
@@ -1201,7 +1201,7 @@ décrire. Aujourd’hui, je sais que Dumbledore n’est pas le roi du monde,
 bien qu’il soit le Manitou Suprême de la confédération internationale.
 Les gens disent ouvertement du mal de lui, ils le critiquent avec
 suffisance, face à lui, comme ils n’oseraient jamais le faire face à
-Lucius Malfoy. *Tu* as manqué de respect à Dumbledore, petit, mais
+Lucius Malefoy. *Tu* as manqué de respect à Dumbledore, petit, mais
 sais-tu pourquoi ? »
 
 « Je… je n’en suis pas sûr, » dit Harry. L’hypothèse évidente était : j’ai
@@ -1209,10 +1209,10 @@ des restes de motifs neuronaux de Tom Jedusor.
 
 « Les loups, les chiens, même les poulets se battent pour être dominants.
 Ce que j’ai enfin compris, dans l’esprit de cet employé, c’est que pour
-lui, Lucius Malfoy était un dominant, tout comme Lord Voldemort, mais
+lui, Lucius Malefoy était un dominant, tout comme Lord Voldemort, mais
 que David Monroe et Albus Dumbledore ne l’étaient pas. En choisissant le
 camp du bien, en déclarant son soutien à la lumière, nous nous étions
-rendus *inoffensifs*. En Angleterre, Lucius Malfoy est un dominant car
+rendus *inoffensifs*. En Angleterre, Lucius Malefoy est un dominant car
 il est créancier, car il peut envoyer des employés faire fermer de
 petits commerces, car si jamais on s’oppose à lui, il peut crucifier qui
 bon lui chante dans la *Gazette du Sorcier*. Mais le sorcier le plus

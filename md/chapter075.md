@@ -59,20 +59,20 @@ malins. »
 
 Cette affirmation produisit un moment de silence.
 
-« Malfoy ne devrait-il pas être ici ? » dit timidement Bole.
+« Malefoy ne devrait-il pas être ici ? » dit timidement Bole.
 
-Flint fit un geste dédaigneux de la main. « Quoi que Malfoy manigance, il
+Flint fit un geste dédaigneux de la main. « Quoi que Malefoy manigance, il
 veut avoir l’air innocent. Il ne peut pas se permettre de manquer à
 l’appel en même temps que nous. »
 
 « Mais tout le monde *sait* déjà ça, » dit Bole. « Même dans les autres
 maisons. »
 
-« Oui, très maladroit, » dit Belka. Elle grogna. « Malfoy ou pas, c’est
+« Oui, très maladroit, » dit Belka. Elle grogna. « Malefoy ou pas, c’est
 qu’un petit de première année et on a pas besoin de lui ici. »
 
 « J’enverrai une chouette à mon père, » dit Jugson d’une voix basse, « et
-*lui* parlera à Lord Malfoy en personne — » puis il s’arrêta de parler
+*lui* parlera à Lord Malefoy en personne — » puis il s’arrêta de parler
 abruptement.
 
 « Je ne sais pas pour *vous*, mes chéris, » dit Belka d’une voix

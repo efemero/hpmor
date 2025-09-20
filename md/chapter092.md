@@ -184,7 +184,7 @@ bureau. « Il n’y avait qu’aux inquiétudes de Mlle Granger qu’il se
 souciait de répondre… maintenant qu’elle est partie… il n’y a plus de
 limite à son inconscience. Je le comprends à présent. Qui d’autre est
 là ? M. Londubat ? M. Potter ne prétend pas qu’ils sont égaux.
-Flitwick ? Son sang de gobelin ne crierait que vengeance. M. Malfoy,
+Flitwick ? Son sang de gobelin ne crierait que vengeance. M. Malefoy,
 s’il revenait ? Dans quel but ? Rogue ? Un désastre ambulant.
 Dumbledore ? Bah. Les événements sont déjà en place pour une
 catastrophe, ils faut les manœuvrer vers une voie qu’ils ne prendraient

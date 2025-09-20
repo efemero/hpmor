@@ -121,7 +121,7 @@ Et puis il y avait cette promesse que Harry avait faite.
 
 Drago aiderait Harry à réformer Serpentard. Et Harry se ferait ennemi de
 celui ou celle qui, selon le jugement de Harry en sa capacité de
-rationaliste, avait tué Narcissa Malfoy. Si jamais elle s’était salie
+rationaliste, avait tué Narcissa Malefoy. Si jamais elle s’était salie
 les mains, si elle avait vraiment été brûlée vive, si le tueur n’avait
 pas été dupé – c’étaient là toutes les conditions que Harry se souvenait
 avoir posées. Il aurait probablement dû les écrire, ou encore mieux, ne
@@ -223,7 +223,7 @@ mal agi.
 C’était la guerre, dans le monde réel. En termes de dégâts totaux et de
 degré d’innocence des victimes, les actes de Haukelid avaient été
 considérablement *pires* que les agissements potentiels de Dumbledore
-envers Narcissa Malfoy ou que ce que Dumbledore avait peut-être fait
+envers Narcissa Malefoy ou que ce que Dumbledore avait peut-être fait
 afin que Voldemort ait vent de la prophétie et attaque les parents de
 Harry.
 

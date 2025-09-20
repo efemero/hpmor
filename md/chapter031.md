@@ -53,7 +53,7 @@ professeur Quirrell.
 
 
 
-Dans sa chambre individuelle de Serpentard, Drago Malfoy fixait le vide
+Dans sa chambre individuelle de Serpentard, Drago Malefoy fixait le vide
 comme si le mur devant son bureau avait été la chose la plus fascinante
 du monde.
 
@@ -114,25 +114,25 @@ Le soleil de l’après-midi se déversait dans le bureau du régiment du
 Soleil, illuminant le général Granger, assise dans sa chaise, nimbée
 d’une aura d’or.
 
-« Dans combien de temps pensez-vous que Malfoy comprendra ? » dit le
+« Dans combien de temps pensez-vous que Malefoy comprendra ? » dit le
 général Granger.
 
 « Pas longtemps, » dit le colonel Blaise Zabini. « Peut-être l’a-t-il déjà
 compris. Combien de temps avant que Potter ne comprenne ? »
 
-« L’éternité, » dit le général Granger, « à moins que Malfoy ne le lui dise
+« L’éternité, » dit le général Granger, « à moins que Malefoy ne le lui dise
 ou que l’un de ses soldats ne comprenne. Harry Potter ne pense tout
 simplement pas comme ça. »
 
 « Vraiment ? » dit le capitaine Ernie McMillan, relevant les yeux d’un
 coin de table où il se faisait écraser aux échecs par le capitaine Ron
 Weasley (ils avaient rapporté toutes les autres chaises après le départ
-de Malfoy, bien sûr). « Je veux dire, ça m’a l’air assez évident. Qui
+de Malefoy, bien sûr). « Je veux dire, ça m’a l’air assez évident. Qui
 essaierait d’avoir toutes les idées à lui seul ? »
 
-« Harry, » dit Hermione exactement au moment où Zabini dit « Malfoy. »
+« Harry, » dit Hermione exactement au moment où Zabini dit « Malefoy. »
 
-« Malfoy pense qu’il est meilleur que tout le monde, » dit Zabini.
+« Malefoy pense qu’il est meilleur que tout le monde, » dit Zabini.
 
 « Et Harry… ne *voit* pas vraiment les autres comme ça, » dit Hermione.
 
@@ -155,7 +155,7 @@ corps* ».
 
 Hermione se leva en s’étirant. « Je vais essayer de découvrir à quoi
 Harry Potter pense et le colonel Zabini va essayer de découvrir ce que
-Drago Malfoy risque de faire la prochaine fois, et après avoir découvert
+Drago Malefoy risque de faire la prochaine fois, et après avoir découvert
 quelque chose nous nous joindrons à vous. Je vais marcher tout en
 réfléchissant. Zabini, vous voulez m’accompagner ? »
 

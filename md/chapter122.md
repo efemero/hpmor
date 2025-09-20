@@ -948,7 +948,7 @@ gestes gracieux malgré le tremblement de ses doigts.
 
 « Voyons voir, quoi d’autre… le serment que tu as prêté à la maison
 Potter ne t’engageait que »jusqu’au jour de ta mort« , donc tu en es
-libérée. Et juste après ta mort, je me suis arrangé pour que les Malfoy
+libérée. Et juste après ta mort, je me suis arrangé pour que les Malefoy
 déclarent publiquement que tu étais innocente de tous les chefs
 d’accusations. »
 

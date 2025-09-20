@@ -464,7 +464,7 @@ juste que *les êtres humains sont limités.* »
 La voix du professeur de Défense monta encore d’un ton. « Si c’était vous
 qui aviez été tué par le troll, il ne serait même pas *venu à l’esprit*
 de Hermione Granger de faire pour vous ce que vous faites pour elle ! Ça
-ne viendrait ni à Drago Malfoy, ni à Neville Londubat non plus, ni à
+ne viendrait ni à Drago Malefoy, ni à Neville Londubat non plus, ni à
 McGonagall ni à aucun de vos précieux amis ! Il n’y a pas une seule
 personne au monde qui vous rendrait le soin que vous prenez d’eux !
 Alors *pourquoi* ? Pourquoi le faire, M. Potter ? » Il y avait un étrange
@@ -518,7 +518,7 @@ aiderai de mon mieux tant que je le pourrai. »
 
 « L’offre que je vous ai faite hier tient toujours. Interrogez-moi et je
 répondrai. Montrez-moi les livres scientifiques qui vous semblaient
-convenir à M. Malfoy, je les lirai et vous dirai ce qui me vient à
+convenir à M. Malefoy, je les lirai et vous dirai ce qui me vient à
 l’esprit. N’ayez pas l’air aussi surpris, M. Potter, je n’allais
 certainement pas vous laisser vous débrouiller tout seul. »
 

@@ -22,7 +22,7 @@ Drago essayait très fort de ne *pas* penser aux six étages de vide qui
 se trouvaient en dessous de lui, et de se concentrer plutôt sur la façon
 dont il allait tuer Harry Potter.
 
-« Vous savez, M. Malfoy, » dit la jeune fille à côté de lui, sur le ton de
+« Vous savez, M. Malefoy, » dit la jeune fille à côté de lui, sur le ton de
 la conversation, « si une voyante m’avait un jour dit que je me tiendrais
 à la paroi d’un château, retenue par le bout de mes doigts, en essayant
 de ne pas regarder en bas ni de penser à la force avec laquelle maman
@@ -313,7 +313,7 @@ Daphné, c’était une histoire déjà parfaite sans avoir besoin des
 « Le général Granger a levé les yeux vers lui, » dit Millicent d’une voix
 théâtrale, « et elle a dit :« Drago ! Tu dois me lâcher ! Ne t’en fais pas
 pour moi, je te promets que tout ira bien ! Et que pensez-vous que
-Malfoy a alors fait ? »
+Malefoy a alors fait ? »
 
 « Il a dit : »Jamais !« » cria Charlotte Wiland, « et il l’a tenue encore
 plus fort ! »
@@ -331,7 +331,7 @@ Il y eut une pause abasourdie.
 « C’est une *sang-de-bourbe*, » dit Pansy, l’air confuse. « Bien *sûr*
 qu’il l’a lâchée ! »
 
-« Eh bien, Malfoy n’aurait pas dû la rattraper en premier lieu alors ! »
+« Eh bien, Malefoy n’aurait pas dû la rattraper en premier lieu alors ! »
 dit Charlotte. « Mais une fois qu’il l’avait attrapée, il *devait* la
 tenir ! *Surtout* face à une fin certaine qui s’approchait ! » Tracey
 Davis, assise à côté de Daphné, approuvait énergiquement de la tête.
@@ -347,21 +347,21 @@ garçon qui laisserait tomber une fille comme ça… il laisserait tomber
 
 Daphné ne pouvait plus se retenir. « Tu sais, » dit Daphné d’un air
 sombre, « tu prends le petit déjeuner un jour à notre table, et voilà-t-y
-pas que Malfoy *te laisse tomber*, et tu tombes du sommet de Poudlard !
+pas que Malefoy *te laisse tomber*, et tu tombes du sommet de Poudlard !
 Voilà ce qu’elle veut dire ! »
 
 « Ouais ! » dit Charlotte. « C’est un tombeur de sorcière ! »
 
 « Vous savez pourquoi Atlantis est tombée ? » dit Tracey. « Pasque
-quelqu’un comme Malfoy l’a *laissée tomber*, voilà pourquoi ! »
+quelqu’un comme Malefoy l’a *laissée tomber*, voilà pourquoi ! »
 
-Daphné baissa la voix. « En fait… et si Malfoy était celui qui avait fait
+Daphné baissa la voix. « En fait… et si Malefoy était celui qui avait fait
 tomber Hermione, je veux dire le général Granger ? Et s’il s’est donné
 pour mission de faire tomber *tous* les nés-Moldus ? »
 
 « Tu veux dire — ? » s’étrangla Tracey.
 
-« C’est ça ! » dit Daphné d’un ton théâtral. « Et si Malfoy était -
+« C’est ça ! » dit Daphné d’un ton théâtral. « Et si Malefoy était -
 *l’héritier de Glisserpentard ?* »
 
 « Le prochain Tombeur des Ténèbres ! » dit Tracey.

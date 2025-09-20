@@ -24,7 +24,7 @@ On était dimanche, dimanche premier mars. Le professeur Quirrell avait
 suffisamment récupéré pour recommencer à superviser les batailles et ils
 devaient tous rattraper le retard.
 
-Drago Malfoy, le général Dragon, regarda les deux compas qu’il tenait,
+Drago Malefoy, le général Dragon, regarda les deux compas qu’il tenait,
 un dans chaque main. L’un avait la couleur du Soleil et l’autre avait un
 lustre iridescent et multicolore qui signifiait le Chaos. Drago savait
 que les deux autres généraux avaient chacun reçu leurs compas ; sauf
@@ -48,7 +48,7 @@ général Soleil et sa stupide fierté refusaient d’accepter une alliance
 contre le général Potter. Elle lui avait dit qu’elle voulait abattre
 Potter elle-même.
 
-La Noble et Très Ancienne maison Malfoy avait maintenu son influence sur
+La Noble et Très Ancienne maison Malefoy avait maintenu son influence sur
 l’Angleterre pendant des siècles en comprenant qu’on ne pouvait pas
 toujours être *le* plus fort. Parfois un autre seigneur était tout
 simplement plus puissant et il fallait se contenter de n’être *que* son
@@ -56,7 +56,7 @@ premier lieutenant. Il était possible d’accumuler *pas mal* d’influence,
 de richesses et de pouvoir au fil de douze générations passées à être
 commandants en second. Il fallait juste prendre à chaque fois garde de
 ne pas laisser sa maison se faire entraîner dans la chute du seigneur
-qu’elle servait. C’était là la tradition Malfoy, perfectionnée par des
+qu’elle servait. C’était là la tradition Malefoy, perfectionnée par des
 siècles de pratique.
 
 Et Père avait donc minutieusement expliqué à Drago que s’il rencontrait
@@ -180,7 +180,7 @@ froncements de sourcils similaires chez Anthony et Ron. Si Chaos et
 Dragon s’attaquaient directement et épuisaient leurs forces l’un contre
 l’autre, ce serait quasiment comme de concéder la bataille à Soleil…
 
-« Potter pense qu’on est alliés donc il attaque Malfoy maintenant avant
+« Potter pense qu’on est alliés donc il attaque Malefoy maintenant avant
 que Dragon ne puisse nous rejoindre, » dit Blaise Zabini depuis les rangs
 des soldats ordinaires. « Ou il pense qu’il peut battre les deux armées à
 la suite s’il les attaque séparément. » Le Serpentard eut un soupir
@@ -483,7 +483,7 @@ Theodore se relevait déjà du mieux qu’il pouvait, il n’y n’avait même
 pas le temps de penser en mots mais il parvint à dire « *Somnium !* » et
 *cette fois* il visa le visage de Theodore plutôt que sa poitrine.
 
-Theodore évita (il *évita !*) et hurla :« *Code sept sur Malfoy !* »
+Theodore évita (il *évita !*) et hurla :« *Code sept sur Malefoy !* »
 
 « *Prismatis !* » cria la voix de Padma et un arc-en-ciel chatoyant
 apparut soudain devant Drago au moment même où quatre voix chaotiques

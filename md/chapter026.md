@@ -151,14 +151,14 @@ souffrir. »
 Le feu dans les mains du professeur Quirrell s’éteignit, et il reposa
 l’encrier détruit sur le bureau avec précaution. « Vous avez des paroles
 des plus agréables, M. Potter. Avez-vous prit des leçons de flatterie ?
-Auprès de M. Malfoy peut-être ? »
+Auprès de M. Malefoy peut-être ? »
 
 Harry garda une expression neutre et se rendit compte une seconde trop
 tard qu’il aurait aussi bien pu signer sa confession. Le professeur
 Quirrell se fichait de votre expression, c’était l’état d’esprit la
 rendant probable qui lui importait.
 
-« Je vois, » dit le professeur Quirrell. « M. Malfoy est un ami utile à
+« Je vois, » dit le professeur Quirrell. « M. Malefoy est un ami utile à
 avoir, M. Potter, et il a beaucoup à vous apprendre, mais j’espère que
 vous n’avez pas fait l’erreur de lui témoigner votre confiance par de
 trop grandes confidences. »
@@ -722,7 +722,7 @@ chose de véritablement important.
 eut un grand sourire. « Vous avez bien œuvré aujourd’hui, M. Potter.
 L’idée de base était vôtre, j’en suis sûr, même si vous en avez délégué
 l’exécution. Je ne pense pas que nous entendrons beaucoup parler de Rita
-Skeeter après cela. Lucius Malfoy ne sera pas content de son échec. Si
+Skeeter après cela. Lucius Malefoy ne sera pas content de son échec. Si
 elle est intelligente, elle fuira le pays à l’instant où elle se rendra
 compte qu’elle a été dupée. »
 

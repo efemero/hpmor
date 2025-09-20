@@ -82,7 +82,7 @@ Un léger ricanement teinté d’une nuance acérée parcourut la foule.
 « J’imagine que vous vous demandez tous ce que je vais faire ? » dit le
 professeur Quirrell. « Il n’y a rien d’autre à faire que ce qui est
 juste. Mais avant il y a un petit discours que je voudrais prononcer, et
-encore avant, il semble que M. Malfoy et Mlle Granger veuillent vous
+encore avant, il semble que M. Malefoy et Mlle Granger veuillent vous
 faire part quelque chose. »
 
 Drago cligna des yeux, puis lui et Granger échangèrent des regards
@@ -106,7 +106,7 @@ pensé avant tous les autres généraux. »
 
 Cela mit un moment à être bien compris -
 
-« À l’avenir, M. Malfoy, Mlle Granger, avant de venir à mon bureau
+« À l’avenir, M. Malefoy, Mlle Granger, avant de venir à mon bureau
 chargés d’une demande, demandez-vous s’il existe un moyen pour vous
 d’accomplir votre but sans mon aide. Je ne déduirai pas de points
 Quirrell en cette occasion, mais attendez-vous à en perdre cinquante la
@@ -138,10 +138,10 @@ d’imposer votre volonté ; et parfois il faut vraiment vaincre l’ennemi
 pour pouvoir lui imposer sa volonté. Voyez-vous, je suis sceptique à
 l’idée que Hermione Granger, la plus grande star de Poudlard dans le
 domaine scolaire, et Drago, fils de Lucius, scion de l’Ancienne et Noble
-maison Malfoy, puissent travailler ensemble pour vaincre leur ennemi
+maison Malefoy, puissent travailler ensemble pour vaincre leur ennemi
 commun, Harry Potter. » Un sourire amusé passa sur le visage de Harry
 Potter. « Peut-être que je ferai juste ce que Drago a essayé de faire
-avec Zabini et que j’écrirai une lettre à Lucius Malfoy pour voir ce
+avec Zabini et que j’écrirai une lettre à Lucius Malefoy pour voir ce
 qu’*il* pense de ça. »
 
 « *Harry* * !* » s’étrangla Hermione, l’air absolument atterrée, et il y
@@ -153,7 +153,7 @@ simplement *fait*, cela aurait pu fonctionner, même Drago n’y avait pas
 pensé, mais *maintenant*, si Père obtempérait, il aurait l’air de jouer
 le jeu de Harry -
 
-« Si vous pensez que mon père Lord Malfoy peut-être manipulé par *vous*
+« Si vous pensez que mon père Lord Malefoy peut-être manipulé par *vous*
 si facilement, » dit Drago avec froideur, « attendez-vous à être surpris,
 Harry Potter. »
 
@@ -169,7 +169,7 @@ l’air toujours amusé. « Je ne peux pas gagner contre vos deux armées -
 pas si vous travaillez *vraiment* ensemble. Mais je me demande si je
 pourrais peut-être vous séparer avant cela. »
 
-« Tu n’y arriveras pas, et nous *t’écraserons* ! » dit Drago Malfoy.
+« Tu n’y arriveras pas, et nous *t’écraserons* ! » dit Drago Malefoy.
 
 Et, à côté de lui, Hermione hocha vigoureusement la tête.
 
@@ -286,18 +286,18 @@ cinquantaine qui souhaitait prendre ce pays vivant ! À quelle vitesse se
 seraient-ils fait écraser par un ennemi plus nombreux qu’eux, par un
 ennemi qui ne se serait soucié de rien d’autre que de leur destruction ?
 Cela, je le prédis : lorsque la prochaine menace s’élèvera, Lucius
-Malfoy déclarera que vous devez le suivre ou périr, que votre seul
+Malefoy déclarera que vous devez le suivre ou périr, que votre seul
 espoir est de croire en sa cruauté et en sa force. Et même si Lucius
-Malfoy lui-même le croira, ce sera un mensonge. Car lorsque le Seigneur
-des Ténèbres a péri, Lucius Malfoy n’a pas uni les Mangemorts, ils ont
+Malefoy lui-même le croira, ce sera un mensonge. Car lorsque le Seigneur
+des Ténèbres a péri, Lucius Malefoy n’a pas uni les Mangemorts, ils ont
 été détruit en un instant, ils ont fui comme des chiens battus et ils se
 sont trahis les uns les autres ! Lucius n’est pas assez fort pour être
 un vrai Seigneur, des Ténèbres ou pas. »
 
-Les poings de Drago Malfoy étaient blancs, il y avait des larmes dans
+Les poings de Drago Malefoy étaient blancs, il y avait des larmes dans
 ses yeux, et de la furie, et une honte insupportable.
 
-« Non, » dit le professeur Quirrell. « Je ne pense pas que Lucius Malfoy
+« Non, » dit le professeur Quirrell. « Je ne pense pas que Lucius Malefoy
 sera celui qui vous sauvera. Et si vous pensez que je parle en mon
 propre nom, le temps montrera assez tôt que ce n’est pas le cas. Je ne
 vous fais aucune recommandation, mes étudiants. Mais je dis que si tout
@@ -401,12 +401,12 @@ propres pouvoirs de sorciers.*
 Mais s’il refuse ? Et s’il est trop faible ?
 
 *Alors*, dit cette voix intérieure, *ce devra être toi, n’est-ce pas,
-Drago Malfoy ?*
+Drago Malefoy ?*
 
 Et il y eut un nouveau silence dans la foule lorsque le professeur
 Quirrell ouvrit la première enveloppe.
 
-« M. Malfoy, » dit le professeur Quirrell, « votre vœu est que… Serpentard
+« M. Malefoy, » dit le professeur Quirrell, « votre vœu est que… Serpentard
 gagne la coupe des Maisons. »
 
 Il y eut un moment d’arrêt interloqué venant de l’audience attentive.
@@ -418,21 +418,21 @@ Serpentard — »
 « Je n’accorderai pas de points injustement, » dit le professeur Quirrell.
 Il se tapota une joue, l’air pensif. « Ce qui rend votre vœu assez
 difficile pour être intéressant. Voudriez-vous dire quelques mots quant
-à vos raisons, M. Malfoy ? »
+à vos raisons, M. Malefoy ? »
 
 Drago se tourna vers le professeur de Défense, parcourut la foule du
 regard depuis la scène de platine et d’émeraudes. Tout Serpentard
 n’avait pas acclamé l’armée Dragon, il y avait même des factions
-anti-Malfoy qui avaient exprimées leur insatisfaction en soutenant le
+anti-Malefoy qui avaient exprimées leur insatisfaction en soutenant le
 Survivant ou même Granger ; et ces factions seraient grandement
 encouragées par ce que Zabini avait fait. Il fallait qu’il leur rappelle
-que Serpentard voulait dire Malfoy et que Malfoy voulait dire Serpentard
+que Serpentard voulait dire Malefoy et que Malefoy voulait dire Serpentard
 -
 
 « Non, » dit Drago. « Ce sont des Serpentard, ils comprendront. »
 
 Il y eut des rires venant de l’audience, en particulier chez les
-Serpentard, même chez certains élèves qui se seraient dit anti-Malfoy un
+Serpentard, même chez certains élèves qui se seraient dit anti-Malefoy un
 moment plus tôt.
 
 La flatterie était une chose bien délicieuse.

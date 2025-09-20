@@ -35,7 +35,7 @@ même pas *mourir* sans réponses, sans que tout ait été réglé. Une
 histoire devait se conclure sur une réponse, pas sur des notes d’examen,
 et certainement pas sur une mort…
 
-Mais à moins de croire à la dernière théorie de Drago Malfoy, selon qui
+Mais à moins de croire à la dernière théorie de Drago Malefoy, selon qui
 le professeur Chourave avait mis plus de temps à rendre leurs copies aux
 élèves peu de temps avant que Hermione ne soit accusée de tentative de
 meurtre et avait donc forcément passé son temps à mettre en place le
@@ -343,13 +343,13 @@ futur n’agissait pas comme un *idiot*.
 Harry déroula le parchemin une fois de plus et le lut à nouveau.
 
 À y regarder de plus près… l’énigmatique parchemin ne disait pas que
-Harry ne pouvait emmener *personne* avec lui. Drago Malfoy… est-ce qu’il
+Harry ne pouvait emmener *personne* avec lui. Drago Malefoy… est-ce qu’il
 était absent parce que le futur Harry, plusieurs heures dans le passé,
 avait emmené Drago avec lui pour le soutenir ? Mais ça n’avait aucun
 sens, emmener un autre élève de première année n’augmentait la sécurité
 que de façon marginale…
 
-…Drago Malfoy qui aurait certainement dû être présent ici, quoi qu’il
+…Drago Malefoy qui aurait certainement dû être présent ici, quoi qu’il
 pense du Quidditch, pour regarder Serpentard se saisir de la coupe des
 Maisons. Est-ce que quelque chose lui était arrivé ?
 
@@ -633,10 +633,10 @@ potions d’un ton doucereux. « Maintenant, expliquez-vous. »
 de dire au professeur Rogue que Harry Potter a autorisé cette mission ?
 C’est votre idée d’un bluff ? » La jeune Poufsouffle se retourna vers le
 professeur Rogue. Sa voix était étrangement ferme : « Monsieur, Drago
-Malfoy a disparu et nous pensons qu’il est venu ici. C’est la vérité, et
+Malefoy a disparu et nous pensons qu’il est venu ici. C’est la vérité, et
 le temps presse… »
 
-« Si M. Malfoy a disparu, » dit le professeur Rogue, « *pourquoi les Aurors
+« Si M. Malefoy a disparu, » dit le professeur Rogue, « *pourquoi les Aurors
 n’en ont-ils pas été informés ?* »
 
 « Pour certaines… pour certaines *raisons* ! » s’écria Daphné Greengrass.
@@ -644,10 +644,10 @@ n’en ont-ils pas été informés ?* »
 
 Le ton du professeur Rogue était plus sardonique que jamais. « Vous
 seriez-vous mis en tête que vous êtes en pleine aventure, bande
-d’idiots ? Détrompez-vous. Je vous assure que M. Malfoy n’a pas franchi
+d’idiots ? Détrompez-vous. Je vous assure que M. Malefoy n’a pas franchi
 cette porte. »
 
-« Nous pensons que M. Malfoy a une cape d’invisibilité, » répondit
+« Nous pensons que M. Malefoy a une cape d’invisibilité, » répondit
 vivement Susan Bones. « Vous rappelez-vous avoir vu la porte s’ouvrir,
 sans raison apparente ? »
 
@@ -677,7 +677,7 @@ que Rogue faisait de sa main gauche avant d’entendre de soudains éclats
 de voix.
 
 « À vrai dire non, » dit le professeur Rogue, sa main gauche maintenant
-serrée autour du col de Drago Malfoy. Hormis sa tête, le reste du corps
+serrée autour du col de Drago Malefoy. Hormis sa tête, le reste du corps
 de ce dernier était toujours masqué par une cape d’invisibilité. « Bien
 essayé, toutefois. »
 
@@ -686,18 +686,18 @@ essayé, toutefois. »
 Susan Bones se frappa le front. « J’arrive pas à croire que je me suis
 fait avoir par ça… »
 
-« Donc, M. Malfoy, » continua le professeur Rogue. Sa voix avait baissé
+« Donc, M. Malefoy, » continua le professeur Rogue. Sa voix avait baissé
 d’un ton. « Vous envoyez vos amis ici pour me rouler… dans le seul espoir
 de franchir cette porte ? Pourquoi feriez-vous une chose pareille ? »
 
 « Je pense qu’on peut lui faire confiance… » dit Theodore Nott. « M.
-Malfoy, on *doit* lui faire confiance, c’est le seul professeur qui
+Malefoy, on *doit* lui faire confiance, c’est le seul professeur qui
 prendra notre parti ! »
 
-« Non ! » s’écria la tête en lévitation de Drago Malfoy, une main toujours
+« Non ! » s’écria la tête en lévitation de Drago Malefoy, une main toujours
 accrochée à son col. « Ne dites rien ! Taisez-vous ! »
 
-« On doit tenter le coup ! » cria Theodore. « Professeur Rogue, M. Malfoy a
+« On doit tenter le coup ! » cria Theodore. « Professeur Rogue, M. Malefoy a
 fini par comprendre ce qui s’est passé cette année, et pourquoi…
 pourquoi Dumbledore essaie d’empêcher Nicholas Flamel de remettre les
 mains sur la Pierre Philosophale ! C’est parce qu’il pense que personne
@@ -726,10 +726,10 @@ dernière. « Je ne suis pas avec eux. Je les ai juste accompagnés pour
 leur éviter de faire quelque chose d’encore plus stupide. »
 
 Severus Rogue regardait Theodore Nott et les autres. Puis il se retourna
-vers Drago Malfoy. « M. Malfoy, » dit-il d’une voix traînante. « Comment
+vers Drago Malefoy. « M. Malefoy, » dit-il d’une voix traînante. « Comment
 avez-vous découvert le plan de Dumbledore ? »
 
-« Je l’ai déduit à partir d’indices ! » dit la tête de Drago Malfoy.
+« Je l’ai déduit à partir d’indices ! » dit la tête de Drago Malefoy.
 
 Celle du professeur Rogue pivota vivement vers Theodore Nott. « Comment
 comptiez-vous récupérer la pierre cachée dans un miroir censé mettre
@@ -774,20 +774,20 @@ La personne qui ressemblait à Susan Bones semblait avoir envie de se
 taper la tête contre les murs. « Oui, Mlle Greengrass, il y a une
 véritable Susan Bones. Elle ne m’envoie que quand *vous* êtes sur le
 point de vous mettre dans de beaux draps. Professeur Rogue, je suis ici
-parce que Drago Malfoy avait disparu, et que ceux-là ont *soutenu* qu’il
+parce que Drago Malefoy avait disparu, et que ceux-là ont *soutenu* qu’il
 fallait aller le chercher plutôt que d’alerter les Aurors. Mlle Bones
 m’a dit qu’elle n’avait pas le temps de m’expliquer ses raisons, et je
 me rends compte maintenant que c’était stupide. Mais de jeunes élèves ne
 doivent pas s’aventurer seuls dans les couloirs et doivent être en
 permanence accompagnés d’un étudiant en sixième ou septième année. Et
-maintenant, on a Drago Malfoy et on peut tous rentrer. S’il vous plaît ?
+maintenant, on a Drago Malefoy et on peut tous rentrer. S’il vous plaît ?
 Avant que ça ne devienne encore plus ridicule ? »
 
 « *Par Merlin, qu’est-ce qui se passe ici ?* »
 
 « Ah, » dit le professeur Rogue, qui pointait toujours sa baguette vers
 une Susan Bones aux cheveux rouges et dont l’autre main tenait toujours
-le col de la tête sans corps de Drago Malfoy, et dont les pieds étaient
+le col de la tête sans corps de Drago Malefoy, et dont les pieds étaient
 à quelques centimètres du corps affalé du professeur de Défense.
 « Professeur Chourave, n’est-ce pas. »
 
@@ -810,7 +810,7 @@ Harry espérait vraiment ne pas être remonté dans le temps pour faire
 tout ça… parce que c’était exactement le genre de chose qu’il aurait pu
 faire.
 
-Severus Rogue abaissa sa baguette. Son autre main relâcha Drago Malfoy.
+Severus Rogue abaissa sa baguette. Son autre main relâcha Drago Malefoy.
 « Professeur Chourave, » dit le maître des potions, « je suis ici sur ordre
 du directeur afin de garder cette porte. Toutes les autres personnes
 présentes ici ne devraient *pas* l’être, et je vous prie de les faire
@@ -878,7 +878,7 @@ laissa immobile au sol.
 Une Susan Bones aux cheveux roses était déjà enveloppée d’un halo bleu à
 facettes, et elle tira sort après sort vers le professeur Chourave.
 Celle-ci les ignora et invoqua des pousses qui enserrèrent les plus
-jeunes élèves qui essayaient de s’enfuir ; sauf Drago Malfoy, qui avait
+jeunes élèves qui essayaient de s’enfuir ; sauf Drago Malefoy, qui avait
 une fois de plus disparu sous sa cape d’invisibilité.
 
 Celle qui n’était pas Susan Bones cessa d’envoyer des sortilèges. Elle
@@ -936,11 +936,11 @@ Il n’y eut pas de réponse. Les victimes prises dans les tiges du
 professeur Chourave semblaient immobiles, mais elles paraissaient
 respirer.
 
-« Malfoy… » dit une fausse Susan aux cheveux roses, toujours haletante.
-« Drago Malfoy, où es-tu ? Est-ce que tu es là ? Appelle vite les
+« Malefoy… » dit une fausse Susan aux cheveux roses, toujours haletante.
+« Drago Malefoy, où es-tu ? Est-ce que tu es là ? Appelle vite les
 Aurors ! Bordel de Merlin — *Hominum Revelio !* »
 
-Et Harry fut de nouveau visible, et vit dans son miroir un Drago Malfoy
+Et Harry fut de nouveau visible, et vit dans son miroir un Drago Malefoy
 à moitié visible derrière une cape miroitante, debout derrière
 pas-Susan, sa baguette pointée droit vers un trou dans le halo bleu de
 cette dernière.
@@ -1221,11 +1221,11 @@ bourse de Harry. Tu préfères falsifier l’écriture de Harry sur un
 parchemin de sorcier. Tu peux la falsifier parce que tu l’as vue sur des
 examens du ministère que tu as toi-même corrigés.
 
-Tu appelles Drago Malfoy « la constellation » parce que tu sais que Harry
+Tu appelles Drago Malefoy « la constellation » parce que tu sais que Harry
 Potter s’intéresse à l’astronomie, que tu es un sorcier, que tu as suivi
 des cours d’astronomie et que tu as mémorisé les noms des
 constellations. Mais ce n’est pas le code que Harry Potter aurait
-instinctivement utilisé pour parler de Drago Malfoy à lui-même. Il
+instinctivement utilisé pour parler de Drago Malefoy à lui-même. Il
 aurait dit « l’apprenti ».
 
 Tu appelles le professeur Quirrell « celui qui contemple les étoiles » et

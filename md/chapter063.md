@@ -167,7 +167,7 @@ Ses dettes attendraient un jour de plus.
 
 
 
-*Après-coup*, *Drago Malfoy* :
+*Après-coup*, *Drago Malefoy* :
 
 Drago remit ses robes en place et s’assura que la bordure verte était
 bien droite. Il agita sa baguette au-dessus de sa tête et prononça un
@@ -182,7 +182,7 @@ utilisé *Incendio* et *Everto* sur le message mystérieux.
 Puis il se rendit au petit déjeuner dans l’intention de s’asseoir s’il y
 parvenait à la seconde exacte où la nourriture apparaîtrait afin de
 donner l’impression que les autres avaient attendu qu’il apparaisse
-avant de manger. Pourquoi ? Parce que si vous étiez le descendant Malfoy
+avant de manger. Pourquoi ? Parce que si vous étiez le descendant Malefoy
 vous étiez premier en tout, même au petit déjeuner, voilà pourquoi.
 
 Vincent et Grégory l’attendaient à l’extérieur de sa chambre privée,
@@ -241,7 +241,7 @@ cela impliquait et son esprit tournait à plein régime. « Professeur, que
 devrais-je faire — Père ne m’a pas donné d’instructions — »
 
 « Alors je *suggère*, » dit Rogue avec dédain tout en continuant de
-s’éloigner d’un pas vif, « que vous *disiez* cela, Malfoy, comme votre
+s’éloigner d’un pas vif, « que vous *disiez* cela, Malefoy, comme votre
 père s’y attend ! »
 
 Drago se retourna et jeta un coup d’œil à Vincent et Grégory tout en se
@@ -287,7 +287,7 @@ Il ne leva pas les yeux. Gregory et Vincent auraient ses arrières.
 
 « Je t’aurais cru heureux — »
 
-« — d’entendre qu’un Mangemort a été libéré, Malfoy ! »
+« — d’entendre qu’un Mangemort a été libéré, Malefoy ! »
 
 Amycus Carrow avait toujours une de ces *autres* personnes à problèmes,
 et Père avait un jour dit à Drago de se débrouiller pour ne jamais être
@@ -305,7 +305,7 @@ chaussures déguerpir avec rage jusqu’à l’autre bout de la table
 Serpentard.
 
 Quelques minutes plus tard, Millicent Bulstrode courut jusqu’à eux et
-dit, visiblement essoufflé : « M. Malfoy, vous avez entendu ? »
+dit, visiblement essoufflé : « M. Malefoy, vous avez entendu ? »
 
 « Au sujet de Bellatrix Black ? » dit Drago. « Ouais — »
 

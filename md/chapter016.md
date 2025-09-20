@@ -612,14 +612,14 @@ Granger n’est pas l’élève la plus dangereuse de la salle. Qui ici pense
 Sans même y penser, les yeux de Harry se tournèrent vers le contingent
 de Serpentard.
 
-« Drago, de la Noble et Ancienne Maison Malfoy, » dit le professeur
+« Drago, de la Noble et Ancienne Maison Malefoy, » dit le professeur
 Quirrell. « Il semble que nombreux sont ceux qui regardent dans votre
 direction. Merci de vous avancer. »
 
 Drago s’exécuta, et son port comportait un certain orgueil. Il alla
 jusqu’à l’estrade et regarda le professeur Quirrell en souriant.
 
-« M. Malfoy, » dit le professeur Quirrell. « Feu. »
+« M. Malefoy, » dit le professeur Quirrell. « Feu. »
 
 Harry aurait essayé de l’en empêcher s’il en avait eu le temps, mais
 d’un mouvement gracieux Drago avait tournoyé vers les Serdaigle, avait
@@ -634,16 +634,16 @@ Il y eut une pause.
 Drago dit enfin : « Parce que c’était celle qui ressortait le plus. »
 
 Les lèvres du professeur Quirrell formèrent un fin sourire. « Et voilà la
-véritable raison pour laquelle Drago Malfoy est dangereux. Si il avait
+véritable raison pour laquelle Drago Malefoy est dangereux. Si il avait
 choisi n’importe qui d’autre, cette personne lui en aurait probablement
-voulu d’avoir été choisie, et M. Malfoy se serait probablement fait un
-ennemi. Et bien que M. Malfoy aurait pu donner une autre justification
+voulu d’avoir été choisie, et M. Malefoy se serait probablement fait un
+ennemi. Et bien que M. Malefoy aurait pu donner une autre justification
 expliquant pourquoi il l’a choisie elle, cela n’aurait servi à rien
 d’autre qu’à énerver certains d’entre vous, alors que d’autres
-l’acclament déjà qu’il dise quelque chose ou pas. En bref, M. Malfoy est
+l’acclament déjà qu’il dise quelque chose ou pas. En bref, M. Malefoy est
 dangereux parce qu’il sait qui frapper et qui ne pas frapper, comment se
 faire des alliés, et comment éviter de se faire des ennemis. Deux points
-Quirrell de plus pour vous, M. Malfoy. Et comme vous venez de démontrer
+Quirrell de plus pour vous, M. Malefoy. Et comme vous venez de démontrer
 une vertu Serpentard, je pense que la Maison de Salazar a elle aussi
 gagné un point. Vous pouvez rejoindre vos amis. »
 
@@ -653,7 +653,7 @@ le professeur Quirrell fit un geste cassant et le silence retomba.
 
 « Il semblerait que notre jeu soit fini, » dit le professeur Quirrell. « Et
 pourtant, il reste un étudiant dans cette salle qui est plus dangereux
-que le descendant de Malfoy. »
+que le descendant de Malefoy. »
 
 Et *maintenant*, pour une étrange raison, il semblait y avoir vraiment
 beaucoup de gens regardant en direction de…
@@ -755,7 +755,7 @@ d’elles. »
 utilisées pour faire suffoquer un ennemi une fois enroulées plusieurs
 fois autour de sa tête, ou les robes de Hermione Granger, qui peuvent
 être découpées en bandelettes attachées l’une à l’autre pour pendre
-quelqu’un, ou les robes de Drago Malfoy, qui peuvent être utilisées pour
+quelqu’un, ou les robes de Drago Malefoy, qui peuvent être utilisées pour
 allumer un feu — »
 
 « Trois points, » dit le professeur Quirrell, « plus de vêtements à
@@ -843,9 +843,9 @@ l’incommode afin d’atteindre son but : *tuer l’ennemi*. Pour lui, toute
 idée ne menant pas à cela ne méritait pas d’être prise en considération.
 Ceci reflète une qualité que nous pourrions nommer *intention de tuer*.
 Je l’ai. Harry Potter l’a, et c’est pour cela qu’il a pu regarder cinq
-Serpentard plus âgés droit dans les yeux. Drago Malfoy ne l’a pas, pas
-encore. M. Malfoy n’éviterait certainement pas de discuter de meurtre
-ordinaire, mais même lui a été choqué — oui, vous l’étiez M. Malfoy, je
+Serpentard plus âgés droit dans les yeux. Drago Malefoy ne l’a pas, pas
+encore. M. Malefoy n’éviterait certainement pas de discuter de meurtre
+ordinaire, mais même lui a été choqué — oui, vous l’étiez M. Malefoy, je
 regardais votre visage — lorsque M. Potter a décrit comment utiliser les
 corps de ses camarades comme de la matière première. Il y a des censeurs
 dans votre esprit qui vous font reculer face à de telles pensées. M.

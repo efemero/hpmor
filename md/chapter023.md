@@ -574,7 +574,7 @@ Harry. La main de Drago s’abaissa et ramassa son cartable sans que son
 bras ne vacille.
 
 La douleur était déjà visible sur le visage de Harry quand il parla.
-« Dois-je comprendre que les Malfoy sont au-dessus des lois sur la magie
+« Dois-je comprendre que les Malefoy sont au-dessus des lois sur la magie
 des mineurs ? Ce n’est pas parce que ton sang est plus fort. C’est parce
 que tu as déjà pratiqué. Au début, tu étais aussi faible que n’importe
 lequel d’entre nous. Ma prédiction est-elle fausse ? »
@@ -746,7 +746,7 @@ s’approcher du couloir interdit de Dumbledore. Mais un sort permettant
 d’ouvrir des verrous magiques semblait être de toute façon utile, alors
 Harry l’avait appris. Le couloir interdit de Dumbledore était-il censé
 attirer des gens assez stupides pour ne pas se rendre compte que la
-sécurité de celui-ci était pire que celle que Drago Malfoy aurait su
+sécurité de celui-ci était pire que celle que Drago Malefoy aurait su
 mettre en place ?
 
 La peur affluait à nouveau dans l’organisme de Harry. La note dans le

@@ -276,7 +276,7 @@ demanda Albus Dumbledore. « Voldemort m’a aussi envoyé ce souvenir ! �
 qui montait dans sa poitrine. « C’est *là* que… » les mots semblaient
 brûler sa gorge à mesure que le terrible savoir apparaissait en lui, la
 compréhension atroce. « C’est là que vous avez brûlée vive Narcissa
-Malfoy dans sa propre chambre. »
+Malefoy dans sa propre chambre. »
 
 Le regard d’Albus Dumbledore fut froid lorsqu’il répondit. « À cette
 question seul un idiot répondrait pas l’affirmative ou la négative. Ce
@@ -292,7 +292,7 @@ tels prix ! »
 
 « Et est-ce vrai ? » dit Harry. Il était saisi d’une sorte de
 bourdonnement, comme si son corps s’éloignait de plus en plus. « Ce que
-Drago a dit, que Narcissa Malfoy ne s’est jamais salie les mains,
+Drago a dit, que Narcissa Malefoy ne s’est jamais salie les mains,
 qu’elle n’était que la femme de Lucius ? C’était une acolyte, je
 comprends ça, mais je ne peux pas soutenir l’idée que cela mérite d’être
 *brûlé vif*. »

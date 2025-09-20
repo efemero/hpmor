@@ -429,7 +429,7 @@ sur deux chaises l’une en face de l’autre, séparées par un bureau.
 
 C’était le deuxième rassemblement de la Conspiration Bayésienne.
 
-Drago Malfoy n’avait pas su s’il devait l’attendre avec impatience.
+Drago Malefoy n’avait pas su s’il devait l’attendre avec impatience.
 
 Harry Potter, à en juger par l’expression de son visage, ne semblait pas
 avoir le moindre doute quant à l’humeur appropriée.
@@ -475,7 +475,7 @@ plus idiot de Serpentard pourra comprendre juste parce que sinon, tu
 aurais une mauvaise image. Même notre amitié ne vaut pas ça. La vie ne
 serait *plus amusante du tout*. Dis-moi que *tu* n’as jamais pensé ça de
 quelqu’un à Serpentard trop stupide pour respirer ; que c’est en-deçà de
-la dignité d’un Malfoy que de devoir les satisfaire. »
+la dignité d’un Malefoy que de devoir les satisfaire. »
 
 Drago n’y avait sincèrement pas pensé. Jamais. Satisfaire les idiots,
 c’était comme de respirer, vous le faisiez sans réfléchir.
@@ -726,7 +726,7 @@ Drago avait été forcé d’admettre que Harry marquait un point.
 
 D’où la méthode Harry Potter.
 
-« S’il vous plaît, Dr. Malfoy, » pleurnicha Harry Potter, « pourquoi
+« S’il vous plaît, Dr. Malefoy, » pleurnicha Harry Potter, « pourquoi
 n’acceptez-vous pas mon article ? »
 
 Harry Potter avait dû répéter la phrase « fais juste semblant de faire
@@ -739,12 +739,12 @@ s’essaierait à la Legilimancie à son encontre ne reviendrait
 probablement jamais.
 
 Harry Potter était alors entré dans des détails considérables : Drago
-devait faire semblant d’être Dr. Malfoy, un Mangemort faisant semblant
+devait faire semblant d’être Dr. Malefoy, un Mangemort faisant semblant
 d’être rédacteur en chef d’une revue scientifique qui voulait rejeter
 l’article de son ennemi le Dr. Potter, « De la transmission héréditaire
 des capacités magiques, » et si le Mangemort ne se comportait pas comme
 l’aurait fait un vrai scientifique, sa nature de Mangemort serait
-révélée et il serait exécuté ; en même temps, le Dr. Malfoy était aussi
+révélée et il serait exécuté ; en même temps, le Dr. Malefoy était aussi
 observé par ses propres rivaux et il devait *avoir l’air* de rejeter
 l’article du Dr. Potter pour des raisons scientifiquement neutres, ou
 alors il perdrait son poste de rédacteur en chef.
@@ -763,8 +763,8 @@ la mauvaise couleur, » dit Drago. « Suivant ! »
 
 Le visage du Dr. Potter se débrouilla très bien pour se décomposer sous
 l’effet du désespoir et Drago ne put s’empêcher de ressentir un éclair
-de la joie du Dr. Malfoy, même si le Mangemort faisait seulement
-semblant d’être le Dr. Malfoy.
+de la joie du Dr. Malefoy, même si le Mangemort faisait seulement
+semblant d’être le Dr. Malefoy.
 
 Cette partie était *drôle*. Il aurait pu continuer toute la journée.
 
@@ -773,7 +773,7 @@ traînant les pieds et devint Harry Potter, qui lui fit un signe
 d’encouragement, puis redevint le Dr. Potter, s’approchant avec un
 sourire enthousiaste.
 
-Le Dr. Potter s’assit et présenta une feuille de parchemin au Dr. Malfoy
+Le Dr. Potter s’assit et présenta une feuille de parchemin au Dr. Malefoy
 sur laquelle il était écrit :
 
 *De la transmission héréditaire des capacités magiques*
@@ -791,7 +791,7 @@ impressionnantes que celles que les sorciers faisaient il y a 800 ans.*
 *Le monde sorcier est devenu plus faible en mêlant son sang à celui des
 nés-Moldu et des Cracmols.*
 
-« Dr. Malfoy, » dit le Dr. Potter en le regardant avec espoir, « je me
+« Dr. Malefoy, » dit le Dr. Potter en le regardant avec espoir, « je me
 demandais si la *Revue des Résultats Impossibles à Reproduire* pourrait
 envisager la publication de mon article intitulé “De la transmission
 héréditaire des capacités magiques”. »
@@ -800,7 +800,7 @@ Drago regarda le parchemin, souriant pendant qu’il envisageait des
 motifs de refus possibles. S’il avait été un professeur, il aurait
 rejeté cet essai parce qu’il était trop court, donc…
 
-« C’est trop long, Dr. Potter, » dit le Dr. Malfoy.
+« C’est trop long, Dr. Potter, » dit le Dr. Malefoy.
 
 Pendant un instant on put voir une véritable incrédulité sur le visage
 du Dr. Potter.
@@ -821,8 +821,8 @@ rivaux scientifiques te regardent. »
 
 Le prochain article du Dr. Potter était parfait à tout point de vue, une
 merveille en son genre, mais il devait malheureusement être refusé parce
-que la revue du Dr. Malfoy avait un problème avec la lettre E. Le Dr.
-Potter offrit de réécrire l’article sans ces mots, et le Dr. Malfoy
+que la revue du Dr. Malefoy avait un problème avec la lettre E. Le Dr.
+Potter offrit de réécrire l’article sans ces mots, et le Dr. Malefoy
 expliqua qu’en fait c’était plus un problème de voyelles.
 
 L’article suivant fut refusé parce qu’on était mardi.
@@ -847,7 +847,7 @@ préparée exactement selon vos directives, afin que vous puissiez le
 publier rapidement. »
 
 Le Mangemort décida de pourchasser et de tuer le Dr. Potter quand sa
-mission serait terminée. Le Dr. Malfoy garda un sourire poli, puisque
+mission serait terminée. Le Dr. Malefoy garda un sourire poli, puisque
 ses rivaux le regardaient, et dit…
 
 (La pause continua tandis que le Dr. Potter le regardait avec
@@ -855,7 +855,7 @@ impatience.)
 
 … « Laissez-moi regarder ça, s’il vous plaît. »
 
-Le Dr. Malfoy prit le parchemin et le parcourut avec attention.
+Le Dr. Malefoy prit le parchemin et le parcourut avec attention.
 
 Le fait qu’il ne soit pas un vrai scientifique commençait à rendre le
 Mangemort nerveux, et Drago essayait de se rappeler comment parler comme
@@ -866,7 +866,7 @@ votre, euh, observation, à part celle-ci — »
 
 « Vraiment ? » l’interrompit le Dr. Potter. « Comme quoi exactement ? *Les
 elfes de maison volent notre magie* ? Mes données n’admettent qu’une
-seule conclusion possible, Dr. Malfoy. Il n’y *a* pas d’autres
+seule conclusion possible, Dr. Malefoy. Il n’y *a* pas d’autres
 hypothèses plausibles. »
 
 Drago essayait furieusement d’ordonner à son cerveau de penser à ce
@@ -876,12 +876,12 @@ sorcellerie, Drago ne s’était jamais embêté à vraiment poser cette
 question…
 
 « Si vous n’arrivez pas à imaginer une autre explication possible pour
-mes données, vous devrez publier mon article, *Dr. Malfoy*. »
+mes données, vous devrez publier mon article, *Dr. Malefoy*. »
 
 C’est le sourire railleur sur la visage du Dr. Potter qui fit tout
 basculer.
 
-« Ah ouais ? » lâcha le Dr. Malfoy. « Et comment savez-vous que la magie
+« Ah ouais ? » lâcha le Dr. Malefoy. « Et comment savez-vous que la magie
 elle-même n’est pas en train de disparaître ? »
 
 Le temps s’arrêta.
@@ -895,7 +895,7 @@ pas pensé à ça !* » dit Harry Potter. « Et j’aurais dû. La magie s
 
 Le ton alarmé de la voix de Harry Potter était contagieux. Sans même y
 penser, la main de Drago alla trouver sa baguette dans ses robes et la
-serra. Il avait pensé que la Maison des Malfoy était *en sécurité*, tant
+serra. Il avait pensé que la Maison des Malefoy était *en sécurité*, tant
 que vous épousiez des membres de familles capables de retracer leur
 lignée sur quatre générations, vous étiez censés être *en sécurité*, ça
 ne lui était jamais venu à l’esprit que personne ne pouvait rien faire
@@ -958,7 +958,7 @@ rien ne se produisait…
 
 Il n’y aurait plus de sorciers, plus de magie, jamais. Juste des Moldus
 avec quelques légendes de ce que leurs ancêtres avaient été capables de
-faire. Certains des Moldus s’appelleraient Malfoy, et c’est tout ce qui
+faire. Certains des Moldus s’appelleraient Malefoy, et c’est tout ce qui
 resterait du nom.
 
 Pour la première fois de sa vie, Drago comprit pourquoi les Mangemorts
@@ -1169,12 +1169,12 @@ connaissances scientifiques sur le sang, j’expliquerai plus tard.*
 « OK, » dit Harry, « on peut au moins essayer de déterminer la différence
 entre 1, 2 et 3, alors commençons tout de suite par ça, on pourra
 toujours trouver *d’autres* tests après avoir terminé ceux-ci. Cela dit,
-ça va avoir l’air un petit peu étrange si Drago Malfoy et Harry Potter
+ça va avoir l’air un petit peu étrange si Drago Malefoy et Harry Potter
 se promènent en posant plein de questions ensemble, alors voilà mon
 idée : tu traverses Poudlard et tu trouves des vieux portraits et tu les
 interroges sur les sorts qu’ils ont appris à jeter pendant leurs
 premières années. Ce sont des portraits, alors ils ne sauront pas que
-c’est étrange que Drago Malfoy pose une question comme ça.
+c’est étrange que Drago Malefoy pose une question comme ça.
 J’interrogerai des portraits récents et des vivants au sujet des sorts
 qu’on connaît mais qu’on ne peut pas jeter, personne ne trouvera ça
 inhabituel que Harry Potter pose des questions bizarres. Et je devrai

@@ -57,7 +57,7 @@ dit Drago d’un ton amusé.
 Harry avait lu un certain nombre de livres qu’il n’était pas censé lire,
 sans parler de quelques gros titres du *Chicaneur*.
 
-« Le Survivant fait tomber Drago Malfoy enceinte ? » dit Harry.
+« Le Survivant fait tomber Drago Malefoy enceinte ? » dit Harry.
 
 « D’accord, tu *sais* de quoi il est question, » dit Drago. « Je croyais
 que les Moldus détestaient ça ? »

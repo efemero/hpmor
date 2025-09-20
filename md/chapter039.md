@@ -7,7 +7,7 @@ Ce lundi, le professeur Flitwick avait sans mot dire passé un parchemin
 à Harry pendant le cours de sortilèges et enchantements, et la note
 disait que Harry devait rendre visite au directeur quand cela lui
 conviendrait mais en faisant en sorte que personne ne le remarque, en
-particulier Drago Malfoy et le professeur Quirrell. Son mot de passe à
+particulier Drago Malefoy et le professeur Quirrell. Son mot de passe à
 usage unique pour la gargouille serait « ossifrage chochotte ». La note
 avait été accompagnée d’un dessin à l’encre remarquablement bien réalisé
 qui représentait le professeur Flitwick le regardant d’un air sévère
@@ -28,7 +28,7 @@ et plus sobre qu’à l’ordinaire.
 « Merci d’être venu, Harry, » dit le directeur. Le vieux sorcier se leva
 de son trône et commença à lentement marcher à travers la pièce et entre
 les étranges appareils. « Tout d’abord, as-tu les notes de ta rencontre
-d’hier avec Lucius Malfoy ? »
+d’hier avec Lucius Malefoy ? »
 
 « Notes ? » laissa échapper Harry.
 
@@ -59,11 +59,11 @@ Le visage de Dumbledore était devenu de plus en plus lointain au fur et
 d’antique sur son visage, comme une gravité dans l’air.
 
 « Bien, » dit Dumbledore. « Je suggère alors que tu prennes grand soin de
-t’assurer qu’il n’arrive aucun malheur à l’héritier Malfoy. Et j’en
+t’assurer qu’il n’arrive aucun malheur à l’héritier Malefoy. Et j’en
 ferai de même. » Le directeur fronçait les sourcils, ses doigts battaient
 silencieusement sur la surface d’une plaque noire comme de l’encre où
 était inscrit le mot *Leliel*. « Et je pense qu’il serait extrêmement
-sage que tu évites dorénavant *toute* interaction avec Lord Malfoy. »
+sage que tu évites dorénavant *toute* interaction avec Lord Malefoy. »
 
 « *Avez-vous* intercepté ses chouettes qui m’étaient adressées ? » dit
 Harry.
@@ -75,7 +75,7 @@ Pour une raison qu’il ignorait, Harry ne se sentit pas aussi outragé
 qu’il aurait dû l’être. Peut-être était-ce simplement qu’il lui était
 très facile de comprendre le directeur à cet instant précis. Même Harry
 pouvait comprendre pourquoi Dumbledore ne voudrait pas le voir interagir
-avec Lucius Malfoy ; ça ne semblait pas être un acte *mauvais*.
+avec Lucius Malefoy ; ça ne semblait pas être un acte *mauvais*.
 
 Contrairement à son chantage contre Zabini… pour lequel il n’y avait que
 la parole de ce dernier, et il était extraordinairement indigne de
@@ -225,7 +225,7 @@ C’était la première fois que quiconque avait dit cela à Harry.
 bureau, froid et avec le plein contrôle de lui-même, alors qu’il faisait
 face au directeur de la maison Serpentard, faisant chanter son directeur
 pour protéger ses camarades de classe. Et je crois que ce jeune homme
-est plus rusé que le professeur Quirrell, plus rusé que Lucius Malfoy,
+est plus rusé que le professeur Quirrell, plus rusé que Lucius Malefoy,
 qu’il deviendra l’égal de Voldemort lui-même. C’est lui que je souhaite
 consulter. »
 
@@ -484,7 +484,7 @@ la gentillesse ? Que l’amitié ? Est-ce la science qui te donne ton
 affection pour Minerva McGonagall ? Est-ce la science qui fait que tu te
 soucies de Hermione Granger ? Est-ce vers la science que tu te tournes
 lorsque tu essaies de faire naître de la chaleur dans le cœur de Drago
-Malfoy ? »
+Malefoy ? »
 
 *Vous savez, ce qui est triste, c’est que vous pensez probablement avoir
 à l’instant proféré une sorte d’argument final incroyablement sage.*
@@ -874,7 +874,7 @@ qui se déversait dans son esprit, contre la condescendance de Dumbledore
 et contre tout le rire que les sages vieux idiots avaient toujours
 utilisé en lieu et place d’un argument. »C’est drôle, vous savez, je
 pensais que ce serait à ce point qu’il serait impossible de dialoguer
-avec Drago Malfoy, et au lieu de cela, dans son innocence enfantine, il
+avec Drago Malefoy, et au lieu de cela, dans son innocence enfantine, il
 a été cent fois plus fort que vous.« Un air d’incompréhension passa sur le visage du vieux sorcier. »Que
 veux-tu dire ?« »Je veux dire,« dit Harry, la voix mordante, »que Drago *prenait ses
 propres croyances au sérieux* et *considérait* mes mots au lieu de

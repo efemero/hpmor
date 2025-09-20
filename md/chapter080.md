@@ -57,7 +57,7 @@ fois, quelque part entre les siècles ; qu’elle se serait fourvoyée au
 moins une fois et ne serait jamais revenue. Mais elle ne l’a pas fait.
 Le Trait de Merlin continue, ininterrompu.
 
-(C’est du moins ce que disent ceux du camp de Dumbledore. Lord Malfoy
+(C’est du moins ce que disent ceux du camp de Dumbledore. Lord Malefoy
 vous dirait autre chose. Et en Asie ils racontent des histoires
 entièrement différentes qui ne contrediraient pas nécessairement celle
 d’Angleterre)
@@ -185,7 +185,7 @@ lieu de me laisser m’inquiéter…* »
 « *Je ne te ferais pas ça,* » dit le vieux sorcier comme imprégné d’une
 terrible lassitude alors qu’il se retournerait pour partir. « *Encore
 moins à Hermione. Mais je n’ai pas de lapins dans mon chapeau, Harry.
-Nous pouvons seulement voir ce que Lucius Malfoy désire.* »
+Nous pouvons seulement voir ce que Lucius Malefoy désire.* »
 
 Il y eu un petit coup sec, un unique son bref qui parvint pourtant à
 faire taire toute la chambre et à faire vivement pivoter la tête de
@@ -193,13 +193,13 @@ Harry vers le haut. Loin au-dessus, Dumbledore venait de frapper son
 podium du bâton sombre qu’il tenait dans sa main gauche.
 
 « La quatre-vingt dixième session du deux cent huitième Magenmagot se
-réunit à la demande de Lord Lucius Malfoy, » dit le sorcier d’une voix
+réunit à la demande de Lord Lucius Malefoy, » dit le sorcier d’une voix
 sans timbre.
 
 Loin du podium mais au milieu des cercles les plus élevés, un grand
 homme se dressa immédiatement, une longue crinière blanche répandue sur
 les épaules de ses robes couleur prune. « Je présente un témoin pour
-interrogatoire sous Veritaserum, » dit Lucius Malfoy d’un ton froid et
+interrogatoire sous Veritaserum, » dit Lucius Malefoy d’un ton froid et
 clair qui traversa la pièce, élégamment contrôlé, seulement doté d’une
 légère nuance de furie indignée. « Qu’on amène Hermione, la première
 Granger. »
@@ -349,7 +349,7 @@ silencieusement des mots que Harry ne pouvait comprendre de là où il se
 trouvait. Puis Hermione avala trois gouttes de Veritaserum et son visage
 devint flasque.
 
-« Gawain Robards, » dit la douce voix de Lucius Malfoy. « Votre probité est
+« Gawain Robards, » dit la douce voix de Lucius Malefoy. « Votre probité est
 connue de tous ici. Si vous pouviez me faire l’honneur ? »
 
 L’un des trois Aurors s’avança.
@@ -379,7 +379,7 @@ soient devenues froides et sombres, que la dernière lueur de l’univers
 se soit effondrée en cendres et soit devenue noire, l’interrogatoire de
 Hermione prit fin.
 
-« S’il plaît à mes Lords, » dit la voix de Lord Malfoy, « je souhaiterais
+« S’il plaît à mes Lords, » dit la voix de Lord Malefoy, « je souhaiterais
 voir lu à voix haute le témoignage de mon fils Drago obtenu sous deux
 gouttes de Veritaserum. »
 
@@ -392,10 +392,10 @@ venait de se faire écraser par une pierre si immense qu’elle ne pouvait
 plus ni pleurer ni respirer mais seulement avoir un petit hoquet triste.
 
 « Excusez-moi, » dit une sorcière depuis le côté de la pièce qui semblait
-appartenir au camp Malfoy. « Mais, Lord Malfoy, pourquoi votre fils
+appartenir au camp Malefoy. « Mais, Lord Malefoy, pourquoi votre fils
 *aiderait*-il une Sang-de-Bourbe ? »
 
-« Mon fils, » dit Lucius Malfoy d’une voix grave, « semble avoir prêté
+« Mon fils, » dit Lucius Malefoy d’une voix grave, « semble avoir prêté
 l’oreille à certaines idées erronées. Il est jeune – et il a appris, à
 présent, et tout le pays l’a appris, ce que de telles folies apportent
 en retour. »
@@ -407,7 +407,7 @@ d’une casquette de journaliste et d’un badge de la *Gazette du Sorcier*
 Les quelques personnes qui avaient hoché la tête plus tôt en écoutant
 Dumbledore semblaient maintenant assez malades. Une sorcière en robes
 couleur prune se leva d’un geste délibéré, quitta le côté qui avait
-semblé appartenir au camp de Dumbledore et alla jusqu’au camp Malfoy.
+semblé appartenir au camp de Dumbledore et alla jusqu’au camp Malefoy.
 
 L’Auror continua de lire d’une voix monotone.
 
@@ -477,7 +477,7 @@ que personne n’avait souffert de dommages durables. Et il le supplia de
 ne pas commettre pire que tout ce que qui avait été fait jusqu’à
 présent…
 
-« *Assez !* » mugit Lucius Malfoy, et un vote à main levée mit fin aux
+« *Assez !* » mugit Lucius Malefoy, et un vote à main levée mit fin aux
 délibérations. L’homme à la crinière blanche se tenait, grand et
 terrible, sa canne d’argent tenue en l’air comme un marteau sur le point
 de s’abattre. « Pour ce que cette femme folle a tenté de faire à mon fils
@@ -485,7 +485,7 @@ de s’abattre. « Pour ce que cette femme folle a tenté de faire à mon fils
 à la lignée d’une maison noble et Très Ancienne – je dis qu’elle devra… »
 
 « Azkaban ! » rugit un homme au visage balafré assis à la droite de Lord
-Malfoy. « Envoyez la Sang-de-Bourbe folle à Azkaban ! »
+Malefoy. « Envoyez la Sang-de-Bourbe folle à Azkaban ! »
 
 « Azkaban ! » s’écria une autre robe couleur prune, puis une autre, puis
 une autre…
@@ -493,10 +493,10 @@ une autre…
 Un clic du bâton de Dumbledore fit taire la pièce. « Ceci est déplacé, »
 dit le vieux sorcier avec sévérité. « Et votre proposition est barbare,
 indigne de cette assemblée. Il y a certaines choses que nous ne faisons
-pas. Lord Malfoy ? »
+pas. Lord Malefoy ? »
 
-Lucius Malfoy avait écouté d’un visage impassible. « Eh bien, » dit Lord
-Malfoy après quelques instants. Un éclat froid luit dans ses yeux. « Je
+Lucius Malefoy avait écouté d’un visage impassible. « Eh bien, » dit Lord
+Malefoy après quelques instants. Un éclat froid luit dans ses yeux. « Je
 n’avais pas prévu de demander cela. Mais si telle est la volonté du
 Magenmagot… Alors qu’elle paie ce que toute autre paierait à sa place.
 Que ce soit Azkaban. »
@@ -510,12 +510,12 @@ une telle chose n’a été faite en Angleterre ! »
 « Que les autres pays penseront-ils de nous ? » dit la voix sèche d’une
 femme que Harry reconnut être la grand-mère de Neville.
 
-« Garderez-*vous* Azkaban une fois qu’elle y sera, Lord Malfoy ? » dit une
+« Garderez-*vous* Azkaban une fois qu’elle y sera, Lord Malefoy ? » dit une
 vieille sorcière sévère que Harry ne connaissait pas. « Car je crains que
 mes Aurors ne déclinent de la garder si de jeunes enfants y sont tenus
 prisonniers. »
 
-« Ces délibérations ont pris fin, » dit froidement Lucius Malfoy. « Mais si
+« Ces délibérations ont pris fin, » dit froidement Lucius Malefoy. « Mais si
 vous êtes incapables de trouver des Aurors capables d’obéir au vote du
 Magenmagot, Mme Bones, vous pouvez renoncer à votre poste ; nous pouvons
 facilement en trouver un autre pour servir à votre place. La volonté de
@@ -531,12 +531,12 @@ Le grand homme aux longs cheveux blancs se détourna alors pour regarder
 le vieux sorcier qui se tenait sur son podium, et ils s’observèrent tous
 les deux pendant un long moment.
 
-Lorsque Lucius Malfoy parla de nouveau, sa voix semblait prise du plus
+Lorsque Lucius Malefoy parla de nouveau, sa voix semblait prise du plus
 léger des tremblements, comme si son sévère contrôle sur celle-ci
 commençait à flancher. « Le sang demande un prix, le sang de ma famille.
 Je ne vendrai la dette de sang due à mon fils à aucun prix. Vous ne
 pouvez comprendre cela, vous qui n’avez ni amour ni enfant. Cependant
-plus d’une dette est due à la maison Malfoy et je pense que mon fils,
+plus d’une dette est due à la maison Malefoy et je pense que mon fils,
 s’il se tenait parmi nous, préférerait voir payé le sang de sa mère
 plutôt que le sien. Confessez votre crime au Magenmagot comme vous me
 l’avez confessé et alors je… »
@@ -556,10 +556,10 @@ Le vieux sorcier parla.
 
 « Non, » dit Albus Dumbledore.
 
-« Et vous, Malfoy, » continua la vielle sorcière sévère, « j’imagine que
+« Et vous, Malefoy, » continua la vielle sorcière sévère, « j’imagine que
 tout ce que vous désiriez pendant ce temps était de ruiner… »
 
-« Loin de là, » dit Lucius Malfoy, et ses lèvres se tordirent alors en un
+« Loin de là, » dit Lucius Malefoy, et ses lèvres se tordirent alors en un
 sourire amer. « Non, je n’ai ici d’autre dessein que la vengeance de mon
 fils. Je souhaitais seulement montrer au Magenmagot la vérité derrière
 le prétendu héroïsme de ce vieil homme et son éloge de cette fille –
@@ -568,7 +568,7 @@ qu’il ne songerait jamais à se sacrifier pour la sauver. »
 « Une cruauté digne d’un Mangemort, en effet, » dit Augusta Londubat. « Non
 que j’implique quoi que ce soit, bien sûr. »
 
-« Cruauté ? » dit Lucius Malfoy, son sourire toujours amer. « Je ne pense
+« Cruauté ? » dit Lucius Malefoy, son sourire toujours amer. « Je ne pense
 pas. Je connaissais sa réponse à l’avance. Je vous ai toujours mis en
 garde : il ne fait que jouer son rôle. Si vous croyez à son hésitation,
 vous n’en êtes que plus trompée. Souvenez-vous que sa réponse est
@@ -601,7 +601,7 @@ d’une clarté absolue.
 
 Et une voix s’éleva dans la Très Ancienne Chambre du Magenmagot, des
 mots de la couleur de l’azote liquide, trop aiguë, car elle venait d’une
-gorge trop jeune, et cette voix dit : « *Lucius Malfoy*. »
+gorge trop jeune, et cette voix dit : « *Lucius Malefoy*. »
 
 
 
@@ -615,10 +615,10 @@ aiguë, elle avait peut-être manquée de force en regard des mots qui
 avaient été prononcés, et pourtant on ne se serait pas attendu à
 entendre cette voix émaner d’un enfant.
 
-Ce n’est que lorsque Lord Malfoy répondit que l’on comprit où l’on
+Ce n’est que lorsque Lord Malefoy répondit que l’on comprit où l’on
 devait regarder.
 
-« Harry Potter, » dit Lucius Malfoy. Il n’inclina pas la tête.
+« Harry Potter, » dit Lucius Malefoy. Il n’inclina pas la tête.
 
 Des têtes pivotèrent, des yeux bougèrent et l’on mit au point sur le
 jeune garçon aux cheveux en bataille qui se tenait à côté d’une vieille
@@ -634,14 +634,14 @@ Serpentard, un Serpentard intelligent. Vous savez que c’est un complot.
 Hermione Granger a été placée de force sur l’échiquier, par la main qui
 se cache derrière ce complot, quelle qu’elle soit. *Vous* deviez
 sûrement agir exactement comme vous le faites maintenant – sauf que
-Drago Malfoy devait être mort et vous deviez avoir perdu la raison. Mais
+Drago Malefoy devait être mort et vous deviez avoir perdu la raison. Mais
 il est vivant et vous êtes sain d’esprit. Pourquoi vous conformez-vous
 au rôle prévu pour vous, dans un complot destiné à prendre la vie de
 votre fils ? »
 
 Un orage semblait se déchaîner en Lucius, le visage sous les cheveux
 blancs menaçait de se craqueler, de s’ouvrir, de déverser quelque chose
-que nul n’aurait pu prévoir. Lord Malfoy sembla faillir parler une fois,
+que nul n’aurait pu prévoir. Lord Malefoy sembla faillir parler une fois,
 puis deux fois, puis il ravala trois phrases que nul n’entendit avant
 que ses lèvres ne s’ouvrent enfin. « Un complot, vous dites ? »
 articula-t-il enfin. Presque entièrement laissé à lui-même, son visage
@@ -651,7 +651,7 @@ articula-t-il enfin. Presque entièrement laissé à lui-même, son visage
 tous ceux qui ont un jour été camarades avec Hermione Granger vous
 diront que c’est une meurtrière des plus improbables. Elle aide bel et
 bien les Poufsouffle à faire leurs devoirs. Cet événement n’a pas eu
-lieu naturellement, Lord Malfoy. »
+lieu naturellement, Lord Malefoy. »
 
 « Complot… Ou pas… » la voix de Lucius tremblait. « Cette Sang-de-Bourbe a
 touché mon fils, et pour cela je l’anéantirai. Vous devriez fort bien le
@@ -662,7 +662,7 @@ Granger ait réellement lancé ce sortilège de refroidissement sanguin. Je
 ne connais pas les circonstances exactes ni les sortilèges mis en jeux,
 mais une simple tromperie n’aurait pas suffit à la pousser à le faire.
 Elle n’a pas agit de son propre chef et n’a peut-être pas agit du tout.
-Votre vengeance est délibérément détournée, Lord Malfoy. Ce n’est pas
+Votre vengeance est délibérément détournée, Lord Malefoy. Ce n’est pas
 une fille de douze ans qui mérite votre courroux. »
 
 « Et qu’avez-*vous* à faire de ce qui l’attend ? » la voix de Lucius
@@ -670,7 +670,7 @@ montait. « Qu’avez-*vous* à gagner ici ? »
 
 « Elle est mon amie, » dit le garçon, « tout comme Drago l’est. Il est
 possible que ce coup ait été dirigé vers moi, et pas du tout vers la
-maison Malfoy. »
+maison Malefoy. »
 
 Les muscles du visage de Lucius tressautèrent à nouveau. « Et maintenant
 vous me mentez – comme vous avez menti à mon fils ! »
@@ -678,13 +678,13 @@ vous me mentez – comme vous avez menti à mon fils ! »
 « Croyez-le ou non, » dit doucement le garçon, « je n’ai jamais désiré
 autre chose pour Drago sinon qu’il connaisse la vérité… »
 
-« *Assez !* » s’écria Lord Malfoy. « Assez de vos mensonges ! Assez de vos
+« *Assez !* » s’écria Lord Malefoy. « Assez de vos mensonges ! Assez de vos
 *jeux* ! Vous ne comprenez pas – vous ne comprendriez jamais – ce que
 cela signifie pour moi, qu’il soit mon fils ! On ne me privera pas de
 cette vengeance ! Pas encore ! Plus jamais ! Pour le sang qu’elle doit à
-la maison Malfoy, elle ira à Azkaban. Et si je trouve jamais une autre
+la maison Malefoy, elle ira à Azkaban. Et si je trouve jamais une autre
 main à l’œuvre – même si c’est la vôtre – cette main sera elle aussi
-tranchée ! » Lucius Malfoy éleva sa cane d’argent comme pour donner un
+tranchée ! » Lucius Malefoy éleva sa cane d’argent comme pour donner un
 ordre, ses dents serrées, ses lèvres retroussées, comme un loup face à
 un dragon. « Et si vous n’avez rien de mieux à dire que cela…
 taisez-vous, Harry Potter ! »
@@ -703,7 +703,7 @@ pas un vote au Magenmagot…
 
 Drago avait dit que pour une raison inconnue, Lucius avait peur de lui.
 Et Harry pouvait voir dans le rictus tiré et pincé qu’était devenu le
-visage de Lord Malfoy que ce dernier avait eu besoin de tout son courage
+visage de Lord Malefoy que ce dernier avait eu besoin de tout son courage
 pour dire à Harry de se taire.
 
 Et Harry dit donc, d’une voix froide et mortelle, en espérant que cela
@@ -712,20 +712,20 @@ cela, Lucius… »
 
 Quelqu’un parmi les rangs inférieurs de ce qui était clairement le côté
 Puriste du Magenmagot et qui baissait les yeux vers le jeune garçon
-plutôt que de les lever vers Lord Malfoy eut un rire de pure
+plutôt que de les lever vers Lord Malefoy eut un rire de pure
 incrédulité. D’autres robes couleur prune commencèrent à rire aussi.
 
-Lord Malfoy le contempla avec toute sa dignité pendant que le rire se
-répandait. « Si vous désirez l’inimité de la maison Malfoy, vous l’aurez,
+Lord Malefoy le contempla avec toute sa dignité pendant que le rire se
+répandait. « Si vous désirez l’inimité de la maison Malefoy, vous l’aurez,
 *enfant*. »
 
 « Allons, allons, » dit la femme avec trop de maquillage rose, « je pense
-que ceci a duré bien assez longtemps, ne trouvez-vous pas, Lord Malfoy ?
+que ceci a duré bien assez longtemps, ne trouvez-vous pas, Lord Malefoy ?
 Le garçon risque de manquer des cours. »
 
-« En effet, » dit Lucius Malfoy, et il éleva de nouveau la voix. « J’en
+« En effet, » dit Lucius Malefoy, et il éleva de nouveau la voix. « J’en
 appelle au vote ! À main levée, que le Magenmagot reconnaisse la dette
-de sang due à la noble et Très Ancienne maison Malfoy pour la tentative
+de sang due à la noble et Très Ancienne maison Malefoy pour la tentative
 de meurtre sur son dernier héritier et d’anéantissement de sa lignée par
 Hermione, la première Granger ! »
 
@@ -743,7 +743,7 @@ seulement il pouvait l’aider à résoudre ce problème, et le calme létal
 l’enveloppa enfin, la véritable glace répondit enfin à son appel.
 Au-delà de toute la panique et de tout le désespoir son esprit commença
 à passer en revue tous les faits qu’il possédait, à se souvenir de tout
-ce qu’il savait sur Lucius Malfoy, sur le Magenmagot, sur les lois
+ce qu’il savait sur Lucius Malefoy, sur le Magenmagot, sur les lois
 d’Angleterre magique ; ses yeux parcoururent les rangées de chaises,
 chaque personne, chaque chose à portée de vue, à la recherche d’une
 opportunité à saisir…

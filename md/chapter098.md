@@ -7,7 +7,7 @@ Après avoir quitté le Poudlard Express, Daphné Greengrass marcha sans
 bruit vers la chambre de Greengrass située sous les donjons Serpentard -
 privilège d’une Ancienne Maison — afin de déposer sa malle avant de
 rejoindre les autres élèves pour le dîner. Tous les appartements privés
-étaient devenus sa demeure exclusive depuis que Malfoy était parti. Sa
+étaient devenus sa demeure exclusive depuis que Malefoy était parti. Sa
 main, dans son dos, enjoignait encore et encore son immense malle sertie
 d’émeraudes à la suivre. Cette dernière semblait hésiter à le faire ;
 peut-être les sortilèges lancés sur l’ancien et solide artefact familial
@@ -74,22 +74,22 @@ attrapé sa main sur le toit, et quand je l’ai aidée à se relever… »
 
 Daphné gardait sa baguette levée. « Comme si ton père ne pouvait pas
 manipuler le compte-rendu des Aurors ! Je ne suis pas née de la dernière
-pluie, *Malfoy* ! »
+pluie, *Malefoy* ! »
 
 Lentement, comme pour ne pas l’effrayer, la silhouette d’argent fit
 apparaître une baguette de sous ses robes. La main de Daphné se resserra
 sur la sienne, mais elle reconnut alors la position des doigts, la
 posture que la silhouette adoptait, et elle inspira soudain…
 
-« *Expecto Patronum*, » dit clairement Drago Malfoy.
+« *Expecto Patronum*, » dit clairement Drago Malefoy.
 
-Une lumière d’argent bondit de l’extrémité de la baguette de Malfoy — et
+Une lumière d’argent bondit de l’extrémité de la baguette de Malefoy — et
 se condensa pour former un serpent de lumière qui parut se lover en
 l’air, comme s’il se reposait là.
 
 Elle en fut bouche bée.
 
-« J’ai *vraiment* essayé d’aider Hermione Granger, » dit Drago Malfoy
+« J’ai *vraiment* essayé d’aider Hermione Granger, » dit Drago Malefoy
 d’une voix neutre. « Parce que je connais la maladie qui ronge le cœur de
 la maison Serpentard, la raison pour laquelle nous sommes si nombreux à
 ne plus pouvoir lancer le Patronus. C’est notre haine. Les gens
@@ -102,7 +102,7 @@ L’esprit de Daphné était comme assommé. Ses yeux vérifièrent
 nerveusement l’espace sous les portes pour vérifier que du sang n’en
 sortait pas, comme la dernière fois que Quelque Chose s’était Brisé.
 
-« Et j’ai aussi compris, » dit doucement Drago Malfoy, alors que le
+« Et j’ai aussi compris, » dit doucement Drago Malefoy, alors que le
 serpent d’argent continuait de briller de sa lumière et de son
 indéniable chaleur, « que Hermione Granger n’a jamais vraiment essayé de
 me tuer. Peut-être qu’elle a subit un sortilège de faux souvenirs,
@@ -112,14 +112,14 @@ essayé de faire accuser Granger de mon assassinat, elle était la cible
 principale. »
 
 « Est-est-est-ce que tu te rends compte de ce que tu *dis* ? » la voix de
-Daphné se brisa. Si Lucius Malfoy entendait que son fils avait dit ça il
+Daphné se brisa. Si Lucius Malefoy entendait que son fils avait dit ça il
 *l’écorcherait* et il en ferait un *pantalon* !
 
-Drago Malfoy sourit, sa robe métallique scintillante sous la lumière de
+Drago Malefoy sourit, sa robe métallique scintillante sous la lumière de
 son Patronus complet ; c’était un sourire à la fois arrogant et
 dangereux, comme si s’inquiéter qu’on puisse le transformer en un
 pantalon de cuir était indigne de lui. « Oui, » dit-il, « mais ça n’a plus
-d’importance à présent. La maison Malfoy rend son argent à la maison
+d’importance à présent. La maison Malefoy rend son argent à la maison
 Potter et annule sa dette. »
 
 Daphné marcha jusqu’à son lit et s’y laissa choir, espérant qu’elle
@@ -129,11 +129,11 @@ pourrait alors se réveiller de ce rêve.
 robes étincelantes. « Pour tous ceux à Serpentard capables de lancer le
 Patronus et tous ceux capables de l’apprendre. C’est grâce à cela que
 nous pourrons nous faire confiance quand nous nous retrouverons entre
-Serpentard Scintillants. » D’un geste théâtral, Drago Malfoy releva sa
+Serpentard Scintillants. » D’un geste théâtral, Drago Malefoy releva sa
 capuche. « Mais ça ne marchera pas sans *toi*, Daphné Greengrass. Toi et
 ta famille. Ta mère négociera cela avec Père, mais je voudrais que les
 Greengrass entendent d’abord la proposition de ta bouche. » La voix de
-Drago Malfoy devint plus basse, plus sinistre. « Nous avons beaucoup à
+Drago Malefoy devint plus basse, plus sinistre. « Nous avons beaucoup à
 nous dire avant le dîner. »
 
 
@@ -238,14 +238,14 @@ Peu de temps après que les desserts eurent disparus, un élève se leva de
 la table Serpentard et s’avança rapidement, non pas vers la grande table
 mais vers le mur opposé aux quatre tables de Poudlard. Quelques murmures
 s’élevèrent à la vue des cheveux blond-blanc coupés court lorsque Drago
-Malfoy se tint à ce qui avait été l’arrière des tables et regarda
+Malefoy se tint à ce qui avait été l’arrière des tables et regarda
 Poudlard en silence. Il n’avait presque rien dit depuis son retour
 surprise et avait été encore moins vu. Le Serpentard n’avait daigné ni
 confirmer ni nier qu’il était revenu parce que, une fois Hermione
 Granger tuée par la famille de ce dernier, il n’avait plus rien à
 craindre.
 
-Puis Drago Malfoy prit une cuillère dans une main, un verre d’eau dans
+Puis Drago Malefoy prit une cuillère dans une main, un verre d’eau dans
 l’autre, et commença à taper le verre avec la cuillère, produisant ainsi
 un clair tintement.
 
@@ -254,30 +254,30 @@ différents professeurs regardèrent avec perplexité le directeur assit
 dans sa grande chaise, mais il ne leur fit aucun signe, et les
 professeurs ne firent donc rien.
 
-Drago Malfoy continua de taper le verre de sa cuillère jusqu’à ce que la
+Drago Malefoy continua de taper le verre de sa cuillère jusqu’à ce que la
 pièce se taise et attende.
 
 Puis un autre élève se leva de la table Serdaigle et s’avança jusqu’à
-Drago Malfoy avant de se retourner pour faire face à Poudlard à son
+Drago Malefoy avant de se retourner pour faire face à Poudlard à son
 côté. Des souffles furent coupés par l’ébahissement ; il était
 impossible que ces deux-là soient aujourd’hui autre chose que les pires
 de tous les ennemis.
 
-« Moi et mon Père, le Lord de la noble et très ancienne maison Malfoy, »
-dit Drago Malfoy d’une voix claire, « nous sommes rendus compte que des
+« Moi et mon Père, le Lord de la noble et très ancienne maison Malefoy, »
+dit Drago Malefoy d’une voix claire, « nous sommes rendus compte que des
 forces néfastes sont à l’œuvre à Poudlard. Que ces forces néfastes
 souhaitaient clairement nuire à Hermione Granger. Que Hermione Granger a
 peut-être été forcée, contre sa volonté propre, à lever sa baguette
 contre notre Maison ; ou peut-être qu’elle et moi avons subit un
 sortilège de faux souvenirs. Nous déclarons à présent que celui ou celle
-qui a osé faire ainsi usage de l’héritier de la maison Malfoy est
+qui a osé faire ainsi usage de l’héritier de la maison Malefoy est
 l’ennemi de cette dernière et que nous nous vengerons de cette personne.
 De plus, au nom de notre honneur, nous avons rendu tout l’argent que
 nous avions prit à la maison Potter et avons annulé sa dette. »
 
 Puis Harry Potter parla. « La maison Potter reconnaît qu’il s’agissait
-d’une erreur sincère et n’a aucun ressentiment envers la maison Malfoy.
-Nous croyons et déclarons publiquement que la maison Malfoy n’est pas
+d’une erreur sincère et n’a aucun ressentiment envers la maison Malefoy.
+Nous croyons et déclarons publiquement que la maison Malefoy n’est pas
 responsable de la mort de Hermione Granger. Celui ou celle qui a tué
 Hermione Granger est l’ennemi de la maison Potter, et nous nous
 vengerons de cette personne. »
@@ -286,12 +286,12 @@ Puis Harry Potter commença à repartir vers la table Serdaigle et, face à
 cette réalité fracturée, un bavardage explosa, né de la plus pure, de la
 plus profonde des confusions.
 
-Drago Malfoy recommença à taper sa cuillère contre son verre d’eau,
+Drago Malefoy recommença à taper sa cuillère contre son verre d’eau,
 produisant un clair tintement, jusqu’à ce que la pièce se taise une fois
 de plus.
 
 Et d’autres élèves se levèrent, venus d’autres tables, et s’avancèrent
-jusqu’à Drago Malfoy, se placèrent à côté de lui, derrière lui ou devant
+jusqu’à Drago Malefoy, se placèrent à côté de lui, derrière lui ou devant
 lui.
 
 Il y avait un terrible silence dans la grande salle, le sentiment d’un
@@ -303,7 +303,7 @@ ma mère, la Dame de la Noble et très Ancienne Maison de Greengrass, » dit
 Daphné Greengrass.
 
 « Et mon patriarche, Charles, de la maison Nott, » dit l’ancien lieutenant
-Nott, autrefois Théodore du Chaos, à présent derrière Drago Malfoy.
+Nott, autrefois Théodore du Chaos, à présent derrière Drago Malefoy.
 
 « Et ma grande-tante, Amélia, de la maison Bones, aussi directrice du
 département de justice magique, » dit Susan Bones, qui se tenait contre
@@ -314,8 +314,8 @@ combattu.
 Londubat, » dit Neville Londubat, qui était revenu, juste pour cette
 nuit.
 
-« Et mon père, Lucius, le Lord des Malfoy, de la noble et très ancienne
-maison de Malfoy ! »
+« Et mon père, Lucius, le Lord des Malefoy, de la noble et très ancienne
+maison de Malefoy ! »
 
 « Ensembles, avec Alanna Howe, constituent une majorité au conseil
 d’administration de Poudlard ! » dit clairement Daphné Greengrass. « Et,
@@ -353,7 +353,7 @@ mission. Ils se déployèrent immédiatement, deux à chacune des quatre
 tables et le dernier en garde à côté de la grande tables. Il y eut
 d’autres hoquets de stupeur.
 
-« Troisième décret ! » dit Drago Malfoy d’une voix impérieuse. Malfoy
+« Troisième décret ! » dit Drago Malefoy d’une voix impérieuse. Malefoy
 semblait avoir mémorisé son discours puisque Daphné ne pouvait rien voir
 d’écrit sur sa main. « Face à un ennemi commun qui ne recule pas devant
 le meurtre d’élèves, quelle que soit leur maison, les quatre maisons de
@@ -375,11 +375,11 @@ ou ne vous battez pas du tout ! »
 « Sixième décret ! » dit Daphné Greengrass, et elle prit une profonde
 inspiration. Lorsqu’elle avait découvert le plan, elle avait formulé sa
 propre demande auprès de Mère, à travers la cheminette. Même si Lucius
-Malfoy s’associait à Amélia Bones — une notion que son esprit avait
+Malefoy s’associait à Amélia Bones — une notion que son esprit avait
 encore du mal à appréhender — le vote décisif des Greengrass était
 demeuré vital puisque Jugson et sa faction avaient refusé de soutenir
-Malfoy. Sans parler du fait que Bones n’avait pas confiance en Malfoy et
-que Malfoy n’avait pas confiance en Bones. Mère avait donc exigé, et les
+Malefoy. Sans parler du fait que Bones n’avait pas confiance en Malefoy et
+que Malefoy n’avait pas confiance en Bones. Mère avait donc exigé, et les
 Greengrass avaient reçu : « Puisque les sortilèges de faux souvenirs ont
 été utilisés sur des élèves sans qu’aucune alarme ne se déclenche, il
 est possible que l’un des employés de Poudlard ait été impliqué. Donc !
@@ -406,7 +406,7 @@ toujours menaçant.
 « Mais nous savons qui l’ennemi attaque, » dit Susan, aussi féroce que
 lorsqu’elle avait battu trois élèves de septième année.
 
-« L’ennemi attaque les élèves de Poudlard, » dit Drago Malfoy d’une voix
+« L’ennemi attaque les élèves de Poudlard, » dit Drago Malefoy d’une voix
 claire et impérieuse, comme si tout ceci était pour lui une seconde
 nature.
 

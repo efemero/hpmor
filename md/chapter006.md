@@ -1119,7 +1119,7 @@ que Harry ait visité auparavant ; les rideaux étaient luxueux et ornés
 de motifs délicats, le sol et les murs étaient faits de bois teint et
 poli, et les malles occupaient des places d’honneur sur des plateformes
 en ivoire poli. Le vendeur était habillé de robes d’une qualité
-seulement un cran en dessous de celles de Lucius Malfoy, et il parlait
+seulement un cran en dessous de celles de Lucius Malefoy, et il parlait
 avec une politesse huileuse et exquise tant à Harry qu’à McGonagall.
 
 Harry avait posé ses questions, et avait gravité vers une malle de bois

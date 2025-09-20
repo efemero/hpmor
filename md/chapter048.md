@@ -280,7 +280,7 @@ justifier auprès de ce genre de personne, plus cela entérine le fait
 qu’ils ont le *droit* de te remettre en question. Ça montre que tu
 penses qu’ils peuvent être tes inquisiteurs, et une fois que tu donnes
 ce genre de pouvoir à quelqu’un, il ne va faire qu’insister encore et
-encore. » C’était l’une des leçons de Drago Malfoy que Harry avait
+encore. » C’était l’une des leçons de Drago Malefoy que Harry avait
 trouvées assez intelligentes : les gens qui *essayaient* de se défendre
 se faisaient interroger sur chaque petit détail et n’arrivaient jamais à
 satisfaire leurs interrogateurs ; mais si vous faisiez clairement sentir

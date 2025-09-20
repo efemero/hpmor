@@ -107,7 +107,7 @@ chaque force au service du Bien de cet univers, il y a quelqu’un qui
 profite du fait que les gens n’en tiennent pas compte ou qui étiquette
 cette force si bien qu’elle ne peut plus jamais l’atteindre. »
 
-« Mais — » dit Hermione. « D’accord, je vois pourquoi Lucius Malfoy ne veut
+« Mais — » dit Hermione. « D’accord, je vois pourquoi Lucius Malefoy ne veut
 pas qu’on pense que Fumseck a de l’importance, mais pourquoi des gens
 qui ne *sont pas* méchants y *croient*, eux ? »
 

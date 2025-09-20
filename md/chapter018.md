@@ -666,7 +666,7 @@ Et le visage de Dumbledore devint grave. « M. Potter, » dit le Dumbledore,
 « on ne parle pas d’un professeur de Poudlard ainsi. J’ai peur que vous
 soyez victime d’un terrible malentendu. Le professeur Severus Rogue a ma
 totale confiance, et sert Poudlard sous mes ordres, pas sous ceux de
-Lucius Malfoy. »
+Lucius Malefoy. »
 
 Il y eut un silence pendant quelques instants.
 

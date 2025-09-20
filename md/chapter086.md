@@ -30,7 +30,7 @@ PREMIERS HABITANTS DU WYOMING
 
 *Le Chicaneur*
 
-MALFOY FUIT POUDLARD  
+MALEFOY FUIT POUDLARD  
 À L’ÉVEIL DE SES POUVOIRS VÉLANE
 
 *Gazette du Sorcier :*
@@ -673,7 +673,7 @@ même*.
 
 Si on était entièrement libéré de toute éthique, armé des anciens
 secrets de Salazar Serpentard, suivi de dizaines d’adeptes, y compris
-Lucius Malfoy, et qu’on mettait plus de dix ans à *échouer* à renverser
+Lucius Malefoy, et qu’on mettait plus de dix ans à *échouer* à renverser
 le gouvernement d’Angleterre magique, cela voulait dire qu’on était
 stupide.
 
@@ -961,7 +961,7 @@ il y a de possibilités… »
 
 « Soixante-quatre, » dit Sarah Varyabil, une beauté en pleine floraison
 qui aurait dû être répartie à Serdaigle ou à Poufsouffle. « Non, attends,
-c’est faux. Enfin si personne n’aime Malfoy et que Malfoy n’aime
+c’est faux. Enfin si personne n’aime Malefoy et que Malefoy n’aime
 personne alors il ne fait pas vraiment partie du triangle amoureux… je
 vais avoir besoin d’Arithmancie, est-ce que vous pourriez attendre deux
 minutes ? »
@@ -970,7 +970,7 @@ minutes ? »
 réellement larmoyants. « Ils étaient juste… ils étaient si *évidemment*
 destinés à finir ensembles ! »
 
-« Tu veux dire Potter et Malfoy ? » dit un élève en deuxième année du nom
+« Tu veux dire Potter et Malefoy ? » dit un élève en deuxième année du nom
 de Colleen Johnson. « Je sais – leurs familles se haïssaient tellement,
 il ne pouvaient pas ne *pas* tomber amoureux… »
 
@@ -987,7 +987,7 @@ vraiment… *sophistiqué* de ta part, Sherice. »
 grande sorcière qui avait été générale et parlait donc avec un air
 d’autorité. « On *sait* – parce qu’elle l’a embrassé – que Granger était
 amoureuse de Harry Potter. Donc la seule raison pour laquelle elle
-essaierait de tuer Malfoy serait parce qu’elle saurait qu’il gagnait les
+essaierait de tuer Malefoy serait parce qu’elle saurait qu’il gagnait les
 faveurs de Potter. Pas besoin de rendre tout ça compliqué – vous vous
 comportez tous comme si c’était une pièce de théâtre, et pas la vraie
 vie ! »
@@ -1743,7 +1743,7 @@ ne peux pas discerner de but qu’il n’y en *a* pas. »
 
 « Pas de but ? » dit le professeur Quirrell. « Oh, mais la folie de
 Dumbledore n’est pas qu’il est sans but, mais qu’il en a trop. Le
-directeur a peut-être prévu que cela mènerait Lucius Malfoy à jouer sa
+directeur a peut-être prévu que cela mènerait Lucius Malefoy à jouer sa
 main et donc à la perdre pour se venger de vous – ou peut-être a-t-il
 une dizaine d’autres intrigues en cours. Qui sait ce que le directeur
 pense avoir des raisons de faire quand il a déjà trouvé des raisons de
@@ -1811,21 +1811,21 @@ voulaient dire qu’il était stupide.
 pourrait avoir eu assez de pouvoir pour manipuler les Aurors afin que…
 oh.
 
-« Vous pensez que *Lucius Malfoy* a monté le coup contre son *propre
+« Vous pensez que *Lucius Malefoy* a monté le coup contre son *propre
 fils* ? » dit Harry.
 
 « Pourquoi pas ? » dit doucement le professeur Quirrell. « Ayant écouté
-l’enregistrement du témoignage de M. Malfoy, il m’apparaît que vous avez
-en partie réussi à faire changer le point de vue politique de M. Malfoy.
-Si Lucius Malfoy a appris cela plus tôt… il a pu décider que son
+l’enregistrement du témoignage de M. Malefoy, il m’apparaît que vous avez
+en partie réussi à faire changer le point de vue politique de M. Malefoy.
+Si Lucius Malefoy a appris cela plus tôt… il a pu décider que son
 *ancien* héritier est devenu un fardeau. »
 
 « Je n’y crois pas, » dit catégoriquement Harry.
 
 « Vous voilà naïf par caprice, M. Potter. Les livres d’Histoire sont
 pleins de disputes familiales devenues meurtrières à cause de problèmes
-et des menaces bien moindres que ceux que M. Malfoy posait à son père.
-J’imagine que vous me direz ensuite que Lord Malfoy des Mangemorts est
+et des menaces bien moindres que ceux que M. Malefoy posait à son père.
+J’imagine que vous me direz ensuite que Lord Malefoy des Mangemorts est
 bien trop bon pour souhaiter autant de mal à son fils. » Un soupçon de
 lourd sarcasme.
 
@@ -1856,19 +1856,19 @@ de ce ton doux, « si personne n’est prêt à croire qu’il l’a commis.�
 sans alerter le système de sécurité ? *Il* n’est pas professeur… ah,
 oui, vous pensez que c’est le professeur Rogue. »
 
-« Faux, » dit le professeur de Défense. « Lucius Malfoy ne se reposerait
+« Faux, » dit le professeur de Défense. « Lucius Malefoy ne se reposerait
 sur aucun de ses serviteurs pour cette mission. Mais supposez qu’un
 professeur de Poudlard, assez intelligent pour bien lancer un sortilège
 d’amnésie mais sans grande capacité au combat, visite Pré-au-Lard. D’une
-sombre allée la forme noire de Malfoy s’avance – il viendrait en
+sombre allée la forme noire de Malefoy s’avance – il viendrait en
 personne, pour cela – et lui un seul mot. »
 
 « Imperium. »
 
 « *Legilimens*, plutôt, » dit le professeur Quirrell. « Je ne sais pas si
 le système de sécurité de Poudlard s’activerait au retour d’un
-professeur victime de l’Imperium. Et si je l’ignore, Malfoy l’ignore
-probablement aussi. Mais Malfoy est au moins un parfait Occlumens ; il
+professeur victime de l’Imperium. Et si je l’ignore, Malefoy l’ignore
+probablement aussi. Mais Malefoy est au moins un parfait Occlumens ; il
 pourrait user de Légilimancie. Et quant à la cible… peut-être Aurora
 Sinistra ; personne ne s’interrogerait sur les mouvements nocturnes du
 professeur d’Astronomie. »
@@ -1894,7 +1894,7 @@ la question soit posée, juste pour vérifier. Quoi qu’il en soit,
 professeur, je reconnais qu’il est possible que quelque personne
 extérieure ait Légilimancé un employé de Poudlard – et qu’il lui ait
 lancé Oubliettes ensuite, personne n’oublierait de faire ça. Mais je ne
-pense *pas* que Lucius Malfoy est un candidat probable au titre de
+pense *pas* que Lucius Malefoy est un candidat probable au titre de
 cerveau de l’affaire. Il est possible, mais pas probable, que l’amour
 apparent de Lucius pour Drago n’ait été qu’un sens du devoir et qu’il
 soit depuis parti en fumée. Il est possible, mais pas probable, que tout
@@ -2024,7 +2024,7 @@ moi-même, et je vous convaincrai que je suis coupable – ou vous
 déciderez que mon accusation manquait trop de conviction et que je suis
 coupable. Je remarquerai seulement ceci pour ma défense : que j’aurais
 effectivement eu besoin d’une très bonne raison pour mettre en danger
-votre fragile alliance avec l’héritier de la maison Malfoy. »
+votre fragile alliance avec l’héritier de la maison Malefoy. »
 
 
 
@@ -2459,7 +2459,7 @@ j’espère que vous comprenez que je ne peux rien *faire* qui entre en
 conflit avec mon devoir de… »
 
 « Oui, » dit Harry, « c’est exactement à ce sujet que je veux vous
-interroger. Face au Magenmagot, quand Lucius Malfoy disait que Hermione
+interroger. Face au Magenmagot, quand Lucius Malefoy disait que Hermione
 ne faisait pas partie de la maison Potter et qu’il n’accepterait pas
 l’argent, vous avez dit à Hermione de faire un serment. Je veux savoir,
 si quelque chose comme ça devait se produire à nouveau, si votre devoir

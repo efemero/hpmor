@@ -3,7 +3,7 @@
 
 Une atmosphère maussade flottait dans le bureau de la directrice.
 Minerva était revenue après avoir laissé Drago et Narcissa/Nancy à
-Sainte Mangouste, où l’on avait examiné Dame Malfoy à la recherches de
+Sainte Mangouste, où l’on avait examiné Dame Malefoy à la recherches de
 séquelles après dix ans de vie Moldue. Harry s’était rendu encore et
 encore au bureau de la directrice, incapable de déterminer ses
 priorités. Il y avait *tant* à faire, tellement de choses, même la

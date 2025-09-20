@@ -62,7 +62,7 @@ Ce qui avait finit par arriver après que Drago et Granger combattent
 Harry Potter ensemble… c’était que Drago avait commencé à avoir des
 sentiments beaucoup plus amicaux envers Granger.
 
-Qui bénéficiait de voir l’héritier Malfoy devenir l’ami d’une sorcière
+Qui bénéficiait de voir l’héritier Malefoy devenir l’ami d’une sorcière
 Sang-de-Bourbe ?
 
 Qui en bénéficiait et était connu pour ce genre de complot ?
@@ -206,7 +206,7 @@ Harry ne cilla pas. « Alors j’invoque la faveur que tu me dois, de cette
 fois où j’ai empêché qu’une émeute ne se déclenche lors de notre
 première leçon de vol sur balais. Je vais essayer de t’enseigner le
 Patronus, et je veux que tu me fasses la faveur d’essayer de ton mieux
-et honnêtement. Par l’honneur de la maison Malfoy, j’espère que tu le
+et honnêtement. Par l’honneur de la maison Malefoy, j’espère que tu le
 feras. »
 
 Drago ressentit de nouveau une certaine lassitude. Si Harry avait
@@ -294,7 +294,7 @@ la baguette pour repousser le Détraqueur, pense à la façon dont ton père
 a tenu ta main pour que tu n’aies pas peur ; puis pense à tout l’amour
 qu’il a pour toi, et à celui que tu as pour lui, et mets tout cela dans
 ta voix lorsque tu dira *Expecto Patronum*. Pour l’honneur de la maison
-Malfoy, et pas seulement parce que tu m’as promis une faveur. Montre-moi
+Malefoy, et pas seulement parce que tu m’as promis une faveur. Montre-moi
 que tu ne m’as pas menti ce jour là, à la gare, quand tu m’as dit que
 Lucius était un bon père. Montre-moi que tu peux faire ce dont Salazar
 Serpentard était capable. »
@@ -341,7 +341,7 @@ devant Harry. C’est trop juste, beaucoup trop juste -
 
 Devant Drago, à même le sol, se trouvait la forme étincelante d’un
 serpent que Drago reconnu ; un Bungarus Candidus, un serpent
-initialement amené à leur manoir par Lord Abraxas Malfoy, après un
+initialement amené à leur manoir par Lord Abraxas Malefoy, après un
 séjour dans un pays lointain quelconque, et depuis ce jour, Père avait
 conservé un Bungarus Candidus dans l’ophidiarium. La particularité du
 Bungarus Candidus était que sa morsure ne faisait pas très mal. Père
@@ -506,7 +506,7 @@ l’avance*, Drago, j’aurais pu te l’écrire avant notre premier jours de
 cours, juste en t’entendant parler à la gare de King’s Cross. Laisse-moi
 te décrire le genre de personnes vraiment pathétiques qui traînent aux
 rassemblements politiques de ton père, des familles Sang-Pur qui ne
-seraient jamais invitées au manoir Malfoy. Garde à l’esprit que *je* ne
+seraient jamais invitées au manoir Malefoy. Garde à l’esprit que *je* ne
 les ai jamais rencontrés, je prédis juste leur existence en
 reconnaissant le motif de ce qui est en train d’arriver à la maison
 Serpentard — »
@@ -848,12 +848,12 @@ Lorsque je t’ai rencontré, tu n’étais pas puissant à ce point. Tout ce
 que tu m’as dit, y as-tu de nouveau réfléchi suite à ton éveil à la
 science, ou est-ce seulement une chose à laquelle tu as toujours crue en
 grandissant ? Peux-tu me regarder dans les yeux et me jurer sur
-l’honneur de la maison Malfoy que s’il y avait une fausse vérité cachée
+l’honneur de la maison Malefoy que s’il y avait une fausse vérité cachée
 quelque part dans ce que tu as dit, une chose qui a été ajoutée juste
 pour ternir un peu le portrait de Dumbledore, tu l’aurais remarqué ? »
 
 Drago commença à ouvrir la bouche, et Harry dit : « Non. N’entaches pas
-l’honneur de la maison Malfoy. Tu n’es *pas* encore assez puissant, et
+l’honneur de la maison Malefoy. Tu n’es *pas* encore assez puissant, et
 tu devrais le savoir. Écoutes, Drago, j’ai moi-même commencé à remarquer
 des choses inquiétantes. Mais il n’y a rien de *définitif*, rien de
 *certain*, ce sont seulement des déductions et des hypothèses et des
@@ -914,7 +914,7 @@ de « style ».
 « Père n’en parle jamais, on n’en parle jamais devant lui, mais M.
 Macnair m’a dit qu’il y avait des marques de griffes partout dans la
 chambre, parce que Mère avait lutté pendant que Dumbledore la *brûlait
-vive*. C’est la dette que Dumbledore doit à la maison Malfoy et *il le
+vive*. C’est la dette que Dumbledore doit à la maison Malefoy et *il le
 paiera de sa vie* ! »
 
 « Drago, » dit Harry, il laissa sa voix devenir rauque, avoir l’air calme
@@ -1048,7 +1048,7 @@ Il y avait des larmes dans les yeux de Harry.
 
 Et Drago était de nouveau en colère. « Dumbledore a *tué* ma mère, ça ne
 suffit pas de dire que c’était *triste* ! Je ne comprends pas ce que tu
-penses que *tu* dois faire, mais les Malfoy *doivent* se venger ! » Ne
+penses que *tu* dois faire, mais les Malefoy *doivent* se venger ! » Ne
 pas venger une mort dans la famille allait *au-delà* de la faiblesse,
 au-delà du déshonneur, vous auriez aussi bien pu n’avoir jamais
 *existé*.
@@ -1090,7 +1090,7 @@ Cela atteignait Drago, c’était ça le problème, en dépit de tout, cela
 l’atteignait, il fallait vraiment faire attention aux alentours de Harry
 parce que ses arguments étaient si convaincants *même quand il avait
 tort*. « Et ce que tu n’admets *pas*, c’est que Dumbledore t’a dit que tu
-pouvais venger la mort de tes parents en prenant son fils à Lord Malfoy
+pouvais venger la mort de tes parents en prenant son fils à Lord Malefoy
 - »
 
 « *Non*. Non. C’est juste faux. » Harry prit une profonde inspiration. « Je
@@ -1102,7 +1102,7 @@ où j’ai appris tout cela. Et Dumbledore *n’aime* même pas la science
 Moldue, ou il dit qu’il ne l’aime pas, j’ai eu l’opportunité de le
 sonder à ce sujet un jour. L’idée de me venger des Mangemorts à travers
 toi ne m’a *jamais* traversé l’esprit, pas *une seule fois* avant
-aujourd’hui. Je ne savais pas qui étaient les Malfoy quand je t’ai
+aujourd’hui. Je ne savais pas qui étaient les Malefoy quand je t’ai
 rencontré dans le magasin de vêtements, et alors je t’ai *apprécié*. »
 
 Il y eut un long silence.
@@ -1303,7 +1303,7 @@ choses de cristal ne pourraient même pas nous différencier. N’est-il pas
 impossible d’imaginer que le poison de haine de Serpentard mérite qu’on
 l’emmène avec nous dans les étoiles ? Toute vie est précieuse, tout ce
 qui pense et se connaît et ne veut pas mourir. La vie de Lily Potter
-était précieuse, et la vie de Narcissa Malfoy était précieuse, même s’il
+était précieuse, et la vie de Narcissa Malefoy était précieuse, même s’il
 est trop tard pour elles maintenant, leur mort fut triste. Mais il y a
 d’autres vies qui sont toujours là, pour lesquelles se battre. Ta vie,
 et ma vie, et la vie de Hermione Granger, et toutes les vies de la

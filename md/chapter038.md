@@ -75,7 +75,7 @@ déplia.
 
 *VOYANTE BOURRÉE CRACHE LE MORCEAU :  
 LE SEIGNEUR DES TÉNÈBRES VA REVENIR,  
-MARIÉ À DRAGO MALFOY*
+MARIÉ À DRAGO MALEFOY*
 
 « C’est gratuit, » dit le vendeur, « pour *vous*, je veux dire — »
 
@@ -101,7 +101,7 @@ c’est qui est secrètement la même personne. »
 « Vous n’en faites pas la moitié, » répondit aimablement le vendeur.
 
 « Et je suis fiancé à Hermione Granger, *et* à Bellatrix Black, *et* à
-Luna Lovegood, et oh oui, à Drago Malfoy aussi… »
+Luna Lovegood, et oh oui, à Drago Malefoy aussi… »
 
 « En v’la un mariage qui va être intéressant, » dit le vendeur.
 
@@ -155,7 +155,7 @@ dans le sang de Harry.
 
 Il releva les yeux.
 
-« Lucius Malfoy, » dit Harry, sa voix usée. La prochaine fois il serait
+« Lucius Malefoy, » dit Harry, sa voix usée. La prochaine fois il serait
 malin et il attendrait dans la partie Moldue de King’s Cross jusqu’à
 10 h 55.
 
@@ -187,7 +187,7 @@ notre amitié. »
 
 *Va-t-en s’il te plaît, va-t-en s’il te plaît…*
 
-Les yeux scintillèrent. « Si cela est votre position, alors… » dit Malfoy
+Les yeux scintillèrent. « Si cela est votre position, alors… » dit Malefoy
 senior. « Bien. Je jouerai le jeu un moment. Quel était votre but en
 manipulant votre bon ami, mon fils, vers une alliance publique avec
 cette fille ? »
@@ -202,7 +202,7 @@ ressemble à l’un des plans de Dumbledore. Et ce n’en est *pas* un. »
 « En effet,« » dit Harry. « Cela fait partie de mon jeu avec Drago, et ne
 résulte d’aucun acte de Dumbledore, et c’est tout ce que j’en dirai. »
 
-« Passons-nous de jeux, » dit Malfoy senior, les yeux gris se durcissant
+« Passons-nous de jeux, » dit Malefoy senior, les yeux gris se durcissant
 soudain. « Si mes soupçons sont fondés, vous n’êtes de toute façon pas du
 genre à obéir à Dumbledore, *M. Potter*. »
 
@@ -255,7 +255,7 @@ grande femme qui n’avait pas l’air effrayée du tout.
 
 « Mme. Londubat, » dit Lucius d’un ton de glace.
 
-« M. Malfoy, » répondit la femme du même ton glacial. « Êtes-vous un
+« M. Malefoy, » répondit la femme du même ton glacial. « Êtes-vous un
 désagrément pour notre Harry Potter ? »
 
 L’aboiement de rire qui jaillit de Lucius sembla étrangement amer. « Oh,
@@ -269,7 +269,7 @@ Harry ne savait pas du tout quoi répondre à cela, et Neville semblait
 confus et apeuré.
 
 « Je doute que ce soit le monde qui soit fou, » dit Mme. Londubat. Sa voix
-prit un ton pavoisant. « Vous semblez d’une triste humeur, M. Malfoy. Le
+prit un ton pavoisant. « Vous semblez d’une triste humeur, M. Malefoy. Le
 discours de notre cher professeur Quirrell vous a-t-il coûté quelques
 alliés ? »
 
@@ -282,7 +282,7 @@ que j’étais réellement un Mangemort. »
 « J’étais victime de l »*Imperius*, jeune homme, » dit Lucius, l’air
 maintenant fatigué. « Le Seigneur des Ténèbres n’aurait certainement pas
 pu commencer à recruter parmi les familles de Sang-Pur sans le soutien
-de la Maison Malfoy. J’ai soulevé des objections, et il s’est simplement
+de la Maison Malefoy. J’ai soulevé des objections, et il s’est simplement
 assuré de mon soutien. Ses propres Mangemorts ne le surent qu’ensuite,
 d’où la fausse Marque que je porte ; même si, puisque je n’y avais pas
 vraiment consenti, elle ne me lie pas. Certains des Mangemorts croient
@@ -299,7 +299,7 @@ Lucius lui tourna dédaigneusement le dos et fit de nouveau face à Harry.
 « Demanderez-vous à cette harpie de partir, *M. Potter* ? »
 
 « Je ne pense pas, » dit Harry d’une voix sèche. « Je préfère avoir affaire
-à la partie de la Maison Malfoy qui a mon âge. »
+à la partie de la Maison Malefoy qui a mon âge. »
 
 Il y eut alors une longue pause. Les yeux gris le scrutèrent.
 
@@ -313,10 +313,10 @@ Lucius leva sa cane de quelques centimètres et la frappa durement contre
 le sol.
 
 Le monde disparut dans une brume pâle, tous les sons s’effacèrent, il
-n’y avait rien dans l’univers hormis Harry, Lucius Malfoy, et la cane à
+n’y avait rien dans l’univers hormis Harry, Lucius Malefoy, et la cane à
 tête de serpent.
 
-« Mon fils est mon cœur, » dit Malfoy senior, « la dernière chose de valeur
+« Mon fils est mon cœur, » dit Malefoy senior, « la dernière chose de valeur
 qui me reste en ce monde, et je vous dit cela dans un esprit d’amitié :
 s’il devait lui arriver malheur, je consacrerais ma vie à sa vengeance.
 Mais tant que qu’il ne lui arrive *pas* malheur, je vous souhaite de
@@ -331,7 +331,7 @@ dans sa main.
 
 Les sombres robes de Lucius tourbillonnèrent autour de lui de même que
 ses cheveux blanc, et il se tourna vers Goyle senior. « Nous retournons
-au manoir Malfoy. »
+au manoir Malefoy. »
 
 Il y eut trois pouf de Transplanage, et ils étaient partis.
 

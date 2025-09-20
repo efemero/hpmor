@@ -57,10 +57,10 @@ jamais entendu parler d’élections, M. Potter, et que vous pouviez
 simplement voir *ce qui est*, ce que vous verriez ne vous plairait pas.
 Regardez notre ministre, élu, de la magie. Est-il le plus sage, le plus
 fort, le plus grand de notre pays ? Non ; c’est un bouffon possédé par
-l’argent de Lucius Malfoy. Les sorciers ont été aux urnes et ont choisi
+l’argent de Lucius Malefoy. Les sorciers ont été aux urnes et ont choisi
 entre Cornelius Fudge et Tania Leach, qui s’étaient battus dans un grand
 et divertissant concours après que la Gazette du Sorcier, que Lucius
-Malfoy contrôle aussi, ait décidé qu’ils étaient les deux seuls
+Malefoy contrôle aussi, ait décidé qu’ils étaient les deux seuls
 candidats sérieux. Personne ne pourrait suggérer avec sérieux que
 Cornelius Fudge a vraiment été choisi comme le meilleur chef que notre
 pays avait à offrir. Ce n’est pas différent dans le monde Moldu, à ce
@@ -97,7 +97,7 @@ fixa en retour sans ciller.
 idiots qui ont élu Cornelius Fudge ne s’intéressent pas aux complexités
 et à la prudence. Présentez leur quelque chose de plus nuancé qu’une
 acclamation rugissante et vous ferez face à votre guerre tout seul.
-*Cela*, M. Potter, a constitué votre erreur puérile, que Drago Malfoy
+*Cela*, M. Potter, a constitué votre erreur puérile, que Drago Malefoy
 n’aurait pas faite à huit ans. Cela aurait dû être évident, même pour
 *vous*, que vous auriez dû rester silencieux et *me consulter avant* au
 lieu de mentionner vos inquiétudes devant la foule ! »
@@ -433,7 +433,7 @@ Blaise recula maladroitement, sentant une étrange réticence à l’idée de
 lui tourner le dos.
 
 Le chapeau s’inclina. « Oh, allons, petit Serpentard. Si tu étais
-vraiment l’égal de Harry Potter ou Drago Malfoy, tu te serais déjà rendu
+vraiment l’égal de Harry Potter ou Drago Malefoy, tu te serais déjà rendu
 compte que mes menaces voilées n’avaient pour but que d’assurer ton
 silence face à Albus. Aurais-je eu l’intention de te faire du mal, je
 n’aurais pas fait de sous-entendu ; si je n’avais rien dit, *alors* tu
@@ -569,7 +569,7 @@ Le professeur McGonagall se pencha au-dessus de son bureau. L’inquiétude
 s’agit pas de courage, il s’agit de ce qui est bon pour des jeunes
 filles ! Le directeur vous attire dans ses intrigues, Harry Potter vous
 donne des secrets à garder, et maintenant vous faites des alliances avec
-Drago Malfoy ! Et j’ai promis à votre mère que vous seriez en sécurité à
+Drago Malefoy ! Et j’ai promis à votre mère que vous seriez en sécurité à
 Poudlard ! »
 
 Hermione ne savait tout simplement pas quoi répondre à cela. Mais l’idée
@@ -591,7 +591,7 @@ plus longtemps. »
 
 
 
-*Après-coup, Drago Malfoy* * :*
+*Après-coup, Drago Malefoy* * :*
 
 Presque aucun d’eux ne voulait faire quoi que ce soit de compliqué ce
 samedi, pas après avoir combattu plus tôt. Alors Drago était juste assis
@@ -613,7 +613,7 @@ t’écraser. »
 « Un *Maaaalfoy* travaille avec une *Sang-de-Bouuurbe*, qu’est-ce-que
 tous les *amiiiis* de ton père vont penser — »
 
-« Ils penseront que les Malfoy ne sont pas aussi simple à manipuler que
+« Ils penseront que les Malefoy ne sont pas aussi simple à manipuler que
 *tu* sembles le croire, *Potter* ! »
 
 Le professeur de Défense était encore plus fou que Dumbledore, aucun

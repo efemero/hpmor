@@ -6,7 +6,7 @@ La différence entre Bon et Mauvais était généralement simple à saisir,
 elle n’avait jamais compris pourquoi les autres avaient tant de
 difficulté. À Poudlard, « Bon, » c’était le professeur Flitwick et le
 professeur McGonagall et le professeur Chourave. « Mauvais, » c’était le
-professeur Rogue et le professeur Quirrell et Drago Malfoy. Harry
+professeur Rogue et le professeur Quirrell et Drago Malefoy. Harry
 Potter… était un de ces cas inhabituels où on ne *pouvait pas* savoir
 juste en regardant. Elle essayait encore de décider à quel groupe il
 appartenait.
@@ -228,7 +228,7 @@ masques, déplacez-les d’une salle de classe à un cimetière, et ce serait
 exactement comme le début de la moitié des histoires que les amis de son
 père racontaient sur les Mangemorts.
 
-« Je veux que tu saches, Drago Malfoy, » dit la silhouette avec un calme
+« Je veux que tu saches, Drago Malefoy, » dit la silhouette avec un calme
 mortel, « que je ne te blâme pas pour ma récente défaite. »
 
 Sans réfléchir, Drago ouvrit la bouche pour protester, il n’y avait
@@ -243,7 +243,7 @@ fait demeure que j’ai perdu le concours d’un demi-livre. Les actes de
 ton idiot de compagnie, et la faveur que tu as demandée, et, oui, ma
 propre idiotie quant à la façon de t’accorder cette faveur, m’ont fait
 *perdre du temps*. Plus de temps que tu ne le sais. Du temps qui, à la
-fin, s’est avéré crucial. Le fait demeure, Drago Malfoy, que si tu ne
+fin, s’est avéré crucial. Le fait demeure, Drago Malefoy, que si tu ne
 m’avais pas demandé cette faveur, j’*aurais* gagné. Et non… pas…
 *perdu*. »
 
@@ -262,7 +262,7 @@ tels que la petite chute gargouillante de ce qui m’a semblé être de la
 morve, accompagné d’une quantité d’autres filles qui insistaient pour
 s’adonner à de serviables activités telles que répandre des pétales de
 rose métamorphosés sur notre chemin. J’ai eu un rendez-vous galant,
-héritier de Malfoy. Mon *premier* rendez-vous galant. *Et quand je
+héritier de Malefoy. Mon *premier* rendez-vous galant. *Et quand je
 déclarerai que tu me dois cette faveur, tu la repaieras.* »
 
 Drago acquiesça solennellement. Avant d’arriver, il avait pris la
@@ -298,7 +298,7 @@ copie de ce souvenir dans un endroit sûr, et Harry Potter n’oserait plus
 jamais le trahir.
 
 « Mais parlons d’affaires plus joyeuses, » dit la silhouette aux ombres
-verdâtres. « Parlons de savoir et de pouvoir, Drago Malfoy, parlons de
+verdâtres. « Parlons de savoir et de pouvoir, Drago Malefoy, parlons de
 Science. »
 
 « Oui, » dit Drago. « Parlons donc. »
@@ -322,7 +322,7 @@ des tests et observeras ce qui se produit. Et tu devras accepter le sens
 de ces résultats quand ils te diront que tu as tort. Tu devras
 *apprendre à perdre*, pas contre moi, mais contre la Nature. Quand tu te
 retrouveras à débattre avec la réalité, tu devras laisser la réalité
-gagner. Ce sera douloureux, Drago Malfoy, et je ne sais pas si tu as la
+gagner. Ce sera douloureux, Drago Malefoy, et je ne sais pas si tu as la
 force nécessaire dans ce domaine. Maintenant que tu connais le prix,
 est-ce toujours ton souhait que d’apprendre le pouvoir humain ? »
 
@@ -627,7 +627,7 @@ Père avait dit que le Seigneur des Ténèbres était *intelligent* !
 « J’ai trouvé ! » dit soudain la sombre silhouette. « Tu ne comprendras pas
 pour l’instant, mais crois moi, ça convient. »
 
-Pour le moment, Drago aurait accepté « Mangeurs Malfoy » du moment que ça
+Pour le moment, Drago aurait accepté « Mangeurs Malefoy » du moment que ça
 changeait de sujet. « C’est quoi ? »
 
 Et, debout entre les pupitres poussiéreux d’une salle abandonnée des

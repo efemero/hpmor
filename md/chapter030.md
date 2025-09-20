@@ -1,6 +1,6 @@
 # Travail de groupe, partie 1
 
-Nous étions le lundi 3 novembre et bientôt, Harry Potter, Drago Malfoy
+Nous étions le lundi 3 novembre et bientôt, Harry Potter, Drago Malefoy
 et Hermione Granger, les trois puissants de cette année, allaient
 débuter leur combat pour la domination suprême.
 
@@ -50,7 +50,7 @@ Ce n’était probablement pas bon signe.
 
 Pour leur emblème, au lieu du trop-évident dragon crachant du feu, Drago
 avait choisi de s’en tenir au feu. Élégant, euphémique, mortel. *C’est
-ce qui reste après notre passage*. Très Malfoy.
+ce qui reste après notre passage*. Très Malefoy.
 
 Harry, après avoir considéré des alternatives telles que le 501^ème^
 Bataillon Provisionnel et Les Servants Mortels de Harry, avait décidé
@@ -218,7 +218,7 @@ pas le combat. Fuyez si vous recevez des tirs. » (Bien sûr, *personne* ne
 jetterait un sort de sommeil au balais ou au sorcier ; on jetterait un
 sort qui donnait une lueur rouge temporaire à tout ce qu’il touchait. Si
 le balais ou le sorcier était touché, il était éliminé de la guerre.)
-« Red Leader et Red Cinq, volez vers l’armée de Malfoy aussi vite que
+« Red Leader et Red Cinq, volez vers l’armée de Malefoy aussi vite que
 possible, restez aussi haut que possible tout en les gardant dans votre
 champ de vision, revenez à l’instant où vous êtes certains de ce qu’ils
 sont en train de faire. Green Leader, faites de même pour l’armée de
@@ -260,7 +260,7 @@ pourrait pas bouger avant de savoir ce qu’elle faisait.
 
 Au cœur de la forêt, entouré d’ombres dansantes projetant des motifs au
 sol tandis qu’un voûte de feuilles ondulait haut au-dessus de leurs
-têtes, le général Malfoy se tenait là où les arbres étaient relativement
+têtes, le général Malefoy se tenait là où les arbres étaient relativement
 moins denses. Il regardait ses troupes avec une calme satisfaction. Six
 unités de trois membres chacune, l’unité aérienne composée de quatre
 membres (à laquelle Grégory était assigné), et l’unité de commandement
@@ -281,14 +281,14 @@ avait observé l’entraînement pendant les inspections de son père.
 
 Chaos et Soleil ne sauraient pas ce qui s’était abattu sur eux.
 
-« Votre attention, s’il vous plaît, » dit le général Malfoy.
+« Votre attention, s’il vous plaît, » dit le général Malefoy.
 
 Les six unités se détachèrent et pivotèrent vers Drago ; les visages des
 membres des forces aériennes se retournèrent, balais déjà en main.
 
 Drago avait décidé d’attendre de gagner la première bataille avant
 d’exiger des saluts martiaux, lorsque les Gryffondor et des Poufsouffle
-seraient plus prêts à accepter de saluer un Malfoy.
+seraient plus prêts à accepter de saluer un Malefoy.
 
 Mais ses soldats se tenaient déjà si droits, surtout les Gryffondor, que
 Drago se demanda s’il avait eu besoin de délayer l’ordre. Grégory avait
@@ -303,7 +303,7 @@ répétaient les Gryffondor de son armée à leurs camarades de maison.
 Drago était franchement stupéfait par la facilité de la chose. Il avait
 d’abord protesté contre le fait de n’avoir aucun Serpentard, et le
 professeur Quirrell lui avait dit que s’il voulait être le premier
-Malfoy à obtenir le contrôle total de la politique du pays, il lui
+Malefoy à obtenir le contrôle total de la politique du pays, il lui
 faudrait apprendre comment gouverner les trois autres quarts de la
 population. C’était ce genre de chose qui rassurait Drago quant au fait
 que le professeur Quirrell avait bien plus de sympathies pour les
@@ -671,7 +671,7 @@ presque à portée. Neville pouvait voir les formes en uniforme des
 dragons qui se déplaçaient à travers le dense feuillage de la forêt, et
 les dragons devaient eux aussi les voir -
 
-« *Attaque !* » dit un cri au loin, la voix de Drago Malfoy, et le général
+« *Attaque !* » dit un cri au loin, la voix de Drago Malefoy, et le général
 Potter mugit : « *Chargez -* »
 
 Toute l’adrénaline du sang de Neville fut libérée, ses jambes prirent le
@@ -737,7 +737,7 @@ le garçon chuter.
 des bruissements sur le sol de la forêt alors que les deux dragons se
 retournaient encore et encore, à la recherche d’un ennemi.
 
-« *Reformez les rangs* ! » mugit la voix de Malfoy. « *Revenez à moi, tout
+« *Reformez les rangs* ! » mugit la voix de Malefoy. « *Revenez à moi, tout
 le monde, ne les laissez pas vous éparpiller !* »
 
 Les oreilles de Neville entendirent les deux dragons sauter au-dessus de
@@ -899,7 +899,7 @@ Harry se releva en poussant au sol avec une certaine difficulté.
 Utiliser toute la magie n’épuisait pas les muscles, mais courir entre
 les arbres, si.
 
-Il tituba jusqu’à l’hémisphère iridescent qui contenait Drago Malfoy,
+Il tituba jusqu’à l’hémisphère iridescent qui contenait Drago Malefoy,
 lequel tenait sa baguette levée pour maintenir le bouclier et souriait
 froidement en regardant Harry.
 
@@ -958,7 +958,7 @@ l’Armée du Dragon puisse abattre les cinq survivants de la Légion du
 Chaos.
 
 « Très bien, » dit Harry. « Quelqu’un ici sait-il quoi que ce soit au sujet
-du sort de défense du général Malfoy ? »
+du sort de défense du général Malefoy ? »
 
 Il apparut que le bouclier de Drago était une version du *Protego*
 standard qui incluait plusieurs désavantages, le plus important étant
@@ -1031,7 +1031,7 @@ générer de l’électricité.
 Peu après, les Légionnaires du Chaos entendirent un claquement de doigts
 suivis d’un crépitement venant de sous la couverture. La luminosité du
 bouclier augmenta, et ils entendirent la voix de Harry dire : « Ne soyez
-pas distraits s’il vous plaît, restez concentrés sur le général Malfoy. »
+pas distraits s’il vous plaît, restez concentrés sur le général Malefoy. »
 
 On pouvait voir la tension augmenter sur le visage de Drago, ainsi que
 la furie, l’agacement et la frustration.
@@ -1052,7 +1052,7 @@ frénésie.
 
 « *Contego*, » dit Harry, et ses soldats l’imitèrent, mais Harry ne savait
 même pas dans quelle direction orienter son bouclier. « Quelqu’un a-t-il
-vu d’où cela venait ? » Des têtes se secouèrent. « Et général Malfoy, cela
+vu d’où cela venait ? » Des têtes se secouèrent. « Et général Malefoy, cela
 vous embêterait-t-il de me dire si *vous* avez eu le général Granger ? »
 
 « Bien sûr, » dit Drago d’une voix acide, « bien sûr que ça m’embêterait. »
@@ -1064,7 +1064,7 @@ passablement épuisé, Harry épuisé aussi, Hermione dans les bois dieu
 savait où, Harry et quatre autres chaotiques encore debout…
 
 « Vous savez, général Granger, » dit Harry haut et fort, « vous auriez
-vraiment dû attendre que j’ai vaincu le général Malfoy avant d’attaquer.
+vraiment dû attendre que j’ai vaincu le général Malefoy avant d’attaquer.
 Vous auriez peut-être pu abattre *tous* les survivants. »
 
 De quelque part s’éleva le rire aigu d’une fille.
