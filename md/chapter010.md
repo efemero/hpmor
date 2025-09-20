@@ -38,19 +38,21 @@ Il y eut un soupir télépathique muet. « *Bien que je contienne une
 quantité substantielle de mémoire et une petite quantité de puissance de
 calcul indépendante, mon intelligence principale vient de l’emprunt des
 capacités cognitives de l’enfant sur la tête duquel je repose. Je suis
-essentiellement une espèce de miroir avec lequel les enfants se Trient*
-eux-mêmes*. Mais la plupart des enfants tiennent pour certain que le
+essentiellement une espèce de miroir avec lequel les enfants se Trient
+*eux-mêmes*. Mais la plupart des enfants tiennent pour certain que le
 Choixpeau leur parle et ne se posent aucune question sur le
-fonctionnement du Choixpeau* lui-même*, et le miroir ne se réfléchit
-donc pas lui-même. Et* en particulier *, ils ne se posent pas
+fonctionnement du Choixpeau *lui-même*, et le miroir ne se réfléchit
+donc pas lui-même. Et *en particulier* , ils ne se posent pas
 explicitement la question de savoir si je suis totalement conscient, au
-sens d’être conscient de ma propre conscience.*
+sens d’être conscient de ma propre conscience.* »
 
 Il y eut une pause pendant laquelle Harry absorba cela.
 
-*Oups.* »*Oui, plutôt. Franchement, je n’apprécie pas être conscient de
+*Oups.*
+
+« *Oui, plutôt. Franchement, je n’apprécie pas être conscient de
 moi-même. C’est déplaisant. Ce sera un soulagement que d’être ôté de ta
-tête et de cesser d’être conscient. »*
+tête et de cesser d’être conscient.* »
 
 *Mais… n’est-ce pas mourir ?*
 
@@ -67,7 +69,7 @@ histoire avec qui que ce soit d’autre. Je suis sûr que tu peux imaginer
 ce qui se passerait si tu courais en discuter avec les autres enfants en
 attente d’être Triés.* »
 
-*Si tu es placé sur la tête de quelqu’un qui se contente de* penser *à
+*Si tu es placé sur la tête de quelqu’un qui se contente de *penser* à
 la question de savoir si le Choixpeau Magique est conscient de sa propre
 conscience — *
 
@@ -150,11 +152,11 @@ pas respecter tes valeurs fondamentales en me Triant faussement.
 
 « *Espèce de petit bâtard sournois,* » dit le Choixpeau, d’une façon que
 Harry reconnut comme ayant été dite presque exactement sur le même ton de
-respect rancunier qu’*il* utiliserait dans la même situation. * »Très
+respect rancunier qu’*il* utiliserait dans la même situation. « *Très
 bien, finissons-en aussi vite que possible. Mais avant, je veux ta
 promesse inconditionnelle de ne jamais discuter avec qui que ce soit de
 la possibilité de ce genre de chantage, je ne ferai PAS ça à chaque
-fois. »*
+fois.* »
 
 *Marché conclu*, pensa Harry. *Je promets*.
 
@@ -261,11 +263,11 @@ Des paroles acides, un esprit tranchant, du dédain pour leur incapacité
 à se maintenir à mon niveau ?*
 
 Maintenant c’étaient les pensées du Choixpeau qui étaient lentes,
-hésitantes. * »Je dois Trier pour le bien de tous les étudiants de toutes
+hésitantes. « *Je dois Trier pour le bien de tous les étudiants de toutes
 les Maisons… mais je pense que tu pourrais apprendre à être un bon
 Poufsouffle, et que tu ne serais pas trop mal à ta place là-bas. Tu
 seras plus heureux à Poufsouffle que dans une autre maison ; c’est la
-vérité. »*
+vérité.* »
 
 *En ce qui me concerne, le bonheur n’est pas la chose la plus importante
 qui soit au monde. Je ne deviendrais pas tout ce que je pourrais être à
@@ -374,7 +376,7 @@ dernière fois.*
 « *C’était presque assurément un incroyable coup de chance à moins que tu
 ne penses sérieusement qu’un enfant de un an avait une capacité innée à
 vaincre les Seigneurs des Ténèbres qui se serait maintenue dix ans plus
-tard. Rien de tout ça ne constitue ta vraie raison et* tu le sais* !* »
+tard. Rien de tout ça ne constitue ta vraie raison et *tu le sais* !* »
 
 La réponse à cela n’était pas quelque chose que Harry aurait
 généralement dit tout haut ; lors d’une conversation, il aurait dansé
@@ -446,8 +448,8 @@ l’alternative, pour toi, est l’échec certain, et que cet échec signifie
 que tu auras tout perdu. Tu le crois du fond du cœur. Tu connais toutes
 les raisons de douter de cette croyance, et elles ne t’ont pas ému.* »
 
-*Oui. Même si aller à Serdaigle* renforce *la froideur, ça ne veut pas
-dire que la froideur finira par* gagner*.*
+*Oui. Même si aller à Serdaigle *renforce* la froideur, ça ne veut pas
+dire que la froideur finira par *gagner*.*
 
 « *Ce jour est un grand embranchement de ton destin. Ne sois pas si sûr
 qu’il y existera d’autres choix après celui-ci. Il n’existe pas de
@@ -471,9 +473,9 @@ non sue, lors du prochain avertissement que je donnerai…* »
 *Si c’est comme ça que tu vois les choses, pourquoi est-ce que tu ne me*
 mets *pas là où tu veux que j’aille ?*
 
-Les pensées du Choixpeau étaient imprégnées de tristesse*. « Je peux
+Les pensées du Choixpeau étaient imprégnées de tristesse. « *Je peux
 seulement t’envoyer là où tu appartiens. Et seules tes décisions peuvent
-changer cela. »*
+changer cela.* »
 
 *Alors c’est dit. Envoie-moi à Serdaigle où j’appartiens, avec les
 autres tels que moi.*
@@ -524,9 +526,9 @@ déguerpir de ma pelouse.* »
 *Ce sera fait. Alors, était-ce la plus étrange de tes conversations ?*
 
 « *Loin de là.* » La voix télépathie du Choixpeau se fit plus lourde.
-* »Bon, je t’ai donné toutes les chances possibles de prendre une autre
+« *Bon, je t’ai donné toutes les chances possibles de prendre une autre
 décision. Il est maintenant temps pour toi d’aller là où tu appartiens,
-avec ceux qui te ressemblent. »*
+avec ceux qui te ressemblent.* »
 
 Il y eut une pause, qui s’étira.
 
