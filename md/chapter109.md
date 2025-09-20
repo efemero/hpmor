@@ -367,9 +367,9 @@ qui croient à l’au-delà pourraient la voir ? »
 plausible. En utilisant la capacité du Miroir à montrer leurs désirs
 profonds aux autres… Albus Dumbledore se verrait réunit avec sa famille.
 Il se verrait uni avec eux *dans la mort*, il voudrait mourir plutôt que
-de les voir revenir à la vie. Son frère Aberforth, sa sœur Ariana, ses
+de les voir revenir à la vie. Son frère Abelforth, sa sœur Ariana, ses
 parents Kendra et Perceval… et je pense que Dumbledore aurait donné la
-pierre à Aberforth. Le Miroir saurait-il que c’est Aberforth en
+pierre à Abelforth. Le Miroir saurait-il que c’est Abelforth en
 particulier qui a reçu la Pierre ? Ou n’importe quel parent mort
 ferait-il l’affaire, si celui qui fait face au miroir croit que l’esprit
 d’un membre de leur famille va leur donner la Pierre ? » Le professeur
@@ -535,8 +535,8 @@ vengeance est suffisamment terrible. »
 Harry sentit un tiraillement, la sensation que ce n’était *pas* ce que
 Dumbledore aurait dit. On aurait cru à un automate, une imitation
 superficielle… mais ce n’était pas non plus le véritable esprit
-d’Aberforth, c’était le professeur Quirrell imaginant Dumbledore
-imaginant Aberforth, et cette image doublement réfléchie du frère ne
+d’Abelforth, c’était le professeur Quirrell imaginant Dumbledore
+imaginant Abelforth, et cette image doublement réfléchie du frère ne
 remarquerait rien…
 
 « Il est temps de rendre la Pierre Philosophale, » dit l’homme qui prenait
@@ -547,7 +547,7 @@ Immobilité. Écoute.
 
 « Non, » dit l’homme, « Maître Flamel l’a gardée toutes ces années à l’abri
 de ceux qui recherche l’immortalité, et je pense que c’est entre ses
-mains qu’elle sera le plus en sûreté… non, Aberforth, je pense qu’il a
+mains qu’elle sera le plus en sûreté… non, Abelforth, je pense qu’il a
 de bonnes intentions. »
 
 Harry n’arrivait pas à contrôler la tension qui l’avait saisie, comme de
@@ -557,13 +557,13 @@ sous-jacente du professeur suintait, remarquait l’évidente question : si
 l’immortalité était horrible, pourquoi Nicholas Flamel pourrait-il avoir
 la Pierre ? Même si le professeur Quirrell avait imaginé que Dumbledore
 était aveugle à cette question, il n’avait pas précisé dans le sortilège
-que *l’image d’Aberforth de Dumbledore* n’y penserait pas ; et tout cela
+que *l’image d’Abelforth de Dumbledore* n’y penserait pas ; et tout cela
 n’était au fond qu’un reflet de l’esprit du professeur Quirrell, une
 image venue de l’intelligence de Tom Jedusor…
 
 « La détruire ? » dit l’homme. « Peut-être. Je ne suis pas sûr que ce soit
 *possible*, sans quoi Maître Flamel l’aurait fait il y a longtemps. Je
-pense qu’il a souvent regretté de l’avoir créée… Aberforth, je lui ai
+pense qu’il a souvent regretté de l’avoir créée… Abelforth, je lui ai
 promis, et nous n’avons ni son ancienneté ni sa sagesse. La Pierre
 Philosophale doit revenir à la garde de celui qui l’a faite. »
 

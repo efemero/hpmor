@@ -223,7 +223,7 @@ et tu vas lui dire non.* »
 « *Pour de l’argent, Alastor ?* » la voix de Dumbledore était suppliante.
 « *Seulement pour de l’argent ?* »
 
-« *Tu paies la rançon d’Aberforth, tu perds la guerre,* » dit sèchement
+« *Tu paies la rançon d’Abelforth, tu perds la guerre,* » dit sèchement
 l’homme. « *C’est aussi simple que ça. Cent mille Gallions, presque tout
 ce que nous avons dans notre trésor de guerre, et si tu l’utilises comme
 ça, on n’ira pas le remplir à nouveau. Qu’est-ce que tu vas faire,
