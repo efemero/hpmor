@@ -1388,7 +1388,7 @@ retenue de M. Potter. Merci. »
 
 Il y eut un unique applaudissement venant de Gryffondor, et plus vite
 que la lumière la baguette de Severus était dans sa main et
-*« Silencio* ! » fit taire le contrevenant.
+« *Silencio* ! » fit taire le contrevenant.
 
 « J’exigerai toujours la discipline et le respect dans *tous* mes cours, »
 dit froidement Severus, « quiconque essayant de me chahuter le
