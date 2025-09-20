@@ -214,13 +214,8 @@ que, si je vous laisse seul durant deux mois avec vos manuels scolaires,
 même sans baguette, je reviendrais dans cette maison et trouverais,
 à la place, un cratère bouillonnant d’une fumée violette entouré
 d’une ville dépeuplée, ainsi qu’un fléau de zèbres en feu terrorisant
-ce qui reste de l’Angleterre.
+ce qui reste de l’Angleterre. »
 
 La mère et le père de Harry hochèrent la tête à l’unisson.
 
 « *Maman ! Papa !* »
-11 phrases156 mots930 caractères
-0 / 24 détections
-Tout rétablir
-Apostrophe courbe – Vos réglages demandent l’emploi de l’apostrophe courbe, recommandée en typographie soignée. Réglage…
-
