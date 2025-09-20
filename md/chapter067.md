@@ -99,7 +99,7 @@ quelqu’un.
 Si vous aviez écouté attentivement, vous auriez remarqué que leurs
 bruits de pas étaient assez forts.
 
-« Donc, » dit le lieutenant chaotique après un moment. « C’est pour ça que
+« Donc », dit le lieutenant chaotique après un moment. « C’est pour ça que
 tu nous a fait pratiquer le duel avec tous ces poids attachés ? »
 
 Harry hocha la tête et garda ses yeux sur le compas qui pointait vers
@@ -107,12 +107,12 @@ Soleil ; si la direction se mettait à changer trop vite cela voudrait
 dire qu’ils étaient trop près.
 
 « Je ne voulais rien dire devant les autres mais deux semaines ne
-laissent pas beaucoup de temps aux muscles pour se développer, » dit
+laissent pas beaucoup de temps aux muscles pour se développer », dit
 Neville. « Et l’équilibre est différent ; et je pense que ça pèse *plus*
 lourd ; et est-ce que ça n’est pas comme de métamorphoser un objet
 moldu ? »
 
-« Nan, » dit Harry. « J’ai vérifié à l’avance. On peut en voir sur des
+« Nan », dit Harry. « J’ai vérifié à l’avance. On peut en voir sur des
 statues de Poudlard, certains sorciers en *portaient*, même si c’était
 juste la mode du Moyen-Âge. » Et puisque personne n’essaierait ça *sans*
 se battre contre des élèves de première année armés de sortilèges
@@ -125,7 +125,7 @@ légion du Chaos qui suivait elle-même l’armée Dragon. Harry choisit donc
 la direction qui semblait la meilleure et Neville le suivit.
 
 « On ferait mieux d’essayer un rapide sortilège de silence sur ce truc
-quand on s’approchera, » dit Neville. « Ça fait pas mal de bruit, ils
+quand on s’approchera », dit Neville. « Ça fait pas mal de bruit, ils
 pourraient comprendre. »
 
 Harry hocha la tête puis dit « bonne idée » au cas où Neville ne l’aurait
@@ -166,10 +166,10 @@ Neville étaient en train d’apprendre à faire. Elle avait fini par partir
 en parler au capitaine Goldstein, qui comprenait le Moral des Troupes et
 autres choses de ce genre, et Anthony avait suggéré -
 
-« C’est bizarre, » dit soudain le capitaine Macmillan, fronçant les
+« C’est bizarre », dit soudain le capitaine Macmillan, fronçant les
 sourcils devant les compas flamboyants et iridescents qu’il tenait dans
 chacune de ses mains (Ernie était, comme Harry l’aurait formulé, « bon en
-visualisation spatiale, » et avait donc été désigné pour porter les
+visualisation spatiale », et avait donc été désigné pour porter les
 compas et essayer comprendre ce que leurs ennemis fabriquaient). « Je
 pense… que Dragon ne bouge plus très vite… je pense qu’ils sont passés
 de l’autre côté de Chaos avant nous… et on dirait que Chaos avance pour
@@ -181,7 +181,7 @@ Dragon s’attaquaient directement et épuisaient leurs forces l’un contre
 l’autre, ce serait quasiment comme de concéder la bataille à Soleil…
 
 « Potter pense qu’on est alliés donc il attaque Malefoy maintenant avant
-que Dragon ne puisse nous rejoindre, » dit Blaise Zabini depuis les rangs
+que Dragon ne puisse nous rejoindre », dit Blaise Zabini depuis les rangs
 des soldats ordinaires. « Ou il pense qu’il peut battre les deux armées à
 la suite s’il les attaque séparément. » Le Serpentard eut un soupir
 condescendant. « Allez-vous me re-promouvoir officier, maintenant ? Vous
@@ -191,7 +191,7 @@ Ils ignorèrent tous les bruits qui émanaient de la bouche de Zabini.
 
 « On va toujours dans la bonne direction ? » demande Anthony.
 
-« Ouais, » dit Ernie.
+« Ouais », dit Ernie.
 
 « On s’approche d’eux ? » dit Ron.
 
@@ -234,14 +234,14 @@ contorsionnant désespérément pour se mettre hors de son chemin, puis
 elle se releva du mieux qu’elle put, haletante, et vit que cette fois-ci
 le coup avait eu Ron pendant qu’il se relevait.
 
-« Coucou, Soleil, » dit la voix de Harry, depuis sa capuche.
+« Coucou, Soleil », dit la voix de Harry, depuis sa capuche.
 
-« Nous sommes les Chevaliers Gris du Chaos, » dit la voix de Neville.
+« Nous sommes les Chevaliers Gris du Chaos », dit la voix de Neville.
 
-« Nous serons vos ennemis lors de cette bataille, » dit la voix de Harry,
+« Nous serons vos ennemis lors de cette bataille », dit la voix de Harry,
 « pendant que l’*autre* armée du Chaos massacrera les Dragons. »
 
-« Et au fait, » dit la voix de Neville, « nous sommes invincibles. »
+« Et au fait », dit la voix de Neville, « nous sommes invincibles. »
 
 
 
@@ -329,12 +329,12 @@ avait vu certains films, ça n’était pas très impressionnant.
 Mais il fallait quand même reconnaître qu’ils avaient déjà du mérite
 d’utiliser des sabres lasers.
 
-« Interruption au sujet des règles, » dit la voix de Harry. « Je sais que
+« Interruption au sujet des règles », dit la voix de Harry. « Je sais que
 le professeur de Défense regarde mais je me dois quand même de poser la
 question : quelqu’un sait-il s’ils se découperont en deux si jamais ils
 se touchent vraiment — »
 
-« Non, » dit Hermione d’un ton absent. Ça avait été dans un de ses livres
+« Non », dit Hermione d’un ton absent. Ça avait été dans un de ses livres
 d’Histoire, même si elle ne savait pas que les épées de duel magiques
 ressemblaient à *ça*. « Ils les ont invoquées de façon à ce qu’elles ne
 fassent qu’étourdir quand elles touchent. »
@@ -346,18 +346,18 @@ pour les membres des maisons Nobles et Très Anciennes — »
 
 Hermione se tut et regarda alors Harry, ou plutôt sa capuche grise.
 
-« Eh bien, » dit la voix de Harry, « dans ce cas je suppose que je pourrais
+« Eh bien », dit la voix de Harry, « dans ce cas je suppose que je pourrais
 descendre le reste du régiment Soleil à moi tout seul. » Elle ne pouvait
 pas voir son visage mais il avait la voix de quelqu’un qui souriait.
 
-« Tu as esquivé quand Daphné t’a renvoyé ton propre sort, » dit Hermione.
+« Tu as esquivé quand Daphné t’a renvoyé ton propre sort », dit Hermione.
 « Donc quoi que tu aies fait, tu n’es *pas* invincible. Un *Stupéfix*
 peut toujours t’avoir. »
 
-« Théorie intéressante, » dit la voix de Harry sous sa capuche. « Tu as
+« Théorie intéressante », dit la voix de Harry sous sa capuche. « Tu as
 quelqu’un dans ton armée qui peut tester ça ? »
 
-« J’ai lu quelque chose sur le sortilège d’étourdissement, un jour, » dit
+« J’ai lu quelque chose sur le sortilège d’étourdissement, un jour », dit
 Hermione. « Il y a quelques mois. Je me demande si je pourrais me
 souvenir des instructions ? » Sa baguette s’éleva vers Harry.
 
@@ -365,7 +365,7 @@ Il y eut une courte pause tandis que non loin, un garçon et fille aux
 halètements sonores se mettaient lentement la pâtée à coups de sabre
 laser.
 
-« Bien sûr, » dit Harry, pointant sa propre baguette vers elle, « *je* peux
+« Bien sûr », dit Harry, pointant sa propre baguette vers elle, « *je* peux
 juste utiliser Somnium sur toi. Ça me demandera beaucoup moins
 d’efforts. »
 
@@ -379,12 +379,12 @@ dans le livre. Ce serait une prouesse de haut vol, même pour elle, mais
 il *fallait* qu’elle réussisse du premier coup car elle ne pouvait se
 permettre de perdre de l’énergie dans des incantations échouées.
 
-« Tu sais, » dit Hermione Granger, « je comprends que ce n’est pas vraiment
+« Tu sais », dit Hermione Granger, « je comprends que ce n’est pas vraiment
 ta faute, mais je commence à en avoir assez d’entendre les gens parler
 du Survivant comme si tu étais — comme si tu étais une sorte de *dieu*
 ou quelque chose dans le genre. »
 
-« Franchement, pareil pour moi, » dit Harry Potter. « C’est triste de voir
+« Franchement, pareil pour moi », dit Harry Potter. « C’est triste de voir
 à quel point les gens continuent de me sous-estimer. »
 
 Sa baguette continua de répéter le diamant dans le cercle, encore et
@@ -393,7 +393,7 @@ qu’elle pratiquait son sortilège au maximum avant d’attaquer. « Je
 commence à penser que vous avez besoin qu’on vous remette à votre place,
 général Chaos. »
 
-« Tu as peut-être raison, » dit calmement Harry. Sa pieds commencèrent à
+« Tu as peut-être raison », dit calmement Harry. Sa pieds commencèrent à
 se mouvoir selon ce qu’elle savait être une danse de duettiste.
 « Malheureusement, il n’y a plus rien qui puisse me vaincre à part un
 autre Harry Potter. »
@@ -405,7 +405,7 @@ votre place. »
 
 « Tu crois que t’as plutôt la classe, hein ? » dit Hermione.
 
-« Mais oui, » dit Harry. « Oui, en effet. Certains dirons peut-être que
+« Mais oui », dit Harry. « Oui, en effet. Certains dirons peut-être que
 c’est arrogant, mais suis-je censé être la dernière personne à Poudlard
 à remarquer à quel point je suis génial ? »
 
@@ -419,7 +419,7 @@ de faire la leçon à ses soldats, avait essayé sur une suggestion
 d’Anthony de leur donner un général Soleil qui aurait *l’air* de pouvoir
 vaincre des ennemis invincibles.
 
-« Tu te prends pour Superman, » dit Hermione. Elle leva son gauche plus
+« Tu te prends pour Superman », dit Hermione. Elle leva son gauche plus
 haut et les huit soldats qui la soutenaient la firent léviter au-dessus
 du sol. « *Eh bien voilà Super Hermione !* » Elle brandit sa main en
 avant, et, tout en se faisant propulser vers Harry, regrettant seulement
@@ -473,7 +473,7 @@ toujours affecté par la magie), « *Expelliarmus !* » et la baguette de
 Theodore s’envola (et Drago se rendit alors compte que de toute façon ça
 aurait été un bon sortilège à lancer), mais Theodore fonçait vers Drago
 bras tendus en avant pour le saisir si bien que Drago hurla
-« *Flipendo !*, » les pied de l’autre garçon se renversèrent abruptement -
+« *Flipendo !* », les pied de l’autre garçon se renversèrent abruptement -
 
 \- et son dos heurta le sol dans un fracas *métallique* étonnamment
 fort.
@@ -497,8 +497,8 @@ yeux et parvint à dire aussi clairement que possible : « Si le sortilège
 de sommeil — ne fonctionne pas — visez leur visage — je pense que les
 Lieutenants portent des hauts de métal. »
 
-« Tu as déjà perdu trop de soldats, » dit Finnigan d’une voix forte depuis
-l’autre côté de la barrière, « on vous battra quand même, » puis le
+« Tu as déjà perdu trop de soldats », dit Finnigan d’une voix forte depuis
+l’autre côté de la barrière, « on vous battra quand même », puis le
 Gryffondor eut un rire démoniaque. Il le faisait maintenant presque
 aussi bien que Harry Potter, et les autres légionnaires du Chaos se
 mirent rapidement à rire avec lui.

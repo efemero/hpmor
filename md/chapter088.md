@@ -39,7 +39,7 @@ debout sur sa chaise, comme d’habitude, le directeur semblait encore
 vacances), les professeurs Chourave, Sinistra et Vector mangeaient entre
 elles comme à leur habitude et…
 
-« Vous savez, » dit Harry en tournant la tête pour regarder l’illusion
+« Vous savez », dit Harry en tournant la tête pour regarder l’illusion
 d’un ciel bleu radieux située au plafond, « ça me fout encore les jetons,
 parfois. »
 
@@ -50,7 +50,7 @@ subissait-sa-mystérieuse-affliction : ses mains faisaient des tentatives
 hésitantes et tâtonnantes vers une cuisse de poulet placée sur son
 assiette qui semblait lui échapper.
 
-« Euh, rien, » dit Harry. « Je ne suis pas encore habitué à Poudlard. »
+« Euh, rien », dit Harry. « Je ne suis pas encore habitué à Poudlard. »
 
 Il continua de manger dans un silence relatif tandis que divers Weasley
 discutaient d’une étrange substance aux effets psychiques appelée Canons
@@ -62,12 +62,12 @@ veux dire, je suis juste curieuse. Je m’appelle Brienne, au fait. » Elle
 avait l’un de ces regards que Harry avait fermement décidé d’ignorer
 tant qu’il ne serait pas plus âgé.
 
-« Alors, » dit Harry, « tu vois ces programmes d’intelligence artificielle
+« Alors », dit Harry, « tu vois ces programmes d’intelligence artificielle
 très simples, comme ELIZA, qui sont programmés pour faire des phrases
 syntaxiquement correctes à partir des mots de l’Anglais mais qui ne
 possèdent aucune compréhension du sens de ces mots ? »
 
-« Bien sûr, » dit la sorcière. « J’en ai une dizaine dans ma malle. »
+« Bien sûr », dit la sorcière. « J’en ai une dizaine dans ma malle. »
 
 « Eh bien je suis à peu près certain que ma capacité à comprendre les
 filles est à ce niveau. »
@@ -125,7 +125,7 @@ jets de feu violet.
 Il y eut un silence stupéfait, exception faite des sanglots hachés
 d’Argus.
 
-« Il semble qu’une créature dangereuse est en liberté dans Poudlard, »
+« Il semble qu’une créature dangereuse est en liberté dans Poudlard »,
 dit-elle aux professeurs assis à la grande table. « Je vais vous demander
 à tous d’aider à la chercher dans les couloirs. » Elle se tourna alors
 vers les élèves stupéfaits et attentifs et leva la voix : « Préfets -
@@ -143,12 +143,12 @@ Puis une voix claire et froide parla sous le bruissement soudain.
 Elle se retourna.
 
 Le professeur de Défense essuyait calmement ses mains avec sa serviette
-tout en se levant de la grande table. « Avec tout mon respect, » dit
+tout en se levant de la grande table. « Avec tout mon respect », dit
 l’homme dont l’identité était inconnue, « vous n’êtes pas experte en
 tactiques de combat, madame. Dans cette situation, il serait plus sage
 de … »
 
-« Je vous prie de m’excuser, professeur, » dit le professeur McGonagall en
+« Je vous prie de m’excuser, professeur », dit le professeur McGonagall en
 se tournant vers les grandes portes. Filius et Pomona s’étaient déjà
 levés pour la suivre, de même que le demi-géant Rubeus Hagrid, qui les
 surplomba en se levant. Elle en était au stade où elle n’avait déjà eu
@@ -164,7 +164,7 @@ la table Gryffondor et claqua des mains, faisant un bruit qui
 ressemblait à celui d’un plancher qui se brisait.
 
 « Michelle Morgan, de Gryffondor, commandante en second de l’armée de
-Pinnini, » dit-il calmement dans le silence qui s’était installé.
+Pinnini », dit-il calmement dans le silence qui s’était installé.
 « Conseillez s’il vous plaît la directrice de votre maison. »
 
 Michelle Morgan grimpa sur son banc et parla, la petite sorcière
@@ -179,27 +179,27 @@ duelliste, afin qu’ils ne traversent pas leurs lignes de mire
 respectives. » Michelle hésita. « Je suis désolée, M. Hagrid, mais… ça ne
 serait pas sûr pour vous, vous devriez rester derrière avec les élèves.
 Et le professeur Trelawney ne devrait pas faire face à un Troll seule
-non plus, » Michelle semblait beaucoup moins désolée de prodiguer ce
+non plus », Michelle semblait beaucoup moins désolée de prodiguer ce
 conseil, « mais si elle fait équipe avec le professeur Quirrell, ils
 pourraient ensemble former une unité de combat supplémentaire digne de
 confiance. Ceci conclut mon analyse, professeur. »
 
-« Acceptable, pour une réponse sur le vif, » dit le professeur de Défense.
+« Acceptable, pour une réponse sur le vif », dit le professeur de Défense.
 « Vingt points Quirrell pour vous. Mais vous négligez un argument encore
 plus simple : chez soi ne veut pas dire en sécurité, et un Troll est
 assez puissant pour arracher une porte à portrait de ses gonds… »
 
-« Assez, » lâcha Minerva d’un ton sec. « Merci, Mlle Morgan. » Elle regarda
+« Assez », lâcha Minerva d’un ton sec. « Merci, Mlle Morgan. » Elle regarda
 les tables, qui attendaient. « Tous les élèves, faites ce qu’elle a dit. »
 Elle se retourna vers la grande table. « Professeur Trelawney, vous
 accompagnerez le professeur de Défense… »
 
-« Ah, » dit Sibylle d’une voix faible et hésitante. Sous son maquillage
+« Ah », dit Sibylle d’une voix faible et hésitante. Sous son maquillage
 excessif et son fatras de châles, la femme semblait plutôt pâle. « J’ai
 peur… j’ai peur de ne pas me sentir très bien aujourd’hui… en fait je me
 sens plutôt mal… »
 
-« Vous n’aurez pas à vous battre contre le troll, » dit Minerva d’un ton
+« Vous n’aurez pas à vous battre contre le troll », dit Minerva d’un ton
 dur, sa patience à l’épreuve, comme à chacune de ses interactions avec
 cette femme. « Restez juste avec le professeur de Défense et ne le
 laissez pas un instant hors de votre champ de vision, vous devrez
@@ -420,7 +420,7 @@ Le babillage diminua encore plus.
 Personne n’éleva la voix pour crier quelque chose à son intention, et en
 particulier, pas ne t’inquiète pas Harry, je suis là.
 
-« Oh, Merlin, » dit quelqu’un de proche, et le babillage reprit sur un
+« Oh, Merlin », dit quelqu’un de proche, et le babillage reprit sur un
 nouveau ton agité.
 
 Harry regarda ses mains, il fit abstraction des braillements et essaya
@@ -462,7 +462,7 @@ Les gens se tournèrent pour le regarder.
 La gorge de Harry lui fit mal après cette phrase, mais il avait obtenu
 l’attention de tous.
 
-« J’ai un balais volant, » dit-il aussi fort que possible avec sa gorge
+« J’ai un balais volant », dit-il aussi fort que possible avec sa gorge
 encore douloureuse. Lorsqu’il avait demandé un balais capable de
 transporter trois personnes, c’était parce qu’il s’était souvenu
 d’Azkaban et du balais sur lequel seulement deux avaient pu s’asseoir.
@@ -501,7 +501,7 @@ vers leur crâne…
 Tic.
 
 Le remède standard à l’effet du témoin était de se concentrer sur un
-individu en particulier. « Très bien, » dit Harry, en essayant de
+individu en particulier. « Très bien », dit Harry, en essayant de
 maintenir la voix autoritaire du Survivant qui ne doutait pas qu’on lui
 obéisse. « Mlle Morgan, venez avec moi, maintenant. Nous n’avons pas de
 temps à perdre. »
@@ -537,7 +537,7 @@ Quelque part au fond de son esprit, le professeur Quirrell riait de lui
 que les choses soient parfaitement limpides sur le plan stratégique,
 sans que la responsabilité n’ait clairement été dirigée vers elle
 personnellement, et alors qu’elle avait une bonne excuse pour ne rien
-faire… « La vie d’une élève est en jeu, » dit Harry d’un ton neutre. « Elle
+faire… « La vie d’une élève est en jeu », dit Harry d’un ton neutre. « Elle
 pourrait être en train de se battre contre le troll, maintenant. Simple
 curiosité, est-ce que cela signifie quoi que ce soit pour toi ? »
 
@@ -562,7 +562,7 @@ Harry se retourna pour regarder l’immense demi-géant qui dominait la
 foule et toutes les autres têtes se tournèrent vers ce dernier d’un seul
 mouvement.
 
-« M. Hagrid, » dit Harry en essayant de maintenir son ton imposant. « J’ai
+« M. Hagrid », dit Harry en essayant de maintenir son ton imposant. « J’ai
 besoin que vous autorisiez cette expédition et j’ai besoin que vous le
 fassiez maintenant. »
 
@@ -589,7 +589,7 @@ Il y eut quelques rires en même temps que quelques cris d’indignations
 venus d’ailleurs.
 
 Le visage du demi-géant gagna en assurance. « Toi tu restes là, mon
-gars, » dit M. Hagrid d’une voix retentissante qui essayait probablement
+gars », dit M. Hagrid d’une voix retentissante qui essayait probablement
 d’être douce. « J’vais la trouver d’mon chef. L’truc, c’est qu’les trolls
 peuvt’être un brin roublards — faut les choper par un talon et les
 s’couer juste c’qui faut ou y t’couperont net en deux… »
@@ -798,7 +798,7 @@ cas d’urgence ? »
 
 « Ah… il y a le feu de cheminette… »
 
-« Elle n’est pas dans son bureau, » dit Harry. « Avez-vous un autre moyen
+« Elle n’est pas dans son bureau », dit Harry. « Avez-vous un autre moyen
 d’entrer en contact avec elle. Oui ou non. »
 
 « Jeune homme, j’insiste pour que vous… »
@@ -839,17 +839,17 @@ maintenant ! »
 
 La silhouette d’argent se retourna comme pour partir puis disparut.
 
-« Par les caleçons de Merlin, » souffla Fred ou George.
+« Par les caleçons de Merlin », souffla Fred ou George.
 
 La silhouette d’argent réapparut d’un coup et dit de l’étrange version
-externe de la voix de Harry : « Hermione Granger dit :, » la voix de
+externe de la voix de Harry : « Hermione Granger dit : », la voix de
 l’éclatante silhouette devint aiguë : « AHHHHHHHHH ! ».
 
 Le temps sembla se briser, comme si tout se déplaçait très vite et
 ralentissait en même temps. Une pulsion désespéré de faire accélérer le
 balais, de voler à vitesse maximale, sauf que Harry ne savait pas où…
 
-« Si tu sais où elle est, » cria à Harry à la silhouette humanoïde faite
+« Si tu sais où elle est », cria à Harry à la silhouette humanoïde faite
 de lumière, en la regardant comme on aurait regardé le soleil, « alors
 amène-moi à elle ! »
 

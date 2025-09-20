@@ -38,15 +38,15 @@ charme de réchauffement ne semble pas tout à fait suffire à compenser
 l’air froid et mordant de décembre n’arrangeait pas les choses, ou
 peut-être n’était-ce que leur humeur qui était à l’œuvre.
 
-« *Assez*, » dit Granger. « J’en ai *assez* ! Plus de traîtres ! »
+« *Assez* », dit Granger. « J’en ai *assez* ! Plus de traîtres ! »
 
-« Je suis entièrement d’accord avec vous, Mlle Granger, » dit Drago d’un
+« Je suis entièrement d’accord avec vous, Mlle Granger », dit Drago d’un
 ton de glace. « Trop, c’est trop. »
 
 « Et qu’est que *vous* comptez y faire ? » lâcha Harry Potter. « Le
 professeur Quirrell a déjà dit qu’il ne bannirait pas les espions ! »
 
-« Nous les bannirons *pour* lui, » dit Drago d’un ton sinistre. Il n’avait
+« Nous les bannirons *pour* lui », dit Drago d’un ton sinistre. Il n’avait
 même pas compris ce qu’il avait voulu dire lorsqu’il avait prononcé ces
 mots, mais l’acte de parler semblait avoir cristallisé un plan -
 
@@ -74,7 +74,7 @@ contenaient les trois parchemins sur lesquels les trois généraux avaient
 écrit leurs vœux, tandis que tous les étudiants de Poudlard regardaient
 et attendaient.
 
-Enfin, le professeur Quirrell releva les yeux. « Eh bien, » dit le
+Enfin, le professeur Quirrell releva les yeux. « Eh bien », dit le
 professeur de Défense. « C’est assez malvenu. »
 
 Un léger ricanement teinté d’une nuance acérée parcourut la foule.
@@ -88,7 +88,7 @@ faire part quelque chose. »
 Drago cligna des yeux, puis lui et Granger échangèrent des regards
 rapides — *je peux* — *oui, vas-y* — et Drago éleva la voix.
 
-« Le général Granger et moi voudrions tous les deux dire, » dit Drago de
+« Le général Granger et moi voudrions tous les deux dire », dit Drago de
 sa voix la plus formelle, sachant qu’elle était amplifiée et entendue,
 « que nous n’accepterons plus l’aide d’aucun traître. Et si, à quelque
 bataille que ce soit, nous découvrons que Potter a accepté des traîtres
@@ -100,7 +100,7 @@ général Chaos !*
 
 Il y eut un susurrement de surprise chez les étudiants.
 
-« Très bien, » dit le professeur de Défense en souriant. « Cela vous a pris
+« Très bien », dit le professeur de Défense en souriant. « Cela vous a pris
 assez longtemps, mais il faut quand même vous féliciter pour y avoir
 pensé avant tous les autres généraux. »
 
@@ -126,11 +126,11 @@ murmures abasourdis chez les étudiants, et lorsque Drago jeta un coup
 d’œil au premier rang il vit que même les chaotiques de Harry avaient
 été pris par surprise.
 
-Le visage de Granger était en colère, et cela empirait. « M. Potter, »
+Le visage de Granger était en colère, et cela empirait. « M. Potter »,
 dit-elle sur un ton acerbe, comme si elle pensait être un professeur,
 « *essayez-vous* d’être odieux ? »
 
-« Certainement pas, » dit calmement Harry Potter. « Je ne vous forcerai pas
+« Certainement pas », dit calmement Harry Potter. « Je ne vous forcerai pas
 à le faire à chaque fois. Battez-moi une fois, et je resterai vaincu.
 Mais les menaces ne suffisent pas toujours, général Soleil. Vous ne
 m’avez pas demandé de vous rejoindre, vous avez simplement essayé
@@ -154,7 +154,7 @@ pensé, mais *maintenant*, si Père obtempérait, il aurait l’air de jouer
 le jeu de Harry -
 
 « Si vous pensez que mon père Lord Malefoy peut-être manipulé par *vous*
-si facilement, » dit Drago avec froideur, « attendez-vous à être surpris,
+si facilement », dit Drago avec froideur, « attendez-vous à être surpris,
 Harry Potter. »
 
 Puis Drago se rendit compte, alors que les mots achevaient de quitter sa
@@ -164,7 +164,7 @@ monde, mais il lui serait maintenant impossible de le dire… Drago allait
 devoir s’excuser, ça *avait* été un accident sincère, mais il lui était
 malgré tout étrange de penser qu’il l’avait fait.
 
-« Alors allez-y, et vainquez le maléfique général Chaos, » dit Harry,
+« Alors allez-y, et vainquez le maléfique général Chaos », dit Harry,
 l’air toujours amusé. « Je ne peux pas gagner contre vos deux armées -
 pas si vous travaillez *vraiment* ensemble. Mais je me demande si je
 pourrais peut-être vous séparer avant cela. »
@@ -173,7 +173,7 @@ pourrais peut-être vous séparer avant cela. »
 
 Et, à côté de lui, Hermione hocha vigoureusement la tête.
 
-« Eh bien, » dit le professeur Quirrell à la suite du silence stupéfait
+« Eh bien », dit le professeur Quirrell à la suite du silence stupéfait
 qui s’était étiré un moment. « Je n’avais *pas* prévu que cette petite
 conversation se déroulerait ainsi. » Le professeur de Défense avait une
 expression plutôt intriguée. « À vrai dire, M. Potter, je m’attendais à
@@ -183,10 +183,10 @@ leçon que je souhaitais enseigner mais que vous aviez décidé de ne pas
 gâcher la surprise pour les autres. De fait, j’avais prévu mon discours
 en fonction de cela. »
 
-Harry Potter se contenta de hocher les épaules. « Désolé, » dit-il, et il
+Harry Potter se contenta de hocher les épaules. « Désolé », dit-il, et il
 se tint coi.
 
-« Oh, ne vous en faites pas, » dit le professeur Quirrell. « Cela aura
+« Oh, ne vous en faites pas », dit le professeur Quirrell. « Cela aura
 aussi son utilité. »
 
 Et le professeur Quirrell se détourna des trois enfants, et il se
@@ -195,7 +195,7 @@ son air habituel de détachement amusé disparut comme un masque qui
 serait tombé, et lorsqu’il parla de nouveau sa voix était amplifiée avec
 plus force qu’elle ne l’avait été jusque là.
 
-« Sans Harry Potter, » dit le professeur Quirrell, sa voix aussi froide et
+« Sans Harry Potter », dit le professeur Quirrell, sa voix aussi froide et
 mordante qu’un mois de décembre, « Vous-Savez-Qui aurait gagné. »
 
 Le silence fut instantané, total.
@@ -206,7 +206,7 @@ Le silence fut instantané, total.
 
 
 
-« Ne vous y trompez pas, » dit le professeur Quirrell. « Le Seigneur des
+« Ne vous y trompez pas », dit le professeur Quirrell. « Le Seigneur des
 Ténèbres *gagnait*. Il y avait de moins en moins d’Aurors osant lui
 faire face, les groupes d’autodéfenses qui s’opposaient à lui étaient
 pourchassés. Un Seigneur des Ténèbres et peut-être cinquante Mangemorts
@@ -227,7 +227,7 @@ quel* ennemi extérieur soudé. »
 
 Le professeur Quirrell se pencha en avant au-dessus du podium, sa voix
 maintenant teintée d’une lugubre intensité. Sa main droite s’étira,
-doigts ouverts. « La division est la faiblesse, » dit le professeur de
+doigts ouverts. « La division est la faiblesse », dit le professeur de
 Défense. Sa main se referma en un poing serré. « L’unité est la force. Le
 Seigneur des Ténèbres comprenait bien cela, quelles qu’aient été ses
 autres erreurs ; et il a *utilisé* ce savoir pour créer la seule
@@ -297,7 +297,7 @@ un vrai Seigneur, des Ténèbres ou pas. »
 Les poings de Drago Malefoy étaient blancs, il y avait des larmes dans
 ses yeux, et de la furie, et une honte insupportable.
 
-« Non, » dit le professeur Quirrell. « Je ne pense pas que Lucius Malefoy
+« Non », dit le professeur Quirrell. « Je ne pense pas que Lucius Malefoy
 sera celui qui vous sauvera. Et si vous pensez que je parle en mon
 propre nom, le temps montrera assez tôt que ce n’est pas le cas. Je ne
 vous fais aucune recommandation, mes étudiants. Mais je dis que si tout
@@ -317,7 +317,7 @@ la fois consternée et en colère.
 Le directeur se leva, son visage maintenant grave, n’ayant pas encore
 ouvert la bouche ; mais l’ordre était clair.
 
-« Je ne dis pas *quelle* menace viendra, » dit le professeur Quirrell.
+« Je ne dis pas *quelle* menace viendra », dit le professeur Quirrell.
 « Mais vous ne vivrez pas en paix, pas si l’histoire du monde passé doit
 nous servir de guide quant à son futur. Et si vous, à l’avenir, faites
 ce que vous avez vu ces trois armées faire aujourd’hui, si vous ne
@@ -335,10 +335,10 @@ se tenait Albus Dumbledore et la furie de ses pouvoirs de sorcier ;
 leurs yeux se rencontrèrent et une pression inaudible s’abattit sur tous
 les élèves, qui écoutaient mais n’osaient pas bouger.
 
-« Vous aussi avez manqué à votre devoir envers ce pays, » dit le
+« Vous aussi avez manqué à votre devoir envers ce pays », dit le
 professeur Quirrell. « Et vous connaissez le péril aussi bien que moi. »
 
-« De tels discours ne sont pas pour les oreilles des élèves, » dit Albus
+« De tels discours ne sont pas pour les oreilles des élèves », dit Albus
 Dumbledore d’une voix qui grimpait dangereusement. « Ni pour les bouches
 des professeurs ! »
 
@@ -355,7 +355,7 @@ qu’un professeur vienne les sauver. »
 Et le professeur Quirrell se retourna vers ses élèves, et sa bouche fit
 un étrange sourire ironique qui sembla dissiper la terrible pression,
 comme le souffle d’un dieu qui aurait éparpillé des nuages. « Mais s’il
-vous plaît, soyez indulgents envers les traîtres jusqu’à aujourd’hui, »
+vous plaît, soyez indulgents envers les traîtres jusqu’à aujourd’hui »,
 dit le professeur Quirrell. « Ils ne faisaient que s’amuser. »
 
 Il y eut un rire, et s’il sembla nerveux au départ, il s’amplifia, alors
@@ -406,16 +406,16 @@ Drago Malefoy ?*
 Et il y eut un nouveau silence dans la foule lorsque le professeur
 Quirrell ouvrit la première enveloppe.
 
-« M. Malefoy, » dit le professeur Quirrell, « votre vœu est que… Serpentard
+« M. Malefoy », dit le professeur Quirrell, « votre vœu est que… Serpentard
 gagne la coupe des Maisons. »
 
 Il y eut un moment d’arrêt interloqué venant de l’audience attentive.
 
-« Oui, professeur, » dit Drago d’une voix claire, sachant qu’elle serait
+« Oui, professeur », dit Drago d’une voix claire, sachant qu’elle serait
 de nouveau amplifiée. « Si vous ne le pouvez pas, alors autre chose pour
 Serpentard — »
 
-« Je n’accorderai pas de points injustement, » dit le professeur Quirrell.
+« Je n’accorderai pas de points injustement », dit le professeur Quirrell.
 Il se tapota une joue, l’air pensif. « Ce qui rend votre vœu assez
 difficile pour être intéressant. Voudriez-vous dire quelques mots quant
 à vos raisons, M. Malefoy ? »
@@ -429,7 +429,7 @@ encouragées par ce que Zabini avait fait. Il fallait qu’il leur rappelle
 que Serpentard voulait dire Malefoy et que Malefoy voulait dire Serpentard
 -
 
-« Non, » dit Drago. « Ce sont des Serpentard, ils comprendront. »
+« Non », dit Drago. « Ce sont des Serpentard, ils comprendront. »
 
 Il y eut des rires venant de l’audience, en particulier chez les
 Serpentard, même chez certains élèves qui se seraient dit anti-Malefoy un
@@ -448,7 +448,7 @@ Il y eut une hilarité considérable venant de l’audience, y compris un
 gloussement de Drago. Il n’avait pas pensé que Granger aurait joué à ce
 jeu.
 
-« Eh bien, euh, » dit Granger, l’air de soudain trébucher sur un discours
+« Eh bien, euh », dit Granger, l’air de soudain trébucher sur un discours
 appris par cœur, « ce que je veux dire, c’est que… » elle prit une
 profonde inspiration. « Il y avait des soldats de chaque Maison dans mon
 armée, et je ne veux léser aucun d’entre eux. Mais les Maisons devraient
@@ -461,12 +461,12 @@ Poudlard. Je suis le général Soleil, mais bien avant cela, je suis
 Hermione Granger de Serdaigle, et je suis fière d’appartenir à une
 Maison vieille de huit cent ans. »
 
-« Bien dit, Mlle Granger !, » tonna la voix de Dumbledore.
+« Bien dit, Mlle Granger ! », tonna la voix de Dumbledore.
 
 Harry Potter fronçait les sourcils, et quelque chose gratta à l’orée de
 la conscience de Drago.
 
-« Un sentiment intéressant, Mlle Granger, » dit le professeur Quirrell.
+« Un sentiment intéressant, Mlle Granger », dit le professeur Quirrell.
 « Mais il est bon, en certaines occasions, qu’un Serpentard ait des amis
 à Serdaigle, ou qu’un Gryffondor ait des amis à Poufsouffle. Ne
 serait-il pas certainement meilleur de pouvoir à la fois compter sur les
@@ -487,7 +487,7 @@ Puis, sans aucun changement d’expression sur le visage du professeur
 Quirrell, le parchemin s’enflamma et brûla dans un feu bref et intense
 qui ne laissa qu’une poussière noire qui dériva loin de sa main.
 
-« Merci de vous en tenir au possible, M. Potter, » dit le professeur
+« Merci de vous en tenir au possible, M. Potter », dit le professeur
 Quirrell, d’un ton tout à fait sec.
 
 Il y eut une longue pause ; Harry, debout à côté de Drago, semblait
@@ -495,12 +495,12 @@ assez secoué.
 
 *Par Merlin, mais qu’est-ce qu’il a demandé* * ?*
 
-« J’espère, » dit le professeur Quirrell, « que vous avez préparé un autre
+« J’espère », dit le professeur Quirrell, « que vous avez préparé un autre
 vœu au cas où je ne pourrais vous accorder celui-ci. »
 
 Il y eut une autre pause.
 
-Harry prit une profonde inspiration. « Je n’ai rien fait de tel, » dit-il,
+Harry prit une profonde inspiration. « Je n’ai rien fait de tel », dit-il,
 « mais j’ai déjà trouvé un autre vœu. » Harry Potter pivota afin
 d’observer l’audience, et sa voix se raffermit au fur et à mesure qu’il
 parlait. « Les gens craignent les traîtres à cause des dommages directs
@@ -517,7 +517,7 @@ soi que ce que ce petit groupe fait est moins dommageable que ce que le
 pays entier peut faire pour les arrêter, que le remède peut être pire
 que le symptôme — »
 
-« M. Potter, » dit le professeur de Défense d’une voix soudain tranchante,
+« M. Potter », dit le professeur de Défense d’une voix soudain tranchante,
 « L’Histoire nous enseigne que vous avez tout simplement tort. La
 génération de vos parents a fait trop peu pour s’unir, pas trop !
 L’intégralité de ce pays a failli tomber, M. Potter, bien que vous
@@ -526,7 +526,7 @@ camarades de dortoir de Serdaigle combien d’entre eux ont perdu leur
 famille contre le Seigneur des Ténèbres. Ou si vous êtes plus sage, ne
 leur demandez *pas !* *Avez*-vous un vœu à faire, M. Potter ? »
 
-« Si vous permettez, » dit la douce voix d’Albus Dumbledore, « je
+« Si vous permettez », dit la douce voix d’Albus Dumbledore, « je
 souhaiterais entendre ce que le Survivant à a dire. Il a plus
 d’expérience que nous deux lorsqu’il s’agit de mettre fin à des
 guerres. »
@@ -546,14 +546,14 @@ de s’unir, alors on fait face à d’autres risques et à d’autres coûts, e
 l’ennemi essaiera aussi de tirer parti de ceux-ci. On ne peut pas
 s’arrêter de réfléchir au premier niveau de jeu. »
 
-« La simplicité a aussi beaucoup pour elle, M. Potter, » dit la voix sèche
+« La simplicité a aussi beaucoup pour elle, M. Potter », dit la voix sèche
 du professeur de Défense. « J’espère que vous avez appris quelque chose
 aujourd’hui quant aux dangers des stratégies plus complexes que celle
 consistant à unir son peuple et à attaquer son ennemi. Et si tout cela
 n’est pas lié à votre vœu d’une façon ou d’une autre, je serai fort
 courroucé. »
 
-« Oui, » dit Harry Potter, « ça a été assez difficile de trouver un vœu qui
+« Oui », dit Harry Potter, « ça a été assez difficile de trouver un vœu qui
 symbolise le coût de l’unité. Mais le problème d’agir ensemble ne
 concerne pas que les guerres, c’est quelque chose que nous devons
 résoudre tout au long de notre vie, tous les jours. Si tout le monde se
@@ -572,7 +572,7 @@ direction, est qu’à Poudlard, on joue au Quidditch sans le Vif d’Or. »
 « *QUOI ?* » hurlèrent cent voix dans la foule, et la mâchoire de Drago
 s’affaissa.
 
-« Le Vif gâche tout le jeu, » dit Harry Potter. « Tout ce que les autres
+« Le Vif gâche tout le jeu », dit Harry Potter. « Tout ce que les autres
 joueurs accomplissent finit par n’avoir aucune importance. Il serait
 bien plus sensé d’acheter une horloge. C’est une de ces choses
 incroyablement stupides que vous ne remarquez pas parce que vous avez
@@ -605,28 +605,28 @@ malgré tout surpris ; il échangea des regards rapides avec Granger, ils
 auraient évidemment dû être alliés, mais leurs vœux étaient directement
 opposés l’un à l’autre -
 
-« Vous voulez dire, » dit Harry, « que nous devons tous nous mettre
+« Vous voulez dire », dit Harry, « que nous devons tous nous mettre
 d’accord sur un vœu ? »
 
-« Oh, ce serait bien *trop* vous demander, » dit le professeur Quirrell.
+« Oh, ce serait bien *trop* vous demander », dit le professeur Quirrell.
 « Vous trois n’avez pas d’ennemi commun, que je sache ? »
 
 Et pendant un bref instant, si vite que Drago se demanda s’il aurait pu
 l’imaginer, les yeux du professeur de Défense clignèrent vers
 Dumbledore.
 
-« Non, » dit le professeur Quirrell, « je veux dire que j’exaucerai trois
+« Non », dit le professeur Quirrell, « je veux dire que j’exaucerai trois
 vœux au moyen d’une seule intrigue. »
 
 Il y eut un silence confus.
 
-« Vous ne pouvez pas faire ça, » dit catégoriquement Harry, à côté de
+« Vous ne pouvez pas faire ça », dit catégoriquement Harry, à côté de
 Drago. « Même *moi* je ne peux pas le faire. Deux de ces vœux sont
 mutuellement incompatibles. C’est *logiquement impossible* — » puis Harry
 s’interrompit.
 
 « Il vous manque quelques années avant de pouvoir me dire ce que je ne
-peux pas faire, M. Potter, » dit le professeur Quirrell avait un bref
+peux pas faire, M. Potter », dit le professeur Quirrell avait un bref
 sourire sec.
 
 Puis le professeur Quirrell se retourna vers les élèves. « À vrai dire,

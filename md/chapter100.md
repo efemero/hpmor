@@ -22,7 +22,7 @@ Drago par Rusard alors qu’ils se rendaient à un meeting des Serpentard
 Scintillants programmé pour après le couvre-feu et, comme lui, avait
 écopé d’une retenue.
 
-« Contentez-vous de me suivre, » dit Argus Rusard.
+« Contentez-vous de me suivre », dit Argus Rusard.
 
 Drago se sentait passablement agacé par ce contretemps. Les Serpentard
 Scintillants auraient dû être une institution reconnue par l’école. Il
@@ -55,7 +55,7 @@ ne dit rien. À côté d’elle se trouvait l’autre, un grand garçon aux
 traits slaves et qui s’exprimait encore avec un accent. Ils avaient été
 surpris pour une autre raison, en rapport le genre de chose dont Tracey
 n’arrêtait pas de parler, et semblaient être en troisième ou quatrième
-année. « Bah, » dit le garçon plus grand. « À Durmstrang ils vous pendent
+année. « Bah », dit le garçon plus grand. « À Durmstrang ils vous pendent
 par les orteils. Par un orteil si vous êtes insolent. Poudlard a
 toujours été trop clémente. »
 
@@ -87,12 +87,12 @@ bourrue des demi-géants. Son parapluie projetait une lueur blanche, plus
 forte que la lampe de Rusard. Dans son autre main se trouvait une
 arbalète ; un carquois de flèches était lacé à son bras.
 
-« Des élèves en retenue, » dit Rusard avec force. « Ils sont ici pour vous
+« Des élèves en retenue », dit Rusard avec force. « Ils sont ici pour vous
 aider à chercher dans la forêt ce qui… ce qui les a mangées. »
 
 « La *Forêt* ? » s’étrangla Tracey. « On ne peut pas y aller la nuit ! »
 
-« Absolument, » dit Rusard en se détournant de Hagrid pour les regarder
+« Absolument », dit Rusard en se détournant de Hagrid pour les regarder
 avec colère. « C’est dans la Forêt que vous allez, et je serais bien
 détrompé si vous ressortiez tous en un seul morceau. »
 
@@ -114,11 +114,11 @@ homme normal venait de voir tout l’air expulsé de ses poumons sous le
 coup d’un sortilège matraqueur). « T’as fait ton boulot. Je m’occupe de
 la suite. »
 
-« Je reviendrai à l’aube, » dit Rusard, « pour ce qui reste d’eux, »
+« Je reviendrai à l’aube », dit Rusard, « pour ce qui reste d’eux »,
 ajouta-t-il avec méchanceté avant de se détourner et de repartir vers le
 château dans la lumière de sa lampe, branlante au milieu des ténèbres.
 
-« Très bien, » dit Hagrid, « maintenant, écoutez-moi bien, pac’que c’est
+« Très bien », dit Hagrid, « maintenant, écoutez-moi bien, pac’que c’est
 dangereux c’qu’on va faire ce soir et j’y veux pas voir quelqu’un
 prendre des risques. Suivez-moi par ici. »
 
@@ -127,7 +127,7 @@ il désigna un sentier étroit et sinueux qui disparaissait entre d’épais
 arbres noirs. Une légère brise souffla par-dessus la tête de Drago
 lorsqu’il regarda dans la Forêt.
 
-« Y’a un truc là-dedans qu’y a mangé des licornes, » dit l’immense homme.
+« Y’a un truc là-dedans qu’y a mangé des licornes », dit l’immense homme.
 
 Drago hocha la tête ; il se souvenait plus ou moins avoir entendu
 quelque chose à ce sujet deux semaines auparavant, vers la fin d’avril.
@@ -135,28 +135,28 @@ quelque chose à ce sujet deux semaines auparavant, vers la fin d’avril.
 « Est-ce que vous nous avez fait venir pour remonter une piste de sang
 argenté jusqu’à une licorne blessée ? » dit Tracey avec excitation.
 
-« Non, » dit Drago, quoi qu’il parvint à interrompre son ricanement
+« Non », dit Drago, quoi qu’il parvint à interrompre son ricanement
 réflexe. « Rusard nous a informé de notre retenue aujourd’hui à midi. M.
 Hagrid n’attendrait pas aussi longtemps pour aller chercher une licorne
 blessée, et si nous en cherchions une, nous le ferions en pleine
-journée, dans la lumière. Donc, » Drago leva un doigt comme il avait vu
+journée, dans la lumière. Donc », Drago leva un doigt comme il avait vu
 l’inspecteur León le faire dans des pièces, « j’en déduis que nous
 cherchons quelque chose qui ne sort que la nuit. »
 
-« Yep, » dit le demi-géant d’un ton pensif. « T’es pas comme j’pensais,
+« Yep », dit le demi-géant d’un ton pensif. « T’es pas comme j’pensais,
 Drago Malefoy. Pas du tout comme j’pensais. Et toi tu s’rais Tracey Davis
 alors. J’ai entendu parler d’toi. Une des copines de la pauvre Mlle
 Granger. » Rubeus Hagrid observa les Serpentard plus âgés sous
 l’éclairage de son parapluie lumineux. « Et tu s’rais qui, toi ? J’me
 souviens pas t’avoir beaucoup vu, garçon. »
 
-« Cornelia Walt, » dit la sorcière, « et c’est Yuri Yuliy, » dit-elle en
+« Cornelia Walt », dit la sorcière, « et c’est Yuri Yuliy », dit-elle en
 montrant le garçon à l’air slave qui avait parlé de Durmstrang. « Sa
 famille nous rend visite des terres Ukrainiennes, alors il est à
 Poudlard pour cette année seulement. » Le garçon plus âgé hocha la tête,
 un air légèrement dédaigneux sur le visage.
 
-« C’est Croc, » dit Hagrid en montrant le chien.
+« C’est Croc », dit Hagrid en montrant le chien.
 
 Ils partirent tous les cinq dans les bois.
 
@@ -172,9 +172,9 @@ la licorne. « Est-ce que quelqu’un saurait quel genre de créature fait
 silencieusement un doigt vers la lune. Elle était gibbeuse croissante
 mais pas encore pleine.
 
-« Ah, ouais, » dit Tracey.
+« Ah, ouais », dit Tracey.
 
-« Pas de garous dans la forêt, » dit Hagrid. « C’est juste des sorciers en
+« Pas de garous dans la forêt », dit Hagrid. « C’est juste des sorciers en
 général, savez. Pourrait pas être des loups non plus, pas assez rapides
 pour avoir une licorne. C’est des créature puissantes, les licornes,
 j’en avais jamais vu une s’faire faire mal avant. »
@@ -182,7 +182,7 @@ j’en avais jamais vu une s’faire faire mal avant. »
 Drago écouta cela et songea au puzzle presque malgré lui. « Alors
 qu’*est-ce* qui est assez rapide pour attraper une licorne ? »
 
-« Ça s’rait pas une question d’vitesse, » dit Hagrid en donnant à Drago un
+« Ça s’rait pas une question d’vitesse », dit Hagrid en donnant à Drago un
 regard indéchiffrable. « Les créatures, elles chassent de mille façons.
 Poison, ténèbres, pièges. Des diablotins qu’on peut ni voir ni entendre
 ni se rappeler alors même qu’y vous mangent le visage. Toujours
@@ -191,7 +191,7 @@ queq’chose de nouveau à apprendre. »
 Un nuage passa devant la lune et plongea la forêt dans une ombre
 éclairée seulement par le parapluie de Hagrid.
 
-« Moi-même, » continua Hagrid, « j’pense qu’on pourrait bien avoir une
+« Moi-même », continua Hagrid, « j’pense qu’on pourrait bien avoir une
 hydre Parisienne su’ les bras. É’ sont pas dangereuses pour un sorcier,
 y’a qu’à les maintenir assez longtemps et c’est pas possib’ de perdre.
 J’veux dire littéralement y’a pas moyen de perdre tant qu’tu t’bas.
@@ -199,7 +199,7 @@ L’problème c’est que contre une hydre Parisienne la plupart des
 créatures, elles abandonnent longtemps avant ça. Pacque tu vois, ça
 prend un moment d’couper toutes les têtes. »
 
-« Bah, » dit le garçon étranger. « À Durmstrang nous apprenons à combattre
+« Bah », dit le garçon étranger. « À Durmstrang nous apprenons à combattre
 hydre de Bucholz. Impossible d’imaginer plus dur à combattre ! Je veux
 dire littéralement, peux pas imaginer. Première année nous croient pas
 quand on leur dit que victoire est possible ! Instructeur doit donner
@@ -213,7 +213,7 @@ Puis Drago les vit, les épaisses éclaboussures à la racine des arbres,
 scintillantes d’une couleur claire sous la lumière de la lune. « Est-ce
 que c’est… »
 
-« Du sang de licorne, » dit Hagrid. L’immense homme avait une voix triste.
+« Du sang de licorne », dit Hagrid. L’immense homme avait une voix triste.
 
 Dans une clairière devant, visible à travers les branches entremêlées
 d’un grand chêne, ils virent la créature tombée, magnifiquement et
@@ -229,21 +229,21 @@ marques de dents, les os et les organes internes étaient visibles.
 
 Un étrange sensation d’étranglement monta dans la poitrine de Drago.
 
-« C’telle, » dit Hagrid, son triste murmure aussi fort qu’une voix d’homme
+« C’telle », dit Hagrid, son triste murmure aussi fort qu’une voix d’homme
 normal. « Juste où j’lai trouvé c’matin, morte comme une poignée de porte
 morte. C’est… c’était… la première licorne qu’jai jamais rencontré dans
 ces bois. J’l’appelais Alicorn, mais j’pense qu’elle s’en fiche bien,
 maintenant. »
 
-« Vous avez appelé une licorne Alicorn, » dit la fille plus âgée d’une
+« Vous avez appelé une licorne Alicorn », dit la fille plus âgée d’une
 voix sèche.
 
-« Mais elle n’a pas d’ailes, » dit Tracey.
+« Mais elle n’a pas d’ailes », dit Tracey.
 
-« Une alicorne c’t’une corne de licorne, » dit Hagrid d’une voix
+« Une alicorne c’t’une corne de licorne », dit Hagrid d’une voix
 maintenant plus forte. « J’sais pas c’qui vous a tous pris d’croire que
 ça voulait dire une licorne à ailes, jamais entendu parler d’une chose
-pareille. C’est juste comme d’appeler un chien Croc, » dit-il en montrant
+pareille. C’est juste comme d’appeler un chien Croc », dit-il en montrant
 son immense chien à l’apparence de loup qui atteignait à peine ses
 genoux. « Comment vous l’auriez appelé, hein ? Anna ou queq’ chose comme
 ça ? J’lui ai donné un nom qu’aurait voulu dire queq’chose pour *elle*.
@@ -268,12 +268,12 @@ une tache de sang argent et bleu sur les feuilles mortes ; ils suivaient
 la trace du sang, vers l’endroit où la créature devait avoir commencé à
 attaquer la licorne.
 
-« Y’a des rumeurs sur toi, » dit Hagrid d’une voix basse après qu’ils
+« Y’a des rumeurs sur toi », dit Hagrid d’une voix basse après qu’ils
 eurent marché un moment.
 
-« Eh bien, elles sont toutes vraies, » dit Tracey. « *Toutes*. »
+« Eh bien, elles sont toutes vraies », dit Tracey. « *Toutes*. »
 
-« Pas toi, » dit Hagrid. « T’as vraiment témoigné sous Veritaserum que t’as
+« Pas toi », dit Hagrid. « T’as vraiment témoigné sous Veritaserum que t’as
 essayé d’aider Mlle Granger, trois fois, c’est ça ? »
 
 Drago soupesa ses mots pendant quelques instants puis dit enfin : « Oui ».
@@ -287,18 +287,18 @@ Choixpeau vous a bien mis où y faut ? Y’a pas un seul sorcier ou
 sorcière mal tourné qu’était pas à Serpentard, c’est ce qu’on a toujours
 dit. »
 
-« Ce n’est pas vrai, » dit tracey. « Et Xiaonan Tong le Corbeau Noir,
+« Ce n’est pas vrai », dit tracey. « Et Xiaonan Tong le Corbeau Noir,
 Spencer Hill, et Mister Kayvon ? »
 
 « Qui ? » dit Hagrid.
 
-« Juste certains des meilleurs mages noirs des deux siècles précédents, »
+« Juste certains des meilleurs mages noirs des deux siècles précédents »,
 dit Tracey. « Ils sont probablement *les* meilleurs de Poudlard à ne pas
 avoir été à Serpentard. » Sa voix chuta, perdit de son enthousiasme.
 « Mlle Granger me disait toujours que je devrais m’informer sur tout ce
 qui… »
 
-« *Quoi qu’il en soit*, » dit rapidement Drago, « ça n’est pas vraiment
+« *Quoi qu’il en soit* », dit rapidement Drago, « ça n’est pas vraiment
 pertinent, M. Hagrid. Même si… » Drago travailla la phrase mentalement,
 essaya de traduire la différence entre *probabilité de Serpentard
 sachant mage noir* et *probabilité de mage noir sachant Serpentard* dans
@@ -310,14 +310,14 @@ certainement de connaître nombre des secrets de la tradition, il valait
 mieux laisser les rituels plus… *coûteux* aux mains d’idiots utiles tels
 qu’Amycus Carrow.
 
-« Donc vous dites, » dit Hagrid, « que la plupart des mages noirs sont
+« Donc vous dites », dit Hagrid, « que la plupart des mages noirs sont
 Serpentard… mais… »
 
-« Mais la plupart des Serpentard ne sont pas des mages noirs, » dit Drago.
+« Mais la plupart des Serpentard ne sont pas des mages noirs », dit Drago.
 Il avait l’épuisante sensation que ça allait prendre un moment, mais
 comme face à une hydre, le plus important était de ne pas abandonner.
 
-« Je n’y avait jamais pensé comme ça, » dit l’immense homme d’un ton
+« Je n’y avait jamais pensé comme ça », dit l’immense homme d’un ton
 abasourdi. « Enfin, si vous n’êtes pas qu’une maison de serpents, alors
 pourquoi… *planquez-vous derrière cet arbre !* »
 
@@ -328,7 +328,7 @@ glissait sur les feuilles mortes, non loin : on aurait dit le son d’une
 cape qui traînait contre le sol. Hagrid plissa les yeux en direction du
 sombre chemin, mais après quelques secondes, le bruit s’estompa.
 
-« Je le savais, » murmura Hagrid. « Y’a queq’chose ici qui d’vrait pas y
+« Je le savais », murmura Hagrid. « Y’a queq’chose ici qui d’vrait pas y
 être. »
 
 Ils continuèrent après l’origine du bruissement, Hagrid en tête, Tracey
@@ -378,11 +378,11 @@ Drago plongea la main dans ses robes et sortit un miroir. En toucher la
 surface révéla un homme vêtu de robes rouges qui fronça presque
 immédiatement les sourcils.
 
-« Capitaine Auror Eneasz Brodski, » dit clairement l’homme, d’un ton fort
+« Capitaine Auror Eneasz Brodski », dit clairement l’homme, d’un ton fort
 qui fit sursauter Tracey dans la forêt silencieuse. « Qu’est-ce qu’il y
 a, Drago Malefoy ? »
 
-« Vérifiez où j’en suis dans 10 minutes, » dit Drago. Il avait décidé de
+« Vérifiez où j’en suis dans 10 minutes », dit Drago. Il avait décidé de
 ne pas directement se plaindre de sa retenue. Il ne voulait *pas* avoir
 l’air d’un môme pourrit gâté. « Si je ne répond pas, venez me chercher.
 Je suis dans la Forêt interdite. »
@@ -390,13 +390,13 @@ Je suis dans la Forêt interdite. »
 Dans le miroir, les sourcils de l’Auror s’arquèrent. « Qu’est-ce que vous
 faites dans la Forêt interdite, M. Malefoy ? »
 
-« Je cherche le mangeur de licorne avec M. Hagrid, » dit Drago, puis il
+« Je cherche le mangeur de licorne avec M. Hagrid », dit Drago, puis il
 éteint le miroir d’un touché et le remit dans ses robes avant que
 l’Auror ne puisse poser de question au sujet de la retenue ou de dire
 quoi que ce soit sur le fait que Drago avait obtempéré sans se plaindre.
 
 Tracey tourna la tête vers lui, mais il faisait un peu trop sombre pour
-qu’il puisse déchiffrer l’expression sur son visage. « Euh, merci, »
+qu’il puisse déchiffrer l’expression sur son visage. « Euh, merci »,
 murmura-t-elle.
 
 Les rares feuilles qui avaient émergé des branches bruissèrent
@@ -411,7 +411,7 @@ La sombre silhouette de Tracey passa une main sur sa joue, comme pour
 masquer un rougissement qui n’était de toute façon pas visible. « Je veux
 dire, tu n’avais pas à faire ça pour *moi*… »
 
-« Non, vraiment, » dit Drago. « Vraiment pas la peine. Du tout. » Il aurait
+« Non, vraiment », dit Drago. « Vraiment pas la peine. Du tout. » Il aurait
 bien menacé de sortir le miroir et d’ordonner au capitaine Brodski de ne
 pas la sauver *elle*, mais il avait peur qu’elle interprète cela comme
 du flirt.
@@ -472,7 +472,7 @@ ses doigts touchaient sa surface, encore et encore, d’un geste
 mécanique.
 
 Tracey tenait à présent sa baguette et prononçait des mots comme
-« Prismatis » et « Stupéfix, » mais rien ne se produisait.
+« Prismatis » et « Stupéfix », mais rien ne se produisait.
 
 Puis la silhouette grouillante se leva, comme un homme qui se serait
 remit sur pieds, mais non : il semblait se précipiter en avant par un
@@ -533,7 +533,7 @@ avoir été à la fois proche et éloigné d’un sentiment de culpabilité,
 comme s’il n’y avait eu que les sensations mais pas tout à fait les
 émotions.*
 
-*« Il le faut, » dit sombrement Harry Potter. « Vas-t’en ! »*
+*« Il le faut », dit sombrement Harry Potter. « Vas-t’en ! »*
 
 *« Harry, je… je suis désolé, pour tout, je… » Même si plus tard, Drago ne
 pourrait pas tout à fait se souvenir de ce pour quoi il avait voulu
@@ -573,7 +573,7 @@ sensation funeste.
 Le professeur Quirrell se tenait droit, du sang argenté à l’avant de sa
 grande cape noire, et il laissa échapper un soupir en regardant les
 trois Aurors, Tracey Davis, Drago Malefoy et le professeur McGonagall.
-« Je pensais sincèrement, » murmura le professeur Quirrell, « avoir
+« Je pensais sincèrement », murmura le professeur Quirrell, « avoir
 brouillé le miroir sans provoquer d’alarme. Qu’est-ce que deux
 Serpentard de première année faisaient dans la forêt ? M. Malefoy a plus
 de bon sens que ça… Quel fiasco. »
@@ -592,14 +592,14 @@ sut alors qu’il avait dit vrai.
 
 Jusqu’où montait l’échelle du pouvoir ?
 
-« Je suppose, » dit Harry en parvenant à garder une voix stable, « que le
+« Je suppose », dit Harry en parvenant à garder une voix stable, « que le
 fait que vous mangiez des licornes a un lien avec ce qui vous fera être
 renvoyé du poste de professeur de Défense. J’imagine que vous ne
 voudriez pas m’expliquer, avec beaucoup de détails ? »
 
 Le professeur Quirrell le regarda. La sensation de pouvoir quasiment
 tangible avait diminué, était revenue dans le professeur Quirrell. « Je
-vais en effet m’expliquer, » dit le professeur de Défense. « Je dois
+vais en effet m’expliquer », dit le professeur de Défense. « Je dois
 d’abord lancer quelques sortilèges de faux souvenirs, et nous pourrons
 ensuite partir et discuter, car il ne serait pas sage que je demeure. Je
 sais que vous reviendrez en cet instant, plus tard. »
@@ -646,7 +646,7 @@ la licorne et laissa derrière lui des bords en lambeaux ; la chair crue
 flotta dans les airs puis ondula avant de s’estomper sous l’effet d’un
 sortilège de disparition.
 
-« Voilà, » dit le professeur Quirrell. « Je dois maintenant quitter ce
+« Voilà », dit le professeur Quirrell. « Je dois maintenant quitter ce
 lieu, M. Potter. Venez avec moi et restez ici. »
 
 Le professeur Quirrell s’éloigna à grands pas, Harry le suivit et
@@ -657,7 +657,7 @@ n’entende des filets de voix, au loin. Le prochain groupe d’Aurors,
 probablement, après que le contact avec le premier ait été coupé. Ce que
 son lui futur disait, Harry l’ignorait.
 
-« Ils ne nous détecteront pas et ne nous entendront pas parler, » dit le
+« Ils ne nous détecteront pas et ne nous entendront pas parler », dit le
 professeur Quirrell. La sensation funeste, la présence d’un pouvoir,
 étaient toujours fortes autour du professeur Quirrell. L’homme s’assit
 sur une souche, où la lumière de la lune presque pleine tomba presque
@@ -687,19 +687,19 @@ avant cet instant. Un Patronus avait permit de localiser Drago — Harry
 était parvenu à lui donner l’apparence d’une sphère de lumière
 argentée — et le convoi d’Aurors était arrivé à la seconde près.
 
-« J’ai peur de ne pouvoir vous le dire, » dit Harry d’une voix assurée. Le
+« J’ai peur de ne pouvoir vous le dire », dit Harry d’une voix assurée. Le
 professeur Quirrell était encore un des principaux suspects et il valait
 mieux pour lui qu’il ignore les détails. « Maintenant, pourquoi
 mangez-vous des licornes ? »
 
-« Ah, » dit le professeur Quirrell. « Quant à cela… » l’homme hésita. « Je
+« Ah », dit le professeur Quirrell. « Quant à cela… » l’homme hésita. « Je
 buvais leur sang, je ne les mangeais pas. La chair manquante, les
 lambeaux — c’était pour obscurcir l’affaire, pour laisser croire que
 c’était un autre prédateur. L’usage de sang de licorne est trop connu. »
 
-« Je l’ignore, » dit Harry.
+« Je l’ignore », dit Harry.
 
-« Je sais que vous l’ignorez, » dit sèchement le professeur de Défense.
+« Je sais que vous l’ignorez », dit sèchement le professeur de Défense.
 « Sans quoi vous ne m’embêteriez pas avec ça. Le pouvoir du sang de
 licorne est de préserver la vie pendant quelques temps, même lorsque
 l’on est à l’article de la mort. »
@@ -734,7 +734,7 @@ n’aurait même pas à le renvoyer. Il serait juste…
 
 …mort.
 
-« Non, » dit Harry d’une voix un peu secouée. « Il doit y avoir un moyen… »
+« Non », dit Harry d’une voix un peu secouée. « Il doit y avoir un moyen… »
 
 « Je ne suis ni stupide ni particulièrement impatient de mourir. J’ai
 déjà cherché. J’ai dû en arriver là uniquement pour finir mes cours, car
@@ -752,7 +752,7 @@ pourquoi le sang de licorne ne fait-il pas partie des kits de soin
 standards, alors ? Pour garder une personne en vie, même si elle est sur
 le point de mourir parce que ses jambes ont été dévorées ? »
 
-« Parce qu’il y a des effets secondaires permanents, » dit doucement le
+« Parce qu’il y a des effets secondaires permanents », dit doucement le
 professeur Quirrell.
 
 « Des effets secondaires ? *Des effets secondaires ?* Quel genre d’effet
@@ -792,7 +792,7 @@ dans un bruit de brindilles et de feuilles.
 Il ne semblait pas y avoir de larmes en lui, seulement une pression sans
 issue.
 
-« Je vais vous laisser, » dit doucement le professeur Quirrell. Le
+« Je vais vous laisser », dit doucement le professeur Quirrell. Le
 professeur de Défense se leva de sa souche, la sang de licorne éclairé
 par la lune toujours sur sa cape, et il rabattit la capuche sur sa tête.
 

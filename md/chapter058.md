@@ -262,7 +262,7 @@ Amélia regarda Dumbledore avant de comprendre, avant de réussir à
 s’interrompre.
 
 Le vieux sorcier haussa les épaules, lui offrit un petit sourire et
-dit : « Puisque tu le demandes, Amélia, » et il partit de nouveau.
+dit : « Puisque tu le demandes, Amélia », et il partit de nouveau.
 
 
 
@@ -270,7 +270,7 @@ dit : « Puisque tu le demandes, Amélia, » et il partit de nouveau.
 
 
 
-« *Finite Incantatem*, » dit Harry à l’huile qui recouvrait le gigantesque
+« *Finite Incantatem* », dit Harry à l’huile qui recouvrait le gigantesque
 morceau de mur posé au sol. Il s’était à peine entendu car ses oreilles
 résonnaient encore après l’immense blam provoqué par le glissement suivi
 de la chute du bloc de métal (rétrospectivement, il aurait dû lancer un
@@ -351,7 +351,7 @@ regardait autour de lui. « *Allez-vous… allez-vous bien, professseur ?*�
 « *Professseur ?* » le sifflement parvint faible et confus. « *Où
 ssommes-nouss ?* »
 
-« *En prison*, » siffla Harry, « *la prison des mange-vie, nous devions
+« *En prison* », siffla Harry, « *la prison des mange-vie, nous devions
 ssauver une femme vous et moi. Vous avez esssayé de tuer l’homme
 protecteur, j’ai bloqué votre ssort de mort, il y a eut une résonansce
 entre nous… vous avez ssombré dans l’inconsscience, j’ai dû vaincre le
@@ -555,7 +555,7 @@ qui reposait au milieu de la pièce comme Harry l’avait demandé,
 expliquant que la méthode qu’il avait utilisée aurait pu permettre de
 l’identifier.
 
-« Gant gauche, » dit Harry à sa bourse, puis il l’extirpa et l’enfila.
+« Gant gauche », dit Harry à sa bourse, puis il l’extirpa et l’enfila.
 
 Pendant que la femme finissait de boire la potion, un geste du
 professeur de Défense fit apparaître un harnais sur les épaules de

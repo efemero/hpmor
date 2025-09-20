@@ -83,7 +83,7 @@ de Hermione.*
 
 
 « La métamorphose est une des magies les plus complexes et les plus
-dangereuses qui vous seront données d’apprendre à Poudlard, » dit le
+dangereuses qui vous seront données d’apprendre à Poudlard », dit le
 professeur McGonagall. Il n’y avait pas la moindre trace de sourire sur
 le visage de la sombre vieille sorcière. « Quiconque s’agitant dans mon
 cours devra partir et ne reviendra pas. Vous avez été prévenus. »
@@ -95,11 +95,11 @@ regarda autour de lui avec un air confus puis redevint un bureau.
 McGonagall balaya la classe du regard. Ses yeux s’arrêtèrent sur
 quelqu’un.
 
-« M. Potter, » dit le professeur McGonagall. « Vous n’avez eu vos manuels
+« M. Potter », dit le professeur McGonagall. « Vous n’avez eu vos manuels
 qu’il y a quelques jours. Avez-vous commencé à lire votre manuel de
 métamorphose ? »
 
-« Non, pardon professeur, » dit Harry.
+« Non, pardon professeur », dit Harry.
 
 « Vous n’avez pas à vous excuser, M. Potter, si vous deviez lire à
 l’avance, nous vous en aurions fait part. » Les doigts de McGonagall
@@ -155,8 +155,8 @@ se passera lorsque la métamorphose se dissipera ? » Il y eut une pause.
 j’oubliais que vous êtes béni d’une imagination exceptionnellement
 pessimiste — »
 
-« Pas de souci, » dit Harry, avalant bruyamment sa salive. « Donc la
-première réponse est que je ne *sais* pas, » McGonagall hocha la tête,
+« Pas de souci », dit Harry, avalant bruyamment sa salive. « Donc la
+première réponse est que je ne *sais* pas », McGonagall hocha la tête,
 « mais j’*imagine* qu’il pourrait y avoir… du bois dans mon estomac, et
 dans mon système sanguin, et si une partie de cette eau avait été
 absorbée par mes tissus corporels — serait-ce de la pulpe de bois ou du
@@ -182,10 +182,10 @@ votre magie, votre vie, et toute pensée heureuse que vous essayez
 d’avoir. L’image page 7 est le criminel dix ans plus tard, à sa sortie.
 Vous remarquerez qu’il est mort — oui, M. Potter ? »
 
-« Professeur, » dit Harry, « dans un cas comme celui-ci, si le pire se
+« Professeur », dit Harry, « dans un cas comme celui-ci, si le pire se
 produit, y a-t-il un moyen de *maintenir* la métamorphose ? »
 
-« Non, » répondit catégoriquement McGonagall. « Maintenir une métamorphose
+« Non », répondit catégoriquement McGonagall. « Maintenir une métamorphose
 est un drain magique permanent qui croît proportionnellement à la taille
 de la forme cible. Et il vous faudrait entrer en contact avec la cible
 régulièrement, à quelques heures d’intervalle, ce qui, dans un cas comme
@@ -208,18 +208,18 @@ pour de vrai. Vous ne le ferez jamais. Point. Dans cette classe ou hors
 de cette classe ou *où que ce soit*. Est-ce bien compris par *chaque
 élève* ? »
 
-« Oui, » dirent Harry, Hermione, et quelques autres. Les autres semblaient
+« Oui », dirent Harry, Hermione, et quelques autres. Les autres semblaient
 sans voix.
 
 « *Est-ce bien compris par chaque élève ?* »
 
-« Oui, » dirent-ils, marmonnèrent-ils, et chuchotèrent-ils.
+« Oui », dirent-ils, marmonnèrent-ils, et chuchotèrent-ils.
 
 « Si vous brisez n’importe laquelle de ces règles, vous n’étudierez plus
 la métamorphose pendant votre séjour à Poudlard. Répétez après moi. Je
 ne métamorphoserai jamais rien en liquide ou en gaz. »
 
-« Je ne métamorphoserai jamais rien en liquide ou en gaz, » dirent les
+« Je ne métamorphoserai jamais rien en liquide ou en gaz », dirent les
 étudiants en un chorus syncopé.
 
 « Encore ! Plus fort ! Je ne métamorphoserai jamais rien en liquide ou en
@@ -232,15 +232,15 @@ toute autre chose allant dans le corps humain. »
 pourrait faire de la fumée. »
 
 « Je ne métamorphoserai jamais rien qui ressemble à de l’argent, même de
-l’argent Moldu, » dit le professeur McGonagall. « Les gobelins ont les
+l’argent Moldu », dit le professeur McGonagall. « Les gobelins ont les
 moyens de trouver le coupable. Et il est écrit dans la loi que la nation
 gobeline est dans un état de *guerre* permanent avec les faussaires
 magiques. Ils n’enverront pas d’Aurors. Ils enverront une armée. »
 
-« Je ne métamorphoserai jamais rien qui ressemble à de l’argent, »
+« Je ne métamorphoserai jamais rien qui ressemble à de l’argent »,
 répondirent les élèves en chœur.
 
-« Et *par-dessus tout*, » dit le professeur McGonagall, « vous ne
+« Et *par-dessus tout* », dit le professeur McGonagall, « vous ne
 métamorphoserez aucun sujet vivant, en particulier vous-même. Cela vous
 rendra malade, et vous tuera même peut-être, selon la façon dont vous
 vous serez métamorphosés et selon la durée pendant laquelle vous aurez
@@ -272,7 +272,7 @@ capacités ultérieures. Vous apprendrez ici la métamorphose libre *dès le
 départ*, ce qui exige que vous jetiez le sort sans prononcer un mot, en
 représentant dans votre esprit la forme du sujet, la forme cible, et la
 transformation. »Et pour répondre à la question de M. Potter,« continua le professeur
-McGonagall, »c’est la métamorphose *libre* que vous ne devez jamais
+McGonagall »,c’est la métamorphose *libre* que vous ne devez jamais
 opérer sur un sujet vivant. Il y a des sortilèges et des potions qui
 peuvent transformer sans risque des sujet vivants, de façons *limitées*
 et réversibles. Par exemple, un Animagus à qui il manque un membre ne
@@ -309,7 +309,7 @@ le lendemain, vous seriez mort. »
 
 « Euh, excusez-moi, mais alors si j’avais lu le premier chapitre,
 j’aurais pu *deviner* que le bureau était initialement un bureau et non
-un cochon, » dit Harry, « mais seulement si j’avais *en plus* émis
+un cochon », dit Harry, « mais seulement si j’avais *en plus* émis
 l’hypothèse que vous ne vouliez pas tuer le cochon, ce qui *semble*
 hautement probable, mais — »
 
@@ -319,7 +319,7 @@ pourrais-je s’il vous plaît vous demander d’attendre la fin du cours ? 
 
 « Pas d’autres questions, professeur. »
 
-« Maintenant répétez après moi, » dit le professeur McGonagall. « Je
+« Maintenant répétez après moi », dit le professeur McGonagall. « Je
 n’essaierai jamais de métamorphoser un sujet vivant, et en particulier
 moi-même, à moins que l’on ne m’ait spécifiquement chargé de le faire à
 l’aide d’un sortilège spécialisé ou d’une potion. »
@@ -347,7 +347,7 @@ points à ma maison et de me faire exclure. »
 « Si je brise une seule de ces règles je n’étudierai plus la métamorphose
 pendant mon séjour à Poudlard. »
 
-« Nous répéterons ces règles au début de chaque cours pendant un mois, »
+« Nous répéterons ces règles au début de chaque cours pendant un mois »,
 dit le professeur McGonagall. « Et maintenant, nous allons commencer avec
 pour sujet des allumettes et pour cible des aiguilles… posez vos
 baguettes, merci bien, par “commencer”, je voulais dire que voulez allez
@@ -371,12 +371,12 @@ Le professeur McGonagall décerna un point de plus à Serdaigle.
 Après que la classe ait été remerciée, Hermione alla jusqu’au bureau de
 Harry alors que celui-ci rangeait ses livres dans sa bourse.
 
-« Tu sais, » dit Hermione d’un ton innocent, « aujourd’hui, j’ai gagné deux
+« Tu sais », dit Hermione d’un ton innocent, « aujourd’hui, j’ai gagné deux
 points pour Serdaigle. »
 
-« En effet, » dit sèchement Harry.
+« En effet », dit sèchement Harry.
 
-« Mais ce n’était pas aussi bien que tes *sept* points, » dit-elle. « Je
+« Mais ce n’était pas aussi bien que tes *sept* points », dit-elle. « Je
 suppose que je ne suis pas aussi intelligente que toi. »
 
 Harry finit de donner ses devoirs à manger à sa bourse et se tourna vers
@@ -399,7 +399,7 @@ Tous les autres étudiants regardaient maintenant la scène avec des yeux
 fascinés. Tous les autres étudiants plus le professeur McGonagall,
 malheureusement.
 
-« Oh, M. Potter, » fredonna le professeur McGonagall depuis l’autre
+« Oh, M. Potter », fredonna le professeur McGonagall depuis l’autre
 extrémité de la pièce, « j’ai de bonnes nouvelles pour vous. Madame
 Pomfresh a approuvé votre suggestion visant à réduire la fragilité des
 Portillons tournants, et nous comptons avoir terminé les modifications
@@ -436,7 +436,7 @@ atteignez les nombres négatifs avant vendredi soir. »
 La bouche de Harry se referma immédiatement. Il jeta son meilleur Regard
 Mortel à McGonagall mais elle sembla trouver cela amusant.
 
-« Oui, une annonce au dîner, certainement, » rêvassa le professeur
+« Oui, une annonce au dîner, certainement », rêvassa le professeur
 McGonagall. « Mais il ne faudrait pas offenser les Serpentard, nous
 garderons donc l’annonce brève. Juste le nombre de points et les faits…
 et si quelqu’un vient vous voir parce qu’il a besoin d’aide pour leurs
@@ -455,9 +455,9 @@ Harry et Hermione, par consentement muet, se retournèrent et quittèrent
 la salle à grands pas. Ils furent suivis par une traîne de Serdaigle
 hypnotisés.
 
-« Euh, » dit Harry. « C’est toujours bon pour après dîner ? »
+« Euh », dit Harry. « C’est toujours bon pour après dîner ? »
 
-« Bien sûr, » dit Hermione. « Je ne voudrais pas te voir prendre du retard
+« Bien sûr », dit Hermione. « Je ne voudrais pas te voir prendre du retard
 dans tes cours. »
 
 « Que c’est aimable. Et permets-moi de te dire que, aussi brillante que

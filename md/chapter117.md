@@ -59,10 +59,10 @@ Table.
 
 Tous les regards étaient braqués sur elle.
 
-« J’ai peur d’avoir de nombreuses nouvelles à vous annoncer, » dit
+« J’ai peur d’avoir de nombreuses nouvelles à vous annoncer », dit
 Minerva. À son accent Écossais sec se mêlait de la tristesse. « Et la
 plupart sont terribles. D’abord. Si c’est moi qui m’adresse à vous,
-c’est parce que le directeur de Poudlard, Albus, » elle buta sur le mot,
+c’est parce que le directeur de Poudlard, Albus », elle buta sur le mot,
 « Perceval Wulfric Brian Dumbledore nous a été pris. Vous-Savez-Qui l’a
 enfermé hors du Temps et nous ignorons si nous pourrons un jour le
 ramener. Nous… nous avons perdu… celui qui a peut-être été le meilleur
@@ -155,14 +155,14 @@ Un élève de Gryffondor poussa un cri de joie et fut immédiatement giflé
 par un autre si fort qu’un Moldu en aurait perdu une dent.
 
 « Trente points de moins pour Gryffondor, et en retenue tout le premier
-mois de l’année prochaine, » dit le professeur McGonagall d’une voix qui
+mois de l’année prochaine », dit le professeur McGonagall d’une voix qui
 aurait fendu des pierres.
 
 « *Mensonges !* » glapit un grand Serpentard qui s’était levé.
 « *Mensonges ! Mensonges ! Le Seigneur des Ténèbres reviendra et il… il
 vous apprendra à tous le sens de…* »
 
-« M. Jugson, » dit la voix de Severus Rogue. Même si la voix était
+« M. Jugson », dit la voix de Severus Rogue. Même si la voix était
 vacillante, même si elle ne ressemblait pas à celle du maître des
 potions, même si elle était faible, le Serpentard se tut. « Robert. Le
 Seigneur des Ténèbres a tué votre père. »
@@ -234,7 +234,7 @@ de compétences utiles à monnayer.
 
 D’autres morceaux de coton étaient maintenant arrachés de son esprit.
 
-« Il semble probable, » dit Minerva d’un ton toujours bas, mais néanmoins
+« Il semble probable », dit Minerva d’un ton toujours bas, mais néanmoins
 plus distinct que tous les autres sons, « que certains de nos élèves
 auront perdu leurs gardiens légaux. Si vous devenez pupille de Poudlard,
 sachez que j’honorerai mes responsabilités avec un sérieux absolu. Vous
@@ -246,7 +246,7 @@ POUDLARD.* »
 
 Les élèves hochèrent vivement la tête.
 
-« Bien, » dit-elle. Sa voix se radoucit. « Alors il reste une seule chose à
+« Bien », dit-elle. Sa voix se radoucit. « Alors il reste une seule chose à
 faire. »
 
 Avec un air triste et solennel, le professeur Sinistra émergea d’une
@@ -267,7 +267,7 @@ Il y eut un long silence.
 
 « DIRECTRICE ! »
 
-« Comme Albus Dumbledore n’est pas mort, » dit Minerva d’une voix si basse
+« Comme Albus Dumbledore n’est pas mort », dit Minerva d’une voix si basse
 que les élèves eurent du mal à l’entendre, « mais qu’il nous a été pris,
 j’accepte ce poste uniquement par intérim… jusqu’au retour de
 Dumbledore. »

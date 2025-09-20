@@ -45,7 +45,7 @@ Ils ne savaient *rien du tout*.
 
 Ils ne savaient pas…
 
-« Harry, » dit une femme fine et blonde dont la peau parfaite et sans
+« Harry », dit une femme fine et blonde dont la peau parfaite et sans
 marques lui donnait l’air d’avoir bien moins de trente-trois ans ; et
 Harry se rendit compte avec surprise que *c’était* de la magie, il
 n’avait pas reconnu les signes auparavant mais il pouvait maintenant les
@@ -95,7 +95,7 @@ Angleterre magique, qu’une telle personne n’existait pas dans la Londres
 moldue, qu’il y avait juste un mignon petit garçon de onze qui rentrait
 chez lui pour Noël.
 
-« Excusez-moi, » dit Harry, sa voix tremblante, « je vais maintenant
+« Excusez-moi », dit Harry, sa voix tremblante, « je vais maintenant
 m’effondrer et fondre en larmes, ça ne veut pas dire que quelque chose
 ne va pas à l’école. »
 
@@ -103,11 +103,11 @@ Harry commença à avancer, puis il s’arrêta, déchiré entre la possibilité
 d’étreindre son père ou sa mère, il ne souhaitait qu’aucun ne se sente
 lésé ou n’ait l’impression que Harry l’aime plus que l’autre -
 
-« Toi, » dit son père, « tu es un garçon très bête, M. Verres, » et il prit
+« Toi », dit son père, « tu es un garçon très bête, M. Verres », et il prit
 gentiment Harry par les épaules et le poussa dans les bras de sa mère,
 qui était agenouillée, des larmes coulant déjà le long de ses joues.
 
-« Bonjour maman, » dit Harry d’une voix vacillante, « je suis revenu. » Et
+« Bonjour maman », dit Harry d’une voix vacillante, « je suis revenu. » Et
 il la prit dans ses bras, au milieu des bruyants sons mécaniques et de
 l’odeur d’essence brûlée ; et Harry se mit à pleurer, car il savait que
 rien ne *pourrait* revenir comme avant, lui encore moins que tout le
@@ -157,15 +157,15 @@ avec une chaleur naissant dans sa poitrine, que ses parents avaient bien
 sûr *attendu*.
 
 « Nous avons sorti le lit de ta chambre pour faire de la place pour
-d’autres bibliothèques, » dit son père. « Tu peux dormir dans ta malle,
+d’autres bibliothèques », dit son père. « Tu peux dormir dans ta malle,
 non ? »
 
-« *Tu* peux dormir dans ma malle, » dit Harry.
+« *Tu* peux dormir dans ma malle », dit Harry.
 
-« Ce qui me rappelle, » dit son père. « Qu’*est*-ce qu’ils ont fini par
+« Ce qui me rappelle », dit son père. « Qu’*est*-ce qu’ils ont fini par
 faire au sujet de ton cycle de sommeil ? »
 
-« De la magie, » dit Harry, se dirigeant droit vers la porte qui donnait
+« De la magie », dit Harry, se dirigeant droit vers la porte qui donnait
 sur sa chambre, juste au cas où papa n’aurait *pas* plaisanté…
 
 « Ce n’est pas une explication ! » dit le professeur Verres-Evans juste
@@ -277,17 +277,17 @@ Et la porte s’ouvrit alors pour révéler un homme cordial aux joues
 grasses et roses et aux cheveux clairsemés, dans une chemise bleue
 boutonnée qui tirait légèrement aux coutures.
 
-« Dr. Granger, » dit brusquement le père de Harry avant que celui-ci ne
+« Dr. Granger », dit brusquement le père de Harry avant que celui-ci ne
 puisse ouvrir la bouche. « Je suis Michael, et voici Pétunia et notre
-fils Harry. La nourriture est dans la malle magique, » et papa fit un
+fils Harry. La nourriture est dans la malle magique », et papa fit un
 vague geste vers l’arrière — à vrai dire pas tout à fait vers la malle.
 
-« Oui, entrez, je vous en prie, » dit Leo Granger. Il fit un pas vers
+« Oui, entrez, je vous en prie », dit Leo Granger. Il fit un pas vers
 l’avant et prit la bouteille de vins des mains tendues du professeur
 avec un « Merci » marmonné, puis il recula et indiqua le salon d’un geste
-de la main. « Asseyez-vous. Et, » sa tête se baissant pour s’adresser à
+de la main. « Asseyez-vous. Et », sa tête se baissant pour s’adresser à
 Harry, « tous les jouets sont en bas à la cave, je suis sûr que Herm
-descendra bientôt, c’est la première porte à ta droite, » et il pointa un
+descendra bientôt, c’est la première porte à ta droite », et il pointa un
 doigt vers un couloir.
 
 Harry se contenta de l’observer un moment, conscient du fait qu’il
@@ -327,7 +327,7 @@ cuisaient tranquillement dans le four ; les autres plats devaient être
 apportés par les invités, la famille Verres, qui avait adopté un garçon
 prénommé Harry. Qui était connu sous le nom de Survivant dans le monde
 magique. Et qui était aussi le seul garçon que Hermione ait jamais
-qualifié de « mignon, » et même le seul qu’elle ait jamais remarqué.
+qualifié de « mignon », et même le seul qu’elle ait jamais remarqué.
 
 Les Verres avaient dit que Hermione était le seul enfant de l’âge de
 Harry dont il avait jamais reconnu l’existence de quelque façon que ce
@@ -351,7 +351,7 @@ des lourds pas de son mari et d’une porte qui s’ouvrait.
 Michael, et voici Pétunia et notre fils Harry. La nourriture est dans la
 malle magique. »
 
-« Oui, entrez, je vous en prie, » dit son mari, suivi d’un « Merci »
+« Oui, entrez, je vous en prie », dit son mari, suivi d’un « Merci »
 marmonné qui indiquait qu’une espèce de cadeau avait été accepté, puis
 « Asseyez-vous. » La voix de Leo passa alors à un ton enthousiaste
 artificiel et dit : « Et tous les jouets sont en bas à la cave, je suis
@@ -398,14 +398,14 @@ Papa, c’est Hermione ! Elle est vraiment maline ! »
 « *Harry* ! » siffla sa fille, « Arrête ça ! »
 
 Le garçon pivota de nouveau pour regarder Hermione. « J’ai peur,
-mademoiselle Granger, » dit-il avec le plus grand sérieux, « que vous et
+mademoiselle Granger », dit-il avec le plus grand sérieux, « que vous et
 moins ayons été exilés aux recoins labyrinthiques de la cave.
 Laissons-les à leurs conversations adultes, qui s’élèvent sans nul doute
 loin au-dessus de nos intellects puérils, et reprenons notre
 conversation interrompue sur ce que le projectivisme Humien implique
 pour la Métamorphose. »
 
-« Excusez-nous, s’il vous plaît, » dit sa fille d’un ton très ferme, et
+« Excusez-nous, s’il vous plaît », dit sa fille d’un ton très ferme, et
 elle attrapa le garçon par sa manche gauche et le traîna dans le
 couloir — Roberta pivota, impuissante, essayant de les suivre alors
 qu’ils la dépassaient, le garçon lui fit un jovial salut de la main -
@@ -415,7 +415,7 @@ la porte derrière elle.
 « Je, ah, je vous demande pardon pour… » dit Mme. Verres d’une voix
 défaillante.
 
-« Je suis désolé, » dit le professeur, un sourire plein d’affection sur le
+« Je suis désolé », dit le professeur, un sourire plein d’affection sur le
 visage, « Harry peut être assez susceptible sur ce genre de chose. Mais
 je pense qu’il a raison en disant que nous ne serions pas intéressés par
 leur conversation. »
@@ -533,13 +533,13 @@ Cela dit, Harry faisait ce qu’il pouvait.
 « Et elle te bat vraiment dans *tous* tes cours à part vol sur balais et
 Métamorphose ? » dit le professeur Michal Verres-Evans.
 
-« Oui, » dit Harry avec un calme forcé en se découpant une autre bouchée
+« Oui », dit Harry avec un calme forcé en se découpant une autre bouchée
 de dinde de Noël. « Avec une bonne marge dans la plupart. » Il y avait
 d’autres circonstances lors desquelles Harry aurait été plus réticent à
 l’admettre, et c’était la raison pour laquelle il n’avait pas encore
 trouvé l’occasion de le dire à son père.
 
-« Hermione s’est toujours pas mal débrouillé à l’école, » dit le Dr. Leo
+« Hermione s’est toujours pas mal débrouillé à l’école », dit le Dr. Leo
 Granger d’un ton satisfait.
 
 « Harry fait des compétitions au niveau national ! » dit le professeur
@@ -550,14 +550,14 @@ Michael Verres-Evans.
 Hermione gloussait, et ça n’aidait pas Harry passer un bon moment. Ça ne
 semblait pas embêter Hermione et *ça embêtait Harry.*
 
-« Ça ne me gêne pas de perdre contre elle, papa, » dit Harry. À ce moment
+« Ça ne me gêne pas de perdre contre elle, papa », dit Harry. À ce moment
 précis, c’était le cas. « Ai-je mentionné qu’elle a mémorisé tous ses
 manuels avant le premier jour de cours ? Et oui, j’ai vérifié. »
 
 « Est-ce, euh, *habituel* pour elle ? » dit le professeur Verres-Evans aux
 Granger.
 
-« Oh, oui, Hermione a toujours mémorisé des choses, » dit le Dr. Roberta
+« Oh, oui, Hermione a toujours mémorisé des choses », dit le Dr. Roberta
 Granger avec un sourire jovial. « Elle connaît toutes les recettes de mes
 livres de cuisine par cœur. Elle me manque à chaque fois que je fais à
 dîner. »
@@ -565,7 +565,7 @@ dîner. »
 À en juger l’expression sur le visage de son père, papa ressentait au
 moins une partie de ce que Harry ressentait.
 
-« Ne t’en fais pas, papa, » dit Harry, « elle accède au matériel
+« Ne t’en fais pas, papa », dit Harry, « elle accède au matériel
 pédagogique le plus avancé qu’elle soit capable de comprendre
 maintenant. Ses professeurs savent qu’elle est intelligente,
 *contrairement à ses parents !* »
@@ -575,11 +575,11 @@ que tous les visages s’étaient tournés pour le fixer et que Hermione lui
 avait donné un nouveau coup de pied, Harry savait qu’il s’était planté,
 mais ç’avait été trop, beaucoup trop.
 
-« Bien sûr que nous savons qu’elle est intelligente, » dit Leo Granger, en
+« Bien sûr que nous savons qu’elle est intelligente », dit Leo Granger, en
 commençant à avoir l’air offensé face à l’enfant qui avait eu la
 témérité d’élever la voix à leur table.
 
-« Vous n’en avez pas la moindre idée, » dit Harry, la glace s’insinuant
+« Vous n’en avez pas la moindre idée », dit Harry, la glace s’insinuant
 maintenant dans sa voix. « Vous pensez qu’elle lit beaucoup de livres et
 que c’est mignon, c’est ça ? Vous voyez un bulletin avec des notes
 parfaites et vous pensez que c’est bien qu’elle soit forte en cours.
@@ -606,7 +606,7 @@ dentiste ! »
 Roberta fixa l’espace par lequel sa fille venait de traîner le Survivant
 hors de la pièce avec un air patient gravé sur son jeune visage.
 
-« Je suis terriblement désolé, » dit le professeur Verres avec un sourire
+« Je suis terriblement désolé », dit le professeur Verres avec un sourire
 amusé. « Mais ne vous en faites pas s’il vous plaît, Harry parle toujours
 comme ça. N’ont-ils pas déjà l’air d’un couple marié ? »
 
@@ -626,7 +626,7 @@ qu’elle ait refermé la porte derrière eux, elle s’était retournée -
 \- en souriant, d’un sourire authentique pour ce que Harry pouvait en
 discerner.
 
-« Harry, ne fais pas ça, s’il te plaît, » dit-elle d’une voix douce. « Même
+« Harry, ne fais pas ça, s’il te plaît », dit-elle d’une voix douce. « Même
 si c’est très gentil de ta part. Tout va bien. »
 
 Harry se contenta de la regarder. « Comment peux-tu le supporter ? »
@@ -637,7 +637,7 @@ timbre. « *Comment peux-tu le supporter ?* »
 Hermione haussa les épaules et dit : « Parce que c’est comme ça que les
 parents *devraient* être ? »
 
-« Non, » dit Harry, sa voix basse et intense, « pas du tout, mon père ne me
+« Non », dit Harry, sa voix basse et intense, « pas du tout, mon père ne me
 rabaisse *jamais* — enfin, *si*, mais jamais comme ça — »
 
 Hermione leva un seul doigt, et Harry attendit, la regardant chercher
@@ -654,7 +654,7 @@ beaucoup d’affection. « *Est-*ce clair, M. Potter ? »
 
 Harry hocha la tête d’un air guindé.
 
-« Bien, » dit Hermione, et elle se pencha et l’embrassa sur la joue.
+« Bien », dit Hermione, et elle se pencha et l’embrassa sur la joue.
 
 
 

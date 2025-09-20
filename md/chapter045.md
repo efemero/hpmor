@@ -8,7 +8,7 @@ constellée d’hiver, Fumseck toujours perché sur son épaule.
 
 Il y eut de grandes inspirations autour de lui.
 
-« Harry, » dit Seamus d’une voix vacillante, « tu vas bien ? »
+« Harry », dit Seamus d’une voix vacillante, « tu vas bien ? »
 
 La paix du phénix était toujours en lui, et une chaleur émanait de là où
 Fumseck était perché. Une chaleur qui se répandait à travers lui, et le
@@ -38,7 +38,7 @@ Minerva McGonagall le regardait, l’air très inquiète ; à côté d’elle,
 Albus Dumbledore l’observait avec attention ; Filius Flitwick semblait
 extrêmement soulagé ; et tous les élèves le regardaient bouche bée.
 
-« Je pense que oui, professeur McGonagall, » dit Harry d’une voix calme.
+« Je pense que oui, professeur McGonagall », dit Harry d’une voix calme.
 Il avait presque dit *Minerva*, avant de s’en empêcher. Tout irait bien,
 du moins tant que Fumseck serait sur son épaule ; il était possible
 qu’il s’écroule un instant après le départ de ce dernier, mais ce genre
@@ -55,16 +55,16 @@ Harry se retourna. « Hermione ? » dit-il.
 Tous ceux qui avaient la moindre sensibilité romantique retinrent leur
 respiration.
 
-« Je ne sais pas vraiment comme remercier avec grâce, » dit doucement
+« Je ne sais pas vraiment comme remercier avec grâce », dit doucement
 Harry, « pas plus que je ne sais m’excuser. Tout ce que je peux dire,
 c’est qui si tu te demandes si tu as bien agi, la réponse est oui. »
 
 Le garçon et la fille se regardèrent dans les yeux l’un de l’autre.
 
-« Désolé, » dit Harry. « Pour ce qui va se passer ensuite. S’il y a quoi
+« Désolé », dit Harry. « Pour ce qui va se passer ensuite. S’il y a quoi
 que ce soit que je puisse faire — »
 
-« Non, » répondit Hermione. « Tu ne peux rien faire. Mais ce n’est pas
+« Non », répondit Hermione. « Tu ne peux rien faire. Mais ce n’est pas
 grave. » Puis elle se détourna de Harry et partit vers le chemin qui
 menait aux portes de Poudlard.
 
@@ -89,35 +89,35 @@ Les yeux de Harry revinrent sur la cape en lambeaux, distraitement, et
 sans vraiment savoir à qui il s’adressait, il dit : « Ça ne devrait pas
 exister. »
 
-« Ah, » dit une voix sèche et précise. « Je pensais que vous pourriez dire
+« Ah », dit une voix sèche et précise. « Je pensais que vous pourriez dire
 cela. M. Potter, je suis navré de vous apprendre que les Détraqueurs ne
 peuvent être tués. Nombreux sont ceux qui ont essayé. »
 
-« Vraiment, » dit Harry, toujours l’air absent. « Qu’ont-ils essayé ? »
+« Vraiment », dit Harry, toujours l’air absent. « Qu’ont-ils essayé ? »
 
-« Il existe un sort extrêmement dangereux et destructeur, » dit le
+« Il existe un sort extrêmement dangereux et destructeur », dit le
 professeur Quirrell, « que je ne nommerai pas ici ; un sortilège de feu
 maudit. C’est ce que vous utiliseriez pour détruire un ancien artefact
 tel que le Choixpeau. Il n’a aucun effet sur les Détraqueurs. Ils sont
 éternels. »
 
-« Il n’y a pas d’éternité, » dit le directeur. Les mots étaient doux ; le
+« Il n’y a pas d’éternité », dit le directeur. Les mots étaient doux ; le
 regard acéré. « Ils ne possèdent pas la vie éternelle. Ils sont des
 plaies à la surface du monde, et attaquer une plaie ne fait que
 l’élargir. »
 
-« Hmm, » dit Harry. « Imaginez qu’on le jette dans le soleil ? L’astre
+« Hmm », dit Harry. « Imaginez qu’on le jette dans le soleil ? L’astre
 serait-il détruit ? »
 
 « Le *jeter* dans le *soleil* ? » piailla le professeur Flitwick, et il
 avait l’air de vouloir s’évanouir.
 
-« Cela semble peu probable, M. Potter, » dit le professeur d’un ton sec.
+« Cela semble peu probable, M. Potter », dit le professeur d’un ton sec.
 « Le soleil est très grand, après tout ; je doute que le Détraqueur lui
 fasse beaucoup d’effet. Mais ce n’est pas un test que je souhaiterais
 effectuer, juste au cas où. »
 
-« Je vois, » dit Harry.
+« Je vois », dit Harry.
 
 Fumseck coassa une dernière fois, puis il recouvrit le visage de Harry
 de ses ailes et se propulsa alors loin de lui. Droit vers le Détraqueur,
@@ -131,12 +131,12 @@ La chaleur se dissipa, un peu.
 
 Harry prit une profonde inspiration puis la laissa ressortir.
 
-« Ouais, » dit Harry. « Toujours en vie. »
+« Ouais », dit Harry. « Toujours en vie. »
 
 Encore ce silence, encore l’absence d’acclamations ; personne ne
 semblait savoir comment répondre -
 
-« Il est bon d’apprendre que vous êtes totalement rétabli, » dit le
+« Il est bon d’apprendre que vous êtes totalement rétabli », dit le
 professeur Quirrell d’une voix ferme, comme s’il niait la possibilité
 d’une alternative. « Maintenant, je crois que mademoiselle Ransom vient
 ensuite ? »
@@ -198,9 +198,9 @@ Dumbledore et un trio d’Aurors.
 Il aurait mieux valu commencer par se débarrasser du trio, mais Harry
 n’arrivait pas à trouver un bon moyen d’y parvenir.
 
-« Très bien, » dit l’Auror Komodo, « remmenons-le. »
+« Très bien », dit l’Auror Komodo, « remmenons-le. »
 
-« Excusez-moi, » dit Harry. « J’aimerais réessayer le Détraqueur. »
+« Excusez-moi », dit Harry. « J’aimerais réessayer le Détraqueur. »
 
 
 
@@ -212,20 +212,20 @@ La requête de Harry rencontra une certaine dose d’opposition, de celles
 du genre *mais vous êtes complètement cinglé*, même si l’Auror Butnaru
 fut le seul à le dire à voix haute.
 
-« Fumseck m’a dit de le faire, » dit Harry.
+« Fumseck m’a dit de le faire », dit Harry.
 
 Cela ne surmonta pas toute l’opposition, malgré l’expression choquée qui
 apparut alors sur le visage de Dumbledore. Le débat continua, et cela
 commença à ronger une partie de ce qui restait de la paix du phénix, ce
 qui agaça Harry, mais un peu seulement.
 
-« Écoutez, » dit Harry, « je suis presque sûr de savoir ce que j’ai mal
+« Écoutez », dit Harry, « je suis presque sûr de savoir ce que j’ai mal
 fait la dernière fois. Il existe des gens qui doivent utiliser un autre
 genre de pensée heureuse. Laissez-moi juste essayer, d’accord ? »
 
 Cela ne fut pas plus persuasif.
 
-« Je pense, » dit enfin le professeur Quirrell en regardant Harry avec des
+« Je pense », dit enfin le professeur Quirrell en regardant Harry avec des
 yeux étroits, « que si nous ne le laissons pas le faire sous supervision,
 il pourrait bien, à un moment ou un autre, nous fausser compagnie et
 chercher un Détraqueur seul. Vous accuserais-je faussement, M. Potter ? »
@@ -233,7 +233,7 @@ chercher un Détraqueur seul. Vous accuserais-je faussement, M. Potter ? »
 Il y eut une pause horrifiée. Cela semblait un bon moment pour jouer
 l’atout qu’il avait gardé dans sa manche.
 
-« Ça ne me dérange pas que le directeur garde son Patronus, » dit Harry.
+« Ça ne me dérange pas que le directeur garde son Patronus », dit Harry.
 *Car je serai tout autant en présence du Détraqueur, Patronus ou pas.*
 
 Cela fut accueilli par une grande confusion ; même le professeur
@@ -249,11 +249,11 @@ Harry ne le dit pas à voix haute, pour des raisons évidentes.
 
 Et ils commencèrent à marcher vers le Détraqueur.
 
-« Professeur, » dit Harry, « imaginons que la porte de Serdaigle vous pose
+« Professeur », dit Harry, « imaginons que la porte de Serdaigle vous pose
 cette énigme : Qu’est-ce qui se trouve au centre d’un Détraqueur ? Que
 diriez-vous ? »
 
-« La peur, » dit le directeur.
+« La peur », dit le directeur.
 
 C’était une erreur facile à commettre. Le Détraqueur approchait, et la
 peur vous englobait. La peur faisait mal, vous la sentiez vous
@@ -301,7 +301,7 @@ l’horreur sur le visage de l’Auror Goryanof.
 Puis le professeur Quirrell leva la tête, le visage dur, et il cracha en
 direction du Détraqueur.
 
-« Je suppose qu’il n’a pas aimé voir sa proie lui être enlevée, » dit
+« Je suppose qu’il n’a pas aimé voir sa proie lui être enlevée », dit
 Dumbledore d’une voix douce. « Eh bien, si cela devient nécessaire,
 Quirinus, Poudlard vous offrira toujours refuge. »
 
@@ -313,11 +313,11 @@ Toutes les têtes se tournèrent vers lui.
 
 Harry secoua sa tête.
 
-« Il m’a dit, » dit le professeur Quirrell, « qu’il me connaissait, et
+« Il m’a dit », dit le professeur Quirrell, « qu’il me connaissait, et
 qu’il me pourchasserait un jour, où que je me cache. » Son visage était
 rigide et n’exprimait aucune peur.
 
-« Ah, » dit Harry, « je ne m’inquiéterais pas pour ça, professeur
+« Ah », dit Harry, « je ne m’inquiéterais pas pour ça, professeur
 Quirrell. » *Ce n’est pas comme si les Détraqueurs pouvaient vraiment
 parler, ou penser ; leur structure est empruntée à votre esprit et à ce
 à quoi vous vous attendez…*
@@ -328,7 +328,7 @@ Détraqueur, et à Harry.
 
 Et ils se tinrent directement en face de la cage du Détraqueur.
 
-« Il existe des blessures dans le monde, » dit Harry. « C’est une pure
+« Il existe des blessures dans le monde », dit Harry. « C’est une pure
 conjecture, mais j’imagine que c’est Godric Gryffondor qui a dit ça. »
 
 « Oui… » dit Dumbledore. « Comment l’as-tu su ? »

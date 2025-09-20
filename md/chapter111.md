@@ -120,7 +120,7 @@ cette Noise au cercle magique que je t’ai montré sous les gradins de
 Quidditch et place-la au centre de celui-ci. Puis Oubliette-toi les six
 dernières heures. »
 
-« Oui, seigneur, » dit la sorcière avant de s’incliner et de partir.
+« Oui, seigneur », dit la sorcière avant de s’incliner et de partir.
 
 « Je pensais… » dit Harry. « Je pensais que vous aviez besoin de la Pierre
 pour… »
@@ -158,7 +158,7 @@ des Ténèbres, et le métal se fêla avant de se replier sur lui-même.
 
 Le tuyau donnait au beau milieu d’un long tunnel de pierre.
 
-« Nous allons marcher un moment, » dit le Seigneur des Ténèbres. « Avais-tu
+« Nous allons marcher un moment », dit le Seigneur des Ténèbres. « Avais-tu
 d’autres questions pour moi, petit enfant ? »
 
 « Je… aucune ne me vient à l’esprit… pour l’instant… »
@@ -449,7 +449,7 @@ crépusculaire.
 
 La vaine alarme dans le cerveau de Harry devint plus forte.
 
-« Ceci, » dit le Seigneur des Ténèbres à la façon du professeur Quirrell,
+« Ceci », dit le Seigneur des Ténèbres à la façon du professeur Quirrell,
 « est un plan de travail que je me suis fait, accessible depuis Poudlard
 et Pré-au-Lard. » Le Seigneur des Ténèbres tendit une main vers l’autel.
 « C’est là que Mlle Granger vivra à nouveau, et aussi là que je renaîtrai
@@ -497,7 +497,7 @@ extraire une fiole d’un liquide qui, sous la lumière du crépuscule,
 semblait noir.
 
 Lorsque le Seigneur des Ténèbres parla à nouveau, sa voix fut précise,
-saccadée : « Du sang, du sang, du sang si sagement caché, » dit-il.
+saccadée : « Du sang, du sang, du sang si sagement caché », dit-il.
 
 Et les obélisques autour de l’autel se mirent à chanter en chœur, des
 voix émanant de la pierre immobile, des cadences plus anciennes que le
@@ -536,7 +536,7 @@ doigts, toucha sa poitrine de sa baguette.
 
 Puis il rejeta sa tête en arrière et rit.
 
-« Incroyable, » dit le Seigneur des Ténèbres, de la voix du professeur de
+« Incroyable », dit le Seigneur des Ténèbres, de la voix du professeur de
 Défense que Harry avait connu. « Permanente, sa forme est permanente !
 Une simple apparence donnée par la magie devient la véritable substance
 dès que la Pierre la touche ! Et je n’ai rien senti ! Rien ! Je croyais
@@ -594,7 +594,7 @@ Le corps que Voldemort avait abandonnée se releva, tremblant ; et d’une
 voix que Harry pouvait à peine entendre, Quirinus Quirrell haleta :
 « Libre… oh, libre… »
 
-« *Stupéfix*, » dit la voix froide et flûtée de Voldemort, et Quirinus
+« *Stupéfix* », dit la voix froide et flûtée de Voldemort, et Quirinus
 Quirrell fut projeté au sol. Puis, d’un mouvement de son autre main, il
 fut soulevé et envoyé loin de l’autel.
 
@@ -618,7 +618,7 @@ Mangemorts hauts placés mettaient souvent en place des barrières contre
 les Portoloin. Derrière Harry, Voldemort rit à nouveau, un rire
 appréciateur et surpris.
 
-« J’ai besoin de ma baguette pour lancer *Finite Incantatem*, » dit Harry.
+« J’ai besoin de ma baguette pour lancer *Finite Incantatem* », dit Harry.
 
 « Non. » La voix aiguë était cruelle. « Tu as appris à maintenir une
 métamorphose par le toucher, sans utiliser de baguette. Tu peux aussi
@@ -649,7 +649,7 @@ métamorphosés.
 Cette vue fit remonter des souvenirs des heures passées dans
 l’infirmerie, des cauchemars qui avaient suivis et qu’il avait réprimés.
 
-« Éloignes-toi, » dit la voix aiguë de Voldemort. « C’est à mon tour,
+« Éloignes-toi », dit la voix aiguë de Voldemort. « C’est à mon tour,
 maintenant. »
 
 Harry déglutit et s’écarta de l’autel vers l’entrée du long couloir où
@@ -709,7 +709,7 @@ Le morceau de verre rouge pivota, légèrement.
 Le Seigneur des Ténèbres redescendit jusqu’au sol et toucha le corps de
 Hermione Granger avec sa baguette.
 
-« *Il y a un obsstacle*, » siffla Voldemort.
+« *Il y a un obsstacle* », siffla Voldemort.
 
 Harry s’était tellement attendu à une trahison ou à un échec que la
 confirmation ne fut qu’un choc sourd, sans violence. « *Quel
@@ -742,7 +742,7 @@ Harry ne dit rien quant à la possibilité que ses intentions changent ;
 il avait simplement dit son idée assez vite pour n’avoir pas encore
 formé d’intention spécifique.
 
-« Alors là, » siffla Voldemort, « j’aimerais voir ça. » Le Seigneur des
+« Alors là », siffla Voldemort, « j’aimerais voir ça. » Le Seigneur des
 Ténèbres tendit la main vers le tas d’objets à côté de l’autel et en
 sortit la baguette de Harry enrobée dans du tissu. Elle fut jetée,
 glissa dans les airs et tomba aux pieds de Harry ; puis le Seigneur des
@@ -759,10 +759,10 @@ mais au moins la première étape avait été accomplie.
 Et Harry se tint devant le corps réparé de Hermione Granger, toujours
 nue et morte, sur un autel à la lumière du crépuscule.
 
-« Lord Voldemort, » dit Harry, « je vous en prie, donnez-lui quelques
+« Lord Voldemort », dit Harry, « je vous en prie, donnez-lui quelques
 vêtements. Cela pourrait m’aider. »
 
-« Accordé, » siffla Voldemort. La douleur de la cicatrice de Harry se
+« Accordé », siffla Voldemort. La douleur de la cicatrice de Harry se
 réveilla quand le corps nu de la fille s’éleva, puis s’intensifia à
 nouveau quand des feuilles mortes dansèrent autour d’elle et qu’elle fut
 soudain vêtue d’un faux uniforme de Poudlard aux bordures vertes plutôt
@@ -838,7 +838,7 @@ le professeur Flitwick, mais ça…
 *ÇA*, dit Harry à voix haute dans sa tête, *ÇA c’est ce que j’appelle
 une deuxième étape.*
 
-« Intéressant, » dit la voix aiguë et froide. « Ton Patronus utilise ta vie
+« Intéressant », dit la voix aiguë et froide. « Ton Patronus utilise ta vie
 autant que ta magie… je l’avais deviné, car c’est un sortilège beaucoup
 trop puissant pour qu’un élève en première année puisse l’alimenter avec
 sa seule magie. Et pourtant le puzzle est encore incomplet, car un autre
@@ -863,7 +863,7 @@ Harry faillit ne pas l’entendre : « *Requiescus.* »
 
 Voldemort agita une main en direction d’un obélisque qui se mit à
 pivoter et finit allongé au sol, pointé vers l’extérieur. « Tout à fait
-fascinant, » siffla Voldemort. « Elle est en vie et magique, mais
+fascinant », siffla Voldemort. « Elle est en vie et magique, mais
 contrairement à ce que je craignais, ce n’est pas un autre Tom Jedusor. »
 
 La tension montait de nouveau en Harry. Il aurait bien remis sa baguette
@@ -909,7 +909,7 @@ Harry déglutit. « Je suis très confus. » Est-ce que Voldemort
 *s’entraînait à être gentil* ? Cette hypothèse ne semblait pas suffire à
 expliquer la situation.
 
-« Reste bien en arrière, » dit froidement Voldemort. « Ce rituel est plus
+« Reste bien en arrière », dit froidement Voldemort. « Ce rituel est plus
 noir que le précédent. » Le Seigneur des Ténèbres entonna un nouveau
 chant, des syllabes plus douces qui semblaient être vivantes,
 tourbillonner dans les airs, et Harry, saisit d’une nouvelle poussée
@@ -923,7 +923,7 @@ aller nulle part ; elle ne fut plus là.
 Quel qu’ait été le sortilège de repos que Voldemort avait lancé à
 Hermione Granger, il marchait : elle dormait paisiblement.
 
-« Euh, » dit Harry d’une petite voix, « ça a marché ? »
+« Euh », dit Harry d’une petite voix, « ça a marché ? »
 
 « *Diffindo.* »
 
@@ -967,7 +967,7 @@ vie dépend de celle de Hermione Granger.*
 
 Les parties perplexes de Harry cherchèrent une procédure à suivre. Sa
 première pensée fut : « Fais une prédiction à partir de ta meilleure
-hypothèse, » mais cela ne le mena nulle part. Le méchant avait gagné,
+hypothèse », mais cela ne le mena nulle part. Le méchant avait gagné,
 mais le fil narratif ne continuait pas comme il aurait dû.
 
 Une nouvelle poussée de douleur dans sa cicatrice, comme un coup sur le
@@ -977,7 +977,7 @@ Le Seigneur des Ténèbres posa une fois de plus la Pierre sur Hermione et
 l’entoura de ses mains.
 
 Il observa l’invisible processus un moment, puis se retourna, laissant
-la Pierre sur elle, et émit un fredonnement aigu. « Ah oui, » siffla-t-il.
+la Pierre sur elle, et émit un fredonnement aigu. « Ah oui », siffla-t-il.
 « Ce serait parfaitement adapté. As-tu toujours le journal que je t’ai
 donné, petit ? Celui du célèbre scientifique ? »
 
@@ -988,7 +988,7 @@ terrible pour ce professeur Quirrell perdu ou factice, mais cette
 émotion avait été trop présente et son cerveau l’avait temporairement
 mise de côté.
 
-« Oui, » dit Harry. « Je crois que c’est dans ma bourse, je peux aller
+« Oui », dit Harry. « Je crois que c’est dans ma bourse, je peux aller
 voir ? » Il *savait* que c’était dans sa bourse. Il l’avait remplie de
 tout ce dont il pourrait jamais avoir besoin, ses possessions et
 d’autres achats ; et de tout ce qui aurait pu être un objet de quête.
@@ -996,7 +996,7 @@ d’autres achats ; et de tout ce qui aurait pu être un objet de quête.
 La bourse en peau de Moke de Harry fut extraite du tas d’objets près de
 l’autel et jetée aux pieds de Harry.
 
-« Le journal de Roger Bacon, » dit Harry en y plongeant la main, et le
+« Le journal de Roger Bacon », dit Harry en y plongeant la main, et le
 journal apparut. Le professeur Quirrell avait dit que le journal
 ressortirait intact d’un incendie, alors il le jeta vers l’autel de
 Voldemort ; il y avait plus important à penser que le traitement correct
@@ -1010,7 +1010,7 @@ mis sa baguette.
 
 *Troisième étape, la bourse.*
 
-« Oui, » siffla Voldemort en feuilletant le journal, « cela conviendra très
+« Oui », siffla Voldemort en feuilletant le journal, « cela conviendra très
 bien. » La Pierre se déplaça légèrement et l’autre main du Seigneur des
 Ténèbres rangea la Pierre dans ses robes.
 
@@ -1025,7 +1025,7 @@ pour te sséduire, t’amener de mon côté.* » Voldemort fit des gestes
 complexes sans jamais regarder sa main, tout en tenant le journal de
 l’autre. L’espace d’un instant, Harry cru voir une traînée de ténèbres
 flotter en l’air, mais la lune était trop peu lumineuse pour qu’il
-puisse en être certain. « Et maintenant, mon cher petit, » dit la voix
+puisse en être certain. « Et maintenant, mon cher petit », dit la voix
 aiguë de Voldemort, teintée d’une joie sinistre, au moment où il
 touchait brièvement le front de Hermione Granger d’un geste nonchalant,
 « je fais de ce journal un cadeau bien plus précieux, un témoin de la
@@ -1074,7 +1074,7 @@ L’objet passa de la bourse à la main de Harry et il commença à s’avancer
 aussi doucement de possible, cherchant à se rapprocher de Voldemort, à
 atteindre la distance viable indiquée par ses brèves expériences.
 
-« Ma grande création, » haleta Voldemort. Sa voix était flutée, comme
+« Ma grande création », haleta Voldemort. Sa voix était flutée, comme
 paniquée. « Deux esprits différents ne peuvent exister dans le même
 monde — il est parti, il est rompu ! Un Horcruxe, je dois faire un
 Horcruxe immédiatement… » son regard tomba sur le corps endormi de

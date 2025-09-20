@@ -23,10 +23,10 @@ s’appuyer contre un mur ni éclater en sanglots ni même se permettre un
 soupir. Sa chère Bella le regardait et ce n’était pas le genre de chose
 qu’un Seigneur des Ténèbres aurait fait.
 
-« Seigneur —, » dit Bellatrix. Sa voix, basse, était tendue. « Les
+« Seigneur — », dit Bellatrix. Sa voix, basse, était tendue. « Les
 Détraqueurs — ils approchent — je peux les sentir, seigneur — »
 
-« Merci, Bella, » dit une voix sèche, « je suis au courant. »
+« Merci, Bella », dit une voix sèche, « je suis au courant. »
 
 Harry ne pouvait pas ressentir les trous dans le monde aussi bien que
 lorsqu’il avait revêtu la Relique de la Mort mais il pouvait sentir
@@ -65,7 +65,7 @@ aux Détraqueurs, c’est* aussi *un biais cognitif : comment sauras-tu
 qu’il est vraiment temps d’abandonner ?*
 
 Un cri sanglotant et désespéré vint d’en-dessous, porteur de mots tels
-que « non, » et « partez ». Les prisonniers savaient, ils pouvaient les
+que « non », et « partez ». Les prisonniers savaient, ils pouvaient les
 sentir.
 
 Les Détraqueurs arrivaient.
@@ -73,7 +73,7 @@ Les Détraqueurs arrivaient.
 « Seigneur, vous — vous ne devriez pas prendre de risque pour moi -
 reprenez votre Cape — »
 
-« Tais-toi, imbécile, » siffla une voix en colère. « Lorsque je déciderai
+« Tais-toi, imbécile », siffla une voix en colère. « Lorsque je déciderai
 de te sacrifier, je t’en ferai part. »
 
 *Elle marque un point*, dit Serpentard. *Tu* *ne* devrais pas *prendre
@@ -124,7 +124,7 @@ le niveau 7, spirale C, c’est là qu’ils sont ! »
 
 Les Aurors la regardaient, attendaient un réponse.
 
-« Non, » dit Amélia d’une voix égale. « C’est là que *l’un* d’eux se
+« Non », dit Amélia d’une voix égale. « C’est là que *l’un* d’eux se
 trouve. Les Détraqueurs ne peuvent toujours pas trouver Bellatrix Black.
 Nous n’allons pas nous précipiter là-bas et la laisser partir dans la
 mêlée, et nous n’allons pas diviser nos forces pour mieux nous faire
@@ -216,7 +216,7 @@ arraché de sa gorge.
 Harry fit un geste vers elle, le signal qu’il avait préparé à l’avance
 et qui signifiait : *répète ce que tu les as entendus dire*.
 
-« Ils disent, » répondit Bellatrix, sa voix tremblait, « ils disent :
+« Ils disent », répondit Bellatrix, sa voix tremblait, « ils disent :
 “Bellatrix Black nous a été promise. Dis-nous où elle se cache et tu
 seras épargné.” »
 
@@ -231,7 +231,7 @@ Non, c’était une erreur de penser qu’on pouvait tromper les Détraqueurs,
 ils n’étaient que des *choses*, ils n’étaient contrôlés que par les
 *attentes* -
 
-« Ils disent, » dit Bellatrix d’une voix brisée, « ils disent qu’ils savent
+« Ils disent », dit Bellatrix d’une voix brisée, « ils disent qu’ils savent
 que vous mentez. »
 
 Les vides recommencèrent à avancer.
@@ -239,7 +239,7 @@ Les vides recommencèrent à avancer.
 *Ses anticipations sont plus fermes que la mienne ; elle les contrôle
 involontairement -*
 
-« Ne résiste pas, » dit Harry, pointant sa baguette derrière lui.
+« Ne résiste pas », dit Harry, pointant sa baguette derrière lui.
 
 « Je, je vous aime, adieu, seigneur — »
 
@@ -248,7 +248,7 @@ involontairement -*
 Entendre ces horribles mots et comprendre l’erreur de Bellatrix l’aida
 étrangement ; cela lui rappela pourquoi il se battait.
 
-« Arrêtez-vous, » répéta Harry. Bellatrix dormait ; maintenant, seule sa
+« Arrêtez-vous », répéta Harry. Bellatrix dormait ; maintenant, seule sa
 volonté, ou plutôt seules ses attentes devraient contrôler ces sphères
 d’annihilation -
 
@@ -319,7 +319,7 @@ et physique* parce que les Détraqueurs n’étaient pas partis bien loin.
 
 
 
-« Je l’ai trouvé !, » s’écria la voix d’un vieux sorcier.
+« Je l’ai trouvé ! », s’écria la voix d’un vieux sorcier.
 
 *Qui ?* pensa Amélia tout en pivotant afin d’observer le retour de
 Dumbledore, qui portait dans ses bras -
@@ -369,7 +369,7 @@ Bellatrix ; s’était-il trompé dans son choix de mots ?
 Après un moment, d’une voix chevrotante : « Se pourrait-il, seigneur, que
 sous cette forme nouvelle vous ayez commencé à vous soucier de moi — »
 
-« Non, » répondit Harry d’une voix froide, et il se détourna d’elle (mais
+« Non », répondit Harry d’une voix froide, et il se détourna d’elle (mais
 il garda sa baguette pointée dans sa direction) puis commença à marcher.
 « Et assures-toi de ne plus m’offenser ou je t’abandonnerai ici que tu me
 sois utile ou pas. Maintenant suis, ou reste en arrière ; j’ai à faire. »
@@ -394,26 +394,26 @@ costauds.
 
 « Amélia, comprends-tu cela ? »
 
-« Non, » répondit-elle simplement. Elle soupçonnait un piège qui lui
+« Non », répondit-elle simplement. Elle soupçonnait un piège qui lui
 aurait pour l’instant échappé et c’était pourquoi l’Auror Bahry serait
 maintenu sous bonne garde, à l’écart du groupe principal.
 
-« Peut-être, » répondit-il lentement, « que celui qui parmi eux est capable
+« Peut-être », répondit-il lentement, « que celui qui parmi eux est capable
 de lancer le Patronus est plus qu’un simple otage. Peut-être bien
 quelqu’un qu’on a dupé pour qu’il vienne ? Quelle que soit la raison,
 ils ont gardé notre Auror en vie ; ne soyons pas les premiers à exercer
 des sortilèges mortels lorsque nous les trouverons — »
 
-« Je vois, » dit la vieille sorcière, comprenant soudain, « c’était *ça*
+« Je vois », dit la vieille sorcière, comprenant soudain, « c’était *ça*
 leur plan. L’Oublietter et le garder en vie ne leur coûte rien et *nous*
 fait hésiter — » Amélia hocha la tête, résolue, et elle dit à son
 équipe : « Nous continuons comme avant. »
 
 Le vieux sorcier soupira. « Des nouvelles des Détraqueurs ? »
 
-« Si je te le dis, » lâcha-t-elle, « est-ce que tu vas encore déguerpir ? »
+« Si je te le dis », lâcha-t-elle, « est-ce que tu vas encore déguerpir ? »
 
-« Cela ne te coûte rien, Amélia, » dit le vieux sorcier avec douceur, « et
+« Cela ne te coûte rien, Amélia », dit le vieux sorcier avec douceur, « et
 pourrait éviter le combat à l’un des tiens. »
 
 *Me coûte rien à ma part ma chance de me venger -*
@@ -423,23 +423,23 @@ sorcier agaçant finissait souvent par avoir raison et c’était en partie
 ce qui le rendait si agaçant.
 
 « Les Détraqueurs ont cessé de répondre aux questions concernant l’autre
-personne qu’ils ont dit avoir vue, » lui dit-elle, « et ils refusent de
+personne qu’ils ont dit avoir vue », lui dit-elle, « et ils refusent de
 dire pourquoi, ni où il l’ont vue. »
 
 Dumbledore se tourna vers le flamboyant phénix d’argent perché sur son
 épaule et dont l’éclat illuminait le couloir entier, et il reçut un
 signe de dénégation silencieux en réponse. « Je ne peux pas non plus les
-détecter, » dit Dumbledore. Puis il haussa les épaules. « Je suppose que
+détecter », dit Dumbledore. Puis il haussa les épaules. « Je suppose que
 je vais juste parcourir toute la spirale de haut en bas et voir si
 quelque chose se passe, non ? »
 
 Amélia lui aurait ordonné de ne pas le faire si elle avait pensé que
 cela aurait eut le moindre effet.
 
-« Albus, » dit Amélia alors que le vieux sorcier se retournait pour
+« Albus », dit Amélia alors que le vieux sorcier se retournait pour
 partir, « même toi tu peux être pris en embuscade. »
 
-« Absurde, ma chère, » dit le vieux sorcier d’un ton guilleret alors qu’il
+« Absurde, ma chère », dit le vieux sorcier d’un ton guilleret alors qu’il
 s’en allait de nouveau, secouant en signe d’admonestation sa baguette de
 près d’un demi-mètre faite d’un bois noir-gris impossible à identifier,
 « je suis invincible. »
@@ -450,10 +450,10 @@ Il y eut une pause.
 demoiselle encore pincée du nom de Noëlle Curry, à l’intention de
 Brooks, l’Auror senior de son trio. « Si ? »)
 
-(« Il peut se le permettre, » lui murmura Isabel en retour, « c’est
+(« Il peut se le permettre », lui murmura Isabel en retour, « c’est
 *Dumbledore*, même le Destin ne le prend plus au sérieux. »)
 
-« Et c’est pour ça, » dit Amélia d’un ton grave au bénéfice des Aurors
+« Et c’est pour ça », dit Amélia d’un ton grave au bénéfice des Aurors
 plus jeunes, « qu’on ne l’appelle jamais pour rien à moins d’y être
 absolument obligé. »
 
@@ -520,7 +520,7 @@ trouver le moindre indice.
 « Pourrais-je te demander un rapport ? » dit Amélia, gardant le mordant
 hors de sa voix.
 
-« D’abord un simple passage de bas en haut, » dit le vieux sorcier. Il
+« D’abord un simple passage de bas en haut », dit le vieux sorcier. Il
 fronçait les sourcils, ce qui rendait son visage encore plus ridé qu’à
 l’habitude. « J’ai examiné la cellule de Bellatrix et j’ai trouvé une
 poupée de mort à sa place. Je pense que l’évasion n’était pas censée
@@ -534,14 +534,14 @@ Ils furent interrompus par un cri venant du phénix rouge-or et tous les
 Aurors tressaillirent en l’entendant. Il exprimait une condamnation et
 une demande urgente qui poussa presque Amélia à se mettre à courir.
 
-« — qui sont dans une condition assez alarmante, » dit Dumbledore d’un ton
+« — qui sont dans une condition assez alarmante », dit Dumbledore d’un ton
 doux. L’espace d’un instant, les yeux bleus derrière les verres en
 croissant de lune devinrent très froids. « L’un de vous me parlera-t-il
 des conséquences de leurs actions ? »
 
 « *Je* n’ai pas — » commença Amélia.
 
-« Je sais, » dit le vieux sorcier. « Mes excuses, Amélia. » Il soupira.
+« Je sais », dit le vieux sorcier. « Mes excuses, Amélia. » Il soupira.
 « Parmi ceux que j’ai vu, certains des prisonniers les plus récents
 avaient encore quelques restes de leur magie, mais je n’ai ressenti
 aucune puissance intacte ; le plus fort avait autant de magie qu’un
@@ -566,7 +566,7 @@ pas le deviner.
 
 « Seigneur… ? » chuchota la voix de Bellatrix, douce et très hésitante.
 
-« Tu peux parler à présent, » dit Harry. Il lui avait dit de rester
+« Tu peux parler à présent », dit Harry. Il lui avait dit de rester
 silencieuse pendant qu’il travaillait.
 
 « C’est Dumbledore qui a posé son regard sur nous. »
@@ -599,14 +599,14 @@ métamorphoser suivante.
 Harry réfléchit rapidement. Cela semblait être une bonne opportunité de
 vérifier ses plans auprès d’elle sous couvert de questions orientées.
 
-« Considère ceci, ma chère Bella, » dit Harry d’une voix soyeuse. « À quel
+« Considère ceci, ma chère Bella », dit Harry d’une voix soyeuse. « À quel
 point est-il difficile, pour un sorcier puissant, de découper les murs
 d’Azkaban ? »
 
 Il y eut une pause, puis la voix de Bellatrix lui parvint, lente et
 perplexe : « Pas difficile du tout, seigneur… ? »
 
-« En effet, » dit la voix sèche et haute perchée du maître de Bellatrix.
+« En effet », dit la voix sèche et haute perchée du maître de Bellatrix.
 « Suppose que quelqu’un le fasse et s’envole par le trou ainsi formé au
 moyen d’un balais, vers les cieux puis vers le large. Faire évader un
 prisonnier d’Azkaban semble alors facile, n’est-ce pas ? »

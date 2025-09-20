@@ -88,7 +88,7 @@ tant qu’on ne le leur avait pas directement montré…
 point de regretter d’avoir posé la question. « Pourquoi est-ce que tu
 regardes ta fourchette comme ça ? »
 
-« Je commence à penser que la magie devrait être illégale, » dit Harry.
+« Je commence à penser que la magie devrait être illégale », dit Harry.
 « Au fait, est-ce que tu as déjà entendu des histoires au sujet de
 sorciers capables de parler aux plantes ? »
 
@@ -200,7 +200,7 @@ décontenancée. « Tu sais ce que c’est ton problème, Harry ? Tu n’a a
 sens des priorités. Une idée te vient et tu dois tout de suite la
 poursuivre. »
 
-« J’ai un *excellent* sens des priorités, » dit Harry. Sa main s’avança et
+« J’ai un *excellent* sens des priorités », dit Harry. Sa main s’avança et
 il attrapa *Rouerie végétale*, de Casey McNama, puis il commença à faire
 défiler les premières pages, à la recherche de la table des matières.
 « C’est pourquoi je veux découvrir si les plantes peuvent parler *avant*
@@ -218,7 +218,7 @@ matières. Il y avait bien un chapitre sur le langage des plantes, ce qui
 fit manquer un battement à son cœur ; et ses mains commencèrent alors à
 rapidement tourner les pages, en direction du bon numéro.
 
-« Parfois, » dit Hermione Granger, « je n’ai vraiment, mais alors vraiment
+« Parfois », dit Hermione Granger, « je n’ai vraiment, mais alors vraiment
 aucune idée de ce qui se passe dans ta tête. »
 
 « Écoute, c’est une question de multiplication. Il y a *beaucoup* de
@@ -245,7 +245,7 @@ capables de parler et qu’elles parlent le langage humain à voix haute,
 pas qu’il existe un sort permettant de parler à *n’importe quelle*
 plante — »
 
-« Ron est venu me voir au petit déjeuner hier matin, » dit Hermione. Sa
+« Ron est venu me voir au petit déjeuner hier matin », dit Hermione. Sa
 voix était à présent un peu étouffée, un peu triste, et peut-être même
 un peu effrayée. « Il a dit que te voir m’embrasser l’avait mortifié. Que
 ce que tu avais dit quand tu étais Détraqué aurait dû me montrer tout le
@@ -262,18 +262,18 @@ pouvaient être en train de souffrir, voir de mourir à l’instant même,
 vers la vie d’un seul être humain qui se trouvait être plus proche et
 lui être plus cher.
 
-« Ron est le plus grand des crétins, » dit Harry. « Et ça ne risque pas de
+« Ron est le plus grand des crétins », dit Harry. « Et ça ne risque pas de
 paraître dans les journaux, parce que ce n’est pas une nouvelle. Alors
 après que tu l’ais viré, combien de ses bras et de ses jambes as-tu
 brisés ? »
 
 « J’ai essayé de lui dire que les choses n’étaient pas ce qu’elles
-semblaient être, » dit Hermione de la même petite voix. « j’ai essayé de
+semblaient être », dit Hermione de la même petite voix. « j’ai essayé de
 lui dire que *tu* n’est pas comme ça, et que ce n’était pas comme ça
 entre nous, mais ça n’a semblé faire que le… le renforcer dans ses
 convictions. »
 
-« Eh bien oui, » dit Harry. Il était surpris de n’être pas plus en colère
+« Eh bien oui », dit Harry. Il était surpris de n’être pas plus en colère
 contre le capitaine Weasley, mais sa préoccupation pour Hermione
 semblait prendre le dessus pour le moment. « Plus tu essaies de te
 justifier auprès de ce genre de personne, plus cela entérine le fait
@@ -296,7 +296,7 @@ mes lèvres et j’ai fait *shluuuuurp* et après ça sa bouche faisait
 encore ces bruits en forme de parole alors j’ai lancé un Silencio. Je ne
 pense pas qu’il essaiera à nouveau de me faire la morale. »
 
-« Je comprends pourquoi tu as fait ça, » dit Hermione d’une voix pincée,
+« Je comprends pourquoi tu as fait ça », dit Hermione d’une voix pincée,
 « je *voulais* le renvoyer, moi aussi, mais j’aurais vraiment aimé que tu
 ne le fasses pas, ça va rendre les choses plus difficiles pour *moi*,
 Harry ! »
@@ -307,27 +307,27 @@ toujours son livre, qu’elle ne le regardait pas. Alors même qu’il
 regardait, les mains de cette dernière tournèrent une autre page.
 
 « Je pense que tu as choisi une mauvaise approche en essayant de te
-défendre, » dit Harry. « Vraiment. Tu es qui tu es. Tu es l’amie de qui tu
+défendre », dit Harry. « Vraiment. Tu es qui tu es. Tu es l’amie de qui tu
 veux. Dis à tous ceux qui questionnent cela de mettre leur questions où
 je pense. »
 
 Hermione se contenta de secouer la tête, et elle tourna une autre page.
 
-« Option deux, » dit Harry. « Vas voir Fred et George et dis leur d’avoir
+« Option deux », dit Harry. « Vas voir Fred et George et dis leur d’avoir
 une petite conversation avec leur frère difficile, *ces deux-là* sont
 vraiment des mecs bien — »
 
-« Il ne s’agit pas que de Ron, » dit Hermione, presque dans un murmure.
+« Il ne s’agit pas que de Ron », dit Hermione, presque dans un murmure.
 « Plein de gens disent ça, Harry. Même Mandy me regarde d’un air inquiet
 quand elle pense que je ne regarde pas. C’est drôle, non ? Je n’arrête
 pas de m’inquiéter à l’idée que le professeur Quirrell puisse t’aspirer
 dans les ténèbres, et maintenant les gens me mettent en garde exactement
 comme j’essaie de le faire pour toi. »
 
-« Ben *ouais*, » dit Harry. « Est-ce que ça ne te rassure pas un peu sur le
+« Ben *ouais* », dit Harry. « Est-ce que ça ne te rassure pas un peu sur le
 professeur Quirrell et moi ? »
 
-« En un mot, » dit Hermione, « non. »
+« En un mot », dit Hermione, « non. »
 
 Il y eut un silence qui dura assez pour que Hermione tourne une autre
 page, puis sa voix, un vrai chuchotement cette fois-ci, « et, et Padma
@@ -354,7 +354,7 @@ de la même façon que tu te vois toi-même, alors tu t’es *déjà* condamnée
 au malheur. Personne ne nous voit jamais comme nous nous voyons
 nous-même. »
 
-« Je ne sais pas comment t’expliquer, » dit Hermione d’une voix douce. « Je
+« Je ne sais pas comment t’expliquer », dit Hermione d’une voix douce. « Je
 ne sais pas si c’est quelque chose que tu pourras un jour comprendre.
 Tout ce que je peux te dire c’est : comment te sentirais-tu si *je*
 pensais que tu étais maléfique ? »
@@ -365,7 +365,7 @@ as *mérité* ce pouvoir sur moi, ça *voudrait dire* quelque chose si tu
 pensais que je m’étais égaré. Je n’arrive pas à imaginer un seul élève,
 à part toi, dont l’opinion m’importerait autant — »
 
-« Tu peux vivre comme ça, » chuchota Hermione Granger. « Moi pas. »
+« Tu peux vivre comme ça », chuchota Hermione Granger. « Moi pas. »
 
 La fille avait lu trois autre pages en silence, et Harry en était revenu
 à son livre, essayant de garder sa concentration, quand Hermione dit
@@ -401,7 +401,7 @@ le risque est trop grand, ce n’est pas le genre de décision qui devrait
 être prise dans le but d’arranger la réputation de quelqu’un à l’école
 ! »
 
-« D’accord, » dit Hermione. Elle ferma le livre et le remit sur l’étagère.
+« D’accord », dit Hermione. Elle ferma le livre et le remit sur l’étagère.
 « Je ne peux pas me concentrer Harry, je suis désolée. »
 
 « S’il y a *quoi que ce soit* d’autre que je puisse faire — »

@@ -1,14 +1,14 @@
 # Accomplissement de soi, partie 6
 
 
-« Eh bien, » chuchota Daphné aussi bas qu’elle le pouvait, « au moins
+« Eh bien », chuchota Daphné aussi bas qu’elle le pouvait, « au moins
 maintenant je n’ai plus l’impression d’être la seule personne saine
 d’esprit de Poudlard. »
 
 « Parce que maintenant tu nous as ? » chuchota Lavande Brown qui marchait
 sur la pointe des pieds à côté d’elle.
 
-« Je ne pense que ce soit ça qu’elle veut dire, » murmura le général
+« Je ne pense que ce soit ça qu’elle veut dire », murmura le général
 Granger, située à gauche de Lavande.
 
 Elles se faufilaient lentement et prudemment entre les couloirs de
@@ -99,20 +99,20 @@ cuvette.
 Elles se tinrent toutes les huit devant la porte et l’observèrent avec
 une certaine lassitude.
 
-« Je m’ennuie, » dit Lavande.
+« Je m’ennuie », dit Lavande.
 
 Padma sortit ostentatoirement une montre de poche de ses robes et la
-regarda. « Seize minutes et trente secondes, » dit-elle. « Un nouveau
+regarda. « Seize minutes et trente secondes », dit-elle. « Un nouveau
 record de durée de concentration pour Gryffondor. »
 
-« *Je* ne pense pas que ça va marcher non plus, » dit Susan. « Et je suis
+« *Je* ne pense pas que ça va marcher non plus », dit Susan. « Et je suis
 une *Poufsouffle*. »
 
-« Vous savez, » dit Lavande d’un ton pensif, « je me demande si ce qui fait
+« Vous savez », dit Lavande d’un ton pensif, « je me demande si ce qui fait
 *vraiment* que quelqu’un est un héros c’est que lorsqu’ils essaient un
 truc de ce genre, quelque chose d’intéressant *se passe*. »
 
-« Je parie que t’as raison, » dit Tracey. « Je parie que si on avait *Harry
+« Je parie que t’as raison », dit Tracey. « Je parie que si on avait *Harry
 Potter* avec nous, on tomberait sur trois brutes et une chambre remplie
 de trésors en moins de cinq minutes. Je parie que tout ce que le général
 Chaos aurait à faire ça serait d’aller aux toilettes et il, tiens, il
@@ -123,7 +123,7 @@ Daphné ne pouvait vraiment pas laisser passer ça. « Tu penses que Salazar
 Serpentard aurait mis l’entrée de la chambre des secrets dans des
 *toilettes* — »
 
-« Ce que je *dis*, » continua Susan alors que Tracey ouvrait la bouche
+« Ce que je *dis* », continua Susan alors que Tracey ouvrait la bouche
 pour répondre, « c’est qu’on n’a aucun moyen de *trouver* des brutes.
 Enfin tout ce *qu’ils* ont à faire c’est de trouver un Poufsouffle
 quelque part, mais on doit les croiser exactement au bon *moment*, vous
@@ -155,7 +155,7 @@ lui a dit ! »
 
 « *Quoi ?* » dit Daphné en même temps que plusieurs autres personnes.
 
-« C’est lui le fantôme qui m’a fait peur, j’en suis presque sûre, »
+« C’est lui le fantôme qui m’a fait peur, j’en suis presque sûre »,
 expliqua Padma. « Enfin, je l’ai seulement compris ensuite mais… ouais.
 Le fantôme de Salazar Serpentard n’aime pas ça quand les Serpentard
 martyrisent les gens, il pense que ça fait honte à son nom, et je parie
@@ -181,7 +181,7 @@ lui avait probablement dit il y a une demi-heure…
 
 En fait… maintenant que Daphné y *pensait*…
 
-« Donc, » dit Parvati. « On doit demander au Survivant où est le fantôme de
+« Donc », dit Parvati. « On doit demander au Survivant où est le fantôme de
 Salazar Serpentard ? Waouh, j’imagine que si je me mets à dire ce genre
 de trucs à voix haute ça veut peut-être dire que je deviens vraiment une
 héroïne — »
@@ -193,7 +193,7 @@ Salazar Serpentard ! »
 Serpentard… » répéta Hannah d’une voix nerveuse, comme si elle se forçait
 à le dire.
 
-« Et si *ça* ne marche pas, » hurla Tracey, « on va assommer Harry Potter,
+« Et si *ça* ne marche pas », hurla Tracey, « on va assommer Harry Potter,
 l’attacher et l’emmener *avec* nous ! »
 
 
@@ -232,7 +232,7 @@ regardèrent.
 Les joues de Hannah rougissaient déjà et alors qu’elle ouvrait sa bouche
 -
 
-« C’est pac’qu’elle a plus de courage que *tu* le penses, évidemment, »
+« C’est pac’qu’elle a plus de courage que *tu* le penses, évidemment »,
 dit Lavande.
 
 Hannah s’arrêta, bouche ouverte.
@@ -250,13 +250,13 @@ l’observaient alors que le silence s’étirait.
 
 « Euh, d’accord ? » dit enfin Susan.
 
-« Il y a *cinq* garçons que j’aime bien, » dit Lavande.
+« Il y a *cinq* garçons que j’aime bien », dit Lavande.
 
-« Padma et moi savions qu’on aimerait les même garçons, » dit Parvati,
+« Padma et moi savions qu’on aimerait les même garçons », dit Parvati,
 « alors on a fait une liste et on a lancé une Noise en l’air pour voir
 qui aurait droit au premier choix. »
 
-« Je sais à qui est promis *ma* main, » dit Tracey. « Je me fiche de ce que
+« Je sais à qui est promis *ma* main », dit Tracey. « Je me fiche de ce que
 le reste du monde a à dire, il sera à moi ! »
 
 Sur ces paroles, toutes les filles se tournèrent vers Hermione, dans
@@ -264,7 +264,7 @@ l’expectative, mais le cerveau de celle-ci était déjà passé à la suite
 et avait totalement évacué la dernière phrase de Tracey pour pouvoir se
 concentrer sur la première chose que Hannah avait dite.
 
-« Euh, » dit Hermione. Elle fit attention de garder une voix douce.
+« Euh », dit Hermione. Elle fit attention de garder une voix douce.
 « Hannah, la raison pour laquelle tu as rejoint la Société pour la
 Promotion de l’Égalité Héroïque pour les Sorcières, c’est qu’il y a un
 garçon dont tu penses qu’il t’aimerait plus si tu devenais une
@@ -274,7 +274,7 @@ La Poufsouffle hocha de nouveau la tête, ses joues rougirent encore plus
 et elle baissa les yeux pour regarder son reflet dans ses chaussures
 noires polies.
 
-« En fait elle aime Neville Londubat, » dit Daphné. La Serpentard eut un
+« En fait elle aime Neville Londubat », dit Daphné. La Serpentard eut un
 soupir affligé. « Et malheureusement pour elle, il va épouser quelqu’un
 d’autre. Tout à fait tragique. »
 
@@ -286,17 +286,17 @@ Comment tu le sais ? *Qui* ? »
 
 Daphné se contenta de secouer la tête avec un air abattu.
 
-« *Pardon, mais*, » dit Hermione, et lorsque les autres la regardèrent à
+« *Pardon, mais* », dit Hermione, et lorsque les autres la regardèrent à
 nouveau : « Ah… » alors qu’elle essayait d’organiser ses pensées. « Je veux
 dire, euh… Hannah… essayer devenir une héroïne pour qu’un garçon t’aime
 bien, ça ne te rend pas très *féministe*. »
 
-« À vrai dire ça se prononce *féminine*, » dit Padma.
+« À vrai dire ça se prononce *féminine* », dit Padma.
 
 « Et pourquoi est-ce que tu dis que Padma n’est pas féminine ? » dit
 Susan. « C’est très féminin de vouloir impressionner un garçon. »
 
-« Et puis, » dit Parvati d’un ton perplexe, « est-ce que le but n’était pas
+« Et puis », dit Parvati d’un ton perplexe, « est-ce que le but n’était pas
 justement de devenir des héroïnes même si ça n’est pas féminin ? »
 
 Hermione ne se souvint pas de la discussion qui suivit comme l’une de
@@ -347,7 +347,7 @@ refermé, le frappant presque alors qu’il s’écartait du chemin, et Padma
 Patil sortit de la salle avec un air de détermination terrible sur le
 visage.
 
-« Excusez-moi, M. Potter, » dit-elle à la plus grande horreur de Hermione,
+« Excusez-moi, M. Potter », dit-elle à la plus grande horreur de Hermione,
 d’une voix perchée qui résonna à travers le corridor tel les lugubres
 cloches de la perdition, « pourrais-je vous demander votre aide ? »
 
@@ -362,14 +362,14 @@ Il y eut un léger silence dans le couloir qui jouxtait la salle.
 La porte s’ouvrit de nouveau et Su sortit sa tête avec un regard
 interrogateur -
 
-« Eh bien nous devons aller à la bibliothèque, » dit Harry d’un ton assez
+« Eh bien nous devons aller à la bibliothèque », dit Harry d’un ton assez
 nonchalant, le visage détendu, « ça ne t’embête pas de nous suivre ? » et
 il commença à partir vers l’endroit où se trouvait la bibliothèque les
 jours impairs du mois, et Su commença à donner l’impression qu’elle
 allait les suivre mais Harry pivota et la regarda pendant un moment.
 
 Ce n’est qu’après qu’il eut passé un angle qu’il sortit sa baguette, dit
-d’une voix précise et basse : « *Quietus*, » se tourna vers Padma et dit :
+d’une voix précise et basse : « *Quietus* », se tourna vers Padma et dit :
 « Une conjecture intéressante, Mlle Patil. »
 
 Padma eut alors l’air plutôt contente d’elle et répondit : « *J’aurais*
@@ -380,7 +380,7 @@ avant même qu’il ne commence à parler de Godric Gryffondor. »
 Le visage de Harry ne changea pas d’expression. « Pourrais-je vous
 demander, Mlle Patil, si vous avez partagé cette idée avec — »
 
-« Elle l’a dit devant tout SPEHS, » dit Hermione.
+« Elle l’a dit devant tout SPEHS », dit Hermione.
 
 Les yeux de Harry prirent cet aspect qu’ils avaient lorsque Harry
 calculait rapidement quelque chose, puis il dit : « Hermione, quelles
@@ -388,7 +388,7 @@ sont les chances que — »
 
 « Elle l’a dit devant Lavande *et* Tracey. »
 
-« Euh, » dit Padma. « Je n’aurais pas dû ? »
+« Euh », dit Padma. « Je n’aurais pas dû ? »
 
 
 
@@ -396,7 +396,7 @@ sont les chances que — »
 
 
 
-« Attends ici, » gronda M. Goyle, et il passa un angle ; et on put
+« Attends ici », gronda M. Goyle, et il passa un angle ; et on put
 l’entendre frapper à la porte de la chambre privée de M. Malefoy.
 
 Elle avait légèrement la nausée et se rappela à nouveau que, puisque
@@ -412,7 +412,7 @@ manger des grenouilles en chocolat à chaque petit déjeuner et vaincre au
 moins *trois* Seigneurs des Ténèbres juste pour faire bien voir au
 professeur Quirrell qui était ordinaire.
 
-« M. Malefoy va te recevoir, » dit la voix grave et menaçante de M. Goyle
+« M. Malefoy va te recevoir », dit la voix grave et menaçante de M. Goyle
 lorsque celui-ci revint. « Et tu ferais mieux d’espérer qu’il ne pense
 pas que tu lui fais perdre son temps. » Il la regarda brièvement d’un air
 toujours menaçant puis s’écarta.
@@ -435,7 +435,7 @@ charmant exactement comme si elle était quelqu’un *d’importance*, ce qui
 la rendit si nerveuse qu’elle oublia tout ce qu’elle avait répété dans
 sa tête et qu’elle dit juste : « J’ai un truc à te dire ! »
 
-« Oui, Gregory me l’a fait savoir, » dit doucement Drago Malefoy. « S’il
+« Oui, Gregory me l’a fait savoir », dit doucement Drago Malefoy. « S’il
 vous plaît, Mlle Davis, asseyez-vous. » Il indiqua *sa propre chaise*
 tout en s’asseyant sur son lit.
 
@@ -444,7 +444,7 @@ chaise de Malefoy, ses doigts jouant inconsciemment avec la chute de ses
 robes formelles au-dessus de ses genoux, essayant de la rendre aussi
 élégante et lisse que celle de Drago Malefoy -
 
-« Donc, Mlle Davis, » dit Drago Malefoy. « Que vouliez-vous me dire ? »
+« Donc, Mlle Davis », dit Drago Malefoy. « Que vouliez-vous me dire ? »
 
 Tracey hésita puis, lorsque le visage de Drago Malefoy commença à avoir
 l’air impatient, elle lâcha tout, tout ce que Padma avait dit sur le
@@ -460,19 +460,19 @@ compte.
 
 Il y eut un court silence.
 
-« Eh bien, » dit Drago Malefoy avec un sourire qui n’était pas aussi
+« Eh bien », dit Drago Malefoy avec un sourire qui n’était pas aussi
 charmant que le précédent, « je *crois* que c’est ce que Padma et Daphné
 ont dit, donc merci quand même, Mlle Davis. » Le garçon se leva de son
 lit et Tracey, sans réfléchir, se leva de sa chaise.
 
 Alors qu’il l’escortait à la porte, juste avant qu’il ne tourne la
 poignée, l’idée vint à Tracey que — « Tu ne m’as pas demandé ce que je
-voulais en échange de cette information, » dit-elle.
+voulais en échange de cette information », dit-elle.
 
 Drago Malefoy lui jeta un étrange regard, elle ne savait pas bien ce
 qu’il était censé signifier et il ne dit rien.
 
-« Eh bien en tout cas, » dit Tracey, modifiant ses plans sur-le-champ, « je
+« Eh bien en tout cas », dit Tracey, modifiant ses plans sur-le-champ, « je
 ne veux *rien* en échange de cette information, je me montrais juste
 amicale. »
 
@@ -482,7 +482,7 @@ qu’il ne dise : « Ce n’est pas aussi facile de devenir ami avec un
 Malefoy, Mlle Davis. »
 
 Tracey sourit avec sincérité. « Alors je vais juste continuer de me
-montrer amicale, » dit-elle, et elle sortit de la pièce en gambadant
+montrer amicale », dit-elle, et elle sortit de la pièce en gambadant
 presque, se sentant être une vraie Serpentard peut-être pour la première
 fois de sa vie et ayant décidé à l’instant que Drago Malefoy serait lui
 aussi un de ses maris.
@@ -507,7 +507,7 @@ allés.
 « M. Malefoy ? » dit Gregory d’un ton qui commençait à être légèrement
 inquiet.
 
-« Je n’arrive pas à croire que je crois à tout ça, » dit Drago.
+« Je n’arrive pas à croire que je crois à tout ça », dit Drago.
 
 
 
@@ -570,13 +570,13 @@ Millicent descendit ses jambes de la table et se leva, balança son sac
 sur une épaule puis regarda Daphné qui s’approchait avec un air
 perplexe.
 
-« Hé, Millicent, » dit Daphné en s’approchant d’une voix basse et exaltée,
+« Hé, Millicent », dit Daphné en s’approchant d’une voix basse et exaltée,
 « devine ce que j’ai compris aujourd’hui ? »
 
 « Le truc avec le fantôme de Salazar Serpentard qui aide Hermione
 Granger ? » dit Millicent. « J’en ai déjà entendu parler — »
 
-« Non, » dit Daphné dans un souffle, « c’est encore *mieux*. »
+« Non », dit Daphné dans un souffle, « c’est encore *mieux*. »
 
 « Vraiment ? » dit Millicent d’une voix tout aussi basse et tout autant
 exaltée. « Qu’est-ce que c’est ? »
@@ -591,7 +591,7 @@ septième année…
 Bientôt Daphné était assise dans sa confortable chaise de bureau et
 Millicent était posée au bord de son lit.
 
-« *Quietus*, » dit Daphné une fois qu’elles furent toutes deux assises ;
+« *Quietus* », dit Daphné une fois qu’elles furent toutes deux assises ;
 puis au lieu de ranger sa baguette dans ses robes, Daphné laissa juste
 sa main glisser sur son flanc, baguette toujours serrée, juste au cas
 où.
@@ -606,7 +606,7 @@ Daphné s’était à moitié attendue à ce que Millicent devienne blanche et
 tombe par terre, ce qu’elle ne fit pas tout à fait, mais elle
 tressaillit assez fort avant de commencer à bégayer des dénégations.
 
-« Ne t’en fais pas, » dit Daphné avec son sourire le plus doux, « je ne
+« Ne t’en fais pas », dit Daphné avec son sourire le plus doux, « je ne
 dirai à personne que tu es une voyante. Après tout, on est amies, pas
 vrai ? »
 
@@ -659,7 +659,7 @@ la tête. Sinon, nous ferons demi-tour. »
 Elle hocha la tête, effrayée, avec un étrange espoir qui naissait dans
 son cœur (enfin, pas exactement dans son cœur).
 
-« La tâche que j’ai pour vous est extrêmement simple, Mlle Felthorne, »
+« La tâche que j’ai pour vous est extrêmement simple, Mlle Felthorne »,
 dit le professeur Rogue d’une voix sans timbre, « et votre salaire
 extrêmement généreux de cinquante Gallions n’est là que pour compenser
 le fait que vous recevrez ensuite un sortilège d’Oubliettes. »
@@ -673,7 +673,7 @@ outrée l’espace d’un instant, quel intérêt si elle ne pouvait garder les
 souvenirs, pour quel genre de fille le professeur Rogue la
 *prenait-il* ?
 
-« Vous connaissez sûrement, » dit Severus Rogue, « Mlle Hermione Granger,
+« Vous connaissez sûrement », dit Severus Rogue, « Mlle Hermione Granger,
 le général Soleil ? »
 
 « *Quoi ?* » dit Rianne Felthorne soudain horrifiée et dégoûtée. « Elle est

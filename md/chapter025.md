@@ -198,24 +198,24 @@ survivre à la mort de son premier corps était presque *infiniment* plus
 important que le fait qu’il ait essayé de conquérir l’Angleterre magique
 -
 
-« Excusez-moi, » dit une voix attendue venant de dernière lui, parlant
+« Excusez-moi », dit une voix attendue venant de dernière lui, parlant
 d’un ton très inattendu. « Au moment qui vous siéra, M. Malefoy demande la
 faveur d’une conversation. »
 
 Harry ne s’étouffa pas sur ses céréales. Au lieu de ça, il pivota et
 observa M. Crabbe.
 
-« Excuse-*moi*, » dit Harry. « Ne voulais-tu pas dire “Ya l’boss qui veut
+« Excuse-*moi* », dit Harry. « Ne voulais-tu pas dire “Ya l’boss qui veut
 t’faire un brin d’causette ?” »
 
 M. Crabbe n’avait pas l’air content. « M. Malefoy m’a donné instruction de
 parler convenablement. »
 
-« Je n’arrive pas à t’entendre, » dit Harry. « Tu ne parles pas
+« Je n’arrive pas à t’entendre », dit Harry. « Tu ne parles pas
 convenablement. » Il se retourna vers son bol de petits cristaux de neige
 bleus et mangea délibérément une autre cuillerée.
 
-« Ya l’boss qui veut t’faire un brin d’causette, » dit une voix menaçante
+« Ya l’boss qui veut t’faire un brin d’causette », dit une voix menaçante
 venant de derrière. « Tu f’rais mieux de venir y voir si tu sais c’qu’est
 bon pour toi. »
 
@@ -248,7 +248,7 @@ Il y eut un long silence dans le bureau, seulement brisé par les petits
 soufflements et sifflements des appareil délicats qui après un moment
 finirent par ressembler à du silence.
 
-« Doux Merlin, » dit le vieux sorcier, « je me *sens* idiot. Et j’étais
+« Doux Merlin », dit le vieux sorcier, « je me *sens* idiot. Et j’étais
 *là* à croire que tu essaierais de racheter l’héritier des Malefoy, en
 lui, disons en lui *démontrant de l’amitié et de la gentillesse
 véritables*. »
@@ -292,7 +292,7 @@ confiserie de Pré-au-Lard.
 d’étrange à parler d’une voix normale quand on traversait un passage
 secret).
 
-« Toujours en panne, » dit George.
+« Toujours en panne », dit George.
 
 « Les deux ou — »
 
@@ -336,15 +336,15 @@ parsemée de tonneaux et d’étagères porteuses d’ingrédients étranges.
 Fred et George attendirent. Il n’aurait pas été poli d’agir autrement.
 
 Un vieil homme mince descendit bientôt les escaliers qui menaient à la
-cave en bâillant. « Salut les garçons, » dit Ambrosius Flume. « Je ne
+cave en bâillant. « Salut les garçons », dit Ambrosius Flume. « Je ne
 m’attendais pas à vous voir cette nuit. Déjà en rupture de stock ? »
 
 Fred et George décidèrent que c’était Fred qui parlerait.
 
-« Pas exactement, M. Flume, » dit Fred. « Nous espérions que vous pourriez
+« Pas exactement, M. Flume », dit Fred. « Nous espérions que vous pourriez
 nous aider pour quelque chose de considérablement plus… intéressant. »
 
-« Allons, les garçons, » dit Flume d’un air sévère, « j’espère que vous ne
+« Allons, les garçons », dit Flume d’un air sévère, « j’espère que vous ne
 m’avez pas réveillé juste pour que je vous répète que je ne vous vendrai
 rien qui puisse vraiment vous mettre dans le pétrin. Pas avant que vous
 n’ayez seize ans, en tout cas — »
@@ -358,7 +358,7 @@ SEIGNEUR DES TÉNÈBRES ? et montrait un jeune garçon que l’appareil photo
 d’un étudiant était parvenu à saisir à un moment où il arborait une
 expression inhabituellement froide et grimaçante.
 
-« Je n’arrive pas à croire que ce Malefoy fait ça, » lâcha Flume. « S’en
+« Je n’arrive pas à croire que ce Malefoy fait ça », lâcha Flume. « S’en
 prendre à un garçon quand il a à peine onze ans ! Cet homme devrait être
 broyé en poudre et utilisé pour faire des chocolats ! »
 
@@ -370,13 +370,13 @@ jamais impliqués s’il avait su…
 Fred et George échangèrent des regards. Eh bien, Harry n’avait pas
 *besoin* de le savoir, pas avant que le travail soit fini.
 
-« M. Flume, » dit doucement Fred, « le Survivant a besoin de votre aide. »
+« M. Flume », dit doucement Fred, « le Survivant a besoin de votre aide. »
 
 Flume les regarda tous deux.
 
 Puis il laissa l’air s’échapper de ses poumons et soupira.
 
-« Très bien, » dit Flume, « qu’est-ce que vous voulez ? »
+« Très bien », dit Flume, « qu’est-ce que vous voulez ? »
 
 
 
@@ -392,7 +392,7 @@ constituaient le reste de l’univers, et c’est pour cela qu’elle faillit
 percuter le jeune homme à la calvitie naissance qui s’était mis sur son
 chemin.
 
-« Mademoiselle Skeeter, » dit l’homme d’un ton plutôt sévère et froid pour
+« Mademoiselle Skeeter », dit l’homme d’un ton plutôt sévère et froid pour
 quelqu’un qui avait l’air si jeune. « C’est amusant de vous rencontrer
 ici. »
 
@@ -405,9 +405,9 @@ tenus immobiles tandis que la rue se décalait autour d’eux.
 
 Les yeux de Rita se rétrécirent. « Vous vous prenez pour qui ? »
 
-« Que c’est bête, » dit sèchement l’homme. « Il aurait été sage de
+« Que c’est bête », dit sèchement l’homme. « Il aurait été sage de
 mémoriser le visage du Mangemort déguisé qui entraînait Harry Potter à
-devenir le prochain Seigneur des Ténèbres. Après tout, » un léger
+devenir le prochain Seigneur des Ténèbres. Après tout », un léger
 sourire, « ce n’est *vraiment* pas le genre de personne que vous voudriez
 croiser dans la rue, surtout après l’avoir démolie dans le journal. »
 
@@ -434,7 +434,7 @@ hors de sa trajectoire. Le bras de Quirrell passa contre le sien,
 déviant sa force, et Rita chancela quand sa poussée atterrit dans le
 vide.
 
-Quirrell releva la manche gauche de sa robe. « Voyez, » dit Quirrell, « pas
+Quirrell releva la manche gauche de sa robe. « Voyez », dit Quirrell, « pas
 de Marque des Ténèbres. Je voudrais que votre journal se rétracte
 publiquement. »
 
@@ -446,7 +446,7 @@ Quirrell la regarda un moment.
 
 Puis il sourit.
 
-« Mademoiselle Skeeter, » dit Quirrell, « j’avais espéré trouver quelque
+« Mademoiselle Skeeter », dit Quirrell, « j’avais espéré trouver quelque
 levier qui s’avérerait persuasif. Mais je me rends compte que je ne suis
 pas capable de me refuser le plaisir de simplement vous écraser. »
 
@@ -470,7 +470,7 @@ Comme si *ça* allait lui faire peur.
 
 *Acte 4* :
 
-« Désolé, sans moi, » dit Lee Jordan. « Je suis plutôt du genre araignée
+« Désolé, sans moi », dit Lee Jordan. « Je suis plutôt du genre araignée
 géante. »
 
 Le Survivant avait dit qu’il avait du travail *important* pour l’Ordre
@@ -494,7 +494,7 @@ s’excuser. C’était le *véritable pouvoir de la farce*.
 *Êtes-vous avec moi* ? s’était écrié Harry, et Lee Jordan avait répondu
 non.
 
-« *Avec* nous, » dit Fred, ou peut-être George, car il ne faisait aucun
+« *Avec* nous », dit Fred, ou peut-être George, car il ne faisait aucun
 doute que Godric Gryffondor aurait dit oui.
 
 Lee Jordan fit un sourire de regret, se leva et quitta le corridor
@@ -512,9 +512,9 @@ décidé de sauver Harry en lui démontrant de l’amitié et de la
 gentillesse véritables. Heureusement, ça ne semblait plus nécessaire -
 quoique, ils n’en étaient pas *tout à fait* certains…)
 
-« Donc, » dit l’un des jumeaux, « de quoi s’agit-il ? »
+« Donc », dit l’un des jumeaux, « de quoi s’agit-il ? »
 
-« Rita Skeeter, » dit Harry. « Savez-vous qui c’est ? »
+« Rita Skeeter », dit Harry. « Savez-vous qui c’est ? »
 
 Fred et George hochèrent la tête en fronçant les sourcils.
 
@@ -527,7 +527,7 @@ Ce n’était pas une bonne nouvelle.
 Fred et George se regardèrent, un peu confus. « Tu veux que nous lui
 glissions quelques-unes de nos sucreries les plus intéressantes ? »
 
-« Non, » dit Harry. « Non, non, *non* ! C’est une mentalité d’araignée
+« Non », dit Harry. « Non, non, *non* ! C’est une mentalité d’araignée
 géante, ça ! Allez, que feriez-*vous* si vous aviez entendu dire que
 Rita Skeeter cherchait des rumeurs à *votre* sujet ? »
 
@@ -535,9 +535,9 @@ Voilà qui rendait la réponse évidente.
 
 Des sourires apparurent lentement sur les visages de Fred et George.
 
-« Répandre des rumeurs à notre propre sujet, » répondirent-ils.
+« Répandre des rumeurs à notre propre sujet », répondirent-ils.
 
-« *Exactement*, » dit Harry, souriant largement. « Mais ça ne doit pas être
+« *Exactement* », dit Harry, souriant largement. « Mais ça ne doit pas être
 *n’importe quelles* rumeurs. Je veux enseigner aux gens à ne jamais
 croire ce que le journal dit à propos de Harry Potter, pas plus que les
 Moldus ne croient ce que le journal dit à propos d’Elvis. Au début, j’ai
@@ -555,7 +555,7 @@ même imprimé. Comprenez-vous ce que je veux que vous fassiez ? »
 « Pas exactement… » dit lentement Fred ou George. « Tu veux qu’on *invente*
 l’histoire ? »
 
-« Je veux que vous fassiez *tout*, » dit Harry Potter. « Je suis plutôt
+« Je veux que vous fassiez *tout* », dit Harry Potter. « Je suis plutôt
 occupé en ce moment, et puis je veux pouvoir dire sans mentir que je
 n’avais aucune idée de ce qui allait se passer. Surprenez-moi. »
 
@@ -565,7 +565,7 @@ Fred et George.
 Puis ils redevinrent sérieux. « Mais Harry, nous ne savons vraiment pas
 comment faire une chose pareille — »
 
-« Alors trouvez comment faire, » dit Harry. « Je vous fais confiance. Pas
+« Alors trouvez comment faire », dit Harry. « Je vous fais confiance. Pas
 une confiance *totale*, mais si vous ne *pouvez pas* le faire, *dites-*
 le moi, et j’essaierai avec quelqu’un d’autre, ou bien je le ferai
 moi-même. Si vous avez une très bonne idée — pour l’histoire ridicule et
@@ -575,9 +575,9 @@ de médiocre. Si vous ne trouvez pas une idée *géniale*, dites-le. »
 
 Fred et George échangèrent des regards inquiets.
 
-« Je n’en ai aucune, » dit George.
+« Je n’en ai aucune », dit George.
 
-« Moi non plus, » dit Fred. « Désolé. »
+« Moi non plus », dit Fred. « Désolé. »
 
 Harry les regarda fixement.
 
@@ -649,7 +649,7 @@ idées* avant au moins une semaine. Certaines personnes passaient des
 
 Fred et George se regardèrent.
 
-« Je n’en ai aucune, » dit George.
+« Je n’en ai aucune », dit George.
 
 « Moi non plus. »
 
@@ -658,7 +658,7 @@ budget. »
 
 *Budget ?* pensèrent-ils.
 
-« Je pourrais juste vous dire la somme, » dit Harry, « mais je pense que
+« Je pourrais juste vous dire la somme », dit Harry, « mais je pense que
 *ceci* sera plus *exaltant*. »
 
 Les mains de Harry plongèrent dans ses robes, et firent apparaître…
@@ -666,7 +666,7 @@ Les mains de Harry plongèrent dans ses robes, et firent apparaître…
 Fred et George tombèrent presque à la renverse, bien qu’ils aient été
 assis.
 
-« Ne le dépensez pas pour le plaisir de dépenser, » dit Harry. Sur le sol
+« Ne le dépensez pas pour le plaisir de dépenser », dit Harry. Sur le sol
 de pierre brillait une quantité d’argent absolument ridicule. « Ne le
 dépensez que si le génie le requiert ; et ce que le génie requiert,
 n’hésitez pas à le dépenser. S’il en reste, rendez-le-moi après, je vous
@@ -690,7 +690,7 @@ pas juste engager des gens pour ce genre de chose. »
 
 Fred et George secouèrent leur tête.
 
-« Très bien, » dit Harry. « Je vous offrirai juste des cadeaux de Noël très
+« Très bien », dit Harry. « Je vous offrirai juste des cadeaux de Noël très
 chers, et si vous essayez de me les rendre, je les brûlerai. Maintenant
 vous ne *savez* même pas combien je vais dépenser pour vous, à part bien
 sûr que ce sera plus que si vous aviez juste pris l’argent. Et je vais
@@ -701,7 +701,7 @@ Harry se leva, sourit, et se tourna pour partir alors que Fred et George
 étaient encore bouche bée sous l’effet du choc. Il s’éloigna de quelques
 pas, puis se retourna.
 
-« Oh, une dernière chose, » dit Harry. « Laissez le professeur Quirrell en
+« Oh, une dernière chose », dit Harry. « Laissez le professeur Quirrell en
 dehors de ce que vous faites. Il n’aime pas la publicité. Je sais que ce
 serait plus facile de faire croire des choses bizarres au sujet du
 professeur de Défense qu’au sujet de n’importe qui d’autre, et je suis
@@ -716,9 +716,9 @@ Puis il s’en fut.
 
 Il y eut un long silence après son départ.
 
-« Donc, » dit l’un.
+« Donc », dit l’un.
 
-« Donc, » dit l’autre.
+« Donc », dit l’autre.
 
 « Le professeur de Défense n’aimerait donc pas la publicité. »
 
@@ -764,37 +764,37 @@ alors faisons ça. »
 Les jumeaux Weasley décidèrent que George serait enthousiaste tandis que
 Fred douterait.
 
-« Ça a l’air assez contradictoire, » dit Fred. « Il veut que ce soit assez
+« Ça a l’air assez contradictoire », dit Fred. « Il veut que ce soit assez
 ridicule pour que tout le monde se moque de Skeeter et sache que c’est
 faux, et il veut que Skeeter le croie. On ne peut pas faire les deux à
 la fois. »
 
-« On va devoir falsifier des preuves pour convaincre Skeeter, » dit
+« On va devoir falsifier des preuves pour convaincre Skeeter », dit
 George.
 
 « C’est une solution ? » dit Fred.
 
 Ils envisagèrent cette solution.
 
-« Peut-être, » dit George, « mais je ne pense pas qu’on devrait être
+« Peut-être », dit George, « mais je ne pense pas qu’on devrait être
 *aussi* strict que ça. Si ? »
 
 Les jumeaux haussèrent les épaules avec impuissance.
 
 « Alors la preuve falsifiée doit être assez bonne pour convaincre
-Skeeter, » dit Fred. « Peut-on vraiment faire ça nous-mêmes ? »
+Skeeter », dit Fred. « Peut-on vraiment faire ça nous-mêmes ? »
 
-« On n’a pas à le faire nous-mêmes, » dit George, et il pointa le tas
+« On n’a pas à le faire nous-mêmes », dit George, et il pointa le tas
 d’argent du doigt. « On peut engager d’autres gens pour nous aider. »
 
 Les jumeaux prirent un air pensif.
 
-« Ça utiliserait presque la totalité du budget de Harry, » dit Fred.
+« Ça utiliserait presque la totalité du budget de Harry », dit Fred.
 « C’est beaucoup d’argent pour nous, mais pas pour quelqu’un comme
 Flume. »
 
 « Peut-être que les gens donneront des ristournes quand ils sauront que
-c’est pour Harry, » dit George. « Mais le plus important, c’est que quoi
+c’est pour Harry », dit George. « Mais le plus important, c’est que quoi
 qu’on fasse, ça doit être *impossible*. »
 
 Fred cligna des yeux. « Qu’est-ce que tu veux dire par *impossible* ? »
@@ -814,25 +814,25 @@ farce. Le Rapeltout était une farce. Le chat de Kevin Sifflebranche
 farceurs de Poudlard, allons-nous nous écraser et abandonner sans
 combattre ? »
 
-« C’est le Survivant, » dit Fred.
+« C’est le Survivant », dit Fred.
 
 « Et *nous* sommes les jumeaux Weasley ! Il nous *met au défi*. Il a dit
 qu’on pouvait faire ce qu’il fait. Mais je parie qu’il ne pense pas
 qu’on sera un jour aussi bon que *lui*. »
 
-« Il a raison, » dit Fred, se sentant plutôt nerveux. Les jumeaux Weasley
+« Il a raison », dit Fred, se sentant plutôt nerveux. Les jumeaux Weasley
 étaient *parfois* en désaccord, même quand ils disposaient des mêmes
 informations, mais à chaque fois que c’était le cas, cela ne leur
 semblait pas naturel, comme si au moins un d’entre eux était en train de
 se fourvoyer. « On est en train de parler de *Harry Potter*. Il peut
 accomplir l’impossible. Pas nous. »
 
-« Si, on peut, » dit George. « Et on doit accomplir *plus* impossible que
+« Si, on peut », dit George. « Et on doit accomplir *plus* impossible que
 lui. »
 
 « Mais — » dit Fred.
 
-« C’est ce que Godric Gryffondor ferait, » dit George.
+« C’est ce que Godric Gryffondor ferait », dit George.
 
 Ce qui régla la discussion, et les jumeaux retournèrent instantanément
 à… leur état normal, quel qu’il fut.

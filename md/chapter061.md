@@ -42,12 +42,12 @@ facilement.
 
 Puis elle comprit.
 
-« Elle s’est échappée, » dit Albus. « Ton Patronus l’a-t-il trouvé ? »
+« Elle s’est échappée », dit Albus. « Ton Patronus l’a-t-il trouvé ? »
 
 Les battements de son cœur s’intensifièrent, l’horreur qui coulait dans
 ses veines se solidifia. « Il a dit qu’il était là, aux lavabos — »
 
-« Espérons qu’il a dit vrai, » dit Albus, puis la baguette frappa sa tête
+« Espérons qu’il a dit vrai », dit Albus, puis la baguette frappa sa tête
 et lui procura la sensation d’une eau s’écoulant sur elle ; un instant
 plus tard ils fonçaient tous les quatre (même Fumseck avait été rendu
 invisible même si l’on pouvait parfois voir une lueur flamboyante là où
@@ -77,7 +77,7 @@ tard elle fut projetée vers Minerva.
 
 *- H*
 
-« Ah, » dit Minerva sous le coup de la surprise, et son esprit mit un
+« Ah », dit Minerva sous le coup de la surprise, et son esprit mit un
 moment à remettre la question dans son contexte car même si ce n’était
 pas le genre de chose qu’on oubliait elle n’avait pas vraiment eu ce
 *genre* de choses en tête — « que suis une jeune impudente et que je
@@ -113,7 +113,7 @@ instant après dans la flasque de Polynectar inachevé qui commença
 immédiatement à crépiter et à buller à mesure qu’il acquérait le pouvoir
 qui permettrait à Severus de jouer son rôle d’appât.
 
-« C’était inattendu, » dit lentement le maître des potions. « Je me demande
+« C’était inattendu », dit lentement le maître des potions. « Je me demande
 pourquoi notre directeur n’a pas récupéré M. Potter *plus tôt* s’il
 était prêt à aller jusqu’à tordre le temps ? Il n’y aurait rien dû y
 avoir pour l’empêcher de le faire… de fait, votre Patronus aurait dû le
@@ -163,11 +163,11 @@ Fol-Œil ? »
 
 Albus se levait déjà de sa chaise alors qu’elle mettait ses parchemins
 de côté et dissipait le bureau. « Le Patronus de Maugrey m’apporte ses
-rapports d’Azkaban, » dit Albus. « Son Œil n’a rien vu ; et si l’Œil de
+rapports d’Azkaban », dit Albus. « Son Œil n’a rien vu ; et si l’Œil de
 Vance ne voit pas quelque chose, alors cette chose n’existe pas. Et
 toi ? »
 
-« Personne n’a essayé de me prendre mon sang de force, » dit Severus. Il
+« Personne n’a essayé de me prendre mon sang de force », dit Severus. Il
 eut une rapide grimace en guise de sourire. « À part le professeur de
 Défense. »
 
@@ -195,7 +195,7 @@ Poudlard, je suis retourné au Chemin de Traverse, où j’ai erré ; mais
 personne n’a semblé désireux d’obtenir du sang de M. Potter. »
 
 « Notre professeur de Défense est entre de bonnes mains, j’en suis
-certain, » dit Albus. « Minerva, des affaires plus importantes requièrent
+certain », dit Albus. « Minerva, des affaires plus importantes requièrent
 ton attention. »
 
 Elle lui fallut faire un effort considérable pour arracher son attention
@@ -209,20 +209,20 @@ sur les jumeaux Weasley, et il lui arrivait parfois même d’échouer à
 cela. En fin de compte, elle n’était assise là que parce qu’elle avait
 entendu la prophétie…
 
-« Nous faisons face, » commença le directeur, « à un mystère plutôt
+« Nous faisons face », commença le directeur, « à un mystère plutôt
 alarmant. Je ne peux songer qu’à deux sorcier capables de manigancer
 cette évasion. »
 
 Minerva inspira brusquement. « Il y a une chance que ce ne soit *pas*
 Vous-Savez-Qui ? »
 
-« J’en ai peur, » dit le directeur.
+« J’en ai peur », dit le directeur.
 
 Elle jeta un regard de côté et vit que Severus était aussi perplexe
 qu’elle. *Peur* qu’il ne s’agisse pas du retour du Seigneur des
 Ténèbres ? Elle aurait presque tout donné pour que ce soit le cas.
 
-« Donc, » dit Albus d’une voix grave. « Notre premier suspect est
+« Donc », dit Albus d’une voix grave. « Notre premier suspect est
 Voldemort, de nouveau parmi nous, cherchant à se faire revivre. J’ai
 étudié de nombreux livre que j’aimerais ne pas avoir lus à la recherche
 de tous les moyens par lesquels il pourrait revenir et je n’en ai trouvé
@@ -248,7 +248,7 @@ aujourd’hui. »
 Minerva jeta un nouveau regard vers Severus et vit qu’il écoutait
 attentivement mais qu’il n’était pas surpris.
 
-« Ce qui n’est *pas* clair, » continua le directeur, « c’est la *façon*
+« Ce qui n’est *pas* clair », continua le directeur, « c’est la *façon*
 dont Voldemort aurait pu manigancer cette évasion. Une poupée de mort a
 été laissée à la place de Bellatrix, son évasion était donc censée
 rester inaperçue ; et même si cela a mal tourné, les Détraqueurs ne sont
@@ -256,7 +256,7 @@ plus parvenus à la trouver après nous avoir prévenus. Azkaban est restée
 impénétrable pendant des siècles, et je ne peux imaginer par quel moyen
 Voldemort a accompli cette évasion. »
 
-« Cela n’a peut-être que peu d’importance, » dit Severus, son visage
+« Cela n’a peut-être que peu d’importance », dit Severus, son visage
 parfaitement neutre. « Pour accomplir ce que nous sommes incapables
 d’imaginer, il suffit au Seigneur des Ténèbres d’avoir une meilleure
 imagination que nous. »
@@ -282,12 +282,12 @@ soyeuse était plus choquée que Minerva ne l’avait jamais entendue être.
 en première année à Poudlard ! Un accès de colère et quelques farces
 puériles aidées d’une cape d’invisibilité ne font pas de lui — »
 
-« Ce n’est pas une blague, » dit Minerva, d’une voix à peine au-dessus du
+« Ce n’est pas une blague », dit Minerva, d’une voix à peine au-dessus du
 chuchotement. « Harry fait déjà des découvertes novatrices en
 Métamorphose, Severus. Mais je ne savais pas qu’il faisait aussi des
 recherches en sortilèges. »
 
-« Harry n’est pas un élève de première année ordinaire, » dit le directeur
+« Harry n’est pas un élève de première année ordinaire », dit le directeur
 d’un ton solennel. « Il est marqué comme l’égal du Seigneur des Ténèbres
 et possède un pouvoir que le Seigneur des Ténèbres ignore. »
 
@@ -306,7 +306,7 @@ s’en faire brûler les poumons.
 
 \- et dit : « Quirinus Quirrell. »
 
-« *Pourquoi*, » dit-elle d’une voix qui aurait dû faire fondre la moitié
+« *Pourquoi* », dit-elle d’une voix qui aurait dû faire fondre la moitié
 des appareils du bureau, « *M. Potter a-t-il ne serait-ce que PARLÉ de
 son brillant sortilège d’évasion de prison à notre professeur de Défense
 -* »
@@ -337,17 +337,17 @@ mijoter du Polynectar ? Je pose la question par pur souci de complétude,
 au cas où vous ne seriez pas satisfait par l’ampleur de votre désastre
 de compagnie. »
 
-« Peut-être l’année prochaine, » dit Albus. « Mes très chers amis, la
+« Peut-être l’année prochaine », dit Albus. « Mes très chers amis, la
 question est de savoir si Harry Potter a fait disparaître Bellatrix
 Black d’Azkaban, ce qui, même à l’aune de mon jugement tolérant, dépasse
 les bornes de l’entrain de la jeunesse. »
 
-« Excusez-moi, monsieur le directeur, » dit Severus de l’un des sourires
+« Excusez-moi, monsieur le directeur », dit Severus de l’un des sourires
 les plus secs qu’elle l’avait jamais vu donner à Albus, « mais je ferai
 savoir mon opinion : la réponse est non. Cela est purement et simplement
 l’œuvre du Seigneur des Ténèbres. »
 
-« Alors comment se fait-il, » dit Albus, et tout humour avait soudain
+« Alors comment se fait-il », dit Albus, et tout humour avait soudain
 quitté sa voix, « que lorsque j’ai essayé de récupérer Harry
 immédiatement après son arrivée au Chemin de Traverse, j’ai découvert
 que cela produirait un paradoxe ? »
@@ -361,11 +361,11 @@ lequel seul un Auror sur trente était qualifié pour enquêter sur des cas
 impliquant des Retourneurs de Temps ; et parmi cette poignée, la moitié
 qui n’était pas *déjà* cinglée le serait bientôt.
 
-« Vous soupçonnez donc, » disait la voix de Severus, « que Potter est allé
+« Vous soupçonnez donc », disait la voix de Severus, « que Potter est allé
 du Chemin de Traverse à Azkaban, puis qu’il a ensuite fait une boucle
 retour jusqu’au Chemin de Traverse où nous l’avons récupéré — »
 
-« Précisément, » dit la voix d’Albus. « Bien qu’il soit aussi possible que
+« Précisément », dit la voix d’Albus. « Bien qu’il soit aussi possible que
 Voldemort ou ses serviteurs aient été présents afin de s’assurer que
 Harry était bien arrivé au Chemin de Traverse avant de commencer leur
 tentative d’évasion à Azkaban. Et qu’ils avaient quelqu’un disposant
@@ -384,7 +384,7 @@ voulait dire que quelqu’un envoyait des messages dans le Temps — »
 
 La voix d’Albus s’interrompit.
 
-« Mais, monsieur le directeur, » dit Severus, « *vous* êtes revenu du futur
+« Mais, monsieur le directeur », dit Severus, « *vous* êtes revenu du futur
 d’Azkaban et avez interagi avec nous… »
 
 La voix du maître des potions resta en suspens.
@@ -419,7 +419,7 @@ Au bout d’un moment, les débats semblèrent s’être taris et elle dit :
 « Le Retourneur de Temps de M. Potter ne peut opérer qu’entre neuf heures
 du soir et minuit. Albus, a-t-on touché à la coque protectrice ? »
 
-« Pas selon mes sortilèges les plus raffinés, » répondit-il. « Mais les
+« Pas selon mes sortilèges les plus raffinés », répondit-il. « Mais les
 coques protectrices sont récentes ; se jouer des précautions des
 Langues-de-Plomb et n’en laisser aucune trace n’est… peut-être *pas*
 impossible. »
@@ -435,14 +435,14 @@ vous plaît, ne me dites pas comment vous y êtes arrivés. »
 Severus et le directeur se regardèrent l’un l’autre puis se tournèrent
 vers elle.
 
-« Nous avons conclu, » dit le directeur avec le plus grand sérieux, « que
+« Nous avons conclu », dit le directeur avec le plus grand sérieux, « que
 soit Harry est impliqué, soit il ne l’est pas ; que soit Voldemort a
 accès à un Retourneur de Temps, soit il n’y a pas accès ; et
 qu’indépendamment de ce qui a eu lieu dans l’enceinte d’Azkaban,
 personne ne pourrait s’être rendu au cimetière de Little Hangleton
 pendant la période où Maugrey l’a déjà regardé depuis mon propre passé. »
 
-« Plus brièvement, » dit Severus d’une voix traînante, « nous ne savons
+« Plus brièvement », dit Severus d’une voix traînante, « nous ne savons
 rien, chère Minerva ; même s’il semble au minimum *probable* qu’un autre
 Retourneur de Temps est impliqué dans l’affaire d’une façon ou d’une
 autre. En ce qui me concerne, je soupçonne Potter d’avoir été soudoyé,
@@ -453,24 +453,24 @@ neuf heures ce soir nous voyons si Potter est capable de revenir de six
 heures en arrière, jusqu’à trois heures de l’après-midi, afin de
 déterminer s’il n’a pas encore utilisé son Retourneur de Temps. »
 
-« Cela semble être sage de toute façon, » dit Dumbledore. « Assure-toi que
+« Cela semble être sage de toute façon », dit Dumbledore. « Assure-toi que
 ce soit fait, Minerva, et dis à Harry de passer à mon bureau quand cela
 lui conviendra. »
 
 « Mais soupçonne-tu toujours Harry d’avoir été directement impliqué dans
 l’évasion elle-même ? » répondit-elle.
 
-« Possible mais peu probable, » dit Severus à l’instant même où Albus
+« Possible mais peu probable », dit Severus à l’instant même où Albus
 disait : « Oui. »
 
 Minerva pinça l’arête de son nez, inspira profondément et laissa l’air
 sortir. « Albus, Severus, quelle *raison* M. Potter pourrait-il avoir de
 faire une chose pareille ! »
 
-« Je ne peux en concevoir aucune, » dit Albus, « mais il demeure que seule
+« Je ne peux en concevoir aucune », dit Albus, « mais il demeure que seule
 la magie de Harry, de tous les moyens que je connaisse, aurait pu — »
 
-« Attendez, » dit Severus. Son visage s’était vidé de toute expression.
+« Attendez », dit Severus. Son visage s’était vidé de toute expression.
 « Une idée me vient, je dois vérifier — » Le maître des potions s’empara
 d’une pincée de cheminette et traversa la pièce d’un pas vif en
 direction du feu — vers lequel Albus agita hâtivement sa baguette afin
@@ -483,13 +483,13 @@ retourna à son étude du parchemin.
 Ce n’est que quelques minutes plus tard que Severus surgit hors de la
 cheminée en époussetant des traces de cendres de ses vêtements.
 
-« Bien, » dit le maître des potions. De nouveau le visage vide de tout
+« Bien », dit le maître des potions. De nouveau le visage vide de tout
 expression. « J’ai peur que M. Potter ait un motif. »
 
 « Parle ! » dit Albus.
 
 « J’ai trouvé Lesath Lestrange en train d’étudier dans la salle commune
-de Serpentard, » dit Severus. « Il n’a pas hésité à croiser mon regard. Et
+de Serpentard », dit Severus. « Il n’a pas hésité à croiser mon regard. Et
 il semble que M. Lestrange n’apprécie pas l’idée que ses parents soient
 à Azkaban dans le froid et dans les ténèbres tandis que les Détraqueurs
 drainent leur vie et les font souffrir chaque seconde de chaque jour, et
@@ -499,12 +499,12 @@ dire que le Survivant est capable de tout. »
 
 Albus et elle échangèrent un regard.
 
-« Severus, » dit Minerva, « même Harry… a *certainement*… plus de bons sens
+« Severus », dit Minerva, « même Harry… a *certainement*… plus de bons sens
 que *ça*… »
 
 Sa voix resta en suspens.
 
-« M. Potter pense qu’il est Dieu, » dit Severus, le visage parfaitement
+« M. Potter pense qu’il est Dieu », dit Severus, le visage parfaitement
 neutre, « et Lesath Lestrange est tombé à genoux devant lui en le priant
 de tout son cœur. »
 
@@ -513,7 +513,7 @@ religion Moldue — c’était la raison la plus courante pour laquelle on
 devait effacer la mémoire des parents de nés-Moldus — et elle en savait
 assez pour comprendre ce que Severus venait de dire.
 
-« Quoi qu’il en soit, » dit le maître des potions. « J’ai regardé en M.
+« Quoi qu’il en soit », dit le maître des potions. « J’ai regardé en M.
 Lestrange pour savoir s’il était au courant de l’évasion de sa mère. Il
 n’en a pas entendu parler. Mais à l’instant où il l’apprendra, il en
 conclura que le responsable est Harry Potter. »
@@ -526,7 +526,7 @@ nouvelle. »
 Albus la regarda d’une expression à présent aussi neutre que celle de
 Severus ; et elle se souvint brusquement qu’Albus aussi avait — « C’est
 la meilleure raison possible pour laquelle on pourrait vouloir faire
-sortir Bellatrix d’Azkaban, » dit ce dernier d’une voix basse. « Et si ce
+sortir Bellatrix d’Azkaban », dit ce dernier d’une voix basse. « Et si ce
 n’est pas *Harry*, rappelons-nous que c’est alors certainement Voldemort
 lui-même en train de jouer son premier coup. Mais ne jugeons pas
 hâtivement alors que nous ignorons tant et sommes sur le point d’en
@@ -534,31 +534,31 @@ apprendre beaucoup. »
 
 Il se leva une fois de plus, alla jusqu’à la cheminée qui était toujours
 allumée et jeta une autre pincée de poudre verte avant de passer sa tête
-dans les flammes. « Département de la justice magique, » dit-il, « bureau
+dans les flammes. « Département de la justice magique », dit-il, « bureau
 du directeur. »
 
 Au bout d’un moment, on put distinctement entendre la voix abrupte de
 madame Bones : « De quoi s’agit-il, Albus ? Je suis plutôt occupée. »
 
-« Amélia, » dit Albus, « je te prie de me faire part de tout ce que tu as
+« Amélia », dit Albus, « je te prie de me faire part de tout ce que tu as
 découvert sur cette affaire. »
 
-Il y eut un moment de silence. « Oh, » dit la voix froide de madame Bones
+Il y eut un moment de silence. « Oh », dit la voix froide de madame Bones
 à travers le feu brûlant, « et j’imagine que ce sera réciproque ? »
 
-« Cela se pourrait, » dit Albus d’une voix calme.
+« Cela se pourrait », dit Albus d’une voix calme.
 
 « Si un Auror meurt à cause de tes réticences, vieux fouineur, je t’en
 tiendrai pour entièrement responsable. »
 
-« Je comprends, Amélia, » répondit-il, « mais je ne souhaite certainement
+« Je comprends, Amélia », répondit-il, « mais je ne souhaite certainement
 pas être une source d’incrédulité ou de panique inutile — »
 
 « *Bellatrix Black* s’est échappée d’*Azkaban* ! Quel genre de panique ou
 d’incrédulité penses-tu que je vais qualifier *d’inutile* dans une
 situation pareille ? »
 
-« Je te demanderai peut-être de te souvenir de ces mots, » dit le vieux
+« Je te demanderai peut-être de te souvenir de ces mots », dit le vieux
 sorcier à travers les flammes vertes. « Car si j’apprends que mes peurs
 ne sont pas sans fondement, alors tu les *sauras*. Et maintenant Amélia,
 je t’en prie, si tu as appris quoi que ce soit, dis-le moi. »
@@ -576,7 +576,7 @@ plusieurs Retourneurs de Temps).
 
 \- et dit enfin : « Oui, s’il te plaît. »
 
-« Nous avons eu de la chance, » dit la voix de madame Bones, « l’un des
+« Nous avons eu de la chance », dit la voix de madame Bones, « l’un des
 Aurors témoins de l’évasion est un Moldu et il nous a dit que le
 sortilège de feu volant, comme nous l’avons appelé, n’est peut-être pas
 un sort du tout mais un produit de l’artisanat Moldu. »
@@ -598,15 +598,15 @@ fouliées utilisent un type de science particulier appelé réaction
 opposée, donc le plan est de développer un sort qui empêchera ce type de
 science de fonctionner près d’Azkaban. »
 
-« Merci Amélia, » dit gravement Albus. « Est-ce tout ? »
+« Merci Amélia », dit gravement Albus. « Est-ce tout ? »
 
-« Je vais vérifier si nous n’avons rien de six heures plus tard, » dit la
+« Je vais vérifier si nous n’avons rien de six heures plus tard », dit la
 voix de madame Bones, « on ne me l’aurait pas dit même si c’était le cas,
 mais je vais ordonner qu’on te le dise. Y-a-t-il quelque chose que *tu*
 voudrais me dire, Albus ? Laquelle des deux possibilités est la plus
 probable ? »
 
-« Pas encore, Amélia, » dit Albus, « mais j’aurais peut-être quelque chose
+« Pas encore, Amélia », dit Albus, « mais j’aurais peut-être quelque chose
 à te dire très bientôt. »
 
 Il s’écarta alors du feu, qui redevint des flammes jaunes ordinaires.
@@ -617,7 +617,7 @@ son visage ridé.
 
 « Severus ? » dit le vieux sorcier. « De quoi s’agissait-il vraiment ? »
 
-« Une fusée, » dit le maître des potions au sang mêlé qui avait grandi
+« Une fusée », dit le maître des potions au sang mêlé qui avait grandi
 dans une ville Moldue. « Une technologie Moldue des plus
 impressionnantes. »
 
@@ -629,7 +629,7 @@ vous souvenir que les choses sont différentes dans le monde Moldu. » Il
 fronça les sourcils. « Mais les fusées *sont* dangereuses et chères… »
 
 « Harry a volé et caché une fraction inconnue de l’argent placé dans sa
-chambre forte à Gringotts, peut-être des milliers de Gallions, » dit le
+chambre forte à Gringotts, peut-être des milliers de Gallions », dit le
 directeur, puis, à ses comparses : « tel n’était *pas* mon plan, mais
 j’ai commis l’erreur d’envoyer le professeur de Défense superviser Harry
 lorsqu’il eut à retirer cinq Gallions afin d’acheter des cadeaux de
@@ -639,7 +639,7 @@ c’était de la folie. Continuons. »
 Minerva se cogna doucement la tête plusieurs fois contre l’appuie-tête
 de sa chaise.
 
-« Cela dit, monsieur le directeur, » dit Severus. « Ce n’est pas parce que
+« Cela dit, monsieur le directeur », dit Severus. « Ce n’est pas parce que
 les Mangemorts n’ont pas utilisé d’engin Moldu pendant la première
 guerre qu’*il* ignore leur existence. Des fusées transformées en armes
 sont tombées sur l’Angleterre côté Moldu pendant la guerre de
@@ -656,7 +656,7 @@ sa barbes s’étaient solidifiés, tels des fils de pierre ; et l’idée vin
 à Minerva, la plus effrayante qu’elle ait jamais eu, que Albus
 Dumbledore avait été pétrifié par l’horreur.
 
-« Severus, » dit-il, et sa voix failli se briser, « te rends-tu compte de
+« Severus », dit-il, et sa voix failli se briser, « te rends-tu compte de
 ce que tu dis ? Si Harry Potter et Voldemort combattent au moyen d’armes
 Moldues, le monde ne sera plus qu’un champ de flammes ! »
 
@@ -686,7 +686,7 @@ la magie — »
 « *Pires ?* » s’étrangla Minerva, puis elle ferma la bouche comme si on
 l’y avait forcée.
 
-« Pire que tout autre danger, en ces temps incertains, » dit Albus. « Mais
+« Pire que tout autre danger, en ces temps incertains », dit Albus. « Mais
 pas pire que ce qui a fait disparaître Atlantis du Temps. »
 
 Minerva le regardait fixement et sentait que de la sueur commençait à
@@ -701,7 +701,7 @@ de puissance dangereuse. La situation actuelle est-elle si différente ? »
 Un peu de vie et un peu de couleur étaient revenus sur le visage du
 vieux sorcier. « Peut-être pas… »
 
-« Et quoi qu’il en soit, » dit Severus avec un sourire légèrement
+« Et quoi qu’il en soit », dit Severus avec un sourire légèrement
 condescendant, « les armes Moldues ne sont pas si faciles que ça à
 obtenir, ni pour mille Gallions ni pour un millier de millier de
 Gallions. »
@@ -715,10 +715,10 @@ de l’assistant de madame Bones, Pius Thicknesse. « Monsieur le président
 sorcier ? » dit-il. « J’ai un rapport à vous rendre, transmis — » les yeux
 de Thicknesse passèrent sur Minerva et Severus, « il y a six minutes. »
 
-« Vous voulez dire dans six heures, » dit Albus. « Ces deux-là peuvent
+« Vous voulez dire dans six heures », dit Albus. « Ces deux-là peuvent
 l’entendre ; donnez-moi votre rapport. »
 
-« Nous savons comment ils ont fait, » dit Thicknesse. « Dans la cellule de
+« Nous savons comment ils ont fait », dit Thicknesse. « Dans la cellule de
 Bellatrix Black, cachée dans un coin, se trouvait une fiole vide ; et
 des tests sur le fluide encore restant ont révélé qu’il s’agissait d’une
 potion d’Animagus. »
@@ -737,11 +737,11 @@ envisagé la possibilité que l’un d’eux puisse devenir un Animagus
 *après* être entré à Azkaban en buvant la potion et en méditant sous la
 protection d’un Patronus — »
 
-« J’ai cru comprendre, » dit Severus, ayant de nouveau adopté son ton
+« J’ai cru comprendre », dit Severus, ayant de nouveau adopté son ton
 hautain habituel, « que les méditations d’Animagus requéraient un temps
 considérable. »
 
-« Eh bien, M. Rogue, » aboya Thicknesse, « nos archives montrent que
+« Eh bien, M. Rogue », aboya Thicknesse, « nos archives montrent que
 Bellatrix Black était un Animagus *avant* d’être envoyée à Azkaban et
 que sa forme animale soit détruite ; alors peut-être que sa *seconde*
 méditation n’a pas pris autant de temps que la première ! »
@@ -752,7 +752,7 @@ puissantes avant son incarcération, et si certaines personnes le
 peuvent, Bellatrix est l’une d’elles. Azkaban peut-elle être protégée
 contre cette méthode ? »
 
-« Oui, » dit la tête très sûre d’elle de Pius Thicknesse. « Nos experts
+« Oui », dit la tête très sûre d’elle de Pius Thicknesse. « Nos experts
 disent qu’il est quasiment inimaginable qu’une méditation d’Animagus
 puisse être terminée en moins de trois heures, avec ou sans expérience
 préalable. Toutes les visites des prisonniers qui y ont droit seront
@@ -769,7 +769,7 @@ La tête de Pius Thicknesse disparut sans ajouter un mot.
 
 « Pas d’autres tentatives… ? » dit Minerva.
 
-« Parce que, chère Minerva, » dit Severus de sa voix traînante, pas tout à
+« Parce que, chère Minerva », dit Severus de sa voix traînante, pas tout à
 fait débarrassé de son ton hautain usuel, « si le Seigneur des Ténèbres
 avait prévu de libérer un autre des ses serviteurs d’Azkaban, il
 n’aurait pas laissé derrière lui une fiole révélant comment il a
@@ -786,7 +786,7 @@ assis en silence.
 Puis Albus secoua la tête en signe de consternation et dit : « Severus,
 comprends-*tu* ceci ? »
 
-« Non, » dit le maître des potions, puis avec un sourire sardonique : « ce
+« Non », dit le maître des potions, puis avec un sourire sardonique : « ce
 qui vaut probablement mieux pour nous tous ; quoi que nous ayons été
 *censés* en déduire, cette partie du plan a échouée. »
 
@@ -798,7 +798,7 @@ trouvé cette idée ingénieuse ? »
 ne crois pas que les autres Mangemorts étaient aussi férus d’études des
 Moldus. C’est lui. »
 
-« Je suis d’accord, c’est lui, » dit Albus. « Azkaban est demeurée
+« Je suis d’accord, c’est lui », dit Albus. « Azkaban est demeurée
 invaincue pendant des siècles pour tomber face à une potion Animagus
 ordinaire. C’est trop malin et trop impossible, ce qui a toujours été la
 marque de Voldemort depuis l’époque où il était connu sous le nom de Tom
@@ -807,7 +807,7 @@ rusé que Voldemort lui-même. Et il n’y a personne d’autres dans le monde
 qui surestimerait mon intelligence par erreur et me laisserait un
 message que je ne peux absolument pas comprendre. »
 
-« À moins qu’il ne vous ait parfaitement estimé, » dit Severus d’une voix
+« À moins qu’il ne vous ait parfaitement estimé », dit Severus d’une voix
 sans timbre, « auquel cas c’est exactement ce qu’il voulait que vous
 pensiez. »
 
@@ -837,7 +837,7 @@ longue barbe d’argent sur ses robes, puis le vieux sorcier se retourna
 et leur fit face.
 
 « Je lui dirai le peu que je sais de l’Art Noir nommé horcruxe par lequel
-une âme est privée de la mort, » dit Albus Dumbledore d’une douce voix
+une âme est privée de la mort », dit Albus Dumbledore d’une douce voix
 qui semblait emplir toute la pièce, « et je leur dirai ce qui peut être
 fait avec la chair du serviteur. »
 

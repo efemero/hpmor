@@ -195,7 +195,7 @@ tout ce qui se tenait sur le chemin de son Seigneur des Ténèbres, etc.
 n’étaient pas faites pour une audience plus jeune et plus sensible ; et
 son rire faisait mal à ses oreilles récemment soignées.
 
-« Assez, Bella, » dit enfin Harry, et la voix de celle-ci se tut
+« Assez, Bella », dit enfin Harry, et la voix de celle-ci se tut
 instantanément.
 
 Il y eut un moment de silence. Harry retira la Cape de par-dessus sa
@@ -362,7 +362,7 @@ loin d’Amélia, ce qui lui fit tomber le miroir qu’elle tenait et pivoter
 baguette en main, et alors la porte s’ouvrit grand, révélant Albus
 Dumbledore, debout face à un grand trou fumant dans le mur de la prison.
 
-« Amélia, » dit le vieux sorcier. Il n’y avait aucune trace de sa légèreté
+« Amélia », dit le vieux sorcier. Il n’y avait aucune trace de sa légèreté
 habituelle, et derrières ses lunettes en demi-lune ses yeux avaient la
 dureté du saphir. « Je dois quitter Azkaban et je dois le faire
 *maintenant*. Y a-t-il un moyen de sortir de l’enceinte qui soit plus
@@ -410,7 +410,7 @@ deux fut prestement occlus par un nuage de pluie.
 « Qui est derrière ça ? » cria Amélia au balais qui volait un pas derrière
 elle.
 
-« L’une de deux personnes, » répondit Dumbledore, « j’ignore encore
+« L’une de deux personnes », répondit Dumbledore, « j’ignore encore
 laquelle. Si c’est la première, alors nous avons des ennuis. Si c’est la
 seconde, alors nous avons de bien plus graves ennuis. »
 
@@ -476,7 +476,7 @@ la sorcière sympathique, lorsqu’il avait pensé que tout cela ressemblait
 Puis la sorcière se précipita et tira sa baguette ; un marmonnement
 sectionna les attaches qui liaient la femme émaciée au balais volant et
 Bellatrix fut lévitée jusqu’à un rocher sableux, ses bras squelettiques
-et ses jambes pâles pendantes comme des choses sans vie. « Oh, Merlin, »
+et ses jambes pâles pendantes comme des choses sans vie. « Oh, Merlin »,
 murmura la sorcière, « Merlin, Merlin, Merlin… »
 
 *Elle semble préoccupée*, pensa une chose abstraite et distance entre
@@ -492,7 +492,7 @@ La tête de la sorcière se releva brusquement pour regarder vers le nulle
 part d’où cette voix semblait être venue, puis elle rabaissa les yeux
 vers Bellatrix. « Vous n’êtes pas M. Jaffe. »
 
-« Vous parlez de l’Animagus, » murmurèrent les lèvres de Harry. *Oh*,
+« Vous parlez de l’Animagus », murmurèrent les lèvres de Harry. *Oh*,
 pensa le Harry derrière le verre en entendant le son de ses propres
 lèvres, *c’est sensé, le professeur Quirrell doit avoir utilisé un autre
 nom.*
@@ -508,7 +508,7 @@ clairement penser que c’était le cas.
 Encore le vif secouement de tête. « Si un Innerver n’a pas fonctionné — »
 commença-t-elle.
 
-« Je ne m’y suis pas essayé, » murmurèrent les lèvres de Harry.
+« Je ne m’y suis pas essayé », murmurèrent les lèvres de Harry.
 
 « Quoi ? Pourquoi — oh, pas grave. *Innerver*. »
 
@@ -518,21 +518,21 @@ La tête verte s’éleva lentement, regarda autour d’elle.
 L’espace se brouilla et le professeur Quirrell se tint là, et l’instant
 d’après il tombait à genoux.
 
-« Allonge-toi, » dit la sorcière sans lever les yeux de Bellatrix. « C’est
+« Allonge-toi », dit la sorcière sans lever les yeux de Bellatrix. « C’est
 toi qu’es là, Jérémie ? »
 
-« Oui, » dit le professeur de Défense d’une voix plutôt rauque avant de
+« Oui », dit le professeur de Défense d’une voix plutôt rauque avant de
 s’allonger précautionneusement sur une portion relativement plate du
 rocher sableux et orangé. Il n’était pas aussi pâle que Bellatrix mais
 son visage était comme exsangue sous la faible lueur de l’aurore.
 « Salutations, mademoiselle Chomblechette. »
 
-« Je t’ai dit, » fit la sorcière avec une dureté dans sa voix et un léger
+« Je t’ai dit », fit la sorcière avec une dureté dans sa voix et un léger
 sourire sur son visage, « de m’appeler Crystal, on n’est pas en
 Angleterre, pas de ces formalités ici. *Et* ce sera Docteur maintenant,
 pas mademoiselle. »
 
-« Mes excuses, docteur Chomblechette, » accompagné d’un gloussement sec.
+« Mes excuses, docteur Chomblechette », accompagné d’un gloussement sec.
 
 Le sourire de la sorcière s’élargit quelque peu mais sa voix se durcit
 d’autant plus. « Qui est ton ami ? »
@@ -595,7 +595,7 @@ L’homme allongé au sol dit calmement : « Pimentine — »
 
 Encore la quinte de rire.
 
-« Elle va dormir pendant une semaine, avec de la chance, » dit la sorcière
+« Elle va dormir pendant une semaine, avec de la chance », dit la sorcière
 avant de claquer la langue. « J’imagine que je t’enverrai une chouette
 quand elle ouvrira les yeux pour que tu puisses revenir et la convaincre
 pour ce Serment Inviolable. Est-ce que tu as quelque chose pour
@@ -618,15 +618,15 @@ sorcière un sac qui émit un cliquetis. La sorcière l’attrapa, le
 soupesa, et eut un bruit de contentement.
 
 Puis elle se leva et la pâle femme squelettique lévita à côté d’elle.
-« Je rentre, » dit la sorcière. « Je ne peux pas commencer à travailler
+« Je rentre », dit la sorcière. « Je ne peux pas commencer à travailler
 ici. »
 
-« Attends, » dit le professeur de Défense, et d’un geste il récupéra sa
+« Attends », dit le professeur de Défense, et d’un geste il récupéra sa
 baguette depuis la main et l’étui de Bellatrix. Puis il orienta la
 baguette vers Bellatrix et fit un petit geste circulaire accompagné d’un
 discret « *Oubliettes* ».
 
-« *Ça suffit*, » lâcha la sorcière, « je la sors d’ici avant que quelqu’un
+« *Ça suffit* », lâcha la sorcière, « je la sors d’ici avant que quelqu’un
 ne fasse encore plus de dégâts… ». Un bras entoura la forme osseuse de
 Bellatrix Black et la serra contre la sorcière, puis elles disparurent
 toutes deux au puissant POP ! d’un Transplanage.
@@ -662,12 +662,12 @@ centre avait été soustrait -
 
 Oh.
 
-« Excusez-moi, » dit la voix de Harry. Le caractère distant et détaché de
+« Excusez-moi », dit la voix de Harry. Le caractère distant et détaché de
 celle-ci reflétait maintenant l’effacement que Harry ressentait. « Je
 pense que je vais m’évanouir dans quelques secondes. »
 
 « Utilisez le quatrième Portoloin que je vous ai donné, celui dont j’ai
-dit que c’était notre refuge de secours, » dit calmement mais rapidement
+dit que c’était notre refuge de secours », dit calmement mais rapidement
 l’homme allongé au sol. « Ce sera plus sûr là-bas. Et continuez de porter
 votre cape. »
 
@@ -677,7 +677,7 @@ la brisa.
 Il y eut une autre saccade de Portoloin, une saccade internationalement
 lointaine, et il fut dans un endroit noir.
 
-« *Lumos*, » dirent les lèvres de Harry alors qu’une partie de lui
+« *Lumos* », dirent les lèvres de Harry alors qu’une partie de lui
 évaluait la sûreté de l’ensemble.
 
 Il était à l’intérieur de ce qui ressemblait à un entrepôt Moldu, un
@@ -696,7 +696,7 @@ s’éteindre avant que les ténèbres ne le recouvrent.
 « Où iras-tu ? » cria Amélia. Ils étaient presque à la limite de
 l’enceinte.
 
-« En arrière dans le temps pour protéger Harry Potter, » dit le vieux
+« En arrière dans le temps pour protéger Harry Potter », dit le vieux
 sorcier, et avant qu’Amélia ne puisse ne serait-ce qu’ouvrir ses lèvres
 pour demander s’il voulait de l’aide, elle ressentit le passage d’un
 bord à l’autre de la lisière de l’enceinte.

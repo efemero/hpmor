@@ -44,14 +44,14 @@ référentiel du mouvement terrestre.
 « Est-ce que le Miroir est là ? Est-ce qu’il bouge ? » La voix autoritaire
 du professeur Quirrell lui parvint depuis la salle des potions.
 
-« *Est là*, » répondit Harry dans un sifflement. « *Ne bouge pas.* »
+« *Est là* », répondit Harry dans un sifflement. « *Ne bouge pas.* »
 
 Un ordre toujours impérieux lui parvint. « Fais le tour du Miroir. »
 
 De derrière, le cadre ne présentait aucun reflet, il était d’un or
 massif, et Harry le dit en Fourchelangue.
 
-« Maintenant, enlève ta Cape, » ordonna la voix du professeur Quirrell,
+« Maintenant, enlève ta Cape », ordonna la voix du professeur Quirrell,
 toujours depuis la salle des potions. « Dis-moi immédiatement si le
 Miroir se retourne vers toi. »
 
@@ -65,7 +65,7 @@ de malefeu traversa un mur de marbre en train de fondre situé derrière
 Harry, et la salle prit une teinte rouge. Le professeur Quirrell entra à
 sa suite dans le nouveau corridor qui venait d’être creusé. Ses souliers
 noirs avançaient sans dommage sur le sol rouge, lumineux et encore mou.
-« Eh bien, » dit le professeur Quirrell, « voilà un piège possible d’évité.
+« Eh bien », dit le professeur Quirrell, « voilà un piège possible d’évité.
 Et maintenant… » il souffla longuement. « Maintenant, nous réfléchissons à
 de stratégies d’extraction de la Pierre du Miroir, et tu les essaies ;
 car je préfère ne pas laisser mon image apparaître dans ce Miroir. Sois
@@ -74,7 +74,7 @@ prévenu : ça pourrait être ennuyeux. »
 « Je suppose que ce n’est pas un problème que le Feudeymon pourrait
 résoudre ? »
 
-« Ha, » dit le professeur Quirrell, et il fit un geste.
+« Ha », dit le professeur Quirrell, et il fit un geste.
 
 Le phénix de malefeu avança vivement, dans un élan de terreur cramoisie,
 et la lumière rouge projeta des ombres tordues sur les murs de marbre
@@ -119,7 +119,7 @@ si tout cela était vrai. Le cadre doré n’avait pas été rendu plus
 loin en arrière, jusqu’à une civilisation qui n’aurait jamais dû être…
 « Qu’est-ce que… qu’est-ce qu’il *fait*, exactement ? »
 
-« Une excellente question, » dit le professeur Quirrell. « La réponse est
+« Une excellente question », dit le professeur Quirrell. « La réponse est
 inscrite sur les runes écrite derrière lui. Lis-les pour moi. »
 
 « Je ne reconnais pas son alphabet. On dirait des gribouillis d’elfes de
@@ -189,7 +189,7 @@ d’autres qui auraient déplu à ses parents, traversaient l’esprit de
 Harry, sans grande cohérence.
 
 « J’ai parcouru le monde et écouté de nombreuses histoires que l’on
-entend rarement, » dit le professeur Quirrell. « La plupart m’ont semblé
+entend rarement », dit le professeur Quirrell. « La plupart m’ont semblé
 fausses, mais certaines avaient un ton plus historique que narratif. Sur
 un mur de métal, en un lieu vide depuis des siècles, j’ai trouvé écrit
 que quelques Atlantes avaient prévu la fin de leur monde et désiré
@@ -248,7 +248,7 @@ Quirrell eut un sourire plutôt sombre. »Notre première tentative — ma
 pas la dernière, sois-en assuré — sera de voir comment le Miroir réagit
 alors que tu tentes d’obtenir la Pierre pour sauver la vie de Hermione
 Granger et de centaines de tes camarades.« »Et dans la *première* version de ce plan,« dit Harry, qui commençait
-enfin à comprendre, »celui que vous avez inventé le premier vendredi de
+enfin à comprendre »,celui que vous avez inventé le premier vendredi de
 cette année, c’est l’enfant prodige de Dumbledore, le Survivant, qui
 récupérait la Pierre, tentant noblement, altruistement, de sauver la vie
 de son professeur de Défense mourant.« »Bien sûr,« dit ce dernier.
@@ -279,7 +279,7 @@ Au moment même de la dire, Harry se rendit compte de la stupidité de sa
 question et de la montagne d’indices en ce sens qu’il avait déjà
 observés…
 
-« Il est *impossible* que Dumbledore n’ait pas remarqué ça, » dit le
+« Il est *impossible* que Dumbledore n’ait pas remarqué ça », dit le
 professeur Quirrell. « Ce n’est pas vraiment subtil. Qu’est-ce que
 Dumbledore aurait dû croire ? Que tu es un acteur dans une pièce dont
 l’auteur imbécile n’a jamais rencontré un véritable enfant de onze ans ?
@@ -314,7 +314,7 @@ ma réussite. »
 Ils regardèrent à nouveau dans le Miroir, le vieux et le jeune Tom
 Jedusor.
 
-« Je pense, professeur, » dit Harry au bout d’un moment, « que toutes votre
+« Je pense, professeur », dit Harry au bout d’un moment, « que toutes votre
 hypothèses sur le besoin de vouloir la Pierre pour de bonnes raisons
 sont fausses. Le directeur n’aurait pas choisi une règle de ce genre. »
 
@@ -330,24 +330,24 @@ qui lui viendrait à l’esprit. »
 
 Le professeur Quirrell hocha la tête. « Dans ce cas, d’accord. »
 
-« Je ne sais pas pourquoi vous pensez qu’on peut résoudre cette énigme, »
+« Je ne sais pas pourquoi vous pensez qu’on peut résoudre cette énigme »,
 dit Harry. « Il suffirait d’avoir une règle comme : on doit avoir une
 petite pyramide bleue et deux grandes pyramides rouges dans la main
 gauche, et on doit verser de la mayonnaise sur un hamster de la main
 droite… »
 
-« Non, » dit le professeur Quirrell. « Non, je ne pense pas. Les légendes
+« Non », dit le professeur Quirrell. « Non, je ne pense pas. Les légendes
 n’explicitent pas quelles règles sont autorisées, mais je pense que cela
 doit avoir un rapport avec l’usage premier du Miroir… un rapport avec
 les désirs et les souhaits profonds d’une personne. Pour la plupart des
 gens, verser de la mayonnaise sur un hamster n’entre pas dans cette
 catégorie. »
 
-« Hmm, » dit Harry. « Peut-être que la règle dit que la personne ne doit
+« Hmm », dit Harry. « Peut-être que la règle dit que la personne ne doit
 pas vouloir utiliser la Pierre… non, c’est trop facile, l’histoire que
 vous avez raconté à M. Nott résout ce problème. »
 
-« En un sens, tu comprends peut-être Dumbledore mieux que moi, » dit le
+« En un sens, tu comprends peut-être Dumbledore mieux que moi », dit le
 professeur Quirrell. « Donc réfléchis à cela : comment Dumbledore
 utiliserait-il son acceptation de la mort pour m’empêcher d’obtenir la
 Pierre ? C’est ce qu’il me croit le moins capable d’appréhender, et il
@@ -381,7 +381,7 @@ comprit d’où lui venait ce geste. « Et si c’est Perenelle qui a caché l
 Pierre ? Peut-être qu’elle a dit au Miroir de ne donner la Pierre qu’à
 la personne qui l’a placée dedans. »
 
-« Perenelle a vécu assez longtemps pour connaître ses limites, » dit le
+« Perenelle a vécu assez longtemps pour connaître ses limites », dit le
 professeur Quirrell. « Elle ne surestime pas son intelligence, elle n’est
 pas orgueilleuse. Sans quoi elle aurait perdu la Pierre il y a
 longtemps. Elle n’essaiera pas de trouver une bonne règle pour le Miroir
@@ -413,9 +413,9 @@ cet état esprit, sera important, sera, selon Dumbledore, inaccessible à
 Voldemort ; mais sous ces conditions, l’état d’esprit global de
 Dumbledore devrait *suffire*. »
 
-« Raisonnable, » dit le professeur Quirrell. « Et alors ? »
+« Raisonnable », dit le professeur Quirrell. « Et alors ? »
 
-« La stratégie qui en découle, » dit Harry avec prudence, « est d’imiter
+« La stratégie qui en découle », dit Harry avec prudence, « est d’imiter
 l’état d’esprit de Dumbledore sous ces conditions, de façon aussi
 détaillée que possible, debout face au Miroir. Cet état d’esprit devra
 avoir été produit par des forces internes, pas des forces externes. »
@@ -436,7 +436,7 @@ vous. Ne me traitez pas de traître si vous choississsez d’esssayer et
 que cela échoue.* » Harry eut soudain très envie de sourire, mais il se
 retint.
 
-« Merveilleux, » dit le professeur Quirrell qui, lui, souriait bien.
+« Merveilleux », dit le professeur Quirrell qui, lui, souriait bien.
 « J’imagine que certaines menaces venues d’esprits inventifs ne peuvent
 même pas être neutralisées par un interrogatoire en Fourchelangue. »
 
@@ -450,7 +450,7 @@ Harry mit la Cape d’Invisibilité sur ordre du professeur Quirrell afin
 *d’empêcher l’homme qui sse croira être le directeur de te voir*, comme
 l’avait dit le professeur Quirrell en Fourchelangue.
 
-« Avec ou sans Cape, tu te tiendras à proximité du Miroir, » avait aussi
+« Avec ou sans Cape, tu te tiendras à proximité du Miroir », avait aussi
 dit le professeur Quirrell. « Si un jet de lave jaillit, tu brûleras
 aussi. Cette symétrie me semble juste. »
 
@@ -474,7 +474,7 @@ et que rien à l’intérieur du cercle ne pourrait être vu ou entendu de
 l’extérieur. Harry ne pourrait pas se faire remarquer par le faux
 Dumbledore, ni en enlevant sa Cape, ni en criant.
 
-« Tu ne traverseras *pas* le cercle après son activation, » dit le
+« Tu ne traverseras *pas* le cercle après son activation », dit le
 professeur Quirrell. « Cela interagirait avec ma magie, et le sortilège
 de Confusion m’empêchera peut-être de savoir comment mettre fin à la
 résonance qui nous détruirait tous deux. De plus, puisque je ne veux pas
@@ -518,11 +518,11 @@ Ce que l’homme pouvait y voir, Harry l’ignorait. Il lui sembla que la
 surface plate et parfaite reflétait toujours la pièce qui lui faisait
 face, comme un portail vers un autre lieu.
 
-« Ariana, » souffla l’homme. « Mère, père. Et toi, mon frère, c’est fait. »
+« Ariana », souffla l’homme. « Mère, père. Et toi, mon frère, c’est fait. »
 
 L’homme se tint immobile. Il semblait écouter.
 
-« Oui, c’est fait, » dit l’homme. « Voldemort est venu jusqu’au miroir, et
+« Oui, c’est fait », dit l’homme. « Voldemort est venu jusqu’au miroir, et
 a été piégé par la méthode de Merlin. Il n’est maintenant qu’une horreur
 de plus sous scellé. »
 
@@ -539,13 +539,13 @@ d’Abelforth, c’était le professeur Quirrell imaginant Dumbledore
 imaginant Abelforth, et cette image doublement réfléchie du frère ne
 remarquerait rien…
 
-« Il est temps de rendre la Pierre Philosophale, » dit l’homme qui prenait
+« Il est temps de rendre la Pierre Philosophale », dit l’homme qui prenait
 pour Dumbledore. « Elle doit revenir à la garde de Maître Flamel,
 maintenant. »
 
 Immobilité. Écoute.
 
-« Non, » dit l’homme, « Maître Flamel l’a gardée toutes ces années à l’abri
+« Non », dit l’homme, « Maître Flamel l’a gardée toutes ces années à l’abri
 de ceux qui recherche l’immortalité, et je pense que c’est entre ses
 mains qu’elle sera le plus en sûreté… non, Abelforth, je pense qu’il a
 de bonnes intentions. »
@@ -574,7 +574,7 @@ grand que la phalange supérieure du pouce de Harry. La surface patinée
 du verre écarlate lui donnait un air mouillé ; c’était l’apparence du
 sang, suspendu dans le temps et devenu une surface brute.
 
-« Merci, mon frère, » dit doucement l’homme.
+« Merci, mon frère », dit doucement l’homme.
 
 *Est-ce à ça que la Pierre devrait ressembler ? Est-ce que le professeur
 Quirrell sait à quoi la vraie Pierre devrait ressembler ? Est-ce que le
@@ -583,7 +583,7 @@ fabriquer une imitation et la donner à la place ?*
 
 Et alors…
 
-« Non, Ariana, » dit l’homme avec un doux sourire, « j’ai peur de devoir
+« Non, Ariana », dit l’homme avec un doux sourire, « j’ai peur de devoir
 partir, à présent. Sois patiente, ma très chère, je vous rejoindrai
 vraiment bientôt… pourquoi ? Eh bien, je ne sais pas vraiment pourquoi
 je dois partir… maintenant que j’ai la Pierre, je dois m’écarter du
@@ -625,5 +625,5 @@ travers.
 
 Le visage du vrai Dumbledore était dur et sévère.
 
-« Bonjour, Tom, » dit Albus Dumbledore.
+« Bonjour, Tom », dit Albus Dumbledore.
 

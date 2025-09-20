@@ -33,7 +33,7 @@ Severus Rogue inclina la tête à son intention.
 « Qu’est-ce que ça signifie ? » dit-elle, comme… nauséeuse, comme si un
 regard lui avait suffit à comprendre, comme il avait suffit à Harry.
 
-« Je démissionne de mon poste de maître des potions de Poudlard, »
+« Je démissionne de mon poste de maître des potions de Poudlard »,
 répondit simplement l’homme. « Je ne réclamerai pas mon dernier salaire.
 Si certains élèves ont particulièrement souffert à cause de moi, vous
 pouvez utiliser cet argent pour eux. »
@@ -56,7 +56,7 @@ me ressemble. »
 « Severus, vous n’avez fait qu’exécuter les ordres d’Albus ! Vous
 pourriez rester et agir différemment ! »
 
-« Madame la directrice, » dit Harry. Sa voix à lui aussi paraissait
+« Madame la directrice », dit Harry. Sa voix à lui aussi paraissait
 creuse, et il se demanda pourquoi ; il n’avait pas beaucoup fréquenté
 Severus. « S’il veut partir, je pense que vous devriez le laisser faire. »
 
@@ -70,7 +70,7 @@ avec bonté. Même son aveuglement et son deuil avaient été utilisés, tout
 comme son ignorance des conséquences de ses actes en tant que maître des
 potions…*
 
-« Je suis heureux de vous trouver ici, M. Potter, » dit Severus. « Nous
+« Je suis heureux de vous trouver ici, M. Potter », dit Severus. « Nous
 avons des affaires à régler. »
 
 Harry ne savait pas quoi répondre, alors il se contenta de hocher la
@@ -80,7 +80,7 @@ Severus sembla avoir du mal à parler, face à Minerva et Harry, son sac à
 dos gris sur l’épaule. Il parut trouver enfin les mots qu’il était venu
 dire. « Votre mère. Lily. Elle était… »
 
-« Je sais, » dit Harry, la gorge nouée. « Vous n’avez pas à le dire. »
+« Je sais », dit Harry, la gorge nouée. « Vous n’avez pas à le dire. »
 
 « Lily était une sorcière modèle, M. Potter. Je veux pas que ce que j’ai
 pu vous dire ait pu vous laisser entendre le contraire. »
@@ -96,10 +96,10 @@ a mis fin à tout, si j’ai prétendu que sa superficialité seule l’a
 empêchée de m’aimer, j’espère que vos livres vous ont aussi appris
 pourquoi un idiot dirait ce genre de chose. »
 
-« Oui, » dit Harry. Il regardait l’élégant sac à dos à l’épaule gauche de
+« Oui », dit Harry. Il regardait l’élégant sac à dos à l’épaule gauche de
 Severus Rogue ; il n’arrivait pas à croiser son regard. « Je sais. »
 
-« Cependant, » poursuivit l’ancien maître des potions, « j’ai peur de
+« Cependant », poursuivit l’ancien maître des potions, « j’ai peur de
 n’avoir rien à ajouter au sujet de votre père. »
 
 « *Severus !* »
@@ -117,13 +117,13 @@ brise, ce n’est pas lui qui reviendrait. »
 Severus fronça brièvement les sourcils, puis haussa les épaules. « Je
 suppose que c’est acceptable. »
 
-« Professeur Rogue, » dit Harry, car il avait aussi cette responsabilité,
+« Professeur Rogue », dit Harry, car il avait aussi cette responsabilité,
 « l’Ordre du Phénix vous est redevable pour services rendus. Je suis
 parfaitement en mesure de vous dédommager, autant financièrement que
 magiquement. Juste au cas où vous voudriez commencer votre nouvelle vie
 riche, ou avec de plus beaux cheveux, n’importe quoi. »
 
-« Je suis surpris d’entendre ça, » dit l’ancien maître des potions d’une
+« Je suis surpris d’entendre ça », dit l’ancien maître des potions d’une
 voix traînante. « Je me suis présenté au Seigneur des Ténèbres dans
 l’intention de lui vendre la prophétie afin que l’amour de Lily devienne
 mien, peu importe la noirceur des magies nécessaires à l’obtenir. Ce
@@ -132,11 +132,11 @@ pendant les années qui ont suivies, en tant que maître des potions… vous
 l’avez vous-même vécu. Pensez-vous que les services que j’ai rendu à
 l’Ordre du Phénix ont racheté tous mes péchés ? »
 
-« Les gens sont toujours brisés, » dit Harry, mais les mots eurent du mal
+« Les gens sont toujours brisés », dit Harry, mais les mots eurent du mal
 à franchir sa gorge. « Ils font toujours des erreurs. Au moins, vous avez
 essayé de les racheter. »
 
-« Peut-être, » dit l’ancien maître des potions. « Ma dernière tâche a été
+« Peut-être », dit l’ancien maître des potions. « Ma dernière tâche a été
 d’échouer à garder la Pierre, de me faire abattre. Je l’ai fait, et j’y
 ai survécu ; je ne m’y attendais pas. » Severus s’était appuyé contre la
 porte pour détendre sa jambe gauche. « Je n’aurais pas pensé à demander
@@ -153,12 +153,12 @@ Severus secoua la tête. « Trop d’élèves se souviendraient de moi comme
 endroit nouveau, je prendrai un nouveau nom, et je trouverai une
 nouvelle personne à aimer. »
 
-« Severus Rogue, » dit Harry, parce qu’il fallait qu’il le dise, « toutes
+« Severus Rogue », dit Harry, parce qu’il fallait qu’il le dise, « toutes
 vos volontés ont-elles été accomplies ? »
 
-« Le tueur de Lily a été vaincu, » dit l’homme. « Je suis satisfait. »
+« Le tueur de Lily a été vaincu », dit l’homme. « Je suis satisfait. »
 
-« J’ai un dernier conseil, » dit Harry. « Si vous le voulez. »
+« J’ai un dernier conseil », dit Harry. « Si vous le voulez. »
 
 « De quoi s’agit-il ? » dit Severus Rogue.
 
@@ -168,7 +168,7 @@ Vous ne devriez pas penser que vous devez vous sentir coupable envers
 Lily par égard pour elle. Concentrez-vous juste sur votre futur et les
 gens nouveaux que vous rencontrerez. »
 
-« J’étudierai votre sage conseil, » dit Severus d’un ton neutre.
+« J’étudierai votre sage conseil », dit Severus d’un ton neutre.
 
 « Ah, et essayez de changer de shamppoing. »
 

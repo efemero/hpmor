@@ -99,13 +99,13 @@ pouvait s’empêcher de se représenter l’enfance de Harry comme un tas de
 petit bois d’où elle et Albus tiraient une à une les branches pour les
 jeter dans les flammes.
 
-« Les prophéties sont fort étranges, » dit Albus Dumbledore. Les yeux du
+« Les prophéties sont fort étranges », dit Albus Dumbledore. Les yeux du
 vieux sorcier étaient mis-clos, comme las. « Vagues, floues, d’un sens
 qui vous échappe comme de l’eau s’écoulerait entre vos doigts écartés.
 Elles sont toujours un fardeau car elles ne comportent aucune réponse ;
 seulement des questions. »
 
-Harry Potter était assis, tendu. « Monsieur le directeur, » dit le garçon
+Harry Potter était assis, tendu. « Monsieur le directeur », dit le garçon
 avec une douce précision, « mes amis sont pris pour cible. Hermione
 Granger a failli aller à Azkaban. Comme vous l’avez dit, la guerre a
 commencé. La prophétie du professeur Trelawney constitue une information
@@ -121,7 +121,7 @@ le Seigneur des Ténèbres la connaissait, il ne l’avait pas appris
 d’elle.
 
 « Voldemort, en cherchant à empêcher cette prophétie, courut à sa défaite
-par tes mains, » dit alors le vieux sorcier. « La connaître n’a fait que
+par tes mains », dit alors le vieux sorcier. « La connaître n’a fait que
 lui nuire. Réfléchis-y bien, Harry Potter. »
 
 « Oui, monsieur le Directeur, je comprends cela. Ma culture natale a
@@ -132,7 +132,7 @@ travailler sur la base d’une version partielle ? »
 
 Un certain temps s’écoula.
 
-« Minerva, » dit Albus. « Si tu veux bien. »
+« Minerva », dit Albus. « Si tu veux bien. »
 
 « Celui qui a le pouvoir de vaincre le Seigneur des Ténèbres approche, il
 naîtra de ceux qui l’ont par trois fois défié, il sera né lorsque mourra
@@ -171,7 +171,7 @@ pourrait évidemment être la marque… » Harry toucha son front. « Puis i
 a le pouvoir que le Seigneur des Ténèbres ignore, qui est probablement
 une référence à mon éducation scientifique… »
 
-« Non, » dit Severus.
+« Non », dit Severus.
 
 Harry regarda le maître des potions avec surprise.
 
@@ -184,7 +184,7 @@ pouvoir que le Seigneur des Ténèbres ne peut avoir*. Elle a parlé d’un
 lui sera plus étranger que des artefacts moldus. Peut-être quelque chose
 qu’il ne peut pas du tout comprendre, même après l’avoir vu… »
 
-« La science n’est pas un ramassis d’astuces technologiques, » dit Harry.
+« La science n’est pas un ramassis d’astuces technologiques », dit Harry.
 « Ce n’est pas juste la version moldue d’une baguette. Ce n’est même pas
 de la connaissance, comme d’apprendre la table périodique. C’est une
 autre façon de *penser*. »
@@ -192,10 +192,10 @@ autre façon de *penser*. »
 « Peut-être… » murmura le maître des potions, mais son ton était
 sceptique.
 
-« Il est périlleux, » dit Albus, « de voir tant dans une prophétie, même
+« Il est périlleux », dit Albus, « de voir tant dans une prophétie, même
 après l’avoir entendue soi-même. Elles sont des plus frustrantes. »
 
-« Je vois ça, » dit Harry. Il leva la main, frotta la cicatrice sur son
+« Je vois ça », dit Harry. Il leva la main, frotta la cicatrice sur son
 front. « Mais… d’accord, si *c’est* vraiment tout ce qu’on sait… écoutez,
 je vais être franc. Comment *savez-vous* que le Seigneur des Ténèbres a
 vraiment survécu ? »
@@ -203,7 +203,7 @@ vraiment survécu ? »
 « *Quoi ?* » s’écria-t-elle. Albus ne fit que soupirer et s’enfonça dans
 son vaste fauteuil de directeur.
 
-« Enfin, » dit Harry, « imaginez à quoi cette prophétie ressemblait quand
+« Enfin », dit Harry, « imaginez à quoi cette prophétie ressemblait quand
 elle a été dite. Vous-Savez-Qui l’entend et j’ai l’air d’être destiné à
 grandir puis à le renverser. On dirait que nous sommes censés avoir une
 bataille finale où l’un d’entre nous ne devra laisser presque rien de
@@ -224,7 +224,7 @@ alors la prophétie pourrait être déjà réalisée. »
 « Mais… » bredouilla Minerva. « Mais le raid sur Azkaban… »
 
 « *Si* le Seigneur des Ténèbres a survécu, alors oui, il est le suspect
-le plus probable pour l’évasion d’Azkaban, » dit Harry d’un ton
+le plus probable pour l’évasion d’Azkaban », dit Harry d’un ton
 raisonnable. « On pourrait même dit que l’évasion d’Azkaban est un
 indice, au sens Bayésien du terme, en faveur de la survie du Seigneur
 des Ténèbres, parce qu’une évasion d’Azkaban a plus de chances de se
@@ -244,7 +244,7 @@ constitue qu’un indice assez fort, au sens bayésien. L’improbabilité des
 observations dans un monde où l’hypothèse est fausse n’est pas à la
 hauteur de l’improbabilité à priori de l’hypothèse elle-même. »
 
-« Non, » dit Severus d’un ton catégorique. « La prophétie ne s’est pas
+« Non », dit Severus d’un ton catégorique. « La prophétie ne s’est pas
 réalisée. Je le saurais, sinon. »
 
 « En êtes-vous *certain* ? »
@@ -255,17 +255,17 @@ de sa voix, et si je connaissais les événements correspondants, je les
 *reconnaîtrais*. Ce qui s’est déjà produit… ne convient *pas*. » Le
 maître des potions parlait avec certitude.
 
-« Je ne sais pas vraiment quoi faire de ça, » dit Harry. Il leva la main
+« Je ne sais pas vraiment quoi faire de ça », dit Harry. Il leva la main
 et frotta distraitement son front. « Peut-être que c’est seulement ce que
 vous *croyez* s’être produit qui ne convient pas et que la véritable
 histoire est différente… »
 
-« Voldemort *est* en vie, » dit Albus. « Il y a d’autres indications. »
+« Voldemort *est* en vie », dit Albus. « Il y a d’autres indications. »
 
 « Telles que ? » répondit instantanément Harry.
 
 Albus s’interrompit. « Il existe de terribles rituels au moyen desquels
-les sorciers sont revenus d’entre les morts, » dit lentement Albus.
+les sorciers sont revenus d’entre les morts », dit lentement Albus.
 « Cela, chacun peut le discerner en étudiant l’Histoire et les légendes.
 Et pourtant ces livres sont manquants, je ne parviens pas à les
 trouver ; c’est Voldemort qui les a pris, j’en suis sûr… »
@@ -273,12 +273,12 @@ trouver ; c’est Voldemort qui les a pris, j’en suis sûr… »
 « Donc vous ne *pouvez pas* trouver les livres sur l’immortalité et cela
 prouve que c’est Vous-Savez-Qui qui les a ? »
 
-« En effet, » dit Albus. « Il existe un certain livre – je ne le nommerai
+« En effet », dit Albus. « Il existe un certain livre – je ne le nommerai
 pas à voix haute – qui a disparu de la section interdite de la
 bibliothèque de Poudlard. Ainsi qu’un ancien parchemin qui aurait dû se
 trouver chez Barjow et Beurk mais où il n’y a plus qu’un emplacement
 vide permettant seulement de constater où il se trouvait… » le vieux
-sorcier s’interrompit. « Mais je suppose, » continua-t-il, comme à
+sorcier s’interrompit. « Mais je suppose », continua-t-il, comme à
 lui-même, « que tu vas dire que même si Voldemort a essayé de se rendre
 immortel, cela ne prouve pas qu’il a réussi… »
 
@@ -290,7 +290,7 @@ priori que le Seigneur des Ténèbres ait survécu à sa mort. Je concède
 cela, et je vous remercie d’avoir signalé ce fait. La question est de
 savoir si la probabilité augmente *assez*. »
 
-« Certainement, » dit doucement Albus, « si tu concèdes ne serait-ce qu’une
+« Certainement », dit doucement Albus, « si tu concèdes ne serait-ce qu’une
 *chance* que Voldemort a survécu, cela mérite de s’en protéger ? »
 
 Harry inclina la tête. « Comme vous le dites, monsieur le directeur. Quoi
@@ -304,7 +304,7 @@ probabilités doivent *aussi* être prises en compte – et dans les mondes
 probables où Vous-Savez-Qui n’est *pas* en vie, quelqu’un d’autre a
 piégé Hermione. »
 
-« Bêtise, » dit doucement Severus. « Profonde bêtise. La Marque des
+« Bêtise », dit doucement Severus. « Profonde bêtise. La Marque des
 Ténèbres ne s’est pas estompée, pas plus que son maître. »
 
 « Voilà, c’est de *ça* que je parle quand je parle de preuves Bayésiennes
@@ -329,7 +329,7 @@ chances que le Seigneur des Ténèbres soit mort… »
 
 « *Où* allez-vous chercher tous vos nombres, Potter ? »
 
-« C’est *là* la faiblesse reconnue de la méthode, » répondit prestement
+« C’est *là* la faiblesse reconnue de la méthode », répondit prestement
 Harry. « Mais ce que je veux montrer, *qualitativement*, c’est la raison
 pour laquelle l’observation « La Marque des Ténèbres ne s’est pas
 estompée » ne soutient pas suffisamment l’hypothèse « Le Seigneur des
@@ -339,7 +339,7 @@ le Seigneur des Ténèbres est en vie, ce n’est pas *forcément lui* qui a
 fait accuser Hermione. Comme un homme rusé l’a dit un jour, il peut y
 avoir plus d’un comploteur et plus d’un complot. »
 
-« Comme le professeur de Défense, » dit Severus avec un fin sourire.
+« Comme le professeur de Défense », dit Severus avec un fin sourire.
 « J’imagine que je dois agréer qu’il est suspect. C’était le professeur
 de Défense l’année dernière, après tout ; et l’année d’avant, et celle
 *encore avant*. »
@@ -382,7 +382,7 @@ se garder de poser la question à Albus, ne prenant ainsi pas le risque
 qu’il essaie de lui répondre. Minerva croyait fermement qu’on ne devait
 se soucier du Temps que si l’on était une horloge.
 
-« La salle des prophéties, » confirma Albus d’une voix basse. « Ceux qu’une
+« La salle des prophéties », confirma Albus d’une voix basse. « Ceux qu’une
 prophétie mentionne peuvent aller l’y écouter. Comprends-tu ce que cela
 implique, Harry ? »
 
@@ -391,12 +391,12 @@ des Ténèbres aussi…oh, mes *parents*. Ceux qui l’ont par trois fois
 défié. Ils étaient aussi mentionnés dans la prophétie donc ils ont pu
 entendre l’enregistrement ? »
 
-« Si James et Lily ont entendu autre chose que ce qu’a rapporté Minerva, »
+« Si James et Lily ont entendu autre chose que ce qu’a rapporté Minerva »,
 dit Albus d’un ton neutre, « ils ne m’en ont pas fait part. »
 
 « Vous avez amené James et Lily *là-bas* ? » dit Minerva.
 
-« Fumseck peut se rendre en de nombreux lieux, » dit Albus. « Ne mentionne
+« Fumseck peut se rendre en de nombreux lieux », dit Albus. « Ne mentionne
 pas ce fait. »
 
 Harry regardait Albus droit dans les yeux. « Puis-*je* aller à ce
@@ -404,17 +404,17 @@ département des mystères et entendre la prophétie enregistrée ? Le ton
 de voix original peut aider, d’après ce qu’on m’a dit. »
 
 Un reflet de lumière passa sur les lunettes en demi-lune d’Albus lorsque
-le vieux sorcier secoua la tête. « Je pense que ce serait fort peu sage, »
+le vieux sorcier secoua la tête. « Je pense que ce serait fort peu sage »,
 dit Albus. « Pour d’autres raisons que celles qui sont déjà évidentes. Ce
 lieu que Merlin a bâti est dangereux, plus dangereux pour certains que
 pour d’autres. »
 
-« Je vois, » dit Harry d’une voix sans timbre, et il rabaissa les yeux
+« Je vois », dit Harry d’une voix sans timbre, et il rabaissa les yeux
 vers le parchemin. « Je considérerai la prophétie comme exacte pour le
 moment. La partie suivante dit que le Seigneur des Ténèbres m’a marqué
 comme son égal. Des idées sur ce que cela veut dire ? »
 
-« Certainement pas, » dit Albus, « que tu devrais l’imiter de quelque
+« Certainement pas », dit Albus, « que tu devrais l’imiter de quelque
 manière que ce soit. »
 
 « Je ne suis pas *stupide*, monsieur le directeur. Les moldus ont compris
@@ -424,13 +424,13 @@ parce qu’un signal venu du futur prétend que ça va se produire, parce
 qu’alors ça deviendrait la seule raison pour laquelle ça ce serait
 produit. Mais à nouveau : qu’est ce que ça veut *dire ?* »
 
-« Je l’ignore, » dit Severus.
+« Je l’ignore », dit Severus.
 
-« Tout comme moi, » dit-elle.
+« Tout comme moi », dit-elle.
 
 Harry saisit sa baguette et la fit tourner entre ses main en observant
 le bois d’un air méditatif. « Trente centimètre, en houx, avec un cœur en
-plume de phénix, » dit Harry. « Et ce phénix dont la plume est dans cette
+plume de phénix », dit Harry. « Et ce phénix dont la plume est dans cette
 baguette n’en a jamais donné qu’une autre que M… comment s’appelle-t-il,
 Olive-quelque chose… a mis dans la baguette du Seigneur des Ténèbres.
 *Et* je suis Fourchelangue. Ça faisait déjà beaucoup de coïncidences. Et
@@ -439,14 +439,14 @@ l’égal du Seigneur des Ténèbres. »
 
 Les yeux de Severus étaient pensifs, ceux du directeur, indéchiffrables.
 
-« Se pourrait-il, » dit une Minerva hésitante, « que Vous-Savez-Qui – que
+« Se pourrait-il », dit une Minerva hésitante, « que Vous-Savez-Qui – que
 Voldemort – a transféré certains de ses pouvoirs à M. Potter, la nuit où
 il a reçu cette cicatrice ? Certainement pas quelque chose qu’il aurait
 souhaité mais quand même… je ne vois pas comment M. Potter pourrait être
 son *égal* puisqu’il possède moins de magie que le Seigneur des Ténèbres
 lui-même… »
 
-« Mouais, » dit Harry, toujours méditatif devant sa baguette. « Je me
+« Mouais », dit Harry, toujours méditatif devant sa baguette. « Je me
 battrais contre le Seigneur des Ténèbres sans aucune magie si besoin
 était. *Homo sapiens* n’est pas devenu l’espèce dominante de cette
 planète en ayant les griffes les plus acérées ou l’armure la plus dure –
@@ -459,7 +459,7 @@ Le maître des potions parla et sa voix avait reprit une partie de son
 mépris traînant. « Vous vous imaginez plus intelligent que le Seigneur
 des Ténèbres, Potter ? »
 
-« Effectivement, » dit Harry en remontant sa manche gauche puis en roulant
+« Effectivement », dit Harry en remontant sa manche gauche puis en roulant
 la manche de chemise située en-dessous, exposant son coude nu. « Oh, ça
 me fait penser ! Assurons-nous que personne ici n’a la marque clairement
 visible placée à l’endroit habituel et facile à regarder qui les
@@ -467,24 +467,24 @@ révélerait être un espion ennemi. »
 
 Albus fit un geste de silence qui interrompit le maître des potions
 avant que ce dernier ne puisse répliquer d’un ton acerbe. « Dis-moi,
-Harry, » dit Albus, « comment aurais-*tu* conçu la Marque des Ténèbres ? »
+Harry », dit Albus, « comment aurais-*tu* conçu la Marque des Ténèbres ? »
 
-« Emplacements inhabituels, » dit prestement Harry, « difficiles à trouver
+« Emplacements inhabituels », dit prestement Harry, « difficiles à trouver
 sans gêne ni protestations, même si bien sûr toute personne prudente
 vérifierait quand même. La rendre plus petite, si possible. Ajouter
 quelque tatouage non-magique pour masquer la forme exacte – encore
 mieux, la recouvrir d’une fausse couche de peau… »
 
-« Rusé, en effet, » dit Albus. « Mais dis-moi, imagine que tu puisses
+« Rusé, en effet », dit Albus. « Mais dis-moi, imagine que tu puisses
 choisir donner n’importe quelle caractéristique à la Marque, que tu
 puisses la faire s’effacer ou apparaître à ton goût. Que ferais-tu
 alors ? »
 
-« Je la rendrais entièrement invisible, tout le temps, » dit Harry en
+« Je la rendrais entièrement invisible, tout le temps », dit Harry en
 ayant l’air d’énoncer l’évidence. « On ne voudrait pas qu’il y ait des
 différences détectables entre un espion et un non-espion. »
 
-« Imagine que tu es encore plus rusé, » dit Albus. « Tu es un maître de la
+« Imagine que tu es encore plus rusé », dit Albus. « Tu es un maître de la
 tromperie, de la supercherie, et tu utilises tes capacités au maximum. »
 
 « Eh bien… » le garçon s’interrompit et fronça les sourcils. « Cela me
@@ -497,7 +497,7 @@ savoir pourquoi les gens auraient commencé à croire que la marque
 identifie un Mangemort… je devrais y réfléchir au moins cinq minutes si
 je voulais prendre le problème au sérieux. »
 
-« Je te demande cela, » dit Albus d’un ton doux, « parce que j’ai
+« Je te demande cela », dit Albus d’un ton doux, « parce que j’ai
 effectivement, au début de la guerre, opéré des tests semblables à ceux
 que tu as suggéré. L’Ordre n’a survécu à ma folie que parce qu’Alastor
 ne faisait pas confiance aux bras nus qu’il voyait. J’ai ensuite pensé
@@ -509,17 +509,17 @@ Marque des Ténèbres ? Je l’ignore. Même Severus est toujours contraint
 par sa Marque de ne révéler aucun de ses secrets à qui ne les connaît
 déjà. »
 
-« Oh, eh bien alors c’est *évident*, » dit immédiatement Harry. « Attendez,
+« Oh, eh bien alors c’est *évident* », dit immédiatement Harry. « Attendez,
 un instant… vous étiez un *Mangemort* ? » Harry transféra son regard vers
 Severus.
 
 Severus lui renvoya un fin sourire. « Je le suis toujours, pour autant
 qu’ils le savent. »
 
-« Harry, » dit Albus, les yeux braqués sur le garçon. « Que veux-tu dire
+« Harry », dit Albus, les yeux braqués sur le garçon. « Que veux-tu dire
 par “c’est évident” ? »
 
-« Théorie de l’information, première leçon, » dit le garçon d’un ton
+« Théorie de l’information, première leçon », dit le garçon d’un ton
 professoral. « Observer la variable X apporte une information au sujet de
 la variable Y si et seulement si les valeurs possibles de X ont des
 probabilités différentes selon les différents états de Y. À l’instant où
@@ -574,14 +574,14 @@ pouvais guider vers cette possibilité, seulement attendre que quelqu’un
 la déduise. » Un autre fin sourire. « Je vous décernerais bien de nombreux
 points, M. Potter, si cela n’allait pas compromettre ma couverture. Mais
 comme vous pouvez le constater, le Seigneur des Ténèbres était assez
-fourbe. » Son regard devint plus distant. « Oh, » souffla Severus, « il
+fourbe. » Son regard devint plus distant. « Oh », souffla Severus, « il
 était *particulièrement* fourbe… »
 
 Harry Potter resta assis un long moment.
 
 Puis…
 
-« Non, » dit Harry. Le garçon secoua la tête. « Non, ça ne peut pas être
+« Non », dit Harry. Le garçon secoua la tête. « Non, ça ne peut pas être
 *vraiment* vrai. D’abord, il s’agit du genre de puzzle logique qu’on
 trouverait au *premier* chapitre d’un livre de Raymond Smullyan, bien
 *loin* du niveau auquel les scientifiques moldus travaillent au
@@ -603,11 +603,11 @@ de votre point de vue, le Seigneur des Ténèbres a inventé un puzzle
 astucieusement, que je l’ai astucieusement résolu et que ça nous donne
 l’air d’être *égaux*. »
 
-« Je me souviens de votre premier jour en cours de potions, » dit
+« Je me souviens de votre premier jour en cours de potions », dit
 sèchement le maître des potions. « Je pense que vous avez encore du
 chemin à parcourir. »
 
-« Paix, Severus, » dit Albus. « Harry a déjà accompli plus que tu ne sais.
+« Paix, Severus », dit Albus. « Harry a déjà accompli plus que tu ne sais.
 Pourtant, Harry, dis-moi… *pourquoi* penses-tu que le Seigneur des
 Ténèbres t’est inférieur ? Il est certainement une âme brisée de bien
 des façons. Mais ruse contre ruse… je dirais que tu n’es pas encore prêt
@@ -642,7 +642,7 @@ Seigneur des Ténèbres ne pouvait avoir été si malin… eh bien… il n’y
 avait aucune façon polie de le dire mais…
 
 Harry avait *été* au Magenmagot. Il avait *vu* les risibles « précautions
-de sécurité, » si on pouvait les appeler ainsi, qui gardaient les plus
+de sécurité », si on pouvait les appeler ainsi, qui gardaient les plus
 profonds niveau du ministère de la Magie. Ils n’avaient même pas la
 cascade des voleurs utilisée à Gringotts pour effacer le Polynectar et
 les Imperiums lancés sur les visiteurs. La méthode de prise de pouvoir
@@ -686,12 +686,12 @@ même* repoussé ; Si Vous-Savez-Qui avait été super-intelligent *en plus
 de ça*, vous seriez *morts*. *Tous*. Vous seriez morts
 *instantanément…* »
 
-« Harry, » dit le professeur McGonagall. Sa voix était haletante. « Harry,
+« Harry », dit le professeur McGonagall. Sa voix était haletante. « Harry,
 nous *avons* tous failli mourir. Plus de la moitié de l’Ordre du Phénix
 est mort. Sans Albus – Albus Dumbledore, le plus grand sorcier en deux
 siècles, Harry… nous aurions sûrement péri. »
 
-Harry se passa une main sur le front. « Je suis désolé, » dit-il. « Je
+Harry se passa une main sur le front. « Je suis désolé », dit-il. « Je
 n’essaie pas de minimiser ce que vous avez traversé. Je sais que
 Vous-Savez-Qui était complètement mauvais, que c’était un mage noir
 incroyablement puissant avec des dizaines d’adeptes, et que les choses
@@ -702,7 +702,7 @@ millionième de gramme dans votre tasse de thé.* Y avait-il un moyen sans
 risque de faire passer ce concept sans citer d’exemple précis ? Harry ne
 pouvait en trouver aucun.
 
-« S’il te plaît, Harry, » dit le professeur McGonagall. « S’il te plaît,
+« S’il te plaît, Harry », dit le professeur McGonagall. « S’il te plaît,
 Harry, je t’en supplie – *prends le Seigneur des Ténèbres au sérieux !*
 Il est plus dangereux que… » la vieille sorcière semblait avoir du mal à
 trouver ses mots. « Il est *bien* plus dangereux que la métamorphose. »
@@ -724,11 +724,11 @@ remettre en cause l’intégralité du raisonnement que nous avons suivi en
 nous basant sur cette assomption fausse, ce que nous ne sommes* pas *en
 train de faire.*
 
-« Très bien, » dit Harry alors que le professeur McGonagall semblait
+« Très bien », dit Harry alors que le professeur McGonagall semblait
 s’apprêter à parler de nouveau . « Très bien, pour prendre cela au
 sérieux je dois réfléchir cinq minutes. »
 
-« Je t’en prie, » dit Albus Dumbledore.
+« Je t’en prie », dit Albus Dumbledore.
 
 Harry ferma les yeux.
 
@@ -817,7 +817,7 @@ d’empêcher son cerveau de remarquer que c’était un poisson. Ce qu’il
 année, ou un niveau d’Auror, ou d’anciennes magies perdues telles que
 celles que Lord Voldemort avait possédées… rien qu’y penser était
 insupportable. Un psychopathe génial, créatif et doté de pouvoirs
-magiques n’était pas une « menace, » c’était la fin d’une espèce.
+magiques n’était pas une « menace », c’était la fin d’une espèce.
 
 Puis Harry secoua la tête et rejeta la lugubre trajectoire le long de
 laquelle son raisonnement l’avait menée. La question était de savoir
@@ -907,7 +907,7 @@ s’embrasèrent soudain et passèrent de l’orange à un vert vif bilieux.
 « Ah ! » dit le professeur McGonagall au milieu de ce non-silence gêné.
 « Je crois que c’est Maugrey Fol Œil. »
 
-« Laissons ce problème reposer pour le moment, » dit le directeur avec
+« Laissons ce problème reposer pour le moment », dit le directeur avec
 quelque soulagement alors qu’il se tournait pour regarder la cheminée.
 « Je crois aussi que nous sommes sur le point d’apprendre des nouvelles
 le concernant. »
@@ -931,7 +931,7 @@ Pendant ce temps, dans la grande salle de Poudlard, alors que les élèves
 n’ayant pas de réunion secrète avec le directeur s’occupaient de dîner,
 assis à quatre énormes tables…
 
-« C’est drôle, » dit Dean Thomas d’un ton pensif. « Je n’ai pas cru le
+« C’est drôle », dit Dean Thomas d’un ton pensif. « Je n’ai pas cru le
 général quand il nous a dit que ce que nous avions appris nous
 changerait pour toujours, que nous ne pourrions jamais revenir à une vie
 normale. Maintenant que nous savions. Maintenant que nous pouvions voir
@@ -952,21 +952,21 @@ Autour d’eux, les conversations de la table Gryffondor continuaient.
 Elles n’étaient pas aussi *opiniâtres* que la veille, mais ici et là le
 sujet refaisait surface.
 
-« Ben il doit y avoir eu une *sorte* de triangle amoureux, » dit une
+« Ben il doit y avoir eu une *sorte* de triangle amoureux », dit une
 sorcière en deuxième année nommée Samantha Crowley (elle ne répondait
 jamais quand on lui demandait s’il y avait un rapport). « La question est
 de savoir ce qui se passait avant que tout déraille. Qui était amoureux
 de qui – si cette personne aimait en retour – je ne sais pas *combien*
 il y a de possibilités… »
 
-« Soixante-quatre, » dit Sarah Varyabil, une beauté en pleine floraison
+« Soixante-quatre », dit Sarah Varyabil, une beauté en pleine floraison
 qui aurait dû être répartie à Serdaigle ou à Poufsouffle. « Non, attends,
 c’est faux. Enfin si personne n’aime Malefoy et que Malefoy n’aime
 personne alors il ne fait pas vraiment partie du triangle amoureux… je
 vais avoir besoin d’Arithmancie, est-ce que vous pourriez attendre deux
 minutes ? »
 
-« C’est tellement *triste*, » dit Sherice Ngaserin dont les yeux étaient
+« C’est tellement *triste* », dit Sherice Ngaserin dont les yeux étaient
 réellement larmoyants. « Ils étaient juste… ils étaient si *évidemment*
 destinés à finir ensembles ! »
 
@@ -974,16 +974,16 @@ destinés à finir ensembles ! »
 de Colleen Johnson. « Je sais – leurs familles se haïssaient tellement,
 il ne pouvaient pas ne *pas* tomber amoureux… »
 
-« Non, je veux dire les trois, » dit Sherice.
+« Non, je veux dire les trois », dit Sherice.
 
 Ce qui provoqua un bref silence au sein du groupe. Dean Thomas
 s’étrangla discrètement sur sa limonade et essaya de ne faire aucun
 bruit alors lorsqu’elle coula de sa bouche et inonda sa chemise.
 
-« *Wow*, » dit une sorcière aux cheveux noirs du nom de Nancy Hua. « C’est
+« *Wow* », dit une sorcière aux cheveux noirs du nom de Nancy Hua. « C’est
 vraiment… *sophistiqué* de ta part, Sherice. »
 
-« Écoutez-moi tous, on doit rester réalistes, » dit Eloise Rosen, une
+« Écoutez-moi tous, on doit rester réalistes », dit Eloise Rosen, une
 grande sorcière qui avait été générale et parlait donc avec un air
 d’autorité. « On *sait* – parce qu’elle l’a embrassé – que Granger était
 amoureuse de Harry Potter. Donc la seule raison pour laquelle elle
@@ -993,7 +993,7 @@ comportez tous comme si c’était une pièce de théâtre, et pas la vraie
 vie ! »
 
 « Mais même si Granger était amoureuse, c’est quand même drôle qu’elle
-ait juste *craqué* comme ça, » dit Chloé, que ses robes noires alliées à
+ait juste *craqué* comme ça », dit Chloé, que ses robes noires alliées à
 sa peau couleur d’encre faisaient ressembler à une sombre silhouette.
 « Je ne sais pas… je pense qu’il y a plus qu’un roman d’amour qui a mal
 tourné derrière tout ça. Je pense que la plupart des gens n’ont
@@ -1021,7 +1021,7 @@ différent des… vous savez, des choses *normales* dont parlent les gens
 a fait, exactement comme Potter a essayé d’en convaincre tout le
 monde ? »
 
-« Je pense que Chloé a raison, » dit un sorcier à l’air étranger qui se
+« Je pense que Chloé a raison », dit un sorcier à l’air étranger qui se
 présentait toujours sous le nom d’Adrian Turnipseed, même si ses parents
 l’avaient en fait appelé Mad Drongo. « Je pense que pendant tout ce temps
 il y a eu… » Adrian baissa la voix et prit un air sinistre, « …une *main
@@ -1031,10 +1031,10 @@ parle pas du professeur Rogue. »
 
 « Tu ne veux pas dire… » s’étrangla Sarah.
 
-« Si, » dit Adrian. « Le véritable auteur de tout ceci est… *Tracey
+« Si », dit Adrian. « Le véritable auteur de tout ceci est… *Tracey
 Davis !* »
 
-« C’est ce que je pense aussi, » dit Chloé. « Après tout… » elle regarda
+« C’est ce que je pense aussi », dit Chloé. « Après tout… » elle regarda
 rapidement autour d’elle. « Depuis cette affaire avec les brutes et le
 plafond… même les arbres dans la forêt autour de Poudlard ont l’air de
 *trembler*, comme s’ils avaient *peur…* »
@@ -1043,14 +1043,14 @@ Seamus Finnigan fronçait les sourcils d’un air pensif. « Je pense que je
 vois d’où Harry tire son… *tu sais quoi*… » acheva-t-il en abaissant sa
 voix afin que seuls Lavande et Dean puissent entendre.
 
-« Oh, je vois carrément ce que tu veux dire, » dit Lavande. Elle ne se
+« Oh, je vois carrément ce que tu veux dire », dit Lavande. Elle ne se
 fatigua pas à baisser la voix. « c’est à se demander comment il a fait
 pour ne pas craquer et juste tuer tout le monde il y a des *lustres*. »
 
-« Personnellement, » dit Dean d’une voix tout aussi basse, « je trouve que
+« Personnellement », dit Dean d’une voix tout aussi basse, « je trouve que
 ce qui est vraiment effrayant c’est que… ça aurait pu être *nous*. »
 
-« Ouais, » dit Lavande. « Heureusement que *nous* sommes tous parfaitement
+« Ouais », dit Lavande. « Heureusement que *nous* sommes tous parfaitement
 sains d’esprit. »
 
 Dean et Seamus hochèrent solennellement la tête.
@@ -1116,11 +1116,11 @@ bleu étincelant.
 Lorsque l’homme balafré parla à l’adresse du directeur et sa voix était
 coupante. « J’imagine que tu crois que la pièce est sécurisée ? »
 
-« Il n’y a que des amis ici, » dit Dumbledore.
+« Il n’y a que des amis ici », dit Dumbledore.
 
 La tête de l’homme s’orienta rapidement vers Harry. « Y compris *lui* ? »
 
-« Si Harry Potter n’est pas notre ami, » dit Dumbledore d’un ton grave,
+« Si Harry Potter n’est pas notre ami », dit Dumbledore d’un ton grave,
 « alors nous sommes tous certainement perdus ; autant donc supposer qu’il
 l’est. »
 
@@ -1136,7 +1136,7 @@ précédente, où elle avait été presque braquée vers Harry, mais il ne
 l’abaissa pas, et laissa échapper un court aboiement en guise de rire.
 « Vigilance constante, hein, mon gars ? » dit l’homme.
 
-« Ce n’est pas de la paranoïa s’ils en ont vraiment après votre peau, »
+« Ce n’est pas de la paranoïa s’ils en ont vraiment après votre peau »,
 dit Harry en récitant le proverbe.
 
 L’homme fit pleinement face à Harry ; et si tenté que ce dernier puisse
@@ -1151,7 +1151,7 @@ Phénix après moi ; si jamais quelque chose devait m’arriver, bien sûr.
 Alastor, voici Harry Potter. J’ai les plus grands espoirs de vous voir
 vous entendre *à merveille*. »
 
-« J’ai beaucoup entendu parler de toi, garçon, » dit Maugrey Fol Œil. Son
+« J’ai beaucoup entendu parler de toi, garçon », dit Maugrey Fol Œil. Son
 œil noir naturel demeura fixé sur Harry et le point de bleu étincelant
 pivota frénétiquement et sembla faire un tour complet dans son orbite.
 « Pas que du bon. Entendu dire qu’ils t’appellent l’épouve-détraqueur au
@@ -1166,7 +1166,7 @@ Azkaban. Beth Martin a dit qu’il était venu droit de la fosse et que
 personne ne lui avait donné d’instruction particulière en chemin. Bien
 sûr, elle pourrait mentir. »
 
-« Je n’ai utilisé aucune astuce cette fois, » dit Harry. « J’y ai juste été
+« Je n’ai utilisé aucune astuce cette fois », dit Harry. « J’y ai juste été
 à la dure. Bien sûr, je pourrais aussi mentir. »
 
 Dumbledore était renversé dans sa chaise et gloussait à l’arrière plan,
@@ -1184,17 +1184,17 @@ Voldie. Tu es certain que son ombre est à Poudlard en ce moment ? »
 Seigneur des Ténèbres n’existait pas, c’était un choc d’en entendre
 parler d’un ton aussi nonchalant.
 
-« L’hôte de Voldie, » dit sèchement Maugrey. « Celui qu’il possédait avant
+« L’hôte de Voldie », dit sèchement Maugrey. « Celui qu’il possédait avant
 de s’emparer de Granger. »
 
-« Si les histoires sont vraies, » dit Dumbledore, « il existe un instrument
+« Si les histoires sont vraies », dit Dumbledore, « il existe un instrument
 de pouvoir qui lie l’ombre de Voldemort à ce monde ; et par ce moyen il
 est en mesure de négocier avec des hôtes potentiel pour obtenir
 possession de leur corps et leur conférer alors quelque portion de son
 pouvoir et de son orgueil… »
 
 « Donc la question évidente est : “Qui est devenu trop puissant trop
-vite ?”, » dit soudain Maugrey. « Et il s’avère qu’il y a un type qui est
+vite ?” », dit soudain Maugrey. « Et il s’avère qu’il y a un type qui est
 allé bannir la Banshee de Bandon, qui s’est farçit tout un clan de
 vampires renégats en Asie, qui a pisté le loup-garou de Wagga-Wagga et
 qui a exterminé une horde de goules avec une passoire à thé. *Et* il
@@ -1202,20 +1202,20 @@ exploite la situation au maximum ; certains parlent de l’Ordre de
 Merlin. L’air d’être devenu un charmeur et un politicien, pas seulement
 un puissant sorcier. »
 
-« Sapristi, » murmura Dumbledore. « Es-tu certain qu’il ne se repose pas
+« Sapristi », murmura Dumbledore. « Es-tu certain qu’il ne se repose pas
 sur ses propres capacités ? »
 
-« Vérifié ses notes, » dit Maugrey. « Bulletins montrent que Gilderoy
+« Vérifié ses notes », dit Maugrey. « Bulletins montrent que Gilderoy
 Lockhart a reçu un Troll à son BUSE de Défense et qu’il ne s’est pas
 fatigué à passer l’ASPIC. Exactement le genre de couillon qui
 accepterait l’offre de Voldie. » L’œil tourbillonna follement dans son
 orbite. « À moins que tu ne te souviennes de Lockhart élève et que tu que
 penses qu’il avait assez de potentiel pour faire tout ça seul ? »
 
-« Non, » dit le professeur McGonagall. Elle fronça les sourcils. « Je dois
+« Non », dit le professeur McGonagall. Elle fronça les sourcils. « Je dois
 dire que c’est impossible. »
 
-« J’ai peur d’être d’accord, » dit Dumbledore d’un ton empreint de peine.
+« J’ai peur d’être d’accord », dit Dumbledore d’un ton empreint de peine.
 « Ah, Gilderoy, pauvre idiot… »
 
 Le sourire de Maugrey ressemblait plutôt à un retroussement de babines.
@@ -1225,7 +1225,7 @@ chez lui cette nuit. »
 Harry avait écouté cela de plus en plus alarmé et se demandait si le
 *Ministère* avait des règles imposant aux magistrats de délivrer des
 mandats d’arrêt – sans même parler de l’organisation illégale de
-justiciers qu’il semblait maintenant avoir rejoint. « Excusez-moi, » dit
+justiciers qu’il semblait maintenant avoir rejoint. « Excusez-moi », dit
 Harry. « Qu’est-ce qui se passe *exactement* à trois heures du matin ? »
 
 Quelque chose dans le ton de sa voix dut vendre la mèche car l’homme
@@ -1237,13 +1237,13 @@ pour cet étranger…
 « Tu veux le descendre toi-même ? » insista l’homme balafré. « Avoir ta
 vengeance pour tes parents, hein ? »
 
-« Non, » dit Harry le plus poliment possible. « Honnêtement… écoutez, si on
+« Non », dit Harry le plus poliment possible. « Honnêtement… écoutez, si on
 était *certain* qu’il était un hôte volontaire de Vous-Savez-Qui, ce
 serait une chose, mais si on en est pas *certain* et que vous partez le
 tuer… »
 
 « Tuer ? » renifla Maugrey Fol Œil. « C’est ce qui est coincé dans sa
-tête, » dit Maugrey en se frappant le front « qu’on veut de lui, garçon.
+tête », dit Maugrey en se frappant le front « qu’on veut de lui, garçon.
 Si on a de la chance, Voldie ne peut pas effacer les souvenirs du
 couillon aussi facilement que de son vivant et Lockhart se souviendra de
 l’apparence du Horcruxe. »
@@ -1253,7 +1253,7 @@ Harry nota mentalement le mot *Horcruxe* pour recherche future et dit :
 l’air plutôt bien, s’il a *tout* fait lui-même… est sur le point de
 souffrir. »
 
-« Les Aurors font du mal aux gens, » répondit l’homme balafré d’un ton
+« Les Aurors font du mal aux gens », répondit l’homme balafré d’un ton
 sec. « Aux gens mauvais si t’es chanceux. Parfois tu seras pas chanceux,
 et c’est comme ça. Rappelle toi juste : les mages noirs font du mal à
 beaucoup plus de gens que nous. »
@@ -1265,7 +1265,7 @@ ne pas faire de mal à cette personne au cas où elle ne serait *pas*… »
 l’homme balafré, faisant maintenant face au directeur. « Et ne me dis pas
 que c’est à cause de ce qu’il a fait quand il était bébé ».
 
-« Harry Potter n’est pas un élève de première année ordinaire, » dit
+« Harry Potter n’est pas un élève de première année ordinaire », dit
 doucement le directeur. « Il a déjà accompli des prouesses suffisamment
 impossibles pour me surprendre moi, Alastor. C’est le seul intellect de
 l’Ordre qui pourrait un jour rivaliser avec celui de Voldemort, ce que
@@ -1299,14 +1299,14 @@ feu…
 Harry parvint à détacher son regard de celui de Maugrey et baissa les
 yeux jusqu’au menton de ce dernier.
 
-« Tu manques de pratique, garçon, » dit Maugrey. Harry ne regardait pas le
+« Tu manques de pratique, garçon », dit Maugrey. Harry ne regardait pas le
 visage de l’homme mais la voix de ce dernier était mortellement lugubre.
 « Et je ne te préviendrai qu’une fois : Voldie n’est pas comme les autres
 Legilimens de l’Histoire. Il n’a pas besoin de te regarder dans les yeux
 et si tes boucliers sont aussi rouillés il viendra si doucement que tu
 ne te rendras compte de rien. »
 
-« Bien noté, » dit Harry à l’intention du menton recouvert de cicatrices.
+« Bien noté », dit Harry à l’intention du menton recouvert de cicatrices.
 Il était plus secoué qu’il ne l’avait admis. M. Bester avait été très
 loin de ce niveau de puissance et n’avait jamais mis Harry à l’épreuve
 *comme ça*. Faire semblait d’être quelqu’un qui souffrait à ce point
@@ -1323,7 +1323,7 @@ gris sombre et bleu étincelant.
 
 « Déjà vu quelqu’un mourir ? » demanda Maugrey Fol Œil.
 
-« Mes parents, » dit Harry d’un ton neutre. « J’ai retrouvé le souvenir en
+« Mes parents », dit Harry d’un ton neutre. « J’ai retrouvé le souvenir en
 janvier quand j’ai fait face à un Détraqueur pour apprendre le Patronus.
 Je me souviens de la voix de Vous-Savez-Qui… » un frisson parcourut le
 corps de Harry, et sa baguette, dans sa main, eut un bref mouvement
@@ -1334,7 +1334,7 @@ demi-seconde, mais vous le saviez probablement déjà. »
 Il y eut un hoquet venant du professeur McGonagall et le visage de
 Severus se contracta.
 
-« Très bien, » dit doucement Maugrey Fol Œil. Un étrange, fin sourire
+« Très bien », dit doucement Maugrey Fol Œil. Un étrange, fin sourire
 tordit les lèvres du visage balafré. « Je te ferai la même offre que je
 fais à tous mes Aurors en entraînement. Touche-moi une fois, garçon – un
 coup, un sort – et je te concéderai le droit de me parler sur le ton qui
@@ -1351,7 +1351,7 @@ de là où il était mais ça n’avait pas d’importance. Il n’y avait qu’
 seul appareil qu’il avait vraiment voulu regarder, et le but de tous les
 autres regards avait été de masquer celui là.
 
-« Très bien très bien, » dit Harry, et il sauta de sa chaise, ignorant le
+« Très bien très bien », dit Harry, et il sauta de sa chaise, ignorant le
 hoquet du professeur McGonagall et le reniflement incrédule du maître
 des potions. Un sourcil de Dumbledore s’était soulevé et Maugrey
 souriait comme un tigre. « Assurez-vous de me réveiller dans quarante
@@ -1370,12 +1370,12 @@ de coton.
 Tout le monde était parti du bureau du directeur, le feu de cheminette
 était faible ; seul Dumbledore attendait derrière le bureau.
 
-« Bonjour, Harry, » dit doucement le directeur.
+« Bonjour, Harry », dit doucement le directeur.
 
-« Je ne l’ai même pas vu *bouger*, » s’extasia-t-il tout en sentant ses
+« Je ne l’ai même pas vu *bouger* », s’extasia-t-il tout en sentant ses
 muscles grincer à mesure qu’il se relevait.
 
-« Tu te tenais à deux pas d’Alastor Maugrey, » dit Dumbledore, « et tes
+« Tu te tenais à deux pas d’Alastor Maugrey », dit Dumbledore, « et tes
 yeux ont quitté sa baguette. »
 
 Harry hocha la tête en prenant la Cape d’Invisibilité de sa bourse. « je
@@ -1385,7 +1385,7 @@ que *c’était* impressionnant. »
 
 « Alors tu avais tout prévu, Harry ? » dit Dumbledore.
 
-« Bien sûr, » dit Harry. « Remarquez comme je fais ça dès que je me
+« Bien sûr », dit Harry. « Remarquez comme je fais ça dès que je me
 réveille au lieu de m’arrêter pour réfléchir. »
 
 Harry passa la Cape au-dessus de sa tête et leva les yeux vers l’horloge
@@ -1406,15 +1406,15 @@ c’était totalement ridicule, il s’agissait de *Maugrey Fol Œil* et
 c’était plus qu’impossible. Bien sûr, c’était aussi ce qu’elle avait
 pensé de la métamorphose partielle…
 
-« Allons-y alors, » dit Harry, puis il tomba par terre.
+« Allons-y alors », dit Harry, puis il tomba par terre.
 
 Severus eut un unique gloussement. « M. Potter a ses qualités, je dois
-l’admettre, » dit le maître des potions. « Même si je ne le dirais jamais
+l’admettre », dit le maître des potions. « Même si je ne le dirais jamais
 s’il était réveillé, et si vous répétez mes paroles, je les nierai, car
 l’ego du garçon est suffisamment grand. M. Potter a ses qualités,
 Maugrey, mais le duel n’en fait pas partie. »
 
-Le gloussement de Maugrey fut plus bas et plus sombre. « Oh oui, » dit
+Le gloussement de Maugrey fut plus bas et plus sombre. « Oh oui », dit
 Maugrey. « Seuls les idiots se battent en duel. Se tenir comme ça et
 attendre que j’attaque, à *quoi* pensait-il ? Allons, je dois lui donner
 une cicatrice pour qu’il n’oublie pas l’occasion… »
@@ -1440,9 +1440,9 @@ de frapper *quelque chose* qui tomba au sol avec un bruit sourd…
 
 
 
-« Rebonjour, Harry, » dit Dumbledore.
+« Rebonjour, Harry », dit Dumbledore.
 
-« Je n’arrive pas à *croire* que ce type a un temps de réaction pareil, »
+« Je n’arrive pas à *croire* que ce type a un temps de réaction pareil »,
 dit Harry en époussetant sa Cape et en se relevant de l’endroit où il
 était resté étendu et inaperçu de son lui précédent. « Je n’arrive pas
 non plus à croire à sa vitesse de déplacement. Je vais devoir trouver un
@@ -1489,7 +1489,7 @@ secoué.
 La tête de Harry apparut, flottante dans le vide, et une main invisible
 rejeta la capuche de sa cape d’invisibilité.
 
-« Cet œil, » dit Harry Potter. Il y avait une étrange lueur féroce dans
+« Cet œil », dit Harry Potter. Il y avait une étrange lueur féroce dans
 les yeux du garçon. « Ce n’est pas un appareil ordinaire. Il voit
 parfaitement à travers ma cape d’invisibilité. Vous avez évité mon taser
 métamorphosé dès que j’ai commencé à le brandir, alors que je n’avais
@@ -1499,22 +1499,22 @@ seconde où vous êtes arrivé par la cheminette, n’est-ce pas ? »
 
 Maugrey Fol Œil souriait, le même sourire carnassier qu’elle l’avait vu
 avoir lorsqu’ils faisaient face à Voldemort lui-même. « Passe cent ans à
-chasser les mages noirs et tu verras tout, » dit Maugrey. « Un jour j’ai
+chasser les mages noirs et tu verras tout », dit Maugrey. « Un jour j’ai
 arrêté un jeune japonais qui avait essayé une astuce similaire. Il a
 découvert d’une façon déplaisante que sa technique de clones de l’ombre
 n’était pas à la hauteur de cet œil. »
 
-« Vous voyez dans toutes les directions, » dit Harry Potter, cette étrange
+« Vous voyez dans toutes les directions », dit Harry Potter, cette étrange
 lueur féroce toujours dans son regard. « Peu importe là où il regarde, il
 voit tout autour de vous. »
 
 Le sourire de tigre de Maugrey s’élargit. « Il n’y a pas d’autres toi
-dans cette pièce, maintenant, » dit Maugrey. « Tu penses que c’est parce
+dans cette pièce, maintenant », dit Maugrey. « Tu penses que c’est parce
 que tu abandonneras après cette fois ou parce que tu gagneras ? Envie de
 parier, garçon ? »
 
 « C’est mon dernier essai parce que j’ai décidé de mettre mes trois
-dernières heures sur ce coup, » dit Harry Potter. « Quant à savoir si je
+dernières heures sur ce coup », dit Harry Potter. « Quant à savoir si je
 gagne… »
 
 Un flou emplit tout le bureau du directeur. Maugrey Fol Œil bondit de
@@ -1542,7 +1542,7 @@ Minerva McGonagall dit : « Par *Merlin*, qu’est-ce qui vient de… »
 
 
 
-« Donc tu es allé voir Flitwick, » dit Maugrey. L’Auror à la retraite
+« Donc tu es allé voir Flitwick », dit Maugrey. L’Auror à la retraite
 était maintenant assis sur une chaise et buvait de longue gorgées d’une
 potion de restauration qu’il avait prise de sa ceinture.
 
@@ -1602,7 +1602,7 @@ nous deux ne se battait sérieusement. »
 
 « *Aucun de vous deux ?* »
 
-« Bien sûr, » dit Harry. « Dans un combat sérieux, M. Maugrey aurait abattu
+« Bien sûr », dit Harry. « Dans un combat sérieux, M. Maugrey aurait abattu
 toutes mes copies immédiatement sans attendre qu’elles attaquent. Et de
 mon côté, si ça avait été *vraiment* nécessaire de descendre le plus
 célèbre Auror de l’histoire du bureau, j’aurais obtenu de Dumbledore
@@ -1616,7 +1616,7 @@ et n’a cesse de redonner une chance à l’autre – comme M. Maugrey n’a eu
 cesse de le faire – eh bien il faudrait être plutôt pathétique pour
 réussir à perdre. »
 
-« Oh, pas *si* pathétique que ça, » dit Maugrey avec un sourire légèrement
+« Oh, pas *si* pathétique que ça », dit Maugrey avec un sourire légèrement
 menaçant.
 
 Harry ne sembla pas le remarquer. « On pourrait dire que M. Maugrey me
@@ -1636,7 +1636,7 @@ si flatteur que ça pour moi puisqu’il m’a en fait fallu trois essais
 pour l’avoir. Et puis, comme je l’ai dit, dans un vrai combat, M.
 Maugrey aurait pu *se* rendre invisible, ou lever ses boucliers… »
 
-« Ne te repose pas trop sur les boucliers, garçon, » dit Maugrey. L’Auror
+« Ne te repose pas trop sur les boucliers, garçon », dit Maugrey. L’Auror
 vêtu de cuir prit une autre gorgée de sa fiole réparatrice. « Ce que tu
 apprends en première année à l’académie ne reste pas vrai pour toujours,
 pas contre les mages noirs les plus puissants. Pour chaque bouclier
@@ -1653,7 +1653,7 @@ lance le sortilège de la mort. Une deuxième fois. »
 Un soupir triste du Survivant. « Je sais. Désolé. »
 
 Harry ouvrit la bouche, puis s’interrompit. « Je ne vous dirai pas
-comment mener une guerre, » dit enfin le Survivant. « Je n’ai aucune
+comment mener une guerre », dit enfin le Survivant. « Je n’ai aucune
 expérience en la matière. Tout ce que je sais c’est qu’il y a des
 conséquences. Sachez s’il vous plaît que selon moi Lockhart est
 probablement innocent, donc si vous pouvez éviter de lui faire du mal
@@ -1661,7 +1661,7 @@ sans prendre trop de risques… » le garçon haussa les épaules. « J’en
 ignore le coût. Juste, s’il vous plaît, dans la mesure du possible et
 s’il s’avère innocent, faites attention à ne pas lui faire trop de mal. »
 
-« Si je peux, » dit Maugrey.
+« Si je peux », dit Maugrey.
 
 « Et… vous comptez observer son esprit à la recherche d’indices
 concernant le Seigneur des Ténèbres, n’est-ce pas ? Je ne connais pas
@@ -1686,7 +1686,7 @@ cette faveur. »
 
 « Y a-t-il autre chose, Alastor ? » s’enquit Albus.
 
-« Oui, » dit Maugrey. « Au sujet de ce professeur de Défense que vous avez
+« Oui », dit Maugrey. « Au sujet de ce professeur de Défense que vous avez
 chez vous… »
 
 *Hypothèse : Gilderoy Lockhart : FIN*
@@ -1724,7 +1724,7 @@ de magie en l’absence de baguette, mais il continuait à en utiliser une
 lorsque le sujet avait une taille suffisante – mais pour lui ce n’était
 peut-être qu’une question de confort…
 
-« La folie, » dit le professeur Quirrell en sirotant précautionneusement
+« La folie », dit le professeur Quirrell en sirotant précautionneusement
 son thé – il regardait la tasse, pas Harry, ce qui était inhabituel chez
 lui — « peut constituer une signature. »
 
@@ -1733,7 +1733,7 @@ insonorisée tranquille comme le bureau du directeur ne pourrait jamais
 l’être. Ils achevaient parfois d’inspirer ou d’expirer au même moment ;
 apparaissait alors un vide auditif qui était lui-même presque un son.
 
-« Je suis d’accord, en un sens, » dit Harry. « Si quelqu’un me dit que tout
+« Je suis d’accord, en un sens », dit Harry. « Si quelqu’un me dit que tout
 le monde le *regarde* et que ses sous-vêtements sont nettoyés à la
 poudre contrôleuse de pensées, je sais qu’il est psychotique, parce que
 c’est la signature standard de la psychose. Mais si vous me dites que
@@ -1756,12 +1756,12 @@ s’être rendu compte de la facilité avec laquelle le professeur de
 Défense aurait pu y téléporter un peu de potion, et ce même si aucun des
 deux ne pouvait directement toucher l’autre par sa magie.
 
-« J’ai maintenant un peu observé Dumbledore, » dit Harry. « À moins que
+« J’ai maintenant un peu observé Dumbledore », dit Harry. « À moins que
 tout ce que j’ai vu n’ait été un mensonge, je trouve difficile de le
 croire ne serait-ce que capable de construire un plan dans lequel l’une
 de ses élèves est envoyée à Azkaban. »
 
-« Ah, » dit doucement le professeur de Défense, un petit reflet de la
+« Ah », dit doucement le professeur de Défense, un petit reflet de la
 tasse brillant dans ses yeux pâles. « Mais peut-être est-ce une autre
 signature, M. Potter. Vous n’avez pas encore compris la perspective d’un
 homme tel que Dumbledore. S’il doit, pour quelque cause suffisamment
@@ -1782,7 +1782,7 @@ Le concept de « preuve » avait un sens quelque peu différent lorsque vous
 aviez affaire à quelqu’un qui se déclarait jouer « un niveau au-dessus de
 vous ».
 
-« Je vois où vous voulez en venir, professeur, » dit Harry d’un ton
+« Je vois où vous voulez en venir, professeur », dit Harry d’un ton
 neutre, sans laisser rien paraître de ses autres pensées. « Vous
 pensez-donc que le plus probable est que le directeur a piégé
 Hermione ? »
@@ -1796,7 +1796,7 @@ suspect. »
 « Alors qui est-ce ? » dit Harry, un peu perplexe. Le professeur Quirrell
 n’était sûrement pas sur le point de répondre « Vous-Savez-Qui »…
 
-« Les Aurors ont une règle, » dit le professeur Quirrell. « Enquêter sur la
+« Les Aurors ont une règle », dit le professeur Quirrell. « Enquêter sur la
 victime. De nombreux soi-disant criminels s’imaginent que s’ils semblent
 être les victimes d’un crime, ils ne seront pas soupçonnés. Tant de
 criminels se l’imaginent, à vrai dire, que tout Auror galonné a déjà
@@ -1820,7 +1820,7 @@ en partie réussi à faire changer le point de vue politique de M. Malefoy.
 Si Lucius Malefoy a appris cela plus tôt… il a pu décider que son
 *ancien* héritier est devenu un fardeau. »
 
-« Je n’y crois pas, » dit catégoriquement Harry.
+« Je n’y crois pas », dit catégoriquement Harry.
 
 « Vous voilà naïf par caprice, M. Potter. Les livres d’Histoire sont
 pleins de disputes familiales devenues meurtrières à cause de problèmes
@@ -1829,7 +1829,7 @@ J’imagine que vous me direz ensuite que Lord Malefoy des Mangemorts est
 bien trop bon pour souhaiter autant de mal à son fils. » Un soupçon de
 lourd sarcasme.
 
-« Eh bien oui, franchement, » dit Harry. « L’amour existe, professeur,
+« Eh bien oui, franchement », dit Harry. « L’amour existe, professeur,
 c’est un phénomène dont les effets sont observables. Les cerveaux sont
 réels, les émotions sont réelles, et l’amour fait autant partie de la
 réalité que les pommes et les arbres. Si vous faisiez des prédictions
@@ -1849,14 +1849,14 @@ ait renoncé à ce rôle après avoir appris que Drago fomentait avec des
 nés-Moldus. Mais comme on dit, professeur, il faut distinguer la
 possibilité de la probabilité. »
 
-« Le crime n’en est que meilleur, » dit le professeur de Défense, toujours
+« Le crime n’en est que meilleur », dit le professeur de Défense, toujours
 de ce ton doux, « si personne n’est prêt à croire qu’il l’a commis. »
 
 « Et pour commencer, comment Lucius modifierait-il la mémoire de Hermione
 sans alerter le système de sécurité ? *Il* n’est pas professeur… ah,
 oui, vous pensez que c’est le professeur Rogue. »
 
-« Faux, » dit le professeur de Défense. « Lucius Malefoy ne se reposerait
+« Faux », dit le professeur de Défense. « Lucius Malefoy ne se reposerait
 sur aucun de ses serviteurs pour cette mission. Mais supposez qu’un
 professeur de Poudlard, assez intelligent pour bien lancer un sortilège
 d’amnésie mais sans grande capacité au combat, visite Pré-au-Lard. D’une
@@ -1865,7 +1865,7 @@ personne, pour cela – et lui un seul mot. »
 
 « Imperium. »
 
-« *Legilimens*, plutôt, » dit le professeur Quirrell. « Je ne sais pas si
+« *Legilimens*, plutôt », dit le professeur Quirrell. « Je ne sais pas si
 le système de sécurité de Poudlard s’activerait au retour d’un
 professeur victime de l’Imperium. Et si je l’ignore, Malefoy l’ignore
 probablement aussi. Mais Malefoy est au moins un parfait Occlumens ; il
@@ -1873,17 +1873,17 @@ pourrait user de Légilimancie. Et quant à la cible… peut-être Aurora
 Sinistra ; personne ne s’interrogerait sur les mouvements nocturnes du
 professeur d’Astronomie. »
 
-« Ou de façon encore plus évidente, le professeur Chourave, » dit Harry.
+« Ou de façon encore plus évidente, le professeur Chourave », dit Harry.
 « Puisqu’elle est la dernière personne que quiconque soupçonnerait. »
 
 Le professeur de Défense hésita avec minutie. « Peut-être. »
 
-« En fait, » dit alors Harry en fronçant pensivement les sourcils. « Je
+« En fait », dit alors Harry en fronçant pensivement les sourcils. « Je
 suppose que vous n’auriez pas à l’esprit les noms des professeur actuels
 qui étaient à Poudlard en 1943, quand M. Hagrid s’est fait avoir ? »
 
 « Dumbledore enseignait la métamorphose, Kettleburn les créatures
-magiques et Vector l’Arithmancie, » répondit immédiatement le professeur
+magiques et Vector l’Arithmancie », répondit immédiatement le professeur
 Quirrell. « Et je crois que Bathesda Babbling, maintenant aux anciennes
 runes, était alors préfète Serdaigle. Mais M. Potter, il n’y a aucune
 raison de croire que quiconque hormis Vous-Savez-Qui était impliqué dans
@@ -1915,10 +1915,10 @@ de grincer des dents ? Vraiment envoyer Hermione à Azkaban ne pouvait
 pas avoir tant d’importance que cela pour lui. »
 
 Il y eut un silence. « Peut-être s’est-il laissé emporter par le rôle
-qu’il jouait, » dit le professeur Quirrell. « Cela arrive, M. Potter, dans
+qu’il jouait », dit le professeur Quirrell. « Cela arrive, M. Potter, dans
 le feu de l’action. »
 
-« Possible, » dit Harry. « Mais c’est une *improbabilité* de plus à
+« Possible », dit Harry. « Mais c’est une *improbabilité* de plus à
 postuler – et après s’être vue offrir autant d’excuses, une théorie ne
 peut plus être en tête de liste. Autre chose en particulier à laquelle
 vous pensez que je devrais réfléchir, parmi toutes les autres
@@ -1927,7 +1927,7 @@ possibilités ? »
 Il y eut un long silence. Les yeux du professeur de Défense
 s’abaissèrent vers sa tasse ; ils semblaient inhabituellement distants.
 
-« J’imagine que je peux songer à un dernier suspect, » dit enfin le
+« J’imagine que je peux songer à un dernier suspect », dit enfin le
 professeur de Défense.
 
 Harry hocha la tête.
@@ -1944,7 +1944,7 @@ de répondre – *attends, mais comment diable le professeur Quirrell
 pourrait-il être au courant de* ça *-* « Le professeur Trelawney a fait
 une prophétie ? »
 
-« Vous *étiez* là pour en entendre le début, » dit le professeur en
+« Vous *étiez* là pour en entendre le début », dit le professeur en
 fronçant les sourcils. « Vous avez annoncé à l’école entière que la
 prophétie ne pouvait pas vous concerner puisque vous étiez déjà là et ne
 pouviez donc pas être en train d’arriver. »
@@ -1954,7 +1954,7 @@ pouviez donc pas être en train d’arriver. »
 Le professeur Trelawney était allée jusque là avant que Dumbledore ne se
 saisisse d’elle et ne disparaisse.
 
-« Oh, *cette* prophétie, » dit Harry. « Désolé ! Elle m’était complètement
+« Oh, *cette* prophétie », dit Harry. « Désolé ! Elle m’était complètement
 sortie de l’esprit ! »
 
 Harry songea qu’il avait mit trop de force dans la dernière phrase et
@@ -1962,7 +1962,7 @@ s’attendit à 80 % à ce que le professeur Quirrell dise « *Aha, alors M.
 Potter, quelle est cette mystérieuse* autre *prophétie que vous vous
 fatiguez tant à nier…* »
 
-« C’est idiot, » dit le professeur d’un ton sec, « si vous me dites
+« C’est idiot », dit le professeur d’un ton sec, « si vous me dites
 effectivement la vérité. Les prophéties ne sont pas des choses
 triviales. Je me suis creusé la tête sur le peu que j’ai entendu, mais
 un fragment aussi mince ne suffit tout simplement pas. »
@@ -1971,7 +1971,7 @@ un fragment aussi mince ne suffit tout simplement pas. »
 Hermione ? » dit Harry. Au même instant, son esprit allouait une autre
 hypothèse, *prédicat au référent incertain : celui-qui-vient*.
 
-« Sauf le respect de Mlle Granger, » dit le professeur de Défense avec un
+« Sauf le respect de Mlle Granger », dit le professeur de Défense avec un
 autre froncement de sourcil, « sa vie ou sa mort ne semblent pas si
 importantes. Mais quelqu’un *devait* venir – quelqu’un qui, selon votre
 interprétation, n’était pas déjà là – et quelqu’un d’aussi important, un
@@ -1995,10 +1995,10 @@ assez probable que la prophétie ait été dite à l’intention de l’un de
 maintenant exigeante. « Je pense avoir entendu trop de force dans cette
 dénégation, M. Potter. »
 
-« Honnêtement, non, » dit Harry. « Ça m’était sincèrement sorti de la
+« Honnêtement, non », dit Harry. « Ça m’était sincèrement sorti de la
 tête. »
 
-« Alors je suis plutôt remonté contre lui, » dit doucement le professeur
+« Alors je suis plutôt remonté contre lui », dit doucement le professeur
 Quirrell. « En fait, je suis en colère. »
 
 Harry ne dit rien. Il ne sua même pas. C’était peut-être une mauvaise
@@ -2009,14 +2009,14 @@ Le professeur Quirrell hocha la tête une fois, avec force, comme pour
 confirmer quelque chose. « Si nous n’avons plus rien à nous dire, M.
 Potter, vous pouvez disposer. »
 
-« Je peux penser à un *autre* suspect, » dit Harry. « Quelqu’un que vous
+« Je peux penser à un *autre* suspect », dit Harry. « Quelqu’un que vous
 n’avez pas du tout mis sur votre liste. Pourriez-vous l’analyser pour
 moi, professeur ? »
 
 Il y eut un autre de ces moments dont le silence devenait presque un
 son.
 
-« Pour ce qui est de *ce* suspect, » dit doucement le professeur de
+« Pour ce qui est de *ce* suspect », dit doucement le professeur de
 Défense, « je pense que vous mènerez l’accusation vous-même, M. Potter,
 sans aide de ma part. J’ai déjà reçu de telles requêtes, et l’expérience
 me mène à refuser. Soit je ferai un trop bon travail en m’accusant
@@ -2041,7 +2041,7 @@ votre fragile alliance avec l’héritier de la maison Malefoy. »
 
 
 
-« …et j’ai donc peur de devoir partir, » dit Dumbledore d’un ton grave.
+« …et j’ai donc peur de devoir partir », dit Dumbledore d’un ton grave.
 « J’ai promis à Quirinus… c’est-à-dire, j’ai promis au professeur de
 Défense… que je ne tenterai en rien de découvrir sa véritable identité,
 par mes propres moyens ou par ceux d’un autre. »
@@ -2093,7 +2093,7 @@ déterminer lui-même). Ce qui était triste, c’était qu’à ce stade, voir
 son propre corps allongé dans un coin ne lui semblait pas si fou que ça.
 C’était juste… Poudlard.
 
-« Très bien dans ce cas, » dit Maugrey, l’air mécontent de la situation.
+« Très bien dans ce cas », dit Maugrey, l’air mécontent de la situation.
 L’homme sortit un dossier noir de sous son armure de cuir. « C’est une
 copie de ce que les hommes d’Amélia ont rassemblé. Il est presque
 certain qu’elle sait qu’on l’a, mais c’est sous le manteau, compris ?
@@ -2106,7 +2106,7 @@ dans la course au poste de préfet-en-chef) parti en vacance en Albanie
 après avoir reçu son diplôme, disparu, revenu 25 ans plus tard, puis
 pris dans la guerre des sorciers…
 
-« C’est le meurtre de la maison Monroe qui a donné son nom à Voldie, » dit
+« C’est le meurtre de la maison Monroe qui a donné son nom à Voldie », dit
 Maugrey. « Jusqu’alors, il n’avait été qu’un autre mage noir avec des
 délires de grandeur et Bellatrix Black. Mais après ça… » Maugrey renifla.
 « Tous les idiots du pays sont accourus pour le servir. On aurait
@@ -2118,7 +2118,7 @@ première ligne. Il y avait Monroe, Croupton, Bones et Londubat. Ils
 étaient les seuls au ministère à oser dire un mot qui aurait pu offenser
 Voldie. »
 
-« C’est comme ça que votre maison a été anoblie, M. Potter, » intervint la
+« C’est comme ça que votre maison a été anoblie, M. Potter », intervint la
 voix solennelle du Professeur McGonagall. « Il existe une ancienne loi
 disant que si quiconque met fin à une Très Ancienne Maison, quiconque
 venge son sang sera anobli. La Maison Potter était certainement déjà
@@ -2127,7 +2127,7 @@ reçut le titre de Noble Maison d’Angleterre qu’après la fin de la
 guerre, en signe de reconnaissance du fait qu’elle avait vengé la Très
 Ancienne Maison des Monroe. »
 
-« Gratitude et tout ça, » dit Maugrey avec aigreur. « Ça n’a pas duré, mais
+« Gratitude et tout ça », dit Maugrey avec aigreur. « Ça n’a pas duré, mais
 au moins James et Lily ont eu un beau titre et une médaille inutile à
 emmener dans leur tombe. Mais c’est oublier huit ans d’horreur complète
 après la disparition de Monroe et l’exécution de Regulus Black — il
@@ -2143,7 +2143,7 @@ discours que le Professeur Quirrell avait fait avant Noël… et pourtant…
 
 Ils parlaient quand même du *Professeur Quirrell*.
 
-« Donc voilà qui le département pense que le Professeur de Défense est, »
+« Donc voilà qui le département pense que le Professeur de Défense est »,
 dit Maugrey Fol Œil, concluant son rapport. « Maintenant qu’est-ce que
 *tu* en penses, petit ? »
 
@@ -2158,14 +2158,14 @@ prétend être David Monroe prétendant être Quirinus Quirrell. »
 rapidement. « Je dirais que c’est un peu… *paranoïaque*. »
 
 *Vous ne connaissez pas le Professeur Quirrell*, ne répondit pas Harry.
-« C’est une théorie simple à vérifier, » dit-il à voix haute. « Regardez
+« C’est une théorie simple à vérifier », dit-il à voix haute. « Regardez
 juste si le Professeur de Défense se souvient d’un fait concernant la
 guerre que le véritable David Monroe aurait connu. Bien que je suppose
 que s’il joue le rôle d’un David Monroe *prétendant* être quelqu’un
 d’autre, il a une bonne excuse pour *prétendre* qu’il prétend ne pas
 savoir de quoi vous parlez. »
 
-« Un *peu* paranoïaque, » dit l’homme balafré d’une voix qui montait.
+« Un *peu* paranoïaque », dit l’homme balafré d’une voix qui montait.
 « *Pas assez paranoïaque ! VIGILANCE CONSTANTE* ! Réfléchis, mon gars -
 et si le *véritable* David Monroe n’était jamais revenu d’Albanie ? »
 
@@ -2173,12 +2173,12 @@ Il y eut un silence.
 
 « Je vois… » dit Harry.
 
-« Bien sûr que vous voyez, » dit le Professeur McGonagall. « Ne faites pas
+« Bien sûr que vous voyez », dit le Professeur McGonagall. « Ne faites pas
 attention à moi, s’il vous plaît. Je vais juste rester tranquillement
 assise ici à devenir folle. »
 
 « Dans ce métier, si tu survis, tu apprends qu’il y a trois genre de
-sorciers, » dit Maugrey d’un ton lugubre ; Sa baguette n’était pointée
+sorciers », dit Maugrey d’un ton lugubre ; Sa baguette n’était pointée
 vers personne, elle était légèrement inclinée vers le bas, mais il
 l’avait en main. Elle ne l’avait jamais quittée depuis qu’il était entré
 dans la pièce. « Il y a des mages noirs qui ont un nom. Il y en a qui ont
@@ -2188,13 +2188,13 @@ aurait cassé des brindilles. Il n’y a pas beaucoup de sorciers aussi
 bons que ça à quarante-cinq ans. Dumbledore, peut-être, mais pas
 beaucoup d’autres. »
 
-« Peut-être est-ce vrai, » dit le maître des potions depuis l’endroit où
+« Peut-être est-ce vrai », dit le maître des potions depuis l’endroit où
 il se tapissait. « Mais et alors, Maugrey ? Quelle que soit son identité,
 Monroe était certainement l’ennemi du Seigneur des Ténèbres. J’ai
 entendu des Mangemorts maudire son nom même après qu’ils l’aient cru
 mort. Ils le craignaient beaucoup. »
 
-« Je saurais me montrer satisfaite, » dit sagement le professeur
+« Je saurais me montrer satisfaite », dit sagement le professeur
 McGonagall, « que l’on dise cela d’un professeur de Défense. »
 
 Maugrey fit un demi-tour pour lui lancer un regard furieux. « Et où
@@ -2212,14 +2212,14 @@ bâclant *beaucoup plus* le travail… »
 
 Le professeur McGonagall hochait la tête avec conviction.
 
-« Naïf, » dit Maugrey d’un ton catégorique. « J’imagine qu’aucun de vous ne
+« Naïf », dit Maugrey d’un ton catégorique. « J’imagine qu’aucun de vous ne
 s’est demandé si votre professeur de Défense n’avait pas organisé
 l’élimination de toute la maison Monroe ? »
 
 « *Quoi ?* » s’écria le professeur McGonagall.
 
 « Notre sorcier mystère entend parler d’un gamin disparu d’une Très
-Ancienne Maison d’Angleterre, » dit Maugrey. « Il prend la place de “David
+Ancienne Maison d’Angleterre », dit Maugrey. « Il prend la place de “David
 Monroe” mais reste à l’écart de la véritable famille Monroe. Mais la
 Maison doit bien finir par remarquer que quelque chose cloche. Donc cet
 imposteur pousse d’une façon ou d’une autre Voldie à tous les éliminer -
@@ -2263,10 +2263,10 @@ qu’il soit le véritable David Monroe ou un imposteur ?*
 « Qu’est-ce que tu veux que j’y fasse, Maugrey ? » se plaignait le
 professeur McGonagall. « Je ne peux pas… »
 
-« Tu peux, » dit l’homme balafré en la regardant avec férocité. « Renvoie
+« Tu peux », dit l’homme balafré en la regardant avec férocité. « Renvoie
 juste ce satané professeur de Défense. »
 
-« Tu dis ça *chaque* année, » dit-elle.
+« Tu dis ça *chaque* année », dit-elle.
 
 « Oui, et j’ai toujours raison ! »
 
@@ -2280,7 +2280,7 @@ couverture pour se faire renvoyer ! »
 « C’est lui ? » ne put s’empêcher de demander Harry. « Je veux dire, est-ce
 qu’il pourrait *vraiment* être… »
 
-« Je vérifie la cellule de Grindie tous les deux mois, » dit Maugrey. « Il
+« Je vérifie la cellule de Grindie tous les deux mois », dit Maugrey. « Il
 était là en mars. »
 
 « La personne dans la cellule pourrait-elle être un sosie ? »
@@ -2293,12 +2293,12 @@ qu’il pourrait *vraiment* être… »
 distendait les lèvres balafrées. « As-tu pensé au poste d’Auror après tes
 études ? »
 
-« Alastor, » dit le professeur McGonagall avec réticence. « Le professeur
+« Alastor », dit le professeur McGonagall avec réticence. « Le professeur
 de Défense *a* un problème de santé. J’imagine que vous pourriez dire
 que c’est suspect en soi… mais il n’est en rien certain que c’est
 quelque méfait de sa part qui nous empêchera de renouveler son contrat. »
 
-« Oui, ses petites siestes, » dit sombrement Maugrey. « Amélia pense qu’il
+« Oui, ses petites siestes », dit sombrement Maugrey. « Amélia pense qu’il
 a croisé la route d’une malédiction de haut niveau. Ça *m’a* plutôt
 l’air un rituel noir qui a mal tourné ! »
 
@@ -2337,7 +2337,7 @@ Il traversera les *murs*. Il y a une *raison* pour laquelle même les
 Aurors n’avaient pas le droit de l’utiliser contre les Mangemorts avant
 la loi Monroe. »
 
-« Ah, » dit Harry. « Ça semble effectivement être une excellente raison
+« Ah », dit Harry. « Ça semble effectivement être une excellente raison
 d’interdire… »
 
 « Je n’ai pas fini, petit. La seconde raison est que le sortilège de la
@@ -2350,7 +2350,7 @@ maintenant, mon gars ? T’as pas besoin d’être un mage noir pour utiliser
 ce sortilège — mais tu peux pas être Albus Dumbledore non plus. Et si on
 t’arrête parce que tu l’as utilisé pour tuer, tu peux pas te défendre. »
 
-« Je… vois, » murmura le Survivant. *On ne peut vouloir que la personne
+« Je… vois », murmura le Survivant. *On ne peut vouloir que la personne
 meurt pour des raisons instrumentales, dans la perspective de quelque
 conséquence positive future, on ne peut pas le lancer si on pense que
 c’est un mal nécessaire, il faut vraiment vouloir que la personne meure
@@ -2359,7 +2359,7 @@ fonction d’utilité*. « Une préférence pour la mort et contre la vie,
 magiquement incarnée, frappant au niveau de la vie elle-même… ça a
 effectivement l’air d’être un sortilège difficile à arrêter. »
 
-« Pas difficile, » lâcha Maugrey. « *Impossible.* »
+« Pas difficile », lâcha Maugrey. « *Impossible.* »
 
 Harry hocha gravement la tête. « Mais David Monroe — ou qui que ce soit
 d’autre — a utilisé le sortilège de la mort contre plusieurs Mangemorts
@@ -2397,7 +2397,7 @@ Seigneur des Ténèbres pour désirer le voir mort.
 
 *Il suffit d’une petite fissure…*
 
-« Assez, » dit le professeur McGonagall. « Que veux-tu que nous fassions ? »
+« Assez », dit le professeur McGonagall. « Que veux-tu que nous fassions ? »
 
 Le sourire de Maugrey apparut. « Débarrassez-vous du professeur de
 Défense et voyez si tous vos problèmes se dissipent mystérieusement. Je
@@ -2409,7 +2409,7 @@ pourras-*tu* donner les cours, si… »
 « Ha ! » dit Maugrey. « Si jamais je réponds oui, fais-moi un test de
 Polynectar, parce que ce ne sera pas moi. »
 
-« Je ferai un test expérimental, » dit Harry. Puis, alors que tout le
+« Je ferai un test expérimental », dit Harry. Puis, alors que tout le
 monde le regardait, « je poserai au professeur Quirrell une question dont
 seul le véritable David Monroe connaîtrait la réponse — par exemple, qui
 d’autre était dans la classe de Serpentard en 1945, ou quelque chose
@@ -2454,11 +2454,11 @@ avaient été laissés derrière, dans le bureau du directeur.
 « Puis-je vous poser une question personnelle ? » dit Harry, lorsqu’il
 pensa qu’ils étaient assez loin pour ne pas être entendus.
 
-« Oui, » dit le professeur McGonagall sans tout à fait soupirer. « Bien que
+« Oui », dit le professeur McGonagall sans tout à fait soupirer. « Bien que
 j’espère que vous comprenez que je ne peux rien *faire* qui entre en
 conflit avec mon devoir de… »
 
-« Oui, » dit Harry, « c’est exactement à ce sujet que je veux vous
+« Oui », dit Harry, « c’est exactement à ce sujet que je veux vous
 interroger. Face au Magenmagot, quand Lucius Malefoy disait que Hermione
 ne faisait pas partie de la maison Potter et qu’il n’accepterait pas
 l’argent, vous avez dit à Hermione de faire un serment. Je veux savoir,
@@ -2478,28 +2478,28 @@ possible.
 Les murs tournèrent alors autour d’eux, en-dessous d’eux, et,
 mystérieusement, ils descendirent.
 
-« Oh, M. Potter, » dit le professeur McGonagall avec une lente expiration.
+« Oh, M. Potter », dit le professeur McGonagall avec une lente expiration.
 « Je… *j’aimerais* que vous ne me posiez pas de telles questions… oh,
 Harry, je ne réfléchissais pas alors, pas du tout. J’ai juste vu une
 chance d’aider Mlle Granger et… après tout, j’ai *été* répartie à
 Gryffondor. »
 
-« Vous avez une chance de réfléchir maintenant, » dit Harry. Il le disait
+« Vous avez une chance de réfléchir maintenant », dit Harry. Il le disait
 mal, mais il devait *quand même* le dire, parce que — « Je ne vous
 demande pas d’être loyale envers *moi*. Mais si vous savez — si vous
 *êtes* certaine — de ce que vous ferez si un choix se dessine à nouveau
 entre un élève de Poudlard innocent et l’Ordre du Phénix… »
 
 Mais le professeur McGonagall secoua la tête. « Je ne suis *pas*
-certaine, » chuchota le professeur de métamorphose. « Je ne sais même pas
+certaine », chuchota le professeur de métamorphose. « Je ne sais même pas
 si le choix que j’ai fait était le bon. Je suis désolé. Je ne peux pas
 prendre une décision aussi atroce ! »
 
-« Mais vous ferez *quelque chose* si ça se produit à nouveau, » dit Harry.
+« Mais vous ferez *quelque chose* si ça se produit à nouveau », dit Harry.
 « L’indécision est aussi un choix. Vous n’arrivez juste pas à *imaginer*
 avoir à prendre une décision sur le moment ? »
 
-« Non, » dit le professeur McGonagall d’un ton un peu plus affirmé ; et
+« Non », dit le professeur McGonagall d’un ton un peu plus affirmé ; et
 Harry comprit qu’il lui avait accidentellement offert une échappatoire.
 Les mots du professeur confirmèrent ses peurs : « Un choix aussi
 terrible, M. Potter… je pense que je ne devrais pas le faire avant d’y
@@ -2514,7 +2514,7 @@ prix de ne rien pouvoir planifier à l’avance et au prix de subir un
 énorme biais d’inaction, ou d’attendre jusqu’à ce qu’il soit trop tard…
 mais on ne pouvait pas demander à une sorcière de savoir tout cela.
 
-« Très bien, » dit Harry.
+« Très bien », dit Harry.
 
 Même si ce n’était pas bien du tout, vraiment pas. Dumbledore voudrait
 peut-être que cette dette soit effacée, le professeur Quirrell voudrait
@@ -2547,12 +2547,12 @@ Harry sortit…
 
 Une main saisit son épaule.
 
-« M. Potter, » dit le professeur McGonagall d’une voix basse, « pourquoi
+« M. Potter », dit le professeur McGonagall d’une voix basse, « pourquoi
 m’avez-vous dit de garder un œil sur le professeur Rogue ? »
 
 Harry se tourna à nouveau.
 
-« Vous m’avez dit de le surveiller et de voir s’il changeait, » dit le
+« Vous m’avez dit de le surveiller et de voir s’il changeait », dit le
 professeur McGonagall avec une note d’urgence. « *Pourquoi* avez-vous dit
 ça, M. Potter ? »
 
@@ -2562,7 +2562,7 @@ Lestrange de brutes, puis Harry s’était alors confronté à Severus dans
 le couloir et, du moins selon le maître des potions lui-même, avait
 « failli mourir »…
 
-« J’ai appris quelque chose qui m’a inquiété, » dit Harry au bout d’un
+« J’ai appris quelque chose qui m’a inquiété », dit Harry au bout d’un
 moment. « De la part de quelqu’un qui m’a fait promettre de ne le révéler
 à personne d’autre. » Severus avait fait promettre à Harry que leur
 conversation n’atteindrait les oreilles de personne et Harry était
@@ -2576,7 +2576,7 @@ rien. Si vous ne pouvez pas le dire, vous ne pouvez pas le dire. »
 
 Le professeur McGonagall sembla hésiter…
 
-« Très bien, laissez moi être plus clair, » dit Harry. Maintenant que le
+« Très bien, laissez moi être plus clair », dit Harry. Maintenant que le
 professeur Quirrell le *lui* avait fait à lui à plusieurs fois, Harry
 commençait à prendre le coup de main. « Quels sont les changements que
 vous avez *déjà* observé chez le professeur Rogue et que vous hésitez à
@@ -2584,12 +2584,12 @@ mentionner ? »
 
 « Harry… » dit le professeur de métamorphose avant de fermer la bouche.
 
-« Il est clair que je sais une chose que vous ignorez, » dit gentiment
+« Il est clair que je sais une chose que vous ignorez », dit gentiment
 Harry. « Vous voyez, c’est pour ça qu’on ne peut pas toujours repousser
 les décisions face à d’horribles dilemmes moraux. »
 
 Le professeur McGonagall ferma les yeux, prit une profonde inspiration,
-pinça l’arête de son nez et serra plusieurs fois. « Très bien, » dit-elle.
+pinça l’arête de son nez et serra plusieurs fois. « Très bien », dit-elle.
 « C’est subtil… mais inquiétant. Comment dire ça… M. Potter, avez-vous lu
 de nombreux livres que les jeunes enfants ne sont pas censés lire ? »
 
@@ -2607,7 +2607,7 @@ pas censé remettre en question les préférences des gens. »
 Le professeur McGonagall eut un regard *très* étrange en direction de
 Harry.
 
-« Je veux dire, » continua Harry, « d’après ce que j’ai lu, il y a environ
+« Je veux dire », continua Harry, « d’après ce que j’ai lu, il y a environ
 10 % de chances que *je* trouve le professeur Rogue attrayant quand je
 serai un peu plus vieux, et ce qui compte c’est juste que je m’accepte
 quel que soit… »
@@ -2626,7 +2626,7 @@ Cela, je l’ai vu de mes propres yeux. »
 « Euh… » dit Harry. « Désolé mais ce n’est pas juste parce que j’ai *lu*
 ces livres que je les ai compris. Qu’est-ce que tout ça veut *dire* ? »
 
-« Qu’il le *remarque*, » dit le professeur McGonagall d’un ton bas. « C’est
+« Qu’il le *remarque* », dit le professeur McGonagall d’un ton bas. « C’est
 subtil, mais maintenant que je l’ai vu, j’en suis certaine. Et *cela*
 signifie… j’ai bien peur… que le lien qui rapprochait Severus de la
 cause d’Albus… peut s’être affaibli, ou s’être même brisé. »
@@ -2650,12 +2650,12 @@ conclusion ne lui apparaisse enfin.
 *Bien sûr, c’était avant que je lui donne mes bons conseils en matière
 de relations amoureuses.*
 
-« Je vois, » dit Harry avec précaution quelques instants plus tard.
+« Je vois », dit Harry avec précaution quelques instants plus tard.
 Parfois, dire « Oups » était loin de faire justice à la situation. « Vous
 avez raison, ce n’est pas bon signe. »
 
 Le professeur McGonagall mit ses deux mains sur son visage. « Quoi que
-vous pensiez maintenant, » dit-elle d’une voix légèrement étouffée, « je
+vous pensiez maintenant », dit-elle d’une voix légèrement étouffée, « je
 vous assure que c’est *aussi* faux et je ne veux jamais l’entendre. »
 
 « Donc… » dit Harry. « Si, comme vous dites, le lien qui unissait le
@@ -2699,7 +2699,7 @@ Est-ce que *quelqu’un* avait déjà vu le véritable Severus Rogue ?
 
 
 
-« Je ne sais pas, » dit enfin le professeur McGonagall. « Je ne sais
+« Je ne sais pas », dit enfin le professeur McGonagall. « Je ne sais
 vraiment pas. Je ne peux même pas l’imaginer. Savez-*vous* quoi que ce
 soit à ce sujet, M. Potter ? »
 
@@ -2710,14 +2710,14 @@ ma mère. »
 
 Le professeur McGonagall ferma les yeux. « J’abandonne. »
 
-« Je ne sais pas s’il a fait quoi que ce soit d’autre de mal, cela dit, »
+« Je ne sais pas s’il a fait quoi que ce soit d’autre de mal, cela dit »,
 ajouta Harry. « Je suppose que le directeur vous a donné l’autorisation
 de me parler de ça ? »
 
 Le professeur McGonagall détourna les yeux de Harry et regarda le mur.
 « S’il te plaît Harry, non. »
 
-« Très bien, » dit Harry, et il pivota et s’éloigna rapidement dans les
+« Très bien », dit Harry, et il pivota et s’éloigna rapidement dans les
 couloir, tout en entendant le pas plus lent du professeur McGonagall
 derrière lui et le grondement des gargouilles qui se remettaient en
 place.
@@ -2738,7 +2738,7 @@ depuis quelques jours, fut la première à fuir la salle — la porte se
 referma d’un coup et se verrouilla derrière les élèves qui
 s’éloignaient.
 
-« Je vous prie de m’excuser d’avoir gâché votre potion, M. Potter, » dit
+« Je vous prie de m’excuser d’avoir gâché votre potion, M. Potter », dit
 doucement Severus Rogue. Il y avait sur son visage l’étrange regard
 triste que Harry avait vu chez lui quelques temps auparavant, dans un
 couloir. « Vos notes n’en pâtiront pas. Asseyez-vous, s’il vous plaît. »
@@ -2872,7 +2872,7 @@ eu un flash de lumière verte et alors… et alors… *et alors…* »
 Lentement, comme un corps remontant à la surface de l’eau, Harry revint
 de là où il avait été.
 
-« Cela suffit, » dit le maître des potions d’une voix rauque. « Elle est
+« Cela suffit », dit le maître des potions d’une voix rauque. « Elle est
 morte… elle est morte sans souffrir, alors ? Le Seigneur des Ténèbres…
 ne lui a rien fait, avant qu’elle ne meure ? »
 

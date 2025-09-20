@@ -42,11 +42,11 @@ ne vous causent d’ennuis. »
 
 « Je ne suis pas exclue ? » chuchota la fille. « Pour ce que j’ai fait ? »
 
-« Non, » dit le professeur McGonagall. « Mlle Granger… vous avez sûrement
+« Non », dit le professeur McGonagall. « Mlle Granger… vous avez sûrement
 entendu… j’espère que vous avez entendu M. Potter lorsqu’il a dit que
 vous étiez innocente ? »
 
-« Il disait juste ça comme ça, » dit-elle d’une voix morne. « Pour me faire
+« Il disait juste ça comme ça », dit-elle d’une voix morne. « Pour me faire
 libérer, je veux dire. »
 
 La vieille sorcière secoua la tête avec fermeté. « Non, Mlle Granger. M.
@@ -76,7 +76,7 @@ frénétiquement en tous sens puis en lui assénant le coup final d’un
 sortilège qui l’avait envoyée s’écraser contre le mur et avait fait
 jaillir du sang de sa joue… Et alors… Alors elle avait…
 
-« Mais vous vous souvenez l’avoir fait, » dit la sorcière plus âgée en la
+« Mais vous vous souvenez l’avoir fait », dit la sorcière plus âgée en la
 regardant avec compréhension et gentillesse. « Mlle Granger, une fillette
 de douze ans n’a pas besoin de supporter des souvenirs aussi affreux.
 Demandez-le moi et je serais heureuse de les enfermer pour vous. »
@@ -87,7 +87,7 @@ C’était comme si on lui avait jeté un verre d’eau en plein visage.
 Le professeur McGonagall sortit sa baguette, un geste si expert et
 rapide qu’on aurait dit qu’elle avait simplement pointé quelque chose du
 doigt. « Je ne peux pas vous offrir de vous débarrasser entièrement de
-ces souvenirs, Mlle Granger, » dit le professeur McGonagall avec sa
+ces souvenirs, Mlle Granger », dit le professeur McGonagall avec sa
 précision habituelle. « D’importants faits pourraient s’y trouver
 enfouis. Mais il existe une forme d’Oubliettes qui est réversible et je
 serais heureuse de le lancer sur vous. »
@@ -144,7 +144,7 @@ et Harry n’aurait pas eu à perdre tout son argent pour la sauver…
 
 Hermione ferma les yeux, les serra très fort, car elle ne pouvait pas
 supporter l’idée de se remettre à pleurer. « Je suis quelqu’un
-d’horrible, » dit-elle d’une voix chancelante. « Je suis horrible et pas
+d’horrible », dit-elle d’une voix chancelante. « Je suis horrible et pas
 héroïque du tout… »
 
 La voix du professeur McGonagall fut très tranchante, comme si Hermione
@@ -168,7 +168,7 @@ petite Serdaigle.
 C’était une chose pour laquelle Harry Potter ne l’aiderait pas non plus.
 
 Hermione se retourna dans son lit et se recroquevilla contre elle-même,
-loin du professeur McGonagall. « S’il vous plaît, » murmura-t-elle. « Je
+loin du professeur McGonagall. « S’il vous plaît », murmura-t-elle. « Je
 veux parler… Au directeur… »
 
 
@@ -185,7 +185,7 @@ avec l’air d’avoir *pleuré*, même si c’était bien sûr impossible ; e
 Hermione ressentit un pincement déchirant de culpabilité à l’idée de
 l’avoir autant dérangé.
 
-« Minerva dit que tu souhaitais me parler, » dit le vieux sorcier.
+« Minerva dit que tu souhaitais me parler », dit le vieux sorcier.
 
 « Je… » Hermione ne savait soudain plus quoi dire. Sa gorge se referma et
 elle ne put que bégayer : « Je – je suis… »
@@ -201,7 +201,7 @@ Elle dut se forcer à faire sortir les mots de sa bouche. « Vous avez dit
 que le professeur McGonagall a dit, je n’aurais pas dû toucher sa
 baguette… »
 
-« Ma chérie, » dit Dumbledore, « si tu ne t’étais pas engagée auprès de la
+« Ma chérie », dit Dumbledore, « si tu ne t’étais pas engagée auprès de la
 maison Potter, Harry aurait attaqué Azkaban seul et aurait peut-être
 gagné. Ce garçon choisit peut-être ses mots avec soin, mais je ne l’ai
 encore jamais vu mentir, et chez le Survivant se trouve un pouvoir que
@@ -228,7 +228,7 @@ allongée dans son lit, elle ne pouvait voir que le plafond et le haut de
 l’une des fenêtres, mais rien dans son champ de vision ne bougeait, et
 s’il y avait des sons, elle ne pouvait pas les entendre.
 
-« Ah, » dit Dumbledore. Le vieux sorcier eut un profond soupir. « J’imagine
+« Ah », dit Dumbledore. Le vieux sorcier eut un profond soupir. « J’imagine
 qu’il est *possible* que le garçon ait alors tenu sa promesse. »
 
 « J’aurais… j’aurais dû… »
@@ -252,7 +252,7 @@ est-ce que je n’ai pas pu… » Pourquoi l’idée d’être envoyée à Azk
 l’avait elle complètement *tétanisée*, pourquoi avait-elle tout oublié
 du Bien…
 
-« Ma chère petite fille, » dit Dumbledore. Les yeux bleus derrière les
+« Ma chère petite fille », dit Dumbledore. Les yeux bleus derrière les
 lunettes en demi-lune exprimaient un compréhension totale de sa
 culpabilité. « Je n’aurais pas fait mieux moi-même lors de ma première
 année à Poudlard. Tout comme tu souhaiterais être plus gentille envers
@@ -263,7 +263,7 @@ qu’on le lui dise, même si elle le savait déjà.
 
 Il y eut un silence.
 
-« Écoute, jeune Serdaigle, » dit le vieux sorcier, « écoutes-moi bien, car
+« Écoute, jeune Serdaigle », dit le vieux sorcier, « écoutes-moi bien, car
 je vais te dire la vérité. La plupart des malfaisants ne se voient pas
 comme tels ; de fait, la plupart d’entre eux se croient être les héros
 des histoires qu’ils se racontent. J’ai un jour cru que les pires choses
@@ -300,7 +300,7 @@ pouvait.
 « Pourquoi ? » dit sa voix à nouveau tremblante. « Pourquoi quelqu’un
 serait-il aussi méchant ? Je ne comprends pas. »
 
-« Je me suis moi-même posé cette question, » dit la voix de Dumbledore,
+« Je me suis moi-même posé cette question », dit la voix de Dumbledore,
 chargée d’une profonde tristesse. « Je m’interroge depuis trente ans et
 je ne comprends toujours pas. Toi et moi ne comprendrons jamais,
 Hermione Granger. Mais au moins je sais maintenant ce que le véritable
@@ -310,7 +310,7 @@ mal répondrait, si on pouvait lui parler et lui demander pourquoi il
 Un bref éclair d’indignation la traversa. « Il doit y avoir au moins un
 *million* de raisons de ne pas l’être ! »
 
-« Tout à fait, » dit la voix de Dumbledore. « Un million de raisons, et
+« Tout à fait », dit la voix de Dumbledore. « Un million de raisons, et
 encore plus. Nous connaîtrons toujours ces raisons, toi et moi. Si tu
 insiste pour le formuler ainsi – alors oui, Hermione, le procès
 d’aujourd’hui t’a brisée. Mais ce que tu fais *après* avoir été brisée –
@@ -360,7 +360,7 @@ Le vieux sorcier acquiesça d’un hochement de tête. « Si une magie hostile
 l’atteint ou si le moindre esprit la touche, je le saurai et
 j’accourrai. »
 
-« J’ai parlé à M. Potter après le cours de Métamorphose, » dit le
+« J’ai parlé à M. Potter après le cours de Métamorphose », dit le
 professeur McGonagall. « Il était d’avis qu’à partir de maintenant, Mlle
 Granger devrait aller à Beauxbâtons plutôt qu’à Poudlard. »
 
@@ -375,7 +375,7 @@ Harry Potter est ici, que Voldemort doit craindre, qu’il l’admette ou
 non. Maintenant que je l’ai mise sous protection, Mlle Granger sera plus
 en sécurité au cœur de Poudlard qu’éloignée. »
 
-« M. Potter semblait douter de cela, » dit Minerva. Elle ne parvenait pas
+« M. Potter semblait douter de cela », dit Minerva. Elle ne parvenait pas
 tout à fait à garder sa voix dénuée de tranchant car une partie d’elle
 était assez fortement d’accord. « Il semblait penser que le sens commun
 dicte que Mlle Granger continue sa scolarité n’importe où ailleurs qu’à
@@ -387,7 +387,7 @@ sécurité et s’imaginent toujours que celle-ci peut-être trouvée. Si Mlle
 Granger n’est pas en sûreté au centre de notre forteresse, elle ne le
 sera pas plus en la quittant. »
 
-« Tout le monde ne semble pas être d’accord, » dit le professeur
+« Tout le monde ne semble pas être d’accord », dit le professeur
 McGonagall. Ça avait presque été la première lettre qu’elle avait vu
 lorsqu’elle avait jeté un rapide coup d’œil sur son bureau : une
 enveloppe du plus fin des parchemins, scellée d’une cire vert-argent à
@@ -419,26 +419,26 @@ tout. Mais le fait que Harry trouve maintenant Poudlard aussi dangereuse
 que la recherche fondamentale en magie envoyait quand même des frissons
 d’inquiétude parcourir son corps.
 
-« Le département des mystères n’est pas à défier à la légère, » dit Albus.
+« Le département des mystères n’est pas à défier à la légère », dit Albus.
 « Mais pour le reste — » le vieux sorcier sembla s’affaisser légèrement.
 « Autant donner au garçon ce qu’il souhaite. Et je protégerais aussi
 Neville et écrirai à Augusta pour lui dire qu’il devrait rester ici
 pendant les vacances. »
 
-« Et enfin, » continua-t-elle, « M. Potter dit que – et je le cite
+« Et enfin », continua-t-elle, « M. Potter dit que – et je le cite
 directement, Albus – que quel que soit l’espèce d’attire-mage-noir que
 le directeur garde ici, il faut le faire sortir de cette école
 *maintenant*. » Cette fois elle ne parvint pas à empêcher sa voix d’être
 tranchante.
 
-« J’en ai demandé autant à Flamel, » dit Albus d’un ton qui laissa
+« J’en ai demandé autant à Flamel », dit Albus d’un ton qui laissa
 clairement entendre sa douleur. « Mais maître Flamel a dit – que même
 *lui* ne peut garder la Pierre en sûreté – qu’il croit que Voldemort a
 le moyen de la trouver, où qu’elle se trouve – et qu’il ne consent pas à
 ce qu’elle soit gardée ailleurs qu’à Poudlard. Minerva, je suis navré
 mais elle doit être gardée ici – il le *faut* ! »
 
-« Très bien, » dit le professeur McGonagall. « Quant à moi, je pense que M.
+« Très bien », dit le professeur McGonagall. « Quant à moi, je pense que M.
 Potter a raison en tous points. »
 
 Le vieux sorcier lui jeta un coup d’œil et il dit d’une voix émue :
@@ -610,14 +610,14 @@ s’il était venu de plus d’une personne. Puis il parla de nouveau : « M
 Altunay, si vous ne voulez pas être rétrogradé à Auror seconde classe,
 je vous suggère de serrer les dents et de vous remettre au travail… »
 
-« Ignorez ça, » dit une voix sèche qui semblait assez éloignée parce
+« Ignorez ça », dit une voix sèche qui semblait assez éloignée parce
 qu’elle était plus loin du miroir.
 
 (C’est pourquoi Amélia Bones s’assoit souvent au centre de coordination
 du département de justice magique lorsqu’elle remplit sa paperasse
 ministérielle.)
 
-« Auror Altunay, » dit la voix sèche tout en semblant s’approcher du
+« Auror Altunay », dit la voix sèche tout en semblant s’approcher du
 miroir, « vous serez bientôt remplacé. Auror Ben Gutierrez, la procédure
 RJ-L20 ne dit *pas* de demander pourquoi. Elle dit que l’on relève
 l’Auror qui l’a déclarée. *Si* je découvre que les Aurors semblent en
@@ -631,19 +631,19 @@ assis dans son fauteuil rembourré.
 Cet homme prononça alors les premiers mots à avoir quitté ses lèvres
 depuis qu’il était entré dans la cellule.
 
-« Au revoir, M. Altunay, » dit le professeur de Défense.
+« Au revoir, M. Altunay », dit le professeur de Défense.
 
 Quelques minutes plus tard, la porte de la cellule s’ouvrit et une femme
 aux cheveux gris entra, habillée des robes pourpres des Aurors, sans
 insigne indiquant son rang, sans ornement, avec sous son bras gauche un
-dossier en cuir noir. « Vous pouvez disposer, » dit la vieille femme d’un
+dossier en cuir noir. « Vous pouvez disposer », dit la vieille femme d’un
 ton abrupt.
 
 Il y eut un bref délai pendant lequel l’Auror Altunay essaya d’expliquer
 ce qui s’était passé. Un hochement de tête et un doigt sévère simplement
 pointé vers la porte y coupèrent court.
 
-« Bonsoir, madame la directrice, » dit le professeur de Défense.
+« Bonsoir, madame la directrice », dit le professeur de Défense.
 
 Amélia Bones ne répondit rien mais s’assit soudain dans la chaise
 laissée vide. La vieille sorcière ouvrit le dossier de cuir et son
@@ -671,7 +671,7 @@ perçants à travers le panneau de verre magiquement renforcé qui les
 séparait. L’homme dans la cellule lui rendit son regard calmement, sans
 sembler être alarmé.
 
-« Je ne prononcerai aucun nom, » dit la vieille sorcière. « Mais je
+« Je ne prononcerai aucun nom », dit la vieille sorcière. « Mais je
 raconterai une histoire et vous verrez si elle vous semble familière. »
 Amélia Bones rabaissa les yeux et retourna un parchemin. « Né en 1927,
 entré à Poudlard en 1938, réparti à Serpentard, a obtenu son diplôme en
@@ -712,7 +712,7 @@ firent qu’empirer. » Le regard de la vieille sorcière était
 interrogateur. « Je vous ai pleuré. Que s’est-il passé ? »
 
 Les épaules du professeur de Défense bougèrent légèrement, comme un
-petit haussement. « Vous faites beaucoup d’hypothèses, » dit-il doucement.
+petit haussement. « Vous faites beaucoup d’hypothèses », dit-il doucement.
 « Quant à moi, je crois que l’homme est mort il y a des années. Mais si
 cet homme est néanmoins en vie – alors il est clair qu’il ne souhaite
 pas voir ce fait annoncé et a des raisons d’être silencieux. Il semble
@@ -757,7 +757,7 @@ Le professeur de Défense demeura inexpressif.
 masque avait glissé et ses yeux révélaient clairement sa douleur. « Y
 a-t-il quoi que ce soit que nous puissions faire pour vous ? »
 
-« J’ai accepté d’enseigner la Défense à Poudlard, » dit l’homme dans la
+« J’ai accepté d’enseigner la Défense à Poudlard », dit l’homme dans la
 cellule d’un ton catégorique. « Tirez-en vos propres conclusions, madame.
 Et je rate le peu de cours qui me restent. Je voudrais rentrer à
 Poudlard maintenant. »
@@ -799,7 +799,7 @@ Lorsqu’elle et le professeur Flitwick quittèrent l’infirmerie, ils
 trouvèrent Harry Potter assis en tailleurs devant la porte en train de
 tranquillement lire un livre de psychologie.
 
-« Je continue avec elle, » dit le Survivant. « Le professeur McGonagall a
+« Je continue avec elle », dit le Survivant. « Le professeur McGonagall a
 dit que ça irait. »
 
 Le professeur Flitwick sembla accepter cela et quitta après leur avoir
@@ -817,7 +817,7 @@ une seule arrière-pensée. Des sentiments s’agitaient en elle – la
 culpabilité, la honte, la gêne, et d’autres encore – mais aucun mot. Il
 n’y avait rien qu’elle sache dire.
 
-« Donc, » dit soudain Harry, « j’ai rapidement passé en revue mes livres de
+« Donc », dit soudain Harry, « j’ai rapidement passé en revue mes livres de
 psychologie pour voir ce qu’ils avaient à dire sur les troubles de
 stress post-traumatique. Les vieux livres disent qu’il faut parler de
 son expérience immédiatement après avec un psychothérapeute. Les
@@ -837,10 +837,10 @@ même de mentir. Rien *n’était* normal. Tout ce qui allait mal allait
 encore horriblement mal, tout ce qui n’avait pas été dit devait encore
 l’être…
 
-« D’accord, » dit Hermione, parce qu’il n’y avait rien d’autre à dire,
+« D’accord », dit Hermione, parce qu’il n’y avait rien d’autre à dire,
 absolument rien d’autre.
 
-« Je suis désolé de ne pas avoir été là quand tu t’es réveillée, » dit
+« Je suis désolé de ne pas avoir été là quand tu t’es réveillée », dit
 Harry alors qu’ils commençaient à marcher. « Madame Pomfresh ne m’a pas
 laissé entrer alors je suis juste resté là, dehors. » Il eut un petit
 haussement d’épaules triste. « J’imagine que je devrais être en train
@@ -882,7 +882,7 @@ sujets expérimentaux tout en étant en réalité des complices de
 l’expérimentateur. Asch avait montré une ligne de référence sur un écran
 marquée X à côté de trois autres lignes marquées A, B et C.
 L’expérimentateur avait demandé quelle ligne avait la même longueur que
-X. La bonne réponse était C, de façon évidente. Les autres « sujets, » les
+X. La bonne réponse était C, de façon évidente. Les autres « sujets », les
 complices, avaient l’un après l’autre dit que X était de la même
 longueur que B. Le vrai sujet avait été placé avant-dernier afin de
 n’éveiller aucun soupçon en le plaçant en dernier. Le test avait été de
@@ -899,7 +899,7 @@ roulant au milieu de gens en fauteuil roulant, l’effet de conformité
 devenait encore plus puissant…
 
 Hermione avait l’écœurante impression de savoir où cela allait. « Je me
-souviens, » murmura-t-elle.
+souviens », murmura-t-elle.
 
 « Tu sais, j’ai donné un entraînement anti-conformité à la légion du
 Chaos. J’ai demandé à chaque Légionnaire de se placer au milieu du
@@ -1108,7 +1108,7 @@ ondulant dans un vol suspendu comme s’il essayait encore d’avancer,
 La lueur rouge illumina le visage du professeur Quirrell pour la
 première fois et révéla un étrange et affectueux sourire.
 
-« Mieux, » dit le professeur Quirrell. « Mlle Granger, vous êtes toujours
+« Mieux », dit le professeur Quirrell. « Mlle Granger, vous êtes toujours
 élève de mon cours de Défense. À ce titre, si vous me considérez comme
 une menace, j’attends de vous que ne fassiez pas que me regarder
 tristement et me demander si je suis ici pour vous tuer. Deux points
@@ -1131,7 +1131,7 @@ Quelque pas de plus menèrent le professeur Quirrell à une partie plus
 avant, regardant la nuit.
 
 « Je suis venu ici immédiatement après avoir été relâché par les Aurors
-et à l’instant où j’ai fini de faire mon rapport au directeur, » dit le
+et à l’instant où j’ai fini de faire mon rapport au directeur », dit le
 professeur Quirrell d’une voix tranquille, « parce que je suis votre
 professeur, que vous êtes mon élève et que je suis responsable de vous. »
 
@@ -1144,7 +1144,7 @@ surmonte la mortification, pour qu’elle force les mots à sortir…
 « Je… » dit Hermione. « Harry pense… que je ne me *suis pas* emportée, je
 veux dire… »
 
-« C’est ce que j’ai entendu, » dit le professeur Quirrell d’un ton plutôt
+« C’est ce que j’ai entendu », dit le professeur Quirrell d’un ton plutôt
 sec. Il secoua la tête comme à l’intention des étoiles elles-mêmes. « Le
 garçon a la chance que j’ai dépassé le stade de l’agacement face à ses
 tendances autodestructrices et en sois à la pure curiosité quant à ce
@@ -1174,7 +1174,7 @@ l’adrénaline de quelque instants auparavant. Le professeur de Défense
 semblait juste regarder le ciel noir dans lequel les étoiles
 apparaissaient.
 
-« Il fut un jour où j’allais devenir un héros, » dit le professeur
+« Il fut un jour où j’allais devenir un héros », dit le professeur
 Quirrell, les yeux toujours levés. « Pouvez-vous y croire, Mlle
 Granger ? »
 
@@ -1191,7 +1191,7 @@ déjà cynique et que pourtant… eh bien. »
 
 Le silence s’étira dans le froid et la nuit.
 
-« En toute honnêteté, » dit le professeur Quirrell en relevant la tête
+« En toute honnêteté », dit le professeur Quirrell en relevant la tête
 vers les étoiles, « je ne comprends toujours pas. Ils auraient dû savoir
 que leurs vies dépendaient du succès de cet homme. Et pourtant c’était
 comme s’ils essayaient de faire leur possible pour rendre sa vie
@@ -1225,7 +1225,7 @@ mage noir seul qu’avec de tels adeptes sur son dos. »
 laissé vos amis derrière, en sécurité, et avez essayé d’attaquer le mage
 noir tout seul ? »
 
-« Allons, pas du tout, » dit le professeur Quirrell. « J’ai arrêté
+« Allons, pas du tout », dit le professeur Quirrell. « J’ai arrêté
 d’essayer d’être un héros et je suis parti faire quelque chose de plus
 plaisant. »
 
@@ -1245,7 +1245,7 @@ héros, on ne pouvait tout simplement *pas* faire ça, mais elle ne
 *voulait pas* dire que tous ceux qui n’étaient pas un héros ne valaient
 rien, ça aurait été penser comme Quirrell…
 
-Le sourire ou demi-sourire avait disparu. « Vous étiez idiote, » dit
+Le sourire ou demi-sourire avait disparu. « Vous étiez idiote », dit
 doucement le professeur de Défense, « de vous attendre à la moindre
 gratitude de la part de ceux que vous aviez essayé de protéger après
 vous être désignée comme héroïne. Tout comme attendez de cet homme qu’il
@@ -1260,7 +1260,7 @@ n’était plus dans leur intérêt de s’associer à vous… »
 Le professeur de Défense se raidit lentement sur le balcon, se tint
 presque droit et se tourna pour lui faire pleinement face.
 
-« Mais vous n’avez pas à être une héroïne, Mlle Granger, » dit le
+« Mais vous n’avez pas à être une héroïne, Mlle Granger », dit le
 professeur Quirrell. « Vous pouvez vous arrêter quand bon vous semble. »
 
 Cette idée…
@@ -1287,7 +1287,7 @@ pouvait la regarder d’un air aussi inquiet, elle ne comprenait pas les
 notes de douleur qu’elle avait remarquées dans la voix du professeur,
 elle ne comprenait même pas *pourquoi* on lui disait tout cela.
 
-« Vous ne m’appréciez même pas, professeur, » dit-elle.
+« Vous ne m’appréciez même pas, professeur », dit-elle.
 
 Un léger sourire vacilla sur le visage du professeur Quirrell.
 « J’imagine que je pourrais m’étaler sur ma colère contre cette affaire
@@ -1418,7 +1418,7 @@ Elle garda sa mâchoire coincée et ne laissa aucun mot sortir.
 Le professeur de Défense finit par soupirer. Lentement la lumière
 blanche disparut et lentement la porte derrière s’ouvrit, si bien qu’il
 fut de nouveau une silhouette noire détourée par l’ouverture. « Bonne
-nuit, Mlle Granger, » dit-il, puis il lui tourna le dos et partit vers
+nuit, Mlle Granger », dit-il, puis il lui tourna le dos et partit vers
 Poudlard.
 
 Il lui fallut un moment pour que sa respiration ralentisse. Quoi qu’il

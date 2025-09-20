@@ -31,7 +31,7 @@ Le murmure revint, doux et dangereux, accompagné d’un léger sifflement.
 
 « *Padma Patil, jeune Serpentard…* »
 
-« Harry Potter, jeune Serpentard, » dit-elle haut et fort.
+« Harry Potter, jeune Serpentard », dit-elle haut et fort.
 
 Elle avait combattu Potter et sa Légion du Chaos des dizaines de fois,
 et elle *savait* que, d’une façon ou d’une autre, Harry Potter était à
@@ -58,7 +58,7 @@ cru aux neufs dixièmes des histoires qui circulaient à son sujet.
 
 La voix chuchotante rit de nouveau, à présent depuis son flanc.
 
-« Harry Potter se tient au bord du précipice, » murmura la voix comme si
+« Harry Potter se tient au bord du précipice », murmura la voix comme si
 elle était maintenant très proche de son oreille, « il vacille, mais
 vous, vous êtes déjà en train de tomber, jeune Serpentard… »
 
@@ -72,10 +72,10 @@ Corner à apprendre des recettes de potions. Mais cela n’a pas
 d’importance. Je suis ici pour te faire part d’un avertissement, Padma
 Patil, et si tu fais le choix de l’ignorer, cela te regarde. »
 
-« Très bien, » dit-elle froidement. « Vas-y et préviens moi, Potter, je
+« Très bien », dit-elle froidement. « Vas-y et préviens moi, Potter, je
 n’ai pas peur de toi. »
 
-« Serpentard fut une grande Maison, jadis, » dit le murmure ; il semblait
+« Serpentard fut une grande Maison, jadis », dit le murmure ; il semblait
 être devenu plus triste. « Serpentard était une Maison que vous auriez
 été fière de choisir, Padma Patil. Mais quelque chose s’est produit,
 quelque chose a tourné à l’aigre ; sais-tu ce qui est arrivé à la maison
@@ -83,7 +83,7 @@ Serpentard, Padma Patil ? »
 
 « Non, et je m’en fiche ! »
 
-« Mais tu devrais t’en préoccuper, » dit le murmure comme s’il était venu
+« Mais tu devrais t’en préoccuper », dit le murmure comme s’il était venu
 juste de derrière sa tête appuyée au mur. « Car tu es toujours cette
 fille à qui le Choixpeau a offert ce choix. Penses-tu que choisir
 Serdaigle signifie que tu n’es pas Pansy Parkinson, que tu ne seras
@@ -98,7 +98,7 @@ devenus mauvais afin d’obtenir du pouvoir, tout comme *toi*, Potter. Et
 *je* ne le ferai pas. Jamais. »
 
 « Mais tu répandrais volontiers des rumeurs au sujet d’une fille
-innocente, » chuchota la voix, « même si cela ne t’aide en rien à
+innocente », chuchota la voix, « même si cela ne t’aide en rien à
 atteindre ne serait-ce qu’une seule de tes ambitions, et sans même
 considérer le fait qu’elle a des alliés puissants qui pourraient s’en
 trouver offensés. Ce n’est pas là le fier Serpentard des jours anciens,
@@ -114,7 +114,7 @@ sans parler du fait que la plupart des fantômes n’étaient pas aussi
 *angoissants*, ils n’étaient que des gens morts après tout — « Qui
 *êtes*-vous ? Le Baron Sanglant ? »
 
-« Lorsque Harry Potter s’est fait brutaliser, » chuchota la voix, « il a
+« Lorsque Harry Potter s’est fait brutaliser », chuchota la voix, « il a
 ordonné à ses alliés de refréner toute envie de vengeance ; vous
 souvenez-vous de cela, Padma Patil ? Car Harry Potter vacille, mais il
 n’est pas encore perdu ; il lutte, il se sait en proie au péril. Mais
@@ -126,7 +126,7 @@ plus en colère qu’il ne l’aurait jamais été s’il s’était agi de lui�
 Un frisson de peur la parcourut, elle sut qu’il avait été visible, et
 cela la fit se détester elle-même.
 
-« Oh, n’ai pas peur, » respira la voix. « Je ne te ferai pas de mal. Car
+« Oh, n’ai pas peur », respira la voix. « Je ne te ferai pas de mal. Car
 vois-tu, Padma Patil, Hermione Granger est réellement innocente. *Elle*
 ne se tient pas au bord du précipice, *elle* ne tombe pas. Elle n’a pas
 demandé à ses alliés de s’empêcher de te faire du mal parce que la
@@ -195,7 +195,7 @@ Son cœur battait à toutes forces contre sa poitrine. Elle, elle n’avait
 jamais parlé de cela à *personne* -
 
 « Je me suis toujours demandé comment les élèves se brutalisent les uns
-les autres, » soupira la voix. « Comment les enfants rendent leur vie plus
+les autres », soupira la voix. « Comment les enfants rendent leur vie plus
 difficile, comment ils transforment leur école en prison, de leurs
 propres mains. Pourquoi les humains se rendent-ils la vie si pénible ?
 Je peux vous donner une partie de la réponse, Padma Patil. C’est parce
@@ -227,7 +227,7 @@ poche. Elle faillit tomber en faisant un pas loin du mur, en se
 détournant pour partir -
 
 « Je n’ai pas toujours fait le bon choix entre la Lumière et les
-Ténèbres, » dit le chuchotement, maintenant fort et dur, directement dans
+Ténèbres », dit le chuchotement, maintenant fort et dur, directement dans
 son oreille. « Ne prenez pas ma sagesse pour une conclusion irrévocable,
 n’ayez pas peur de la remettre en question, car, bien que j’ai essayé,
 j’ai parfois échoué, oh oui, j’ai échoué. Mais vous faites du mal à une
@@ -261,7 +261,7 @@ Sifflebranche qui relevaient la tête de leur manuel.
 « Doux Merlin ! » s’exclama Pénélope Deauclaire, se levant de son canapé.
 « Qu’est-ce qui t’es arrivé, Padma ? »
 
-« Je, » bégaya-t-elle, « j’ai, j’ai entendu — un fantôme — »
+« Je », bégaya-t-elle, « j’ai, j’ai entendu — un fantôme — »
 
 « Ce n’était pas le Baron Sanglant ? » dit Deauclaire. Elle leva sa
 baguette et un instant plus tard elle tenait une tasse, puis un
@@ -279,10 +279,10 @@ Harry se contenta de la regarder.
 
 Et il dit : « Y a-t-il quelque chose que je puisse faire pour toi ? »
 
-« Ne le nies pas, » dit Padma d’une voix tremblante, « *tu* as mis ce
+« Ne le nies pas », dit Padma d’une voix tremblante, « *tu* as mis ce
 fantôme à mes trousses, il a *dit* — »
 
-« Je suis sérieux, » dit Harry. « Est-ce que je peux t’aider ? Te trouver
+« Je suis sérieux », dit Harry. « Est-ce que je peux t’aider ? Te trouver
 de la nourriture, ou aller te chercher un soda, ou t’aider avec tes
 devoirs, ou quelque chose comme ça ? »
 
@@ -291,7 +291,7 @@ Tout le monde les regardait.
 « Pourquoi ? » dit Padma. Elle ne savait pas quoi dire d’autre, elle ne
 comprenait pas.
 
-« Parce que certains d’entre nous se tiennent au bord du précipice, » dit
+« Parce que certains d’entre nous se tiennent au bord du précipice », dit
 Harry. « Et la différence se joue dans ce qu’on fait pour les autres. Me
 laisseras-tu t’aider, Padma, s’il te plaît ? »
 
@@ -301,7 +301,7 @@ le même qu’elle.
 « Je… » dit-elle. « Je dois écrire une copie sur *Iomillialor* — »
 
 « Laisse moi courir jusqu’à ma chambre et prendre mes affaires de
-Botanique, » dit Harry. Il se leva de la table pentagonale, regarda
+Botanique », dit Harry. Il se leva de la table pentagonale, regarda
 Sifflebranche et Corner. « Désolé les gars, je vous verrai plus tard. »
 
 Ils ne dirent rien, ils se contentèrent de la regarder, comme tous les
@@ -312,7 +312,7 @@ Et alors qu’il commençait à monter, il dit : « Et personne ne la
 harcèlera de questions à moins qu’*elle* ne veuille en parler, j’espère
 que tout le monde a *compris* ? »
 
-« Compris, » dirent la plupart des première année et quelques uns des
+« Compris », dirent la plupart des première année et quelques uns des
 élèves plus âgés, certains d’un ton assez effrayé.
 
 
@@ -362,7 +362,7 @@ La fille s’approcha -
 
 « Quoi ? » dit Padma. C’était *sa* réplique.
 
-« Je suis désolée, » répéta Hermione Granger. Sa voix était forte, afin
+« Je suis désolée », répéta Hermione Granger. Sa voix était forte, afin
 que tout le monde puisse entendre. « Je… je n’ai pas demandé à Harry de
 faire ça, et j’étais en colère quand je l’ai appris, et je lui ai fait
 promettre de ne pas recommencer, avec *personne*, et je ne vais pas lui
@@ -372,7 +372,7 @@ Patil. »
 Le dos de Hermione Granger était raide, son visage était raide, on
 pouvait voir de la sueur sur son visage.
 
-« Euh, » dit Padma. Ses pensées étaient complètement brouillées à présent…
+« Euh », dit Padma. Ses pensées étaient complètement brouillées à présent…
 
 Son regard bondit vers la table Serdaigle, où un garçon les regardait
 avec des yeux plissés et ses mains serrées sur ses jambes.
@@ -406,7 +406,7 @@ afin de prendre le contrôle de tout le moulin à rumeurs de Poudlard,
 remarquant que c’était un défi globalement utile et amusant pour tout
 vrai Serpentard faisant ses études à Poudlard.
 
-« Rien de *tel*, » dit Harry, « il a juste dit que d’une façon générale je
+« Rien de *tel* », dit Harry, « il a juste dit que d’une façon générale je
 devrais gagner de l’influence auprès des gens qui démarrent les rumeurs,
 et *j’ai* décidé que la version *gentille* de cela serait juste de
 directement informer Padma du sens de ses actes et de leurs conséquences
@@ -450,7 +450,7 @@ désespéré. « *J’essayais d’aider !* »
 La fille se retourna et le regarda, alors qu’elle ouvrait la porte de la
 salle de classe.
 
-« Harry, » dit-elle, et sa voix tremblait un peu en-dessous de la colère,
+« Harry », dit-elle, et sa voix tremblait un peu en-dessous de la colère,
 « le professeur Quirrell t’aspire vers les ténèbres, vraiment Harry, je
 suis sérieuse. »
 
@@ -461,7 +461,7 @@ La voix de Hermione n’était maintenant presque plus qu’un murmure. « Un
 jour tu vas aller déjeuner avec lui, et ce sera ton côté obscur qui
 reviendra, ou peut-être même que tu ne reviendras pas du tout. »
 
-« Je te promets, » dit Harry, « que je *vais* revenir du déjeuner. »
+« Je te promets », dit Harry, « que je *vais* revenir du déjeuner. »
 
 Il n’avait pas réfléchi en le disant.
 
@@ -470,7 +470,7 @@ la porte derrière elle.
 
 *Super invocation des lois de l’ironique dramatique, abruti*, nota le
 Critique Interne de Harry. *Maintenant tu vas mourir samedi, tes
-derniers mots auront été « Je suis désolé, Hermione, » et elle regrettera
+derniers mots auront été « Je suis désolé, Hermione », et elle regrettera
 toujours que son dernier acte ait été de claquer la porte -*
 
 *Oh tais-toi.*

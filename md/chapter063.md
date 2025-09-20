@@ -28,7 +28,7 @@ Elle ne reparlait théoriquement pas encore à Harry car la semaine ne
 s’achèverait que le lendemain, mais il se passait clairement quelque
 chose de *beaucoup* plus important que cela -
 
-« Fumseck, » dit Harry alors même qu’elle ouvrait la bouche, « cette fille
+« Fumseck », dit Harry alors même qu’elle ouvrait la bouche, « cette fille
 s’appelle Hermione Granger, et elle ne me parle pas en ce moment parce
 que je suis un idiot, mais si tu veux être sur l’épaule de quelqu’un de
 bien : elle vaut mieux que moi. »
@@ -56,7 +56,7 @@ Le phénix pivota d’un mouvement souple autour de l’extrémité d’une de
 ses ailes, tel la créature aérienne et lumineuse qu’il était, avant de
 s’élever jusqu’à l’épaule de Harry où il revint fermement se poser.
 
-« Espèce d’idiot, » dit Padma depuis l’autre côté de la table avec l’air
+« Espèce d’idiot », dit Padma depuis l’autre côté de la table avec l’air
 de décider si elle devait rire ou faire la grimace, « les phénix, ce
 n’est pas pour les filles intelligentes qui font leurs devoirs, c’est
 pour les imbéciles qui foncent droit sur cinq brutes Serpentard plus
@@ -71,7 +71,7 @@ Hermione ne faisait pas partie des rieurs.
 Harry non plus.
 
 Il avait placé une main sur son visage. « Dis à Hermione que je suis
-désolé, » dit-il à Padma, sa voix presque au niveau d’un murmure.
+désolé », dit-il à Padma, sa voix presque au niveau d’un murmure.
 « Dis-lui que j’ai oublié que les phénix sont des animaux, qu’ils ne
 comprennent pas ce qu’est le temps ni l’idée de se préparer, qu’ils ne
 comprennent pas les gens qui *feront* le bien un jour — je ne suis pas
@@ -107,7 +107,7 @@ vers Harry.
 
 On put entendre des chuchotements dans la salle commune de Serdaigle.
 
-« Te l’avais dit, » dit Harry à voix haute, puis il commença à gravir les
+« Te l’avais dit », dit Harry à voix haute, puis il commença à gravir les
 escaliers qui menaient à sa chambre ; il sembla les monter très vite,
 comme s’il avait été particulièrement léger, si bien qu’un moment plus
 tard lui et Fumseck étaient partis.
@@ -240,7 +240,7 @@ se détourna -
 cela impliquait et son esprit tournait à plein régime. « Professeur, que
 devrais-je faire — Père ne m’a pas donné d’instructions — »
 
-« Alors je *suggère*, » dit Rogue avec dédain tout en continuant de
+« Alors je *suggère* », dit Rogue avec dédain tout en continuant de
 s’éloigner d’un pas vif, « que vous *disiez* cela, Malefoy, comme votre
 père s’y attend ! »
 
@@ -269,7 +269,7 @@ pouvait-on bien faire d’une sorcière à la fois puissante, totalement
 maléfique, folle et fanatiquement dévouée à un Seigneur des Ténèbres qui
 n’était plus là ?
 
-« Hé, » dit Vincent depuis sa chaise, « j’comprends pas, patron, pourquoi
+« Hé », dit Vincent depuis sa chaise, « j’comprends pas, patron, pourquoi
 on a fait ça ? »
 
 « *On* ne l’a pas fait, abruti ! » rétorqua Drago. « Oh, par Merlin, si
@@ -297,7 +297,7 @@ Drago se retourna et envoya à Flora et à Hestia son Rictus Méprisant
 Numéro Trois, celui qui disait : « J’appartiens à une maison Noble, pas
 vous, et oui, c’est important. » Drago dit, vaguement dans leur
 direction, ne daignant certainement pas à s’adresser à *eux* en
-particulier : « Il y a Mangemort et Mangemort, » puis il revint à son
+particulier : « Il y a Mangemort et Mangemort », puis il revint à son
 assiette.
 
 On put entendre deux personnes prendre la mouche et deux paires de
@@ -330,7 +330,7 @@ Millicent s’en fut raconter l’histoire à quelqu’un d’autre.
 
 « Vous ne pensez pas *vraiment* que — » dit Gregory.
 
-« Franchement, je ne sais plus quoi penser, » dit Drago.
+« Franchement, je ne sais plus quoi penser », dit Drago.
 
 Quelques minutes plus tard, après que Theodore Nott se soit assis en
 face de lui et que William Rosier soit allé s’asseoir avec les jumeaux
@@ -383,13 +383,13 @@ Harry dit : « Lucius t’a-t-il demandé de lui rapporter ma réaction ?�
 Drago ne répondit rien pendant un moment, soupesant les possibilités,
 puis il ouvrit la bouche -
 
-« Je vois donc qu’il te l’a demandé, » continua Harry, et Drago se maudit.
+« Je vois donc qu’il te l’a demandé », continua Harry, et Drago se maudit.
 Il aurait dû le savoir, mais ça *avait* été difficile de décider. « Que
 vas-tu lui dire ? »
 
-« Que tu étais surpris, » dit Drago.
+« Que tu étais surpris », dit Drago.
 
-« Surpris, » dit Harry d’un ton catégorique. « Ouais. Bien. Dis-lui ça. »
+« Surpris », dit Harry d’un ton catégorique. « Ouais. Bien. Dis-lui ça. »
 
 « Qu’est-ce que c’*est* ? » dit Drago. Puis, remarquant que Harry semblait
 hésiter : « Si tu mijotes avec Père derrière mon dos — »
@@ -402,7 +402,7 @@ Elle disait :
 
 « *C’EST QUOI CE -* »
 
-« J’allais *te* le demander, » dit Harry. « As-tu la *moindre* idée de ce
+« J’allais *te* le demander », dit Harry. « As-tu la *moindre* idée de ce
 qui a pris à ton père ? »
 
 Drago fixa Harry.
@@ -423,7 +423,7 @@ Il hocha donc la tête et dit : « Je n’ai pas la moindre idée de ce que
 Père pense mais il est *impossible*, il n’y a pas la *moindre chance*
 que ce soit bon signe. Et, euh… les gens disent aussi… »
 
-« Quoi, » dit Harry d’une voix usée, « que disent les gens, Drago ? »
+« Quoi », dit Harry d’une voix usée, « que disent les gens, Drago ? »
 
 « Est-ce qu’un phénix t’a *vraiment* emmené à Azkaban pour que tu essaies
 d’empêcher Bellatrix Black de s’échapper — »
@@ -470,22 +470,22 @@ mangeait des saucisses grillées à la sauce de Figuevive.
 Même si les mains du garçon de Poufsouffle tremblaient, il coupait sa
 nourriture et la mangeait sans rien faire tomber.
 
-« Bonjour, général, » dit Neville d’une voix qui ne vacillait que
+« Bonjour, général », dit Neville d’une voix qui ne vacillait que
 légèrement. « T’es-tu battu en duel contre Bellatrix Black la nuit
 dernière ? »
 
-« Non, » dit Harry. Quelque chose faisait vaciller sa voix à lui aussi.
+« Non », dit Harry. Quelque chose faisait vaciller sa voix à lui aussi.
 
-« Ça m’aurait étonné, » dit Neville. On entendit le bruit d’un couteau qui
+« Ça m’aurait étonné », dit Neville. On entendit le bruit d’un couteau qui
 traversait une saucisse et raclait contre une assiette. « Je vais la
 pourchasser et la tuer. Je peux compter sur ton aide ? »
 
 On put entendre des hoquets d’inquiétude venus de la masse de
 Poufsouffle qui s’était assemblée autour de Neville.
 
-« Si elle s’en prend à toi, » dit Harry d’une voix rauque, *si il s’avère
+« Si elle s’en prend à toi », dit Harry d’une voix rauque, *si il s’avère
 que j’ai commis une terrible erreur, que tout n’était qu’un mensonge*,
-« je te défendrai de ma vie, » *laisserai pas ce que j’ai fait te mettre
+« je te défendrai de ma vie », *laisserai pas ce que j’ai fait te mettre
 en danger, quoi qu’il en coûte*, « mais je ne t’aiderai pas à la
 pourchasser. On n’aide pas ses amis à se suicider, Neville. »
 
@@ -498,7 +498,7 @@ Avala.
 Et dit : « Je ne voulais pas dire *tout de suite*, je voulais dire après
 Poudlard. »
 
-« Neville, » dit Harry en contrôlant sa voix avec une grande précaution,
+« Neville », dit Harry en contrôlant sa voix avec une grande précaution,
 « je pense que, même après Poudlard, il se peut que ça soit toujours une
 *idée stupide*. Il y a sûrement des Aurors avec bien plus d’expérience
 qui sont sur sa trace — » *oh, attends, ça ne va pas -*
@@ -519,7 +519,7 @@ un effort) sa voix lointaine qui disait : « Je vais la pourchasser et la
 tuer après Poudlard, quelqu’un veut m’aider ? » et au moins trois voix
 dirent « Oui » puis Ron Weasley dit d’une voix forte : « Faites la queue,
 vous autres, j’ai eu une chouette de Maman qui m’a dit d’annoncer à tout
-le monde qu’elle est prems, » et quelqu’un dit : « *Molly Weasley* contre
+le monde qu’elle est prems », et quelqu’un dit : « *Molly Weasley* contre
 *Bellatrix Black* ? Mais elle à qui elle veut faire croire ça — » et Ron
 tendit la main vers une assiette, saisit un muffin -
 
@@ -594,7 +594,7 @@ mineur qui ne réparaient pas entièrement les dommages.
 Le visage de Lesath Lestrange était couvert de larmes, certaines
 fraîches, d’autres à moitié séchées, et ses yeux humides en annonçaient
 d’autres à venir. « *Sourdinam* » dit le garçon plus âgé, puis « *Hominum
-Revelio*, » puis d’autres, tandis que Harry réfléchissait aussi vite
+Revelio* », puis d’autres, tandis que Harry réfléchissait aussi vite
 qu’il le pouvait sans rien trouver.
 
 Puis Lesath abaissa sa baguette, la rangea dans ses robes, et, lentement
@@ -607,12 +607,12 @@ aurait bien voulu parler, mais il était sans voix.
 Lesath Lestrange dit, d’une voix brisée : « Ma vie comme ma mort vous
 appartiennent, seigneur. »
 
-« Je, » dit Harry, il avait une énorme boule dans la gorge, il n’arrivait
+« Je », dit Harry, il avait une énorme boule dans la gorge, il n’arrivait
 pas à parler, « Je — » *n’ai rien à voir là-dedans*, il aurait dû le dire,
 il aurait dû le dire *tout de suite*, mais après tout le Harry innocent
 aurait lui aussi eu du mal à parler -
 
-« Merci, » chuchota Lesath, « merci, seigneur, oh, merci, » le bruit d’un
+« Merci », chuchota Lesath, « merci, seigneur, oh, merci », le bruit d’un
 sanglot étranglé émana du garçon agenouillé dont Harry ne pouvait voir
 rien d’autre que les cheveux. « Je suis un imbécile, seigneur, un bâtard
 ingrat qui ne mérite pas de vous servir, je ne saurais m’abaisser assez
@@ -621,13 +621,13 @@ parce que je pensais que vous me rejetiez, et ce n’est que ce matin que
 j’ai compris à quel point j’avais été un imbécile de vous poser la
 question face à Londubat — »
 
-« Je n’ai rien à voir là-dedans, » dit Harry.
+« Je n’ai rien à voir là-dedans », dit Harry.
 
 (C’était encore très difficile de mentir directement comme cela)
 
 Lesath releva lentement la tête et regarda Harry.
 
-« Je comprends, seigneur, » dit le garçon plus âgé d’une voix qui
+« Je comprends, seigneur », dit le garçon plus âgé d’une voix qui
 vacillait un peu, « vous n’avez pas confiance en moi, et il est vrai que
 je me suis montré idiot… je voulais seulement vous dire que je ne suis
 pas un ingrat, que je sais que ça a dû être difficile de ne sauver
@@ -646,7 +646,7 @@ votre présence, seigneur… ? »
 
 « Je ne suis pas ton seigneur. »
 
-Lesath dit : « Oui, seigneur, je comprend, » et il se releva, se tint bien
+Lesath dit : « Oui, seigneur, je comprend », et il se releva, se tint bien
 droit, s’inclina bien bas, puis s’éloigna de Harry jusqu’à atteindre la
 porte de la salle.
 
@@ -658,7 +658,7 @@ Harry ne put voir le visage qui posait la question : « L’avez-vous envoy�
 Et Harry dit, d’une voix parfaitement maîtrisée : « Arrête, s’il te
 plaît. Je n’ai rien à voir là-dedans. »
 
-« Oui seigneur, pardonnez-moi seigneur, » dit la voix de Lesath ; et le
+« Oui seigneur, pardonnez-moi seigneur », dit la voix de Lesath ; et le
 Serpentard ouvrit la porte, sortit et la referma derrière lui. Son pas
 accéléra à mesure qu’il s’éloignait, mais il ne fut pas assez rapide
 pour empêcher Harry de l’entendre commencer à sangloter.
@@ -682,7 +682,7 @@ a bouclé une quête et on a gagné un sous-fifre -*
 
 *Après-coup : Amélia Bones*
 
-« J’en conclus que sa vie n’est pas en danger, » dit Amélia.
+« J’en conclus que sa vie n’est pas en danger », dit Amélia.
 
 Le guérisseur, un vieil homme au regard sévère vêtu de robes blanches
 (il était né-Moldu et rendait ainsi honneur à d’étranges traditions
@@ -702,13 +702,13 @@ Le guérisseur avait dit qu’il était trop tôt pour se prononcer.
 
 Puis Amélia regarda l’autre sorcière dans la pièce, la détective.
 
-« Et vous dites, » dit Amélia, « que la matière inflammable avait été
+« Et vous dites », dit Amélia, « que la matière inflammable avait été
 métamorphosée à partir d’*eau*, vraisemblablement sous forme de glace. »
 
 La détective hocha la tête et dit d’un ton perplexe : « Ça aurait pu être
 bien pire s’il avaient — »
 
-« Que c’est *gentil* de leur part, » cracha-t-elle, puis elle appuya une
+« Que c’est *gentil* de leur part », cracha-t-elle, puis elle appuya une
 main usée sur son front. Non… non, ça *avait* été une marque de bonté. À
 cette étape de l’évasion, il était inutile d’essayer de tromper qui que
 ce soit. L’individu qui avait fait ça *avait* essayé de mitiger les
@@ -780,8 +780,8 @@ tint coi.
 
 « Directeur ? » couina Filius.
 
-« Dis-lui que je le remercie, » dit Albus Dumbledore, « mais qu’il est plus
-sage d’écouter les phénix que d’écouter les sages vieux sorcier, » et il
+« Dis-lui que je le remercie », dit Albus Dumbledore, « mais qu’il est plus
+sage d’écouter les phénix que d’écouter les sages vieux sorcier », et il
 s’assit trois secondes avant que toute la nourriture ne disparaisse.
 
 
@@ -792,7 +792,7 @@ s’assit trois secondes avant que toute la nourriture ne disparaisse.
 
 *Après-coup : Professeur Quirrell*
 
-« Non, » dit madame Pomfresh à l’enfant d’un ton vif, « vous ne pourrez
+« Non », dit madame Pomfresh à l’enfant d’un ton vif, « vous ne pourrez
 *pas* le voir ! Vous ne pouvez *pas* le tourmenter ! Vous ne pourrez pas
 lui poser *une seule petite question !* Il va rester *au lit* et ne
 *rien faire* pendant au moins *trois jours* ! »
@@ -884,7 +884,7 @@ Ils se retournèrent vers Dumbledore.
 
 Et dirent, alors qu’un frisson les traversait : « Bellatrix Black. »
 
-« Vous pouvez présumer sans risque de vous tromper, » dit le directeur,
+« Vous pouvez présumer sans risque de vous tromper », dit le directeur,
 « que c’est au moins aussi grave que ça. »
 
 « D’accord — »
@@ -966,13 +966,13 @@ des sorciers.
 Quelqu’un d’autre aurait pu être incrédule.
 
 « Je n’arrive pas à croire que tu ne m’aies jamais parlé de cette
-histoire de résurrection, » dit Maugrey Fol-Œil d’un ton particulièrement
+histoire de résurrection », dit Maugrey Fol-Œil d’un ton particulièrement
 acerbe. « S’que tu t’rends compte du temps que ça va me prendre de
 visiter les tombes de tous les ancêtres de tous les mages noirs que j’ai
 tué qui auraient pu être assez malins pour faire un horcruxe ? Ne me dis
 pas que c’est *aujourd’hui* que tu t’occupes de celle-ci ? »
 
-« Je lui ré-administre une dose chaque année, » répondit Severus Rogue
+« Je lui ré-administre une dose chaque année », répondit Severus Rogue
 d’un ton calme en débouchant la troisième fiole d’une série dont l’homme
 avait *prétendu* qu’elle comprendrait dix-sept bouteilles et en
 commençant à agiter sa baguette au-dessus de celle-ci. « Les autres
@@ -986,7 +986,7 @@ moelle des os s’était un jour trouvée. « Mais tu penses que ça mérite
 l’effort de tendre ce piège au lieu de simplement détruire les os. »
 
 « S’il considérait que celui-ci était bloqué, il *aurait* d’autres moyens
-de revenir à la vie, » dit Rogue d’un ton sec en débouchonnant une
+de revenir à la vie », dit Rogue d’un ton sec en débouchonnant une
 quatrième bouteille. « Et avant que vous ne me le demandiez, ça doit être
 la tombe originelle, celle du premier enterrement, dont les os doivent
 être enlevés pendant le rituel mais pas avant. Il ne peut donc pas les
@@ -1015,7 +1015,7 @@ aucune importance pour Maugrey et ne faisait que vous marquer dans le
 champ de vision de son Œil comme quelqu’un qui essayait de se cacher),
 et l’ancien Mangemort répondit : « Vous n’avez pas besoin de le savoir. »
 
-« Tu apprends, fiston, » dit Maugrey d’un ton moyennement approbateur.
+« Tu apprends, fiston », dit Maugrey d’un ton moyennement approbateur.
 « Qu’est-ce qu’il y a dans les bouteilles ? »
 
 Rogue ouvrit la cinquième bouteille puis fit un geste de baguette afin
@@ -1029,7 +1029,7 @@ je soupçonne que ses effets puissent être permanents. »
 « Qu’est-ce que ça fait ? » dit Maugrey.
 
 « On dit que ses effets sont impossibles à décrire à quelqu’un qui ne l’a
-pas utilisé, » répondit Rogue d’une voix traînante, « et je ne m’y suis
+pas utilisé », répondit Rogue d’une voix traînante, « et je ne m’y suis
 pas essayé. »
 
 Maugrey approuva d’un hochement de tête alors que Rogue ouvrait la
@@ -1046,7 +1046,7 @@ pourrait bien le racheter, même lui. »
 
 « *Arr !* » dit Maugrey. « Ce satané idiot, quel sentimental — »
 
-« Tout à fait, » dit Severus Rogue d’un ton calme, concentré sur son
+« Tout à fait », dit Severus Rogue d’un ton calme, concentré sur son
 travail.
 
 « Dis moi au moins que tu as un peu de venin de Malagrif là-dedans. »
@@ -1057,7 +1057,7 @@ travail.
 
 « Soit la quatorzième soit la quinzième. »
 
-« Stupéfaction de Bahl, » dit Maugrey, nommant ainsi un narcotique
+« Stupéfaction de Bahl », dit Maugrey, nommant ainsi un narcotique
 particulièrement addictif doté d’effets secondaires intéressants sur les
 personnes à tendance Serpentard ; Maugrey avait un jour vu un mage noir
 extrêmement dépendant déployer des efforts grotesques pour voir une
@@ -1071,9 +1071,9 @@ même en prenant la drogue en compte, Maugrey n’arrivait pas à imaginer
 ce qui avait pu traverser l’esprit de l’homme au moment où il avait
 lancé le second Portus.
 
-« Dixième fiole, » dit Rogue.
+« Dixième fiole », dit Rogue.
 
-« Venin de Basilic, » proposa Maugrey.
+« Venin de Basilic », proposa Maugrey.
 
 « *Quoi ?* » cracha Rogue. « Le venin de serpent est un composant actif de
 la potion de résurrection ! Sans parler du fait qu’il dissoudrait les os
@@ -1085,11 +1085,11 @@ sur — »
 Maugrey Fol-Œil continua sa rotation (secrètement inutile) et surveilla
 le cimetière tandis que le maîtres des potions continuait de verser.
 
-« Attends, » dit soudain Maugrey. « Comment est-ce que tu sais que *c’est*
+« Attends », dit soudain Maugrey. « Comment est-ce que tu sais que *c’est*
 vraiment là que — »
 
 « Parce qu’il y a marqué “Tom Jedusor” sur la pierre tombale facile à
-déplacer, » dit sèchement Rogue. « Et je viens de gagner dix Mornilles du
+déplacer », dit sèchement Rogue. « Et je viens de gagner dix Mornilles du
 directeur qui a parié que vous y penseriez avant la cinquième bouteille.
 Au temps pour votre vigilance constante. »
 
@@ -1097,19 +1097,19 @@ Il y eut un silence.
 
 « Combien de temps Albus a-t-il mit à comp- »
 
-« Trois ans après que nous ayons appris l’existence du rituel, » répondit
+« Trois ans après que nous ayons appris l’existence du rituel », répondit
 Rogue d’un ton qui n’était pas tout à fait de son sardonique habituel.
 « Rétrospectivement, nous aurions dû vous consulter plus tôt. »
 
 Rogue déboucha la neuvième bouteille.
 
 « Nous avons aussi empoisonné toutes les autres tombes, avec des
-substances durables, » remarqua l’ancien Mangemort. « Il *est* possible
+substances durables », remarqua l’ancien Mangemort. « Il *est* possible
 que nous soyons dans le bon cimetière. Il n’avait peut-être pas prévu
 les choses autant à l’avance lorsqu’il était en train de massacrer sa
 famille et il pourrait ne pas avoir déplacé la tombe — »
 
-« Son véritable emplacement ne ressemble plus à un cimetière, » dit
+« Son véritable emplacement ne ressemble plus à un cimetière », dit
 catégoriquement Maugrey. « Il a déplacé toutes les *autres* tombes et il
 a lancé *Oubliettes* aux Moldus. Même Bellatrix Black n’en saurait rien
 jusqu’à quelques instants avant le début du rituel. À part lui,
@@ -1146,7 +1146,7 @@ présent, et il comptait bien la garder.
 
 « T’as fait quelque chose d’intéressant aujourd’hui ? » dit Tracey.
 
-« Nan, » répondit Daphné.
+« Nan », répondit Daphné.
 
 
 
@@ -1470,10 +1470,10 @@ sujets Américains afin d’avoir un groupe témoin.
 Après ça, il ne s’était pas embêté à essayer en Allemagne.
 
 Dispositif expérimental : une série de 30 boutons alignés
-horizontalement avec des étiquettes allant de « 15 volts » à « 450 volts, »
+horizontalement avec des étiquettes allant de « 15 volts » à « 450 volts »,
 avec une étiquette supplémentaire par groupe de quatre boutons. Le
-premier groupe était marqué « Choc léger, » le sixième « Choc d’une extrême
-intensité, » le septième « Danger : Choc sévère » et les deux derniers
+premier groupe était marqué « Choc léger », le sixième « Choc d’une extrême
+intensité », le septième « Danger : Choc sévère » et les deux derniers
 boutons étaient seulement marqués d’un « XXX ».
 
 Un acteur, complice de l’expérimentateur, était présenté au véritable
@@ -1504,8 +1504,8 @@ Puis plus un son jusqu’à la fin de l’expérience.
 Si le sujet soulevait des objections ou refusait d’appuyer sur un
 bouton, l’expérimentateur, tout en maintenant une attitude passive,
 habillé d’une blouse grise de laboratoire, disait « Poursuivez, s’il vous
-plaît, » puis « L’expérience requiert que vous poursuiviez, » puis « Il est
-absolument essentiel que vous poursuiviez, » puis « Vous n’avez pas le
+plaît », puis « L’expérience requiert que vous poursuiviez », puis « Il est
+absolument essentiel que vous poursuiviez », puis « Vous n’avez pas le
 choix, vous *devez* continuer ». Si la quatrième incitation échouait,
 l’expérience s’arrêtait.
 
@@ -1622,7 +1622,7 @@ ce que Hermione et ceux qui avaient résisté à l’Holocauste avaient fait.
 
 Ces gens qui avaient vécu l’expérience de Milgram, ceux qui avaient
 tremblé, sué et rit nerveusement tout en appuyant sur tous les boutons
-jusqu’à ceux marqués d’un « XXX, » nombre de ces gens avaient ensuite
+jusqu’à ceux marqués d’un « XXX », nombre de ces gens avaient ensuite
 écrit à Milgram pour le remercier de ce qu’ils avaient découverts sur
 eux-mêmes. Cela aussi faisait partie de l’histoire, de la légende de
 l’expérience légendaire.
@@ -1664,7 +1664,7 @@ d’importance.
 *Alors le professeur Quirrell a-t-il raison ?* demanda Serpentard.
 *Indépendamment du fait qu’il soit bon ou mauvais, est-ce qu’il a*
 raison * ? Es-tu leur prochain Seigneur, qu’ils le sachent ou non ?
-Oublions le « des Ténèbres, » c’est juste son cynisme habituel. Mais ton
+Oublions le « des Ténèbres », c’est juste son cynisme habituel. Mais ton
 intention est-elle maintenant de diriger ? Je dois avouer que même* moi
 *ça me rend nerveux.*
 
@@ -1874,7 +1874,7 @@ sa baguette après avoir lancé un sortilège de Silence autour d’eux.
 (Un sacré paquet de Serdaigle essayaient de ne pas avoir l’air de
 regarder).
 
-« Hé, » dit Harry. Sa voix vacilla. « Tu m’as manqué. Tu… vas me reparler
+« Hé », dit Harry. Sa voix vacilla. « Tu m’as manqué. Tu… vas me reparler
 maintenant ? »
 
 Hermione hocha la tête, rien de plus, car elle ne savait pas quoi
@@ -1894,8 +1894,8 @@ suivante avait prétendu que Hermione avait aussi inventé *ça*, ce qui
 était d’un niveau de stupidité tellement inconcevable que ça l’avait
 laissée *complètement pantoise*.
 
-« Je ne peux pas en parler, » dit Harry dans un souffle. « Je ne peux
-presque rien en dire. J’aimerais pouvoir tout te raconter, » sa voix
+« Je ne peux pas en parler », dit Harry dans un souffle. « Je ne peux
+presque rien en dire. J’aimerais pouvoir tout te raconter », sa voix
 trembla, « mais je ne peux pas… je ne sais pas mais en tout cas si ça
 peut t’aider : je n’irai plus déjeuner avec le professeur Quirrell… »
 
@@ -1905,7 +1905,7 @@ Hermione sentit le malaise qui se répandait dans son estomac.
 
 « Est-ce que tu pleures ? » dit Hermione.
 
-« Ouais, » dit Harry d’une voix qui se rapprochait du chuchotement. « Je ne
+« Ouais », dit Harry d’une voix qui se rapprochait du chuchotement. « Je ne
 veux pas que quelqu’un d’autre me voie. »
 
 Il y eut un court silence. Elle voulait l’aider mais elle savait pas
@@ -1918,7 +1918,7 @@ quelque chose dans le genre, mais elle ignorait tout.
 « Le professeur Quirrell a-t-il fait quelque chose de mal ? » dit-elle
 enfin ?
 
-« Ce n’est pas pour ça que je n’irais plus déjeuner avec lui, » dit Harry,
+« Ce n’est pas pour ça que je n’irais plus déjeuner avec lui », dit Harry,
 toujours dans un souffle, ses mains toujours contre ses yeux. « C’est le
 directeur qui en a décidé ainsi. Mais ouais, le professeur Quirrell m’a
 dit certaines choses et je crois qu’elles ont diminué ma confiance en
@@ -1933,7 +1933,7 @@ sens…
 « Est-ce que je peux faire quoi que ce soit pour t’aider ? »
 demanda-t-elle.
 
-« Je veux faire quelque chose de normal, » dit-il de derrière ses mains.
+« Je veux faire quelque chose de normal », dit-il de derrière ses mains.
 « Quelque chose de très normal pour des élèves de Poudlard en première
 année. Quelque chose que les enfants de onze et douze ans comme nous
 sont *censés* faire. Comme de jouer à une partie de bataille explosive
@@ -1950,7 +1950,7 @@ des jeux de garçon ! »
 
 Il y eut un silence. Harry appuya ses mains contre son visage pour
 l’essuyer puis il les retira ; et il la regarda alors avec un air sans
-défense. « Eh bien, » dit Harry, « que les sorciers et les sorcières de
+défense. « Eh bien », dit Harry, « que les sorciers et les sorcières de
 notre âge *font-ils* quand ils jouent ? Tu sais, le genre de jeu idiot
 et futile auquel ont est *censé* jouer à cet âge ? »
 
@@ -1960,7 +1960,7 @@ licornes ? *Je* ne sais pas, *je* lis des livres ! »
 Harry commença à rire, et Hermione commença à glousser avec lui,
 *c’était* drôle sans vraiment qu’elle sache pourquoi.
 
-« J’imagine que ça aide un peu, » dit Harry. « En fait, je pense que ça m’a
+« J’imagine que ça aide un peu », dit Harry. « En fait, je pense que ça m’a
 plus aidé que jouer aux Bavboules pendant une heure n’aurait jamais pu
 le faire, donc merci d’être qui tu es. Et quoi qu’il arrive, je ne
 demanderai *jamais* à personne d’Oublietter tout ce que je sais sur le
@@ -1971,13 +1971,13 @@ chose *pareille* ? »
 
 Il se leva de la table et le son ambiant revint dans un souffle à
 l’instant où son changement de position brisa le sortilège de silence.
-« Je suis un peu fatigué, je vais me coucher, » dit Harry, d’une voix
+« Je suis un peu fatigué, je vais me coucher », dit Harry, d’une voix
 maintenant normale et narquoise, « j’ai perdu un peu de temps et je dois
 le rattraper, mais je te verrai au petit déjeuner puis en Botanique, si
 ça ne te dérange pas. Sans parler du fait que ça ne serait pas juste de
 te faire porter tout le poids de ma dépression. Nuit, Hermione. »
 
-« Bonne nuit, Harry, » dit-elle tout en se sentant très perplexe et
+« Bonne nuit, Harry », dit-elle tout en se sentant très perplexe et
 inquiète. « Beaux rêves. »
 
 Harry trébucha un peu lorsqu’elle dit cela, puis il continua vers les
@@ -2049,7 +2049,7 @@ Eh bien, il avait *déjà* touché le parchemin qui aurait aussi bien pu
 
 Mais quand même.
 
-« Wingardium Leviosa, » chuchota Harry, et il fit léviter le paquet de
+« Wingardium Leviosa », chuchota Harry, et il fit léviter le paquet de
 cartes à côté de son alarme, dans une poche de sa tête de lit. Il s’en
 occuperai demain.
 

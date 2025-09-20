@@ -343,7 +343,7 @@ d’avoir une artillerie d’arguments inférieure à celle de l’ennemi,
 jamais, et encore moins face à un Choixpeau capable d’emprunter tout son
 savoir et son intelligence pour débattre avec lui, et capable de voir
 ses pensées alors qu’elles se formaient. *Et de quel récapitulatif
-statistique viennent tes « sentiments, » alors ? Prennent-ils en compte le
+statistique viennent tes « sentiments », alors ? Prennent-ils en compte le
 fait que je viens de la culture des Lumières, ou que ces autres
 Seigneurs des Ténèbres potentiels étaient les enfants d’une noblesse
 moyenâgeuse gâtée, qui savaient peau de bique des leçons à tirer de ce

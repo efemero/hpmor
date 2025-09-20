@@ -50,14 +50,14 @@ s’ouvrit grand.
 
 Aussi durs que la pierre, les yeux verts le regardaient avec furie.
 
-« J’admets être impressionné, Harry, » dit le vieux sorcier à voix basse.
+« J’admets être impressionné, Harry », dit le vieux sorcier à voix basse.
 « La Cape d’Invisibilité t’aurait permis d’échapper à mes moyens
 d’observations les plus faibles ; mais je n’ai pas senti mes golems
 s’écarter ni les escaliers tourner. Comment es-tu venu ici ? »
 
 Le garçon entra dans le bureau, chaque pas délibéré, étudié, jusqu’à ce
 que la porte se referme doucement derrière lui. « Je peux aller où bon me
-semble, avec ou sans votre permission, » dit le garçon. Sa voix semblait
+semble, avec ou sans votre permission », dit le garçon. Sa voix semblait
 calme ; trop calme, peut-être. « Je suis dans votre bureau car j’ai
 décidé de m’y rendre, et au diable les mots de passe. Vous auriez bien
 tort, M. le directeur, de penser que je ne reste dans cette école que
@@ -70,7 +70,7 @@ cinquième année ? »
 Le vieux sorcier regarda le jeune héros en colère pendant un long
 moment. Puis, assez lentement pour ne pas alarmer le garçon, ses doigts
 flétris ouvrirent l’un des nombreux tiroirs du bureau, en sortirent une
-feuille de parchemin et l’étalèrent sur le bureau. « Quatorze, » dit le
+feuille de parchemin et l’étalèrent sur le bureau. « Quatorze », dit le
 vieux sorcier. « Ce n’est pas le nombre de chouettes envoyées la nuit
 dernière. Seulement celles envoyées aux familles qui possèdent un siège
 au Magenmagot, une grande fortune, ou qui sont déjà alliées à tes
@@ -109,7 +109,7 @@ imaginatif de le ruiner financièrement ou de le faire exiler
 d’Angleterre magique. Je pense que cela aiderait à clarifier les
 choses. »
 
-« Je confesse, » dit lentement le vieux sorcier, « que l’idée de ruiner une
+« Je confesse », dit lentement le vieux sorcier, « que l’idée de ruiner une
 maison vieille de cinq cents ans et de provoquer un Mangemort dans une
 guerre à outrance à cause d’une bagarre dans les couloirs de Poudlard ne
 m’était pas venue, Harry. » Le vieux sorcier leva un doigt pour remonter
@@ -119,7 +119,7 @@ qu’elle ne viendrait pas non plus à Mlle Granger, pas plus qu’au
 professeur McGonagall ou à Fred et à George. »
 
 Le garçon haussa les épaules. « Ce ne serait pas *à propos* des
-couloirs, » dit le garçon. « Ce ne serait que justice pour ses crimes
+couloirs », dit le garçon. « Ce ne serait que justice pour ses crimes
 passés, et je ne le ferais que si Jugson jouait le premier coup. L’idée
 n’est pas de m’utiliser comme un joker qui inspire la crainte, après
 tout. C’est d’enseigner aux gens que les neutres sont parfaitement à
@@ -130,7 +130,7 @@ Sorcier pour dire que tous ceux qui veulent poursuivre cette querelle
 avec moi apprendront le véritable sens du mot Chaos mais que tous ceux
 qui me laissent tranquille n’auront pas de problème. »
 
-« *Non*, » dit le vieux sorcier. Sa voix était à présent plus grave et
+« *Non* », dit le vieux sorcier. Sa voix était à présent plus grave et
 révélait une partie de son âge et de son véritable pouvoir. « Non, Harry,
 il ne peut en être ainsi. Tu n’as pas encore appris le sens du combat,
 ce qui se passe réellement lorsque des ennemis se rencontrent sur le
@@ -145,7 +145,7 @@ Le garçon hésita alors et ses yeux passèrent brièvement sur le perchoir
 vide où Fumseck reposait parfois ses ailes. C’était un mouvement que peu
 auraient perçu, mais le vieux sorcier le connaissait très bien.
 
-« D’accord, oubliez la partie où je leur apprends à me craindre, » dit
+« D’accord, oubliez la partie où je leur apprends à me craindre », dit
 alors le garçon. Sa voix n’en était pas moins dure, mais une partie du
 froid l’avait quittée. « Je ne pense toujours pas que vous devriez
 laisser les enfants se faire brutaliser de peur de ce que Lord Jugson
@@ -182,7 +182,7 @@ Ils n’exigent pas que vous abandonniez les enfants que vous étiez censé
 protéger. Faisons gagner le côté clair, et si cela provoque des
 problèmes… » le garçon haussa les épaules. « Faisons-le gagner à nouveau. »
 
-« Ainsi parleraient les phénix s’ils en étaient capables, » dit le vieux
+« Ainsi parleraient les phénix s’ils en étaient capables », dit le vieux
 sorcier. « Mais tu ne comprends pas le *prix du phénix*. »
 
 Les deux derniers mots furent prononcés d’une voix particulièrement
@@ -253,7 +253,7 @@ reçu un coup de marteau, peut-être le plus fort qu’il ait jamais reçu de
 sa vie.
 
 « Tous ceux qui sont tombés à cause de toutes mes guerres ne sont pas
-là, » dit Albus Dumbledore, dont Harry ne pouvait voir que les boucles
+là », dit Albus Dumbledore, dont Harry ne pouvait voir que les boucles
 grises et les robes jaunes. « Loin de là. Seuls mes amis les plus proches
 et ceux qui sont morts à cause de mes pires décisions. Une partie de
 ceux-là se trouve ici. Ceux que je regrette le plus résident ici. »
@@ -265,7 +265,7 @@ supplémentaires.
 
 Albus Dumbledore se retourna et regarda Harry de ses profonds yeux bleus
 sertis sur son visage tels des bijoux d’acier, mais sa voix fut calme :
-« J’ai l’impression que tu ignores tout du prix du phénix, » dit Albus
+« J’ai l’impression que tu ignores tout du prix du phénix », dit Albus
 Dumbledore à voix basse. « J’ai l’impression que tu n’es pas quelqu’un de
 mauvais mais des plus terriblement ignorant, confiant dans son
 ignorance, comme je l’ai été un jour, il y a longtemps. Et pourtant je
@@ -308,7 +308,7 @@ Harry avança lentement jusqu’à se tenir devant le piédestal. « Qui
 était-elle ? » dit Harry d’une voix qui sembla étrange à ses propres
 oreilles.
 
-« Elle s’appelait Tricia Glasswell, » dit Dumbledore. « La mère d’un fille
+« Elle s’appelait Tricia Glasswell », dit Dumbledore. « La mère d’un fille
 née-Moldue que les Mangemort ont tué. Elle était détective pour le
 gouvernement moldu, et elle a ensuite fourni des informations venues des
 autorités moldues à l’Ordre du Phénix jusqu’à être… trahie… et mise
@@ -317,12 +317,12 @@ Dumbledore. « Elle n’est pas morte en paix, Harry ; »
 
 « A-t-elle sauvé des vies ? » dit Harry.
 
-« Oui, » dit doucement le sorcier. « En effet. »
+« Oui », dit doucement le sorcier. « En effet. »
 
 Harry éleva son regard au-dessus du piédestal pour regarder Dumbledore.
 « Le monde serait-il un endroit meilleur si elle ne s’était pas battue ? »
 
-« Non, » dit le vieux sorcier. Sa voix était fatiguée et endeuillée. Il
+« Non », dit le vieux sorcier. Sa voix était fatiguée et endeuillée. Il
 semblait plus penché, comme s’il était en train de se replier sur
 lui-même. « Je vois que tu ne comprends toujours pas. Je pense que tu ne
 comprendras pas avant le jour où tu… oh, Harry. Il y a si longtemps,
@@ -340,7 +340,7 @@ sol. Il était clair que le directeur essayait de lui dire quelque chose
 d’important, et ce n’était pas non plus quelque chose que Harry trouvait
 idiot.
 
-« Il y avait un Moldu nommé Mohandas Gandhi, » dit Harry à l’attention du
+« Il y avait un Moldu nommé Mohandas Gandhi », dit Harry à l’attention du
 plancher. « Il pensait que le gouvernement d’Angleterre moldu ne devait
 pas diriger son pays. Et il refusait de se battre. Il a convaincu son
 pays entier de ne pas se battre. Au lieu de cela, il a dit aux gens de
@@ -362,12 +362,12 @@ de convaincre le gouvernement d’Angleterre de ne *pas* donner la
 Tchécoslovaquie à Hitler en échange d’un traité de paix, qui a essayé de
 les convaincre de se battre tout de suite — »
 
-« Je reconnais le nom, Harry, » dit Dumbledore. Les lèvres du vieux
+« Je reconnais le nom, Harry », dit Dumbledore. Les lèvres du vieux
 sorcier s’élevèrent brièvement. « Même si l’honnêteté me force à dire que
 ce bon vieux Winston n’a jamais été prompt aux remords, même après une
 douzaine de shots de Whisky Pur Feu. »
 
-« L’idée étant, » dit Harry après une brève pause lors de laquelle il se
+« L’idée étant », dit Harry après une brève pause lors de laquelle il se
 rappela à qui exactement il était en train de parler et combattit le
 sentiment, revenu une fois de plus, qu’il était un enfant ignorant
 devenu fou d’audace qui n’avait aucun droit d’être dans cette pièce et
@@ -380,7 +380,7 @@ et c’est pour ça que j’ai perdu une partie de mon respect pour lui. »
 « Et ta propre réponse, Harry ? » dit doucement Dumbledore.
 
 « Une réponse est qu’on ne devrait jamais utiliser la violence, sauf pour
-arrêter la violence, » dit Harry. « On ne devrait jamais risquer la vie de
+arrêter la violence », dit Harry. « On ne devrait jamais risquer la vie de
 quelqu’un, sauf pour sauver encore plus de vies. Ça *sonne* bien quand
 on le dit comme ça. Sauf que le problème, c’est que si un policier voit
 un voleur cambrioler une maison, il *devrait* essayer d’arrêter le
@@ -402,24 +402,24 @@ où il fait bon vivre, M. le directeur ! Vous ne vous rendez pas compte
 de ce que toutes ces brutalisations font à Poudlard, et à Serpentard
 encore plus ? »
 
-« La *guerre* est trop terrible, » dit le vieux sorcier. « Et pourtant elle
+« La *guerre* est trop terrible », dit le vieux sorcier. « Et pourtant elle
 viendra. Voldemort revient. Les pièces noires se rassemblent. Dans cette
 guerre, Severus est l’une des pièces les plus importantes de notre camp.
 Mais notre mauvais maître des potions doit sauver les apparences, comme
 on dit. Si Severus peut payer ce tribu en faisant de la peine à des
-enfants, seulement de la peine, Harry, » la voix du vieux sorcier était
+enfants, seulement de la peine, Harry », la voix du vieux sorcier était
 très douce, « il faudrait que tu sois terriblement innocent en matière de
 guerre pour penser que tu as fait une mauvaise affaire. Les décisions
 difficiles ne ressemblent pas à *ça*, Harry. Elles ressemblent… à ça. »
 Le vieux sorcier ne bougea pas. Il resta simplement là, entre les
 piédestaux.
 
-« Vous ne devriez pas être directeur, » dit Harry, une sensation de
+« Vous ne devriez pas être directeur », dit Harry, une sensation de
 brûlure dans sa gorge. « Je suis désolé, je suis tellement désolé mais
 vous ne devriez pas essayer d’être un directeur d’école et de mener une
 guerre en même temps. Poudlard ne devrait pas être impliquée. »
 
-« Les enfants survivront, » dit le vieux sorcier aux yeux fatigués. « Ils
+« Les enfants survivront », dit le vieux sorcier aux yeux fatigués. « Ils
 ne survivraient pas à Voldemort. T’es-tu déjà demandé pourquoi les
 enfants de Poudlard ne parlent pas beaucoup de leurs parents, Harry ?
 C’est parce qu’il y a toujours, à portée d’oreille, quelqu’un qui a
@@ -446,9 +446,9 @@ devras un jour apprendre toute la vérité sur cette affaire.
 Promettras-tu de ne jamais en parler à un autre avant que je ne te le
 permette ? »
 
-Harry aurait aimé pouvoir le dire à Drago mais — « Je promets, » dit-il.
+Harry aurait aimé pouvoir le dire à Drago mais — « Je promets », dit-il.
 
-« Grindelwald possédait un objet terrible et ancien, » dit Dumbledore.
+« Grindelwald possédait un objet terrible et ancien », dit Dumbledore.
 « Tant qu’il l’avait en sa possession, je ne pouvais briser ses défenses.
 Je ne pouvais gagner notre duel, seulement le combattre pendant de
 longues heures jusqu’à ce qu’il tombe d’épuisement ; et j’en serais
@@ -464,7 +464,7 @@ tout ce qu’il y a. »
 Harry hocha lentement la tête. Étant donné ce qu’il avait vu de la
 magie, ce n’était pas entièrement impensable…
 
-« Et alors, » continua la voix de Dumbledore, encore plus basse, presque
+« Et alors », continua la voix de Dumbledore, encore plus basse, presque
 comme s’il se parlait à lui-même, « puisque c’est moi qui l’avais fait
 tomber, ils m’ont obéi lorsque j’ai dit qu’il ne devrait pas mourir,
 même s’ils étaient des milliers à réclamer son sang. Il fut donc
@@ -506,20 +506,20 @@ question.
 Le vieux sorcier regarda le jeune garçon qui s’était raidi et dont le
 visage avait changé.
 
-« En d’autres termes, » dit le garçon, comme s’il se parlait à lui-même
+« En d’autres termes », dit le garçon, comme s’il se parlait à lui-même
 dans une pièce vide, « on sait déjà comment garder de puissants mages
 noirs en prison sans utiliser de Détraqueurs. Les gens *savent* qu’on le
 sait. »
 
 « Harry… ? »
 
-« Non, » dit le garçon. Il releva les yeux, et ses yeux brillaient d’un
+« Non », dit le garçon. Il releva les yeux, et ses yeux brillaient d’un
 feu vert. « Je n’accepte pas votre réponse, M. le directeur. Fumseck m’a
 donné une mission, et je sais maintenant pourquoi il l’a donnée à moi et
 pas à vous. Vous êtes prêt à accepter un équilibre des pouvoirs dans
 lequel les méchants sont vainqueurs. Pas moi. »
 
-« Ce n’est pas non plus un réponse, » dit le vieux sorcier ; son visage ne
+« Ce n’est pas non plus un réponse », dit le vieux sorcier ; son visage ne
 révélait rien de sa souffrance car il avait longuement pratiqué la
 dissimulation de celle-ci. « On ne change pas quelque chose en refusant
 de l’accepter. Je me demande maintenant si tu n’es pas simplement trop
@@ -527,13 +527,13 @@ jeune pour comprendre cela, Harry, en dépit de ton apparence ; ce n’est
 que dans les fantasmes d’enfants que toutes batailles peuvent être
 gagnées et qu’aucun mal n’a à être toléré. »
 
-« Et c’est pour cela que je peux détruire les Détraqueurs et pas vous, »
+« Et c’est pour cela que je peux détruire les Détraqueurs et pas vous »,
 dit le garçon. « Parce que je pense que les ténèbres peuvent être
 brisées. »
 
 Le vieux sorcier eut le souffle coupé.
 
-« Le prix du phénix n’est pas inévitable, » dit le garçon. « Il ne fait pas
+« Le prix du phénix n’est pas inévitable », dit le garçon. « Il ne fait pas
 partie d’un équilibre profondément ancré dans l’univers. C’est juste une
 partie du problème où vous n’avez pas encore découvert comment tricher. »
 
@@ -541,7 +541,7 @@ Les lèvres du vieux sorcier s’ouvrirent mais aucun mot ne sortit.
 
 Une lumière argentée tombait sur les baguettes brisées.
 
-« Fumseck m’a donné une mission, » répéta le garçon, « et je la mènerai à
+« Fumseck m’a donné une mission », répéta le garçon, « et je la mènerai à
 bien même si je dois faire tomber tout le ministère pour cela. C’est la
 partie de la réponse qui vous manque. L’idée qu’on ne peut pas s’arrêter
 en disant *oh, eh bien j’imagine que je ne pourrai jamais trouver un
@@ -557,7 +557,7 @@ pouvoir, tu n’es pas encore au-delà des prix à payer, et peut-être ne le
 seras-tu jamais ! Car agir de la sorte *maintenant* n’est rien d’autre
 que de la folie ! »
 
-« J’ai demandé au professeur Quirrell pourquoi il avait ri, » dit le
+« J’ai demandé au professeur Quirrell pourquoi il avait ri », dit le
 garçon d’une voix neutre, « après avoir donné cent points à Hermione. Et
 il m’a répondu, ce n’étaient pas ses mots exacts, mais c’est plus ou
 moins ce qu’il a dit, qu’il avait trouvé particulièrement amusant de
@@ -575,7 +575,7 @@ Le vieux sorcier ne révéla pas la force du choc. Si vous l’aviez regardé
 très attentivement, seul un léger écarquillement de ses yeux l’aurait
 trahi.
 
-« Ne vous en faites pas, M. le directeur, » dit le garçon. « Je ne me suis
+« Ne vous en faites pas, M. le directeur », dit le garçon. « Je ne me suis
 pas emmêlé les pinceaux. Je sais que je suis censé apprendre ce qui est
 bon auprès de Hermione et de Fumseck, pas du professeur Quirrell et de
 vous. Ce qui m’amène à la véritable raison de ma venue. Le temps de
@@ -583,12 +583,12 @@ Hermione est trop précieux pour être gâché en retenues. Le professeur
 Rogue les annulera en prétendant que je l’ai fait chanter. »
 
 Après une hésitation, le vieux sorcier hocha la tête, faisant légèrement
-onduler sa barbe d’argent. « Ce ne serait pas idéal pour *elle*, Harry, »
+onduler sa barbe d’argent. « Ce ne serait pas idéal pour *elle*, Harry »,
 dit le vieux sorcier. « Mais on peut écrire que la retenue sera
 surveillée par le professeur Binns et vous pourrez ainsi étudier
 ensemble dans sa salle de cours. »
 
-« Très bien, » dit le garçon. « Je pense que c’est tout ce que nous avions
+« Très bien », dit le garçon. « Je pense que c’est tout ce que nous avions
 à régler. La prochaine fois que vous semblez travailler avec les
 méchants ou que vous les laissez gagnez, attendez-vous à ce que je fasse
 toute ce que je pense que Fumseck me laisserait faire, peu importe les
@@ -606,7 +606,7 @@ Le garçon refit passer sa tête à l’intérieur. « Ça vous embêterait de
 rallumer les escaliers, M. le directeur ? Je préférerais ne pas refaire
 tout le travail que j’ai dû faire pour venir. »
 
-« Vas, Harry Potter, » dit le vieux sorcier. « Les escaliers te recevront. »
+« Vas, Harry Potter », dit le vieux sorcier. « Les escaliers te recevront. »
 
 (Quelques temps plus tard, une version antérieure de Harry qui avait
 attendu invisible à côté des gargouilles depuis neuf heures du soir,
@@ -642,7 +642,7 @@ Puis vint le bruit de pas le plus discret qui soit, presque inaudible
 même sur le sol forestier ; la démarche d’un homme habitué à passer
 inaperçu. Aucune brindille ne se brisa, aucune feuille ne bruissa…
 
-« Bon après-midi, » dit le professeur Quirrell. Il ne prit la peine de
+« Bon après-midi », dit le professeur Quirrell. Il ne prit la peine de
 déplacer ni ses yeux, ni ses mains nonchalamment laissées le long de ses
 flancs.
 
@@ -652,19 +652,19 @@ droite. Dans la main droite de la silhouette, tenue basse, se trouvait
 une baguette d’un bois si gris qu’elle était presque argentée.
 
 « Je ne sais pas pourquoi vous désiriez que nous nous rencontrions *ici*
-en particulier, » dit Severus Rogue d’une voix fraîche.
+en particulier », dit Severus Rogue d’une voix fraîche.
 
-« Oh, » dit le professeur Quirrell comme pour passer le temps, comme si
+« Oh », dit le professeur Quirrell comme pour passer le temps, comme si
 toute l’affaire n’avait pas la moindre importance, « j’ai pensé que vous
 préféreriez avoir de l’intimité. Les murs de Poudlard ont des oreilles,
 et vous ne voudriez pas que le directeur apprenne votre rôle dans
 l’affaire d’hier, n’est-ce pas ? »
 
 La fraîcheur de mars sembla devenir plus profonde, la température sembla
-chuter. « Je ne sais pas de quoi vous parlez, » dit le maître des potions
+chuter. « Je ne sais pas de quoi vous parlez », dit le maître des potions
 d’un ton glacial.
 
-« Vous savez parfaitement de quoi je parle, » dit le professeur Quirrell
+« Vous savez parfaitement de quoi je parle », dit le professeur Quirrell
 d’un ton amusé. « Vraiment, mon bon professeur, vous ne devriez pas vous
 mêler des affaires d’idiots à moins d’être à chaque instant prêt à vous
 défendre contre toute la violence dont ils sont capables. » (Les mains du
@@ -692,7 +692,7 @@ vêtue de noir du maître des potions avec l’attention qu’un homme aurait
 pu apporter à un insecte exceptionnellement intéressant mais qui n’en
 serait pas moins demeuré, au fond, qu’un insecte.
 
-« Je ne suis pas un serviteur de Dumbledore, » dit le maître des potions
+« Je ne suis pas un serviteur de Dumbledore », dit le maître des potions
 d’une voix froide.
 
 « Vraiment ? Quelle incroyable nouvelle. » Le professeur de Défense
@@ -702,22 +702,22 @@ Il y eut un long silence. Depuis un arbre, une chouette hulula, un son
 qui sembla immense ; aucun des deux hommes ne fut surpris ni ne
 tressaillit.
 
-« Vous n’avez aucune envie d’être mon ennemi, » dit Severus Rogue d’une
+« Vous n’avez aucune envie d’être mon ennemi », dit Severus Rogue d’une
 voix très douce.
 
 « Ah bon ? » dit le professeur Quirrell. « Et comment le sauriez-vous ? »
 
-« En revanche, » continua le maître des potions, sa voix toujours très
+« En revanche », continua le maître des potions, sa voix toujours très
 douce, « mes amis bénéficient de nombreux avantages. »
 
 L’homme appuyé contre l’écorce grise leva les sourcils. « Tels que ? »
 
-« Je sais nombre de choses sur cette école, » dit le maître des potions.
+« Je sais nombre de choses sur cette école », dit le maître des potions.
 « Des choses que vous ne me soupçonnez peut-être pas de connaître. »
 
 Il y eut un silence, comme l’attente de quelque chose.
 
-« Que c’est fascinant, » dit le professeur Quirrell. L’homme examinait ses
+« Que c’est fascinant », dit le professeur Quirrell. L’homme examinait ses
 ongles avec l’air de s’ennuyer. « Continuez, je vous en prie. »
 
 « Je sais que vous avez… *enquêté*… sur le couloir du troisième étage — »
@@ -750,15 +750,15 @@ lèvres.
 
 Il y eut un autre long silence dans la clairière.
 
-« Je ne sais pas *qui* Dumbledore craint, » dit Rogue. « Mais je sais quel
+« Je ne sais pas *qui* Dumbledore craint », dit Rogue. « Mais je sais quel
 appât a été mis en place, et j’ai une idée quant à ce qui le protège
 vraiment — »
 
-« Quant à ça, » dit le professeur comme s’il s’ennuyait de nouveau, « je
+« Quant à ça », dit le professeur comme s’il s’ennuyait de nouveau, « je
 l’ai volé il y a des mois et j’ai laissé un faux à sa place. Mais merci
 d’avoir demandé. »
 
-« Vous mentez, » dit Severus Rogue au bout d’un moment.
+« Vous mentez », dit Severus Rogue au bout d’un moment.
 
 « Oui, en effet. » Le professeur Quirrell s’appuya de nouveau contre le
 bois gris, ses yeux s’élevant vers le dense maillage des branches, la
@@ -770,7 +770,7 @@ lui-même.
 Le maître des potions avait l’air d’être sur le point de s’étrangler de
 rage. « *Que voulez-vous ?* »
 
-« À vrai dire, rien, » dit le professeur de Défense en continuant de
+« À vrai dire, rien », dit le professeur de Défense en continuant de
 regarder le toit forestier. « J’étais seulement curieux. J’imagine que je
 vais juste continuer d’observer et voir où vont vos plans, et pendant ce
 temps je ne dirai rien au directeur — tant que vous acceptez de
@@ -801,7 +801,7 @@ aucune des armées du professeur Quirrell, qui obtenait des notes
 passables au mieux en cours de Défense et qui n’aurait pas pu lancer une
 barrière prismatique même si sa vie en avait dépendu.
 
-« Oh, arrêtez ça, » dit Drago Malefoy en essayant de prendre un ton ennuyé
+« Oh, arrêtez ça », dit Drago Malefoy en essayant de prendre un ton ennuyé
 en dépit de la sueur qui venait d’apparaître sous ses robes et en
 gardant sa baguette pointée vers la barrière qui protégeait Millicent
 Bulstrode.
@@ -831,10 +831,10 @@ disait que même en s’en tirant cette fois-ci, s’il continuait ainsi, le
 temps viendrait où tout s’écroulerait ; et alors il ne serait peut-être
 plus le prochain Lord Malefoy.
 
-« M. Malefoy, » dit le garçon qui avait l’air le plus âgé. « Pourquoi la
+« M. Malefoy », dit le garçon qui avait l’air le plus âgé. « Pourquoi la
 protégez-vous ? »
 
-« Vous avez donc localisé la maîtresse de la conspiration, » dit Drago
+« Vous avez donc localisé la maîtresse de la conspiration », dit Drago
 avec son sourire méprisant numéro deux, « et c’est, autant être clair
 maintenant, une fille en première année prénommée Millicent Bulstrode.
 Elle n’est qu’une *passeuse*, espèce de cornigaud ! »
@@ -846,19 +846,19 @@ Drago leva sa baguette et la sphère prismatique disparut instantanément.
 Toujours d’une voix ennuyée, Drago dit : « *Saviez*-vous ce que vous
 faisiez, Mlle Bulstrode ? »
 
-« N-non, » bégaya Millicent, toujours assise à son bureau.
+« N-non », bégaya Millicent, toujours assise à son bureau.
 
 « Saviez-vous où les messages Serpentard que vous passiez allaient ? »
 
 « Non ! » dit Millicent.
 
-« Merci, » dit Drago. « Vous tous, merci de la laisser tranquille, elle
+« Merci », dit Drago. « Vous tous, merci de la laisser tranquille, elle
 n’est qu’un pion. Mlle Bulstrode, vous pouvez considérer que la faveur
 que vous m’avez faite en février a été rendue. » Et Drago revint à ses
 devoirs de potions, en priant Merlin et les autres que Millicent ne
 dirait rien de stupide, comme par exemple : « Quelle faveur ? »…
 
-« Alors pourquoi, » dit une voix claire depuis l’autre côté de la pièce,
+« Alors pourquoi », dit une voix claire depuis l’autre côté de la pièce,
 « ces sorcières allaient-elles exactement là où Millicent leur disait
 d’aller ? »
 
@@ -936,7 +936,7 @@ de Drago, certes petite mais privée. Gregory faisait ses devoirs de
 métamorphose, pour lesquels il avait souvent besoin d’aide.
 
 À ce stade, n’importe quelle distraction était la bienvenue. »Oui ?« dit
-Drago. »Vous ne maniganciez rien du tout contre Granger,« dit Gregory, »en
+Drago. »Vous ne maniganciez rien du tout contre Granger,« dit Gregory »,en
 fait, non ?« La sensation qui se répandit jusqu’à l’estomac de Drago ressemblait
 beaucoup à la voix qu’avait eu Gregory : malade et apeurée. »Vous l’aidiez, en fait, le jour où vous l’avez aidée à se relever,« dit
 Gregory . »Et avant ça, la fois où vous l’avez empêchée de tomber du
@@ -991,7 +991,7 @@ Malefoy finira tout en haut, comme toujours. Les gens se tourneront
 peut-être même vers *moi*, si Potter n’est pas là, du moment qu’ils
 pensent que je suis digne de confiance. C’est ce que je mets en place
 maintenant. Père comprendra.« Gregory leva une main et s’essuya les yeux avant de se replonger dans
-ses devoirs de métamorphose. »D’accord,« dit-il d’une voix chancelante, »si vous le dites, M. Malefoy.« Drago hocha de nouveau la tête, ignora la sensation de néant qui
+ses devoirs de métamorphose. »D’accord,« dit-il d’une voix chancelante »,si vous le dites, M. Malefoy.« Drago hocha de nouveau la tête, ignora la sensation de néant qui
 s’emparait de lui face aux mensonges qu’il venait de dire à son ami et
 revint aux étoiles.
 
@@ -1146,9 +1146,9 @@ là l’énigme, jeune Serdaigle. Jusqu’à ce que tu la résolves, tu peux
 m’appeler comme tu le souhaites.« Hermione pouvait sentir que sa paume suait déjà et elle ressentit de la
 gratitude pour les lignes striées qui aidaient sa main à garder une
 prise stable sur le bois. »Eh bien, M. Incroyablement Suspect,« dit
-Hermione, »que me voulez-vous ?« »Ce n’est pas la bonne question,« répondit le chuchotement du brouillard
-noir. »Tu devrais plutôt me demander ce *je* peux t’offrir à *toi*.« »Non,« dit la jeune fille d’un ton assez calme, »franchement, je ne
-pense pas que je *devrais* vous demander ça.« Un gloussement aigu émergea du brouillard noir. »Pas du pouvoir,« chuchota la voix, »ni des richesses, car te soucies peu de telles
+Hermione »,que me voulez-vous ?« »Ce n’est pas la bonne question,« répondit le chuchotement du brouillard
+noir. »Tu devrais plutôt me demander ce *je* peux t’offrir à *toi*.« »Non,« dit la jeune fille d’un ton assez calme »,franchement, je ne
+pense pas que je *devrais* vous demander ça.« Un gloussement aigu émergea du brouillard noir. »Pas du pouvoir,« chuchota la voix »,ni des richesses, car te soucies peu de telles
 choses, n’est-ce pas, jeune Serdaigle ? Du *savoir*. C’est ce que je
 possède. Je sais ce qui se déroule dans cette école, tous les plans et
 les joueurs secrets, les réponses à toutes les énigmes. Je connais la
@@ -1166,7 +1166,7 @@ plusieurs minutes.
 
 La voix siffla : »Le professeur Rogue est secrètement un Mangemort.« Hermione faillit laisser tomber sa baguette. »
 
-« Ah, » chuchota la voix, satisfaite. « Je pensais que cela pourrais
+« Ah », chuchota la voix, satisfaite. « Je pensais que cela pourrais
 t’intéresser. Donc, Hermione. Y a-t-il quoi que ce soit que tu désires
 savoir au sujet de tes ennemis ou de ceux que tu appelles tes amis ? »
 
@@ -1177,7 +1177,7 @@ pareille, *pourquoi*, qu’est-ce qui se *passait* ? « C’est — » d
 Hermione. Sa voix tremblait. « C’est extrêmement sérieux si c’est vrai.
 Pourquoi le dire à *moi* et pas au directeur ? »
 
-« Dumbledore n’a rien fait pour arrêter Rogue, » chuchota le brouillard
+« Dumbledore n’a rien fait pour arrêter Rogue », chuchota le brouillard
 noir. « Tu l’as vu, Hermione. La pourriture de Poudlard commence à son
 sommet. Tout ce qui ne va pas dans cette école commence avec le
 directeur fou. Toi seule a osé le dire haut et fort — et c’est pour cela
@@ -1188,14 +1188,14 @@ gardant sa voix aussi stable que possible. Si c’était *ça* le fantôme
 qui aidait Harry -
 
 Le brouillard noir s’assombrit, s’éclaircit, comme un non de la tête.
-« Harry Potter m’effraie, » chuchota-t-il. « La froideur de son regard et
+« Harry Potter m’effraie », chuchota-t-il. « La froideur de son regard et
 les ténèbres qui grandissent derrière celui-ci m’effraient. Harry Potter
 est un tueur et tous ceux qui lui font obstacle vont mourir. Même toi,
 Hermione Granger. Si tu oses t’opposer vraiment à lui, alors les
 ténèbres derrière son regard sortiront et te détruiront. Cela, je le
 sais. »
 
-« Alors vous ne savez pas la moitié de ce que vous prétendez savoir, » dit
+« Alors vous ne savez pas la moitié de ce que vous prétendez savoir », dit
 Hermione d’une voix un peu plus ferme. « Moi aussi, j’ai peur de Harry.
 Mais pas à cause de ce qu’il pourrait *me* faire. À cause de ce qu’il
 pourrait faire pour me *protéger* — »
@@ -1215,7 +1215,7 @@ sais ? »
 plus tard. Pour l’instant, pour aujourd’hui, Harry Potter n’est en effet
 pas ton ennemi. Et pourtant tu cours un terrible danger. »
 
-« *Ça*, je veux bien le croire, » dit Hermione Granger. Elle souhaitait
+« *Ça*, je veux bien le croire », dit Hermione Granger. Elle souhaitait
 désespérément faire passer sa baguette à son autre main car elle avait
 l’impression de devoir saisir son bras juste pour le garder levé ; sa
 tête la faisait souffrir comme si elle avait regardé le brouillard noir
@@ -1240,7 +1240,7 @@ afin d’obtenir plus d’informations, mais son esprit était ralenti,
 fatigué. Il fallait vraiment qu’elle parte de là et qu’elle aille
 s’allonger un moment.
 
-« Tu ne me crois pas, » dit le chuchotement, à présent plus doux et plus
+« Tu ne me crois pas », dit le chuchotement, à présent plus doux et plus
 triste. « Pourquoi pas, Hermione. *J’essaie* de t’aider. »
 
 Hermione fit un pas en arrière pour s’éloigner de l’alcôve ombragée.
@@ -1255,7 +1255,7 @@ se retourner et fuir, ou encore mieux, commencer par lancer une barrière
 prismatique et courir ensuite en hurlant à s’en percer les poumons ;
 mais la note de douleur sincère dans la voix la saisit et elle répondit.
 
-« Parce que vous avez l’air incroyablement sombre et suspect, » dit
+« Parce que vous avez l’air incroyablement sombre et suspect », dit
 Hermione en gardant un ton poli et en maintenant sa baguette pointée
 vers l’immense cape noire et le brouillard sans visage.
 
@@ -1265,14 +1265,14 @@ toi, la plus intelligente à faire l’honneur de sa présence à Poudlard
 depuis une génération, devrait sûrement savoir que les apparences
 peuvent être trompeuses. »
 
-« Oh, je sais bien, » dit Hermione. Elle fit un pas de plus en arrière,
+« Oh, je sais bien », dit Hermione. Elle fit un pas de plus en arrière,
 ses doigts fatigués resserrés sur la baguette. « Mais ce que les gens
 oublient parfois, c’est que même si les apparences *peuvent* être
 trompeuses, elles ne le sont généralement *pas*. »
 
 Il y eut un silence.
 
-« C’est *toi* qui es intelligente, » dit la voix, puis le brouillard
+« C’est *toi* qui es intelligente », dit la voix, puis le brouillard
 s’évapora et ne dissimula plus rien ; Hermione vit le visage qui se
 trouvait en-dessous et le reconnaître envoya une décharge d’adrénaline
 et de terreur à travers son corps -

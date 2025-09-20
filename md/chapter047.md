@@ -108,11 +108,11 @@ Au moins, *cette* partie de ce qu’il avait appris n’avait probablement
 pas été un mensonge.
 
 Harry avait tressailli lorsque le globe s’était illuminé, il s’était
-arrêté, puis il avait repris son approche. « Bonjour, Drago, » dit
+arrêté, puis il avait repris son approche. « Bonjour, Drago », dit
 doucement Harry, relevant sa capuche à l’approche du bureau de Drago.
 « Merci d’être venu. Je sais que ce n’est pas ton horaire habituel — »
 
-« De rien, » dit Drago d’une voix sans timbre.
+« De rien », dit Drago d’une voix sans timbre.
 
 Harry traîna l’une des chaises pour faire face à Drago, et les pieds de
 la chaise émirent un léger crissement en raclant le sol. Il fit pivoter
@@ -120,16 +120,16 @@ la chaise, pour qu’elle soit à l’envers, et il l’enfourcha, ses bras
 croisés contre le dossier. Le visage du garçon était pensif, sourcils
 froncés, sérieux, un air très adulte, même pour Harry Potter.
 
-« J’ai une question importante à te poser, » dit Harry, « mais avant cela,
+« J’ai une question importante à te poser », dit Harry, « mais avant cela,
 il y a autre chose que j’aimerais que nous fassions. »
 
 Drago ne dit rien, et il commença à ressentir une certaine lassitude.
 Une partie de lui voulait juste en avoir fini avec tout cela.
 
-« Dis moi, Drago, » dit Harry. « Pourquoi les Moldus ne laissent-ils jamais
+« Dis moi, Drago », dit Harry. « Pourquoi les Moldus ne laissent-ils jamais
 de fantômes derrière eux lorsqu’ils meurent ? »
 
-« Parce que les Moldus n’ont pas d’âme, évidemment, » dit Drago. Il ne se
+« Parce que les Moldus n’ont pas d’âme, évidemment », dit Drago. Il ne se
 rendit compte que cela contredisait peut-être les opinons politiques de
 Harry qu’après avoir prononcé ces mots, et il décida qu’il s’en fichait.
 Et puis après tout, c »*était* évident.
@@ -144,19 +144,19 @@ interlocuteurs.
 
 Puis il comprit, et il se redressa et s’éloigna du bureau d’un seul
 mouvement furieux. C’en était trop. C’était fini. « Comme les serviteurs
-de Dumbledore, » cracha-t-il.
+de Dumbledore », cracha-t-il.
 
-« Comme Salazar Serpentard, » dit Harry d’une voix ferme.
+« Comme Salazar Serpentard », dit Harry d’une voix ferme.
 
 Drago failli trébucha au beau milieu de son premier pas en direction de
 la porte.
 
 Il se retourna lentement vers Harry.
 
-« Je ne sais pas où tu es allé dénicher ça, » dit Drago, « mais c’est faux,
+« Je ne sais pas où tu es allé dénicher ça », dit Drago, « mais c’est faux,
 tout le monde sait que le Patronus est un sortilège Gryffondor — »
 
-« Salazar Serpentard pouvait lancer un Patronus corporel, » dit Harry. Sa
+« Salazar Serpentard pouvait lancer un Patronus corporel », dit Harry. Sa
 main darda vers ses robes et en tira un livre dont le titre avait été
 écrit en blanc sur vert, ce qui le rendait donc presque impossible à
 déchiffrer dans la lumière verdâtre ; mais il avait l’air ancien. « J’ai
@@ -217,7 +217,7 @@ vraiment Gryffondor. Mais…
 « *Pourquoi ?* » dit Drago.
 
 « Pour découvrir si tu peux faire cette chose que Salazar Serpentard
-pouvait faire, » dit Harry d’une voix neutre. « C’est un test
+pouvait faire », dit Harry d’une voix neutre. « C’est un test
 expérimental, et je ne te dirai pas ce qu’il signifie avant que tu ne
 l’aies exécuté. Vas-tu le faire ? »
 
@@ -226,7 +226,7 @@ en faisant quelque chose d’innocent, et ce d’autant plus que l’heure de
 rompre avec Harry Potter semblait être venue. « Très bien. »
 
 Harry fit émerger une baguette de ses robes et la posa contre le globe.
-« Pas vraiment la meilleure couleur pour apprendre le Patronus, » dit
+« Pas vraiment la meilleure couleur pour apprendre le Patronus », dit
 Harry. « Je veux dire, une lumière verte, exactement de la même teinte
 que celle du sort de Mort. Mais l’argent est aussi une couleur
 Serpentard, non ? *Dulak.* » La lumière disparut, et Harry murmura les
@@ -239,7 +239,7 @@ C’est le temps que Drago mit à comprendre ce que la phrase précédente de
 Harry impliquait. « Tu as vu un *sort de Mort* depuis la dernière fois
 qu’on s’est vu ? Quand — comment — »
 
-« Lance le Patronus, » dit Harry, l’air plus sérieux que jamais, « et je te
+« Lance le Patronus », dit Harry, l’air plus sérieux que jamais, « et je te
 le dirai. »
 
 Drago comprima ses paupières à l’aide de ses mains, masquant la lumière
@@ -267,7 +267,7 @@ entièrement le fruit de son imagination, ça l’était même probablement,
 mais Harry avait décidé de quand même suivre son instinct, juste au cas
 où.
 
-« Très bien, » dit doucement Harry. Il y avait une tension dans sa
+« Très bien », dit doucement Harry. Il y avait une tension dans sa
 poitrine, et elle lui rendait la parole légèrement ardue. « Bon, nous
 n’avons pas de Détraqueur ici, mais ça ne fait rien. Nous n’en avons pas
 besoin. Drago, quand ton père m’a parlé à la gare, il a dit que tu étais
@@ -315,7 +315,7 @@ Drago abaissa sa baguette.
 pendant que tu regardes — »
 
 Harry se détourna et commença à marcher vers la porte. « Je reviendrai
-dans une minute, » dit Harry. « Maintiens juste ta pensée heureuse et le
+dans une minute », dit Harry. « Maintiens juste ta pensée heureuse et le
 Patronus restera. »
 
 
@@ -335,7 +335,7 @@ Enfin -
 
 « Qu’est-ce que ça veut *dire* ? » dit Drago. Sa voix vacillait un peu.
 
-« Ça veut dire que tu aimes ton père, » dit la voix de Harry. Ce qui était
+« Ça veut dire que tu aimes ton père », dit la voix de Harry. Ce qui était
 exactement ce que Drago avait pensé, et il essayait de ne pas pleurer
 devant Harry. C’est trop juste, beaucoup trop juste -
 
@@ -361,14 +361,14 @@ chaleur qu’un reptile n’aurait jamais dû le faire.
 
 Et Drago comprit alors -
 
-« Mais, » dit Drago, regardant encore le magnifique serpent étincelant,
+« Mais », dit Drago, regardant encore le magnifique serpent étincelant,
 « *tu* ne peux pas lancer le Patronus. » Maintenant que Drago l’avait
 lancé, il comprenait pourquoi c’était important. On pouvait être
 méchant, comme Dumbledore, et malgré tout lancer le Patronus, tant qu’on
 avait *quelque chose* de lumineux à l’intérieur de soi. Mais si Harry
 Potter n’avait pas la moindre pensée qui puisse ainsi briller -
 
-« Le sortilège du Patronus est plus complexe que tu le penses, » dit Harry
+« Le sortilège du Patronus est plus complexe que tu le penses », dit Harry
 avec sérieux. « Tous ceux qui échouent à le lancer ne sont pas des gens
 mauvais, ni même des gens tristes. Mais quoi qu’il en soit, je *peux* le
 lancer. Je l’ai fait à mon deuxième essai, après m’être rendu compte de
@@ -379,7 +379,7 @@ moment — »
 
 « Et je suis juste censé *croire* ça ? »
 
-« Tu peux demander au professeur Quirrell si tu ne me crois pas, » dit
+« Tu peux demander au professeur Quirrell si tu ne me crois pas », dit
 Harry. « Demande-lui si Harry Potter peut lancer un Patronus corporel, et
 dis-lui que je t’ai dit de demander. Il saura que la requête vient de
 moi, personne d’autre ne pourrait le savoir. »
@@ -392,7 +392,7 @@ Le serpent radieux tourna sa tête de gauche à droite, comme à la
 recherche d’une proie inexistante, puis il s’enroula sur lui-même comme
 pour se reposer.
 
-« Je me demande, » dit doucement Harry, « quand c’est arrivé, quelle année,
+« Je me demande », dit doucement Harry, « quand c’est arrivé, quelle année,
 quelle génération, quel jour les Serpentard ont arrêté d’essayer
 d’apprendre le Patronus. Quand les gens ont commencé à penser, quand les
 Serpentard eux-mêmes ont commencé à penser qu’être trompeur et
@@ -422,14 +422,14 @@ impossible de tromper le Choixpeau…
 Comment avait-il pu croire *une minute* que *Harry* était un
 *Serdaigle* ?
 
-« Une hypothèse intéressante, » dit calmement Harry. « Sais-tu que tu es la
+« Une hypothèse intéressante », dit calmement Harry. « Sais-tu que tu es la
 seconde personne de Poudlard à inventer une théorie de ce genre ? Du
 moins, tu es le second à me l’avoir dite en face — »
 
-« Rogue, » dit Drago avec certitude. Le directeur sa Maison n’était pas un
+« Rogue », dit Drago avec certitude. Le directeur sa Maison n’était pas un
 idiot.
 
-« Professeur Quirrell, *bien sûr*, » dit Harry. « Quoique maintenant que
+« Professeur Quirrell, *bien sûr* », dit Harry. « Quoique maintenant que
 j’y pense, Severus m’a en effet demandé comment j’étais parvenu à rester
 hors de sa maison et si j’avais été en possession de quelque chose que
 le Choixpeau voulait. J’imagine qu’on pourrait dire que tu es le
@@ -469,7 +469,7 @@ et Granger…
 Il aurait *vraiment* dû se souvenir que Harry était trop bizarre pour
 les complots normaux.
 
-« Harry, » dit Drago. « t’es-tu délibérément opposé au général Soleil et à
+« Harry », dit Drago. « t’es-tu délibérément opposé au général Soleil et à
 moi dans le seul but de nous faire travailler ensemble contre toi ? »
 
 Harry hocha la tête sans hésiter, comme si c’était la chose la plus
@@ -496,7 +496,7 @@ Patronus. »
 commençait à perdre le contrôle de sa voix, mais il ne semblait pas être
 capable de s’arrêter. « *Qu’est-ce que ça a à voir avec Granger ?* »
 
-« Les motifs, » dit Harry. Son visage était maintenant très sérieux, très
+« Les motifs », dit Harry. Son visage était maintenant très sérieux, très
 grave. « Comme un quart d’enfants nés sorciers de parents Cracmols. Un
 motif simple, impossible à rater, que tu reconnaîtrais instantanément si
 tu savais quoi chercher ; alors que, étant ignorant de celui-ci, tu ne
@@ -517,7 +517,7 @@ même pas osé *penser* au cas où il y aurait eu un Legilimens dans les
 environs, c’était *au-delà* de l’insulte, ils *tueraient* Harry si
 jamais ils l’apprenaient…
 
-« Pour résumer, » conclut Harry, « ils n’ont aucun pouvoir eux-mêmes. Ils
+« Pour résumer », conclut Harry, « ils n’ont aucun pouvoir eux-mêmes. Ils
 n’ont aucune fortune. S’ils n’avaient pas de Moldus à haïr, si tous les
 Moldus disparaissaient, comme ils disent le *souhaiter*, ils se
 réveilleraient un matin et découvriraient qu’ils n’ont *rien*. Mais tant
@@ -588,7 +588,7 @@ que tu savais qu’elle était en sécurité. Quel genre de personne veut la
 *tuer*, pas parce qu’elle a fait quelque chose de mal mais seulement
 parce qu’elle est née-Moldue ? Même si elle n’est, si elle n’est qu’une
 jeune fille qui les aiderait pour leurs devoirs sans hésiter s’ils,
-s’ils le lui demandaient, » la voix de Harry se brisa, « quel genre de
+s’ils le lui demandaient », la voix de Harry se brisa, « quel genre de
 personne veut la voir *mourir* ? »
 
 *Père -*
@@ -629,7 +629,7 @@ Serpentard au leur…
 « Je ne peux pas — » dit Drago, mais il n’était même pas sûr de ce dont il
 était incapable — « Qu’est-ce que tu *veux* de moi ? »
 
-« Je ne sais pas très bien comment soigner la maison Serpentard, » dit
+« Je ne sais pas très bien comment soigner la maison Serpentard », dit
 lentement Harry. « Mais je suis certain que c’est quelque chose que nous
 allons devoir faire, toi et moi. L’aube de la science a mit des siècles
 à se lever sur le monde Moldu, ça n’a eu lieu que lentement, mais plus
@@ -650,8 +650,8 @@ moi je ne comprends pas. Mais nous appartenons tous les deux aux
 Lumières maintenant. Réparer Serpentard n’est qu’une des choses que nous
 devons faire. »
 
-« Laisse-moi réfléchir, » dit Drago, sa voix semblable à un croassement,
-« s’il te plaît, » et il posa sa tête entre ses mains, et réfléchit.
+« Laisse-moi réfléchir », dit Drago, sa voix semblable à un croassement,
+« s’il te plaît », et il posa sa tête entre ses mains, et réfléchit.
 
 
 
@@ -668,16 +668,16 @@ train de se passer *réellement*…
 
 Après un moment, Drago releva enfin la tête.
 
-« Ça m’a l’air vrai, » dit doucement Drago.
+« Ça m’a l’air vrai », dit doucement Drago.
 
 Un immense sourire apparut sur le visage de Harry.
 
-« Alors, » continua Drago, « c’est maintenant que tu m’amènes à Dumbledore,
+« Alors », continua Drago, « c’est maintenant que tu m’amènes à Dumbledore,
 pour officialiser la chose ? »
 
 Il avait gardé un ton très nonchalant.
 
-« Ah, ouais, » dit Harry. « C’est le truc sur lequel je voulais
+« Ah, ouais », dit Harry. « C’est le truc sur lequel je voulais
 t’interroger, à vrai dire — »
 
 Le sang de Drago se glaça dans ses veines, devint solide, se brisa -
@@ -699,7 +699,7 @@ maison Serpentard, j’imagine que je n’ai rien manqué d’important. »
 
 …
 
-« Tu sais, » dit Drago, sa voix remarquablement calme, tout bien
+« Tu sais », dit Drago, sa voix remarquablement calme, tout bien
 considéré, « à chaque fois que je me demande si tu fais ce genre de chose
 juste pour m’agacer, je me dis que ça *doit* être accidentel, que
 *personne* ne pourrait faire ce genre de chose exprès, même s’ils
@@ -721,7 +721,7 @@ Dumbledore…
 Mais si Harry n’était *vraiment* pas au courant pour Dumbledore, alors
 le prévenir était plus important que *tout le reste*.
 
-« Très bien, » dit Drago après avoir pris le temps d’organiser ses
+« Très bien », dit Drago après avoir pris le temps d’organiser ses
 pensées. « Je ne sais pas par où commencer, alors je vais juste commencer
 quelque part. » Il prit une profonde inspiration. « Dumbledore a tué sa
 petite sœur, et il s’en est tiré parce que son frère a refusé de
@@ -754,7 +754,7 @@ Après que Harry l’ait interrompu plusieurs fois, Drago avait semblé
 comprendre le principe, et il présentait maintenant les observations
 puis les inférences.
 
-« — donc tu n’as pas à me croire sur parole, » dit Drago, « tu peux le
+« — donc tu n’as pas à me croire sur parole », dit Drago, « tu peux le
 *voir*, d’accord ? N’importe qui à Serpentard peut le voir. Dumbledore a
 repoussé son duel contre Grindelwald jusqu’au moment précis où cela le
 mettrait le plus en valeur, *après* que celui-ci ait mit la majeure
@@ -778,7 +778,7 @@ Directeur *et* Chef Sorcier *et* Grand Manitou, une personne normale
 n’essaierait jamais de faire tout cela en même temps, *comment peut-on
 ne pas voir que Dumbledore essaie de conquérir le monde ?* »
 
-« Pause, » dit Harry, et il ferma ses yeux pour réfléchir.
+« Pause », dit Harry, et il ferma ses yeux pour réfléchir.
 
 Ce n’était pas pire que ce qu’on aurait entendu au sujet de l’Ouest en
 Russie Stalinienne, et rien de tout cela n’aurait été vrai. Mais ici,
@@ -798,7 +798,7 @@ Drago hocha la tête.
 
 « Et avant ça, quand tu as dit que ce que je disais semblait vrai — »
 
-« Ça *semble* vrai, » dit Drago. « Mais je ne sais pas si je peux te faire
+« Ça *semble* vrai », dit Drago. « Mais je ne sais pas si je peux te faire
 confiance. Allez-vous vous plaindre parce que je vous ai *testé*, M.
 Potter ? Allez-vous dire que je vous ai *trompé* ? Que je vous ai
 *induit en erreur* ? »
@@ -806,7 +806,7 @@ Potter ? Allez-vous dire que je vous ai *trompé* ? Que je vous ai
 Harry savait qu’il aurait dû sourire en beau joueur, mais il n’y
 arrivait pas, la déception était trop forte.
 
-« Tu as raison, c’est équitable, je ne peux pas me plaindre, »
+« Tu as raison, c’est équitable, je ne peux pas me plaindre »,
 préféra-t-il dire. « Et qu’en est-il de
 Celui-Dont-On-Ne-Doit-Pas-Prononcer-Le-Nom ? Pas aussi méchant qu’on le
 dit ? »
@@ -816,7 +816,7 @@ juste de donner le beau rôle au camp de Père et le mauvais à celui de
 Dumbledore, et que je crois à tout ça seulement parce que Père me l’a
 dit. »
 
-« C’est une possibilité que je prends en compte, » dit Harry d’une voix
+« C’est une possibilité que je prends en compte », dit Harry d’une voix
 neutre.
 
 La voix de Drago était basse et intense. « Ils *savaient*. Mon père
@@ -836,7 +836,7 @@ pas Drago. La question n’était pas de savoir si les Mangemorts avaient
 été méchants. La question était de savoir s’ils avaient été *les*
 méchants ; s’il y avait *un* ou *deux* méchants dans l’histoire…
 
-« Tu n’es pas convaincu, » dit Drago. Il semblait inquiet et légèrement en
+« Tu n’es pas convaincu », dit Drago. Il semblait inquiet et légèrement en
 colère. Ce qui ne surprit pas Harry. Il était quasiment certain que
 Drago croyait à tout cela.
 
@@ -865,13 +865,13 @@ ce qui passait côté Moldu… mais quand même. Y a-t-il une chose
 clairement maléfique que Dumbledore a *certainement* faite, pour que je
 n’ai plus à m’interroger ? »
 
-La respiration de Drago était saccadée. « Très bien, » dit Drago d’une
+La respiration de Drago était saccadée. « Très bien », dit Drago d’une
 voix chancelante, « je vais te dire ce que Dumbledore a fait. » Des robes
-de Drago sortit une baguette, et Drago dit « Quietus, » puis de nouveau :
-« Quietus, » mais il rata la prononciation une fois encore, et Harry finit
+de Drago sortit une baguette, et Drago dit « Quietus », puis de nouveau :
+« Quietus », mais il rata la prononciation une fois encore, et Harry finit
 par sortir sa propre baguette et par lancer le sort.
 
-« Voilà, » dit Drago d’une voix rauque, « il était une fois une, une fille,
+« Voilà », dit Drago d’une voix rauque, « il était une fois une, une fille,
 elle s’appelait Narcissa, et elle était la plus jolie, la plus
 intelligente, la plus rusée à avoir jamais été Triée à Serpentard, et
 mon père l’aimait, et ils se sont mariés, et elle n’était pas un
@@ -910,14 +910,14 @@ c’était faux…
 cette pensée avant de commencer à s’interroger sur fiabilité du concept
 de « style ».
 
-« Ça, ça a dû faire horriblement mal, » dit Drago d’une voix tremblante,
+« Ça, ça a dû faire horriblement mal », dit Drago d’une voix tremblante,
 « Père n’en parle jamais, on n’en parle jamais devant lui, mais M.
 Macnair m’a dit qu’il y avait des marques de griffes partout dans la
 chambre, parce que Mère avait lutté pendant que Dumbledore la *brûlait
 vive*. C’est la dette que Dumbledore doit à la maison Malefoy et *il le
 paiera de sa vie* ! »
 
-« Drago, » dit Harry, il laissa sa voix devenir rauque, avoir l’air calme
+« Drago », dit Harry, il laissa sa voix devenir rauque, avoir l’air calme
 n’aurait pas été *normal*, « je suis désolé, pardon de te le demander,
 mais je *dois* savoir, *comment* sais-tu que c’était Dumble- »
 
@@ -944,14 +944,14 @@ dit Drago comme s’il avait voulu cracher les mots. « Est-ce assez
 
 Harry baissa les yeux et regarda ses bras, posés sur le dossier de la
 chaise. Il ne pouvait plus croiser les yeux de Drago, la douleur qui s’y
-trouvait était trop forte. « Je ne m’attendais pas à entendre ça, » dit
+trouvait était trop forte. « Je ne m’attendais pas à entendre ça », dit
 doucement Harry. « Je ne sais plus quoi penser. »
 
 « Tu ne *sais pas ?* » la voix de Drago devint un cri et il se leva
 brutalement -
 
 « Je me suis souvenu du moment où le Seigneur des Ténèbres a tué mes
-parents, » dit Harry. « Quand je me suis retrouvé face au Détraqueur, la
+parents », dit Harry. « Quand je me suis retrouvé face au Détraqueur, la
 première fois, c’est ce dont je me suis souvenu, le pire souvenir. Même
 si c’était il y a très longtemps. Je les ai entendus mourir. Ma mère a
 supplié le Seigneur des Ténèbres de ne pas me tuer, *pas Harry, s’il
@@ -961,7 +961,7 @@ Ensuite, je me souviens de l’éclat de lumière verte — »
 
 Harry releva les yeux vers Drago.
 
-« Alors on pourrait se battre, » dit Harry, « on pourrait juste continuer
+« Alors on pourrait se battre », dit Harry, « on pourrait juste continuer
 ce combat. Tu pourrais me dire qu’il était juste que ma mère meure,
 parce qu’elle était la femme de James, qui avait tué un Mangemort. Mais
 que *ta* mère n’aurait pas dû mourir, parce qu’*elle* était innocente.
@@ -995,21 +995,21 @@ Ténèbres.
 
 Le silence s’étira.
 
-« Tu peux parler, » dit Harry, « Drago, parle-moi, je ne me mettrai pas en
+« Tu peux parler », dit Harry, « Drago, parle-moi, je ne me mettrai pas en
 colère — est-ce que tu penses, je ne sais pas, que la mort de Narcissa a
 été bien pire que celle de Lily ? Qu’il est inacceptable ne serait-ce
 que de les comparer l’une à l’autre ? »
 
-« J’imagine que moi aussi, j’ai été stupide, » dit Drago. « Pendant tout ce
+« J’imagine que moi aussi, j’ai été stupide », dit Drago. « Pendant tout ce
 temps, pendant tout ce temps j’ai oublié que tu devais haïr les
 Mangemorts, parce qu’ils ont tué tes parents, tu dois les haïr autant
 que je hais Dumbledore. » Et Harry n’avait jamais rien dit, il n’avait
 jamais réagi quand Drago avait parlé des Mangemorts, il l’avait gardé
 *caché* — Drago était un imbécile.
 
-« Non, » dit Harry. « Ce n’est pas — ce n’est pas ça Drago, je, je ne sais
+« Non », dit Harry. « Ce n’est pas — ce n’est pas ça Drago, je, je ne sais
 même pas comment te l’expliquer, à part en te disant qu’une pensée comme
-celle-ci ne, » la voix de Harry s’étrangla, « tu ne pourrais jamais
+celle-ci ne », la voix de Harry s’étrangla, « tu ne pourrais jamais
 l’utiliser… pour lancer un Patronus… »
 
 Drago sentit un tiraillement soudain dans son cœur, un tiraillement
@@ -1053,7 +1053,7 @@ pas venger une mort dans la famille allait *au-delà* de la faiblesse,
 au-delà du déshonneur, vous auriez aussi bien pu n’avoir jamais
 *existé*.
 
-« Je ne débats pas ce point, » dit doucement Harry. « Mais diras-tu que la
+« Je ne débats pas ce point », dit doucement Harry. « Mais diras-tu que la
 mort de Lily Potter était triste ? Juste dire ça ? »
 
 « C’est… » Drago avait une fois de plus du mal à trouver ses mots. « Je
@@ -1079,7 +1079,7 @@ auraient ce but.
 
 « Tu essaies de m’éloigner de Père. »
 
-« D’éloigner une *partie* de toi, » dit Harry. « J’essaie de te laisser
+« D’éloigner une *partie* de toi », dit Harry. « J’essaie de te laisser
 réparer certaines choses au sujet desquelles ton père s’est trompé.
 J’essaie de te laisser *faire mieux*. Mais je n’essaie pas de… briser
 ton *Patronus !* » La voix de Harry devint plus douce. « Je ne voudrais
@@ -1107,7 +1107,7 @@ rencontré dans le magasin de vêtements, et alors je t’ai *apprécié*. »
 
 Il y eut un long silence.
 
-« J’aimerais pouvoir te faire confiance, » dit Drago. Sa voix tremblait.
+« J’aimerais pouvoir te faire confiance », dit Drago. Sa voix tremblait.
 « Si je pouvais juste *savoir* que tu disais la vérité, tout serait
 tellement plus simple — »
 
@@ -1121,18 +1121,18 @@ Ce serait illégal, et *dangereux*, car il devrait le faire sans l’aide
 Père, il ne pourrait même pas compter sur Harry Potter pour *l’aider*,
 mais…
 
-« Très bien, » dit Drago. « J’ai conçu une expérience déterminante. »
+« Très bien », dit Drago. « J’ai conçu une expérience déterminante. »
 
 « Qu’est-ce que c’est ? »
 
-« Je veux que tu prennes une goutte de Veritaserum, » dit Drago. « Juste
+« Je veux que tu prennes une goutte de Veritaserum », dit Drago. « Juste
 une goutte, pour que tu ne puisses pas mentir, mais pas assez pour te
 *forcer* à répondre à tout. Je ne sais pas où je l’obtiendrai, mais je
 *m’assurerai* que c’est sûr — »
 
-« Euh, » dit Harry. Il avait l’air désemparé. « Drago, euh — »
+« Euh », dit Harry. Il avait l’air désemparé. « Drago, euh — »
 
-« Ne le dis pas, » dit Drago. Sa voix était ferme et calme. « Si tu
+« Ne le dis pas », dit Drago. Sa voix était ferme et calme. « Si tu
 refuses, j’ai le résultat de mon expérience. »
 
 « Drago, je suis un Occlumens — »
@@ -1170,14 +1170,14 @@ Quirrell dirait tout ce que Harry lui dirait de dire.
 Drago se souvint de l’autre chose que Harry lui avait dit de demander au
 professeur Quirrell, et il pensa à un autre test.
 
-« Tu *sais*, » dit Drago. « Tu *sais* ce que ça me coûte, si j’accepte
+« Tu *sais* », dit Drago. « Tu *sais* ce que ça me coûte, si j’accepte
 l’idée que le poison de Serpentard est la haine des Moldus, si je dis
 que la mort de Lily Potter est triste. Et ça fait *partie* *de ton
 plan*, ne me dis pas le contraire. »
 
 Harry ne dit rien, ce qui fut sage.
 
-« Il y a quelque chose que je veux en retour, » dit Drago. « Et avant cela,
+« Il y a quelque chose que je veux en retour », dit Drago. « Et avant cela,
 un test expérimental que je veux essayer — »
 
 
@@ -1212,7 +1212,7 @@ mouvement longuement pratiqué, et dit : « *Thermos* ». Une chaleur se
 répandit en lui en partant de son cœur ; le vent vint souffler sur son
 visage, mais il n’avait plus froid.
 
-« *Thermos*, » dit la voix de Harry, derrière-lui.
+« *Thermos* », dit la voix de Harry, derrière-lui.
 
 Ils allèrent jusqu’à la balustrade et regardèrent le sol, loin
 en-dessous. Drago essaya de deviner s’ils étaient dans une des tours qui
@@ -1222,7 +1222,7 @@ l’extérieur. Mais le sol était toujours le même, il pouvait voir la
 vague silhouette de la Forêt Interdite et la lumière de la Lune
 scintiller depuis le lac.
 
-« Tu sais, » dit Harry d’une voix basse, à côté de lui, ses bras appuyés
+« Tu sais », dit Harry d’une voix basse, à côté de lui, ses bras appuyés
 sur la balustrade, « quelque chose que les Moldus font vraiment de
 travers, c’est qu’ils n’éteignent pas toutes leurs lumières la nuit. Pas
 même une heure par mois, pas même un quart d’heure une fois par an. Les
@@ -1237,7 +1237,7 @@ après avoir vu le ciel nocturne de Poudlard. »
 Drago jeta un coup d’œil à Harry et le vit tête renversée, regardant
 l’arc de la voie lactée qui traversait l’obscurité.
 
-« Bien sûr, » continua Harry, sa voix toujours basse, « on ne peut pas bien
+« Bien sûr », continua Harry, sa voix toujours basse, « on ne peut pas bien
 voir les étoiles depuis la *Terre*, l’air obstrue le chemin. Il faut les
 regarder d’ailleurs si on veut les voir vraiment, les étoiles brûlantes
 et brillantes, telles qu’elles sont réellement. As-tu jamais souhaité
@@ -1247,18 +1247,18 @@ est-ce une des choses que tu ferais ? Si tu pouvais faire n’importe
 quoi ? »
 
 Il y eut un silence, puis Drago se rendit compte qu’on attendait une
-réponse de lui. « Je n’y ai jamais pensé, » dit Drago. Sans qu’il l’ait
+réponse de lui. « Je n’y ai jamais pensé », dit Drago. Sans qu’il l’ait
 consciemment décidé, sa voix avait été aussi douce et étouffée que celle
 de Harry. « Tu penses vraiment que quelqu’un sera un jour capable de le
 faire ? »
 
-« Je ne pense pas que ça sera facile, » dit Harry. « Mais je sais que je ne
+« Je ne pense pas que ça sera facile », dit Harry. « Mais je sais que je ne
 compte pas passer toute ma vie sur Terre. »
 
 Drago se serait moqué de cette phrase s’il n’avait pas su que certains
 Moldus étaient déjà partis, sans même utiliser de magie.
 
-« Pour passer ton test, » dit Harry, « je vais devoir te dire ce que ça
+« Pour passer ton test », dit Harry, « je vais devoir te dire ce que ça
 veut dire pour *moi*, cette pensée, dans son intégralité, pas la version
 courte que j’ai essayé de t’expliquer plus tôt. Mais tu devrais pouvoir
 voir que c’est la même idée, mais plus générale. Alors *ma* version de
@@ -1292,7 +1292,7 @@ regarder, de ne jamais parler de ce que Harry avait dit, ou de ce qui
 avait eu lieu cette nuit, même s’il ne savait pas pourquoi ce devait
 être un secret.
 
-« J’ai fait le rêve, » dit la voix de Harry, « qu’un jour, tous les êtres
+« J’ai fait le rêve », dit la voix de Harry, « qu’un jour, tous les êtres
 sentients seront jugés par les motifs de leur esprit et pas par la
 couleur ou la forme de la matière dont ils sont faits, ou par l’identité
 de leurs parents. Parce que si on peut un jour s’entendre avec des
@@ -1321,7 +1321,7 @@ Lorsque la lumière disparut, ce fut comme un choc soudain, la main de
 Drago alla automatiquement dans ses robes à la recherche d’un mouchoir,
 et ce n’est qu’alors qu’il se rendit compte qu’il pleurait.
 
-« Voilà ton résultat expérimental, » dit la voix basse de Harry. « Cette
+« Voilà ton résultat expérimental », dit la voix basse de Harry. « Cette
 pensée était sincère. »
 
 Drago se tourna lentement vers Harry, qui avait sa baguette baissée.
@@ -1332,7 +1332,7 @@ puissant — » Et pourtant ça *avait* été de la lumière de Patronus, un
 fois qu’on savait ce qu’on regardait, il était impossible de la
 confondre avec autre chose.
 
-« C’était la *véritable* forme du Patronus, » dit Harry. « Elle te laisse
+« C’était la *véritable* forme du Patronus », dit Harry. « Elle te laisse
 mettre toute ta force dans le Patronus, sans aucune retenue. Et avant
 que tu ne me demandes : Dumbledore ne me l’a pas apprise. Il n’en
 connaît pas le secret, et même s’il le savait, il ne pourrait lancer la
@@ -1350,17 +1350,17 @@ jusqu’aux étoiles elles-mêmes -
 
 Quelque chose de beau et caché, mystérieux et étincelant -
 
-« Est-ce que, » chuchota Drago, « est-ce que je pourrai un jour lancer un
+« Est-ce que », chuchota Drago, « est-ce que je pourrai un jour lancer un
 Patronus comme celui-ci ? »
 
-« Si tu recherches toujours la vérité, » dit Harry, « et si tu ne refuses
+« Si tu recherches toujours la vérité », dit Harry, « et si tu ne refuses
 pas les pensées chaleureuses lorsque tu les trouves, alors je suis sûr
 que oui. Je pense que quelqu’un peut aller n’importe où s’il persévère
 assez longtemps, même jusqu’aux étoiles. »
 
 De son mouchoir, Drago s’essuya les yeux une fois de plus.
 
-« On devrait retourner à l’intérieur, » dit Drago d’une voix instable,« quelqu’un aurait pu la voir, toute cette lumière — »
+« On devrait retourner à l’intérieur », dit Drago d’une voix instable,« quelqu’un aurait pu la voir, toute cette lumière — »
 
 Harry hocha la tête et alla jusqu’à la porte, qu’il franchit ; et avant
 de le suivre, Drago leva une dernière fois ses yeux vers le ciel
@@ -1390,7 +1390,7 @@ il s’était senti trop nerveux repousser le moment plus longtemps.
 Il éleva une barrière de silence et regarda Harry, l’interrogeant
 silencieusement.
 
-« J’y ai réfléchi, » dit Harry. « Je vais le faire, mais il y a cinq
+« J’y ai réfléchi », dit Harry. « Je vais le faire, mais il y a cinq
 conditions — »
 
 « *Cinq ?* »
@@ -1403,7 +1403,7 @@ c’était une pièce — »
 maléfique. C’est une de ces choses dont tu parles, une de celles qui
 n’ont *pas* à être compliquées. »
 
-« Drago, » dit Harry d’une voix précautionneuse, « tout ce que je *sais*
+« Drago », dit Harry d’une voix précautionneuse, « tout ce que je *sais*
 c’est que *tu* as dit que *Lucius* a dit que *Dumbledore* a dit qu’il a
 tué Narcissa. Pour y croire de façon inconditionnelle, je dois te faire
 confiance à toi *et* à Lucius *et* à Dumbledore. Donc, comme je l’ai
@@ -1412,7 +1412,7 @@ cette promesse n’importe quand, si l’idée cesse de te sembler bonne.
 Bien sûr, ça devra être un acte délibéré de ta part, pas un jeu sur les
 mots ou quelque chose comme ça. »
 
-« D’accord, » dit Drago. Ça semblait assez sûr.
+« D’accord », dit Drago. Ça semblait assez sûr.
 
 « La deuxième condition, c’est que je promets de prendre pour ennemi la
 personne qui a vraiment tué Narcissa, comme je l’aurais déterminé en
@@ -1421,7 +1421,7 @@ ou quelqu’un d’autre. Et tu as ma parole que je ferai mon maximum en
 tant que rationaliste pour garder mon jugement honnête sur des questions
 de fait. D’accord ? »
 
-« Je n’aime pas ça, » dit Drago. Bien sûr qu’il n’aimait pas ça, tout le
+« Je n’aime pas ça », dit Drago. Bien sûr qu’il n’aimait pas ça, tout le
 but de la manœuvre était que Harry ne rejoigne jamais le camp de
 Dumbledore. Malgré cela, si Harry *était* honnête, il se ferait son
 opinion sur Dumbledore bien assez vite ; et s’il ne l’était pas, alors
@@ -1461,17 +1461,17 @@ Dumbledore ou quelqu’un d’autre, à moins que tu ne me libères
 délibérément de cette promesse. En espérant que *cela* ne tourne pas mal
 comme ça le ferait si on était dans une pièce. »
 
-« Je ne suis pas satisfait, » dit Drago. « Mais d’accord. Tu fais le
+« Je ne suis pas satisfait », dit Drago. « Mais d’accord. Tu fais le
 serment d’être l’ennemi de celui qui a tué ma mère, et je — »
 
 Harry attendit d’un air patient, alors que Drago essayait de refaire
 fonctionner sa voix.
 
 « Je t’aiderai à réparer le problème de Serpentard avec la haine des
-nés-Moldus, » finit-il d’un soupir. « Et je dirai que la mort de Lily
+nés-Moldus », finit-il d’un soupir. « Et je dirai que la mort de Lily
 Potter était triste. »
 
-« Qu’il en soit ainsi, » dit Harry.
+« Qu’il en soit ainsi », dit Harry.
 
 Et l’accord fut conclu.
 
@@ -1479,7 +1479,7 @@ La faille, Drago le savait, la faille venait de s’élargir un peu plus.
 Non, pas un peu, *beaucoup*. Il avait la sensation de dériver, d’être
 perdu, toujours plus loin de la rive, toujours plus loin de chez lui…
 
-« Excuse-moi, » dit Drago. Il se détourna de Harry, puis il essaya de se
+« Excuse-moi », dit Drago. Il se détourna de Harry, puis il essaya de se
 calmer, il fallait qu’il fasse ce test, et il ne voulait pas l’échouer à
 cause de la nervosité ou de la honte.
 
@@ -1510,7 +1510,7 @@ Derrière lui, il entendit *Harry* exhaler, comme s’il était soulagé.
 Drago regarda la lumière blanche. Il semblait qu’il n’était pas
 totalement perdu, après tout.
 
-« Ce qui me rappelle, » dit Harry après un moment. « Peut-on tester mon
+« Ce qui me rappelle », dit Harry après un moment. « Peut-on tester mon
 hypothèse sur la façon d’utiliser le Patronus pour envoyer des messages
 ? »
 
@@ -1536,9 +1536,9 @@ qu’au lieu de communiquer avec des mots, le Patronus lui-même était le
 message. En voulant que le destinataire voit le Patronus, ce dernier
 irait le rejoindre.
 
-« Dis à Harry, » dit Drago au serpent lumineux, même si Harry se tenait à
+« Dis à Harry », dit Drago au serpent lumineux, même si Harry se tenait à
 quelques pas de lui, de l’autre côté de la pièce, « de, euh, faire
-attention au singe vert, » ce qui était un code dans une pièce qu’il
+attention au singe vert », ce qui était un code dans une pièce qu’il
 avait un jour vue.
 
 Et alors, comme à la gare de King’s Cross, Drago voulut que Harry sache
@@ -1553,14 +1553,14 @@ courte distance, parvint à Harry -
 probablement celle que les gens entendaient quand il parlait :
 « Attention au singe vert. »
 
-« *Hsssss ssss sshsshssss*, » dit Harry.
+« *Hsssss ssss sshsshssss* », dit Harry.
 
 Le serpent ondula en sens inverse jusqu’à Drago.
 
-« Harry dit que le message est bien reçu, » dit le Bungarus Candidus
+« Harry dit que le message est bien reçu », dit le Bungarus Candidus
 étincelant avec la voix de Drago.
 
-« Euh, » dit Harry. « Ça fait bizarre de parler à un Patronus. »
+« Euh », dit Harry. « Ça fait bizarre de parler à un Patronus. »
 
 …
 
@@ -1585,7 +1585,7 @@ Harry regardait Drago.
 
 « Tu veux dire seulement les serpents *magiques*, c’est ça ? »
 
-« N-non, » dit Drago. Il avait l’air assez pâle, et il bégayait encore,
+« N-non », dit Drago. Il avait l’air assez pâle, et il bégayait encore,
 mais au moins il avait arrêté de produire des sons incohérents. « Tu peux
 parler Fourchelangue, c’est le langage de tous les serpents. Tu peux
 comprendre n’importe quel serpent quand il parle, et ils peuvent

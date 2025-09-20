@@ -97,7 +97,7 @@ mit alors à fendre la foule en courant presque. « Harry ! » dit-elle.
 
 Un silence se répandait autour de ce point central.
 
-« Je crois, » dit Harry d’une voix toujours instable mais plus forte, « je
+« Je crois », dit Harry d’une voix toujours instable mais plus forte, « je
 crois qu’il est revenu. Je crois que je vois par l’esprit de Voldemort… »
 
 Lorsqu’elle entendit le nom de Vous-Savez-Qui, Anna fit un pas en
@@ -139,7 +139,7 @@ Harry Potter vacilla et tomba à genoux, et son cœur manqua un battement.
 Une explosion de babillages agités les entoura.
 
 Elle pouvait toujours entendre ce que Harry Potter disait, à côté du
-professeur McGonagall, qui s’était agenouillé. « Ça a marché, »
+professeur McGonagall, qui s’était agenouillé. « Ça a marché »,
 haleta-t-il, « elle l’a eu, il est parti. »
 
 « *Quoi ?* » s’écria le professeur McGonagall, et elle regarda autour
@@ -206,7 +206,7 @@ Le professeur McGonagall pivota pour lui faire face et s’arrêta soudain.
 Son sang avait quitté son visage.
 
 Puis elle prit le balai des mains de Harry Potter et le tendit au petit
-demi-gobelin. « Filius, » dit-elle vivement. Tout début de panique avait
+demi-gobelin. « Filius », dit-elle vivement. Tout début de panique avait
 quitté sa voix, et elle parlait maintenant de son sec accent Écossais,
 comme si elle avait donné cours. « Cherchez le cimetière dont a parlé M.
 Potter, trouvez Mlle Granger. Transplanez-la à Sainte Mangouste et
@@ -234,7 +234,7 @@ Le Survivant s’assit sur le banc comme si ses jambes ne pouvaient plus
 le soutenir.
 
 Le professeur McGonagall se tourna vers la foule et toucha sa gorge de
-sa baguette. « LE QUIDDITCH EST TERMINÉ, » tonna sa voix amplifiée.
+sa baguette. « LE QUIDDITCH EST TERMINÉ », tonna sa voix amplifiée.
 « RETOURNEZ À VOS DORTOIRS… »
 
 « *Non !* » s’écria Harry Potter.
@@ -243,7 +243,7 @@ Le professeur McGonagall se tourna vers lui.
 
 Des larmes coulaient le long des joues du Survivant et on aurait dit que
 l’interruption l’avait surpris autant qu’elle avait surpris les autres.
-« C’était le dernier plan du professeur Quirrell, » dit-il d’une voix
+« C’était le dernier plan du professeur Quirrell », dit-il d’une voix
 brisée. Le survivant regarda les joueurs de Quidditch qui s’étaient
 rapprochés, comme pour s’adresser directement à eux. « Son dernier plan. »
 

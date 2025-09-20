@@ -8,7 +8,7 @@ voyage au Chemin de Traverse.
 La plupart des enfants auraient au moins attendu d’avoir leur *baguette
 magique*.
 
-« Sac d’*okane*, » dit Harry. Le lourd sac d’or apparut dans sa main.
+« Sac d’*okane* », dit Harry. Le lourd sac d’or apparut dans sa main.
 
 Harry sortit le sac, puis le plongea à nouveau dans la bourse. Il sortit
 sa main, la remit à l’intérieur, et dit : « Sac de gages d’échange
@@ -17,11 +17,11 @@ sa main, la remit à l’intérieur, et dit : « Sac de gages d’échange
 Harry Potter avait mis la main sur au moins un objet magique. Pourquoi
 attendre ?
 
-« Professeur McGonagall, » dit Harry à la sorcière perplexe qui marchait à
+« Professeur McGonagall », dit Harry à la sorcière perplexe qui marchait à
 ses côtés, « pourriez-vous me donner deux mots ? L’un qui signifie or, l’autre signifiant autre chose n’étant pas de l’argent, le tout dans une
 langue que je ne connais pas ? Mais ne me dites pas lequel est lequel. »
 
-« *Ahava* et *zahav*, » dit McGonagall. « C’est de l’hébreu, et le second mot signifie “amour”. »
+« *Ahava* et *zahav* », dit McGonagall. « C’est de l’hébreu, et le second mot signifie “amour”. »
 
 « Merci, Professeur. Sac d’*ahava*. » Vide.
 
@@ -49,10 +49,10 @@ sur la façon dont une *bourse* peut être équipée d’une reconnaissance
 vocale et d’une compréhension du langage naturel, alors qu’après
 trente-cinq ans de dur labeur, les meilleurs programmeurs en intelligence
 artificielle ne peuvent faire réaliser cette prouesse aux
-superordinateurs les plus rapides, » Harry haleta, à la recherche
+superordinateurs les plus rapides », Harry haleta, à la recherche
 d’oxygène, « mais *qu’*est-ce qui se *passe* ? »
 
-« Magie, » dit le professeur McGonagall. Elle haussa les épaules.
+« Magie », dit le professeur McGonagall. Elle haussa les épaules.
 
 « C’est juste un *mot* ! Même après m’avoir dit ça, je ne peux pas faire
 de nouvelles prédictions. C’est exactement comme de dire “phlogiston” ou
@@ -89,7 +89,7 @@ magie. Tu ne* sais *pas vraiment si ça va être difficile à faire en deux
 mois.*
 
 « Et vous n’avez *vraiment* pas entendu parler d’autres sorciers posant
-ce genre de question ou faisant ce genre d’expérience scientifique ?, »
+ce genre de question ou faisant ce genre d’expérience scientifique ? »,
 demanda à nouveau Harry. Ça lui semblait tellement *évident*.
 
 Mais après tout, il avait fallu attendre plus de deux-cents ans *après*
@@ -194,17 +194,17 @@ revendique ce territoire au nom de la Science*.
 Les éclairs et le tonnerre ne brillèrent et ne grondèrent pas dans le
 ciel sans nuages.
 
-« Pourquoi souriez-vous ?, » s’enquit McGonagall avec prudence et
+« Pourquoi souriez-vous ? », s’enquit McGonagall avec prudence et
 lassitude.
 
 « Je me demande s’il existe un sort permettant de faire jaillir des
 éclairs en arrière-plan à chaque fois que je prends une résolution de
-mauvais augure, » expliqua Harry. Il était en train de soigneusement
+mauvais augure », expliqua Harry. Il était en train de soigneusement
 mémoriser les mots exacts de sa résolution de mauvais augure afin que
 les livres d’histoire du futur ne se trompent pas.
 
 « J’ai comme un lointain sentiment me disant que je devrais faire quelque
-chose à ce sujet., » soupira McGonagall.
+chose à ce sujet. », soupira McGonagall.
 
 « Ignorez-le, et ça partira. Ooh, joli ! » Harry mit ses pensées de
 conquête mondiale en attente et alla droit jusqu’à un magasin à la
@@ -243,8 +243,8 @@ minutes maximum, si jamais vous aviez besoin d’empêcher un poison de se
 répandre dans le corps. Un tissu blanc qui pouvait être enroulé autour
 d’une partie du corps pour temporairement diminuer la douleur. Plus une
 quantité d’autres objets que Harry ne comprenait absolument pas, comme
-le « Traitement pour l’exposition aux Détraqueurs, » qui ressemblait à, et
-sentait comme, du chocolat ordinaire. Ou le « contre-BaffleSnaffle, » qui
+le « Traitement pour l’exposition aux Détraqueurs », qui ressemblait à, et
+sentait comme, du chocolat ordinaire. Ou le « contre-BaffleSnaffle », qui
 ressemblait à un petit œuf frémissant et portait une affichette montrant
 comment l’enfoncer dans la narine de quelqu’un.
 
@@ -258,7 +258,7 @@ approbatrice sur sa prudence et sa préparation.
 Ce qu’il reçut à la place ne pouvait être décrit que comme le mauvais
 œil.
 
-« Et *pourquoi* donc, » dit le professeur McGonagall avec une lourde note
+« Et *pourquoi* donc », dit le professeur McGonagall avec une lourde note
 de scepticisme dans la voix, « vous attendriez-vous à avoir *besoin* d’une
 trousse de soin, jeune homme ? » (Après le malheureux incident au magasin de
 potions, McGonagall essayait d’éviter de dire « M. Potter » lorsque
@@ -283,7 +283,7 @@ Branchiflore, et la bouteille de pilules de Nourriture et d’Eau ? »
 
 Harry secoua la tête avec stupéfaction. « Et quelle sorte de plan pensez-vous que j’ai *mis* *en route* ? »
 
-« Je ne sais pas, » dit tristement McGonagall, « mais ça se termine soit
+« Je ne sais pas », dit tristement McGonagall, « mais ça se termine soit
 avec vous délivrant une tonne d’argent à Gringotts, soit en domination
 mondiale. »
 
@@ -293,7 +293,7 @@ l’appeler optimisation mondiale. »
 Cela échoua à rassurer le professeur McGonagall, qui lui donnait
 toujours le « Regard de la Mort ».
 
-« Wow, » dit Harry, se rendant compte qu’elle était sérieuse. « Vous le
+« Wow », dit Harry, se rendant compte qu’elle était sérieuse. « Vous le
 croyez vraiment. Vous pensez vraiment que je prévois de faire quelque
 chose de dangereux. »
 
@@ -304,12 +304,12 @@ achèterait jamais une trousse de premiers soins ? Ne le prenez pas mal,
 Professeur McGonagall, mais *de quelle sorte d’enfants fous avez-vous
 l’habitude de vous occuper* ? »
 
-« Des Gryffondor, » cracha le Professeur McGonagall, le mot transportait
+« Des Gryffondor », cracha le Professeur McGonagall, le mot transportait
 un convoi d’amertume et de désespoir tel qu’on aurait dit une
 malédiction éternelle jetée sur tout l’héroïsme et la vivacité de la
 jeunesse.
 
-« Directrice adjointe, Professeur McGonagall, » dit Harry, posant fermement
+« Directrice adjointe, Professeur McGonagall », dit Harry, posant fermement
 ses mains sur ses hanches. « Je ne vais pas aller à Gryffondor. »
 
 À cet instant, McGonagall glissa quelque chose au sujet du fait que, si
@@ -354,7 +354,7 @@ magasins qui était pavée de briques sales et se terminait par un
 cul-de-sac de terre noire et compacte.
 
 La grande sorcière pointa sa baguette en direction de la rue principale
-et dit : « *Sourdinam*, » et un écran de silence s’abattit autour d’eux,
+et dit : « *Sourdinam* », et un écran de silence s’abattit autour d’eux,
 bloquant les bruits de la rue.
 
 *Qu’est-ce que j’ai fait de mal…*
@@ -378,7 +378,7 @@ Un lourd soupir s’éleva de derrière lui. « Je sais que vous l’êtes, M.
 Potter. »
 
 Harry osa jeter un coup d’œil derrière lui. La colère avait quitté le
-visage du Professeur McGonagall. « Je suis désolé, » dit à nouveau Harry,
+visage du Professeur McGonagall. « Je suis désolé », dit à nouveau Harry,
 se sentant l’être le plus misérable du monde. « Je n’aurais pas dû dire
 ça. Est-ce que quelque chose v… » et Harry ferma ses lèvres et se plaqua
 la main sur la bouche pour faire bonne mesure.
@@ -392,7 +392,7 @@ Harry voulait juste s’enfuir en courant. Il voulait faire jaillir une
 baguette et effacer toute l’histoire de la mémoire de McGonagall, être à
 nouveau avec elle devant le magasin, *faire que ça n’ait pas eu lieu*.
 
-« Mais pour répondre à votre question, » dit McGonagall, « non, rien de
+« Mais pour répondre à votre question », dit McGonagall, « non, rien de
 *tel* ne m’est jamais arrivé. » Son visage prit une étrange expression.
 « J’ai certainement vu un ami exhaler son dernier souffre, une fois ou
 deux, voir plus. Mais aucun d’entre ne m’a jamais maudit alors qu’il
@@ -410,8 +410,8 @@ cinq Gallions pour le transporter dans une bourse à quinze Gallions
 parce que vous êtes convaincu qu’autrement vos camarades de classe vont
 vous *maudire en mourant* ? »
 
-« Je, je , je, » Harry avala sa salive. « C’est juste que j’essaie toujours
-d’imaginer la pire chose qui puisse arriver, » et peut-être qu’il avait
+« Je, je , je », Harry avala sa salive. « C’est juste que j’essaie toujours
+d’imaginer la pire chose qui puisse arriver », et peut-être qu’il avait
 aussi voulu blaguer un peu, mais il aurait plutôt mordu sa langue que de
 dire ça maintenant.
 
@@ -419,8 +419,8 @@ dire ça maintenant.
 
 « Pour que je puisse empêcher que ça ait lieu ! »
 
-« M. Potter…, » la voix de McGonagall s’effaça. Puis elle soupira, et
-s’accroupit à côté de lui. « M. Potter, » dit-elle, gentiment cette fois,
+« M. Potter… », la voix de McGonagall s’effaça. Puis elle soupira, et
+s’accroupit à côté de lui. « M. Potter », dit-elle, gentiment cette fois,
 « ce n’est pas votre responsabilité que de prendre soin des étudiants de
 Poudlard. C’est la mienne. Je ne laisserai rien vous arriver, ni à qui
 que ce soit d’autre. Poudlard est l’endroit le plus sûr de toute
@@ -432,7 +432,7 @@ si mes parents avaient une crise cardiaque ou un accident quand je
 rentrais à Noël — Madame Pomfresh ne serait pas là, j’aurais besoin
 d’avoir ma propre trousse de soins… »
 
-« Par Merlin, *qu’est-ce qui*…, » dit McGonagall. Elle se leva, et regarda
+« Par Merlin, *qu’est-ce qui*… », dit McGonagall. Elle se leva, et regarda
 Harry avec une expression divisée entre la préoccupation et
 l’irritation. « Il n’y a aucun besoin de penser à des choses aussi
 terribles, M. Potter ! »
@@ -452,7 +452,7 @@ dont vous voudriez me parler ? »
 toujours être sur vos gardes contre les terribles choses qui pourraient
 vous arriver. »
 
-Harry la fixa, perplexe. C’était un axiome qui allait de soi. « Eh bien…, »
+Harry la fixa, perplexe. C’était un axiome qui allait de soi. « Eh bien… »,
 dit lentement Harry. Il essaya d’organiser ses pensées. Comment
 *pouvait* — il l’expliquer de lui-même à McGonagall, si elle ne
 connaissait même pas les bases ?
@@ -491,24 +491,24 @@ faisait mordre, mais que ce qui se passait réellement c’était que les
 Mangemorts survivants attaquaient l’école entière pour m’avoir. Mais le
 bon côté des choses c’est que… »
 
-« Arrêtez, » dit McGonagall.
+« Arrêtez », dit McGonagall.
 
 Harry s’arrêta. Il avait été sur le point de remarquer qu’au moins ils
 savaient que le Seigneur des Ténèbres n’attaquerait pas puisqu’il était
 mort.
 
-« Je pense ne pas avoir été claire, » dit McGonagall avec précaution. « Y
+« Je pense ne pas avoir été claire », dit McGonagall avec précaution. « Y
 a-t-il quoi que ce soit qui vous soit arrivé *à vous* et qui vous fasse
 peur ? »
 
-« Ce qui m’est arrivé ne constitue que des éléments anecdotiques, » lui
+« Ce qui m’est arrivé ne constitue que des éléments anecdotiques », lui
 expliqua Harry. « Ça n’a pas le même poids qu’un article de journal
 scientifique, répliqué, évalué par des pairs, au sujet d’une étude
 contrôlée et répartie au hasard avec beaucoup de sujets, une grande
 amplitude d’effet et statistiquement significative. »
 
 McGonagall pinça l’arête de son nez, inhala et exhala. « Je voudrais tout
-de même que vous m’en parliez, » dit-elle.
+de même que vous m’en parliez », dit-elle.
 
 « Euh… » dit Harry. Il prit une profonde inspiration. « Il y a eu quelques
 vols dans mon voisinage, et ma mère m’a demandé de ramener une poêle
@@ -526,7 +526,7 @@ chose ne l’empêchait pas d’avoir lieu, donc j’étais vraiment effrayé.�
 que Harry avait terminé. « Il n’y a rien d’*autre* qui vous soit
 arrivé ? »
 
-« Je sais que ça n’a pas *l’air* d’être grand-chose, » se défendit Harry.
+« Je sais que ça n’a pas *l’air* d’être grand-chose », se défendit Harry.
 « Mais c’était un de ces moments cruciaux d’une vie, vous voyez ? Je veux
 dire que je *savais* que ne pas penser à quelque chose ne l’empêchait
 pas d’avoir lieu, je le *savais*, mais je pouvais voir que Maman ne
@@ -555,7 +555,7 @@ il était donc futile de se mettre en colère.
 
 Harry ne s’aimait pas quand il était en colère.
 
-« Merci de m’avoir fait part de cela, M. Potter, » dit McGonagall après un
+« Merci de m’avoir fait part de cela, M. Potter », dit McGonagall après un
 moment. Elle avait une expression distraite (presque exactement la même
 que celle qui était apparue sur le visage de Harry alors qu’il faisait
 des expériences avec la bourse en peau de Moke, si seulement Harry
@@ -563,7 +563,7 @@ s’était vu dans un miroir et s’en était rendu compte). « Je vais devoir
 réfléchir. » Elle se tourna vers la bouche de la ruelle et leva sa
 baguette —
 
-« Euh, » dit Harry, « peut-on aller prendre la trousse de soins maintenant ? »
+« Euh », dit Harry, « peut-on aller prendre la trousse de soins maintenant ? »
 
 McGonagall s’interrompit, et le regarda à nouveau, fermement. « Et si je
 dis non, c’est trop cher et vous n’en aurez pas besoin, qu’est-ce qui se
@@ -574,18 +574,18 @@ Professeur McGonagall. *Exactement* ce que vous pensez. J’en conclus que
 vous êtes un autre adulte fou auquel je ne peux pas parler, et je
 commence à élaborer une façon de mettre la main sur un kit de soin. »
 
-« Je suis votre gardien pour cette sortie, » dit McGonagall avec une
+« Je suis votre gardien pour cette sortie », dit McGonagall avec une
 nuance de danger dans la voix. « Je ne *vais pas* vous permettre de me
 bousculer. »
 
-« Je comprends, » dit Harry. Il garda la rancœur hors de sa voix, et ne
+« Je comprends », dit Harry. Il garda la rancœur hors de sa voix, et ne
 dit aucune des autres choses qui lui venaient à l’esprit. McGonagall lui
 avait dit de penser avant de parler. Il ne s’en souviendrait
 probablement pas demain, mais il pouvait au moins s’en souvenir pendant
 cinq minutes.
 
 La baguette de McGonagall eut un mouvement sec, et les bruits du Chemin
-de Traverse revinrent. « Très bien, jeune homme, » dit-elle. « Allons
+de Traverse revinrent. « Très bien, jeune homme », dit-elle. « Allons
 acheter cette trousse de soins. »
 
 La mâchoire de Harry tomba de surprise. Puis il se dépêcha à sa suite,
@@ -603,17 +603,17 @@ bois incliné, la lueur grise les protégeant toujours et la vendeuse de
 retour à sa position originale. Elle les regarda alors qu’ils
 s’approchaient, son visage exprimant de la surprise.
 
-« Je suis désolée, » dit-elle quand ils s’approchèrent, et Harry dit
+« Je suis désolée », dit-elle quand ils s’approchèrent, et Harry dit
 presque au même instant : « Je vous demande pardon pou… »
 
 Ils s’interrompirent et se regardèrent, puis la vendeuse eut un petit
 rire. « Je ne voulais pas vous causer d’ennuis avec le Professeur
-McGonagall, » dit-elle. Sa voix baissa et prit un ton de conspiratrice.
+McGonagall », dit-elle. Sa voix baissa et prit un ton de conspiratrice.
 « J’espère qu’elle n’a pas été *trop* terrible avec vous. »
 
 « *Della !* » dit McGonagall, scandalisée.
 
-« Sac d’or, » dit Harry à sa bourse, et il s’adressa à nouveau à la
+« Sac d’or », dit Harry à sa bourse, et il s’adressa à nouveau à la
 vendeuse pendant qu’il comptait ses cinq Gallions. « Ne vous en faites
 pas, je comprends bien que, si elle est aussi terrible avec moi c’est
 seulement parce qu’elle m’aime. »
@@ -642,7 +642,7 @@ chouette pour envoyer des lettres, par exemple — »
 « Pourrais-je payer une noise ou quelque chose et *louer* une chouette
 quand j’aurai besoin d’envoyer du courrier ? »
 
-« Oui, » dit McGonagall.
+« Oui », dit McGonagall.
 
 « Alors, absolument *pas*. »
 
@@ -653,12 +653,12 @@ vous demander pourquoi ? »
 
 « Vous ne pensez pas pouvoir prendre soin d’un animal domestique ? »
 
-« Je *pourrais*, » dit Harry, « mais je me vois déjà, obsédé à longueur de
+« Je *pourrais* », dit Harry, « mais je me vois déjà, obsédé à longueur de
 journée, me demandant si je me suis bien souvenu de le nourrir ou s’il
 meurt lentement de faim dans sa cage, ne sachant ni où est son maitre ni
 pourquoi il n’y a pas de nourriture. »
 
-« Pauvre chouette, » dit McGonagall d’une voix douce. « Abandonnée comme
+« Pauvre chouette », dit McGonagall d’une voix douce. « Abandonnée comme
 ça. Je me demande ce qu’elle ferait. »
 
 « Eh bien, elle commencerait à avoir vraiment faim et à essayer de
@@ -668,7 +668,7 @@ fonctionnerait probablement pas — » Harry s’arrêta net.
 McGonagall continua, toujours de cette voix douce : « Et que se
 passerait-il ensuite ? »
 
-« Excusez-moi, » dit Harry, et il prit McGonagall par la main, gentiment,
+« Excusez-moi », dit Harry, et il prit McGonagall par la main, gentiment,
 mais fermement, et la tira vers une autre ruelle ; après avoir évité
 tant de sympathisants, le procédé était, presque imperceptiblement,
 devenu une routine. « Jetez le truc de Sourdinam s’il vous plait. »
@@ -682,7 +682,7 @@ Professeur McGonagall !* »
 
 La sorcière le regarda. « Et quelles seraient ces pensées, M. Potter ? »
 
-« Vous pensez que j’ai subi, » Harry avait du mal à le dire, « que j’ai
+« Vous pensez que j’ai subi », Harry avait du mal à le dire, « que j’ai
 subi des *abus* ? »
 
 « En avez-vous subi ? »
@@ -711,15 +711,15 @@ s’*arrêter*, il ne croit pas les parents *ni* les enfants lorsqu’ils
 disent que rien ne s’est passé ! *Ne vous avisez pas de menacer ma
 famille avec ça ! Je ne vous laisserai pas détruire mon foyer !* »
 
-« Harry, » dit doucement McGonagall, et elle tendit sa main vers lui —
+« Harry », dit doucement McGonagall, et elle tendit sa main vers lui —
 
 Harry fit un rapide pas en arrière, sa main jaillit et il repoussa la
 sienne —
 
 McGonagall se figea, puis retira sa main, et fit elle aussi un pas en
-arrière. « Harry, tout va bien, » dit-elle. « Je vous crois. »
+arrière. « Harry, tout va bien », dit-elle. « Je vous crois. »
 
-« *Vous me croyez*, » siffla Harry. La furie grondait toujours dans ses
+« *Vous me croyez* », siffla Harry. La furie grondait toujours dans ses
 veines. « Ou vous attendez juste de vous être éloignée de moi pour aller
 remplir des formulaires ? »
 
@@ -747,7 +747,7 @@ n’était pas en danger.
 
 « Et comment expliquez-vous vos observations, Professeur McGonagall ? »
 
-« Je ne sais pas, » dit-elle. « Mais il est possible que quelque chose vous
+« Je ne sais pas », dit-elle. « Mais il est possible que quelque chose vous
 soit arrivé, quelque chose dont vous ne vous souvenez pas. »
 
 La furie monta à nouveau en Harry. Ça ressemblait beaucoup trop aux
@@ -767,7 +767,7 @@ Un frisson parcourut la colonne vertébrale de Harry. *Cette* hypothèse…
 n’était *pas* simple à réfuter. « Mais mes parents ne pourraient pas
 faire ça ! »
 
-« Non, » dit McGonagall. « Il faudrait quelqu’un venu du monde magique. Il
+« Non », dit McGonagall. « Il faudrait quelqu’un venu du monde magique. Il
 n’y a… aucun moyen de le savoir, j’en ai peur — pas que je sache. »
 
 Les talents de rationaliste de Harry se remirent en route. « Professeur
@@ -787,14 +787,14 @@ Potter. J’essayais de démontrer un détail par de la rhétorique et j’ai
 peur que ça ait sonné différemment de la façon dont je l’avais à
 l’esprit… »
 
-« Au contraire, Professeur McGonagall, » dit Harry, et il sourit
+« Au contraire, Professeur McGonagall », dit Harry, et il sourit
 lentement. « Je prendrai cette remarque comme un très grand compliment.
 Mais objecteriez-vous à ce que je propose une explication alternative ? »
 
 « Allez-y, je vous en prie. »
 
 « Les enfants ne sont pas censés être beaucoup plus intelligents que
-leurs parents, » dit Harry. « Ou peut-être beaucoup plus sains d’esprit —
+leurs parents », dit Harry. « Ou peut-être beaucoup plus sains d’esprit —
 mon père pourrait probablement se montrer plus malin que moi s’il, vous
 savez, *essayait* vraiment, au lieu d’utiliser son intelligence d’adulte
 pour trouver de nouvelles raisons de ne pas changer d’avis — » Harry
@@ -883,18 +883,18 @@ Sa main gauche s’éleva et toucha sa cicatrice.
 
 Qu’est-ce qui… *exactement*…
 
-« Vous êtes un sorcier complet à présent, » dit McGonagall.
+« Vous êtes un sorcier complet à présent », dit McGonagall.
 « Félicitations. »
 
 Harry hocha la tête.
 
 « Et que pensez-vous du monde magique ? »
 
-« C’est étrange, » dit Harry. « Je devrais être en train de penser à tout
+« C’est étrange », dit Harry. « Je devrais être en train de penser à tout
 ce que j’ai vu de la magie… tout ce que je sais maintenant être
 possible, et tout ce que je sais maintenant être un mensonge, et tout le
 travail qui me reste à accomplir avant de vraiment comprendre. Et
-pourtant, je me trouve distrait par de relatives trivialités telles que, »
+pourtant, je me trouve distrait par de relatives trivialités telles que »,
 Harry baissa la voix, « toute cette histoire de Survivant. » Il ne
 semblait y avoir personne aux alentours, mais autant ne pas tenter le
 sort.
@@ -926,7 +926,7 @@ vraiment, vous savez, *participé* d’une façon quelconque. »
 « Eh bien, par exemple, vous avez mentionné que mes parents ont été trahis.
 Qui les a trahi ? »
 
-« Sirius Black, » dit McGonagall. Elle siffla son nom plus qu’elle ne le
+« Sirius Black », dit McGonagall. Elle siffla son nom plus qu’elle ne le
 prononça. « Il est à Azkaban. Prison des sorciers. »
 
 « Quelle est la probabilité que Sirius Black s’échappe de prison et que
@@ -943,7 +943,7 @@ approcher votre prison de 100 % de perfection, et encore plus si vous
 aviez une baguette et pas l’autre. La meilleure façon de sortir serait
 de ne jamais y être entré.
 
-« Très bien, » dit Harry. « Ça m’a l’air bien ficelé. » Il soupira, et
+« Très bien », dit Harry. « Ça m’a l’air bien ficelé. » Il soupira, et
 gratta sa paume contre sa tête. « Ou peut-être que le Seigneur des
 Ténèbres n’est pas *vraiment* mort cette nuit-là. Pas complètement. Son
 esprit erre, chuchotant aux gens dans leurs cauchemars, qui se répandent
@@ -955,7 +955,7 @@ gagnant perdra et le perdant gagnera — »
 La tête de McGonagall pivota, et ses yeux dardèrent aux alentours, à la
 recherche de personnes prêtant l’oreille.
 
-« Je *plaisante*, Professeur McGonagall, » dit Harry, un peu contrarié.
+« Je *plaisante*, Professeur McGonagall », dit Harry, un peu contrarié.
 Bon sang, pourquoi devait-elle toujours tout prendre si sérieusement —
 
 Une lente sensation coula doucement jusqu’au fond de l’estomac de Harry.
@@ -1048,7 +1048,7 @@ qu’elle craint…*
 
 Ah.
 
-« Très bien, dans ce cas, Professeur McGonagall, » dit Harry d’un ton bas
+« Très bien, dans ce cas, Professeur McGonagall », dit Harry d’un ton bas
 et glacé, « on dirait que j’ai quelque chose que vous désirez. Vous
 pouvez, si vous le souhaitez, me dire la vérité, *toute* la vérité, et
 en retour, je garderai vos secrets. Ou vous pouvez essayer de me garder
@@ -1073,9 +1073,9 @@ Comment vous sentiriez-vous si c’était VOUS ?* »
 
 Harry regarda McGonagall, observa sa respiration saccadée. Il se rendit
 compte qu’il était temps d’adoucir la pression, de la laisser pondérer
-un moment. « Vous n’avez pas à décider tout de suite, » dit Harry sur un
+un moment. « Vous n’avez pas à décider tout de suite », dit Harry sur un
 ton plus normal. « Je comprendrais si vous vouliez plus de temps pour
-réfléchir à mon *offre*… mais je vous préviens d’une chose, » dit Harry,
+réfléchir à mon *offre*… mais je vous préviens d’une chose », dit Harry,
 sa voix devenant plus froide. « N’essayez pas ce Charme d’Oubliettes sur
 moi. Il y a quelque temps, j’ai conçu un signal, et je me le suis déjà
 envoyé à moi-même. Si je trouve ce signal et que je ne me *souviens* pas
@@ -1091,7 +1091,7 @@ connaissiez pas l’existence de — »
 dit, *bon, juste au cas où*… Et non, je ne vous dirai pas le signal, je
 ne suis pas stupide. »
 
-« Je ne comptais pas vous le demander, » dit McGonagall. Elle parut se
+« Je ne comptais pas vous le demander », dit McGonagall. Elle parut se
 replier sur elle-même, et eut l’air soudain très vieille et très
 fatiguée. « Ça a été une journée épuisante, M. Potter. Pourrions-nous
 prendre votre malle et vous envoyer chez vous ? Je vous fais confiance
@@ -1104,7 +1104,7 @@ Donc. De nouvelles informations ; c’était une offre de paix. Harry
 acquiesça, tourna la tête vers l’avant et commença à marcher à nouveau.
 
 « Donc, maintenant, je dois trouver un moyen de tuer un Seigneur des
-Ténèbres immortel, » dit Harry, et il soupira de frustration. « J’aurais
+Ténèbres immortel », dit Harry, et il soupira de frustration. « J’aurais
 vraiment aimé que vous me disiez ça *avant* qu’on commence à faire du
 shopping. »
 
@@ -1152,7 +1152,7 @@ dans le sac après que le vendeur eut donné son prix, ce qui voulait dire
 que le Professeur pouvait faire du calcul mental sans crayon ni papier.
 Une fois de plus, Harry se rappela à lui-même que « scientifiquement illettré » n’est pas la même chose que « stupide ».
 
-« Je suis désolée, jeune homme, » dit McGonagall. « C’est entièrement de ma
+« Je suis désolée, jeune homme », dit McGonagall. « C’est entièrement de ma
 faute. Je vous proposerais bien de vous ramener à Gringotts, mais la
 banque est à présent fermée, hormis pour ses services d’urgence. »
 
@@ -1166,7 +1166,7 @@ personnalité comme d’une robe de sorcier. Concentrant son univers entier
 sur McGonagall et le besoin qu’il avait de tordre cette conversation à
 ses fins, il parla.
 
-« Laissez-moi deviner, » dit Harry. « Vous pensiez que vous vous donniez
+« Laissez-moi deviner », dit Harry. « Vous pensiez que vous vous donniez
 une *grande* marge d’erreur, que cent Gallions seraient *plus* que
 suffisants, et c’est pourquoi vous n’avez pas pris la peine de me
 prévenir quand nous sommes descendus à quatre-vingt-dix-sept. »
@@ -1183,12 +1183,12 @@ laisseriez pas. Je savais qu’il était futile de demander. Je savais que
 vous seriez agacée et peut-être même *énervée* si je vous demandais.
 Ai-je tort ? »
 
-« Non, » dit McGonagall, « vous avez raison. » Sa voix avait une note
+« Non », dit McGonagall, « vous avez raison. » Sa voix avait une note
 d’excuse, mais aussi une note d’orgueil personnel, comme si Harry était
 censé remarquer le grand, l’immense honneur que c’était de voir le
 *Professeur McGonagall* s’excuser auprès de lui.
 
-« Vous devriez comprendre, Professeur McGonagall, » Harry prononça ces
+« Vous devriez comprendre, Professeur McGonagall », Harry prononça ces
 mots avec soin, « que c’est pour ça que je ne fais pas confiance aux
 adultes ! Vous pensiez qu’être adulte voulait dire que c’était votre rôle
 de m’empêcher de prendre trop d’argent dans ma chambre forte. Pas que
@@ -1203,7 +1203,7 @@ suggérais de prendre cent Gallions de plus *juste pour être sûr*, sans
 justification autre que celle d’être *prêt*, m’écouteriez-vous *cette
 fois* ? »
 
-« J’accepte votre argument, » dit McGonagall, « Vous n’avez pas besoin de
+« J’accepte votre argument », dit McGonagall, « Vous n’avez pas besoin de
 *me* sermonner, jeune homme ! »
 
 « Ah, mais je n’en suis pas encore *arrivé* à mon argument. Connaissez
@@ -1243,7 +1243,7 @@ Le vendeur s’étrangla bruyamment.
 
 Et la puissante sorcière resta silencieuse.
 
-« La discipline *doit* être appliquée à Poudlard, » dit-elle après qu’une
+« La discipline *doit* être appliquée à Poudlard », dit-elle après qu’une
 minute entière se soit écoulée. « Pour le bien de *tous* les étudiants.
 Et cela *doit* inclure la courtoisie et l’obéissance à *tous* vos
 professeurs. »
@@ -1301,7 +1301,7 @@ magique, si vous étiez prêt à payer le prix d’une voiture de seconde
 main. Harry se demanda si son père serait capable de voir la malle après
 que Harry la lui aie explicitement montrée.
 
-« C’est ici que nos chemins se séparent, pour un temps, » dit le
+« C’est ici que nos chemins se séparent, pour un temps », dit le
 Professeur McGonagall. Elle secoua sa tête avec émerveillement. « Ça a
 été le jour le plus étrange de ma vie depuis… depuis bien des années.
 Depuis le jour où j’ai appris qu’un enfant avait vaincu Vous-Savez-Qui.
@@ -1312,11 +1312,11 @@ Oh, comme si *elle* avait à se plaindre de quoi que ce soit. *Vous
 pensez que votre journée était surréaliste ? Essayez la mienne pour
 voir*.
 
-« Vous m’avez grandement impressionné aujourd’hui, » lui dit Harry.
+« Vous m’avez grandement impressionné aujourd’hui », lui dit Harry.
 « J’aurais dû penser à vous complimenter à voix haute, je vous donnais
 des points dans ma tête et tout. »
 
-« Merci, M. Potter, » dit McGonagall. « Si vous aviez déjà été trié dans
+« Merci, M. Potter », dit McGonagall. « Si vous aviez déjà été trié dans
 une Maison je vous aurais déduit tant de points que vos petits-enfants
 perdraient encore la Coupe des Maisons. »
 
@@ -1330,10 +1330,10 @@ qu’il formerait pour combattre le Seigneur des Ténèbres, mais il n’était
 pas assez idiot pour dire ça à voix haute. *Et quel serait un bon nom
 pour ce groupe… ? Les Mangemangemorts ?*
 
-« Je vous verrai très bientôt, quand l’école commencera, » dit McGonagall.
+« Je vous verrai très bientôt, quand l’école commencera », dit McGonagall.
 « Et, M. Potter, à propos de votre baguette — »
 
-« Je sais ce que vous allez me demander, » dit Harry. Il sortit sa
+« Je sais ce que vous allez me demander », dit Harry. Il sortit sa
 précieuse baguette et, avec un immense pincement de douleur intérieure,
 la retourna dans sa main. La poignée vers l’extérieur, il la présenta à
 McGonagall. « Prenez-la. Je ne comptais pas faire quoi que ce soit, pas
@@ -1345,13 +1345,13 @@ ce genre de choses. Je voulais juste vous prévenir de ne pas *utiliser*
 votre baguette chez vous, car il y a des moyens de détecter l’usage de
 la magie chez les mineurs et c’est interdit sans supervision. »
 
-« Ah, » dit Harry, et il sourit. « *Cela* me semble être une règle *très*
+« Ah », dit Harry, et il sourit. « *Cela* me semble être une règle *très*
 sensée. Je suis heureux de voir que le monde magique prend ce genre de
 chose sérieusement. »
 
 McGonagall le regarda intensément. « Vous le pensez vraiment. »
 
-« Oui, » dit Harry. « Je comprends. La magie est dangereuse et les règles
+« Oui », dit Harry. « Je comprends. La magie est dangereuse et les règles
 sont là pour une bonne raison. Certaines affaires sont elles aussi
 dangereuses. Je le comprends. Souvenez-vous que je ne suis pas stupide. »
 
@@ -1367,7 +1367,7 @@ dernier murmure derrière lui.
 
 « Hermione Granger. »
 
-« Quoi ?, » dit Harry, sa main toujours sur la porte.
+« Quoi ? », dit Harry, sa main toujours sur la porte.
 
 « Cherchez une fille de première année nommée Hermione Granger sur le
 train vers Poudlard. »
@@ -1392,5 +1392,5 @@ de Harry ? »
 McGonagall ouvrit sa bouche. Puis elle ferma sa bouche. Puis elle ouvrit
 à nouveau sa bouche. Aucun mot ne sortit.
 
-« Je vois, » dit Dumbledore avec gravité. « Merci pour votre rapport,
+« Je vois », dit Dumbledore avec gravité. « Merci pour votre rapport,
 Minerva. Vous pouvez y aller. »

@@ -1,6 +1,6 @@
 # Croyance en la croyance
 
-« Et puis Jeanne, qui était une Cracmol, » dit le portrait d’une petite
+« Et puis Jeanne, qui était une Cracmol », dit le portrait d’une petite
 jeune femme coiffée d’un chapeau cousu d’or.
 
 Drago le nota. Ça n’en faisait que vingt-huit mais il était temps de
@@ -45,7 +45,7 @@ quelque chose en train de disparaître avec bien trop de force.
 Sa main sur la poignée de la porte, Harry Potter déjà à l’intérieur,
 attendant, vêtu de sa houppelande à capuche.
 
-« Les anciens sorts de première année, » dit Harry Potter. « Qu’as-tu
+« Les anciens sorts de première année », dit Harry Potter. « Qu’as-tu
 découvert ? »
 
 « Ils ne sont pas plus puissants que les sorts qu’on utilise
@@ -83,7 +83,7 @@ cartable, et il s’assit face à Harry et jeta un regard confus vers les
 bouts de papier. Ils étaient disposés en deux rangées et les rangées
 faisaient à peu près vingt feuillets de long.
 
-« Le secret du sang, » dit Harry Potter, une expression intense dessinée
+« Le secret du sang », dit Harry Potter, une expression intense dessinée
 sur le visage, « est une chose nommée acide désoxyribonucléique. Tu ne
 prononces pas ce nom devant quelqu’un qui n’est pas un scientifique.
 L’acide désoxyribonucléique est la recette qui dit à ton corps comment
@@ -113,7 +113,7 @@ interrompre son discours.
 y a *beaucoup* d’emplacements dans la recette qui provoquent de *petits*
 changements. Donc si un père grand épouse une mère petite, l’enfant
 obtiendra quelques bouts de papiers disant « grand » et d’autres disant
-« petit, » et l’enfant se retrouvera probablement avec une hauteur
+« petit », et l’enfant se retrouvera probablement avec une hauteur
 moyenne. Mais pas toujours. L’enfant pourrait par chance obtenir
 beaucoup de bouts de papier disant « grand » et peu disant « petit » ; il
 grandirait alors beaucoup. Il pourrait y avoir un père grand qui
@@ -131,10 +131,10 @@ Drago écoutait, bouche bée. Nom de Merlin, comment les Moldus
 avaient-ils fait pour découvrir tout ça ? Ils pouvaient *voir* la
 recette ?
 
-« Maintenant, » dit Harry Potter, « imagine que, comme pour la taille, il y
+« Maintenant », dit Harry Potter, « imagine que, comme pour la taille, il y
 ait beaucoup de petits emplacements dans la recette où un bout de papier
 disant « magique » ou « pas magique » pourrait se trouver. Si tu as assez de
-bouts de papier disant « magique, » tu es un sorcier. Si tu as *beaucoup*
+bouts de papier disant « magique », tu es un sorcier. Si tu as *beaucoup*
 de ce genre de bouts de papier, tu es un sorcier puissant. Si tu en as
 trop peu, tu es un Moldu, et entre les deux, tu es un Cracmol. Alors,
 quand deux Cracmols se marient, la plupart du temps les enfants seront
@@ -156,7 +156,7 @@ Drago hocha lentement la tête. Il avait déjà entendu cette idée
 auparavant. Il y avait une surprenante beauté à voir à quel point ça
 correspondait à l’explication de Harry.
 
-« *Mais*, » dit Harry, « ce n’est qu’*une* hypothèse. Imagine qu’au lieu de
+« *Mais* », dit Harry, « ce n’est qu’*une* hypothèse. Imagine qu’au lieu de
 ça, il y ait *un seul* endroit dans la recette qui détermine si tu es un
 sorcier. *Un* seul endroit où un bout de papier peut dire « magique » ou
 « pas magique ». Et il y a toujours deux copies de tout. Alors il n’y a
@@ -185,7 +185,7 @@ Harry disposa trois paires de papiers côte à côte. Sur une paire, il
 sur le papier du haut seulement. Et il laissa la troisième paire
 blanche.
 
-« Auquel cas, » dit Harry, « soit tu as deux pierres, soit tu n’en as
+« Auquel cas », dit Harry, « soit tu as deux pierres, soit tu n’en as
 aucune. Soit tu es un sorcier, soit tu n’en es pas un. Les sorciers
 puissants le deviendraient en étudiant plus dur et en pratiquant plus.
 Et si le pouvoir des sorciers devient *essentiellement* moins puissant,
@@ -199,7 +199,7 @@ Harry disposa deux autres paires de papiers côte à côte et sortit une
 plume. Bientôt, chaque paire eut un bout de papier disant « magique » et
 l’autre laissé vide.
 
-« Ce qui m’amène à ma prédiction, » dit Harry. « Ce qui se passe quand deux
+« Ce qui m’amène à ma prédiction », dit Harry. « Ce qui se passe quand deux
 Cracmols se marient. Jette une pièce deux fois. Elle peut être face puis
 face, face puis pile, pile puis face, ou pile puis pile. Donc un quart
 du temps tu obtiendras deux face, une quart du temps tu obtiendras deux
@@ -227,7 +227,7 @@ Vingt-huit enfants.
 Il ne se souvenait pas du nombre exact mais il était à peu près sûr
 qu’environ un quart avaient été sorciers.
 
-« Six sorciers sur vingt-huit enfants, » dit Harry Potter après un moment.
+« Six sorciers sur vingt-huit enfants », dit Harry Potter après un moment.
 « Eh bien voilà. Et il y a huit siècles, les première année jetaient les
 même sorts au même niveau de pouvoir. Ton test et mon test ont produit
 le même résultat. »
@@ -238,7 +238,7 @@ Il y eut un long silence dans la salle.
 
 Il n’avait jamais été si terrifié.
 
-« Ce n’est pas encore définitif, » dit Harry Potter. « Mon expérience a
+« Ce n’est pas encore définitif », dit Harry Potter. « Mon expérience a
 échoué, tu te souviens ? J’ai besoin que tu concoives un autre test,
 Drago. »
 
@@ -253,11 +253,11 @@ avec le sang des sorciers ou les sorts qu’on apprend ? »
 
 Le cerveau de Drago était juste vide.
 
-« Tout ce qui affecte la magie affecte les sorciers, » dit Harry. « Mais
+« Tout ce qui affecte la magie affecte les sorciers », dit Harry. « Mais
 dans ce cas on ne peut pas dire si ça vient des sorciers ou de la magie.
 Qu’est-ce que la magie affecte qui *n’est pas* un sorcier ? »
 
-« Les créatures magiques, évidemment, » dit Drago sans même y penser.
+« Les créatures magiques, évidemment », dit Drago sans même y penser.
 
 Harry Potter sourit lentement. « Drago, c’est *génial*. »
 
@@ -317,7 +317,7 @@ qu’elles l’avaient toujours été.
 Le malaise dans l’estomac de Drago se calma, et il se sentit juste
 dérouté.
 
-« Harry, » dit Drago au beau milieu d’une phrase du vieil homme qui
+« Harry », dit Drago au beau milieu d’une phrase du vieil homme qui
 traduisait la liste des onze pouvoirs des yeux du tyrannoeil, « qu’est-ce
 que ça veut dire ? »
 
@@ -371,14 +371,14 @@ de première année sont aussi puissants qu’avant.*
 connaissances scientifiques sur le sang, j’expliquerai plus tard.
 [Résultat :]{.underline}* *Il n’y a
 qu’un seul endroit dans la recette qui fait de quelqu’un un sorcier,
-soit on a deux papiers disant « magique, » soit on n’a rien.*
+soit on a deux papiers disant « magique », soit on n’a rien.*
 
 *D. Les créatures magiques perdent-elles leurs pouvoirs ? Distingue 1 de
 (2 ou 3). [Résultat :]{.underline}*
 *Les créatures magiques semblent être aussi puissantes qu’elles l’ont
 toujours été.*
 
-« A a échoué, » dit Harry Potter. « B est un faible élément de preuve pour
+« A a échoué », dit Harry Potter. « B est un faible élément de preuve pour
 1 au détriment de 2. C falsifie 2. D falsifie 1. 4 était peu probable et
 B contredit aussi 4. 5 était peu probable et D le contredit. 6 est
 falsifié en même temps que 2. Ce qui nous laisse 3. Interdit de Merlin
@@ -403,10 +403,10 @@ duquel je tricherais. Jamais. Je n’ai pas regardé tes données avant
 d’avoir fait mes prédictions. Je t’ai dit à l’avance que l’Interdit de
 Merlin annulait la première expérience — »
 
-« Oh, » dit Drago, la colère commençant à poindre dans sa voix, « tu ne
+« Oh », dit Drago, la colère commençant à poindre dans sa voix, « tu ne
 savais pas comment tout ça finirait ? »
 
-« Je ne *savais* rien que tu ne saches pas toi-même, » dit Harry, toujours
+« Je ne *savais* rien que tu ne saches pas toi-même », dit Harry, toujours
 doucement. « J’admets l’avoir suspecté. Hermione Granger est trop
 puissante, elle aurait dû être à peine magique, et ce n’est pas le cas.
 Comment une née-Moldue pourrait-elle être la meilleure lanceuse de sorts
@@ -426,11 +426,11 @@ trouvions la réponse ensemble. Et avant que tu ne le dises, je n’avais
 jamais pensé que la magie pouvait disparaître du monde. Pour moi aussi,
 c’était une idée effrayante. »
 
-« C’est ça, » dit Drago. Il faisait beaucoup d’efforts pour contrôler sa
+« C’est ça », dit Drago. Il faisait beaucoup d’efforts pour contrôler sa
 voix, pour pas se contenter de crier sur Harry. « Tu prétends que tu ne
 vas pas courir le dire à qui que ce soit d’autre. »
 
-« Pas sans t’avoir consulté avant, » dit Harry. Il ouvrit ses mains et fit
+« Pas sans t’avoir consulté avant », dit Harry. Il ouvrit ses mains et fit
 un geste suppliant. « Drago, j’essaie d’être aussi gentil que possible,
 mais *le monde s’est juste avéré ne pas être ainsi.* »
 
@@ -497,7 +497,7 @@ de voir des photos de ses parents, pour voir si elle leur ressemble.
 T’attendrais-tu à ce qu’ils aient l’air différents ? Devrions-nous aller
 effectuer ce test ? »
 
-« Ils l’ont sûrement mise avec des membres de sa famille éloignée, » dit
+« Ils l’ont sûrement mise avec des membres de sa famille éloignée », dit
 Drago, la voix tremblante. « Ils se ressembleront. »
 
 « Tu vois. Tu sais déjà quel résultat expérimental tu vas devoir excuser.
@@ -535,7 +535,7 @@ un bureau puis jusqu’au sol.
 
 « *Idiot* ! » hurla Drago. « *Idiot ! Idiot !* »
 
-« Drago, » murmura Harry depuis le sol, « Drago, je suis désolé, je ne
+« Drago », murmura Harry depuis le sol, « Drago, je suis désolé, je ne
 pensais pas que ça aurait lieu avant des mois, je ne m’attendais pas à
 ce que ton éveil scientifique soit aussi rapide, je pensais que j’aurais
 plus de temps pour te préparer, pour t’enseigner des techniques
@@ -554,25 +554,25 @@ Pendant un moment, la pensée que Père ne savait pas fut un soulagement.
 Puis la vraie colère commença à monter.
 
 « Donc tu as prévu que je mente et que je lui dise que j’y crois
-toujours, » dit Drago, la voix tremblante. « Je devrai toujours lui
+toujours », dit Drago, la voix tremblante. « Je devrai toujours lui
 mentir, et maintenant, je ne pourrai pas être un Mangemort quand je
 serai grand, et je ne pourrai même pas lui dire pourquoi. »
 
-« Si ton père t’aime vraiment, » murmura Harry depuis le sol, « il t’aimera
+« Si ton père t’aime vraiment », murmura Harry depuis le sol, « il t’aimera
 toujours, même si tu ne deviens pas un Mangemort, et on dirait bien que
 tu père t’aime *vraiment*, Drago — »
 
-« *Ton* père adoptif est un scientifique, » dit Drago. Les mots sortaient,
+« *Ton* père adoptif est un scientifique », dit Drago. Les mots sortaient,
 tels des couteaux acérés. « Si *tu* n’allais pas devenir un scientifique,
 il t’aimerait toujours. Mais tu serais *un peu moins extraordinaire* à
 ses yeux. »
 
 Harry eut un mouvement de recul. Le garçon ouvrit la bouche, comme pour
-dire « Je suis désolé, » puis il la referma, semblant se raviser, ce qui
+dire « Je suis désolé », puis il la referma, semblant se raviser, ce qui
 était soit très intelligent, soit très chanceux, parce que s’il avait
 parlé, Drago aurait peut-être essayé de le tuer.
 
-« Tu aurais dû me mettre en garde, » dit Drago. Sa voix s’éleva. « *Tu
+« Tu aurais dû me mettre en garde », dit Drago. Sa voix s’éleva. « *Tu
 aurais dû me mettre en garde !* »
 
 « Je… je l’ai fait… à chaque fois que je t’ai parlé du pouvoir, je t’ai
@@ -592,7 +592,7 @@ par la vérité doit l’être. »
 
 Le frapper n’aurait pas suffi.
 
-« Tu avais tort sur un point, » dit Drago, la voix mortelle. « Granger
+« Tu avais tort sur un point », dit Drago, la voix mortelle. « Granger
 n’est pas l’élève la plus forte de Poudlard. Elle obtient juste les
 meilleures notes en cours. Tu es sur le point de comprendre la
 différence. »
@@ -610,7 +610,7 @@ La baguette de Harry vola jusqu’à l’autre bout de la pièce.
 
 Une pulsation de noirceur encrée frappa la main gauche de Harry.
 
-« C’est un sort de torture, » dit Drago. « C’est pour tirer des
+« C’est un sort de torture », dit Drago. « C’est pour tirer des
 informations des gens. Je vais juste le laisser sur toi et fermer la
 porte derrière moi en partant. Peut-être que je réglerai le sort de
 loquet pour qu’il s’estompe après quelques heures. Ou peut-être qu’il ne
@@ -629,11 +629,11 @@ lequel d’entre nous. Ma prédiction est-elle fausse ? »
 La main de Drago blanchit autour de sa baguette, mais sa visée demeura
 stable.
 
-« Juste pour que tu saches, » dit Harry, les dents serrées, « si tu m’avais
+« Juste pour que tu saches », dit Harry, les dents serrées, « si tu m’avais
 dit que j’avais tort, je t’aurais écouté. *Je* ne te torturerai jamais
 quand tu me montreras que j’ai tort. Et tu le *feras*. Un jour. Tu es
 éveillé à la science maintenant, et même si tu n’apprends jamais à
-utiliser ton pouvoir, tu seras toujours, » Harry haleta, « à la recherche…
+utiliser ton pouvoir, tu seras toujours », Harry haleta, « à la recherche…
 de moyens… de tester… tes croyances… »
 
 La démarche de Drago était maintenant moins fluide, un peu plus rapide,
@@ -721,7 +721,7 @@ Ce n’était pas un grand sourire, mais c’était un sourire quand même.
 Il n’avait pas racheté Drago, loin de là. Contrairement à ce que Drago
 lui-même pouvait à présent croire, il était toujours l’enfant d’un
 Mangemort jusqu’au bout des ongles. Toujours un garçon qui avait grandi
-en pensant que « violer, » c’était quelque chose que les enfants cool et
+en pensant que « violer », c’était quelque chose que les enfants cool et
 plus âgés faisaient. Mais c’était un sacré début.
 
 Harry ne pouvait pas prétendre que tout s’était déroulé exactement comme

@@ -71,7 +71,7 @@ sans nom s’affûta, grandit…
 
 *Professeur Quirrell ?*
 
-« M. Potter, » dit une voix douce derrière lui.
+« M. Potter », dit une voix douce derrière lui.
 
 Harry pivota, sa main alla à son Retourneur de Temps situé sous sa
 Cape ; à nouveau, l’idée d’être prêt à fuir à n’importe quel instant lui
@@ -81,7 +81,7 @@ Lentement, paumes ouvertes et tournées vers le ciel, le professeur
 Quirrell avança vers lui, à la bordure de la forêt, approchant depuis le
 château de Poudlard.
 
-« M. Potter, » répéta le professeur Quirrell. « Je sais que vous êtes ici.
+« M. Potter », répéta le professeur Quirrell. « Je sais que vous êtes ici.
 Vous savez que je sais que vous êtes ici. Je dois vous parler. »
 
 Harry continua de se taire. Le professeur Quirrell n’avait toujours pas
@@ -99,7 +99,7 @@ professeur Quirrell. « La voie dont vous m’avez parlé hier ? »
 
 Une fois de plus, Harry ne répondit pas.
 
-Le professeur Quirrell soupira. « J’ai fait beaucoup pour vous, » dit
+Le professeur Quirrell soupira. « J’ai fait beaucoup pour vous », dit
 l’homme. « Quoi que puissent être vos interrogations à mon sujet, vous ne
 pouvez le nier. Je réclame paiement d’une partie de la dette.
 Parlez-moi, M. Potter. »
@@ -131,7 +131,7 @@ nouveau fait pivoter le Retourneur de Temps…
 « Qu’est-ce que c’était ? » dit le professeur Quirrell en clignant des
 yeux. « Est-ce que vous venez… »
 
-« Rien d’important, » dit Harry sans soulever sa Cape d’Invisibilité ni
+« Rien d’important », dit Harry sans soulever sa Cape d’Invisibilité ni
 retirer sa main de son Retourneur de Temps. « Oui, je suis toujours
 décidé. Pour être honnête, je pense que je n’aurais rien dû en dire. »
 
@@ -160,7 +160,7 @@ Répondre à cette affirmation étonnante ne demanda pas beaucoup de
 réflexion à Harry. « Définissez dangereux, et dites-moi ce que vous savez
 et comment vous pensez le savoir. »
 
-« Parfois, » dit le professeur Quirrell, « parler d’un danger à quelqu’un
+« Parfois », dit le professeur Quirrell, « parler d’un danger à quelqu’un
 peut les pousser à aller droit vers celui-ci. Cette fois-ci, je compte
 bien éviter que cela se produise. Vous attendez-vous à ce que je vous
 dise exactement ce que vous ne devez pas faire ? La raison exacte de ma
@@ -176,7 +176,7 @@ Avec précaution, le professeur Quirrell s’assit sur l’herbe et sortit sa
 baguette qu’il mit dans une position que Harry reconnut. Il inspira
 soudainement.
 
-« C’est la dernière fois que je pourrais faire cela pour vous, » dit
+« C’est la dernière fois que je pourrais faire cela pour vous », dit
 doucement le professeur Quirrell. Puis l’homme commença à prononcer des
 mots étranges, d’aucun langage que Harry pouvait reconnaître, d’une
 intonation qui ne semblait pas tout à fait humaine, des mots qui
@@ -220,7 +220,7 @@ temps et heure.
 
 En temps et heure, une voix parla.
 
-« Il n’y a pas de guerre ici, » dit une douce voix émanant du vide. « Pas
+« Il n’y a pas de guerre ici », dit une douce voix émanant du vide. « Pas
 de conflit ni de bataille, pas de politique ni de trahison, pas de mort
 ni de vie. Tout cela appartient à la folie des hommes. Les étoiles
 surplombent ces sottises et ne s’y frottent pas. Ici se trouvent la paix
@@ -232,7 +232,7 @@ Harry se retourna pour voir d’où venait la voix et ne vit que les
 « Ce que vous pensiez ? » dit Harry quand il sembla qu’aucune autre parole
 n’allait venir.
 
-« Il n’y a rien qui surplombe la folie des hommes, » chuchota la voix du
+« Il n’y a rien qui surplombe la folie des hommes », chuchota la voix du
 vide. « Il n’y a rien au-delà des pouvoirs destructeurs d’une idiotie
 suffisamment intelligente, pas mêmes les étoiles elles-mêmes. J’ai
 travaillé très dur afin qu’une certaine plaque en or dure toujours. Je
@@ -251,11 +251,11 @@ des cas possibles, une guerre nucléaire n’aurait pas la moindre de
 chance de détruire le système solaire, non pas que ce soit une
 consolation. »
 
-« Vrai pour ce qui est des Moldus, » dit la douce voix entre les étoiles.
+« Vrai pour ce qui est des Moldus », dit la douce voix entre les étoiles.
 « Mais que les Moldus savent-ils du véritable pouvoir ? Ce ne sont pas
 eux qui me font peur. C’est vous. »
 
-« Professeur, » dit Harry avec précaution, « bien que je doive admettre
+« Professeur », dit Harry avec précaution, « bien que je doive admettre
 avoir tiré quelques échecs critiques dans ma vie, il y a une certaine
 distance entre ça et rater un jet de sauvegarde d’une façon si
 catastrophique que la sonde Pioneer 11 se retrouve dans le rayon de
@@ -267,7 +267,7 @@ le soleil n’a pas un cœur dégénéré que l’on pourrait faire exploser. Le
 soleil n’a pas assez de masse pour devenir une supernova, même à la fin
 de sa vie. »
 
-« Les Moldus ont appris tant de choses incroyables, » murmura l’autre
+« Les Moldus ont appris tant de choses incroyables », murmura l’autre
 voix. « Comment les étoiles vivent, comment elles se préservent de la
 mort, comment elles meurent. Et ils ne se demandent jamais si un tel
 savoir pourrait être dangereux. »
@@ -284,7 +284,7 @@ magique a été détruit par la folie d’un seul homme. De tels incidents
 qui suivit Merlin. D’avant Merlin, il ne reste que peu à étudier. »
 
 « Il y a environ trente ordres de grandeur entre ça et faire exploser le
-soleil, » remarqua Harry, puis il se reprit. « Mais j’ergote, pardon,
+soleil », remarqua Harry, puis il se reprit. « Mais j’ergote, pardon,
 faire exploser un pays aussi serait mal, je suis d’accord. Quoi qu’il en
 soit, professeur, je ne compte pas faire quoi que ce soit qui y
 ressemble. »
@@ -308,27 +308,27 @@ pas se contraindre à vraiment s’arrêter. Je me demande, M. Potter si
 vous avez songé à essayer quelque chose que Hermione Granger elle-même
 vous aurait dit de ne pas faire ? »
 
-« Très *bien*, j’ai compris, » dit Harry. « Professeur, je suis bien
+« Très *bien*, j’ai compris », dit Harry. « Professeur, je suis bien
 conscient du fait que si je sauve Hermione au prix de deux autres vies,
 j’aurai perdu des points en termes utilitaristes. Je suis *extrêmement*
 conscient du fait Hermione ne voudrait pas que je prenne le risque de
 détruire tout un pays juste pour la sauver. C’est du bon sens. »
 
-« Enfant qui détruit les Détraqueurs, » dit la voix douce, « s’il n’y avait
+« Enfant qui détruit les Détraqueurs », dit la voix douce, « s’il n’y avait
 qu’un seul pays dont je craignais que vous provoquassiez la destruction,
 je serais moins inquiet. Je ne croyais pas, au début, que votre
 connaissance de la science moldue et de ses pratiques serait une source
 de grand pouvoir. J’y crois maintenant plus. Je suis, pour être
 parfaitement sincère, inquiet pour cette plaque en or. »
 
-« Eh bien, si la science-fiction m’a appris quoi que ce soit, » dit Harry,
+« Eh bien, si la science-fiction m’a appris quoi que ce soit », dit Harry,
 « c’est que détruire un système solaire n’est pas moralement acceptable,
 surtout si on le fait avant que l’humanité n’ait colonisé un autre
 système stellaire. »
 
 « Alors vous abandonnerez cette… »
 
-« Non, » dit Harry sans même réfléchir avant d’ouvrir la bouche. Après un
+« Non », dit Harry sans même réfléchir avant d’ouvrir la bouche. Après un
 moment, il ajouta : « Mais je comprends ce que vous essayez de me dire. »
 
 Silence. Les étoiles ne s’étaient pas déplacées, pas même d’autant
@@ -339,7 +339,7 @@ Harry se rendit compte qu’il était resté debout un moment sans bouger et
 s’assit sur le cercle quasiment invisible qui demeurait sous lui en
 faisant attention de ne pas toucher aux bords du sortilège.
 
-« Dites-moi, » dit la voix douce. « Pourquoi cette fille a-t-elle autant
+« Dites-moi », dit la voix douce. « Pourquoi cette fille a-t-elle autant
 d’importance pour vous ? »
 
 « Parce qu’elle est mon amie. »
@@ -349,7 +349,7 @@ associé à la notion d’un effort désespéré visant à réanimer les morts.
 Avez-vous l’impression qu’elle est votre véritable amour, ou quelque
 chose comme cela ? »
 
-« Oh, pas vous aussi, » dit Harry d’un ton las. « Entre tous, pas vous,
+« Oh, pas vous aussi », dit Harry d’un ton las. « Entre tous, pas vous,
 professeur. D’accord, nous sommes meilleurs amis, mais c’est *tout*,
 d’accord ? Cela suffit. Les amis ne laissent pas leurs amis rester
 morts. »
@@ -384,7 +384,7 @@ correcte. »
 
 Harry secoua la tête, puis, agacé, releva la capuche de la Cape et
 secoua de nouveau la tête. « Cela me semble être un point de vue *choisi*
-sur le monde, Professeur, » dit le visage mal éclairé d’un garçon
+sur le monde, Professeur », dit le visage mal éclairé d’un garçon
 suspendu au-dessus d’un cercle d’herbe sombre au milieu des étoiles.
 « Quelqu’un de normal n’essaierait tout simplement pas d’inventer un
 sortilège de résurrection, si bien que vous ne pouvez rien déduire du
@@ -393,7 +393,7 @@ fait qu’ils ne le font pas. »
 Un instant plus tard, la silhouette mal éclairée d’un homme assis sur un
 cercle d’herbe devint visible.
 
-« S’ils se préoccupent *vraiment* de ceux qu’ils disent aimer, » dit
+« S’ils se préoccupent *vraiment* de ceux qu’ils disent aimer », dit
 doucement le professeur Quirrell, « pourquoi n’y pensent-ils pas ? »
 
 « Les cerveaux ne fonctionnent pas comme ça. Ils ne mettent pas le turbo
@@ -472,7 +472,7 @@ désespoir fou dans sa voix. « Pourquoi être le seul au monde à faire
 autant d’effort pour maintenir les apparences quand aucun d’eux ne fera
 jamais de même pour vous ? »
 
-« Je pense que vous vous trompez sur une question de fait, professeur, »
+« Je pense que vous vous trompez sur une question de fait, professeur »,
 répondit Harry d’une voix neutre. « Sur plusieurs, en fait. À minima,
 votre modèle de mes émotions est erroné. Parce que vous ne me comprenez
 pas le moins de monde si vous pensez que la véracité de ce que vous
@@ -490,7 +490,7 @@ honneur d’être cette personne et j’essaierai de m’en rendre digne. »
 
 Il y eut un long silence.
 
-« Vous vous souciez réellement de cette fille, » dit doucement l’obscure
+« Vous vous souciez réellement de cette fille », dit doucement l’obscure
 silhouette de l’homme. « Vous vous souciez d’elle comme *aucun* d’eux
 n’est capable de se soucier de sa propre vie et encore moins de celle de
 leur prochain. » La voix du professeur de Défense devint étrange, comme
@@ -498,7 +498,7 @@ emplie d’une émotion indéchiffrable. « Je ne le comprends pas, mais je
 sais jusqu’où vous irez. Vous défierez la mort pour elle. Rien ne vous
 fera dévier. »
 
-« Je m’en soucie assez pour vraiment faire un effort, » dit doucement
+« Je m’en soucie assez pour vraiment faire un effort », dit doucement
 Harry. « Oui, c’est vrai. »
 
 La lumière céleste commença à se fracturer lentement, le monde commença
@@ -511,7 +511,7 @@ une attaque se produirait pendant qu’il était aveuglé.
 
 Lorsque toutes les étoiles furent parties, que seul le jour demeura, le
 professeur Quirrell était toujours assis sur l’herbe. « Eh bien, M.
-Potter, » dit-il de sa voix normale, « si c’est ainsi, alors je vous
+Potter », dit-il de sa voix normale, « si c’est ainsi, alors je vous
 aiderai de mon mieux tant que je le pourrai. »
 
 « Vous ferez *quoi* ? » dit involontairement Harry.

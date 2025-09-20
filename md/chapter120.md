@@ -24,18 +24,18 @@ Ils étaient tous morts.
 On frappa à la porte du bureau ; et quand le garçon ne répondit pas, la
 porte s’ouvrit pour révéler…
 
-« Vas-t’en, » dit Drago Malefoy au Survivant. Il ne parvint pas à prononcer
+« Vas-t’en », dit Drago Malefoy au Survivant. Il ne parvint pas à prononcer
 les mots avec force.
 
-« Je partirai bientôt, » dit Harry Potter en entrant. « Mais une décision
+« Je partirai bientôt », dit Harry Potter en entrant. « Mais une décision
 doit être prise, et toi seul en es capable. »
 
 Drago se tourna vers le mur, parce que la simple vue de Harry Potter lui
 demandait plus d’efforts qu’il ne pouvait en fournir.
 
-« Tu dois décider, » dit Harry, « ce qui va arriver à Drago Malefoy. Je ne
+« Tu dois décider », dit Harry, « ce qui va arriver à Drago Malefoy. Je ne
 veux pas être menaçant ; quoi qu’il arrive, tu deviendras le riche
-héritier d’une Noble et Très Ancienne Maison. Le truc, » dit Harry d’une
+héritier d’une Noble et Très Ancienne Maison. Le truc », dit Harry d’une
 voix à présent vacillante, « le truc, c’est qu’il y a quelque chose
 d’horrible que tu ignores, et je n’arrête pas de penser que si tu le
 savais, tu me dirais que tu ne veux plus être mon ami. Et je ne veux pas
@@ -59,9 +59,9 @@ lieutenant du Chaos. Tout ce qui restait de la maison Malefoy était une
 tradition ; et cette tradition disait qu’il était idiot de dire au
 gagnant de la guerre de partir, de rejeter son amitié.
 
-« Très bien, » dit Drago d’une voix vide. « Dis-moi. »
+« Très bien », dit Drago d’une voix vide. « Dis-moi. »
 
-« C’est ce que je vais faire, » dit Harry. « Et ensuite la directrice va
+« C’est ce que je vais faire », dit Harry. « Et ensuite la directrice va
 venir après mon départ et sceller ta dernière demi-heure de souvenirs.
 Mais avant, en connaissant toute la vérité, tu vas décider si tu veux
 toujours passer du temps avec moi. » Sa voix tremblait. « Hmm. Selon les
@@ -117,7 +117,7 @@ tué quelqu’un. Et une autre partie dit que d’un point de vue moral, les
 Mangemorts ont accepté leur sort le jour où ils ont accepté de
 travailler pour Voldemort. Ils ont braqué leurs baguettes sur moi les
 premiers, bla bla bla etc. Mais là, je me sens juste malade de t’avoir
-infligé tout ça. Une fois de plus. Je sens que, » sa voix vacilla un peu,
+infligé tout ça. Une fois de plus. Je sens que », sa voix vacilla un peu,
 « tout ce que je fais te fait du mal, en dépit de mes *bonnes
 intentions*, qu’être à côté de moi ne t’a occasionné que des pertes.
 Alors, si tu me dis de ne plus fréquenter Drago Malefoy, c’est ce que je
@@ -136,7 +136,7 @@ Un mensonge.
 Tout avait été un mensonge, c’étaient des mensonges empilés sur
 d’autres, mensonges mensonges mensonges…
 
-« *Tu* devrais mourir, » se força-t-il à dire. « Tu devrais mourir pour
+« *Tu* devrais mourir », se força-t-il à dire. « Tu devrais mourir pour
 avoir tué Père. » Les mots ne firent que le remplir de vide, mais il
 fallait qu’ils fussent dits.
 
@@ -180,7 +180,7 @@ Ils étaient tous morts, et tout avait été futile depuis le début.
 
 On frappa à la porte du bureau, puis, après un moment de flottement
 poli, elle s’ouvrit pour révéler la directrice McGonagall, habillée
-comme à son habitude. « M. Malefoy, » dit la famille de son ennemi
+comme à son habitude. « M. Malefoy », dit la famille de son ennemi
 victorieux. « Venez avec moi, s’il vous plaît. »
 
 Drago Malefoy se leva avec indifférence et la suivit hors du bureau. Voir
@@ -257,9 +257,9 @@ mais il était obscurci.
 « Êtes-vous Nancy Manson ? » dit une voix féminine dotée d’un accent
 Écossais marqué.
 
-« Oui, » dit-elle d’un ton appréhensif.
+« Oui », dit-elle d’un ton appréhensif.
 
-« *Eunoe*, » dit la voix Écossaise, et Nancy fit un bond en arrière
+« *Eunoe* », dit la voix Écossaise, et Nancy fit un bond en arrière
 lorsque l’éclat lumineux traversa la porte et la *frappa* et…
 
 Nancy faillit tomber, mit une main contre son front. Des éclats de

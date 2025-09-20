@@ -115,7 +115,7 @@ de celle-ci. Je prévoirai en consséquence.* »
 
 Et avant que Harry ne puisse siffler un mot de plus en Fourchelangue, la
 forme humaine du professeur était de nouveau dans sa chaise. « Alors, M.
-Potter, » dit le professeur de Défense, sa voix aussi calme que s’ils
+Potter », dit le professeur de Défense, sa voix aussi calme que s’ils
 n’avaient discuté de rien d’importance, comme si toute la conversation
 n’avait pas eu lieu, « j’entends dire que vous avez commencé à pratiquer
 le duel. Pas la variante pour bons à rien dotée de *règles*, j’espère ? »
@@ -162,7 +162,7 @@ les regardaient. « Neville n’étudie pas pour nous battre *nous* ! Il
 s’entraîne pour pouvoir se battre contre *Bellatrix Black !* Ils vont
 nous passer au travers comme un Cognard dans une pile de pancakes ! »
 
-Le général Soleil jeta un regard à son soldat. « Écoute, » dit Hermione,
+Le général Soleil jeta un regard à son soldat. « Écoute », dit Hermione,
 « je ne pense pas que quelques semaines de pratique puissent transformer
 qui que ce soit en un combattant invincible. Et on *sait* déjà gérer les
 combattants invincibles. On concentrera notre feu sur lui et il tombera
@@ -179,7 +179,7 @@ entendu le proverbe : la seule chose à craindre est la peur elle-même ? 
 dans les ténèbres, et être victime d’un Imperius, et les horribles
 accidents de Métamorphose, et — »
 
-« Je *voulais dire*, » continua Hermione alors que l’exaspération se
+« Je *voulais dire* », continua Hermione alors que l’exaspération se
 laissait entendre dans sa voix maintenant devenue plus forte, car elle
 entendait ce genre de choses depuis le *début de la semaine*, « qu’on
 pourrait attendre *d’avoir été* *vraiment* *écrasés* par la légion du
@@ -199,7 +199,7 @@ Harry Potter était *mort*.
 
 
 
-« C’est dingue, » s’étrangla Neville avec le peu de souffle qu’il put
+« C’est dingue », s’étrangla Neville avec le peu de souffle qu’il put
 utiliser avant de ne plus en avoir.
 
 « C’est *génial* ! » dit Cédric Diggory. Les yeux du Super Poufsouffle

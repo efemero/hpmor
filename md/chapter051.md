@@ -135,7 +135,7 @@ cela, pas à voix haute en langue humaine, même dans cette pièce vérifiée
 à fond et dont le professeur Quirrell avait augmenté la sécurité avec
 des sortilèges supplémentaires.
 
-« Ouaip, » dit Harry, d’un ton aussi nonchalant que possible.
+« Ouaip », dit Harry, d’un ton aussi nonchalant que possible.
 
 *Première étape.*
 
@@ -170,7 +170,7 @@ serpent et la sensation funeste diminua à nouveau.
 Harry sortit sa baguette en faisant attention de ne pas déplacer ses
 jambes, afin que le Retourneur de Temps ne dévie pas de l’endroit où le
 professeur Quirrell avec fixé le sablier, placé sous la coque
-protectrice. « *Wingardium Leviosa*, » murmura Harry, et la bourse
+protectrice. « *Wingardium Leviosa* », murmura Harry, et la bourse
 commença à flotter vers lui.
 
 Lentement, lentement, comme le professeur Quirrell le lui avait dit, la
@@ -233,7 +233,7 @@ magiquement noircies.
 
 *Neuvième étape.*
 
-« Épée poisson melon ami, » dit Harry au loquet, et il s’ouvrit dans un
+« Épée poisson melon ami », dit Harry au loquet, et il s’ouvrit dans un
 cliquetis.
 
 Le magasin était aussi sombre à l’intérieur, mais la lumière de la porte
@@ -249,7 +249,7 @@ La porte se referma derrière Harry, et les ténèbres furent absolues.
 
 *Dixième étape.*
 
-Harry sortit sa baguette et dit : « *Lumos*, » éclairant la pièce d’un
+Harry sortit sa baguette et dit : « *Lumos* », éclairant la pièce d’un
 halo blanc ; il prit la bourse à sa ceinture (la sensation funeste
 devenant un peu plus intense à mesure que ses doigts s’approchaient) et
 la jeta doucement vers le côté opposé de la pièce (la sensation funeste
@@ -268,7 +268,7 @@ Quirrell.
 Harry attendit silencieusement, alors que le professeur de Défense
 récitait trente sortilèges.
 
-« Très bien, » dit-il calmement lorsqu’il eut fini. « Si quelqu’un nous
+« Très bien », dit-il calmement lorsqu’il eut fini. « Si quelqu’un nous
 observe maintenant, nous sommes de toute façon perdus, je parlerai donc
 de façon claire et en langue humaine. J’ai bien peur que le
 Fourchelangue ne m’aille pas très bien, n’étant ni un descendant de
@@ -276,12 +276,12 @@ Salazar ni un véritable serpent. »
 
 Harry hocha la tête.
 
-« Donc, M. Potter, » dit le professeur Quirrell. Son regard était braqué
+« Donc, M. Potter », dit le professeur Quirrell. Son regard était braqué
 sur Harry, ses yeux bleus pâles dans l’ombre de la lumière blanche
 émanant de la lumière de la baguette de Harry. « Nous sommes seuls et en
 privé, et j’ai une question importante à vous poser. »
 
-« Allez-y, » dit Harry, et son cœur commença à battre plus vite.
+« Allez-y », dit Harry, et son cœur commença à battre plus vite.
 
 « Que pensez-vous du gouvernement d’Angleterre Magique ? »
 
@@ -290,7 +290,7 @@ assez proche, alors Harry répondit : « En me basant sur mes connaissances
 limitées, je dirais que le Ministère et le Magenmagot semblent être
 stupides, corrompus et maléfiques. »
 
-« Correct, » dit le professeur Quirrell. « Comprenez-vous pourquoi je pose
+« Correct », dit le professeur Quirrell. « Comprenez-vous pourquoi je pose
 cette question ? »
 
 Harry prit une profonde inspiration et regarda le professeur Quirrell
@@ -301,14 +301,14 @@ deviné celle-ci une semaine auparavant. Elle ne nécessitait qu’un léger
 ajustement…
 
 « Vous êtes sur le point de m’inviter à rejoindre une organisation
-secrète pleine de gens intéressants tels que vous, » dit Harry, « dont
+secrète pleine de gens intéressants tels que vous », dit Harry, « dont
 l’un des buts est de réformer ou de renverser le gouvernement
 d’Angleterre Magique, et oui, j’accepte. »
 
 Il y eut une courte pause.
 
 « J’ai peur que ce ne soit pas tout à fait dans cette direction que je
-voyais la conversation aller, » dit le professeur Quirrell. Les coins de
+voyais la conversation aller », dit le professeur Quirrell. Les coins de
 ses lèvres se contractèrent légèrement. « Je comptais simplement vous
 demander votre aide dans l’accomplissement d’un acte de trahison
 extrêmement illégal. »
@@ -316,13 +316,13 @@ extrêmement illégal. »
 *Mince*, pensa Harry. Enfin, le professeur Quirrell n’avait pas *nié*…
 « Continuez. »
 
-« Avant que je le fasse, » dit le professeur Quirrell. Il n’y avait plus
+« Avant que je le fasse », dit le professeur Quirrell. Il n’y avait plus
 la moindre légèreté dans sa voix. « *Êtes-vous* ouvert à de telles
 requête, M. Potter ? Je répète que s’il est probable que vous répondiez
 non quelle qu’elle soit, vous devez dire non maintenant. Si votre
 curiosité vous pousse à faire le contraire, écrasez-la. »
 
-« La traîtrise et l’illégalité ne me dérangent pas, » dit Harry. « Les
+« La traîtrise et l’illégalité ne me dérangent pas », dit Harry. « Les
 risques me dérangent et l’enjeu devrait être à la mesure de ceux-ci,
 mais je ne *vous* imagine pas prendre des risques inconsidérés. »
 
@@ -330,7 +330,7 @@ Le professeur Quirrell acquiesça. « En effet. C’est un abus terrible de
 mon amitié avec vous, et de la confiance qui m’a été accordée dans ma
 fonction de professeur à Poudlard — »
 
-« Vous pouvez sauter cette étape, » dit Harry.
+« Vous pouvez sauter cette étape », dit Harry.
 
 Les lèvres se contractèrent de nouveau, puis s’aplatirent. « Je la
 sauterai donc. M. Potter, vous jouez parfois à mentir en disant la
@@ -352,12 +352,12 @@ C’était un prix qui se mesurait en fractions d’âme de Harry.
 « Sans me le dire tout de suite… » dit Harry. « Pouvez-vous me dire si le
 besoin est désespéré ? »
 
-« Il y a quelqu’un qui a terriblement besoin de votre aide, » dit
+« Il y a quelqu’un qui a terriblement besoin de votre aide », dit
 simplement Quirrell, « et personne ne peut l’aider sauf vous. »
 
 Il y eut une autre silence, mais celui-ci ne fut pas long.
 
-« Très bien, » dit doucement Harry. « Parlez-moi de la mission. »
+« Très bien », dit doucement Harry. « Parlez-moi de la mission. »
 
 Les sombres robes du professeur de Défense semblèrent devenir floues
 devant les ombres du mur projetées par sa silhouette, qui bloquait la
@@ -382,13 +382,13 @@ jamais échappé d’Azkaban. Personne. Pour tout sortilège il y a un
 contre-sortilège, pour toute barrière il y a un passe-droit. Comment se
 peut-il que personne n’ait jamais été sauvé d’Azkaban ? »
 
-« Parce qu’Azkaban a une chose invincible, » dit Harry. « Quelque chose de
+« Parce qu’Azkaban a une chose invincible », dit Harry. « Quelque chose de
 si terrible que personne ne peut la vaincre. »
 
 C’était la clé de voûte de la sécurité absolue, il fallait que ce ne
 soit pas humain. C’était la Mort qui gardait Azkaban.
 
-« Les Détraqueurs n’aiment pas qu’on leur prenne leur repas, » dit le
+« Les Détraqueurs n’aiment pas qu’on leur prenne leur repas », dit le
 professeur Quirrell. La froideur avait maintenant infiltré sa voix. « Ils
 le savent, si quelqu’un s’y essaie. Il a plus de cent Détraqueurs
 là-bas, et ils parlent aussi aux gardes. C’est aussi simple que cela, M.
@@ -396,7 +396,7 @@ Potter. Si vous êtes un sorcier puissant, alors Azkaban n’est ni
 difficile à pénétrer ni à quitter. Tant que vous n’essayez pas d’y
 prendre quoi que ce soit qui appartienne aux Détraqueurs. »
 
-« Mais les Détraqueurs ne sont *pas* invincibles, » dit Harry. Il aurait
+« Mais les Détraqueurs ne sont *pas* invincibles », dit Harry. Il aurait
 pu lancer le Patronus grâce à cette pensée, à l’instant même. « Ne croyez
 jamais qu’il le sont. »
 
@@ -409,11 +409,11 @@ vous avez échoué ? »
 Et alors, avec un soulèvement écœurant dans son estomac, Harry sut où
 cette conversation allait ; il aurait dû le voir plus tôt.
 
-« Il y a une personne innocente à Azkaban, » dit le professeur Quirrell.
+« Il y a une personne innocente à Azkaban », dit le professeur Quirrell.
 
 Harry hocha la tête, sa gorge brûlait mais il ne pleura pas.
 
-« La personne dont je parle n’était pas victime de l’Imperium, » dit le
+« La personne dont je parle n’était pas victime de l’Imperium », dit le
 professeur de Défense, ses robes noires entourées d’une ombre plus
 vaste. « Il y a des moyens plus sûrs que l’Imperium lorsqu’il s’agit de
 briser la volonté de quelqu’un, si vous avez le temps de torturer, de
@@ -432,11 +432,11 @@ pensées.
 *Il n’y avait pas eu d’indice, pas d’avertissement, nous pensions tous
 -*
 
-« Une personne du nom de Black, » dit Harry.
+« Une personne du nom de Black », dit Harry.
 
 Il y eut un silence. Silence, alors que les yeux bleu pâle le fixaient.
 
-« Eh bien, » dit le professeur Quirrell après un moment. « Je peux faire
+« Eh bien », dit le professeur Quirrell après un moment. « Je peux faire
 une croix sur l’idée de ne vous révéler le nom qu’après que vous ayez
 accepté la mission. Je vous demanderais si vous lisez *mon* esprit, mais
 c’est tout simplement impossible. »
@@ -445,7 +445,7 @@ Harry ne répondit rien. C’était vraiment simple si on *croyait* au
 processus démocratique moderne. La personne incarcérée à Azkaban la plus
 évidemment innocente était celle qui n’avait pas eu de procès -
 
-« Je suis *certainement* impressionné, » dit le professeur Quirrell. Son
+« Je suis *certainement* impressionné », dit le professeur Quirrell. Son
 visage était grave. « Mais c’est une affaire sérieuse, et s’il existe un
 moyen pour d’autres de faire la même déduction, je *dois* le savoir.
 Alors dites-moi, M. Potter. Par Merlin, par Atlantis, par le vide entre

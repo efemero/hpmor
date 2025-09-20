@@ -95,20 +95,20 @@ Sa main resta loin de parvenir à atteindre la porte.
 
 Et la porte s’ouvrit quand même en grand.
 
-« Allons, » dit l’araignée, lovée dans sa toile, « était-ce si difficile
+« Allons », dit l’araignée, lovée dans sa toile, « était-ce si difficile
 que ça de perdre un seul point Quirrell, mademoiselle Granger ? »
 
 Hermione n’avait pas bougé, la main levée, les joues rosissantes. Ça
 *avait* été très difficile.
 
-« Eh bien, mademoiselle Granger, j’aurais pitié de vous, » dit le méchant
+« Eh bien, mademoiselle Granger, j’aurais pitié de vous », dit le méchant
 professeur Quirrell. « Considérez qu’il est déjà perdu. Voilà, je vous ai
 débarrassé d’un choix difficile. N’êtes-vous pas reconnaissante ? »
 
-« Professeur Quirrell, » parvint-elle à dire d’une voix qui couinait un
+« Professeur Quirrell », parvint-elle à dire d’une voix qui couinait un
 peu, « j’ai beaucoup de points Quirrell, n’est-ce pas ? »
 
-« Tout à fait, » répondit-il, « mais un de moins que précédemment. Atroce
+« Tout à fait », répondit-il, « mais un de moins que précédemment. Atroce
 n’est-ce pas ? Imaginez un peu, si je n’apprécie pas la raison de votre
 venue, vous pourriez en perdre cinquante autres. Peut-être que je les
 enlèverai un… par un… par un… »
@@ -116,7 +116,7 @@ enlèverai un… par un… par un… »
 Les joues de Hermione devenaient encore plus rouges. « Vous êtes vraiment
 méchant, personne ne vous a jamais dit ça ? »
 
-« Mademoiselle Granger, » dit très sérieusement le professeur Quirrell,
+« Mademoiselle Granger », dit très sérieusement le professeur Quirrell,
 « il peut être dangereux d’offrir ce genre de compliments à des gens qui
 ne l’ont pas véritablement mérité. Le receveur pourrait se sentir
 intimidé et indigne de telles louanges, et il pourrait décider de faire
@@ -159,30 +159,30 @@ tous les titres, et ce quel que soit l’effort qu’ils y mettraient.
 
 Le calme de leur petit recoin fut brisé par deux mots.
 
-« Oh *non*, » dit soudain Harry à voix haute, d’une voix qui laissait
+« Oh *non* », dit soudain Harry à voix haute, d’une voix qui laissait
 penser que les mots lui avaient été arrachés.
 
 Puis le calme reprit.
 
-« Il n’a pas fait *ça*, » dit Harry de cette même voix.
+« Il n’a pas fait *ça* », dit Harry de cette même voix.
 
 Puis elle entendit Harry glousser de façon incontrôlable.
 
 Hermione leva les yeux de son livre.
 
-« Très bien, » dit-elle, « qu’y a-t-*il* ? »
+« Très bien », dit-elle, « qu’y a-t-*il* ? »
 
 « Je viens de découvrir pourquoi il ne faut jamais parler à un Weasley de
-leur rat de famille, » dit Harry. « C’est *vraiment* horrible et je ne
+leur rat de famille », dit Harry. « C’est *vraiment* horrible et je ne
 devrais pas en rire et je suis quelqu’un d’affreux. »
 
-« Oui, » répondit Hermione d’un ton guindé, « en effet. Dis moi. »
+« Oui », répondit Hermione d’un ton guindé, « en effet. Dis moi. »
 
 « D’accord, d’abord le contexte. Il y a tout un chapitre dans ce livre
 sur les théories conspirationnistes qui concernent Sirius Black. Tu te
 souviens bien de qui il s’agit ? »
 
-« Bien sûr, » dit Hermione. Sirius Black était un traître, un ami de James
+« Bien sûr », dit Hermione. Sirius Black était un traître, un ami de James
 Potter qui avait révélé à Voldemort l’emplacement des parents de Harry.
 
 « Eh bien il s’avère qu’il y a eu un certain nombre de, disons
@@ -200,7 +200,7 @@ est un adepte des théories conspirationnistes, on peut toujours trouver
 
 « Mais *pas de procès* ? » dit Hermione.
 
-« C’était juste après la défaite du Seigneur des Ténèbres, » dit Harry
+« C’était juste après la défaite du Seigneur des Ténèbres », dit Harry
 d’un ton sérieux. « Les choses étaient alors chaotiques, et lorsque les
 Aurors remontèrent jusqu’à Black, il se tenait là, riant dans une
 ruelle, du sang jusqu’au chevilles, avec vingt témoins oculaires pour
@@ -218,7 +218,7 @@ choses commencent à se compliquer. »
 Hermione écoutait, fascinée. « Mais comment tu vas de ça au *rat* *de
 compagnie* des Weasley — »
 
-« Attends, » dit Harry, « j’y viens. Alors, après la mort de Pettigrow, il
+« Attends », dit Harry, « j’y viens. Alors, après la mort de Pettigrow, il
 fut révélé qu’il avait été un espion pour le compte des gentils — pas un
 agent double, juste quelqu’un qui farfouillait et découvrait des
 secrets. Il avait été doué dans le domaine depuis son adolescence, et
@@ -233,7 +233,7 @@ adolescent, donc les théories disent bien sûr que mon père et Black
 conspirationniste, Pettigrow a tué les douze témoins lui-même puis il
 s’est transformé en sa petite forme Animagus, et il s’est enfuit. Donc
 Michael Shermer dit qu’il y a quatre problèmes avec cette théories. Un,
-Black était le seul à savoir où se trouvaient mes parents, » (la voix de
+Black était le seul à savoir où se trouvaient mes parents », (la voix de
 Harry devint un peu rauque lorsqu’il prononça cette phrase), « deux,
 Black était à la base un suspect bien plus probable que Pettigrow, il y
 a une rumeur selon laquelle Black aurait délibérément essayé de faire
@@ -249,13 +249,13 @@ théorie a besoin. Et quatre, Black se tenait au milieu de la rue en
 
 « Mais le *rat* — » dit Hermione.
 
-« Oui, » dit Harry. « Eh bien, pour résumer, Bill Weasley a décidé que le
+« Oui », dit Harry. « Eh bien, pour résumer, Bill Weasley a décidé que le
 rat de compagnie de son petit frère Percy était la forme Animagus de
 Pettigrow — »
 
 La mâchoire de Hermione se décrocha.
 
-« Oui, » dit Harry, « on ne s’attendrait pas à ce que le maléfique
+« Oui », dit Harry, « on ne s’attendrait pas à ce que le maléfique
 Pettigrow vive une vie furtive et triste sous la forme du rat de
 compagnie d’une famille de sorciers ennemis, on l’imaginerait soit chez
 les Malefoy, soit plus probable encore quelque part aux Caraïbes après un
@@ -291,7 +291,7 @@ jamais aux Weasley de leur rat de compagnie. »
 Hermione gloussait de façon incontrôlable. C’était vraiment horrible et
 elle n’aurait pas dû en rire et elle était une personne affreuse.
 
-« Ce que je ne comprends *pas*,, » dit Harry après que leurs gloussements
+« Ce que je ne comprends *pas* »,, dit Harry après que leurs gloussements
 se soient éteints, « c’est *pourquoi* Black pourchasserait Pettigrow au
 lieu de courir aussi vite que possible. Il devait savoir que les Aurors
 étaient à ses trousses. Je me demande s’ils ont arraché la raison de son
@@ -392,15 +392,15 @@ panneau stop pas comme un Weasley, et la fois où elle s’est renversée du
 thé chaud dessus elle s’est transformée en un garçon brun jusqu’à ce
 qu’elle arrive à reprendre le contrôle d’elle-même. »
 
-« Vraiment ? Cool, » dit Harry, l’air un peu distrait. « Euh, Hermione,
+« Vraiment ? Cool », dit Harry, l’air un peu distrait. « Euh, Hermione,
 juste histoire de vérifier, tu sais que c’est demain le dernier jour
 pour s’inscrire aux armées du professeur Quirrell ? »
 
-« Oui, » dit Hermione. « Les armées du maléfique professeur Quirrell. » Sa
+« Oui », dit Hermione. « Les armées du maléfique professeur Quirrell. » Sa
 voix était un peu colérique, même si Harry ne savait bien sûr pas
 pourquoi.
 
-« Hermione, » dit Harry, la voix exaspérée, « il n’est pas maléfique. Il
+« Hermione », dit Harry, la voix exaspérée, « il n’est pas maléfique. Il
 est un peu sombre et très Serpentard. Ce n’est pas pareil que d’être
 *maléfique*. »
 
@@ -409,7 +409,7 @@ problème. Il s’en serait mieux sorti en divisant le monde entre Bon et
 Mauvais. « Le professeur Quirrell m’a fait venir devant toute la classe
 et il m’a dit de *tirer sur quelqu’un* ! »
 
-« Il avait raison, » dit Harry, le visage grave. « Je suis désolé Hermione,
+« Il avait raison », dit Harry, le visage grave. « Je suis désolé Hermione,
 mais il avait raison. Tu aurais dû *me* tirer dessus, ça ne m’aurait pas
 dérangé. Tu ne peux pas apprendre la magie de combat si tu ne peux pas
 t’entraîner contre de vrais adversaires en utilisant de vrais sorts. Et
@@ -437,7 +437,7 @@ Le professeur Quirrell était *maléfique*.
 Mais elle n’arrivait pas à trouver les bons mots, et elle savait que
 Harry ne la croirait jamais.
 
-« Hermione, j’ai parlé aux élèves plus âgé, » dit Harry. « Le professeur
+« Hermione, j’ai parlé aux élèves plus âgé », dit Harry. « Le professeur
 Quirrell est peut-être le *seul* professeur compétent qu’on aura dans
 nos sept ans à Poudlard. Tout le reste, on pourra l’apprendre plus tard.
 Si on veut étudier la Défense, on doit le faire *cette année*. Les
@@ -456,7 +456,7 @@ le professeur Quirrell l’enseigne — ou qu’il s’arrange pour le faire
 enseigner, puisque Hermione ne pouvait pas l’imaginer capable de jeter
 le sort lui-même.
 
-« Oui, » dit Harry. « Les élèves n’apprennent généralement pas le Patronus
+« Oui », dit Harry. « Les élèves n’apprennent généralement pas le Patronus
 avant leur cinquième année, ou même plus tard ! Mais le professeur
 Quirrell dit que l’organisation du ministère a été faite par des
 veracrasses doués de paroles et que la capacité de lancer le Patronus
@@ -468,7 +468,7 @@ C’était le ton de vénération habituel que Harry employait quand il
 parlait du professeur Quirrell, et Hermione grinça des dents et continua
 de marcher.
 
-« Je me suis déjà inscrit, en fait, » dit Hermione d’une petite voix. « Ce
+« Je me suis déjà inscrit, en fait », dit Hermione d’une petite voix. « Ce
 matin. Pour tout, comme tu avais dit. »
 
 *Quand le vin est tiré, il faut le boire*, disait le proverbe.
@@ -491,7 +491,7 @@ général ? » Harry avait l’air surpris et légèrement blessé, et elle 
 pouvait pas lui en vouloir, même si bien sûr elle lui en *voulait*,
 puisque de fait, tout était de sa faute. « Mais pourquoi pas la mienne ? »
 
-« Réfléchis-y, » lâcha-t-elle, « et peut-être que tu arriveras à
+« Réfléchis-y », lâcha-t-elle, « et peut-être que tu arriveras à
 comprendre ! »
 
 Et elle accéléra le pas, laissant Harry bouche bée derrière elle.
@@ -502,20 +502,20 @@ Et elle accéléra le pas, laissant Harry bouche bée derrière elle.
 
 
 
-« Professeur Quirrell, » dit Drago de sa voix la plus formelle, « je me
+« Professeur Quirrell », dit Drago de sa voix la plus formelle, « je me
 dois de protester contre la nomination de Hermione Granger au poste de
 troisième général. »
 
-« Oh, » dit le professeur Quirrell, confortablement installé dans sa
+« Oh », dit le professeur Quirrell, confortablement installé dans sa
 chaise, un air nonchalant et détendu sur le visage. « Protestez donc, M.
 Malefoy. »
 
-« Granger n’est pas apte à tenir ce poste, » dit Drago.
+« Granger n’est pas apte à tenir ce poste », dit Drago.
 
 Le professeur Quirrell tapota d’un doigt sur sa joue, l’air pensif.
 « Mais si, elle l’est. Avez-vous d’autres protestations ? »
 
-« Professeur Quirrell, » dit Harry Potter, qui se tenait à côté de Drago,
+« Professeur Quirrell », dit Harry Potter, qui se tenait à côté de Drago,
 « avec tout le respect que je dois aux nombreux talents scolaires de
 mademoiselle Granger et aux points Quirrell qu’elle a fort justement
 obtenu lors de vos cours, sa personnalité ne correspond pas à la tâche
@@ -529,15 +529,15 @@ Harry soit *réellement* ami avec Granger, ça faisait un bout de temps
 maintenant et Harry ne l’avait *toujours pas* attaquée… mais voilà qui
 était mieux.
 
-« Je suis d’accord avec M. Potter, » dit Drago. « La nommer général va
+« Je suis d’accord avec M. Potter », dit Drago. « La nommer général va
 transformer tout cela en une farce. »
 
-« Sévèrement formulé, » dit Harry, « mais je ne peux faire autrement que de
+« Sévèrement formulé », dit Harry, « mais je ne peux faire autrement que de
 convenir que M. Malefoy a raison. Pour être direct, professeur Quirrell,
 Hermione Granger a environ autant d’intention de tuer qu’un bol de
 raisins mûrs. »
 
-« Cela n’est pas un fait dont je n’aurais pu me rendre compte moi-même, »
+« Cela n’est pas un fait dont je n’aurais pu me rendre compte moi-même »,
 répondit le professeur Quirrell avec douceur, « vous ne me dites rien que
 je ne sais déjà. »
 
@@ -559,7 +559,7 @@ faire ? »
 
 Drago faillit s’étrangler.
 
-« Pas dans votre cours de magie de combat, » dit Harry, armé d’une calme
+« Pas dans votre cours de magie de combat », dit Harry, armé d’une calme
 certitude. « En d’autres lieux peut-être, mais pas ici. »
 
 Le professeur Quirrell leva lentement ses sourcils.
@@ -568,11 +568,11 @@ Harry lui rendit son regard avec assurance.
 
 Drago frissonna.
 
-« Eh bien dans ce cas, » dit le professeur Quirrell, « il semble qu’aucun
+« Eh bien dans ce cas », dit le professeur Quirrell, « il semble qu’aucun
 de vous n’a envisagé une très simple question. Qui pourrais-je nommer à
 la place de mademoiselle Granger ? »
 
-« Blaise Zabini, » dit Drago sans hésiter.
+« Blaise Zabini », dit Drago sans hésiter.
 
 « D’autres suggestions ? » dit le professeur Quirrell, l’air très amusé.
 
@@ -584,7 +584,7 @@ Zabini ? »
 
 « Je vois… » dit lentement Harry.
 
-« Moi *pas*, » dit Drago. « Pourquoi pas Zabini ? »
+« Moi *pas* », dit Drago. « Pourquoi pas Zabini ? »
 
 Le professeur Quirrell regarda Drago. « Parce que, M. Malefoy, peut
 importe les efforts qu’il y mettra, il ne sera jamais à votre hauteur,
@@ -592,7 +592,7 @@ ni à celle de M. Potter. »
 
 Le choc stupéfia Drago. « Vous ne pouvez pas croire que *Granger* va — »
 
-« Il parie sur elle, » dit doucement Harry. « Ce n’est pas garanti. Les
+« Il parie sur elle », dit doucement Harry. « Ce n’est pas garanti. Les
 chances ne sont même pas bonnes. Elle ne ne nous tiendra probablement
 jamais tête, et même si elle le fait, elle pourrait mettre des mois à
 apprendre. Mais elle est la seule dans notre année à avoir la moindre de
@@ -603,7 +603,7 @@ faire passer pour votre partisan pour ensuite se retirer était une
 tactique de sapage classique, donc Harry Potter *était* avec Granger et
 *cela* impliquait que -
 
-« Mais professeur, » enchaîna naturellement Harry, « je suis inquiet à
+« Mais professeur », enchaîna naturellement Harry, « je suis inquiet à
 l’idée que Hermione soit *malheureuse* à ce poste de général. Je parle
 en tant qu’ami à présent, professeur Quirrell. La compétition nous fait
 peut-être du bien à Drago et à moi, mais ce que vous demandez d’elle ne
@@ -611,7 +611,7 @@ lui fera pas de *bien* ! »
 
 *Au temps pour moi*, songea Drago.
 
-« Votre amitié pour Hermione Granger vous fait honneur, » dit sèchement le
+« Votre amitié pour Hermione Granger vous fait honneur », dit sèchement le
 professeur Quirrell. « Tout particulièrement parce que vous parvenez à
 être en même temps ami avec Drago Malefoy. En voilà une belle prouesse. »
 
@@ -621,14 +621,14 @@ intérieur. Bien sûr que Harry n’allait pas tromper le professeur
 Quirrell.
 
 « Et je doute que mademoiselle Granger apprécie votre préoccupation
-amicale, » dit le professeur Quirrell. « C’est elle qui m’a demandé le
+amicale », dit le professeur Quirrell. « C’est elle qui m’a demandé le
 poste, M. Potter, ce n’est pas moi qui suis allé la voir. »
 
 Harry se tut pendant un moment. Puis il jeta à Drago un rapide coup
 d’œil d’excuse et de mise en garde mêlées, disant à la fois *Désolé,
 j’ai fait de mon mieux* et *On ne devrait pas insister*.
 
-« Quant à la possibilité qu’elle soit malheureuse, » continua le
+« Quant à la possibilité qu’elle soit malheureuse », continua le
 professeur Quirrell, un léger sourire naissant sur ses lèvres, « je
 suspecte qu’il lui sera bien plus facile de supporter les rigueurs de
 son poste qu’aucun de vous deux ne pourrait l’imaginer, et qu’elle vous
@@ -647,19 +647,19 @@ batailles. »
 
 « *Professeur Quirrell* * !* » dit Harry.
 
-« Oh, ne vous en faites pas, » dit le professeur Quirrell. « Elle a rejeté
+« Oh, ne vous en faites pas », dit le professeur Quirrell. « Elle a rejeté
 mon offre. Comme je m’y attendais. »
 
 Les yeux de Drago se rétrécirent.
 
-« Allons, M. Potter, » dit le professeur Quirrell, « personne ne vous
+« Allons, M. Potter », dit le professeur Quirrell, « personne ne vous
 a-t-il jamais dit qu’il était mal élevé de fixer les gens ? »
 
 « Vous n’allez pas secrètement l’aider d’une *autre* façon ? » dit Harry.
 
 « Ferais-je une chose pareille ? » dit le professeur Quirrell.
 
-« Oui, » dirent Harry et Drago à l’unisson.
+« Oui », dirent Harry et Drago à l’unisson.
 
 « Je suis blessé par votre manque de confiance. Eh bien dans ce cas, je
 promets de ne pas aider le général Granger à votre insu de quelque façon
@@ -683,17 +683,17 @@ Pourvu qu’il ne se rende pas compte, pourvu qu’il ne se rende pas
 compte…
 
 « On devrait juste attaquer Granger d’abord et la faire sortir du
-tableau, » dit Drago. « Après l’avoir écrasée, nous pourrons avoir notre
+tableau », dit Drago. « Après l’avoir écrasée, nous pourrons avoir notre
 combat sans être distraits. »
 
-« Ça ne me semble pas très équitable, » dit Harry d’une voix égale.
+« Ça ne me semble pas très équitable », dit Harry d’une voix égale.
 
 « Qu’est-ce que *tu* en as à faire ? » dit Drago. « C’est bien ta rivale ? »
 Alors, avec juste la bonne touche de soupçon dans la voix, « ne me dis
 pas que tu as commencé à *vraiment* bien l’aimer, après avoir été son
 rival tout ce temps… »
 
-« Les fondateurs m’en gardent, » dit Harry. « Que veux-tu que je te dise,
+« Les fondateurs m’en gardent », dit Harry. « Que veux-tu que je te dise,
 Drago ? J’ai simplement un sens de la justice instinctif. Granger aussi,
 tu sais. Elle a une très bonne maîtrise des notions de bien et de mal,
 et elle va probablement commencer par attaquer le mal. Tu sais, il faut
@@ -701,7 +701,7 @@ vraiment le chercher pour s’appeler “Malefoy”. »
 
 *BON SANG !*
 
-« Harry, » dit Drago d’un ton blessé et peut-être un peu supérieur, « ne
+« Harry », dit Drago d’un ton blessé et peut-être un peu supérieur, « ne
 veux tu pas te battre de façon *équitable* contre moi ? »
 
 « Tu veux dire plutôt que de t’attaquer après que tu aies déjà perdu
@@ -709,9 +709,9 @@ quelques une de tes troupes en vainquant Granger ? » dit Harry. « Oh, je
 ne sais pas. Peut-être qu’une fois que je me serais ennuyé de gagner
 j’essaierai la méthode “équitable”. »
 
-« Peut-être qu’elle t’attaquera *toi*, » dit Drago. « *Tu* es son rival. »
+« Peut-être qu’elle t’attaquera *toi* », dit Drago. « *Tu* es son rival. »
 
-« Mais je suis son *ami* rival, » dit Harry, un méchant sourire dessiné
+« Mais je suis son *ami* rival », dit Harry, un méchant sourire dessiné
 sur le visage. « Je lui ai offert un beau cadeau d’anniversaire et tout.
 Ça ne serait pas bien vu d’aller saboter son ami rival comme ça. »
 
@@ -719,7 +719,7 @@ sur le visage. « Je lui ai offert un beau cadeau d’anniversaire et tout.
 combat équitable ? » dit Drago avec colère. « Je pensais qu’on était
 amis ! »
 
-« Laisse-moi reformuler, » dit Harry. « *Granger* ne saboterait pas un ami
+« Laisse-moi reformuler », dit Harry. « *Granger* ne saboterait pas un ami
 rival. Mais c’est parce qu’elle a l’intention de tuer d’un bol de
 raisins mûrs. *Toi*, tu le ferais. Tu le ferais *carrément*. Et devine
 quoi : moi aussi. »
@@ -776,14 +776,14 @@ levée.
 
 Drago se garda bien d’exprimer le moindre outrage.
 
-« Eh bien, M. Drago Malefoy, » dit Granger une fois qu’il fut arrivé
+« Eh bien, M. Drago Malefoy », dit Granger une fois qu’il fut arrivé
 jusqu’à elle, « vous avez sollicité une audience et j’ai eu la grâce de
 vous l’octroyer. Quelle est votre requête ? »
 
 *Viens me rendre visite au manoir Malefoy, mon père et moi voudrions te
 montrer quelques sorts intéressants.*
 
-« Potter, votre rival, m’a fait une offre, » dit Drago, arborant un air
+« Potter, votre rival, m’a fait une offre », dit Drago, arborant un air
 sérieux. « Il n’était pas gêné à l’idée de perdre contre moi, mais se
 serait sentit humilié par votre victoire. Il veut donc joindre ses
 forces aux miennes et vous éradiquer immédiatement, pas seulement lors
@@ -791,29 +791,29 @@ de notre première bataille mais à chacune d’entre elles. Si je n’accepte
 pas, Potter souhaite que je reste inactif ou que je vous harcèle pendant
 qu’il lancera une attaque de toute ses forces en début de bataille. »
 
-« Je vois, » dit Granger, l’air surprise. « Et vous offrez de m’aider
+« Je vois », dit Granger, l’air surprise. « Et vous offrez de m’aider
 contre lui ? »
 
-« Bien sûr, » enchaîna immédiatement Drago. « Je n’ai pas trouvé que ce
+« Bien sûr », enchaîna immédiatement Drago. « Je n’ai pas trouvé que ce
 qu’il comptait vous faire était très juste. »
 
-« Voyons, mais c’est très gentil de votre part, M. Malefoy, » dit Granger.
+« Voyons, mais c’est très gentil de votre part, M. Malefoy », dit Granger.
 « Je suis navrée la façon dont je vous ai parlé plus tôt. Nous devrions
 être amis. Puis-je vous appeler Draky ? »
 
 Des sirènes d’alarmes se mirent à sonner dans la tête de Drago, mais il
 y avait une *chance* qu’elle soit sincère…
 
-« Bien sûr, » dit Drago, « si je peux vous appeler Hermy. »
+« Bien sûr », dit Drago, « si je peux vous appeler Hermy. »
 
 Drago fut presque certain d’avoir vu son visage tressaillir.
 
-« Quoi qu’il en soit, » dit Drago, « je pensais que ça donnerait une bonne
+« Quoi qu’il en soit », dit Drago, « je pensais que ça donnerait une bonne
 leçon à Potter si nous l’attaquions tous les deux et l’éradiquions. »
 
 « Mais ne serait-ce pas injuste envers M. Potter ? » dit Granger.
 
-« Je pense que ce serait très juste, » dit Drago. « Il comptait déjà vous
+« Je pense que ce serait très juste », dit Drago. « Il comptait déjà vous
 infliger cette trahison. »
 
 Granger le regardait d’un air sévère qui aurait peut-être pu l’intimider
@@ -825,15 +825,15 @@ suis dit que je devrais au moins vérifier. Alors, que voulez-vous ? »
 
 « Êtes-vous en train d’essayer de me *soudoyer* ? » dit Granger.
 
-« Tout à fait, » dit Drago. « Puis-je juste vous filer Gallion et vous voir
+« Tout à fait », dit Drago. « Puis-je juste vous filer Gallion et vous voir
 combattre Potter plutôt que moi jusqu’à la fin de l’année ? »
 
-« Non, » dit Granger, « mais vous pouvez m’offrir dix Gallions et me voir
+« Non », dit Granger, « mais vous pouvez m’offrir dix Gallions et me voir
 vous combattre de façon équitable au lieu que je me concentre sur vous. »
 
-« Dix Gallions représentent une forte somme, » dit prudemment Drago.
+« Dix Gallions représentent une forte somme », dit prudemment Drago.
 
-« Je ne savais pas que les Malefoy étaient pauvres, » dit Granger.
+« Je ne savais pas que les Malefoy étaient pauvres », dit Granger.
 
 Drago fixa Granger.
 
@@ -842,22 +842,22 @@ Il commençait à trouver cette situation étrange.
 Cette réponse en particulier ne ressemblait pas à ce que cette fille en
 particulier avait l’habitude de dire.
 
-« Eh bien, » dit Drago, « on ne devient pas riche en jetant son argent par
+« Eh bien », dit Drago, « on ne devient pas riche en jetant son argent par
 les fenêtres, vous savez. »
 
 « Je ne sais pas si vous savez ce qu’est un dentiste, M. Malefoy, mais mes
 parents sont *dentistes*, et toute somme inférieure à dix Gallions ne
 mérite pas que je m’y attarde. »
 
-« Trois Gallions, » dit Drago, plus pour sonder le terrain qu’autre chose.
+« Trois Gallions », dit Drago, plus pour sonder le terrain qu’autre chose.
 
-« Non, » dit Granger. « Pas si vous voulez un combat équitable pour tous,
+« Non », dit Granger. « Pas si vous voulez un combat équitable pour tous,
 et je ne pense pas qu’un Malefoy désire un combat équitable moins qu’il
 ne désire dix Gallions. »
 
 Drago commençait à trouver cette situation *très* étrange.
 
-« Non, » dit Drago.
+« Non », dit Drago.
 
 « Non ? » dit Granger. « Cette offre a une date d’expiration, M. Malefoy.
 Êtes-vous certain de vouloir risquer une année entière pendant laquelle
@@ -868,9 +868,9 @@ C’était un argument très persuasif, un argument très difficile à
 rejeter, mais vous ne deveniez pas riche en dépensant son argent quand
 votre cœur vous disait que c’était un piège.
 
-« Non, » dit Drago.
+« Non », dit Drago.
 
-« À dimanche, » dit Granger.
+« À dimanche », dit Granger.
 
 Drago fit demi-tour et sortit du bureau sans prononcer un mot de plus.
 
@@ -882,7 +882,7 @@ Drago fit demi-tour et sortit du bureau sans prononcer un mot de plus.
 
 
 
-« Hermione, » dit Harry avec patience, « nous sommes *censés* fomenter l’un
+« Hermione », dit Harry avec patience, « nous sommes *censés* fomenter l’un
 contre l’autre. Tu pourrais même me trahir et ça ne voudrait rien dire
 hors du champ de bataille. »
 
@@ -903,7 +903,7 @@ dit Hermione. « C’est — »
 
 Sa voix s’arrêta brutalement lorsqu’elle se rendit compte.
 
-« Oui, Hermione, » dit Harry d’une voix un peu pincée, « quel jour
+« Oui, Hermione », dit Harry d’une voix un peu pincée, « quel jour
 sommes-nous ? »
 
 

@@ -4,7 +4,7 @@
 Le cadavre d’une femme ouvrit les yeux, et les orbes éteints et creusés
 regardèrent dans le vide.
 
-« Folle, » marmonna Bellatrix d’une voix brisée, « il semble que petite
+« Folle », marmonna Bellatrix d’une voix brisée, « il semble que petite
 Bella devient folle… »
 
 Le professeur Quirrell avait calmement et précisément expliqué à Harry
@@ -28,7 +28,7 @@ parents : l’amusement froid, le rire méprisant, la voix haute perchée
 faite de haine mortelle. Il ne semblait pas difficile de deviner ce que
 le Seigneur des Ténèbres dirait.
 
-« J’espère que vous n’êtes *pas* folle, chère Bella, » dit le murmure
+« J’espère que vous n’êtes *pas* folle, chère Bella », dit le murmure
 glacé. « La folie n’est pas utile. »
 
 Les yeux de Bella cillèrent, ils essayèrent de mettre au point sur le
@@ -51,7 +51,7 @@ songeait : *je vous sauverai, je vous sauverai quoi qu’il en coûte…*)
 
 « La cicatrice… » marmonna Bellatrix. « Cet enfant… »
 
-« C’est ce qu’il pensent tous, » dit la voix de Harry, et il émit un léger
+« C’est ce qu’il pensent tous », dit la voix de Harry, et il émit un léger
 gloussement. « Vous m’avez cherché au mauvais endroit, chère Bella. »
 
 (Harry avait demandé au professeur Quirrell pourquoi ce ne serait pas
@@ -74,13 +74,13 @@ Il y eut une pause.
 
 Le serpent siffla : « *Sseront conssumés par elles.* »
 
-« Seront consumés par elles, » chuchota la voix glaciale. Harry n’avait
+« Seront consumés par elles », chuchota la voix glaciale. Harry n’avait
 pas particulièrement envie de réfléchir à la façon dont le professeur
 Quirrell avait obtenu ce mot de passe. Son cerveau, qui y pensa quand
 même, suggéra que cela avait nécessité un Mangemort, un lieu silencieux
 et isolé, et de la Légilimancie à coups de barre de fer.
 
-« Votre baguette, » murmura Bellatrix, « je l’ai cachée dans le cimetière,
+« Votre baguette », murmura Bellatrix, « je l’ai cachée dans le cimetière,
 Seigneur, avant de partir… sous la tombe à droite de celle de votre
 père… me tuerez-vous maintenant, si c’est tout ce que vous vouliez de
 moi… je pense que j’ai toujours voulu que ce soit vous qui me tuiez…
@@ -98,7 +98,7 @@ tranchante : « Assez d’idioties. Vous allez venir avec moi, chère Bella,
 Le visage de Bellatrix tressailli sous le coup d’une brève
 incompréhension, mais les membres ratatinés ne bronchèrent pas.
 
-« *Vous devrez la faire léviter jusqu’à la ssortie*, » siffla Harry au
+« *Vous devrez la faire léviter jusqu’à la ssortie* », siffla Harry au
 serpent. « *Elle ne peut plus ssonger à ss’enfuir.* »
 
 « *Oui,* » siffla le serpent, « *mais ne la ssous-esstimez pas. Elle était
@@ -114,7 +114,7 @@ visage barbu entra d’un pas servile dans la pièce, baguette en main.
 
 « Seigneur ? » dit le serviteur d’une voix hésitante.
 
-« Faites ce que l’on vous a dit de faire, » dit le Seigneur des Ténèbres
+« Faites ce que l’on vous a dit de faire », dit le Seigneur des Ténèbres
 de sa voix glaciale, d’autant plus terrible qu’elle émanait du corps
 d’un enfant. « Et ne laissez pas votre Patronus vaciller. Souvenez-vous
 que si je ne reviens pas, vous n’aurez pas de récompense, et qu’il ne

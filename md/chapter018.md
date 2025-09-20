@@ -10,13 +10,13 @@ Mais des donjons ! À Poudlard ! L’imagination de Harry esquissait déjà
 les gouffres, les ponts étroits, les appliques de torches et les champs
 de mousse lumineuse. Y aurait-il des rats ? Y aurait-il des *dragons* ?
 
-« Harry Potter, » dit une voix légère située derrière lui.
+« Harry Potter », dit une voix légère située derrière lui.
 
 Harry regarda par-dessus son épaule et se retrouva face à un Ernie
 Macmillan élégamment habillé de robes à bordures jaunes et à l’air un
 petit peu inquiet.
 
-« Neville pense que je devrais te prévenir, » dit Ernie à voix basse. « Je
+« Neville pense que je devrais te prévenir », dit Ernie à voix basse. « Je
 pense qu’il a raison. Fais attention au professeur de Potions
 aujourd’hui. Les Poufsouffle plus âgés nous ont dit que le professeur
 Rogue peut être vraiment méchant avec ceux qu’il n’aime pas, et il
@@ -26,7 +26,7 @@ juste la tête baissée et ne lui donne aucune raison de te remarquer. »
 
 Il y eut une pause tandis que Harry absorbait cela, et il leva ensuite
 ses sourcils (Harry aurait aimé pouvoir lever un seul de ses sourcils,
-comme Spock, mais il n’y était jamais parvenu). « Merci, » dit Harry. « Tu
+comme Spock, mais il n’y était jamais parvenu). « Merci », dit Harry. « Tu
 m’as peut-être évité beaucoup d’ennuis. »
 
 Ernie hocha la tête, et fit demi-tour pour retourner à la table des
@@ -34,7 +34,7 @@ Poufsouffle.
 
 Harry continua de manger sa tartine.
 
-C’est environ quatre bouchées plus tard que quelqu’un dit « Excuse-moi, »
+C’est environ quatre bouchées plus tard que quelqu’un dit « Excuse-moi »,
 et Harry se retourna et vit un Serdaigle plus âgé à l’air un peu inquiet
 -
 
@@ -44,25 +44,25 @@ toujours manger léger au déjeuner s’il décidait de ne pas utiliser le
 Retourneur de Temps). Et il entendit encore une autre voix derrière lui,
 qui disait : « Harry ? »
 
-« Oui, » dit Harry d’un ton las, « j’essaierai de ne pas attirer
+« Oui », dit Harry d’un ton las, « j’essaierai de ne pas attirer
 l’attention du professeur Rogue — »
 
-« Oh, ça c’est sans espoir, » dit Fred.
+« Oh, ça c’est sans espoir », dit Fred.
 
-« Carrément sans espoir, » dit George.
+« Carrément sans espoir », dit George.
 
-« Alors on a demandé aux elfes de maison de te faire un gâteau, » dit
+« Alors on a demandé aux elfes de maison de te faire un gâteau », dit
 Fred.
 
 « On mettra une bougie dessus pour chaque point que tu feras perdre à
-Serdaigle, » dit George.
+Serdaigle », dit George.
 
 « Et on aura une fête pour toi à la table des Gryffondor pendant le
-déjeuner, » dit Fred.
+déjeuner », dit Fred.
 
-« On espère que ça te déridera après le cours, » conclut George.
+« On espère que ça te déridera après le cours », conclut George.
 
-Harry avala sa dernière bouchée de bacon et fit demi-tour. « Très bien, »
+Harry avala sa dernière bouchée de bacon et fit demi-tour. « Très bien »,
 dit Harry. « Je n’allais pas poser cette question après avoir vu le
 professeur Binns, vraiment pas, mais si le professeur Rogue est *si*
 terrible que ça, pourquoi n’a-t-il pas été renvoyé ? »
@@ -71,7 +71,7 @@ terrible que ça, pourquoi n’a-t-il pas été renvoyé ? »
 
 « Tu veux dire remercié ? »
 
-« Oui, » dit Harry. « C’est ce qu’on fait aux mauvais enseignants. On les
+« Oui », dit Harry. « C’est ce qu’on fait aux mauvais enseignants. On les
 renvoie. Et ensuite on engage un meilleur enseignant. Vous n’avez pas de
 syndicats ou de titularisations par ici ? »
 
@@ -79,11 +79,11 @@ Fred et George fronçaient les sourcils exactement comme ces anciens
 d’une tribu de chasseurs-cueilleurs pourraient froncer les sourcils si
 vous essayiez de leur apprendre les fonctions mathématiques.
 
-« Je ne sais pas, » dit Fred après un moment « je n’y avais jamais pensé. »
+« Je ne sais pas », dit Fred après un moment « je n’y avais jamais pensé. »
 
-« Moi non plus, » dit George.
+« Moi non plus », dit George.
 
-« Ouais, » dit Harry, « j’entends ça souvent. On se verra au déjeuner les
+« Ouais », dit Harry, « j’entends ça souvent. On se verra au déjeuner les
 gars, et ne m’en voulez pas s’il n’y a aucune bougie sur ce gâteau. »
 
 Fred et George rirent tous les deux, comme si Harry avait dit quelque
@@ -124,9 +124,9 @@ contrat.
 
 Et le Directeur avait mis le feu à un poulet.
 
-« Excuse-moi, » dit une voix inquiète située derrière lui.
+« Excuse-moi », dit une voix inquiète située derrière lui.
 
-« Je vous jure, » dit Harry sans se retourner, « cet endroit est presque
+« Je vous jure », dit Harry sans se retourner, « cet endroit est presque
 huit et demi pour cent aussi pitoyable que ce que Papa dit au sujet
 d’Oxford. »
 
@@ -179,7 +179,7 @@ ressemblaient absolument pas, et on avait le sentiment que là où Lucius
 vous aurait éliminé avec une parfaite élégance, cet homme se serait
 contenté de vous tuer.
 
-« Asseyez-vous, » dit le professeur Severus Rogue. « Maintenant. »
+« Asseyez-vous », dit le professeur Severus Rogue. « Maintenant. »
 
 Harry et les quelques autres enfants qui étaient restés debout à
 discuter se précipitèrent vers les pupitres les plus proches. Harry
@@ -191,7 +191,7 @@ gauche de Hermione.
 Severus s’assit au bureau du professeur, et sans la moindre transition
 ni la moindre introduction, dit : « Hannah Abbot. »
 
-« Présente, » dit Hannah d’une voix assez tremblante.
+« Présente », dit Hannah d’une voix assez tremblante.
 
 « Susan Bones. »
 
@@ -221,15 +221,15 @@ valait probablement mieux.
 Lorsque l’appel fut terminé, Severus balaya la classe du regard. Ses
 yeux étaient aussi vides qu’une nuit sans étoiles.
 
-« Vous êtes ici, » dit Severus d’une voix douce que les étudiants à
+« Vous êtes ici », dit Severus d’une voix douce que les étudiants à
 l’arrière eurent du mal à entendre, « pour apprendre la science subtile
 et l’art exact de la fabrication de potions. Vu le peu d’agitation
 idiote de baguette que nous aurons à faire ici, beaucoup parmi vous
 auront du mal à croire que nous faisons de la magie. Je ne m’attends pas
 à ce que vous compreniez la beauté du chaudron frémissant doucement et
 de ses fumées chatoyantes, le pouvoir délicat des liquides se glissant
-dans les veines du corps humain, » il avait dit ça d’une voix caressante
-et emplie de jubilation, « ensorcelant l’esprit, piégeant les sens, » ça
+dans les veines du corps humain », il avait dit ça d’une voix caressante
+et emplie de jubilation, « ensorcelant l’esprit, piégeant les sens », ça
 devenait de plus en plus terrifiant. « je peux vous apprendre à mettre la
 célébrité en bouteille, à brasser la gloire, et même à mettre la mort
 dans un flacon — si vous n’êtes pas une bande d’idiots aussi
@@ -249,10 +249,10 @@ que ce soit utilisant de l’armoise — »
 La main de Hermione se leva et Harry lui jeta un regard qui la fit lever
 sa main encore plus haut.
 
-« Tut, tut, » dit Severus d’une voix de velours. « La célébrité ne fait
+« Tut, tut », dit Severus d’une voix de velours. « La célébrité ne fait
 clairement pas tout. »
 
-« Vraiment, » dit Harry. « Mais vous venez de nous dire que vous nous
+« Vraiment », dit Harry. « Mais vous venez de nous dire que vous nous
 apprendrez à mettre la célébrité en bouteille. Alors dites-moi,
 *comment* cela fonctionne-t-il exactement ? On la boit et on devient une
 célébrité ? »
@@ -267,15 +267,15 @@ professeur essayait délibérément d’humilier Harry.
 Harry essayait de toute ses forces de garder son sang-froid. La première
 réponse qui lui était venue à l’esprit était « Abracadabra ».
 
-« Essayons encore, » dit Severus. « Potter, où iriez-vous si je vous disais
+« Essayons encore », dit Severus. « Potter, où iriez-vous si je vous disais
 d’aller me chercher un Bézoard ? »
 
-« Ce n’est pas non plus dans le manuel, » dit Harry, « mais j’ai lu dans un
+« Ce n’est pas non plus dans le manuel », dit Harry, « mais j’ai lu dans un
 livre moldu qu’un trichinobézoard est une masse de cheveux solidifiée
 trouvée dans un estomac humain, et dans le passé, les Moldus croyaient
 que ça pouvait guérir tous les poisons — »
 
-« Faux, » dit Severus. « Un Bézoard se trouve dans l’estomac d’une chèvre,
+« Faux », dit Severus. « Un Bézoard se trouve dans l’estomac d’une chèvre,
 il n’est pas fait de cheveux, et il guérira de la plupart des poisons,
 mais pas de tous. »
 
@@ -287,7 +287,7 @@ essai. Potter, quelle est la différence entre le napel et le tue-loup ? »
 
 C’en était trop.
 
-« Vous savez, » dit Harry d’un ton glacial, « dans un de mes *fascinants*
+« Vous savez », dit Harry d’un ton glacial, « dans un de mes *fascinants*
 livres moldus est décrite une étude dans laquelle des gens parvenaient à
 se donner l’air très intelligent en posant des questions au sujet de
 faits quelconques que eux seuls connaissaient. Apparemment, les
@@ -297,7 +297,7 @@ n’arrivaient pas à prendre en compte l’injustice profonde du jeu. Alors,
 professeur, pouvez-vous me dire combien d’électrons se trouvent sur
 l’orbite externe d’un atome de carbone ? »
 
-Le sourire de Severus s’agrandit. « Quatre, » dit-il. « Mais c’est une
+Le sourire de Severus s’agrandit. « Quatre », dit-il. « Mais c’est une
 information inutile que personne ne devrait s’embêter à noter. Et pour
 votre gouverne, Potter, l’asphodèle et l’armoise font une potion de
 sommeil si puissante qu’elle est connue sous le nom de Goutte du
@@ -311,7 +311,7 @@ points ? Non, disons dix points retirés à Serdaigle pour impertinence. »
 
 Hermione s’étrangla, et de nombreux autres firent de même.
 
-« Professeur Severus Rogue, » mordit Harry. « Je n’ai connaissance d’aucun
+« Professeur Severus Rogue », mordit Harry. « Je n’ai connaissance d’aucun
 acte que j’aurais pu commettre pour mériter votre hostilité. S’il existe
 un problème dont je ne suis pas au courant, je suggère que nous — »
 
@@ -328,12 +328,12 @@ semblait avoir été évacué et remplacé par de l’azote liquide. Il savait
 qu’il avait essayé de garder son calme mais il ne pouvait pas se
 rappeler pourquoi.
 
-« Harry, » chuchota frénétiquement Hermione, deux pupitres plus loin,
+« Harry », chuchota frénétiquement Hermione, deux pupitres plus loin,
 « arrête, s’il te plaît, ce n’est pas grave, on ne le comptera pas — »
 
 « Vous parlez en classe, Granger ? Trois — »
 
-« Donc, » dit une voix plus froide que le zéro absolu, « comment s’y
+« Donc », dit une voix plus froide que le zéro absolu, « comment s’y
 prend-t-on pour déposer une plainte formelle au sujet d’un professeur
 abusif ? Faut-il en parler à la Directrice Adjointe, écrire une lettre
 au conseil d’administration… pourriez-vous m’expliquer comment cela
@@ -341,7 +341,7 @@ fonctionne ? »
 
 La classe était complètement figée.
 
-« Retenu pour un mois, Potter, » dit Severus, son sourire encore plus
+« Retenu pour un mois, Potter », dit Severus, son sourire encore plus
 large.
 
 « Je refuse de reconnaître votre autorité en tant qu’enseignant et ne me
@@ -369,7 +369,7 @@ subtil. « Quelle idée amusante. Et comment comptez-vous faire cela,
 Potter ? »
 
 « J’ai cru comprendre qu’il y a eu un certain nombre de plaintes vous
-concernant venant d’élèves et de leurs parents, » c’était une conjecture,
+concernant venant d’élèves et de leurs parents », c’était une conjecture,
 mais elle était assez prudente, « ce qui ne nous laisse qu’une seule
 question : pourquoi n’êtes-vous pas déjà parti ? Poudlard est-elle
 financièrement trop en difficulté pour s’offrir un vrai professeur de
@@ -379,7 +379,7 @@ salaire actuel. »
 
 Deux rayons de glace généraient un hiver glacial au travers de la salle.
 
-« Vous découvrirez, » dit doucement Severus, « que le conseil
+« Vous découvrirez », dit doucement Severus, « que le conseil
 d’administration ne sera pas le moins du monde réceptif à votre offre. »
 
 « Lucius… » dit Harry. « *Voilà* pourquoi vous êtes encore ici. Peut-être
@@ -389,7 +389,7 @@ Je me demande si j’ai quelque chose qu’il recherche ? »
 Hermione secoua frénétiquement la tête. Harry le remarqua du coin de
 l’œil, mais son attention était toute sur Severus.
 
-« Vous êtes un garçon insensé, » dit Severus. Il ne souriait maintenant
+« Vous êtes un garçon insensé », dit Severus. Il ne souriait maintenant
 plus du tout. « Vous n’avez rien qui importe plus à Lucius que mon
 amitié. Et même si c’était le cas, j’ai d’autres alliés. » Sa voix devint
 dure. « Et je commence à trouver très peu probable que vous n’ayez pas
@@ -415,12 +415,12 @@ Harry ne voyait bien sûr pas son visage.
 
 Harry se leva de son bureau.
 
-« Asseyez-vous, Potter, » dit une voix en colère venant d’un endroit qu’il
+« Asseyez-vous, Potter », dit une voix en colère venant d’un endroit qu’il
 ne regardait pas.
 
 Harry l’ignora, et regarda le reste de la classe. « Je n’ai pas
 l’intention de laisser un enseignant si peu professionnel me gâcher ma
-scolarité à Poudlard, » dit Harry avec un calme mortel. « Je pense que je
+scolarité à Poudlard », dit Harry avec un calme mortel. « Je pense que je
 vais prendre congé de ce cours, et soit engager un précepteur pour
 m’enseigner les Potions pendant que je suis ici, ou si le conseil
 d’administration est vraiment bouché, apprendre pendant l’été. Si un ou
@@ -438,9 +438,9 @@ méchamment avant de se souvenir de regarder ailleurs.
 
 « Ouvrez cette porte. »
 
-« Non, » dit Severus.
+« Non », dit Severus.
 
-« Vous me faites me sentir menacé, » dit une voix si glacée qu’elle ne
+« Vous me faites me sentir menacé », dit une voix si glacée qu’elle ne
 ressemblait pas du tout à celle de Harry, « et c’est une erreur. »
 
 La voix de Severus s’esclaffa. « Et que comptez-vous faire à ce sujet,
@@ -461,7 +461,7 @@ fais pas ! »
 « Êtes-vous tous devenus *fous* ? » aboya la voix de Severus.
 
 Lentement, Harry rabaissa sa main. « Je n’allais pas lui faire de mal,
-Hermione, » dit Harry, sa voix redevenue un peu plus normale. « J’allais
+Hermione », dit Harry, sa voix redevenue un peu plus normale. « J’allais
 juste faire exploser la porte. »
 
 Quoique, se souvint Harry, on n’était pas censé Métamorphoser des choses
@@ -470,7 +470,7 @@ temps et demander à Fred et à George de Métamorphoser une quantité
 précautionneusement mesurée d’explosifs ne serait peut-être pas une si
 bonne idée…
 
-« *Silencio*, » dit la voix de Severus.
+« *Silencio* », dit la voix de Severus.
 
 Harry essaya de dire « Quoi ? » mais découvrit qu’aucun son ne sortait.
 
@@ -483,7 +483,7 @@ Dix points de moins pour Serdaigle. Dix points de moins pour Serdaigle !
 Cinquante points de moins pour Serdaigle ! Maintenant asseyez-vous et
 regardez le reste de la classe suivre le cours ! »
 
-Harry mit sa main dans sa bourse et essaya de dire « marqueur, » mais bien
+Harry mit sa main dans sa bourse et essaya de dire « marqueur », mais bien
 sûr aucun son ne sortit. Pendant un bref moment, cela l’arrêta ; puis
 l’idée lui vint d’épeler M-A-R-Q-U-E-U-R avec des mouvements de doigt,
 ce qui fonctionna. B-L-O-C, et il avait du papier. Harry marcha jusqu’à
@@ -499,7 +499,7 @@ QUELQU’UN D’AUTRE
 
 A-T-IL BESOIN DE SORTIR ?
 
-« Vous êtes dément, Potter, » dit Severus d’un ton de froid mépris.
+« Vous êtes dément, Potter », dit Severus d’un ton de froid mépris.
 
 À part ça, personne d’autre ne parla.
 
@@ -640,17 +640,17 @@ vacilla. La peur apparut dans ses yeux, puis la colère, et le garçon
 Un frisson parcourut l’épine dorsale de Minerva. Quelque chose n’allait
 pas.
 
-« Asseyez-vous, s’il vous plaît, » dit Dumbledore. Son visage était de
+« Asseyez-vous, s’il vous plaît », dit Dumbledore. Son visage était de
 nouveau sérieux.
 
 Harry s’assit.
 
-« Donc, Harry, » dit Dumbledore. « J’ai entendu un compte-rendu de ce qui
+« Donc, Harry », dit Dumbledore. « J’ai entendu un compte-rendu de ce qui
 s’est passé aujourd’hui, donné par le professeur Rogue. Voudriez-vous
 s’il vous plaît me dire en vos termes ce qui s’est passé ? »
 
 Harry jeta un coup d’œil dédaigneux et rapide en direction de Severus.
-« Ce n’est pas compliqué, » dit le garçon, un léger sourire sur le visage.
+« Ce n’est pas compliqué », dit le garçon, un léger sourire sur le visage.
 « Il a essayé de me malmener tout comme il a malmené tous les
 non-Serpentard de l’école depuis le jour où Lucius vous l’a imposé. Pour
 ce qui est des détails, je sollicite une conversation privée avec vous.
@@ -662,7 +662,7 @@ Cette fois, Minerva ne put s’empêcher s’étouffer.
 
 Severus se contenta de rire.
 
-Et le visage de Dumbledore devint grave. « M. Potter, » dit le Dumbledore,
+Et le visage de Dumbledore devint grave. « M. Potter », dit le Dumbledore,
 « on ne parle pas d’un professeur de Poudlard ainsi. J’ai peur que vous
 soyez victime d’un terrible malentendu. Le professeur Severus Rogue a ma
 totale confiance, et sert Poudlard sous mes ordres, pas sous ceux de
@@ -673,7 +673,7 @@ Il y eut un silence pendant quelques instants.
 Lorsque le garçon parla à nouveau, sa voix était glaciale. « Y a-t-il
 quelque chose qui m’aurait échappé ? »
 
-« Un certain nombre de choses, M. Potter, » dit le Directeur. « Pour
+« Un certain nombre de choses, M. Potter », dit le Directeur. « Pour
 commencer, vous devriez comprendre que le but de cette réunion est de
 déterminer votre punition pour les événements de ce matin. »
 
@@ -688,17 +688,17 @@ avez fait ça à vos étudiants ? Pourquoi ?* »
 Minerva ravala une boule dans sa gorge. Elle avait — pensé cela,
 parfois, mais elle n’avait jamais tout à fait -
 
-« M. Potter, » dit le directeur, sa voix à présent sévère, « cette réunion
+« M. Potter », dit le directeur, sa voix à présent sévère, « cette réunion
 n’est pas à propos du professeur Rogue. Elle est à propos de vous et de
 votre mépris pour la discipline de cette école. Le professeur Rogue a
 suggéré, et j’y ai consenti, que trois mois de retenue seraient
 appropriés — »
 
-« Rejetés, » dit Harry d’un ton glacial.
+« Rejetés », dit Harry d’un ton glacial.
 
 Minerva était sans voix.
 
-« Ce n’est pas une requête, M. Potter, » dit le Directeur. Toute la force
+« Ce n’est pas une requête, M. Potter », dit le Directeur. Toute la force
 de son regard était concentrée sur le garçon. « C’est votre puniti- »
 
 « Vous m’expliquerez pourquoi vous avez laissé cet homme faire du mal aux
@@ -711,12 +711,12 @@ Le corps de Minerva fut ébranlé par la force de ce coup, de ce
 
 Même Severus avait l’air choqué.
 
-« Ceci, Harry, serait extrêmement malavisé, » dit lentement Dumbledore.
+« Ceci, Harry, serait extrêmement malavisé », dit lentement Dumbledore.
 « Je suis la principale pièce opposant Lucius sur le plateau de jeu. Que
 vous fassiez une chose pareille le renforcerait grandement, et je ne
 pensais pas que c’était le camp que vous aviez choisi. »
 
-« Cette conversation devient privée, » dit Harry. Sa main fit un rapide
+« Cette conversation devient privée », dit Harry. Sa main fit un rapide
 mouvement en direction de Severus. « Faites-le sortir. »
 
 Dumbledore secoua la tête. « Harry, ne vous ai-je pas dit que Severus
@@ -733,7 +733,7 @@ que vous n’êtes pas, pour l’instant, prêt à entendre. »
 Le garçon fixa Dumbledore. Puis il se tourna pour regarder Severus. Puis
 à nouveau Dumbledore.
 
-« C’*est* de la folie, » dit lentement le garçon. « Vous ne lui avez pas
+« C’*est* de la folie », dit lentement le garçon. « Vous ne lui avez pas
 serré la bride parce que vous pensez qu’il fait *partie du motif*. Que
 Poudlard a besoin d’un professeur de Potions maléfique pour être une
 vraie école de magie, tout comme elle a besoin d’un fantôme pour
@@ -742,7 +742,7 @@ enseigner l’Histoire. »
 « Ça ressemble au genre de chose que j’ai l’habitude de faire, non ? » dit
 Dumbledore en souriant.
 
-« Inacceptable, » dit catégoriquement Harry. Son visage était maintenant
+« Inacceptable », dit catégoriquement Harry. Son visage était maintenant
 froid et sombre. « Je n’accepterai ni ces brutalisations ni ces abus.
 J’avais envisagé de nombreuses façon de traiter ce problème, mais je
 vais rendre la chose simple. Soit cet homme part, soit je pars. »
@@ -762,7 +762,7 @@ Et Harry resta assis là, un léger sourire sur le visage.
 Une horreur soudaine s’abattit sur Minerva. Harry n’allait quand même
 pas -
 
-« Vous oubliez, » dit Harry, « que vous n’êtes pas le seul capable de
+« Vous oubliez », dit Harry, « que vous n’êtes pas le seul capable de
 déceler les motifs. *Ceci devient confidentiel. Maintenant faites-le — * »
 Harry fit un nouveau geste en direction de Severus, puis s’arrêta au
 milieu de sa phrase et de son geste.
@@ -772,10 +772,10 @@ souvenu.
 
 Après tout, elle le lui avait dit.
 
-« M. Potter, » dit le Directeur, « une fois de plus, Severus Rogue a ma
+« M. Potter », dit le Directeur, « une fois de plus, Severus Rogue a ma
 confiance totale. »
 
-« Vous lui avez dit, » murmura le garçon, « pauvre idiot. »
+« Vous lui avez dit », murmura le garçon, « pauvre idiot. »
 
 Dumbledore ne réagit pas à l’insulte. « Dit quoi ? »
 
@@ -785,7 +785,7 @@ Dumbledore ne réagit pas à l’insulte. « Dit quoi ? »
 une multitude de tons de pure stupéfaction et d’outrage.
 
 Harry lui jeta un rapide coup d’œil, souriant de façon sinistre. « Oh,
-alors on est *bien* un Serpentard, » dit Harry, « je commençais à me
+alors on est *bien* un Serpentard », dit Harry, « je commençais à me
 demander. »
 
 Et ils furent silencieux.
@@ -793,11 +793,11 @@ Et ils furent silencieux.
 Dumbledore parla enfin. Sa voix était faible. « Harry, de *quoi*
 parlez-vous ? »
 
-« Je suis navrée, Albus, » murmura Minerva.
+« Je suis navrée, Albus », murmura Minerva.
 
 Severus et Dumbledore se tournèrent pour la regarder.
 
-« Le professeur McGonagall ne me l’a pas dit, » dit la voix de Harry,
+« Le professeur McGonagall ne me l’a pas dit », dit la voix de Harry,
 rapidement, et moins calmement qu’il ne l’avait été jusqu’à maintenant.
 « J’ai deviné. Je vous l’ai dit, je peux voir les motifs moi aussi. J’ai
 deviné, et elle a contrôlé sa réaction exactement comme Severus l’a
@@ -805,12 +805,12 @@ fait. Mais son contrôle a été à un cheveu de la perfection, et je me
 suis rendu compte que sa réaction n’était pas authentique mais
 contrôlée. »
 
-« Et je lui ai dit, » dit Minerva, sa voix un peu tremblante, « que vous,
+« Et je lui ai dit », dit Minerva, sa voix un peu tremblante, « que vous,
 moi, et Severus étions les seuls à savoir. »
 
 « Ce qu’elle m’a concédé afin de m’empêcher de me promener partout en
 posant des questions à tout le monde, ce que j’avais menacé de faire si
-elle refusait de parler, » dit Harry. Le garçon gloussa brièvement.
+elle refusait de parler », dit Harry. Le garçon gloussa brièvement.
 « J’aurais vraiment dû coincer l’un de vous seul à seul et vous dire
 qu’elle m’avait tout dit, pour voir si vous auriez trahi quelque chose.
 Ça n’aurait probablement pas marché, mais ça aurait valu le coup
@@ -843,7 +843,7 @@ Minerva était totalement perdue. Elle regarda Severus, pour voir s’il
 arrivait à suivre, et elle vit qu’il avait détourné son visage hors du
 champ de vision de Harry et qu’il souriait.
 
-« Je suppose, » dit lentement Dumbledore, « que de votre point de vue,
+« Je suppose », dit lentement Dumbledore, « que de votre point de vue,
 c’est une question raisonnable. Donc, M. Potter, si le professeur Rogue
 vous laisse tranquille à l’avenir, cela va-t-il être la dernière fois
 que ce problème survient, ou vais-je vous retrouver ici chaque semaine,
@@ -871,7 +871,7 @@ requête. C’est votre punition. »
 dire. Elle ne pouvait simplement pas laisser passer ça.
 
 D’un geste, Harry lui intima de se taire, et il continua de parler à
-Dumbledore. « Et si cela vous semble malpoli, » dit Harry, sa voix un peu
+Dumbledore. « Et si cela vous semble malpoli », dit Harry, sa voix un peu
 moins dure, « sachez que ça ne semblait pas moins malpoli quand vous me
 l’avez dit. Vous ne diriez pas une chose pareille à quelqu’un que vous
 considéreriez comme un véritable être humain et non pas comme un enfant
@@ -885,13 +885,13 @@ pas comment j’ai pu imaginer qu’il en soit autrement ! » Dumbledore ria
 de plus belle. Il frappa trois fois du poing sur la table.
 
 Harry sembla plus incertain. Son visage se tourna vers Minerva,
-s’adressant à elle pour la première fois. « Excusez-moi, » dit Harry. Sa
+s’adressant à elle pour la première fois. « Excusez-moi », dit Harry. Sa
 voix semblait vacillante. « A-t-il besoin de prendre ses médicaments, ou
 quelque chose dans le genre ? »
 
 « Ah… » Minerva ne savait pas ce qu’elle pouvait bien dire.
 
-« Bon, » dit Dumbledore. Il essuya les larmes qui s’étaient amoncelées
+« Bon », dit Dumbledore. Il essuya les larmes qui s’étaient amoncelées
 dans ses yeux. « Excusez-moi. Je suis navré de cette interruption.
 Continuez avec le chantage, s’il vous plaît. »
 
@@ -899,9 +899,9 @@ Harry ouvrit la bouche puis la referma. Il semblait à présent légèrement
 chancelant. « Ah… il devra aussi arrêter de lire dans l’esprit des
 élèves. »
 
-« Minerva, » dit Severus, sa voix meurtrière, « tu — »
+« Minerva », dit Severus, sa voix meurtrière, « tu — »
 
-« Le Choixpeau Magique m’a mis en garde, » dit Harry.
+« Le Choixpeau Magique m’a mis en garde », dit Harry.
 
 « *Quoi* ? »
 
@@ -918,7 +918,7 @@ sûr. »
 
 « *Quoi ?* » dirent Severus, Minerva et Harry.
 
-« Eh bien, il semble certainement nous sommes coincés, » dit Dumbledore,
+« Eh bien, il semble certainement nous sommes coincés », dit Dumbledore,
 souriant gaiement. « Mais Poudlard *a* besoin d’un professeur de Potions
 maléfique, ou ce ne serait pas une véritable école de magie, n’est-ce
 pas ? Alors que diriez-vous si le professeur Rogue était horrible
@@ -943,16 +943,16 @@ sa vie. Elle jeta un regard incertain à Severus, dont le visage était
 devenu complètement neutre, comme s’il ne pouvait pas décider de
 l’expression qu’il était censé afficher.
 
-« Je suppose que c’est acceptable, » dit Harry. Il avait une voix étrange.
+« Je suppose que c’est acceptable », dit Harry. Il avait une voix étrange.
 
-« Je suis tout à fait en faveur de cette idée, » dit lentement Minerva.
+« Je suis tout à fait en faveur de cette idée », dit lentement Minerva.
 Elle était tellement en faveur que son cœur cognait follement sous ses
 robes. « Mais que pourrons-nous bien dire aux élèves ? Ils ne se sont
 peut-être pas posé de questions pendant que Severus était… horrible
 envers tout le monde, mais — »
 
 « Harry peut dire aux autres étudiants qu’il a découvert un terrible
-secret concernant Severus et qu’il a fait un peu de chantage, » dit
+secret concernant Severus et qu’il a fait un peu de chantage », dit
 Dumbledore. « C’est vrai après tout ; il a découvert que Severus lisait
 les esprits, et il nous a certainement fait du chantage. »
 
@@ -965,7 +965,7 @@ les cinquième année et plus se sont fait avoir ? Je ne leur en voudrais
 pas s’ils devenaient furieux, et ce n’est pas vraiment moi qui ai décidé
 que — »
 
-« Dites-leur, » dit Dumbledore, « que ce n’est pas vous qui avez suggéré le
+« Dites-leur », dit Dumbledore, « que ce n’est pas vous qui avez suggéré le
 compromis, que c’est tout ce que vous pouviez obtenir. Puis refusez d’en
 dire plus. Cela aussi sera vrai. C’est un art, vous l’apprendrez avec la
 pratique. »
@@ -979,17 +979,17 @@ C’est Minerva qui avait dit ça.
 
 Harry la regarda.
 
-« Je suis désolée, M. Potter, » dit-elle. Elle *était* désolée, mais ça
+« Je suis désolée, M. Potter », dit-elle. Elle *était* désolée, mais ça
 devait être fait. « Votre mauvais comportement *doit* avoir quelques
 conséquences, ou cette école va tomber en morceaux. »
 
-Harry haussa les épaules. « Acceptable, » dit-il. « Mais à l’avenir,
+Harry haussa les épaules. « Acceptable », dit-il. « Mais à l’avenir,
 Severus ne s’attaquera pas à mes liens avec ma Maison en m’ôtant des
 points, et il ne gâchera pas mon temps précieux avec des retenues. S’il
 se trouve que mon comportement mérite une correction, il fera part de
 ses préoccupations au professeur McGonagall. »
 
-« Harry, » dit Minerva, « continuerez-vous de vous soumettre à la
+« Harry », dit Minerva, « continuerez-vous de vous soumettre à la
 discipline de cette école, ou serez-vous maintenant au-dessus de la loi,
 comme Severus l’était ? »
 
@@ -1002,15 +1002,15 @@ retourna vers Dumbledore. « Laissez Minerva seule, et en sa présence je
 serai un étudiant normal de Poudlard. Pas de privilèges spéciaux ni
 d’immunités. »
 
-« Magnifique, » dit sincèrement Dumbledore. « Parlé comme un vrai héros. »
+« Magnifique », dit sincèrement Dumbledore. « Parlé comme un vrai héros. »
 
-« Et, » dit-elle, « M. Potter doit s’excuser en public pour ses actes
+« Et », dit-elle, « M. Potter doit s’excuser en public pour ses actes
 d’aujourd’hui. »
 
 Harry lui jeta un autre coup d’œil. Celui-ci était un peu sceptique.
 
 « La discipline de cette école a été fortement mise à mal par vos actes,
-M. Potter, » dit Minerva. « Elle doit être restaurée. »
+M. Potter », dit Minerva. « Elle doit être restaurée. »
 
 « Professeur McGonagall, je pense que vous surestimez grandement
 l’importance de ce que vous appelez la discipline de l’école, comparé au
@@ -1041,7 +1041,7 @@ nous lever et dire la vérité. Je peux vivre avec ça. »
 
 « Dans vos rêves, Potter ! » cracha Severus.
 
-« Après tout,, » dit Harry, souriant de façon sinistre, « si les élèves
+« Après tout »,, dit Harry, souriant de façon sinistre, « si les élèves
 voient que les règles sont pour *tout le monde*… pour les professeurs
 aussi, pas seulement pour les pauvres étudiants impuissants qui ne
 tirent rien du système à part de la souffrance… voyons, les effets
@@ -1054,7 +1054,7 @@ l’être. »
 Le regard de Harry s’éloigna de Dumbledore dans un tressaillement, et
 dériva vers le sol. « Lisez-*vous son* esprit ? »
 
-« On confond souvent le bon sens et la Legilimancie, » dit Dumbledore. « Je
+« On confond souvent le bon sens et la Legilimancie », dit Dumbledore. « Je
 parlerai de cette affaire avec Severus, et aucune excuse publique ne
 sera exigée de vous à moins qu’il ne s’excuse lui aussi. Et je déclare
 maintenant cette affaire classée, au moins jusqu’au déjeuner. » Il
@@ -1065,7 +1065,7 @@ pression de ma part. Minerva, s’il te plaît ? »
 Minerva se leva de sa chaise et faillit tomber. Il y avait trop
 d’adrénaline dans son sang, son cœur battait trop vite.
 
-« Fumseck, » dit Dumbledore, « accompagne-la, s’il te plaît. »
+« Fumseck », dit Dumbledore, « accompagne-la, s’il te plaît. »
 
 « Je n’ai — » commença-t-elle à dire.
 
@@ -1075,7 +1075,7 @@ Le phénix s’envola dans la pièce comme une langue de flamme aurait
 soudain bondit, et il atterrit sur son épaule. Elle sentit la chaleur à
 travers ses robes et à travers son corps.
 
-« Suivez-moi, M. Potter, » dit-elle, fermement cette fois, et ils
+« Suivez-moi, M. Potter », dit-elle, fermement cette fois, et ils
 franchirent la porte.
 
 
@@ -1098,7 +1098,7 @@ apaisant, rassurant, relaxant ce qu’il touchait…
 « *Qu’*est-ce que c’est que *ça* ? » murmura Harry à côté d’elle. Sa voix
 était instable, vacillante, aux tons changeants.
 
-« La chanson du phénix, » dit Minerva, pas tout à fait consciente de ce
+« La chanson du phénix », dit Minerva, pas tout à fait consciente de ce
 qu’elle disait, son attention entièrement dirigée vers l’étrange musique
 douce. « Elle guérit, elle aussi. »
 
@@ -1136,7 +1136,7 @@ assez intelligents pour être considérés comme des gens ? Pourrais-je
 parler avec Fumseck si je savais comment faire ? »
 
 Minerva cligna des yeux de façon appuyée. Puis elle cligna à nouveau.
-« Non, » dit Minerva, la voix chancelante. « Les phénix sont des créatures
+« Non », dit Minerva, la voix chancelante. « Les phénix sont des créatures
 faites d’une puissante magie. Cette magie donne à leur existence un sens
 qu’aucun animal ne pourrait avoir. Ils sont le feu, la lumière, la
 guérison et la renaissance. Mais en fin de compte, non. »
@@ -1162,7 +1162,7 @@ Minerva s’assit derrière son bureau.
 
 Harry s’assit devant son bureau.
 
-« Donc, » murmura Minerva. Elle aurait donné quasiment n’importe quoi pour
+« Donc », murmura Minerva. Elle aurait donné quasiment n’importe quoi pour
 ne pas faire ça, ou pour ne pas être celle qui devait le faire, ou pour
 le faire n’importe quand, mais pas maintenant. « C’est une question de
 discipline scolaire. Dont vous n’êtes pas exempté. »
@@ -1173,7 +1173,7 @@ Il ne savait pas. Il n’avait pas encore compris. Elle sentit sa gorge se
 serrer. Mais il y avait un travail à accomplir et elle ne s’y déroberait
 pas.
 
-« M. Potter, » dit le professeur McGonagall, « faites-moi s’il vous plaît
+« M. Potter », dit le professeur McGonagall, « faites-moi s’il vous plaît
 voir votre Retourneur de Temps. »
 
 Toute la paix du phénix disparut instantanément du visage de Harry et
@@ -1182,7 +1182,7 @@ Minerva eut l’impression qu’elle venait de le poignarder.
 « *Non !* » dit Harry. Sa voix fut prise de panique. « J’en ai besoin, je
 ne pourrai pas étudier à Poudlard, je ne pourrai pas dormir ! »
 
-« Vous pourrez dormir, » dit-elle. « Le Ministère a délivré les coques de
+« Vous pourrez dormir », dit-elle. « Le Ministère a délivré les coques de
 protections pour votre Retourneur de Temps. Je l’enchanterai pour qu’il
 s’ouvre seulement entre 21 h et minuit. »
 
@@ -1202,7 +1202,7 @@ matin. Correct ? »
 
 Le visage de Harry disait tout ce qu’elle avait besoin de savoir.
 
-« M. Potter, » dit-elle avec gentillesse, « il y a des élèves à qui on ne
+« M. Potter », dit-elle avec gentillesse, « il y a des élèves à qui on ne
 peut confier des Retourneurs de Temps, parce qu’ils deviennent drogués.
 Nous leur donnons une potion qui rallonge leur cycle de sommeil de la
 durée nécessaire, mais ils finissent par utiliser le Retourneur de Temps
@@ -1216,7 +1216,7 @@ porte. »
 
 Vu la tête de Harry, il n’avait pas pensé à ça.
 
-« Et plus important, » dit-elle, « vous auriez dû simplement suivre le
+« Et plus important », dit-elle, « vous auriez dû simplement suivre le
 cours du professeur Rogue. Et regarder. Et partir à la fin du cours.
 Comme vous l’auriez fait si vous n’aviez pas possédé un Retourneur de
 Temps. Il existe certains élèves à qui on ne peut confier un Retourneur
@@ -1263,17 +1263,17 @@ Elle savait qu’il voyait le visage du professeur McGonagall en colère.
 
 Les yeux de Harry s’emplirent de larmes.
 
-« Je suis, désolé, » chuchota-t-il, sa voix maintenant étouffée et brisée.
+« Je suis, désolé », chuchota-t-il, sa voix maintenant étouffée et brisée.
 « Je suis désolé, de vous avoir, déçue… »
 
-« Je suis désolée aussi, M. Potter, » dit-elle d’un ton dur, et elle lui
+« Je suis désolée aussi, M. Potter », dit-elle d’un ton dur, et elle lui
 tendit le nouveau Retourneur de Temps Restreint. « Vous pouvez partir. »
 
 Harry fit demi-tour et fuit son bureau en sanglotant. Elle entendait ses
 pieds traîner dans le couloir, puis le son fut interrompu par celui
 d’une porte qui se refermait.
 
-« Je suis désolée aussi, Harry, » murmura-t-elle dans la pièce
+« Je suis désolée aussi, Harry », murmura-t-elle dans la pièce
 silencieuse. « Je suis désolée aussi. »
 
 
@@ -1322,7 +1322,7 @@ déjà là, et presque aucun n’était parti.
 
 Le battement d’une cuillère résonna dans la Grande Salle.
 
-« Si je pouvais avoir votre attention, » dit Dumbledore. « Harry Potter
+« Si je pouvais avoir votre attention », dit Dumbledore. « Harry Potter
 aimerait partager quelque chose avec nous. »
 
 Harry prit une profonde inspiration et se leva. Il marcha jusqu’à la
@@ -1334,7 +1334,7 @@ Harry se retourna et regarda les quatre tables.
 son visage de toute expression alors qu’il récitait son bref discours
 appris par cœur.
 
-« La vérité est sacrée, » dit Harry d’une voix sans timbre. « Une de mes
+« La vérité est sacrée », dit Harry d’une voix sans timbre. « Une de mes
 possessions que je chéris le plus est un bouton sur lequel il est
 écrit : “Dis la vérité, même si ta voix tremble.” Voici donc la vérité.
 Souvenez-vous en. Je ne le dis pas parce qu’on m’y oblige, mais parce
@@ -1365,13 +1365,13 @@ les plus jeunes étudiants et chez les Gryffondor, ainsi que des
 ricanements hautains chez les Serpentard, et des grimaces et des airs
 inquiets chez tous les autres.
 
-Harry maintint son expression neutre. « Merci, » dit-il. « C’est tout. »
+Harry maintint son expression neutre. « Merci », dit-il. « C’est tout. »
 
-« Merci, M. Potter, » dit le Directeur. « Et maintenant, le professeur
+« Merci, M. Potter », dit le Directeur. « Et maintenant, le professeur
 Rogue aimerait lui aussi partager quelque chose avec vous. »
 
 Severus se leva avec fluidité de sa chaise à la Grande Table. « On a
-porté à mon attention, » dit-il, « que mes propres actes ont en partie
+porté à mon attention », dit-il, « que mes propres actes ont en partie
 provoqué la colère certes inexcusable de M. Potter, et dans la
 discussion qui s’en est suivie, je me suis rendu compte que j’avais
 oublié avec quelle facilité les sentiments des jeunes et des immatures
@@ -1390,7 +1390,7 @@ Il y eut un unique applaudissement venant de Gryffondor, et plus vite
 que la lumière la baguette de Severus était dans sa main et
 « *Silencio* ! » fit taire le contrevenant.
 
-« J’exigerai toujours la discipline et le respect dans *tous* mes cours, »
+« J’exigerai toujours la discipline et le respect dans *tous* mes cours »,
 dit froidement Severus, « quiconque essayant de me chahuter le
 regrettera. »
 
@@ -1404,7 +1404,7 @@ table Serdaigle.
 Il y eut une explosion de conversation. Deux mots étaient clairement
 identifiables au début. Le premier était un « Qu’est — » initial,
 commençant de nombreuses phrases telles que « Qu’est ce qui s’est passé
-- » ou « Qu’est-ce que c’était que — ». L’autre était « *Récurvite !*, » au
+- » ou « Qu’est-ce que c’était que — ». L’autre était « *Récurvite !* », au
 fur et à mesure que les élèves nettoyaient leurs robes et la nappe de la
 nourriture tombée et des boissons crachées.
 

@@ -12,7 +12,7 @@ qu’on lui avait dit après son réveil.
 
 C’en était (un peu) trop.
 
-« Eh bien, » dit le professeur Quirrell. De près, le professeur de Défense
+« Eh bien », dit le professeur Quirrell. De près, le professeur de Défense
 n’avait pas l’air en aussi bonne santé que la dernière fois qu’elle
 avait été dans son bureau ; sa peau était plus pâle et il se déplaçait
 un peu plus lentement. Son expression était aussi sévère que d’habitude,
@@ -24,7 +24,7 @@ pourquoi j’ai demandé votre présence. »
 dit Harry, situé à côté d’elle, d’un ton perplexe. « Je n’ai pas brisé
 une règle démente en tirant sur Daphné, ou si ? »
 
-« Pas tout à fait, » dit l’homme d’un ton lourd d’ironie. « Puisque Mlle
+« Pas tout à fait », dit l’homme d’un ton lourd d’ironie. « Puisque Mlle
 Greengrass n’a pas respecté les formalités du duel, elle n’a pas
 prétention à demander à ce que votre nom vous soit retiré. Mais je
 n’aurais bien sûr pas autorisé un duel formel. La guerre ne respecte pas
@@ -35,12 +35,12 @@ tous les trois en revue. « Général Malefoy. Pourquoi vous ais-je appelé
 ici ? »
 
 « Ce n’est plus équitable de mettre le général Potter seul contre nous
-deux, » dit Drago Malefoy d’une voix basse.
+deux », dit Drago Malefoy d’une voix basse.
 
 « *Quoi ?* » laissa échapper Hermione. « On les *avait* presque, si Daphné
 ne s’était pas évanouie — »
 
-« Mademoiselle Greengrass ne s’est pas évanouie d’épuisement magique, »
+« Mademoiselle Greengrass ne s’est pas évanouie d’épuisement magique »,
 dit le professeur Quirrell d’un ton sec. « M. Potter lui a tiré dans le
 dos avec un sortilège de sommeil pendant que vos soldats étaient
 distraits par la vue de leur général s’écrasant contre un mur en plein
@@ -99,7 +99,7 @@ répartis entre l’armée Dragon et le régiment Soleil — »
 autres généraux et vit que Harry semblait aussi choqué qu’elle, tandis
 que Drago avait seulement l’air résigné.
 
-« Le général Potter est plus fort que vous deux réunis, » dit le
+« Le général Potter est plus fort que vous deux réunis », dit le
 professeur Quirrell d’une calme précision. « Votre concours est fini, il
 a gagné, et il est temps de rééquilibrer les équipes afin de le mettre
 face à un nouveau défi. »
@@ -180,10 +180,10 @@ prirent à gauche vers un escalier qui menait au deuxième étage et elle
 partit plutôt à droite ; elle ne savait pas où menait ce passage mais
 pour l’instant elle aurait préféré se perdre dans le château.
 
-« Excuse-moi, Drago, » dit la voix de Harry, et il y eut alors une série
+« Excuse-moi, Drago », dit la voix de Harry, et il y eut alors une série
 de pas derrière elle.
 
-« Laisse-moi tranquille, » dit-elle, le ton était sévère mais elle dut
+« Laisse-moi tranquille », dit-elle, le ton était sévère mais elle dut
 ensuite fermer sa bouche et serrer ses lèvres fort l’une une contre
 l’autre et retenir sa respiration pour éviter que tout ne sorte.
 
@@ -201,7 +201,7 @@ s’attendait à ce que vous releviez le défi. Si vous étiez Hermione
 Granger et que Harry Potter vous battait, ça voulait juste dire que vous
 n’étiez personne.
 
-« Ça n’est pas juste, » dit-elle, sa voix tremblait mais elle ne pleurait
+« Ça n’est pas juste », dit-elle, sa voix tremblait mais elle ne pleurait
 pas, pas encore, « *je* ne devrais pas avoir à combattre ton côté obscur,
 je suis juste – je suis seulement — » et elle pensa : *j’ai seulement
 douze ans*.
@@ -257,7 +257,7 @@ n’avaient pas commencé mais il ne lui avait fallu que très peu de temps
 en poste à la tête de Gryffondor pour apprendre à suspendre son
 jugement. On pouvait toujours déduire des points *après*.
 
-« Entrez, » dit-elle d’une voix brusque.
+« Entrez », dit-elle d’une voix brusque.
 
 Il était clair que la jeune fille qui venait d’entrer dans son bureau
 avait récemment pleuré et avait ensuite lavé son visage dans l’espoir
@@ -267,11 +267,11 @@ que ce ne serait pas visible -
 moment pour reconnaître ce visage aux yeux rougis et aux joues gonflées.
 « Que s’est-il passé ? »
 
-« Professeur, » dit la jeune fille d’une voix vacillante, « vous avez dit
+« Professeur », dit la jeune fille d’une voix vacillante, « vous avez dit
 que si jamais j’étais inquiète ou que quelque chose me mettait mal à
 l’aise, je devrais venir vous voir immédiatement — »
 
-« Oui, » dit le professeur McGonagall, « alors que s’est-il *passé* ? »
+« Oui », dit le professeur McGonagall, « alors que s’est-il *passé* ? »
 
 La jeune fille commença à expliquer -
 
@@ -356,7 +356,7 @@ chaleur entrer dans ses joues ; mais Dumbledore ne sembla pas le moins
 du monde agacé, seulement serein, avec un regard curieux dans ses yeux
 doux surmontés de verres.
 
-« Hermione, » dit le professeur McGonagall, la voix de la vieille sorcière
+« Hermione », dit le professeur McGonagall, la voix de la vieille sorcière
 était douce et sa main reposait sur son épaule d’une façon rassurante,
 « s’il te plaît, dis au directeur ce que tu m’as dit au sujet de Harry. »
 
@@ -366,7 +366,7 @@ Harry avait changé pendant les quelques semaines depuis que Fumseck
 avait été sur son épaule.
 
 Il y eut un silence après qu’elle eut fini, puis le directeur soupira.
-« Je suis navré, mademoiselle Granger, » dit Dumbledore. Ses yeux bleus
+« Je suis navré, mademoiselle Granger », dit Dumbledore. Ses yeux bleus
 s’étaient attristés à mesure qu’elle avait parlé. « C’est… malheureux,
 mais je ne peux pas dire que ce soit inattendu. C’est le fardeau du
 héros que vous observez. »
@@ -375,13 +375,13 @@ héros que vous observez. »
 nervosité et vit que le visage du professeur de Métamorphose s’était
 pincé, même si sa main toujours rassurante serrait encore son épaule.
 
-« Oui, » dit Dumbledore. « J’étais moi-même un héros, avant d’être un vieux
+« Oui », dit Dumbledore. « J’étais moi-même un héros, avant d’être un vieux
 sorcier mystérieux, à l’époque où je combattais Grindelwald. Avez-vous
 lu des livres d’Histoire, Mlle Granger ? »
 
 Hermione hocha la tête.
 
-« Eh bien, » dit Dumbledore, « c’est ce que les héros doivent faire, Mlle
+« Eh bien », dit Dumbledore, « c’est ce que les héros doivent faire, Mlle
 Granger, ils ont des tâches, ils doivent grandir afin de pouvoir les
 accomplir et c’est cela que vous observez chez Harry. S’il y a quoi que
 ce soit qui puisse être fait pour adoucir son voyage, ce sera *vous* qui
@@ -397,7 +397,7 @@ devenu un peu plus vieux qu’avant. « Personne ne peut vous arrêter, Mlle
 Granger, si vous choisissez de ne plus être l’amie de Harry. Quant à ce
 que cela lui ferait, vous le savez probablement mieux que moi. »
 
-« Ça – n’a pas l’air *juste*, » dit Hermione d’une voix tremblante. « Que
+« Ça – n’a pas l’air *juste* », dit Hermione d’une voix tremblante. « Que
 je *doive* être l’amie de Harry parce qu’il n’a personne d’autre ? Ça
 n’a pas l’air *juste.* »
 
@@ -449,13 +449,13 @@ McGonagall l’avait amenée ici si le directeur ne l’aidait pas, et d’un
 coup d’œil vers cette dernière elle vit que cette dernière n’était
 probablement pas non plus certaine que cela ait été une bonne idée.
 
-« Je ne veux pas être une héroïne, » dit Hermione Granger, « je ne veux pas
+« Je ne veux pas être une héroïne », dit Hermione Granger, « je ne veux pas
 être le compagnon d’un héros, je veux juste être *moi*. »
 
 (Quelques secondes plus tard, elle songea qu’elle *voulait* être une
 héroïne mais elle décida de ne pas revenir sur ce qu’elle avait dit).
 
-« Ah, » répondit le vieux sorcier. « Voilà qui est fort difficile, Mlle
+« Ah », répondit le vieux sorcier. « Voilà qui est fort difficile, Mlle
 Granger. » Dumbledore se leva de son trône, s’écarta de son bureau et
 montra un symbole accroché au mur, un symbole si omniprésent que les
 yeux de Hermione étaient passés dessus dans le voir : un bouclier usé
@@ -465,15 +465,15 @@ compris la pertinence. Puis elle reprit conscience de l’emplacement du
 bouclier et de son apparence ancienne, et il lui vint soudain à l’esprit
 que cela pourrait bien être *l’original* -
 
-« Un Poufsouffle dirait, » continua Dumbledore, tapotant du doigt contre
+« Un Poufsouffle dirait », continua Dumbledore, tapotant du doigt contre
 le blaireau poli et faisant grimacer Hermione par ce sacrilège (si
 *c’était* bien l’original), « que les gens échouent à devenir ceux qu’ils
 sont destinés à être parce qu’ils sont trop paresseux pour fournir
-l’effort nécessaire. Un Serdaigle, » tapotant l’aigle, « répéterait ces
+l’effort nécessaire. Un Serdaigle », tapotant l’aigle, « répéterait ces
 mots que les sages savent être bien plus vieux que Socrate :
 *connais-toi toi-même*, et dirait que les gens échouent à devenir ceux
 qu’ils sont destinés à être par ignorance et manque de réflexion. Et
-Salazar Serpentard, » Dumbledore fronça les sourcils lorsque son doigt
+Salazar Serpentard », Dumbledore fronça les sourcils lorsque son doigt
 tapota le serpent poli, « eh bien, il dirait que nous devenons ceux que
 nous sommes destinés à être en suivant nos désirs partout où ils nous
 mènent. Peut-être dirait-il que les gens échouent à devenir eux-mêmes
@@ -489,7 +489,7 @@ La question ne semblait pas être difficile. « Un Gryffondor dirait que
 les gens ne deviennent pas ceux qu’ils sont censés être parce qu’ils ont
 peur. »
 
-« La plupart des gens *ont* peur, Mlle Granger, » dit le vieux sorcier.
+« La plupart des gens *ont* peur, Mlle Granger », dit le vieux sorcier.
 « Ils vivent leur vie entière restreints par la peur paralysante qui fait
 échouer tout ce qu’ils pourraient accomplir, tout ce qu’ils pourraient
 devenir. La peur de dire ou de faire ce qu’il ne faut pas, la peur de
@@ -508,10 +508,10 @@ Il y eut un long silence emplit par le bruit des choses qui ne pouvaient
 
 Elle y réfléchit, car elle était Serdaigle.
 
-« Je ne *pense* pas qu’il soit juste, » dit lentement Hermione, « que
+« Je ne *pense* pas qu’il soit juste », dit lentement Hermione, « que
 quelqu’un doive vivre ainsi dans l’ombre de quelqu’un d’autre… »
 
-« De nombreuses choses sont injuste en ce monde, » dit le vieux sorcier,
+« De nombreuses choses sont injuste en ce monde », dit le vieux sorcier,
 « la question est de savoir ce qu’il est juste que *vous* fassiez à leur
 sujet. Hermione Granger, je serais moins subtil que les vieux sorciers
 le sont habituellement et je vous annonce catégoriquement que vous ne
@@ -525,7 +525,7 @@ directeur attendait était très claire et elle refusait de la lui donner.
 « Qu’est-ce qui est *arrivé* à Harry Potter ce jour là, *pourquoi*
 Fumseck était-il sur son épaule ? »
 
-« Il a grandi, » dit le vieux sorcier. Il cligna plusieurs fois des yeux
+« Il a grandi », dit le vieux sorcier. Il cligna plusieurs fois des yeux
 sous les lunettes en demi-lunes et son visage eut soudain l’air très
 ridé. « Car voyez-vous, Mlle Granger, les gens ne grandissent pas avec le
 temps, ils grandissent en étant mis face à des situations d’adultes.
@@ -541,7 +541,7 @@ Il y eut un silence.
 si quelqu’un avait branché un câble électrique dans son oreille. « Vous
 allez le faire combattre *Bellatrix Black* ? »
 
-« Non, » dit le vieux sorcier. « Pas elle. Je ne puis vous dire qui, ni
+« Non », dit le vieux sorcier. « Pas elle. Je ne puis vous dire qui, ni
 pourquoi. »
 
 Elle y réfléchit un peu plus.
@@ -551,7 +551,7 @@ dit Hermione. « Je ne veux pas dire que c’est ce que je vais *faire* mais
 – s’il a besoin d’amis, alors est-ce qu’on peut être des amis *égaux* ?
 Est-ce que je peux être une héroïne moi aussi ? »
 
-« Ah, » dit le vieux sorcier, et il sourit. « Seul vous pouvez en décider,
+« Ah », dit le vieux sorcier, et il sourit. « Seul vous pouvez en décider,
 Mlle Granger. »
 
 « Mais vous n’allez pas m’aider comme vous avez aidé Harry. »
@@ -564,7 +564,7 @@ aurez assez de temps pour ça plus tard. »
 
 « J’ai douze ans. Harry en a *onze*. »
 
-« Harry Potter est spécial, » dit le vieux sorcier. « Comme vous le savez,
+« Harry Potter est spécial », dit le vieux sorcier. « Comme vous le savez,
 Mlle Granger. » Les yeux bleus devinrent soudain perçants derrière les
 lunettes en croissant de lune, et elle se souvint du jour du Détraqueur,
 quand la voix de Dumbledore lui avait révélé dans son esprit qu’il était
@@ -575,7 +575,7 @@ fermement restée sur son épaule pendant tout ce temps, et dit, surprise
 que sa voix ne se brise pas : « Je voudrais partir maintenant, s’il vous
 plaît. »
 
-« Bien sûr, » dit le professeur McGonagall, et Hermione sentit la main sur
+« Bien sûr », dit le professeur McGonagall, et Hermione sentit la main sur
 son épaule la tourner gentiment pour faire face à la porte de chêne.
 
 « Avez-vous déjà choisi votre voie, Hermione Granger ? » dit la voix
@@ -586,7 +586,7 @@ Elle hocha la tête.
 
 « Et ? »
 
-« Je ferai, » dit-elle, sa voix bloquée, « je ferai, je ferai — »
+« Je ferai », dit-elle, sa voix bloquée, « je ferai, je ferai — »
 
 Elle déglutit.
 
@@ -609,7 +609,7 @@ McGonagall* qui avait l’air d’être sur le point d’éclater en sanglots…
 pas vraiment, mais son visage était pincé d’une façon qui poussait à le
 croire.
 
-« Si je veux être une héroïne aussi, » dit Hermione, « si j’ai décidé d’en
+« Si je veux être une héroïne aussi », dit Hermione, « si j’ai décidé d’en
 être une moi aussi, y a-t-il quoi que ce soit que *vous* puissiez faire
 pour m’aider ? »
 
@@ -617,15 +617,15 @@ Le professeur secoua rapidement la tête et dit : « Mlle Granger, je ne
 sais pas si le directeur avait tort sur *ce* point. Vous *avez* douze
 ans. »
 
-« D’accord, » dit Hermione.
+« D’accord », dit Hermione.
 
 Elle fit quelques pas.
 
-« Excusez-moi, » dit Hermione, « ça vous embêterait que j’aille seule
+« Excusez-moi », dit Hermione, « ça vous embêterait que j’aille seule
 jusqu’à la tour Serdaigle ? Je suis désolée, ce n’est pas votre faute,
 c’est juste que je voudrais être seule pour l’instant. »
 
-« Bien sûr, Mlle Granger, » dit le professeur McGonagall d’une voix un peu
+« Bien sûr, Mlle Granger », dit le professeur McGonagall d’une voix un peu
 rauque, et Hermione entendit les pas de celle-ci qui s’arrêtaient et
 faisaient demi-tour.
 

@@ -33,7 +33,7 @@ mugissement de colère, son nez était aplatit et constellé de sang, mais
 alors le nez se redressa et se régénéra. Le troll lança ses deux mains
 vers le gourdin qui jaillit en l’air mais n’évita qu’à peine le geste.
 
-« Éloignez-le, gardez-le loin de moi, » dit une voix.
+« Éloignez-le, gardez-le loin de moi », dit une voix.
 
 Le gourdin en lévitation recula devant le troll, alla de la terrasse
 vers l’espace ouvert sous la toiture ; et le troll fit un bond
@@ -258,7 +258,7 @@ Puis elle expira et ferma les yeux.
 
 Harry la regarda, bouche mi-ouverte, sa respiration bloquée.
 
-« Ne fais pas ça, » dit sa voix. Il n’était arrivé que deux minutes trop
+« Ne fais pas ça », dit sa voix. Il n’était arrivé que deux minutes trop
 tard.
 
 Hermione eut une convulsion soudaine, ses bras se soulevèrent dans une
@@ -285,7 +285,7 @@ emplis d’horreur. « J’ai sentit qu’un élève mourrait ! Qu’est-ce�
 
 Les yeux du vieux sorcier virent ce qui gisait au sol.
 
-« Oh, non, » murmura Albus Dumbledore. Fumseck laissa échapper un chant
+« Oh, non », murmura Albus Dumbledore. Fumseck laissa échapper un chant
 triste et endeuillé.
 
 « Ramenez là. »
@@ -356,7 +356,7 @@ Hermione Granger.
 
 
 
-« La crise est terminée, » dit le professeur de Défense. « Vous pouvez
+« La crise est terminée », dit le professeur de Défense. « Vous pouvez
 descendre, Madame. »
 
 Trelawney, qui avait été assise derrière lui sur le balais pour deux qui

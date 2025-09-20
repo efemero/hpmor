@@ -96,7 +96,7 @@ gobelin âgé se contenta de les introduire dans un bref couloir qui
 s’achevait sur une petite salle d’attente où se trouvaient trois bancs à
 taille de gobelin et une chaise pour sorcier où personne ne s’assit.
 
-« Ne signe rien que Lucius Malefoy te tendra, » dit Maugrey Fol Œil.
+« Ne signe rien que Lucius Malefoy te tendra », dit Maugrey Fol Œil.
 « *Rien*, c’est compris mon gars ? Si Malefoy te tend une copie des
 *Merveilleuses Aventures du Survivant* et te demande ton autographe,
 dis-lui que tu t’es foulé un doigt. N’effleure même pas une plume tant
@@ -104,7 +104,7 @@ que tu seras à Gringotts. Si quelqu’un t’en tend une, casse-la et
 ensuite casse-toi les doigts. Est-ce que j’ai besoin de plus
 t’expliquer, petit ? »
 
-« Pas particulièrement, » dit Harry. « On a aussi des avocats en Angleterre
+« Pas particulièrement », dit Harry. « On a aussi des avocats en Angleterre
 Moldue et les nôtres penseraient que les vôtres sont très mignons. »
 
 Peu de temps après, Harry Potter remit sa baguette à un garde gobelin en
@@ -158,13 +158,13 @@ Lucius Malefoy parla d’abord, voix neutre, visage décidé. « Je ne
 comprends pas ce qui se passe à Poudlard, Harry Potter. Pourriez-vous me
 l’expliquer ? »
 
-« Je l’ignore, » dit Harry. « Si je comprenais ces événements, je ne les
+« Je l’ignore », dit Harry. « Si je comprenais ces événements, je ne les
 aurais pas laissés se produire, Lord Malefoy. »
 
 « Alors répondez à cette question. *Qui* êtes-vous ? »
 
 Harry contempla avec calme le visage de son créancier. « Je ne suis pas
-Vous-Savez-Qui, comme vous pensiez que je l’étais, » dit-il. N’étant pas
+Vous-Savez-Qui, comme vous pensiez que je l’étais », dit-il. N’étant pas
 *complètement* idiot, il avait finit par comprendre à qui Lucius pensait
 s’adresser devant tout le Magenmagot. « Je ne suis évidemment pas un
 garçon normal. De façon toute aussi évidente, cela a *probablement*
@@ -188,7 +188,7 @@ m’expliquiez, sur-le-champ, cette *démence absolue* dont vous êtes
 Harry se retourna vers Drago dont le visage alternait entre la contrôle
 de soi-même et une grande nervosité.
 
-« Moi aussi, » dit Drago d’une voix aiguë et vacillante, « j’aimerais
+« Moi aussi », dit Drago d’une voix aiguë et vacillante, « j’aimerais
 comprendre, Potter. »
 
 Harry ferma les yeux et parla sans regarder. « Un garçon élevé par des
@@ -203,7 +203,7 @@ croyances vraies ou fausses… »
 
 « Tu m’as menti. »
 
-Harry ouvrit les yeux et regarda Drago. « Je préférerais dire, » répondit
+Harry ouvrit les yeux et regarda Drago. « Je préférerais dire », répondit
 Harry d’une voix pas tout à fait assurée, « que les choses que je t’ai
 dites étaient vraies d’un certain point de vue. »
 
@@ -213,7 +213,7 @@ d’humeur à accepter les excuses d’Obi-Wan. « Il y a un mot pour les
 choses vraies d’un certain point de vue. On les appelle des
 *mensonges !* »
 
-« Ou des ruses, » dit Harry d’un ton neutre. « Des affirmations
+« Ou des ruses », dit Harry d’un ton neutre. « Des affirmations
 techniquement vraies mais qui trompent l’auditeur, qui le poussent à
 former des croyances fausses. Je pense que la distinction mérite d’être
 faite. Ce que je t’ai dit était une prophétie auto-réalisatrice ; tu as
@@ -224,7 +224,7 @@ peuvent pas se forcer à croire que bleu est vert par la seule force de
 leur volonté, mais ils *croient* qu’ils en sont capables, et ça peut
 être presque aussi grave. »
 
-« Tu m’as *utilisé*, » dit Drago Malefoy.
+« Tu m’as *utilisé* », dit Drago Malefoy.
 
 « Seulement d’une façon qui t’a rendu plus fort. C’est ça, être utilisé
 par un ami. »
@@ -235,7 +235,7 @@ Lucius Malefoy parla de nouveau. « Dans quel but ? À quelle fin ? » M
 voix de Malefoy senior n’était pas très stable. « *Pourquoi ?* »
 
 Harry l’observa un moment puis se tourna vers Drago. « Ton père ne va
-probablement pas y croire, » dit Harry. « Mais toi, Drago, tu devrais être
+probablement pas y croire », dit Harry. « Mais toi, Drago, tu devrais être
 capable de voir que tout ce qui s’est produit est compatible avec cette
 hypothèse. Et qu’une hypothèse plus cynique n’expliquerait pas pourquoi
 je n’ai pas plus insisté quand tu pensais que j’avais l’avantage sur
@@ -244,11 +244,11 @@ maison Malefoy, que l’on avait vu attraper une née-Moldue pour l’empêcher
 de tomber du toit de Poudlard, serait un bon candidat du compromis,
 capable de diriger l’Angleterre magique après la réformation. »
 
-« Vous souhaitez donc me faire croire, » dit Lucius Malefoy d’un filet de
+« Vous souhaitez donc me faire croire », dit Lucius Malefoy d’un filet de
 voix, « que vous prétendez être fou. Bien, mettons cela de côté.
 Dites-moi qui a lâché le troll dans Poudlard. »
 
-« Je l’ignore, » dit Harry.
+« Je l’ignore », dit Harry.
 
 « Dites-moi qui vous *soupçonnez*, Harry Potter. »
 
@@ -303,7 +303,7 @@ porté à mon attention, je vois que c’est tout à fait plausible. Bien sûr
 que *vous* avez tué Hermione Granger, tout comme vous avez menacé de le
 faire devant tout le Magenmagot. »
 
-« Absolument pas, » dit Lucius Malefoy, son visage à nouveau insondable.
+« Absolument pas », dit Lucius Malefoy, son visage à nouveau insondable.
 
 Harry découvrit une fois de plus ses dents par ce non-sourire. « Eh bien
 dans *ce* cas, quelqu’un *d’autre* doit avoir tué Hermione après s’être
@@ -325,7 +325,7 @@ devrait pouvoir en témoigner, oubliez ça. »
 
 Lucius Malefoy se rassit dans sa chaise et contempla Harry.
 
-« J’ai essayé de vous le dire, Père, » dit Drago dans un souffle, « mais
+« J’ai essayé de vous le dire, Père », dit Drago dans un souffle, « mais
 personne ne peut imaginer à quoi ressemble Harry Potter avant de l’avoir
 *rencontré*… »
 
@@ -337,17 +337,17 @@ lui-même. « Je ne pensais pas qu’un journal serait capable de mentionner
 un concept tel que « Soit X est vrai, soit Y est vrai, mais nous ignorons
 lequel. » Je me serais attendu à ce que les journalistes écrivent des
 articles ne contenant que des propositions atomiques, comme « X est
-vrai, » ou « Y est faux, » ou « X est vrai et Y est faux ». Mais pas des
+vrai », ou « Y est faux », ou « X est vrai et Y est faux ». Mais pas des
 connecteurs logiques plus complexes comme « Si X est vrai alors Y est
 vrai mais nous ne savons pas si X est vrai. » Et tous ceux qui vous
 soutiennent risqueraient de passer rapidement de « On ne peut pas prouver
-que Lucius Malefoy a tué Granger, quelqu’un d’autre a pu faire le coup, »
+que Lucius Malefoy a tué Granger, quelqu’un d’autre a pu faire le coup »,
 à « On ne peut pas prouver qu’il y avait quelqu’un d’autre pour faire
 accuser Granger » tant qu’ils ne seraient pas certains de devoir essayer
 d’avoir raison sur les deux tableaux… attendez, est-ce que vous ne
 *possédez* pas la Gazette du Sorcier ? »
 
-« La Gazette du Sorcier, » dit Lucius Malefoy d’une voix mince, « que je ne
+« La Gazette du Sorcier », dit Lucius Malefoy d’une voix mince, « que je ne
 possède certainement pas, est bien trop respectable pour publier de
 telles inepties calomnieuses. Malheureusement, tous les sorciers
 influents ne sont pas aussi raisonnables. »
@@ -384,7 +384,7 @@ combattre. Ce pourrait être la seule chose que l’ennemi ne s’attend pas
 Il y eut un bref silence dans la pièce, exception faite des deux gardes
 gobelins qui continuèrent de respirer comme si de rien n’était.
 
-« Vous *êtes* fou, » dit Lucius Malefoy avec froideur.
+« Vous *êtes* fou », dit Lucius Malefoy avec froideur.
 
 « Ce ne serait que justice, Lucius Malefoy. Vous ne pouvez certainement
 pas attendre de moi que je coopère tandis que vous contrôlez la richesse
@@ -420,7 +420,7 @@ je vous paierait la somme risible que je vous dois. Ou peut-être que les
 Mangemorts seront à nouveau jugés pour leurs crimes passés puis exécutés
 en toute justice suite à un procès, légal évidemment. »
 
-« Vous êtes vraiment fou, » dit doucement Lucius Malefoy. « Vous n’avez ni
+« Vous êtes vraiment fou », dit doucement Lucius Malefoy. « Vous n’avez ni
 pouvoir ni fortune, et pourtant vous parlez ainsi devant moi. »
 
 « Oui, c’est bête d’imaginer que je pourrais vous faire peur. Après tout,
@@ -453,7 +453,7 @@ chemin. Celui qui a lancé le troll après Hermione devra t’avoir aussi
 pris pour cible et t’avoir frappé d’une malédiction qui transforme les
 anciens Mangemorts en un tas de boue. Que c’est triste.*
 
-« Père, » dit Drago d’une petite voix. « Je pense que vous devriez
+« Père », dit Drago d’une petite voix. « Je pense que vous devriez
 réfléchir à cette offre, père. »
 
 Lucius Malefoy regarda son fils. « Tu veux rire. »
@@ -470,35 +470,35 @@ pas d’argent, il s’agit de ce qu’il appelle l’honneur. »
 
 Harry Potter inclina la tête. Il souriait toujours.
 
-« Mais soyons clair sur un point, » dit Drago en le regardant droit dans
+« Mais soyons clair sur un point », dit Drago en le regardant droit dans
 les yeux. Une lueur féroce brillait dans ses yeux. « *Tu m’as trompé.* Et
 *tu es mon débiteur*. »
 
-« Je l’admets, » dit doucement Harry. « Mais cela dépend bien sûr du
+« Je l’admets », dit doucement Harry. « Mais cela dépend bien sûr du
 reste. »
 
 Lucius Malefoy ouvrit la bouche pour dire quelque chose et la referma.
-« Fou, » répéta-t-il.
+« Fou », répéta-t-il.
 
 Il y eut un long débat entre le père et le fils pendant lequel Harry
 demeura silencieux.
 
 Puis les yeux de Lucius Malefoy se tournèrent enfin vers Harry. « Et vous
-croyez, » dit Lucius Malefoy, « que vous pouvez persuader Londubat et Bones
+croyez », dit Lucius Malefoy, « que vous pouvez persuader Londubat et Bones
 de vous suivre même si Dumbledore s’y oppose. »
 
 Harry hocha la tête. « Ils vous soupçonneront d’être responsable, bien
 sûr. Mais je leur dirai que c’était mon plan depuis le début, cela
 devrait aider. »
 
-« J’imagine, » dit Lucius Malefoy au bout d’un moment, « que je pourrais
+« J’imagine », dit Lucius Malefoy au bout d’un moment, « que je pourrais
 faire rédiger un contrat vous absolvant de *presque* tout le reste de
 votre dette, si je venais à adhérer à cette idée folle. J’aurai bien sûr
 besoin de plus de garanties… »
 
 Harry fouilla promptement dans ses robes et en sortit un parchemin qu’il
 déplia et étala sur la table d’or. « À vrai dire, j’ai pris la liberté de
-le faire, » dit Harry. Il avait passé quelques heures studieuses dans la
+le faire », dit Harry. Il avait passé quelques heures studieuses dans la
 bibliothèque de Poudlard avec les livres de droit disponibles.
 Heureusement, Harry avait cru constater que les lois d’Angleterre
 magique étaient d’une charmante simplicité comparées à leurs
@@ -517,7 +517,7 @@ Lucius lit le contrat et sourit sans gaieté. « C’est d’une simplicité
 charmante. »
 
 « J’ai aussi promis de ne pas toucher de plume tant que je serai à
-Gringotts, » dit Harry. Il fouilla dans ses robes et en sortit un stylo
+Gringotts », dit Harry. Il fouilla dans ses robes et en sortit un stylo
 Moldu et une feuille de papier normale. « Cette formulation vous
 conviendra-t-elle ? » Harry griffonna rapidement une note telle qu’un
 avocat aurait pu l’écrire qui disait que la maison Potter ne tenait pas
@@ -538,7 +538,7 @@ Lorsqu’il eut fini, Lord Malefoy tendit son bras au-dessus de la table,
 saisit le stylo et le regarda pensivement. « L’un de vos ustensiles
 moldus, je suppose ? Que fait celui-ci, fils ? »
 
-« Il écrit sans encrier, » répondit Drago.
+« Il écrit sans encrier », répondit Drago.
 
 « Je peux le constater. J’imagine que certains pourraient voir là un
 amusant colifichet. » Lucius aplanit le contrat à la surface de la table,
@@ -549,7 +549,7 @@ Harry s’arracha à ce spectacle et regarda le visage Lucius Malefoy. Il se
 força à respirer de façon régulière mais ne parvint pas tout à fait à
 empêcher ses muscles de se tendre.
 
-« Notre bon ami, Severus Rogue, » dit Lucius Malefoy en tapotant toujours
+« Notre bon ami, Severus Rogue », dit Lucius Malefoy en tapotant toujours
 son stylo sur la ligne qui attendait sa signature. « Le professeur de
 Défense, qui se fait appeler Quirrell. Je vous le demande à nouveau :
 qui est votre troisième suspect, Harry Potter ? »
@@ -565,7 +565,7 @@ souhaitez que cette affaire se poursuive. »
 Harry hésita puis il dit d’un ton neutre : « Mon troisième suspect est
 Albus Dumbledore. »
 
-Le stylo se figea sur le parchemin. « Une étrange allégation, » dit Lucius
+Le stylo se figea sur le parchemin. « Une étrange allégation », dit Lucius
 d’une voix traînante. « Dumbledore a grandement perdu la face quand une
 élève de l’école qu’il dirige est morte. Pensez-vous que je croirais
 n’importe quoi le concernant, simplement parce qu’il est mon ennemi ? »
@@ -616,9 +616,9 @@ quelque chose comme ça ? »
 « Est-ce que le sortilège d’étourdissement fonctionne sur les
 hippogriffes ? » dit lentement Harry.
 
-« Je ne sais pas, » dit Drago.
+« Je ne sais pas », dit Drago.
 
-« Oui, » dit Lucius Malefoy.
+« Oui », dit Lucius Malefoy.
 
 *Comparé à essayer de bien ajuster un Wingardium Leviosa et un Finite
 Incantatem…* « Alors le sortilège d’étourdissement serait un meilleur
@@ -629,10 +629,10 @@ sang mais dotée d’une peau résistante à la magie. « Mais… enfin, la ch
 aurait pu ne pas être *censée* servir d’arme, je l’ai utilisé d’une
 façon étrange, ça aurait pu n’être qu’une de ses lubie… »
 
-« Non, » dit lentement Lucius Malefoy. « *Pas* une lubie. Pas une
+« Non », dit lentement Lucius Malefoy. « *Pas* une lubie. Pas une
 coïncidence. Pas Dumbledore. »
 
-« Alors, c’est lui, » dit Drago. Ses yeux se plissèrent lentement et il
+« Alors, c’est lui », dit Drago. Ses yeux se plissèrent lentement et il
 eut un hochement de tête mauvais. « C’est lui *depuis le début*. Le
 Legilimens de la cour a *dit* que quelqu’un avait utilisé la
 Légilimancie sur Granger. Dumbledore a *admit* que c’était lui. Et je
@@ -655,7 +655,7 @@ les suspects, le seul qui désire *ça*, c’est Dumbledore. Donc ça colle.
 *Tout* colle. Celui qui a vraiment commis ce meurtre est… Albus
 Dumbledore ! »
 
-« Euh, » dit Harry. « Mais pourquoi me donner un arme anti-troll à *moi* ?
+« Euh », dit Harry. « Mais pourquoi me donner un arme anti-troll à *moi* ?
 J’ai dit que c’était suspect mais je n’ai pas dit que ça avait le
 moindre sens. »
 
@@ -686,13 +686,13 @@ Mais quelqu’un à la limite de la sénilité aurait pu *s’attendre* à ce
 qu’il marche et un phénix était peut-être incapable de faire la
 différence.
 
-« Ou, » continua Drago en déambulant toujours, « peut-être que Dumbledore a
+« Ou », continua Drago en déambulant toujours, « peut-être que Dumbledore a
 un troll enchanté sous le coude et qu’il s’attendait à ce que tu le
 vainques une autre fois, lors d’un autre plan, mais qu’il a fini par
 décider d’utiliser le troll contre Granger. Je ne peux pas imaginer que
 Dumbledore avait prévu *tout* ça depuis notre première semaine d’école… »
 
-« Je peux l’imaginer, » dit Lucius Malefoy d’un ton bas. « J’ai déjà vu
+« Je peux l’imaginer », dit Lucius Malefoy d’un ton bas. « J’ai déjà vu
 chose semblable, venant de Dumbledore. »
 
 Drago eut un hochement de tête appuyé. « Alors je n’ai jamais été *censé*
@@ -710,14 +710,14 @@ Lucius Malefoy leva ses yeux verts après avoir regardé son fils avec une
 surprise non dissimulée. « Si c’est vrai… mais je me demande si Harry
 Potter ne fait que simuler sa réticence à y croire. »
 
-« Peut-être, » dit Drago. « Mais je suis à peu près sûr que non. »
+« Peut-être », dit Drago. « Mais je suis à peu près sûr que non. »
 
 « Alors, si c’est vrai… » la voix de Lucius Malefoy demeura en suspens. Une
 lente furie s’allumait dans ses yeux.
 
 « Que *ferions-nous*, exactement ? » dit Harry.
 
-« Cela aussi me semble clair, » dit Drago. Il fit un demi-tour et leva un
+« Cela aussi me semble clair », dit Drago. Il fit un demi-tour et leva un
 doigt en l’air. « Nous trouverons la preuve de la culpabilité de
 Dumbledore et le présenterons à la justice ! »
 
@@ -725,7 +725,7 @@ Harry Potter et Lucius Malefoy se regardèrent.
 
 Aucun des deux ne savait tout à fait quoi répondre.
 
-« Mon fils, » dit Lucius Malefoy après un moment, « tu as vraiment beaucoup
+« Mon fils », dit Lucius Malefoy après un moment, « tu as vraiment beaucoup
 accompli aujourd’hui. »
 
 « Merci, Père ! »
@@ -736,7 +736,7 @@ procès. »
 
 Les yeux de Drago se ternirent un peu. « Oh. »
 
-« Je, ah, j’ai un certain faible pour les procès, » lança Harry. *Je
+« Je, ah, j’ai un certain faible pour les procès », lança Harry. *Je
 n’arrive pas à croire que je suis vraiment en train de parler de ça*. Il
 avait besoin de rentrer chez lui puis de prendre un papier et un crayon
 pour voir si le raisonnement de Drago se tenait *vraiment*. « Et pour les
@@ -745,7 +745,7 @@ preuves. »
 Lucius Malefoy se retourna alors vers Harry Potter ; ses yeux
 étincelaient d’une furie grise.
 
-« Si vous m’avez trompé, » dit Lucius Malefoy d’un ton de colère sourde,
+« Si vous m’avez trompé », dit Lucius Malefoy d’un ton de colère sourde,
 « si tout ceci est un mensonge, alors je ne vous pardonnerai pas. Mais si
 ce n’en est pas une… amenez-moi la preuve nécessaire à condamner
 Dumbledore devant le Magenmagot, ou la preuve nécessaire à le renverser,
@@ -757,13 +757,13 @@ calculer les vraies probabilités mais il n’en avait pas le *temps*. « Si
 *c’est* Dumbledore, alors le retirer de l’échiquier créera un immense
 trou dans la structure du pouvoir d’Angleterre. »
 
-« Effectivement, » dit Lucius Malefoy avec un sombre sourire. « Aviez-vous
+« Effectivement », dit Lucius Malefoy avec un sombre sourire. « Aviez-vous
 l’ambition de le combler vous-même, Harry Potter ? »
 
 « Une partie de vos opposants pourrait ne pas apprécier. Ils pourraient
 vous combattre. »
 
-« Ils perdront, » dit Lucius Malefoy ; et son visage avait à présent la
+« Ils perdront », dit Lucius Malefoy ; et son visage avait à présent la
 dureté de l’acier.
 
 « Alors voilà ce que je voudrais que la maison Malefoy fasse pour moi,
@@ -823,7 +823,7 @@ de sueur sur le front.
 « Est-ce que tu as signé quelque chose ? » demanda immédiatement Maugrey.
 
 Harry Potter le regarda en silence puis fouilla dans ses robes et en
-sortit un parchemin plié. « Les gobelins mettent déjà celui-ci en œuvre, »
+sortit un parchemin plié. « Les gobelins mettent déjà celui-ci en œuvre »,
 dit Harry Potter. « Ils en ont fait trois copies avant que je parte. »
 
 « MERLIN SOIT MAUDIT, PETIT… » Maugrey s’arrêta quand son Œil perçut la

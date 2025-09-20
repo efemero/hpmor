@@ -65,7 +65,7 @@ Et elle ne *luisait toujours pas*.
 
 « Je peux m’arrêter maintenant ? » dit Hermione.
 
-« Es-tu certaine, » dit Harry à travers ce qui semblait être un pavé
+« Es-tu certaine », dit Harry à travers ce qui semblait être un pavé
 coincé dans sa gorge, « que tu ne pourrais pas les faire luire, avec un
 peu plus de pratique ? » Il violait la procédure expérimentale qu’il
 avait écrite à l’avance, ce qui était un péché, et il la violait parce
@@ -179,7 +179,7 @@ décrire la clarté de l’écran, Blondlot aurait dû s’assurer que
 l’assistant ne savait *ni* ce qu’il essayait ni quand il l’essayait. Ça
 aurait pu être aussi simple que ça.
 
-De nos jours on appelait ça « en aveugle, » et c’était une des choses que
+De nos jours on appelait ça « en aveugle », et c’était une des choses que
 les scientifiques modernes considéraient comme acquises. Si vous faisiez
 une expérience de psychologie pour voir si les gens se mettaient plus en
 colère quand on les frappait sur la tête avec des matraques rouges
@@ -275,7 +275,7 @@ souffrirait de combustion spontanée.
 *Bam. Bam. Bam.*
 
 II semblait que l’univers voulait *vraiment* que vous disiez « Wingardium
-Leviosa, » et il voulait que vous le disiez d’une certaine façon, et il
+Leviosa », et il voulait que vous le disiez d’une certaine façon, et il
 se fichait tout autant de *votre* opinion sur la prononciation correcte
 du sort que de votre opinion sur la gravité.
 
@@ -318,12 +318,12 @@ qui irradiait de derrière lui comme une épouvantable pression sur sa
 peau, un peu comme s’il avait su qu’il était suivi par un tueur en série
 mais en *pire*.
 
-« Dis-le, » dit Harry.
+« Dis-le », dit Harry.
 
-« Je *n’allais* pas le dire, » dit la voix sympathique de Hermione
+« Je *n’allais* pas le dire », dit la voix sympathique de Hermione
 Granger. « Ça ne semblait pas être gentil. »
 
-« Finissons-en, » dit Harry.
+« Finissons-en », dit Harry.
 
 « D’accord ! Alors tu m’as fait ce *long cours magistral* en me disant à
 quel point c’était difficile de pratiquer la science la plus simple, et
@@ -365,7 +365,7 @@ test* n’avait pas falsifié la théorie initiale.
 
 Harry n’arrivait pas à croire qu’il avait été aussi stupide.
 
-« Laisse-moi me corriger, » dit Harry. « Je dois concevoir *une* nouvelle
+« Laisse-moi me corriger », dit Harry. « Je dois concevoir *une* nouvelle
 expérience. Je te dirai quand je l’ai, et nous la ferons, et alors je
 concevrai la suivante. Qu’est-ce que tu en penses ? »
 
@@ -374,10 +374,10 @@ rien. »
 
 *Bam.* Oh. Il y avait été un peu plus fort que prévu.
 
-« Donc, » dit Hermione. Elle était penchée dans sa chaise et l’air hautain
+« Donc », dit Hermione. Elle était penchée dans sa chaise et l’air hautain
 était de retour sur son visage. « Qu’avons-nous appris aujourd’hui ? »
 
-« J’ai découvert, » dit Harry à travers ses dents serrées, « que quand il
+« J’ai découvert », dit Harry à travers ses dents serrées, « que quand il
 s’agit de faire des recherches vraiment élémentaires sur un problème
 réellement déroutant où on n’a pas la moindre idée de ce qui se passe,
 mes livres sur la méthode scientifique sont de la merde — »
@@ -396,7 +396,7 @@ subvention aux yeux d’une agence de financement. Vérifie juste aussi
 vite que possible si tes idées sont fausses avant de commencer à y
 investir d’immenses efforts. Que penses-tu de cette morale ? »
 
-« Mmm… d’accord, » dit Hermione. « Mais j’espérais aussi quelque chose
+« Mmm… d’accord », dit Hermione. « Mais j’espérais aussi quelque chose
 comme “les livres de Hermione ne sont pas sans valeur. Ils sont écrits
 par de sages vieux sorciers qui en savent beaucoup plus long sur la
 magie que moi. Je devrais prêter attention à ce que disent les livres de
@@ -436,13 +436,13 @@ avoir le moindre doute quant à l’humeur appropriée.
 
 Harry Potter avait l’air d’être prêt à tuer quelqu’un.
 
-« Hermione Granger, » dit Harry Potter alors que Drago ouvrait la bouche.
+« Hermione Granger », dit Harry Potter alors que Drago ouvrait la bouche.
 « *Ne pose pas de questions*. »
 
 *Il n’aurait pas été à un deuxième rendez-vous galant quand même ?*
 pensa Drago, mais ça n’avait aucun sens.
 
-« Harry, » dit Drago, « je suis désolé, mais je dois quand même te
+« Harry », dit Drago, « je suis désolé, mais je dois quand même te
 demander, as-tu *vraiment* commandé une bourse en peau de Moke très
 coûteuse pour l’anniversaire de la fille sang-de-bourbe ? »
 
@@ -452,7 +452,7 @@ Mû par un sentiment de frustration, Drago leva son bras et se ratissa le
 cuir chevelu, sa houppelande frottant l’arrière de sa main. Il n’avait
 *pas* été certain de la raison, mais maintenant il ne pouvait pas le
 dire. Et Serpentard *savait* qu’il faisait la cour à Harry Potter, il
-avait rendu cela évident en cours de Défense. « Harry, » dit Drago, « les
+avait rendu cela évident en cours de Défense. « Harry », dit Drago, « les
 gens savent que je suis ton ami, ils ne sont pas au courant pour la
 Conspiration, bien sûr, mais ils savent qu’on est amis, et quand tu fais
 ce genre de choses, ça nuit à *mon* image. »
@@ -462,7 +462,7 @@ pas comprendre le concept consistant à agir de façon gentille envers
 quelqu’un que l’on aime pas réellement devrait être donné à manger à des
 serpents de compagnie. »
 
-« Il y a beaucoup de gens à Serpentard qui ne le *comprennent pas*, » dit
+« Il y a beaucoup de gens à Serpentard qui ne le *comprennent pas* », dit
 Drago avec sérieux. « La plupart des gens sont stupides, et il faut quand
 même avoir une bonne image auprès d’eux. » Harry Potter *devait*
 comprendre ça s’il voulait parvenir à quoi que ce soit dans sa vie.
@@ -480,7 +480,7 @@ la dignité d’un Malefoy que de devoir les satisfaire. »
 Drago n’y avait sincèrement pas pensé. Jamais. Satisfaire les idiots,
 c’était comme de respirer, vous le faisiez sans réfléchir.
 
-« Harry, » finit par dire Drago. « Ce n’est pas malin de juste faire ce que
+« Harry », finit par dire Drago. « Ce n’est pas malin de juste faire ce que
 tu veux sans te soucier de l’image que ça donne. Le Seigneur des
 Ténèbres se souciait de son image ! Il était craint et haï, il savait
 *exactement* quelle sorte de peur et de haine il voulait créer. *Tout le
@@ -502,7 +502,7 @@ soucier de ce qu’ils pensent de la façon dont je conduis mon duel avec
 Hermione Granger. »
 
 Drago ne ferma pas ses poings sous l’effet de la frustration. « C’est
-juste une sang-de-bourbe, » dit Drago, se maîtrisant pour garder sa voix
+juste une sang-de-bourbe », dit Drago, se maîtrisant pour garder sa voix
 calme et pour ne pas crier. « Si tu ne l’aimes pas, pousse-la dans les
 escaliers. »
 
@@ -531,7 +531,7 @@ le reste de ma vie à satisfaire des demeurés !* »
 Ils s’arrêtèrent tous les deux, et, presque parfaitement à l’unisson,
 commencèrent à prendre de profondes inspirations pour se calmer.
 
-« Désolé, » dit Harry après quelques moments, essuyant de la sueur de son
+« Désolé », dit Harry après quelques moments, essuyant de la sueur de son
 front. « Désolé, Drago. Tu as beaucoup de pouvoir politique et c’est
 logique que tu veuilles le conserver. Tu *devrais* analyser ce que
 Serpentard pense. C’est un jeu important et je n’aurais pas dû
@@ -543,7 +543,7 @@ dents tout en prétendant être mon ami. »
 C’était exactement ce que Drago *avait* dit à Serpentard, et il ne
 savait toujours pas si c’était vrai.
 
-« De toute façon, » dit Drago. « En parlant de ton image. J’ai peur d’avoir
+« De toute façon », dit Drago. « En parlant de ton image. J’ai peur d’avoir
 de mauvaises nouvelles. Rita Skeeter a entendu certaines histoires te
 concernant et elle a été poser des questions. »
 
@@ -557,7 +557,7 @@ Rita Skeeter parle des célébrités, et comme elle le dit, elle utilise sa
 plume pour crever leur réputations surfaites. Si elle ne peut pas
 trouver de rumeur te concernant, elle s’en fabriquera une. »
 
-« Je *vois*, » dit Harry Potter. Sous la houppelande, son visage verdâtre
+« Je *vois* », dit Harry Potter. Sous la houppelande, son visage verdâtre
 semblait fort pensif.
 
 Drago hésita quant à ce qu’il devait dire ensuite. Quelqu’un devait déjà
@@ -576,7 +576,7 @@ Jouer au jeu avec Père était une sensation plutôt déroutante. Même s’ils
 savait aussi qu’à la fin, il s’avérerait que Père avait mieux joué que
 lui. Il était impossible que ça finisse autrement.
 
-« Harry, » dit enfin Drago. « Ce n’est pas une suggestion. Ce n’est pas mon
+« Harry », dit enfin Drago. « Ce n’est pas une suggestion. Ce n’est pas mon
 conseil. C’est juste une information. Mon père pourrait presque
 certainement étouffer cet article. Mais il t’en coûterait. »
 
@@ -590,7 +590,7 @@ houppelande. « Je n’ai aucune intention d’étouffer Rita Skeeter. »
 Drago n’essaya même pas de cacher son incrédulité. « Tu ne *peux pas* me
 dire que tu ne te soucies pas de ce qu’un *journal* dit sur toi ! »
 
-« Je m’en soucie moins que tu ne pourrais le penser, » dit Harry Potter.
+« Je m’en soucie moins que tu ne pourrais le penser », dit Harry Potter.
 « Mais j’ai mes propres méthodes pour traiter avec Skeeter et ses
 semblables. Je n’ai pas besoin de l’aide de Lucius. »
 
@@ -618,12 +618,12 @@ tremblante, et il la rangea dans ses robes.
 Toute la pièce était sensiblement plus fraîche. Drago aurait aussi pu le
 faire, mais quand même, pas mal.
 
-« Donc, » dit Drago. « La Science. Tu vas me parler du sang. »
+« Donc », dit Drago. « La Science. Tu vas me parler du sang. »
 
-« Nous allons *découvrir* le sang, » dit Harry Potter. « En faisant des
+« Nous allons *découvrir* le sang », dit Harry Potter. « En faisant des
 expériences. »
 
-« Très bien, » dit Drago. « Quel genre d’expériences ? »
+« Très bien », dit Drago. « Quel genre d’expériences ? »
 
 De sous sa houppelande, Harry Potter sourit d’un air maléfique : « À toi
 de me le dire. »
@@ -726,7 +726,7 @@ Drago avait été forcé d’admettre que Harry marquait un point.
 
 D’où la méthode Harry Potter.
 
-« S’il vous plaît, Dr. Malefoy, » pleurnicha Harry Potter, « pourquoi
+« S’il vous plaît, Dr. Malefoy », pleurnicha Harry Potter, « pourquoi
 n’acceptez-vous pas mon article ? »
 
 Harry Potter avait dû répéter la phrase « fais juste semblant de faire
@@ -742,7 +742,7 @@ Harry Potter était alors entré dans des détails considérables : Drago
 devait faire semblant d’être Dr. Malefoy, un Mangemort faisant semblant
 d’être rédacteur en chef d’une revue scientifique qui voulait rejeter
 l’article de son ennemi le Dr. Potter, « De la transmission héréditaire
-des capacités magiques, » et si le Mangemort ne se comportait pas comme
+des capacités magiques », et si le Mangemort ne se comportait pas comme
 l’aurait fait un vrai scientifique, sa nature de Mangemort serait
 révélée et il serait exécuté ; en même temps, le Dr. Malefoy était aussi
 observé par ses propres rivaux et il devait *avoir l’air* de rejeter
@@ -759,7 +759,7 @@ Pour l’instant, comme Harry Potter avait dit, ils se mettaient dans
 l’ambiance.
 
 « Dr. Potter, j’ai bien peur que vous ayez écrit ceci avec une encre de
-la mauvaise couleur, » dit Drago. « Suivant ! »
+la mauvaise couleur », dit Drago. « Suivant ! »
 
 Le visage du Dr. Potter se débrouilla très bien pour se décomposer sous
 l’effet du désespoir et Drago ne put s’empêcher de ressentir un éclair
@@ -791,7 +791,7 @@ impressionnantes que celles que les sorciers faisaient il y a 800 ans.*
 *Le monde sorcier est devenu plus faible en mêlant son sang à celui des
 nés-Moldu et des Cracmols.*
 
-« Dr. Malefoy, » dit le Dr. Potter en le regardant avec espoir, « je me
+« Dr. Malefoy », dit le Dr. Potter en le regardant avec espoir, « je me
 demandais si la *Revue des Résultats Impossibles à Reproduire* pourrait
 envisager la publication de mon article intitulé “De la transmission
 héréditaire des capacités magiques”. »
@@ -800,7 +800,7 @@ Drago regarda le parchemin, souriant pendant qu’il envisageait des
 motifs de refus possibles. S’il avait été un professeur, il aurait
 rejeté cet essai parce qu’il était trop court, donc…
 
-« C’est trop long, Dr. Potter, » dit le Dr. Malefoy.
+« C’est trop long, Dr. Potter », dit le Dr. Malefoy.
 
 Pendant un instant on put voir une véritable incrédulité sur le visage
 du Dr. Potter.
@@ -813,7 +813,7 @@ conséquent”* — »
 
 Le Dr. Potter s’éloigna en traînant les pieds.
 
-« Très bien, » dit Harry Potter, « tu deviens *trop bon* à ce jeu. Encore
+« Très bien », dit Harry Potter, « tu deviens *trop bon* à ce jeu. Encore
 deux fois pour t’entraîner, et la troisième fois ce sera pour de vrai,
 sans interruptions, je viendrai juste te voir et cette fois-ci tu
 refuseras le papier à cause de son véritable contenu, souviens-toi, tes
@@ -909,7 +909,7 @@ attrapa la même plume et le même rouleau de parchemin qu’il avait
 utilisé pour écrire son prétendu article, et il commença à griffonner
 quelque chose.
 
-« On arrivera à le comprendre, » dit Harry, la gorge serrée, « si la magie
+« On arrivera à le comprendre », dit Harry, la gorge serrée, « si la magie
 disparaît, on trouvera à quelle vitesse elle s’en va, et combien de
 temps il nous reste pour faire quelque chose, et alors on trouvera
 pourquoi elle disparaît, et on fera quelque chose. Drago, les pouvoirs
@@ -927,7 +927,7 @@ Drago essayait frénétiquement de réfléchir. « J’ai toujours entendu dir
 que personne n’a été aussi bon que Merlin, et après ça, personne n’a été
 aussi bon que les fondateurs de Poudlard. »
 
-« Très bien, » dit Harry. Il griffonnait toujours. « Parce les Moldus ont
+« Très bien », dit Harry. Il griffonnait toujours. « Parce les Moldus ont
 commencé à ne plus croire à la magie il y a trois siècles, et je pensais
 que ça aurait pu avoir un rapport. Et il y a environ un siècle et demi,
 les Moldus ont commencé à utiliser un genre de technologie qui arrête de
@@ -973,7 +973,7 @@ faire. Mais si ça allait avoir lieu *de toute façon*, et si tous ces
 sacrifices, tous les amis perdus victimes de Dumbledore, toute la
 *famille* qu’ils avaient perdue, et si tout avait été pour *rien*.
 
-« La magie ne *peut pas* être en train de disparaître, » dit Drago. Sa
+« La magie ne *peut pas* être en train de disparaître », dit Drago. Sa
 voix de brisait. « Ça ne serait pas *juste*. »
 
 Harry s’arrêta de griffonner et leva les yeux. Son visage affichait de
@@ -997,7 +997,7 @@ qui nous reste. Ne pas le croire ne l’empêchera pas d’arriver. Donc la
 en quoi nous voulons croire. Litanie de Gendlin : *Ce qui est vrai l’est
 déjà, l’admettre ne le rend pas pire.* Dis-le. »
 
-« Ce qui est vrai l’est déjà, » répéta Drago, la voix tremblante,
+« Ce qui est vrai l’est déjà », répéta Drago, la voix tremblante,
 « l’admettre ne le rend pas pire. »
 
 « Si la magie disparaît, je veux croire que la magie disparaît. Si la
@@ -1006,7 +1006,7 @@ Dis-le. »
 
 Drago répéta les mots, la nausée soulevant son estomac.
 
-« Bien, » dit Harry, « souviens-toi, ça n’est peut-être *pas* en train
+« Bien », dit Harry, « souviens-toi, ça n’est peut-être *pas* en train
 d’arriver, et alors tu ne devras pas non plus y croire. *D’abord*, on
 veut juste savoir ce qui se passe vraiment, dans quel monde nous vivons
 vraiment. » Harry revint à son travail, griffonna un peu plus, puis
@@ -1037,7 +1037,7 @@ Seigneur des Ténèbres ont eu des enfants).*
 
 *[Tests :]{.underline}*
 
-« Très bien, » dit Harry. Sa respiration semblait un peu plus calme.
+« Très bien », dit Harry. Sa respiration semblait un peu plus calme.
 « Maintenant, quand tu fais face à un problème déroutant et que tu ne
 sais pas ce qui se passe, la réaction intelligente est de trouver des
 tests très simples, des choses que tu peux tout de suite vérifier. On a
@@ -1052,7 +1052,7 @@ sorciers les plus puissants dont tout le monde parlait étaient
 Dumbledore et le Seigneur des Ténèbres et aucun d’eux n’avait d’enfant,
 comme Harry l’avait soupçonné…
 
-« Ça va être très dur de faire la distinction entre 2 et 6, » dit Harry,
+« Ça va être très dur de faire la distinction entre 2 et 6 », dit Harry,
 « c’est dans le sang dans un cas comme dans l’autre, et il faudrait
 essayer de suivre le déclin de la sorcellerie, et le comparer au nombre
 d’enfants qu’ont différents types de sorciers, et mesurer les capacités
@@ -1075,7 +1075,7 @@ dire qu’une de ces trois est fausse ? »
 « *Je* ne sais pas ! » laissa échapper Drago. « Pourquoi tu me demandes ?
 C’est toi le scientifique ! »
 
-« Drago, » dit Harry d’un ton qui s’approchait légèrement du plaidoyer
+« Drago », dit Harry d’un ton qui s’approchait légèrement du plaidoyer
 désespéré, « je ne sais que ce que savent les scientifiques moldus ! Tu
 as grandi dans le monde magique, pas moi ! Tu connais plus de magie que
 moi, tu en sais plus *sur* la magie que moi et c’est toi qui as eu
@@ -1112,7 +1112,7 @@ parchemin, en-dessous de *Tests* :
 *A. Y a-t-il des sorts que l’on connaît mais qu’on ne peut pas jeter (1
 ou 2) ou des sorts perdus qu’on ne connaît plus (3) ?*
 
-« Donc ça distingue entre 1 et 2 d’un côté et 3 de l’autre, » dit Harry.
+« Donc ça distingue entre 1 et 2 d’un côté et 3 de l’autre », dit Harry.
 « Maintenant on a besoin d’un moyen de faire la distinction entre 1 et 2.
 La magie disparaît, le sang s’affaiblit, comment pourrait-on faire la
 différence ? »
@@ -1166,7 +1166,7 @@ la sorcellerie puissante).*
 *C. Test supplémentaire qui distingue entre 1 et 2 en utilisant les
 connaissances scientifiques sur le sang, j’expliquerai plus tard.*
 
-« OK, » dit Harry, « on peut au moins essayer de déterminer la différence
+« OK », dit Harry, « on peut au moins essayer de déterminer la différence
 entre 1, 2 et 3, alors commençons tout de suite par ça, on pourra
 toujours trouver *d’autres* tests après avoir terminé ceux-ci. Cela dit,
 ça va avoir l’air un petit peu étrange si Drago Malefoy et Harry Potter
@@ -1204,9 +1204,9 @@ pour connaître leur nom. Essaie au moins d’obtenir quarante noms si tu
 peux, et si tu as le temps d’en avoir plus, encore mieux. Tu as noté
 tout ça ? »
 
-« Répète, » dit Drago quand il eut fini d’écrire, et Harry se répéta.
+« Répète », dit Drago quand il eut fini d’écrire, et Harry se répéta.
 
-« C’est noté, » dit Drago, « mais pourquoi… »
+« C’est noté », dit Drago, « mais pourquoi… »
 
 « Ça a à voir avec l’un des secrets du sang que les scientifiques ont
 déjà découvert. Je t’expliquerai quand tu reviendras. Séparons-nous et

@@ -262,11 +262,7 @@ fn pass_dashes(s: &str) -> String {
     let sp = r" \u{00A0}\u{2009}\u{202F}";
     let re_double_hyphen = Regex::new(&format!(r"[{sp}]+--[{sp}]+", sp = sp)).unwrap();
     // Spaced single hyphen not between digits: capture surrounding non-digits
-    let re_spaced_single = Regex::new(&format!(
-        r"([^\d])[{sp}]+-[{sp}]+([^\d])",
-        sp = sp
-    ))
-    .unwrap();
+    let re_spaced_single = Regex::new(&format!(r"([^\d])[{sp}]+-[{sp}]+([^\d])", sp = sp)).unwrap();
     let re_em_inside = Regex::new(&format!(r"[{sp}]+—[{sp}]+", sp = sp)).unwrap();
     let re_line_start = Regex::new(&format!(r"(?m)^—[{sp}]*", sp = sp)).unwrap();
     let re_before_em = Regex::new(&format!(r"(\S)[{sp}]*—", sp = sp)).unwrap();
@@ -332,13 +328,11 @@ fn pass_quotes(s: &str) -> String {
     out = re_open.replace_all(&out, "«\u{202F}").into_owned();
     out = re_close.replace_all(&out, "\u{202F}»").into_owned();
     // Move a comma outside after » to inside before »:  … », → …, »
-    let re_comma_tight = Regex::new(r"\u{202F}»,").unwrap();
-    out = re_comma_tight
-        .replace_all(&out, ",\u{202F}»")
-        .into_owned();
-    let re_comma_outside = Regex::new(r"»[^\S\r\n]*,").unwrap();
+    let re_comma_tight = Regex::new(r",\u{202F}»").unwrap();
+    out = re_comma_tight.replace_all(&out, "\u{202F}»,").into_owned();
+    let re_comma_outside = Regex::new(r",»[^\S\r\n]*").unwrap();
     out = re_comma_outside
-        .replace_all(&out, ",\u{202F}»")
+        .replace_all(&out, "\u{202F}»,")
         .into_owned();
     // collapse duplicates before »
     let re_dup = Regex::new("\u{202F}+»").unwrap();
@@ -531,7 +525,10 @@ fn pass_cleanup(s: &str) -> String {
 fn pass_fix_emphasis_guillemet(s: &str) -> String {
     // Collect guillemet pairs as byte offsets
     #[derive(Clone, Copy)]
-    struct Pair { start: usize, end: usize }
+    struct Pair {
+        start: usize,
+        end: usize,
+    }
     let mut stack: Vec<usize> = Vec::new();
     let mut pairs: Vec<Pair> = Vec::new();
     for (off, ch) in s.char_indices() {
@@ -546,7 +543,9 @@ fn pass_fix_emphasis_guillemet(s: &str) -> String {
         }
     }
 
-    if pairs.is_empty() { return s.to_string(); }
+    if pairs.is_empty() {
+        return s.to_string();
+    }
 
     // Process from the end to keep offsets stable
     pairs.sort_by_key(|p| p.end);
@@ -555,9 +554,13 @@ fn pass_fix_emphasis_guillemet(s: &str) -> String {
         // Determine marker right after »
         let close_pos = pair.end; // byte offset of '»'
         let after = close_pos + '»'.len_utf8();
-        if after > out.len() { continue; }
+        if after > out.len() {
+            continue;
+        }
         let mut ws_after = 0usize;
-        if out[after..].starts_with(' ') { ws_after = 1; }
+        if out[after..].starts_with(' ') {
+            ws_after = 1;
+        }
         let tail = &out[after + ws_after..];
         let marker = if tail.starts_with("**") {
             Some("**")
@@ -567,33 +570,55 @@ fn pass_fix_emphasis_guillemet(s: &str) -> String {
             Some("*")
         } else if tail.starts_with("_") {
             Some("_")
-        } else { None };
+        } else {
+            None
+        };
         let Some(mk) = marker else { continue };
 
         // Check if there is an unmatched opener of `mk` inside this pair
         let segment = &out[pair.start..pair.end];
-        if !segment.contains(mk) { continue; }
+        if !segment.contains(mk) {
+            continue;
+        }
         let mut depth = 0i32;
         let mut i = 0usize;
         while i < segment.len() {
             if segment[i..].starts_with(mk) {
                 // toggle
-                if depth > 0 { depth -= 1; } else { depth += 1; }
+                if depth > 0 {
+                    depth -= 1;
+                } else {
+                    depth += 1;
+                }
                 i += mk.len();
                 continue;
             }
             if let Some(ch) = segment[i..].chars().next() {
                 i += ch.len_utf8();
-            } else { break; }
+            } else {
+                break;
+            }
         }
-        if depth <= 0 { continue; } // no unmatched opener
+        if depth <= 0 {
+            continue;
+        } // no unmatched opener
 
         // Find insertion point: the thin NBSP just before » must exist
-        if pair.end == 0 { continue; }
+        if pair.end == 0 {
+            continue;
+        }
         let before_close = &out[..pair.end];
-        let nbsp_pos = before_close.char_indices().rev().next().map(|(pos, ch)| (pos, ch));
-        let Some((nbsp_off, nbsp_ch)) = nbsp_pos else { continue };
-        if nbsp_ch != '\u{202F}' { continue; } // require thin NBSP inside « … »
+        let nbsp_pos = before_close
+            .char_indices()
+            .rev()
+            .next()
+            .map(|(pos, ch)| (pos, ch));
+        let Some((nbsp_off, nbsp_ch)) = nbsp_pos else {
+            continue;
+        };
+        if nbsp_ch != '\u{202F}' {
+            continue;
+        } // require thin NBSP inside « … »
 
         // Perform move: remove mk at `after`, insert mk at `nbsp_off`
         let mut tmp = String::with_capacity(out.len());
@@ -603,7 +628,9 @@ fn pass_fix_emphasis_guillemet(s: &str) -> String {
         tmp.push_str(mk);
         // rest up to the » (NBSP and » included)
         tmp.push_str(&out[nbsp_off..after]);
-        if ws_after == 1 { tmp.push(' '); }
+        if ws_after == 1 {
+            tmp.push(' ');
+        }
         // skip the marker after »
         tmp.push_str(&out[after + ws_after + mk.len()..]);
         out = tmp;

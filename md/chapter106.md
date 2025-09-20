@@ -6,7 +6,7 @@ perçant et bondit en arrière. Il se cogna contre le professeur Rogue, et
 ils s’effondrèrent par terre.
 
 Ce dernier se releva et reprit son poste devant la porte. Il fit pivoter
-sa tête vers Harry : « Je garde cette porte sur ordre du directeur, »
+sa tête vers Harry : « Je garde cette porte sur ordre du directeur »,
 dit-il de son ton sardonique habituel. « Allez-vous-en sur le champ, où
 je déduirai des points de Maison ! »
 
@@ -16,7 +16,7 @@ par la chaîne attachée à son collier.
 
 « C’est… c’est… c’est… » dit Harry.
 
-« Oui, » dit le professeur Quirrell, loin derrière lui, « c’est bien
+« Oui », dit le professeur Quirrell, loin derrière lui, « c’est bien
 l’occupant normal de cette pièce, qui est interdite à tous les élèves et
 surtout à ceux qui sont en première année. »
 
@@ -29,7 +29,7 @@ Le professeur Quirrell soupira. « Un sortilège l’empêche de manger les
 Maintenant, petit, comment penses-tu que nous devrions nous occuper de
 cette créature ? »
 
-« Euh, » bégaya Harry. Il essayait de s’entendre penser malgré le
+« Euh », bégaya Harry. Il essayait de s’entendre penser malgré le
 rugissement continu du gardien de cette pièce. « Euh. Si c’est comme le
 cerbère de la légende Moldue “Orphée et Eurydice”, on doit lui chanter
 une berceuse pour pouvoir passer… »
@@ -42,7 +42,7 @@ Harry se retourna vers le professeur Quirrell. Celui-ci avait l’air
 extrêmement déçu et semblait se demander si Harry avait jamais assisté à
 un seul de ses cours.
 
-« J’ai plus ou moins *supposé*, » dit Harry entre deux halètements, « que
+« J’ai plus ou moins *supposé* », dit Harry entre deux halètements, « que
 ne pas surmonter ces épreuves à la façon d’un élève de première année
 pourrait déclencher une *alarme*. »
 
@@ -56,7 +56,7 @@ pièces. »
 Le professeur Quirrell se contenta de sourire. Il avait l’air beaucoup
 plus maléfique que d’habitude.
 
-« Je vois, » dit Harry avant d’entrer lentement dans la pièce, toujours
+« Je vois », dit Harry avant d’entrer lentement dans la pièce, toujours
 tremblant.
 
 La pièce, entièrement en pierre, était illuminée d’un bleu pâle venu de
@@ -69,18 +69,18 @@ Harry se tourna vers l’un des recoins arrondis et alla le regarder de
 plus près. Il n’y avait rien là sinon la lueur bleue sans source, alors
 il continua pour observer le suivant, examinant le mur au passage.
 
-« Que fais-tu ?, » demanda le professeur Quirrell.
+« Que fais-tu ? », demanda le professeur Quirrell.
 
-« J’inspecte la pièce, » dit Harry. « Il pourrait y avoir un indice,
+« J’inspecte la pièce », dit Harry. « Il pourrait y avoir un indice,
 quelque chose d’écrit, une clé utile plus tard, quelque chose comme ça. »
 
 « Dis-tu cela sérieusement ? Ou essaies-tu de nous ralentir ? Réponds en
 Fourchelangue. »
 
-Harry se retourna. « *J’étais ssérieux*, » siffla Harry. « *J’aurais fait
+Harry se retourna. « *J’étais ssérieux* », siffla Harry. « *J’aurais fait
 pareil ssi j’avaiss été sseul.* »
 
-Le professeur Quirrell se passa une main sur le front. « J’admets, »
+Le professeur Quirrell se passa une main sur le front. « J’admets »,
 dit-il, « que ton approche aurait un intérêt dans la tombe d’Amon-Set,
 par exemple. Donc je ne vais pas te traiter d’idiot. Mais quand même. Le
 faux puzzle, la partie visible du défi, c’est un jeu pour les première
@@ -98,11 +98,11 @@ comme de fausses fenêtres, sources de la même lumière bleu-gris.
 
 « Une idée évidente est de voler jusqu’au sol avec le balai dans ma
 bourse ou de jeter quelque chose de lourd pour voir si ces petites tiges
-sont piégées, » dit Harry en jetant un coup d’œil en bas. « Mais j’imagine
+sont piégées », dit Harry en jetant un coup d’œil en bas. « Mais j’imagine
 que vous allez juste me dire de descendre l’escalier de feuilles. » Elles
 avaient vraiment l’air de vouloir servir d’escalier en colimaçon.
 
-« Après toi, » dit le professeur Quirrell.
+« Après toi », dit le professeur Quirrell.
 
 Harry posa un pied prudent sur la première feuille et découvrit qu’elle
 supportait bien son poids. Puis il regarda la pièce une dernière fois
@@ -111,12 +111,12 @@ avant de la quitter, au cas où quelque chose attirerait son attention.
 L’énorme chien mort attirait tant le regard qu’il était difficile de se
 concentrer sur autre chose.
 
-« Professeur Quirrell, » et il s’empêcha de continua par : *votre façon
+« Professeur Quirrell », et il s’empêcha de continua par : *votre façon
 d’écarter les obstacles a des défauts évidents*, « et si quelqu’un
 passait sa tête par la porte et voyait que le cerbère est mort ? »
 
 « Dans ce cas, la personne aurait aussi vu que Rogue n’est pas dans son
-état normal, » répondit le professeur Quirrell. « Mais puisque tu
+état normal », répondit le professeur Quirrell. « Mais puisque tu
 insistes… » le professeur de Défense s’avança jusqu’au chien et posa sa
 baguette sur la tête de ce dernier. Il entonna un sortilège aux accents
 latins qui, pour Harry, s’accompagna d’un sentiment d’appréhension

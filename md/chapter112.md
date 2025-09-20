@@ -19,13 +19,13 @@ sa baguette et ses lunettes, ensorcelées pour coller à son nez. L’anneau
 d’acier à son petit doigt fut arraché si fort qu’il emmena de la peau,
 et le joyau métamorphosé partit avec.
 
-« Voilà, » dit la voix de Voldemort venue de derrière le mur de terre,
+« Voilà », dit la voix de Voldemort venue de derrière le mur de terre,
 « qui était *parfaitement* prévisible. Penses-tu vraiment que, si mon
 immortalité venait à faillir, j’irais le crier sur les toits ? Vraiment,
 stupide enfant ? Abaisse ta baguette et ne la relève sous aucun
 prétexte, sans quoi tu mourras dans l’instant. »
 
-Harry déglutit et abaissa sa baguette. « Je vous aurais déçu, » dit Harry
+Harry déglutit et abaissa sa baguette. « Je vous aurais déçu », dit Harry
 d’une voix plus fluette qu’à l’accoutumée, « je veux dire, si j’avais
 raté une opportunité pareille. » Il n’avait pas le temps de réfléchir et
 sa bouche était sur pilote automatique, en mode calmer un sorcier
@@ -37,7 +37,7 @@ donnait l’air d’avoir trop de dents. « J’ai promis de ne lever ni ma ma
 ni ma baguette contre toi, petit, à condition que tu ne fasses pas de
 même. »
 
-« J’ai utilisé des balles, » dit Harry d’une voix toujours aiguë. « Ce
+« J’ai utilisé des balles », dit Harry d’une voix toujours aiguë. « Ce
 n’est ni un coup de poing ni un sortilège. »
 
 « Mon enchantement voit les choses autrement. C’est la pièce du puzzle
@@ -51,7 +51,7 @@ nourrisson à l’esprit perdu. » Un gloussement sourd, mortel. « *Mais tu
 viens de tenter de mettre fin à ma vie, sstupide enfant. Maintenant
 l’enchantement est levé, et je peux te tuer quand je le souhaite.* »
 
-« Je vois, » dit Harry. Il voyait bien : c’était pour *ça* que Voldemort
+« Je vois », dit Harry. Il voyait bien : c’était pour *ça* que Voldemort
 lui avait parlé de son système de Horcruxes, juste pour préparer
 l’instant où Harry tenterait de mettre fin à son immortalité. L’esprit
 de Harry passait en revue ses options, mais aucune ne paraissait utile.
@@ -77,7 +77,7 @@ enfermé.* » Voldemort s’abaissa et ramassa la bourse de Harry ; il y
 plaça le journal et le parchemin. « *Ssi jamais ce que j’ai prévu tourne
 mal, ssouviens-toi de ça.* »
 
-« Je ne comprends pas ce qui se passe, » dit Harry. Il n’y avait plus rien
+« Je ne comprends pas ce qui se passe », dit Harry. Il n’y avait plus rien
 à faire. « Expliquez-moi, s’il vous plaît. »
 
 Le Seigneur des Ténèbres regardait maintenant Harry avec un air sévère.
@@ -100,7 +100,7 @@ va suivre, alors, enfant imbécile, desstructeur annoncé, alors tu devras
 te tuer pour ssauver fille-enfant. Ssinon, tout ce à quoi tu prétends
 accorder valeur mourra par ta main.* »
 
-« Je, » la voix de Harry grimpa d’une octave, « je, » une autre octave, « je
+« Je », la voix de Harry grimpa d’une octave, « je », une autre octave, « je
 ne ferais *vraiment, vraiment pas ça, sérieusement !* »
 
 « *Ssilence, idiot. Resste muet tant que je ne t’autorisse pas à parler.

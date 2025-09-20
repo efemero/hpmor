@@ -57,12 +57,12 @@ Harry, balais que le professeur Quirrell lui avait donné, ce qui
 n’aurait pas été une bonne idée. Il fallut presque une seconde entière
 pour qu’il reprenne ses esprits et ne redresse son balais avec aisance.
 
-« Je suis là, » dit une voix inconnue depuis une zone vide au-dessus de
+« Je suis là », dit une voix inconnue depuis une zone vide au-dessus de
 lui ; basse et râpeuse, la voix de l’échalas cireux et barbu que le
 professeur Quirrell était devenu en buvant du Polynectar, avant de se
 Désillusionner, lui, et son balais.
 
-« Je suis là, » dit Harry de sous la Cape d’Invisibilité. Il n’avait pas
+« Je suis là », dit Harry de sous la Cape d’Invisibilité. Il n’avait pas
 bu de Polynectar. Revêtir un autre corps entravait la magie, et Harry
 pourrait avoir besoin d’avoir toute sa magie à portée de main ; le plan
 était donc que Harry reste invisible quasiment tout le temps plutôt
@@ -93,7 +93,7 @@ son cou, coulait le long de sa chemise et des manches de ses robes et
 des ourlets de son pantalon et dans ses chaussures. Le plus petit
 morceau de vêtement devenait un passage pour que l’eau s’infiltre.
 
-« Par là, » dit la voix polynectarée, et une étincelle de lumière verte
+« Par là », dit la voix polynectarée, et une étincelle de lumière verte
 s’alluma devant le balais de Harry et fonça dans une direction qui lui
 sembla impossible à suivre du regard.
 
@@ -116,11 +116,11 @@ où la Mort attendait, se déversant sur l’esprit de Harry, le
 contournant, tel une vague se brisant sur un rocher. Cette fois, Harry
 connaissait son ennemi, et sa volonté était d’acier et de lumière.
 
-« Je peux déjà sentir les Détraqueurs, » dit la voix râpeuse et
+« Je peux déjà sentir les Détraqueurs », dit la voix râpeuse et
 polynectarée du professeur Quirrell. « Je ne m’attendais pas à cela, pas
 si tôt. »
 
-« Pensez aux étoiles, » dit Harry par-dessus un grondement de tonnerre
+« Pensez aux étoiles », dit Harry par-dessus un grondement de tonnerre
 lointain. « Ne laissez aucune colère entrer en vous, rien de négatif,
 pensez seulement aux étoiles, à ce que c’est que de s’oublier et de
 tomber sans corps à travers l’espace. Maintenez cette pensée comme une
@@ -152,10 +152,10 @@ Des cargaisons de terre y étaient parfois déversées afin de garder les
 étages à niveau, car la matière directement exposée aux Détraqueurs se
 décomposait pour devenir de la boue et du néant.
 
-« Attendez une minute, » dit la voix râpeuse, « suivez-moi à pleine
+« Attendez une minute », dit la voix râpeuse, « suivez-moi à pleine
 vitesse, et faites attention en traversant. »
 
-« Compris, » dit lentement Harry.
+« Compris », dit lentement Harry.
 
 L’étincelle s’éteignit et Harry commença à compter : *un un million,
 deux un million, trois un million…*
@@ -246,7 +246,7 @@ la baguette du professeur Quirrell dans une main et le balais dans
 l’autre. Le grand échalas vacilla en revenant à la vie, et il alla
 s’appuyer contre le mur pendant un moment.
 
-« Bien joué, peut-être un tout petit peu trop lent, » murmura la voix
+« Bien joué, peut-être un tout petit peu trop lent », murmura la voix
 râpeuse. La sécheresse du professeur Quirrell s’y trouvait, même si elle
 ne correspondait pas à la voix, pas plus que le regard grave ne
 correspondait au visage orné d’une barbe épaisse. « Je ne peux plus les
@@ -492,5 +492,5 @@ d’attention…
 Une expression froide recouvrit le visage de Harry, invisible sous la
 capuche.
 
-« Bonjour, ma chère Bella, » dit un murmure glacé. « T’ais-je manqué ? »
+« Bonjour, ma chère Bella », dit un murmure glacé. « T’ais-je manqué ? »
 

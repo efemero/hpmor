@@ -27,7 +27,7 @@ bras étaient chargés de paperasse et elle portait encore le Choixpeau.
 Les gargouilles s’inclinèrent devant elle dans un bref grincement
 pierreux.
 
-« Le nouveau mot de passe est “Impermanence”, » dit Minerva aux
+« Le nouveau mot de passe est “Impermanence” », dit Minerva aux
 gargouilles, et elle s’écartèrent. « Je suis navrée, M. Potter, on m’a
 retardée… »
 
@@ -38,7 +38,7 @@ s’élever plutôt que d’être gravis, et Harry monta derrière elle.
 
 « Nous rencontrons Amelia Bones, directrice du département de justice
 magique, Alastor Maugrey, que vous avez rencontré, et Bartemius Croupton,
-directeur du département de coopération magique international, »
+directeur du département de coopération magique international »,
 poursuivit-elle en montant. « Ce sont les héritiers de Dumbledore, autant
 que vous ou moi. »
 
@@ -48,7 +48,7 @@ de s’enquérir à son sujet.
 « Filius a dit qu’elle semblait être en état de choc, ce qui ne m’étonne
 pas. Elle a demandé où vous étiez, on lui a dit que vous assistiez à un
 match de Quidditch, et elle a refusé de parler à quiconque avant d’avoir
-pu s’entretenir avec vous. On l’a emmenée à Sainte Mangouste où, » la
+pu s’entretenir avec vous. On l’a emmenée à Sainte Mangouste où », la
 directrice paraissait un peu perturbée, « un sortilège diagnostique
 standard a indiqué de Mlle Granger est une licorne en pleine forme, en
 excellente condition physique, et dont la crinière doit être peignée.
@@ -81,7 +81,7 @@ Hermione comprendrait probablement. Mais il n’avait aucune idée de ce
 qu’elle en *dirait*…
 
 « Je me demande ce que Mlle Granger pensera de sa victoire contre
-Vous-Savez-Qui, » dit Minerva d’un ton pensif tout en grimpant les
+Vous-Savez-Qui », dit Minerva d’un ton pensif tout en grimpant les
 escaliers si vite que Harry perdait son souffle à la suivre, « et de ces
 gens qui croient des choses fort intéressantes à son sujet. »
 
@@ -131,7 +131,7 @@ toute la pièce d’un seul regard, pointa sa baguette vers Harry et dit :
 Cela se produisit si vite et Harry fut si surpris qu’Alastor termina son
 incantation avant même que Harry ait finit de lever sa propre baguette.
 
-« Simple vérification, » dit Alastor à la directrice, dont la baguette
+« Simple vérification », dit Alastor à la directrice, dont la baguette
 était à présent braquée sur Alastor. Elle était bouche bée, comme sur le
 point de prononcer des paroles qui lui échappaient. « Voldy aurait essayé
 d’éviter s’il avait possédé le corps du garçon. Je vais quand même
@@ -151,12 +151,12 @@ vue ; on aurait cru que de la viande séchée avait pris forme humaine. La
 vieille sorcière n’avait pas sa baguette en main mais un air d’autorité
 plus fort, plus strict que celui de Dumbledore émanait d’elle.
 
-« C’est la directrice Amelia Bones, M. Potter, » dit la directrice Minerva
+« C’est la directrice Amelia Bones, M. Potter », dit la directrice Minerva
 McGonagall, tout son flegme revenu. « Nous attendons toujours le
 directeur Croupton… »
 
 « Le corps de Bartemius Croupton Junior a été retrouvé parmi ceux des
-Mangemorts décédés, » dit immédiatement la vieille sorcière tout en
+Mangemorts décédés », dit immédiatement la vieille sorcière tout en
 continuant vers les chaises. « Cela nous a profondément surpris et j’ai
 peur que Bartemius ne soit inconsolable, pour deux raisons. Il ne nous
 rejoindra pas aujourd’hui. »
@@ -165,17 +165,17 @@ Harry ne montra rien de son tressaillement intérieur.
 
 Amelia Bones s’assit, à droite de Maugrey.
 
-« Directrice McGonagall, » dit la vieille sorcière, toujours sans hésiter
+« Directrice McGonagall », dit la vieille sorcière, toujours sans hésiter
 ni attendre, « La Lignée Ininterrompue de Merlin dont Dumbledore m’a
 confié la régence ne me répond plus. Le Magenmagot doit *immédiatement*
 se munir d’un président-sorcier de confiance ; de nombreux changements
 grondent en Angleterre. Je dois savoir ce que Dumbledore a fait, et tout
 de suite ! »
 
-« Merde, » marmonna Maugrey. Son œil fou tourbillonnait dans tous les
+« Merde », marmonna Maugrey. Son œil fou tourbillonnait dans tous les
 sens. « C’est mauvais ça, c’est très mauvais. »
 
-« Oui, eh bien, » dit Minerva McGonagall d’un ton plutôt inquiet. « Je ne
+« Oui, eh bien », dit Minerva McGonagall d’un ton plutôt inquiet. « Je ne
 suis sûre de rien. Albus… eh bien, il était clair qu’il doutait de
 pouvoir survivre à cette guerre. Mais je ne pense pas qu’il s’attendait
 à ce que Mlle Granger revienne d’entre les morts et tue Voldemort
@@ -199,7 +199,7 @@ Ténèbres. Je ne sais pas bien ce qui va se passer maintenant. Peut-être
 Mlle Granger pourra-t-elle l’ouvrir, ou peut-être qu’elle restera
 scellée à jamais… »
 
-« Attendez, » dit Maugrey Fol-Œil. Il farfouilla dans ses robes et en
+« Attendez », dit Maugrey Fol-Œil. Il farfouilla dans ses robes et en
 sortit une longue baguette grisâtre que Harry reconnut : c’était la
 baguette de Dumbledore, différente de toutes les autres baguettes de
 Poudlard. Maugrey la déposa sur la table. « Avant d’aller plus loin,
@@ -224,7 +224,7 @@ Harry reçut aussi un sentiment de scepticisme marqué, comme si la
 baguette était à demi consciente et se demandait comment elle avait bien
 pu atterrir dans la main d’un élève de Poudlard en première année.
 
-« Ouais, » dit Maugrey Fol-Œil à l’intention des regards interloqués.
+« Ouais », dit Maugrey Fol-Œil à l’intention des regards interloqués.
 « Donc c’est pas Mlle Granger qui a battu Voldy. M’en doutais. »
 
 « Quoi. » Amelia Bones avait prononcé le mot d’un ton parfaitement
@@ -237,7 +237,7 @@ Albus, hier. Est-ce que je dois te faire un dessin, Amelia ? »
 
 Amelia Bones regardait Harry, bouche bée.
 
-« Il y a peut-être une erreur, » dit Harry. Il réprima un autre pincement
+« Il y a peut-être une erreur », dit Harry. Il réprima un autre pincement
 de cette horrible culpabilité. « Parce que Voldemort m’a utilisé comme
 otage, parce j’ai… j’ai été stupide, et Dumbledore s’est sacrifié pour
 me sauver, peut-être que la baguette pense que c’est comme si j’avais
@@ -247,7 +247,7 @@ j’étais là. »
 
 Bip. Tic. Ploutch. Ding. Boop.
 
-« *Voilà* qui n’a pas dû être facile, » dit Maugrey. L’homme balafré
+« *Voilà* qui n’a pas dû être facile », dit Maugrey. L’homme balafré
 inclina lentement la tête en signe de profond respect. « Ne t’en veux pas
 trop d’avoir perdu Albus, David et Flamel, petit, aussi bête que tu aies
 été. Au final, tu as gagné. Nous tous réunis n’y sommes jamais arrivés.
@@ -264,7 +264,7 @@ leva la main et indiqua silencieusement l’émeraude à son doigt.
 
 Ploutch. Boing. Ploutch. Ploutch.
 
-« Ah, » dit Maugrey en se renfonçant dans sa chaise. « Minerva et moi
+« Ah », dit Maugrey en se renfonçant dans sa chaise. « Minerva et moi
 placerons quelques alarmes et sortilèges sur ton petit anneau, mon
 garçon, si tu veux bien. Juste au cas où tu oublierais de maintenir la
 Métamorphose. Et ne vas jamais chasser d’autres mages noir, jamais, vis
@@ -273,11 +273,11 @@ mouchoir et essuya les gouttes de sueur qui venaient d’apparaître sur
 son front. « Mais bien joué mon gars, toi et David, qu’il repose en paix.
 J’imagine que c’était son idée ? Bien joué en tout cas. »
 
-« Effectivement, » dit Amelia Bones, qui avait retrouvé son calme. « Vous
+« Effectivement », dit Amelia Bones, qui avait retrouvé son calme. « Vous
 avez tous les deux notre plus profonde gratitude. Mais je répète qu’il y
 a des affaires pressantes concernant la Lignée Ininterrompue de Merlin. »
 
-« Je crois, » dit lentement Minerva McGonagall, « que je devrais donner
+« Je crois », dit lentement Minerva McGonagall, « que je devrais donner
 tout de suite les lettres d’Albus à M. Potter. » Une enveloppe de
 parchemin se trouvait à présent sur la pile de papiers disposée devant
 elle, accompagnée d’un parchemin maintenu par un ruban gris.
@@ -354,8 +354,8 @@ alors j’espère que tu pourras t’atteler à l’œuvre de ta vie.*
 
 *Dumbledore.*
 
-*P.S. Les mots de passe son « prix du phénix, » « destin du phénix, » et
-« œuf du phénix, » dits dans mon bureau. Minerva peut mettre ces pièces là
+*P.S. Les mots de passe son « prix du phénix », « destin du phénix », et
+« œuf du phénix », dits dans mon bureau. Minerva peut mettre ces pièces là
 où elles te seront plus faciles d’accès.*
 
 
@@ -411,7 +411,7 @@ toutes les autres possibilités que j’ai découvertes ce jour terrible.*
 *Mais dans ton cas, Harry, et dans ton cas seulement, les prophéties de
 ton apocalypse avaient des failles, de toutes petites failles.*
 
-*C’était toujours « il provoquera la fin du monde, » jamais « il provoquera
+*C’était toujours « il provoquera la fin du monde », jamais « il provoquera
 la fin de toute vie ».*
 
 *Même lorsqu’il fut dit que tu déchirerais jusqu’aux étoiles du ciel, il
@@ -489,14 +489,14 @@ Harry enroula le parchemin, le regard toujours perdu.
 
 « Que dit cette lettre ? » demanda Amelia Bones.
 
-« C’est une lettre de confession, » dit Harry. « En fait, c’est Dumbledore
+« C’est une lettre de confession », dit Harry. « En fait, c’est Dumbledore
 qui a tué mon rocher de compagnie. »
 
 « *Ce n’est pas le moment de blaguer !* » s’écria la vieille sorcière.
 « Êtes-vous le véritable titulaire de la Lignée Ininterrompue de
 Merlin ? »
 
-« Oui, » dit Harry d’un air absent, son esprit occupé par des choses
+« Oui », dit Harry d’un air absent, son esprit occupé par des choses
 éminemment plus importantes, et ce quel que soit le critère de
 quantification utilisé.
 
@@ -533,10 +533,10 @@ onze ans.
 Tu ne feras pas l’imbécile comme tu le fais d’habitude. Parce le destin
 du monde en dépend peut-être. Ou pas. On ne sait même pas ça.*
 
-« Je suis vraiment navré, » dit Harry Potter avant de s’interrompre pour
+« Je suis vraiment navré », dit Harry Potter avant de s’interrompre pour
 voir quel effet ses paroles avaient pu produire.
 
-« Minerva semble penser, » dit la vieille sorcière, « qu’un franc parler ne
+« Minerva semble penser », dit la vieille sorcière, « qu’un franc parler ne
 vous offensera pas. »
 
 Harry hocha la tête. Sa partie Serdaigle voulait ajouter une clause
@@ -544,7 +544,7 @@ mentionnant que ce n’était pas pareil que de rabaisser quelqu’un tout en
 se plaignant de son intolérance à la critique, mais Poufsouffle usa d’un
 veto. Harry entendrait ce qu’elle avait à dire.
 
-« Je ne souhaite pas dire du mal des disparus, » dit la vieille sorcière.
+« Je ne souhaite pas dire du mal des disparus », dit la vieille sorcière.
 « Mais voilà des temps immémoriaux que la Lignée Ininterrompue de Merlin
 se transmet à ceux qui ont *minutieusement* démontré n’être pas
 seulement des gens bien, mais aussi des gens assez sage pour distinguer
@@ -556,7 +556,7 @@ souillure de son héritage : voilà comment on le verra. » La vieille
 sorcière hésita, ses yeux toujours sur Harry. « Je pense qu’il vaut mieux
 que personne à part nous ne l’apprenne jamais. »
 
-« Euh, » dit Harry. « J’imagine que vous n’avez pas une très bonne opinion
+« Euh », dit Harry. « J’imagine que vous n’avez pas une très bonne opinion
 de Dumbledore ? »
 
 « Je pensais… » dit la vieille sorcière. « Eh bien, Albus Dumbledore était
@@ -576,7 +576,7 @@ depuis le début, Dumbledore était le seul à être sain d’esprit. Le
 Madame Bones jurait dans sa barbe, de basses et sinistre imprécations
 qui faisaient trembler Minerva.
 
-« Désolé, » dit Harry d’un ton d’impuissance.
+« Désolé », dit Harry d’un ton d’impuissance.
 
 Le visage balafré de Maugrey affichait un large sourire. « Toujours su
 qu’Albus manigançait *quelque chose* sans nous le dire. Petit, tu ne
@@ -585,11 +585,11 @@ parchemin. »
 
 Harry le rangea vivement dans sa bourse en peau de Moke.
 
-« Alastor, » dit Amelia. Sa voix monta d’un cran. « Tu es un homme sensé,
+« Alastor », dit Amelia. Sa voix monta d’un cran. « Tu es un homme sensé,
 tu ne peux pas penser que ce petit pourrait prendre la place de
 Dumbledore ! Pas *aujourd’hui* ! »
 
-« Dumbledore, » dit Harry avec l’impression que le mot avait un goût
+« Dumbledore », dit Harry avec l’impression que le mot avait un goût
 étrange, « a commis une erreur au moment de prendre ses décisions. Il a
 cru que nous combattrions Voldemort pendant des années, tous ensemble.
 Il ignorait que je vaincrai le Seigneur des Ténèbres immédiatement. J’ai
@@ -611,7 +611,7 @@ une main et frotta son nez là où se trouvaient ses lunettes. *J’imagine
 que je pourrais toujours utiliser la Pierre et me donner l’air d’avoir
 quatre-vingt dix ans…*
 
-« Je ne suis pas une imbécile, » dit la vieille sorcière. « Je sais que
+« Je ne suis pas une imbécile », dit la vieille sorcière. « Je sais que
 vous n’êtes pas un enfant ordinaire. Je vous ai vu parler à Lucius
 Malefoy, je vous ai vu effrayer un Détraqueur, et j’ai vu Fumseck
 répondre à votre prière. Tout sage témoin de vos actes au Magenmagot -
@@ -622,23 +622,23 @@ d’utiliser son savoir à des fins bienfaitrices. »
 
 Il y eut un léger silence.
 
-« Ah mais oui, bien sûr, » dit Minerva McGonagall. Elle soupira et
+« Ah mais oui, bien sûr », dit Minerva McGonagall. Elle soupira et
 s’affaissa un peu dans sa chaise de directrice. « Comme Albus le savait
 clairement *depuis le début* mais a eu la prévenance de ne *jamais m’en
 parler*. »
 
-« Ouais, » dit Maugrey. « Je le savais. C’est ça. Parfaitement évident.
+« Ouais », dit Maugrey. « Je le savais. C’est ça. Parfaitement évident.
 J’étais pas du tout à côté de la plaque. »
 
-« J’imagine que c’est plus ou moins ce qui s’est passé, » dit Harry.
+« J’imagine que c’est plus ou moins ce qui s’est passé », dit Harry.
 « Donc, euh. Quel est le problème exactement ? »
 
-« Le problème, » dit Amelia Bones d’un ton parfaitement neutre, « est que
+« Le problème », dit Amelia Bones d’un ton parfaitement neutre, « est que
 vous êtes un mélange bouillonnant et instable d’élève en première année
 et de Vous-Savez-Qui. » Elle se tut, comme si elle attendait quelque
 chose.
 
-« Je fais des progrès, » dit Harry, puisqu’elle semblait attendre une
+« Je fais des progrès », dit Harry, puisqu’elle semblait attendre une
 réponse. « Assez vite, en fait. Et plus important encore : Dumbledore ne
 l’ignorait pas. »
 
@@ -674,7 +674,7 @@ sentimental et faible… est-ce que vous venez de glousser ? »
 « Pardon. Mais sérieusement, ça n’a jamais été si grave que ça. C’était
 plus comme d’avoir plein de mauvaises habitudes de pensées à défaire. »
 
-« Euh, » dit la directrice McGonagall. « M. Potter, je pense qu’au début de
+« Euh », dit la directrice McGonagall. « M. Potter, je pense qu’au début de
 l’année, c’était aussi grave que ça. »
 
 « De mauvaises habitudes qui s’enchaînaient et se déclenchaient les unes
@@ -683,7 +683,7 @@ Madame Bones… euh. Désolé si je fais erreur. Mais j’ai l’impression que
 ça vous énerve un peu de voir la Lignée atterrir dans les mains d’un
 enfant de onze ans. »
 
-« Pas pour les raisons que vous croyez, » dit la vieille sorcière d’un ton
+« Pas pour les raisons que vous croyez », dit la vieille sorcière d’un ton
 calme. « Mais il naturel que vous me soupçonniez. La position de
 présidente-sorcière ne me plairait guère, même comparée aux horreurs de
 la justice magique. Albus a réussi à me persuader d’accepter, et même si
@@ -705,10 +705,10 @@ qu’il y a d’autres choses étranges qui l’accompagnent. Et que Dumbledore
 voulait que je sois responsable du… reste. Et le reste est… peut-être
 *incroyablement* important. »
 
-« Merde, » dit Maugrey. Puis il se répéta : « Merde, gamin, est-ce que tu
+« Merde », dit Maugrey. Puis il se répéta : « Merde, gamin, est-ce que tu
 devrais nous dire tout ça ? »
 
-« Je ne sais pas, » dit Harry. « S’il y a un manuel utilisateur, je ne l’ai
+« Je ne sais pas », dit Harry. « S’il y a un manuel utilisateur, je ne l’ai
 pas encore lu. »
 
 « Merde. »
@@ -719,12 +719,12 @@ mis à l’épreuve, comme vous l’avez été devant le Magenmagot ? Je suis
 vieille, Harry Potter, je connais certains des mystères. Vous avez vu
 comme j’ai compris qui vous étiez presque d’un coup d’œil. »
 
-« Amelia, » dit Maugrey Fol-Œil. « Si tu avais combattu Tu-Sais-Qui hier,
+« Amelia », dit Maugrey Fol-Œil. « Si tu avais combattu Tu-Sais-Qui hier,
 il se serait passé quoi ? »
 
 La vieille sorcière haussa les épaules. « Je pense que je serais morte. »
 
-« Tu aurais *perdu*, » dit Alastor Maugrey. « Et le Survivant n’a pas
+« Tu aurais *perdu* », dit Alastor Maugrey. « Et le Survivant n’a pas
 seulement descendu Voldy, il s’est aussi arrangé pour que sa bonne amie
 Hermione Granger *revienne d’entre les morts* au moment où Voldie s’est
 ressuscité. Jamais de la vie ni de la mort je croirai que c’est un
@@ -750,7 +750,7 @@ peux pas l’accepter ! J’ai travaillé trop longtemps dans l’espoir
 d’arriver à un jour comme aujourd’hui pour tout voir s’effondrer,
 surtout *maintenant* ! »
 
-« Excusez-moi, » dit la directrice McGonagall d’un assez méticuleux et
+« Excusez-moi », dit la directrice McGonagall d’un assez méticuleux et
 Écossais. « Pourquoi M. Potter ne pourrait-il pas simplement indiquer à
 la Lignée Ininterrompue que Madame Bones est présidente-sorcière
 régente, jusqu’à ce que M. Potter mûrisse, mais qu’elle n’a aucune
@@ -763,10 +763,10 @@ Ce coup de bon sens soudain fut absorbé par tous.
 Harry ouvrit la bouche pour accepter de nommer Amelia Bones régente des
 affaires du Magenmagot, mais hésita à nouveau.
 
-« Euh, » dit Harry. « Euh. Madame Bones, j’aimerais beaucoup que vous vous
+« Euh », dit Harry. « Euh. Madame Bones, j’aimerais beaucoup que vous vous
 préoccupiez du Magenmagot à ma place. »
 
-« Nous sommes d’accord là-dessus, » dit la vieille sorcière. « Pouvons-nous
+« Nous sommes d’accord là-dessus », dit la vieille sorcière. « Pouvons-nous
 procéder ? »
 
 « Mais… »
@@ -792,7 +792,7 @@ Harry ferma les yeux.
 
 Un Harry *légèrement* sombre les ouvrit.
 
-« Très bien, » dit-il, « laissez-moi reformuler. Je ne compte pas
+« Très bien », dit-il, « laissez-moi reformuler. Je ne compte pas
 m’immiscer quotidiennement ni même mensuellement dans votre travail,
 mais je ne peux pas me débarrasser de la responsabilité que Dumbledore
 m’a léguée. Je ne vais pas vous envoyer des chouettes avec des
@@ -813,7 +813,7 @@ Je ne vais pas évoquer Merlin… en fait si, je *vais* évoquer Merlin :
 tout cela est peut-être incroyablement important. »
 
 La vieille sorcière réfléchit un moment, et ses yeux allaient d’un
-personne à une autre. « Cela ne me satisfait pas, » dit-elle au bout d’un
+personne à une autre. « Cela ne me satisfait pas », dit-elle au bout d’un
 moment. « Mais le Magenmagot doit bientôt être réuni. Cela suffira pour
 l’instant. »
 
@@ -821,7 +821,7 @@ Elle passa lentement une main dans ses robes et en sortit un petit
 cylindre de pierre, de pierre sombre.
 
 Elle le plaça sur la table devant Harry. « Prenez ce qui vous
-appartient, » dit-elle. « Et ensuite rendez-le moi, s’il vous plaît. »
+appartient », dit-elle. « Et ensuite rendez-le moi, s’il vous plaît. »
 
 Harry tendit la main pour s’en saisir.
 
@@ -873,7 +873,7 @@ Cette pensée ne débloqua rien de plus.
 Il n’y avait pas d’incendie en cours au département des Mystères, alors
 Harry reposa précautionneusement la Lignée sur la table.
 
-« Merci, » dit la vieille sorcière. Elle se saisit du bâton de pierre
+« Merci », dit la vieille sorcière. Elle se saisit du bâton de pierre
 noire. « Savez-vous comment je dois faire pour réunir le Magenmagot, ou…
 laissez tomber, je frapperai simplement le podium. Cela semble évident.
 Pour le reste du pays, je suis bien sûr présidente-sorcière. Seuls nous
@@ -894,7 +894,7 @@ déduit que David Monroe avait été le principal responsable de la défaite
 de Voldemort, et ils le sous-estimaient donc toujours. Peut-être
 faudrait-il une autre crise, que Harry résoudrait bien pour une fois,
 avant qu’Amelia Bones ne commence à respecter son autorité. Ou même à
-simplement y croire… « Donc, » dit Harry. « Quoi que ce soit d’étrange dont
+simplement y croire… « Donc », dit Harry. « Quoi que ce soit d’étrange dont
 vous auriez parlé si Dumbledore avait toujours été là ? »
 
 Amelia sembla pensive. « Puisque vous me posez la question… je peux
@@ -921,15 +921,15 @@ Aurors Nobbs et Colon, très respectés même à l’extérieur de mon
 département. Leur rapport m’a pour le moins fascinée. » Elle marqua une
 pause. « Il est possible qu’Augustus Rookwood ait laissé un fantôme… »
 
-« Exorcisez-le avant qu’il parle à qui que ce soit, » dit Harry, conscient
+« Exorcisez-le avant qu’il parle à qui que ce soit », dit Harry, conscient
 des battements accélérés de son cœur.
 
-« Oui monsieur, » dit la vieille sorcière d’un ton sec. « Je décrocherai un
+« Oui monsieur », dit la vieille sorcière d’un ton sec. « Je décrocherai un
 peu l’âme et personne ne se doutera de rien lorque le fantôme
 n’apparaîtra pas. La deuxième chose, c’est qu’un bras humain vivant a
 été trouvé parmi les affaires du Seigneur des Ténèbres… »
 
-« Bellatrix, » dit Harry. Son esprit avait bondit dans le passé et établi
+« Bellatrix », dit Harry. Son esprit avait bondit dans le passé et établi
 le lien que le traumatisme avait masqué. « Je pense que c’est le bras de
 Bellatrix. » *Lesath Lestrange n’était pas dans la liste des nouveaux
 orphelins.* « Oh bon sang. Elle est toujours en liberté, hein ?
@@ -945,12 +945,12 @@ objet ténébreux. À cause de mauvais souvenirs liés à des anneaux qui
 auraient vraiment dû être immédiatement jetés dans des volcans. C’est
 ça ? »
 
-Maugrey et Amelia hochèrent la tête. « Bien vu, mon petit, » dit Maugrey.
+Maugrey et Amelia hochèrent la tête. « Bien vu, mon petit », dit Maugrey.
 
 Il semblait narrativement inévitable que les bêtises passées de Harry
 reviennent un jour le hanter atrocement, mais ça valait le coup
 d’essayer de tordre le fil de l’histoire. « Je suppose que vous y avez
-déjà pensé, » dit Harry, « mais l’étape suivante évidente est de publier
+déjà pensé », dit Harry, « mais l’étape suivante évidente est de publier
 l’équivalent d’un mandat d’arrêt international pour une sorcière émaciée
 avec un bras gauche manquant. Oh, et ajoutez vingt-cinq milles Gallions
 de ma fortune personnelle — ça va, madame la directrice, faites-moi
@@ -964,7 +964,7 @@ trouvaient la tête et le corps de Sirius Black. »
 « *Quoi ?* » s’écria Maugrey en se levant à moitié de sa chaise. « *Je
 croyais qu’il était à Azkaban !* »
 
-« Il y est, » dit Madame Bones. « Nous avons immédiatement vérifié. Les
+« Il y est », dit Madame Bones. « Nous avons immédiatement vérifié. Les
 gardes indiquent qu’il se trouve toujours dans sa cellule. Sa tête et
 son corps ont été transportés à la morgue de Sainte Mangouste et
 montrent la même cause de décès que pour les autres Mangemorts, c’est-à-dire la chute spontanée de sa tête. On m’a aussi indiqué que ce matin
@@ -977,7 +977,7 @@ d’horloges de tourbillons s’étira.
 
 « Ah… » dit Minerva. « Même pour Vous-Savez-Qui, c’est impossible, non ? »
 
-« J’aurais cru la même chose à votre âge, ma chère, » dit Amelia. « C’est
+« J’aurais cru la même chose à votre âge, ma chère », dit Amelia. « C’est
 la sixième chose la plus étrange que j’ai jamais vue. »
 
 « Tu vois, petit ? » dit Maugrey. « C’est à cause de ce genre de truc que
@@ -1022,7 +1022,7 @@ croassement et s’enfonça dans sa chaise.
 
 « Oui, effectivement… » dit lentement Minerva. « Pourquoi ? »
 
-« Sirius Black a lancé un Confundus sur Peter Pettigrow, » dit Harry d’un
+« Sirius Black a lancé un Confundus sur Peter Pettigrow », dit Harry d’un
 ton patient, « pour le forcer à changer de forme et à prétendre être
 Black. Quand le Confundus s’est dissipé, Peter était à Azkaban et ne
 pouvait plus se retransformer. Les Aurors ont l’habitude d’entendre les
@@ -1032,11 +1032,11 @@ perdre la voix. »
 
 Même Maugrey Fol-Œil parut horrifié.
 
-« Rétrospectivement, » dit la voix de Harry, comme sur pilote automatique,
+« Rétrospectivement », dit la voix de Harry, comme sur pilote automatique,
 « vous auriez dû trouver étrange de pouvoir envoyer ne serait-ce *qu’un
 seul* Mangemort à Azkaban sans procès. »
 
-« Nous pensions que Malefoy était distrait, » dit la vieille sorcière.
+« Nous pensions que Malefoy était distrait », dit la vieille sorcière.
 « Qu’il essayait seulement de se sauver lui-même. Nous avons réussi à
 avoir d’autres Mangemorts, Bellatrix par exemple… »
 
@@ -1046,7 +1046,7 @@ fanatisé, le plus dévoué du Seigneur des Ténèbres, un noyau d’opposition
 naturel pour quiconque opposé au contrôle des Mangemorts par Lucius.
 Vous avez cru qu’il était distrait. »
 
-« Sortez-le de là, » dit Minerva McGonagall. Sa voix se mua en cri.
+« Sortez-le de là », dit Minerva McGonagall. Sa voix se mua en cri.
 « *Sortez-le de là !* »
 
 Amelia Bones se releva vivement, pivota vers la cheminée…
@@ -1067,7 +1067,7 @@ pas à votre âge… »
 police au sujet de tous les autres Mangemort envoyés à Azkaban *pendant
 que Lucius était distrait*. Pourrez-vous avoir fait ça ce soir ? »
 
-« Dans l’heure, » dit Amelia Bones, le teint gris.
+« Dans l’heure », dit Amelia Bones, le teint gris.
 
 Harry hocha la tête. « Deuxièmement. Azkaban, c’est fini. Vous allez
 devoir vous préparer à déplacer les prisonniers vers Nurmengard ou
@@ -1080,7 +1080,7 @@ pliera… et les Détraqueurs doivent être nourris, pas autant que ce que
 nous l’avons fait, mais des victimes doivent leur être fournies ou ils
 erreront et se nourriront d’innocents… »
 
-« Peut importe ce que le Magenmagot dit, » répondit Harry. « Parce que… » il
+« Peut importe ce que le Magenmagot dit », répondit Harry. « Parce que… » il
 s’étrangla. « Parce que… » il inspira profondément et se reprit. Il
 pensait à présent pouvoir observer la forme du futur immédiat, étiré
 devant lui comme un chemin d’or illuminé par le soleil. *Cela aussi
@@ -1091,7 +1091,7 @@ s’y trouvent. »
 
 « Impossible ! » cracha Maugrey Fol-Œil.
 
-« Par Merlin, » murmura Amelia Bones. « Oh, par Merlin. C’est ce qui est
+« Par Merlin », murmura Amelia Bones. « Oh, par Merlin. C’est ce qui est
 arrivé au Détraqueur que Dumbledore a »perdu« . C’est pour ça qu’ils ont
 peur de vous… et d’elle aussi, maintenant ? » Sa voix trembla. « Qu’est-ce
 que… qu’est-ce que c’est… »
@@ -1129,7 +1129,7 @@ plans de sécurité et sera aussi paranoïaque qu’il veut, sans être
 contraint par un budget, ni par le bon sens. Mais il devra ouvrir ses
 portes *bientôt*. » Il ne pouvait pas s’arrêter de parler pour pleurer.
 
-« Harry, » dit la directrice, « ils pensent tous les deux que vous êtes
+« Harry », dit la directrice, « ils pensent tous les deux que vous êtes
 devenu fou, ils ne te connaissent pas assez. Tu dois ralentir et
 expliquer. »
 
@@ -1213,7 +1213,7 @@ lorsqu’il s’agissait de ne pas détruire le monde.
 en plein visage et à plusieurs reprises par une planète. « *Qu’est-ce
 qu’il y a encore ?* »
 
-« Non, rien, » dit Harry. Sa voix ne se brisa pas. Il ne sanglota pas. Il
+« Non, rien », dit Harry. Sa voix ne se brisa pas. Il ne sanglota pas. Il
 pouvait encore sauver des vies, et c’était plus important. « Rien.
 Présidente-sorcière Bones, je vous ai remis la régence du Magenmagot.
 Utilisez ce poste pour annoncer au monde que les pouvoirs curatifs de la
@@ -1229,7 +1229,7 @@ semblait étrangement peu intéressé par leur défense. C’est tout. »
 Amelia Bones se retourna sans dire un mot et courut vers la cheminée
 comme si elle avait elle-même été en feu.
 
-« Et que quelqu’un, » dit Harry d’une voix qui se brisait à nouveau
+« Et que quelqu’un », dit Harry d’une voix qui se brisait à nouveau
 maintenant que tout avait été mis en mouvement, maintenant que pleurer
 ne lui faisait plus perdre de temps, même si la majorité des vies en jeu
 s’étaient avérées ne pas pouvoir être sauvées pour l’instant, « que

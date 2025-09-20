@@ -150,7 +150,7 @@ vide.
 
 Il avait raté le petit déjeuner, bien sûr, mais il était Prêt à cette
 éventualité car il l’avait visualisée à l’avance. Harry mit sa main dans
-sa bourse et dit « Barre énergétique, » s’attendant à obtenir la boîte de
+sa bourse et dit « Barre énergétique », s’attendant à obtenir la boîte de
 barres énergétiques qu’il avait achetées avant de partir à Poudlard.
 
 Ce qui apparut n’avait pas la consistance d’une boîte de barres
@@ -199,7 +199,7 @@ POINTS ACTUELS : 98
 TU AS OBTENU : UNE BOITE DE BARRES ÉNERGÉTIQUES
 
 « J’aimerais dépenser un point et *vraiment* obtenir les *barres
-énergétiques*, » dit Harry.
+énergétiques* », dit Harry.
 
 Silence à nouveau.
 
@@ -224,7 +224,7 @@ TU AURAIS UNE PÉNALITÉ PYJAMAS
 *Et maintenant je sais que celui ou celle qui contrôle ce jeu est
 dingue*.
 
-« Je devine que ce jeu est contrôlé par Dumbledore, » dit Harry haut et
+« Je devine que ce jeu est contrôlé par Dumbledore », dit Harry haut et
 fort. Peut-être que *cette fois* il pouvait établir un nouveau record de
 vitesse de compréhension.
 
@@ -315,10 +315,10 @@ quelque chose du genre.
 
 Plan de secours B…
 
-« Je suis perdu, » dit Harry haut et fort. « Le, euh, l’esprit de Poudlard
+« Je suis perdu », dit Harry haut et fort. « Le, euh, l’esprit de Poudlard
 pourrait-il m’aider ? »
 
-« Je ne pense pas que ce château ait un esprit, » remarqua une vieille
+« Je ne pense pas que ce château ait un esprit », remarqua une vieille
 femme desséchée depuis l’un des portraits placés sur le mur. « Une vie,
 peut-être, mais pas un esprit. »
 
@@ -328,7 +328,7 @@ Il y eut une brève pause.
 il n’allait PAS demander au portrait si elle était pleinement
 consciente, au sens d’être conscient de sa propre conscience.
 
-« Je suis Harry Potter, » dit sa bouche, plus ou moins en pilote
+« Je suis Harry Potter », dit sa bouche, plus ou moins en pilote
 automatique. Et plus ou moins en pilote automatique, Harry tendit sa
 main au tableau.
 
@@ -337,11 +337,11 @@ les sourcils.
 
 La main redescendit lentement jusqu’au flanc de Harry.
 
-« Désolé, » dit Harry, « je suis un peu nouveau ici. »
+« Désolé », dit Harry, « je suis un peu nouveau ici. »
 
 « J’avais remarqué, jeune aigle. Où essayez-vous d’aller ? »
 
-Harry hésita. « Je ne suis pas vraiment sûr, » dit-il.
+Harry hésita. « Je ne suis pas vraiment sûr », dit-il.
 
 « Alors peut-être y êtes-vous déjà. »
 
@@ -383,10 +383,10 @@ intelligent. Ou l’image de quelqu’un de très intelligent… quoi qu’il en
 soit, avez-vous entendu parler d’un mystérieux jeu auquel on ne peut
 jouer qu’une fois et dont on ne vous dira pas les règles ? »
 
-« La vie, » répondit immédiatement la dame. « C’est une des énigmes les
+« La vie », répondit immédiatement la dame. « C’est une des énigmes les
 plus simples que j’ai jamais entendu. »
 
-Harry cligna des yeux. « Non, » dit-il lentement. « Je veux dire que j’ai
+Harry cligna des yeux. « Non », dit-il lentement. « Je veux dire que j’ai
 eu une vraie note et tout ça, disant que je devais jouer au jeu mais
 qu’on ne me dirait pas les règles, et quelqu’un me laisse ces petits
 bouts de papier me disant combien de points j’ai perdu pour avoir brisé
@@ -406,7 +406,7 @@ sais pas. »
 Harry s’inclina profondément devant l’image. « Merci, ma dame. »
 
 La dame lui fit une révérence. « J’aimerais pouvoir dire que je me
-souviendrai de vous avec grande affection, » dit-elle, « mais je ne me
+souviendrai de vous avec grande affection », dit-elle, « mais je ne me
 souviendrai probablement pas du tout de vous. Adieu, Harry Potter. »
 
 Il s’inclina à nouveau en guise de réponse, et commença à descendre les
@@ -417,7 +417,7 @@ s’arrêtait abruptement en un large monticule de rochers — comme si il y
 avait eu un éboulement, sauf que les murs et le plafond étaient intacts
 et faits de pierre de château assez normale.
 
-« Très bien, » dit Harry au vide qui l’entourait, « Je laisse tomber. Je
+« Très bien », dit Harry au vide qui l’entourait, « Je laisse tomber. Je
 demande un autre indice. Comment puis-je aller là où j’ai besoin
 d’aller ? »
 
@@ -451,7 +451,7 @@ la classe de Métamorphose de McGonagall ! C’est l’indice ! Et bouge-toi
 tu es plus lent qu’un sac d’escargot ! Moins dix points pour lenteur !
 Maintenant tu as 61 points ! C’était le reste du message ! »
 
-« Merci, » dit Harry. Il commençait à vraiment traîner à ce jeu. « Euh…
+« Merci », dit Harry. Il commençait à vraiment traîner à ce jeu. « Euh…
 j’imagine que vous ne savez pas d’où le message *provenait* ? »
 
 « Il a été dit par une voix creuse qui émanait d’un trou dans l’air
@@ -473,7 +473,7 @@ L’image de l’homme d’âge moyen s’interrompit. « Du moins les choses
 étaient ainsi quand *j’étais* à Poudlard. Nous *sommes* un lundi d’une
 année impaire, n’est-ce pas ? »
 
-« Criterié et feuille de papium, » dit Harry à sa bourse. « Euh, annule ça,
+« Criterié et feuille de papium », dit Harry à sa bourse. « Euh, annule ça,
 critérium et feuille de papier. » Il leva les yeux. « Vous pourriez
 répéter ça ? »
 
@@ -552,7 +552,7 @@ Et Harry se tint au centre des Serpentard, là où Neville s’était tenu,
 le regard levé vers les garçons bien plus vieux, bien plus grands et
 bien plus forts.
 
-« Bonjour, » dit Harry. « Je suis le Survivant. »
+« Bonjour », dit Harry. « Je suis le Survivant. »
 
 Il y eut une pause plutôt gênante. Personne ne semblait savoir comment
 la conversation était censée évoluer.
@@ -567,10 +567,10 @@ de revenir et de ramasser ses affaires, du moment que les Serpentard
 restaient trop concentrés sur Harry pour faire quoi que ce soit aux
 livres.
 
-Malheureusement, on avait remarqué que ses yeux s’étaient égarés. « Ooh, »
+Malheureusement, on avait remarqué que ses yeux s’étaient égarés. « Ooh »,
 dit le plus grand des garçons, « on voulait les p’tits bouquins — »
 
-« La ferme, » dit Harry froidement. *Garde-les déséquilibrés. Ne fais pas
+« La ferme », dit Harry froidement. *Garde-les déséquilibrés. Ne fais pas
 ce à quoi ils s’attendent. N’ai pas un comportement qui les encourage à
 te malmener.* « Cela fait-il partie d’un plan incroyablement malin vous
 permettant d’obtenir un avantage futur, ou est-ce autant une inutile
@@ -586,10 +586,10 @@ Il ne savait pas encore comment utiliser sa baguette, mais il n’y avait
 aucune raison de laisser cela l’arrêter, au vu des circonstances.
 
 « Je voudrais payer *autant de points que nécessaire* pour me débarrasser
-de cette personne, » dit Harry, pointant son doigt vers le plus grand des
+de cette personne », dit Harry, pointant son doigt vers le plus grand des
 Serpentard.
 
-Puis Harry leva son autre main, dit « Abracadabra, » et claqua des doigts.
+Puis Harry leva son autre main, dit « Abracadabra », et claqua des doigts.
 
 Au son d’*Abracadabra*, deux des Poufsouffle hurlèrent, y compris
 Neville, trois autres Serpentard se jetèrent désespérément loin de la
@@ -610,7 +610,7 @@ Poufsouffle était en train de faire.
 
 Puis Harry remarqua la note en-dessous du plat.
 
-« Attends, » dit Harry, et il s’élança pour récupérer la note. « Cette note
+« Attends », dit Harry, et il s’élança pour récupérer la note. « Cette note
 est pour moi je pense — »
 
 « *Toi,* » grogna le plus grand des Serpentard, « *toi, tu, vas — * »
@@ -638,7 +638,7 @@ baguette et la pointa vers Harry, et au même moment une nouvelle tarte
 le frappait sur la tête, celle-ci à la myrtille.
 
 La note sur cette tarte était plutôt grande et clairement lisible. « Tu
-devrais peut-être lire la note sur cette tarte, » remarqua Harry. « Je
+devrais peut-être lire la note sur cette tarte », remarqua Harry. « Je
 pense que c’est pour toi cette fois-ci. »
 
 Le Serpentard leva lentement la main, regarda le plat à tarte, le
@@ -657,12 +657,12 @@ L’expression de pure perplexité sur le visage du Serpentard était un
 chef d’œuvre. Harry songea qu’il commençait peut-être à aimer le
 Contrôleur du Jeu.
 
-« Écoute, » dit Harry, « tu veux qu’on s’arrête là ? Je pense que les
+« Écoute », dit Harry, « tu veux qu’on s’arrête là ? Je pense que les
 choses commencent à échapper à notre contrôle par ici. Et si tu
 retournais à Serpentard et que je retournais à Serdaigle et que nous
 nous calmions tous un peu, d’accord ? »
 
-« J’ai une meilleure idée, » siffla le plus grand des Serpentard. « Et si
+« J’ai une meilleure idée », siffla le plus grand des Serpentard. « Et si
 tu te cassais accidentellement tous tes doigts ? »
 
 « Comment, au nom de Merlin, pourrais-tu mettre en scène un accident
@@ -695,7 +695,7 @@ qu’une autre tentative pour provoquer la peur.*
 « Arrête ! » dit le Serpentard qui avait auparavant protesté. « Arrête,
 c’est une très mauvaise idée ! »
 
-« Je suis plutôt d’accord, » dit une voix de glace. La voix d’une femme
+« Je suis plutôt d’accord », dit une voix de glace. La voix d’une femme
 plus âgée.
 
 Le plus grand des Serpentard relâcha la main de Harry et fit un bond en
@@ -707,7 +707,7 @@ heureux que Harry n’avait jamais entendu de sa vie.
 Alors qu’il pivotait, une petite femme boulotte se faufila dans son
 champ de vision. Elle avait des cheveux gris hirsute et bouclés, et ses
 vêtements étaient couverts de poussière. Elle pointa un doigt accusateur
-en direction des Serpentard. « Expliquez-vous, » dit-elle. « Que
+en direction des Serpentard. « Expliquez-vous », dit-elle. « Que
 faites-vous avec mes Poufsouffle et… » elle le regarda, « mon excellent
 étudiant, Harry Potter. »
 
@@ -732,7 +732,7 @@ Le Professeur Chourave se tourna et regarda Harry. « Oui, une menace
 vraiment terrible venant d’un garçon de onze ans. Mais tout de même pas
 quelque chose que vous devriez *jamais* rêver de feindre, Harry Potter. »
 
-« Je ne connais même pas les *mots* du Sort de Mort, » dit promptement
+« Je ne connais même pas les *mots* du Sort de Mort », dit promptement
 Harry. « Et je n’ai sorti ma baguette à aucun moment. »
 
 C’était maintenant à Harry que le Professeur Chourave jetait un regard
@@ -743,14 +743,14 @@ sceptique. « J’imagine que ce garçon s’est jeté deux tartes sur
 « Je ne sais pas non plus comment il a fait, il a claqué des doigts, et
 il y avait une tarte ! »
 
-« Vraiment, » dit le Professeur Chourave après une pause. Elle tira sa
+« Vraiment », dit le Professeur Chourave après une pause. Elle tira sa
 propre baguette. « Je ne l’exigerai pas vu que vous semblez être la
 victime, mais accepteriez-vous que j’examine votre baguette pour
 vérifier ça ? »
 
 Harry sortit sa baguette. « Qu’est ce que je — »
 
-« *Priori Incantatem*, » dit Chourave. Elle fronça les sourcils. « C’est
+« *Priori Incantatem* », dit Chourave. Elle fronça les sourcils. « C’est
 étrange, votre baguette semble n’avoir jamais été utilisée. »
 
 Harry haussa les épaules. « C’est le cas à vrai dire, je n’ai eu ma
@@ -765,8 +765,8 @@ descendirent délibérément vers les livres de Neville, étalés au sol.
 Il y eut un long silence pendant lequel elle regarda les cinq
 Serpentard.
 
-« Trois points ôtés de Serpentard, *chacun*, » dit-elle enfin. « Et six de
-*lui*, » pointant le garçon couvert de tarte. « Ne touchez plus *jamais* à
+« Trois points ôtés de Serpentard, *chacun* », dit-elle enfin. « Et six de
+*lui* », pointant le garçon couvert de tarte. « Ne touchez plus *jamais* à
 mes Poufsouffle, ni à mon étudiant Harry Potter. Maintenant *partez*. »
 
 Elle n’eut pas à se répéter ; les Serpentard firent demi-tour et s’en
@@ -776,7 +776,7 @@ Neville alla ramasser ses livres. Il semblait pleurer mais un petit peu
 seulement. Ç’aurait pu être l’effet différé du choc, ou ç’aurait pu être
 parce que les autres garçons l’aidaient.
 
-« Merci *beaucoup*, Harry Potter, » lui dit le Professeur Chourave. « Sept
+« Merci *beaucoup*, Harry Potter », lui dit le Professeur Chourave. « Sept
 points à Serdaigle, un pour chaque Poufsouffle que vous avez protégé. Et
 je ne dirai rien de plus. »
 
@@ -786,7 +786,7 @@ réprimande plutôt sévère pour avoir raté son tout premier cours.
 
 Peut-être qu’il aurait *dû* aller à Poufsouffle. Chourave était cool.
 
-« *Récurvite*, » dit Chourave au fatras de tartes qui était sur le sol, qui
+« *Récurvite* », dit Chourave au fatras de tartes qui était sur le sol, qui
 disparut promptement.
 
 Et elle partit, marchant le long du couloir qui menait à la salle
@@ -800,7 +800,7 @@ veux juste en claquant des doigts. »
 
 Les yeux du garçon s’agrandirent. « *Vraiment ?* »
 
-« Non, » dit Harry. « Mais quand vous raconterez cette histoire à tout le
+« Non », dit Harry. « Mais quand vous raconterez cette histoire à tout le
 monde, assurez-vous de la partager avec Hermione Granger, en première
 année à Serdaigle, elle a une anecdote que vous trouverez amusante. » Il
 n’avait aucune idée de ce qui se passait, mais il n’allait pas laisser
@@ -811,7 +811,7 @@ Le garçon lui jeta un étrange regard. « Tu ne sais vraiment pas ? »
 
 « Si je le savais je ne poserais pas la question. »
 
-« Les mots pour le Sort de Mort sont, » le garçon avala sa salive, et sa
+« Les mots pour le Sort de Mort sont », le garçon avala sa salive, et sa
 voix devint un murmure, et il tint ses mains loin de ses flancs comme
 pour rendre très clair le fait qu’il ne tenait pas de baguette, « *Avada
 Kedavra*. »
@@ -823,7 +823,7 @@ le Professeur Michael Verres-Evans. C’était déjà assez de parler du fait
 que vous étiez la seule personne à avoir survécu au terrible Sort de
 Mort sans avoir à admettre que le Sort de Mort était « Abracadabra. »
 
-« Je vois, » dit Harry après une pause. « Eh bien c’est la dernière fois
+« Je vois », dit Harry après une pause. « Eh bien c’est la dernière fois
 que je dis *ça* avant de claquer des doigts. » Bien que ça *ait* produit
 un effet qui pourrait être tactiquement utile.
 
@@ -833,7 +833,7 @@ un effet qui pourrait être tactiquement utile.
 c’est drôle. Je suis sérieux, c’est ce qui s’est passé. Désolé mais
 pourrais-tu me rappeler ton nom ? »
 
-« Je suis Ernie Macmillan, » dit le Poufsouffle. Il tendit sa main, et
+« Je suis Ernie Macmillan », dit le Poufsouffle. Il tendit sa main, et
 Harry la serra. « Honoré de te rencontrer. »
 
 Harry s’inclina légèrement. « Ravi de te rencontrer, oublie les “honoré”
@@ -849,7 +849,7 @@ dire à Neville — »
 Tous les yeux se tournèrent vers Neville, qui fit un pas en arrière,
 l’air appréhensif.
 
-« J’imagine, » dit Neville d’une petite voix, « que tu vas dire que
+« J’imagine », dit Neville d’une petite voix, « que tu vas dire que
 j’aurais dû être plus brave — »
 
 « Oh, non, rien de ce genre ! » dit hâtivement Harry. « Rien à voir avec
@@ -879,14 +879,14 @@ des larmes. « Pourquoi est-ce que *tout le monde* me fait ça, même le
 Survivant ? »
 
 Harry se sentit soudain plus petit qu’il ne s’était jamais senti. « Je
-suis désolé, » dit Harry à nouveau, sa voix maintenant enrouée. « C’est
+suis désolé », dit Harry à nouveau, sa voix maintenant enrouée. « C’est
 juste que… tu avais l’air *tellement* effrayé, c’était comme un signe
 au-dessus de ta tête disant “victime”, et je voulais te montrer que les
 choses ne tournaient pas *toujours* mal, que parfois les monstres
 donnent du chocolat… je me suis dit que si je te montrais ça, tu te
 rendrais compte qu’il n’y avait pas tellement de quoi avoir peur — »
 
-« Mais il y *a* de quoi avoir peur, » chuchota Neville, « tu l’as vu
+« Mais il y *a* de quoi avoir peur », chuchota Neville, « tu l’as vu
 aujourd’hui ! »
 
 « Ils n’auraient rien fait de mal devant des témoins. Leur arme
@@ -897,7 +897,7 @@ me suis dit, mais le Choixpeau Magique m’a dit que je me mentais à
 moi-même et que j’avais fait ça parce que c’était amusant. Donc c’est
 pour ça que je m’excuse — »
 
-« Tu m’as fait mal, » dit Neville. « À l’instant. Quand tu m’as attrapé et
+« Tu m’as fait mal », dit Neville. « À l’instant. Quand tu m’as attrapé et
 m’a tiré loin d’eux. » Neville tendit son bras et indiqua l’endroit où
 Harry l’avait saisi. « J’aurai peut-être un bleu ici plus tard, tellement
 tu as tiré fort. En fait, tu m’as fait plus mal qu’aucun des Serpentard
@@ -905,7 +905,7 @@ ne l’avait fait en me poussant. »
 
 « *Neville !* » siffla Ernie. « Il essayait de te *sauver* ! »
 
-« Je suis désolé, » murmura Harry. « Quand j’ai vu ça je me suis juste…
+« Je suis désolé », murmura Harry. « Quand j’ai vu ça je me suis juste…
 vraiment mis en colère… »
 
 Neville le regarda calmement. « Alors tu m’as éjecté avec force et tu
@@ -913,7 +913,7 @@ t’es mis là où j’étais et tu as dit “Bonjour, je suis le Survivant”.�
 
 Harry acquiesça.
 
-« Je pense que tu seras vraiment cool un jour, » dit Neville. « Mais pour
+« Je pense que tu seras vraiment cool un jour », dit Neville. « Mais pour
 l’instant tu ne l’es pas. »
 
 Harry avala le nœud soudain apparu dans sa gorge et s’en fut. Il
@@ -1018,6 +1018,6 @@ porte de son bureau.
 
 Il frappa.
 
-« Entrez, » dit le Professeur d’une voix étouffée.
+« Entrez », dit le Professeur d’une voix étouffée.
 
 Il entra.

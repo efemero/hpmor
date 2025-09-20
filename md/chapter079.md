@@ -28,7 +28,7 @@ l’ignora. « Vous essayez d’arrêter *Hermione Granger*, la plus gentille
 fille de Serdaigle, elle aide les Poufsouffle à faire leurs devoirs,
 elle *mourrait* plutôt que d’essayer de tuer *qui que ce soit…* »
 
-Le visage de Hermione s’était effondré. « Je l’ai fait, » chuchota-t-elle.
+Le visage de Hermione s’était effondré. « Je l’ai fait », chuchota-t-elle.
 « C’était moi. »
 
 Un autre rocher immense tomba sur les pensées de Harry, broya leur
@@ -36,11 +36,11 @@ fragile structure, fit tomber des fragments de compréhension en
 poussière.
 
 Le visage de Dumbledore semblait avoir vieilli de plusieurs décennies en
-quelques secondes. « Pourquoi, Mlle Granger ?, » dit-il d’une voix qui
+quelques secondes. « Pourquoi, Mlle Granger ? », dit-il d’une voix qui
 dépassait à peine le niveau du murmure. « Pourquoi feriez-vous un chose
 pareille ? »
 
-« Je, » dit Hermione, « je, je suis… Désolée… Je ne sais pas pourquoi
+« Je », dit Hermione, « je, je suis… Désolée… Je ne sais pas pourquoi
 j’ai… » Elle sembla s’effondrer sur elle-même, sa voix n’était plus que
 des sanglots, et les seuls mots qu’on put comprendre furent : « Je
 pensais… L’ai tué… Désolée… »
@@ -135,7 +135,7 @@ avait fait, croyant que M. Malefoy était déjà mort – comme il l’aurait
 certainement été au bout de sept heures si la magie de son propre corps
 n’avait pas résisté aux effets du sortilège de refroidissement sanguin.
 
-« Son procès, » dit Albus Dumbledore, « est prévu pour demain, midi. »
+« Son procès », dit Albus Dumbledore, « est prévu pour demain, midi. »
 
 « *Quoi ?* » les mots jaillirent de Harry Potter. Le Survivant ne se leva
 pas de sa chaise mais Minerva vit les doigts de ce dernier blanchir
@@ -149,17 +149,17 @@ d’habitude mais le mordant de ses mots était acéré. « Les Aurors ont une
 accusation sous Veritaserum et une confession sous Veritaserum. De leur
 point de vue, cette enquête est *terminée*. »
 
-« Pas tout à fait, » dit Dumbledore au moment où Harry sembla être sur le
+« Pas tout à fait », dit Dumbledore au moment où Harry sembla être sur le
 point d’exploser. « J’ai insisté auprès d’Amelia afin que cette affaire
 soit l’objet d’un examen des plus approfondis. Malheureusement, comme le
 funeste duel s’est déroulé à minuit… »
 
-« Duel *supposé*, » dit Harry d’un ton brusque.
+« Duel *supposé* », dit Harry d’un ton brusque.
 
 « Comme le duel *supposé* était à minuit – oui Harry, tu as tout à fait
 raison – il est hors de portée de tout Retourneur de Temps… »
 
-« *Supposément* aussi, » dit le Survivant avec froideur. « Et assez
+« *Supposément* aussi », dit le Survivant avec froideur. « Et assez
 *étrangement*, puisque la présumée coupable de meurtre ignore
 l’existence des Retourneur de Temps. J’espère qu’un Auror invisible a
 été envoyé dans le passé aussi loin que possible afin d’observer… »
@@ -168,7 +168,7 @@ Dumbledore inclina la tête. « J’y ai été *moi-même*, Harry, au moment o
 je l’ai appris. Mais lorsque j’ai atteint la salle des trophées, M.
 Malefoy était déjà inconscient et Mlle Granger était partie… »
 
-« Non, » dit Harry Potter. « Vous avez atteint la salle des trophées et
+« Non », dit Harry Potter. « Vous avez atteint la salle des trophées et
 avez vu Drago inconscient. C’est tout ce que vous avez observé, M. le
 directeur. Vous n’avez pas *vu* Hermione dans la salle, pas plus que
 vous ne l’avez vue partir. Distinguons les observations des inférences. »
@@ -177,7 +177,7 @@ Sortilège de faux souvenirs, Légilimancie. Professeur McGonagall, ais-je
 omis un sortilège affectant l’esprit qui aurait pu pousser Hermione à
 faire ça ou à lui faire croire qu’elle l’a fait ? »
 
-« Le sortilège de confusion, » dit-elle. Et elle n’avait jamais étudié les
+« Le sortilège de confusion », dit-elle. Et elle n’avait jamais étudié les
 arts noirs, mais elle savait… « ainsi que certains rituels noirs. Mais
 aucun d’entre eux ne pourrait être réalisé à Poudlard sans provoquer
 d’alarme. »
@@ -186,7 +186,7 @@ Le garçon hocha la tête. Ses yeux s’adressaient toujours directement à
 elle. « Lesquels de ces sortilèges peuvent être détectés ? Lesquels les
 Aurors essaieraient-ils de détecter ? »
 
-« Le sortilège de confusion s’estomperait au bout de quelques heures, »
+« Le sortilège de confusion s’estomperait au bout de quelques heures »,
 dit-elle après avoir rassemblé ses pensées pendant quelques instants.
 « Mlle Granger se souviendrait de l’Imperius. Oubliettes ne peut être
 détecté par aucun moyen connu, mais seul un professeur aurait pu lancer
@@ -195,11 +195,11 @@ sécurité de Poudlard. La Légilimancie… ne peut être détectée que par un
 autre Legilimens, il me semble… »
 
 « J’ai demandé à ce que Mlle Granger soit examinée par le Legilimens de
-la cour, » dit Dumbledore. « L’examen a montré… »
+la cour », dit Dumbledore. « L’examen a montré… »
 
 « Faisons-nous confiance à cet homme ? » dit Harry.
 
-« À cette femme, » dit Dumbledore. « Sophie McJorgenson, dont je me
+« À cette femme », dit Dumbledore. « Sophie McJorgenson, dont je me
 souviens comme d’une honnête élève de Serdaigle, et elle liée par un
 Serment Inviolable à révéler sincèrement ce qu’elle a vu… »
 
@@ -218,17 +218,17 @@ refléter sur son visage. « Comme tu l’as dit, Harry, un sortilèges de
 faux souvenirs constitue une possibilité ; lorsqu’ils sont parfaitement
 lancés, ils sont indistinguables de véritables souvenirs… »
 
-« Cela ne me surprend pas, » interrompit Harry. « Les études ont montré que
+« Cela ne me surprend pas », interrompit Harry. « Les études ont montré que
 les souvenirs humains sont plus ou moins réécris à chaque fois que l’on
 se les remémore… »
 
-« Harry, » dit doucement Minerva, et la bouche de Harry se referma d’un
+« Harry », dit doucement Minerva, et la bouche de Harry se referma d’un
 coup sec.
 
 Le vieux sorcier continua « … mais un sortilège de faux souvenirs d’une
 telle qualité demande autant de temps qu’il en faut pour créer un
 véritable souvenir. Créer un souvenir détaillé de dix minutes exige dix
-minutes d’efforts. Et selon le Legilimens de la cour, » le visage d’Albus
+minutes d’efforts. Et selon le Legilimens de la cour », le visage d’Albus
 semblait maintenant encore plus fatigué et ridé qu’avant, « Mlle Granger
 est obsédée par M. Malefoy depuis le jour où Severus… lui a crié dessus.
 Elle a songé à comment M. Malefoy pourrait être en lice avec le
@@ -268,13 +268,13 @@ toujours un suspect, M. Potter. Vous remarquerez cette tendance, avec le
 temps. »
 
 Albus leva un main, demandant le silence, et leurs têtes se tournèrent
-pour le regarder. « Mais dans ce cas, il y a un autre suspect, » dit
+pour le regarder. « Mais dans ce cas, il y a un autre suspect », dit
 doucement Albus. « Voldemort. »
 
 Le plus mortel des mots imprononçables sembla faire écho à travers la
 pièce et oblitérer la chaleur des flammes oranges du foyer.
 
-« J’ignore, » dit lentement le vieux sorcier, « je ne sais que trop peu des
+« J’ignore », dit lentement le vieux sorcier, « je ne sais que trop peu des
 méthodes par lesquelles Voldemort compte atteindre l’immortalité. Je
 crois qu’il s’est mis en quête de ces livres avant que je ne le fasse.
 Tout ce que j’ai pu trouver, ce sont d’anciennes légendes, éparpillés
@@ -297,7 +297,7 @@ qui devient alors un artefact chargé de puissance. »
 semblait que – pour une raison qu’elle ignorait – Albus se refusait à
 prononcer ce mot devant Harry.
 
-« Et par conséquent, » conclut doucement le vieux sorcier,« le reste de
+« Et par conséquent », conclut doucement le vieux sorcier,« le reste de
 l’âme est liée à cette partie enchaînée et demeure ici alors que son
 corps a été détruit. Je pense que ce serait une existence triste et
 douloureuse, plus vile que celle d’un esprit, plus vile que celle du
@@ -319,7 +319,7 @@ bénéficier de… l’explicable furie d’un autre. » La voix d’Albus n�
 presque plus qu’un murmure. « Je soupçonne que c’est cela qui est arrivé
 à Mlle Granger. »
 
-La gorge de Minerva devint très sèche. « Il est *ici*, » hoqueta-t-elle.
+La gorge de Minerva devint très sèche. « Il est *ici* », hoqueta-t-elle.
 « *Ici*, à *Poudlard*… »
 
 Puis elle se tut, car la *raison* pour laquelle Voldemort était venu à
@@ -330,14 +330,14 @@ murmure : « Je suis navré Minerva, tu avais raison. »
 
 La voix de Harry était tranchante. « Raison à quel sujet ? »
 
-« Son meilleur moyen de revivre, » dit Dumbledore avec gravité. « La voie
+« Son meilleur moyen de revivre », dit Dumbledore avec gravité. « La voie
 qu’il désire le plus, par laquelle il s’élèverait à nouveau, plus fort
 et plus terrible que jamais auparavant. Elle est gardée ici, dans ce
 château… »
 
-« Excusez-moi, » dit poliment Harry. « Est-ce que vous êtes stupide ? »
+« Excusez-moi », dit poliment Harry. « Est-ce que vous êtes stupide ? »
 
-« Harry, » dit-elle, mais sa voix était dénuée de force.
+« Harry », dit-elle, mais sa voix était dénuée de force.
 
 « Je veux dire, peut-être que vous n’avez pas remarqué, M. le directeur,
 mais ce château est plein D’ENFANTS… »
@@ -349,7 +349,7 @@ elle est maintenue ici avec *son* consentement ! J’ai *demandé* si elle
 pouvait être gardée au département des mystères. Mais *il* ne l’a pas
 permis – il a dit qu’elle devait être dans l’enceinte de Poudlard, sous
 la protection de ses Fondateurs — » Dumbledore se passa une main se le
-front. « Non, » continua le vieux sorcier d’une voix plus basse. « Je ne
+front. « Non », continua le vieux sorcier d’une voix plus basse. « Je ne
 peux pas lui transmettre le blâme. Il a raison. Cette chose contient
 trop de pouvoir, trop de choses désirée par les hommes. J’ai reconnu que
 le piège devait être tendu derrière les murs de Poudlard, là où mon
@@ -358,10 +358,10 @@ Voldemort parviendrait à se faufiler jusqu’ici et je comptais le prendre
 au piège. Je ne pensais pas – je ne rêvais pas – qu’il s’éterniserait
 dans une forteresse ennemie un instant de plus que nécessaire. »
 
-« Mais, » dit Severus, assez perplexe, « que le Seigneur des Ténèbres
+« Mais », dit Severus, assez perplexe, « que le Seigneur des Ténèbres
 pourrait-il avoir à gagner en tuant le seul descendant de Lucius ? »
 
-« Remarque d’ordre pratique, » dit Harry Potter, un tranchant acéré dans
+« Remarque d’ordre pratique », dit Harry Potter, un tranchant acéré dans
 la voix. « Les motifs de la personne qui est derrière tout cela, quelle
 qu’elle soit, ne sont pas le problème principal. Notre principale
 priorité pour l’instant est qu’un élève innocent de Poudlard a des
@@ -370,16 +370,16 @@ priorité pour l’instant est qu’un élève innocent de Poudlard a des
 Les yeux verts se braquèrent sur les bleus lorsque Albus Dumbledore
 rendit son regard au Survivant…
 
-« Tout à fait, M. Potter, » dit Minerva, elle n’y avait même pas réfléchi,
+« Tout à fait, M. Potter », dit Minerva, elle n’y avait même pas réfléchi,
 les mots semblaient juste sauter hors de ses lèvres. « Albus, qui
 surveille Mlle Granger en ce moment ? »
 
-« Le professeur Flitwick est allé la voir, » dit le directeur.
+« Le professeur Flitwick est allé la voir », dit le directeur.
 
-« Elle a besoin d’un *avocat*, » dit Harry. « Quelqu’un qui se contente de
+« Elle a besoin d’un *avocat* », dit Harry. « Quelqu’un qui se contente de
 dire “c’était moi” à la police… »
 
-« Malheureusement, » dit Minerva en se rapprochant sans s’en rendre compte
+« Malheureusement », dit Minerva en se rapprochant sans s’en rendre compte
 du ton sévère du professeur McGonagall, « je doute qu’un avocat serait
 d’une quelconque utilité à Mlle Granger à ce stade, M. Potter. Elle fera
 face au jugement du Magenmagot et il est hautement improbable qu’il la
@@ -389,7 +389,7 @@ Harry la regardait avec une expression des plus incrédules, comme si la
 suggestion que Hermione puisse se passer d’un avocat était analogue à
 celle qu’il faille l’immoler par le feu.
 
-« Elle a raison, M. Potter, » dit doucement Severus. « Peu de procédures
+« Elle a raison, M. Potter », dit doucement Severus. « Peu de procédures
 judiciaires dans ce pays font appel à des avocats. »
 
 Harry souleva ses lunettes et se frotta les yeux. « Très bien. Et comment
@@ -399,7 +399,7 @@ concepts de « sens commun » et de « probabilité à priori » assez b
 se rendre compte que les filles de douze ans ne commettent
 essentiellement jamais de meurtre ? »
 
-« C’est au Magenmagot qu’elle fait face, » dit Severus. « Les plus
+« C’est au Magenmagot qu’elle fait face », dit Severus. « Les plus
 anciennes des maisons Nobles, et certains autres sorciers influents. » Le
 visage de Severus se tordit en quelque chose qui s’approchait de son
 sarcasme habituel. « Quant à ce qu’ils fassent preuve de sens commun…
@@ -409,7 +409,7 @@ sandwich au bacon, Potter. »
 Harry hocha la tête, mâchoire serrée. « À quelle peine Hermione fait-elle
 face, exactement ? Baguette confisquée, expulsion… »
 
-« Non, » dit Severus. « Rien d’aussi léger. Faites-vous exprès de ne pas
+« Non », dit Severus. « Rien d’aussi léger. Faites-vous exprès de ne pas
 comprendre, Potter ? Elle fait face au *Magenmagot*. Il n’y a pas de
 peine pré-écrite. Il n’y a que le vote. »
 
@@ -427,7 +427,7 @@ Magenmagot vote sur cette proposition. C’est tout. »
 *doit* se rendre compte que Hermione n’est qu’un pion. Pas celle à qui
 il devrait vraiment en vouloir. Pas vrai ? »
 
-« Non, Harry Potter, » dit lourdement Albus Dumbledore. « C’est ce que tu
+« Non, Harry Potter », dit lourdement Albus Dumbledore. « C’est ce que tu
 *souhaites* que Lucius Malefoy pense. Lucius Malefoy lui-même… ne
 partagera pas ton désir de le voir penser ainsi. »
 
@@ -442,14 +442,14 @@ nouvelle. Elle pouvait le voir dans les yeux d’Albus…
 descendirent le long de la colonne vertébrale de Minerva lorsqu’elle
 entendit les nuances contenues dans la voix qui avait prononcé ces mots.
 
-« Non, » dit Albus. « Non, pas le Baiser, pas Azkaban, pas pour une élève
+« Non », dit Albus. « Non, pas le Baiser, pas Azkaban, pas pour une élève
 de Poudlard en première année. Notre pays n’est pas perdu à ce point,
 pas encore. »
 
-« Mais Lucius Malefoy, » dit Severus d’une voix sans timbre, « ne sera
+« Mais Lucius Malefoy », dit Severus d’une voix sans timbre, « ne sera
 certainement pas satisfait de ne voir que sa baguette confisquée. »
 
-« Très bien, » dit Harry avec autorité. « Comme je vois les choses, nous
+« Très bien », dit Harry avec autorité. « Comme je vois les choses, nous
 avons essentiellement deux plans d’action. Premier plan, trouver le
 véritable coupable. Second plan, pouvoir influencer Lucius. Le
 professeur Quirrell a sauvé la vie de Drago, cela créé-t-il une dette de
@@ -458,7 +458,7 @@ celle de Hermione ? »
 
 Minerva cilla à nouveau de surprise.
 
-« Non, » dit Dumbledore. Le vieux sorcier secoua la tête. « C’était une
+« Non », dit Dumbledore. Le vieux sorcier secoua la tête. « C’était une
 idée maline, mais non, Harry, j’ai peur que non. Même au cas peu
 probable où le professeur de Défense s’avérerait appartenir à une maison
 Noble, il existe une exception lorsque le Magenmagot soupçonne qu’une
@@ -474,7 +474,7 @@ que j’ai dit que je ne le ferai pas – mais étant donné les circonstances
 – cette fois où Drago m’a lancé un sortilège de torture, est-ce une
 dette suffisante pour… »
 
-« Non, » dit le vieux sorcier (au moment même où elle lâchait un « Quoi ? »
+« Non », dit le vieux sorcier (au moment même où elle lâchait un « Quoi ? »
 et où Severus soulevait un sourcil). « Cela n’aurait pas suffit, et ce
 n’est plus une dette du tout. Tu es un Occlumens et tu ne peux pas
 témoigner sous Veritaserum. Drago Malefoy pourrait être purgé de son
@@ -485,19 +485,19 @@ Lucius Malefoy sera bientôt au courant. »
 La tête de Harry plongea dans ses mains. « Il va donner du Veritaserum à
 Drago. »
 
-« Oui, » dit doucement Albus.
+« Oui », dit doucement Albus.
 
 Le Survivant ne dit rien, assit, la tête entre les mains.
 
 Le maître des potions avait l’air sincèrement abasourdi. « Drago essayait
-*vraiment* d’aider Mlle Granger, » dit-il. « Vous… Potter, vous l’avez
+*vraiment* d’aider Mlle Granger », dit-il. « Vous… Potter, vous l’avez
 *vraiment*… »
 
 « Fait changer de camp ? » dit Harry entre ses mains. « J’en étais à peu
 près aux trois quarts. Je lui ai appris le Patronus et tout ça. Mais
 maintenant, je ne sais pas ce qui va se passer. »
 
-« Voldemort nous a sévèrement atteints aujourd’hui, » dit Albus. La voix
+« Voldemort nous a sévèrement atteints aujourd’hui », dit Albus. La voix
 du vieux sorcier rappelait l’apparence du garçon dont la tête était
 entre ses mains. « Il a pris deux de nos pièces d’un seul… non. J’aurais
 dû le voir plus tôt. Il a pris deux des pièces de *Harry* d’un seul
@@ -507,17 +507,17 @@ ennemi. Il n’attend pas d’avoir à faire face à Hermione Granger et Drago
 Malefoy aux côtés de Harry lorsqu’ils auront grandi. Il s’en prend à eux
 *maintenant*. »
 
-« Peut-être est-ce Vous-Savez-Qui, peut-être pas, » dit Harry d’une voix
+« Peut-être est-ce Vous-Savez-Qui, peut-être pas », dit Harry d’une voix
 légèrement instable. « Ne rétrécissons pas l’espace de nos hypothèses
 prématurément. » Harry inspira et abaissa les mains. « L’autre possibilité
 est de coincer le véritable coupable avant le procès – ou au moins de
 trouver de bonnes preuves que *quelqu’un d’autre* est coupable. »
 
-« M. Potter, » dit Minerva. « Le professeur Quirrell a parlé aux Aurors
+« M. Potter », dit Minerva. « Le professeur Quirrell a parlé aux Aurors
 d’une personne ayant un motif de faire du mal à Malefoy. Savez-*vous* de
 qui il parlait ? »
 
-« Oui, » dit Harry après avoir hésité. « Mais je pense que je poursuivrai
+« Oui », dit Harry après avoir hésité. « Mais je pense que je poursuivrai
 cette partie de mon enquête avec le professeur de Défense – tout comme
 je n’aurais pas souhaité avoir le professeur Quirrell dans cette pièce
 lorsque nous discutions de la façon dont nous allions enquêter sur
@@ -526,7 +526,7 @@ lorsque nous discutions de la façon dont nous allions enquêter sur
 « Il me soupçonne ? » dit Severus, puis il eut un rire bref. « Ah, mais
 évidemment qu’il me soupçonne. »
 
-« Mon plan, » dit Harry, « est d’aller voir la salle des trophées où le
+« Mon plan », dit Harry, « est d’aller voir la salle des trophées où le
 supposé duel a eu lieu et de voir si je peux découvrir quoi que ce soit
 d’anormal. Si vous pouviez dire aux Aurors sur l’enquête de me laisser
 passer… »
@@ -545,11 +545,11 @@ chaque matin qui lui disaient où aller… »
 
 « *Albus…* » gronda Minerva.
 
-« Je ne les ai pas envoyées, » dit le vieux sorcier. Ses sourcils blancs
+« Je ne les ai pas envoyées », dit le vieux sorcier. Ses sourcils blancs
 s’étaient élevés sous le coup de la surprise. « J’ignorais tout de cela.
 Pensez-vous qu’on se jouait d’elle, Harry ? »
 
-« C’est une possibilité, » dit-il. « D’autant plus que vous ne connaissez
+« C’est une possibilité », dit-il. « D’autant plus que vous ne connaissez
 pas encore une autre pièce puzzle. » La voix de Harry baissa d’un ton et
 devint plus intense. « M. le directeur, vous savez déjà que j’ai obtenu
 la cape d’invisibilité de mon père par quelqu’un qui a laissé un mot
@@ -557,10 +557,10 @@ sous mon oreiller en disant que c’était un cadeau de Noël en avance. Je
 pense que nous devons supposer que c’est la même personne qui laissait
 des mots sous l’oreiller de Hermione… »
 
-« Harry, » dit le vieux sorcier, et il hésita l’espace d’un instant. « Te
+« Harry », dit le vieux sorcier, et il hésita l’espace d’un instant. « Te
 rendre la cape de ton père ne semble pas être le fait d’un ennemi… »
 
-« *Écoutez*, » dit Harry Potter avec une note d’urgence dans la voix. « Ce
+« *Écoutez* », dit Harry Potter avec une note d’urgence dans la voix. « Ce
 que vous *ignorez* c’est qu’après que Bellatrix Black se soit échappée
 d’Azkaban, j’ai trouvé un autre mot sous mon oreiller, signé “Père
 Noël”, qui me disait qu’il avait entendu dire que vous m’enfermiez à
@@ -572,7 +572,7 @@ roi de cœur est censé être un Portoloin… »
 même y songer. « Cela pourrait très bien être une *tentative
 d’enlèvement* ! Vous auriez dû… »
 
-« *Oui*, professeur, j’ai réagi de façon sensée, » dit le garçon d’un ton
+« *Oui*, professeur, j’ai réagi de façon sensée », dit le garçon d’un ton
 égal. « *Au vu des circonstances*, j’ai réagi de façon sensée. J’en ai
 parlé au professeur Quirrell. Et selon le professeur Quirrell, ce
 Portoloin va quelque part à Londres – il n’est définitivement pas assez
@@ -623,7 +623,7 @@ de cheminette à une vitesse telle que sa cape s’éleva à sa traîne. « Je
 vais prendre du Polynectar brut, ajouter le cheveu et partir. M. le
 directeur, pourriez-vous rester ici pour — »
 
-« Albus, » dit Minerva, surprise par la stabilité de la propre voix,
+« Albus », dit Minerva, surprise par la stabilité de la propre voix,
 « est-ce vous qui avez laissé ces mots sous l’oreiller de M. Potter ? »
 
 La main de Severus s’arrêta un instant avant de lancer la poudre dans le
@@ -637,12 +637,12 @@ aurait été gardé à l’abri jusqu’à ce que vous veniez le récupérer et 
 ramener à Poudlard ? » Sa voix était serrée – c’était raisonnable, elle
 ne pouvait pas le nier, mais cela lui semblait pourtant un peu cruel.
 
-« Cela aurait dépendu des circonstances, » dit doucement le vieux sorcier.
+« Cela aurait dépendu des circonstances », dit doucement le vieux sorcier.
 « Si Harry en était arrivé là… je l’aurais peut-être laissé profiter de
 son évasion pendant un moment. Mieux valait savoir où il allait et
 s’assurer que ce soit un endroit sûr, peuplé d’amis… »
 
-« Et dire, » continua le professeur McGonagall, « que j’avais pensé à
+« Et dire », continua le professeur McGonagall, « que j’avais pensé à
 réprimander M. Potter pour ne pas nous avoir fait part de ce fait
 important ! À lui reprocher de ne pas avoir le bon sens de nous faire
 confiance ! » Sa voix avait monté d’un cran. « J’imagine que je sauterai
@@ -651,10 +651,10 @@ cette leçon ! »
 Severus regardait fixement le directeur en plissant les yeux. « Et les
 mots à Mlle Granger… »
 
-« Le professeur de Défense, très probablement, » dit le vieux sorcier.
+« Le professeur de Défense, très probablement », dit le vieux sorcier.
 « Mais…ce n’est qu’une supposition. »
 
-« J’irai les chercher, » dit Severus. « Et je suppose que je commencerai
+« J’irai les chercher », dit Severus. « Et je suppose que je commencerai
 ensuite à chercher Vous-Savez-Qui. » Il fronça brièvement les sourcils.
 « Une tâche pour laquelle je ne sais absolument pas par où commencer.
 Connaîtriez-vous des magies permettant de trouver une âme, M. le
@@ -710,9 +710,9 @@ et ordonna : « Donnez-moi la carte ! »
 jamais soupçonné que Dumbledore avait soupçonné. « Pourquoi, n-nous ne
 savons pas ce que vous… »
 
-« Hermione Granger a des ennuis, » dit le vieux sorcier.
+« Hermione Granger a des ennuis », dit le vieux sorcier.
 
-« La Carte est dans notre dortoir, » dirent immédiatement Fred et George.
+« La Carte est dans notre dortoir », dirent immédiatement Fred et George.
 « Donnez-nous juste quelques minutes pour la prendre et nous… »
 
 Les bras du sorcier les soulevèrent comme s’ils étaient d’immenses
@@ -727,10 +727,10 @@ personne qui en était le véritable propriétaire alors que le vieux
 sorcier fronçait lui-même les sourcils devant l’apparence vierge du
 parchemin.
 
-« Il faut dire, » expliquèrent-ils, « *je jure solennellement que mes
+« Il faut dire », expliquèrent-ils, « *je jure solennellement que mes
 intentions sont mauvaises…* »
 
-« Je me refuse à mentir, » dit le vieux sorcier. Il leva la Carte bien
+« Je me refuse à mentir », dit le vieux sorcier. Il leva la Carte bien
 haut et mugit : « Entends-moi, Poudlard ! *Deligitor prodi !* » Un instant
 plus tard le directeur était coiffé du Choixpeau, et ce dernier lui
 allait *effroyablement* *bien*, comme si Dumbledore avait toujours
@@ -751,11 +751,11 @@ façon particulièrement glaçante. Au beau milieu d’une rune, il leva les
 yeux et les regarda tous les deux d’un regard sévère. « Je vous la
 rendrai plus tard, fils des Weasley. Retournez en cours. »
 
-« Oui, M. le directeur, » dirent-ils, et il hésitèrent. « Ah… à propos de
+« Oui, M. le directeur », dirent-ils, et il hésitèrent. « Ah… à propos de
 Hermione Granger, va-t-elle vraiment devoir servir Drago pour toujours
 comme sa… »
 
-« *Partez*, » dit le vieux sorcier.
+« *Partez* », dit le vieux sorcier.
 
 Ils s’en furent.
 
@@ -792,7 +792,7 @@ Quirrell avait poliment rendu sa baguette au début de sa détention pour
 interrogatoire et qu’il n’avait semblé prononcer aucune incantation ni
 exercer aucun autre pouvoir.
 
-« Quirinus… Quirrell, » dit d’une voix traînante l’homme qui était
+« Quirinus… Quirrell », dit d’une voix traînante l’homme qui était
 maintenant assis face au professeur de Défense qui avait courtoisement
 attendu. L’interrogateur avait des cheveux fauve tirés en arrière comme
 la crinière d’un lion et des yeux jaunâtres plantés dans le visage
@@ -814,7 +814,7 @@ Interdit, la Ville de la Nuit Sans Fin… eh bien eh bien, le *Texas*. »
 L’homme releva les yeux des documents, yeux plissés. « Que faisiez-vous
 *là-bas*, M. Quirrell ? »
 
-« Du tourisme, surtout dans les zones moldues, » répondit le professeur de
+« Du tourisme, surtout dans les zones moldues », répondit le professeur de
 Défense, à l’aise. « Comme vous l’avez dit, un sacré touriste. »
 
 L’homme écouta cela avec un froncement de sourcils, rabaissa les yeux
@@ -873,7 +873,7 @@ maître des potions partit pour rendre état de l’échec de sa mission.
 
 
 Le professeur de Défense était calmement assis, ses mains toujours
-croisés sur ses genoux. « Si vous consultez le directeur, M. Dumbledore, »
+croisés sur ses genoux. « Si vous consultez le directeur, M. Dumbledore »,
 dit le professeur de Défense, « vous découvrirez qu’il est parfaitement
 au courant de l’affaire et que j’ai accepté d’enseigner à ce cours de
 Défense à la condition explicite qu’aucune question ne soit posée quant
@@ -884,30 +884,30 @@ Vif comme l’éclair, l’interrogateur brandit sa baguette et cracha
 éternuait, ce qui brisa mystérieusement le rayon argenté en une douche
 d’étincelles blanches.
 
-« Excusez-moi, » dit poliment le professeur de Défense.
+« Excusez-moi », dit poliment le professeur de Défense.
 
 Le sourire que lui envoya l’Auror ne comportait aucune joie. « Alors où
 est le véritable Quirinus Quirrell, hein ? Victime d’un Imperius quelque
 part au fond d’un coffre, où vous lui prenez un cheveu de temps à autre
 pour préparer illégalement votre Polynectar ? »
 
-« Vous faites des suppositions hautement douteuses, » dit le professeur de
+« Vous faites des suppositions hautement douteuses », dit le professeur de
 Défense d’une voix qui n’était plus dénuée de tranchant. « Qu’est-ce qui
 vous fait croire que je n’ai pas entièrement volé son corps à l’aide
 d’une magie incroyablement Noire ? »
 
 Ce qui fut suivi par un certain silence.
 
-« Je suggère, » dit l’Auror, « que vous preniez ceci au sérieux, M.
+« Je suggère », dit l’Auror, « que vous preniez ceci au sérieux, M.
 Qui-Que-Vous-Soyez. »
 
-« Je suis navré, » dit le professeur de Défense en s’inclinant dans sa
+« Je suis navré », dit le professeur de Défense en s’inclinant dans sa
 chaise, « mais je vois pas de raison particulière de me rabaisser à cela
 en pareille occasion. Qu’est-ce que vous allez faire, me tuer ? »
 
-« Je n’apprécie pas votre humour, » dit l’Auror d’une voix douce.
+« Je n’apprécie pas votre humour », dit l’Auror d’une voix douce.
 
-« Que c’est dommage pour vous, Rufus Scrimgeour, » dit le professeur de
+« Que c’est dommage pour vous, Rufus Scrimgeour », dit le professeur de
 Défense, « vous avez ma plus profonde compassion. » Il inclina la tête,
 semblant étudier l’interrogateur ; et depuis l’ombre même de la lumière
 de glace, ses yeux étincelèrent.
@@ -973,7 +973,7 @@ s’entrechoquèrent.
 professeurs, mais cette fois, cela n’attira le regards que de quelques
 élèves proches de lui.
 
-« Je voulais déjeuner, » dit Harry Potter, « et retourner à mon enquête,
+« Je voulais déjeuner », dit Harry Potter, « et retourner à mon enquête,
 donc je ne comptais pas parler. Mais vous vous comportez tous comme des
 *idiots* et quand la vérité éclatera vous regretterez ce que vous avez
 dit au sujet de gens innocents. Drago n’a rien fait, Hermione n’a rien
@@ -990,7 +990,7 @@ Et Morag hocha la tête d’approbation et prit un air condescendant.
 
 L’apparence que prit le visage de Harry fit tressaillir Padma.
 
-« Je vois, » dit Harry Potter, et il parla sans crier, si bien que Padma
+« Je vois », dit Harry Potter, et il parla sans crier, si bien que Padma
 dut faire un effort pour l’entendre. « Le professeur Quirrell n’est pas
 là pour m’expliquer à quel point les gens sont bêtes, mais je parie que
 cette fois-ci je peux y arriver tout seul. Des gens font quelque chose
@@ -1017,7 +1017,7 @@ Survivant avec mépris.
 l’air légèrement plus âgée que Padma ne reconnut pas. « Alors que *tu* a
 tiré Granger vers les ténèbres ? »
 
-« Et je ne vais même pas me plaindre, » dit Harry d’une voix étrangement
+« Et je ne vais même pas me plaindre », dit Harry d’une voix étrangement
 calme, « en disant que les sorciers ne sont pas logiques et croient aux
 choses les plus folles. Parce que j’ai déjà dit ça au professeur
 Quirrell et il m’a juste lancé ce *regard* et il a dit que si je n’avais

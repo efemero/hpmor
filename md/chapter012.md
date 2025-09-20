@@ -20,7 +20,7 @@ ensuite Trié à la Maison Serdaigle se rapprochait beaucoup d’être trempé
 dans de la sauce barbecue et jeté dans une fosse pleine de chatons
 affamés.
 
-« J’ai promis au Choixpeau Magique de ne pas en parler, » chuchota Harry
+« J’ai promis au Choixpeau Magique de ne pas en parler », chuchota Harry
 pour la énième fois.
 
 « Oui, vraiment. »
@@ -75,7 +75,7 @@ processus de Triage officiel. Et que c’était un bout de magie
 supplémentaire mis en place par Salazar Serpentard pendant la
 fabrication du Choixpeau. Et que le Choixpeau lui-même n’était pas au
 courant. Et que ça avait été déclenché quand le Choixpeau avait dit
-« SERPENTARD !, » et peut-être que d’autres conditions avaient été
+« SERPENTARD ! », et peut-être que d’autres conditions avaient été
 satisfaites. Et qu’un Serdaigle tel que lui n’était *vraiment, vraiment
 pas censé l’avoir entendu.* Et que, s’il pouvait trouver une façon sure
 de faire jurer le secret à Drago pour qu’il puisse l’interroger à ce
@@ -173,7 +173,7 @@ Quelqu’un demanda à Harry s’il allait bien. (Les autres commençaient à
 se servir de nourriture, qui était magiquement apparue sur la table,
 waouh.)
 
-« Je vais bien, » dit Harry. « Excuse-moi. Euh. Était-ce un… discours
+« Je vais bien », dit Harry. « Excuse-moi. Euh. Était-ce un… discours
 *normal* pour le directeur ? Vous n’aviez… pas l’air… très surpris… »
 
 « Oh, Dumbledore est clairement dément » dit un Serdaigle à l’air plus âgé
@@ -201,12 +201,12 @@ Un autre étudiant baissa sa voix jusqu’au niveau d’un chuchotement.
 qui contrôlait beaucoup de choses et qu’il utilisait sa folie comme
 couverture pour que personne ne puisse le soupçonner. »
 
-« J’ai entendu ça aussi, » chuchota un troisième étudiant, et il y eut des
+« J’ai entendu ça aussi », chuchota un troisième étudiant, et il y eut des
 hochements de tête furtifs tout autour de la table.
 
 Ça ne pouvait qu’attirer l’attention de Harry.
 
-« Je vois, » chuchota Harry, baissa sa voix à son tour. « Donc, tout le
+« Je vois », chuchota Harry, baissa sa voix à son tour. « Donc, tout le
 monde sait que Dumbledore est secrètement un cerveau. »
 
 La plupart des étudiants acquiescèrent. Un ou deux semblèrent soudain
@@ -218,7 +218,7 @@ ne pas poser cette question tout haut.
 « Brillant ! » chuchota Harry. « Si tout le monde le sait, personne ne
 soupçonnera que c’est un secret ! »
 
-« Exactement, » chuchota un étudiant, puis il fronça les sourcils.
+« Exactement », chuchota un étudiant, puis il fronça les sourcils.
 « Attends, ça n’a pas l’air de coller — »
 
 *Note à moi-même : Le 75^ème^ centile des étudiants de Poudlard, c’est-à-dire la Maison Serdaigle, n’est pas le programme pour enfants surdoués
@@ -255,7 +255,7 @@ perspective qui semblait plus effrayante minute après minute.
 Et pourtant, étrangement, de plus en plus attrayante. Une partie de son
 esprit visualisait déjà les uniformes de laquais.
 
-« Mange, » grogna l’étudiant plus âgé assis à côté de lui, et il le frappa
+« Mange », grogna l’étudiant plus âgé assis à côté de lui, et il le frappa
 dans les côtes. « Ne pense pas. Mange. »
 
 Harry chargea automatiquement son assiette avec ce qui se trouvait en
@@ -280,7 +280,7 @@ intelligente d’une boisson gazeuse.
 
 Mais il *allait* le vérifier expérimentalement.
 
-« Tu sais, » dit d’un ton aimable l’étudiant plus âgé assis à côté de lui,
+« Tu sais », dit d’un ton aimable l’étudiant plus âgé assis à côté de lui,
 « nous avons un système pour forcer les gens comme toi à manger, veux-tu
 découvrir de quoi il s’agit ? »
 
@@ -434,7 +434,7 @@ Ben…
 
 *Ouais. Donc, NON.*
 
-« Ahem, » dit Dumbledore depuis le podium, se passant la main dans sa
+« Ahem », dit Dumbledore depuis le podium, se passant la main dans sa
 longue barbe d’argent. « Juste un mot de plus maintenant que nous sommes
 tous nourris et désaltérés. J’ai quelques informations de début de
 trimestre à vous donner. »
@@ -496,7 +496,7 @@ dans toutes les directions. Harry entrevit l’arrière de sa tête, et il
 semblait que le Professeur Quirrell devenait déjà chauve en dépit de sa
 jeunesse apparente.
 
-« Je me demande ce qui cloche chez *lui*, » murmura l’étudiant à l’air
+« Je me demande ce qui cloche chez *lui* », murmura l’étudiant à l’air
 plus âgé assis à côté de Harry. D’autres commentaires similaires furent
 discrètement échangés le long de la table.
 
@@ -505,10 +505,10 @@ des yeux. « Ah… » dit-il. « Ah… » puis son courage sembla l’av
 abandonné, et il se tint là silencieux, pris d’un tremblement
 occasionnel.
 
-« Oh, génial, » chuchota l’étudiant plus âgé, « on dirait que voilà une
+« Oh, génial », chuchota l’étudiant plus âgé, « on dirait que voilà une
 *longue* année de cours de Défense — »
 
-« Salutations, mes jeunes apprentis, » dit le Professeur Quirrell d’un ton
+« Salutations, mes jeunes apprentis », dit le Professeur Quirrell d’un ton
 sec et assuré. « Nous savons tous que Poudlard a une certaine tendance à
 *l’infortune* dans ses choix pour ce poste, et nul doute que nombreux
 sont ceux qui, parmi vous se demandent déjà quelle malédiction s’abattra
@@ -564,13 +564,13 @@ un tressaillement convulsif, puis traina les pieds jusqu’à celui-ci,
 vouté comme s’il était sur le point de s’effondrer sur lui-même et
 d’imploser.
 
-« Il a l’air un peu bizarre, » chuchota Harry.
+« Il a l’air un peu bizarre », chuchota Harry.
 
-« Bah, » dit l’étudiant à l’air plus âgé. « Tu n’as encore rien vu. »
+« Bah », dit l’étudiant à l’air plus âgé. « Tu n’as encore rien vu. »
 
 Dumbledore revint au podium.
 
-« Et maintenant, » dit Dumbledore, « avant que nous n’allions au lit,
+« Et maintenant », dit Dumbledore, « avant que nous n’allions au lit,
 chantons la chanson de l’école ! Choisissez tous votre air favori et vos
 paroles favorites, et c’est parti ! »
 

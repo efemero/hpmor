@@ -12,7 +12,7 @@ Harry Potter car il ne savait pas ce qui se passerait ensuite.
 
 Des bruits de pas approchaient.
 
-« Et ben le v’la, » dit la voix de Vincent. « mais l’boss est pas d’bonne
+« Et ben le v’la », dit la voix de Vincent. « mais l’boss est pas d’bonne
 humeur aujourd’hui, alors fais gaffe où tu mets les pieds. »
 
 Drago allait le dépecer vivant et renvoyer le corps de cet idiot
@@ -28,13 +28,13 @@ Harry Potter entra dans son champ de vision. Son expression faciale
 semblaient étrangement de travers, comme si elles n’avaient pas été
 remises correctement -
 
-« *Ta main*, » dit Drago sans réfléchir.
+« *Ta main* », dit Drago sans réfléchir.
 
 Harry leva son bras gauche comme pour l’inspecter lui-même.
 
 La main pendait mollement, l’air morte.
 
-« Madame Pomfresh a dit que ce n’était pas permanent, » dit doucement
+« Madame Pomfresh a dit que ce n’était pas permanent », dit doucement
 Harry, « et que j’aurais en grande partie récupéré demain, quand les
 cours commenceront. »
 
@@ -42,9 +42,9 @@ Pendant un instant, la nouvelle lui procura un soulagement.
 
 Et il comprit alors.
 
-« Tu es allé voir Madame Pomfresh, » chuchota Drago.
+« Tu es allé voir Madame Pomfresh », chuchota Drago.
 
-« Bien sûr, » dit Harry Potter, comme s’il énonçait l’évidence. « Ma main
+« Bien sûr », dit Harry Potter, comme s’il énonçait l’évidence. « Ma main
 ne fonctionnait pas. »
 
 Drago comprit lentement à quel point il avait été un imbécile *complet*,
@@ -58,7 +58,7 @@ Mais Harry Potter n’était pas un petit Poufsouffle effrayé essayant de
 rester hors du jeu. Il jouait déjà au jeu, et il avait déjà toute
 l’attention de Père.
 
-« Qu’a-t-elle dit d’autre ?, » dit Drago, le cœur au bord des lèvres.
+« Qu’a-t-elle dit d’autre ? », dit Drago, le cœur au bord des lèvres.
 
 « Le professeur Flitwick a dit que le sort qui a été jeté sur ma main est
 un sombre maléfice de torture et que c’est une affaire très sérieuse et
@@ -76,7 +76,7 @@ et *délicate*, et que j’avais déjà informé le directeur de ce projet. »
 Drago manqua d’air. « Non ! Flitwick ne va pas simplement accepter ça !
 Il ira vérifier auprès de Dumbledore ! »
 
-« En effet, » dit Harry Potter. « J’ai été promptement transbahuté jusqu’au
+« En effet », dit Harry Potter. « J’ai été promptement transbahuté jusqu’au
 bureau du directeur. »
 
 Drago tremblait à présent. Si Dumbledore amenait Harry Potter devant le
@@ -134,7 +134,7 @@ Père avait mis Drago en garde contre ce genre de personnes, les gens qui
 pouvaient vous mener à votre ruine mais être si aimables que c’en était
 difficile de les haïr correctement.
 
-« Après quoi, » dit Harry, « le directeur a dit au professeur Flitwick que
+« Après quoi », dit Harry, « le directeur a dit au professeur Flitwick que
 c’était bel et bien une affaire secrète et délicate dont il avait déjà
 été informé et qu’il ne pensait pas qu’en rajouter serait pour l’instant
 d’une grande aide, ni pour moi ni pour qui que ce soit. Le professeur
@@ -157,7 +157,7 @@ ferait renvoyer et que je pourrais aller à Gryffondor où toutes ces
 Harry rendait les choses *très* difficiles pour Drago. Comment allait-il
 le haïr maintenant ?
 
-« Bref, » dit Harry, « je ne voulais pas être renvoyé de Serdaigle, alors
+« Bref », dit Harry, « je ne voulais pas être renvoyé de Serdaigle, alors
 j’ai promis au professeur Flitwick que rien de tel n’aurait plus jamais
 lieu, et que si ça se reproduisait, je lui dirais qui était
 responsable. »
@@ -191,7 +191,7 @@ maintenant qu’il avait du pouvoir sur lui. Pour ça, Harry aurait dû
 mettre l’emphase sur son immense gentillesse, pas sur le fait qu’il
 avait fait du mal à Drago.
 
-« Mais quand même, » dit Harry, et sa voix était maintenant plus basse,
+« Mais quand même », dit Harry, et sa voix était maintenant plus basse,
 presque un murmure, « Drago, ne recommence pas s’il te plaît. Ça m’a fait
 mal, et je ne suis pas sûr que je pourrais te pardonner une seconde
 fois. Je ne sais pas si je pourrais le vouloir. »
@@ -233,13 +233,13 @@ faire ! »
 maintenant tu es à moi -*
 
 Harry se retourna vers Drago. « Ce qui s’est passé hier ne faisait *pas*
-partie du plan, » dit Harry, et sa voix semblait être coincée dans sa
+partie du plan », dit Harry, et sa voix semblait être coincée dans sa
 gorge. « Le *plan*, c’était que je t’enseigne pourquoi ce serait toujours
 mieux pour toi de connaître la vérité, et alors nous aurions essayé de
 découvrir la vérité au sujet du sang, et quelle qu’ait été la réponse
 nous l’aurions acceptée. Hier j’ai… précipité les choses. »
 
-« Toujours mieux pour moi de connaître la vérité, » dit froidement Drago.
+« Toujours mieux pour moi de connaître la vérité », dit froidement Drago.
 « Comme si tu m’avais fait une *faveur*. »
 
 Harry hocha la tête — ce qui laissa Drago complètement scié — puis il
@@ -262,7 +262,7 @@ allait maintenant dire ou faire.
 trahison dans sa voix n’était pas difficile du tout. « Pourquoi m’as-tu
 *fait* ça ? Quel *était* ton plan ? »
 
-« Eh bien, » dit Harry, « tu es l’héritier de Lucius, et crois-le ou non,
+« Eh bien », dit Harry, « tu es l’héritier de Lucius, et crois-le ou non,
 Dumbledore croit que je lui appartiens. Nous pourrions donc grandir et
 nous affronter. Ou nous pourrions faire autre chose. »
 
@@ -275,7 +275,7 @@ Mais Harry secoua la tête. « Par les cieux, *non !* »
 
 « Non… ? »
 
-« Tu ne serais pas partant, et moi non plus, » dit Harry. « C’est *notre*
+« Tu ne serais pas partant, et moi non plus », dit Harry. « C’est *notre*
 monde, on ne veut pas le briser. Mais, par exemple, imagine que Lucius
 pense que la Conspiration est ton outil et que tu es de son côté, que
 Dumbledore pense que la Conspiration est mienne et que je suis de son
@@ -331,17 +331,17 @@ Mais c’était *exactement* le genre d’erreur que vous faisiez quand vous
 n’aviez pas de mentors et que vous pensiez que vous étiez intelligents
 et que vous aviez appris à comploter en regardant des pièces de théâtre.
 
-« Donc, » dit Harry, « que penses-tu de ce plan ? »
+« Donc », dit Harry, « que penses-tu de ce plan ? »
 
 « C’est malin… » dit lentement Drago. S’écrier *génial* ! et manquer d’air
 sous l’effet de l’admiration aurait été trop suspicieux. « Harry, je peux
 te poser une question ? »
 
-« Bien sûr, » dit Harry.
+« Bien sûr », dit Harry.
 
 « Pourquoi as-tu acheté une bourse coûteuse à Granger ? »
 
-« Pour ne pas avoir l’air rancunier, » répondit immédiatement Harry. « Mais
+« Pour ne pas avoir l’air rancunier », répondit immédiatement Harry. « Mais
 je m’attends aussi à ce qu’elle éprouve de la difficulté à refuser toute
 petite requête que je pourrais lui faire dans les deux mois à venir. »
 
@@ -370,7 +370,7 @@ enseignée, même si ça voulait dire qu’il allait détruire votre vie.
 
 Le silence s’étira.
 
-« Je sais que j’ai horriblement malmené notre amitié, » dit enfin Harry.
+« Je sais que j’ai horriblement malmené notre amitié », dit enfin Harry.
 « Mais Drago, s’il te plaît, rends-toi compte que je voulais juste que
 nous découvrions la vérité ensemble. Est-ce quelque chose que tu peux me
 pardonner ? »
@@ -378,10 +378,10 @@ pardonner ? »
 Deux sentiers qui bifurquent, mais un seul où le retour en arrière
 serait facile si jamais Drago changeait d’avis…
 
-« Je crois que je comprends ce que tu essayais de faire, » mentit Drago,
+« Je crois que je comprends ce que tu essayais de faire », mentit Drago,
 « donc oui. »
 
-Les yeux de Harry s’éclairèrent. « Je suis heureux d’entendre ça, Drago, »
+Les yeux de Harry s’éclairèrent. « Je suis heureux d’entendre ça, Drago »,
 dit-il doucement.
 
 Les deux élèves se tenaient dans l’alcôve, Harry trempé dans le rayon de
@@ -400,22 +400,22 @@ Eh bien, il pourrait toujours changer et devenir son ennemi plus tard…
 
 Il était foutu.
 
-« Et donc, » dit Drago, « on fait quoi maintenant ? »
+« Et donc », dit Drago, « on fait quoi maintenant ? »
 
 « On étudie encore samedi prochain ? »
 
 « Ça a intérêt à ne pas être comme la dernière fois — »
 
-« Ne t’en fais pas, ce ne sera pas le cas, » dit Harry. « Quelques samedis
+« Ne t’en fais pas, ce ne sera pas le cas », dit Harry. « Quelques samedis
 de plus comme *celui-ci* et tu *me* dépasseras. »
 
 Harry rit. Pas Drago.
 
-« Oh, et avant que tu y ailles, » dit Harry, et il sourit d’un air penaud.
+« Oh, et avant que tu y ailles », dit Harry, et il sourit d’un air penaud.
 « Je sais que ce n’est pas un moment bien choisi, mais à vrai dire je
 voulais te demander conseil. »
 
-« D’accord, » dit Drago, encore distrait par la phrase précédente.
+« D’accord », dit Drago, encore distrait par la phrase précédente.
 
 Le regard de Harry s’intensifia. « Acheter cette bourse pour Granger a
 utilisé la majeure partie de l’argent que j’étais parvenu à voler dans
@@ -428,7 +428,7 @@ Dumbledore qui l’a maintenant. Et j’allais juste commencer un plan qui
 va coûter pas mal d’argent, alors je me demandais si tu savais comment
 je pourrais accéder — »
 
-« Je te prêterai l’argent, » dit la bouche de Drago, mue par un pur
+« Je te prêterai l’argent », dit la bouche de Drago, mue par un pur
 réflexe existentiel.
 
 Harry sembla surpris — agréablement. « Drago, tu n’as pas à — »
@@ -446,20 +446,20 @@ félicitations écrit à l’encre d’or, une grenouille en chocolat géante
 qu’il mettrait deux semaines à manger et le décuple de la somme juste au
 cas où Harry Potter aurait besoin d’un autre prêt.
 
-« C’est beaucoup trop, c’est ça, » dit Harry. « Je suis désolé, je n’aurais
+« C’est beaucoup trop, c’est ça », dit Harry. « Je suis désolé, je n’aurais
 pas dû te demander — »
 
-« Excuse-moi mais tu sais, je *suis* un Malfoy, » dit Drago. « J’étais
+« Excuse-moi mais tu sais, je *suis* un Malfoy », dit Drago. « J’étais
 juste surpris que tu en *veuilles* autant. »
 
-« Ne t’en fais pas, » dit Harry Potter d’un ton réjoui. « Ce n’est rien qui
+« Ne t’en fais pas », dit Harry Potter d’un ton réjoui. « Ce n’est rien qui
 menace les intérêts de ta famille, c’est juste moi qui m’amuse à être
 malfaisant. »
 
 Drago hocha la tête. « Pas de problème alors. Tu les veux tout de
 suite ? »
 
-« Avec plaisir, » dit Harry.
+« Avec plaisir », dit Harry.
 
 Tandis qu’il quittaient l’alcôve et commençaient à se diriger vers les
 donjons, Drago ne put s’empêcher de demander : « Alors *peux*-tu me dire
@@ -484,7 +484,7 @@ amical, c’est juste qu’il était dingue.
 
 Et ça n’allait pas arrêter la vengeance de Drago, ni même la ralentir.
 
-« Donc, » dit Drago après avoir observé les alentours pour s’assurer que
+« Donc », dit Drago après avoir observé les alentours pour s’assurer que
 personne n’était proche. Leur voix était bien sûr brouillée, mais ça ne
 pouvait pas faire de mal d’être parfaitement certain. « J’ai réfléchi. En
 amenant de nouvelles recrues dans la Conspiration, il faudra qu’ils
@@ -492,11 +492,11 @@ amenant de nouvelles recrues dans la Conspiration, il faudra qu’ils
 que le complot soit éventé auprès de Père. Tu as déjà compris ça, bien
 sûr ? »
 
-« Naturellement, » dit Harry.
+« Naturellement », dit Harry.
 
 « *Serons-*nous égaux ? » dit Drago.
 
-« J’ai bien peur que non, » dit Harry. Il était clair qu’il essayait
+« J’ai bien peur que non », dit Harry. Il était clair qu’il essayait
 d’être gentil, et il était tout aussi clair qu’il essayait d’effacer une
 bonne dose de condescendance de sa voix et qu’il n’y arrivait pas tout à
 fait. « Je suis désolé Drago, mais pour l’instant tu ne sais même pas ce
@@ -504,7 +504,7 @@ que le mot *Bayésien* dans *Conspiration* *Bayésienne* veut dire. Il va
 falloir que tu étudies pendant des mois avant que nous puissions enrôler
 quelqu’un d’autre, juste pour que tu puisses faire *bonne mesure*. »
 
-« Parce que je ne connais pas assez de science, » dit Drago, gardant sa
+« Parce que je ne connais pas assez de science », dit Drago, gardant sa
 voix précautionneusement neutre.
 
 En entendant ça, Harry secoua sa tête. « Le problème n’est pas que tu
@@ -520,7 +520,7 @@ questions. Je les ai toutes posées. Tu as donné de la force. J’ai tenu
 le gouvernail tout seul. Et sans les méthodes de la rationalité, Drago,
 il est impossible que tu mènes la Conspiration là où elle doit aller. »
 
-« Je vois, » dit Drago, l’air déçu.
+« Je vois », dit Drago, l’air déçu.
 
 La voix de Harry essaya de devenir encore plus gentille. « Drago,
 j’essaierai de respecter ton expertise dans les trucs politiques. Mais
@@ -530,7 +530,7 @@ Conspiration. Tu es un scientifique depuis *hier*, tu connais *un*
 secret au sujet de l’acide désoxyribonucléique et tu n’as reçu
 d’entraînement dans *aucune* des méthodes de la rationalité. »
 
-« Je comprends, » dit Drago.
+« Je comprends », dit Drago.
 
 Et il comprenait.
 

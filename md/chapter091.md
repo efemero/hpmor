@@ -3,7 +3,7 @@
 
 Peu de temps après, il y eut un autre coup contre la porte du débarras.
 
-« Si vous vous souciez vraiment de ma santé mentale, » dit le garçon sans
+« Si vous vous souciez vraiment de ma santé mentale », dit le garçon sans
 lever les yeux, « vous partirez, vous me laisserez tranquille, et vous
 attendrez que je descende dîner. Vous ne m’aidez pas. »
 
@@ -18,7 +18,7 @@ il était coutumier ni même de l’apparence d’impassibilité qu’il revêta
 parfois dans le bureau du directeur ; son regard, étrange, les yeux
 baissés sur le garçon qui gardait la porte ; ses pensées, insondables.
 
-« Je ne puis imaginer ce que pense la directrice adjointe, » dit le maître
+« Je ne puis imaginer ce que pense la directrice adjointe », dit le maître
 des potions. « À moins que je ne sois censé servir d’avertissement quant
 à ce qui vous attend si vous décidez d’endosser la responsabilité de sa
 mort. »
@@ -30,7 +30,7 @@ culpabilité n’est pas comparable à la vôtre. Et maintenant je vous
 demande de partir, et de leur dire qu’il serait probablement préférable
 de me laisser seul un moment. En avons-nous fini ? »
 
-« Presque, » dit le maître des potions. « C’est moi qui mettais les mots
+« Presque », dit le maître des potions. « C’est moi qui mettais les mots
 sous l’oreiller de Mlle Granger et qui lui disais où trouver les combats
 lors desquels elle intervenait. »
 
@@ -67,7 +67,7 @@ savoir comment cela fonctionne. Si, à l’avenir, tout devait être
 révélé — alors au moins je vous l’aurais dit, et vous pourrez en
 attester. »
 
-« Délicieux, » dit le garçon. « Merci d’avoir éclaircit ce mystère. Est-ce
+« Délicieux », dit le garçon. « Merci d’avoir éclaircit ce mystère. Est-ce
 tout ? »
 
 « Comptez-vous déclarer que votre vie n’est plus qu’une ruine et qu’il ne
@@ -75,7 +75,7 @@ vous reste rien d’autre que la vengeance ? »
 
 « Non. J’ai encore… » le garçon s’interrompit.
 
-« Alors j’ai bien peu de conseils à vous prodiguer, » dit Severus Rogue.
+« Alors j’ai bien peu de conseils à vous prodiguer », dit Severus Rogue.
 
 Le garçon hocha la tête d’un air distrait. « De la part de Hermione,
 merci de l’avoir aidée avec les brutes. Elle vous dirait que c’était la
@@ -172,7 +172,7 @@ Le garçon assis là leva les yeux avec un regard mortel, glaçant.
 
 Puis son visage s’emplit de désarroi, et il se releva tant bien que mal.
 
-« Harry, » dit l’homme en chemise boutonnée jusqu’au col, une veste noir
+« Harry », dit l’homme en chemise boutonnée jusqu’au col, une veste noir
 jetée par-dessus. Sa voix était rauque. « Harry, qu’est-ce qui se passe ?
 Le directeur de ton école — il est arrivé dans ces robes ridicules à mon
 bureau et il m’a dit que Hermione Granger était morte ! »
@@ -180,7 +180,7 @@ bureau et il m’a dit que Hermione Granger était morte ! »
 Un instant plus tard, une femme suivit l’homme dans la pièce ; elle
 semblait moins troublée que l’homme, moins déconcertée et plus effrayée.
 
-« Papa, » dit le garçon d’une voix faible. « Maman. Oui, elle est morte.
+« Papa », dit le garçon d’une voix faible. « Maman. Oui, elle est morte.
 Ils ne vous ont rien dit d’autre ? »
 
 « Non ! Harry, qu’est-ce qui se passe ? »
@@ -195,7 +195,7 @@ peux pas faire ça. »
 « Je ne peux pas faire semblant d’être un petit garçon, j’ai j-juste pas
 l’énergie pour ça maintenant. »
 
-« Harry, » dit la femme d’un ton hésitant. « Harry… »
+« Harry », dit la femme d’un ton hésitant. « Harry… »
 
 « Papa, tu vois tous ces livres de fantasy où le héros doit tout cacher
 de ses parents parce qu’ils, qu’ils ne comprendraient pas, qu’ils
@@ -211,7 +211,7 @@ est… j-je n’ai juste pas assez d’énergie pour gérer ça. »
 
 Lentement, comme si ses membres n’étaient qu’à moitié en mouvement,
 l’homme dans sa veste noire s’agenouilla là où Harry se tenait afin que
-ses yeux soient au niveau de ceux de son fils. « Harry, » dit l’homme.
+ses yeux soient au niveau de ceux de son fils. « Harry », dit l’homme.
 « J’ai besoin que tu me dises tout ce qui s’est passé, tout de suite. »
 
 Le garçon prit une profonde inspiration et déglutit. « Ils m-me disent
@@ -235,7 +235,7 @@ tordue. » Les lèvres du garçons se serrèrent avec amertume. « Je crois 
 c’est presque toute l’intrigue débile. »
 
 L’homme, qui avait écouté tout ceci sans rien dire, se leva. Il posa
-doucement sa main sur l’épaule du garçon. « C’est assez, Harry, » dit-il.
+doucement sa main sur l’épaule du garçon. « C’est assez, Harry », dit-il.
 « J’en ai assez entendu. Nous quittons cette école tout de suite et nous
 t’emmenons avec nous. »
 
@@ -248,7 +248,7 @@ laisseront pas faire, Michael. »
 
 « Légalement, ils n’ont aucun droit de nous empêcher… »
 
-« *Droit ?* Vous êtes des *Moldus*, » dit le garçon. Il eut un sourire
+« *Droit ?* Vous êtes des *Moldus* », dit le garçon. Il eut un sourire
 tordu. « Vous avez autant de valeur que des souris aux yeux du système
 judiciaire magique d’Angleterre. Aucun sorcier ne se souciera de vos
 arguments sur vos *droits*, sur la *justice*, ils ne prendront même pas
@@ -258,7 +258,7 @@ ils n’ont pas besoin de se fatiguer. Non, Maman, je ne souris pas comme
 je souris parce que je ne suis pas d’accord la vôtre vis à vis des
 enfants. »
 
-« Alors, » dit fermement le professeur Michael Verres-Evans, « nous verrons
+« Alors », dit fermement le professeur Michael Verres-Evans, « nous verrons
 ce que le *vrai* gouvernement a à dire à ce sujet. Je connais un
 parlementaire ou trois… »
 
@@ -278,7 +278,7 @@ lu le script qui décrivait ce qu’un parent inquiet se devait de faire
 dans ce genre de situation mais que ce script était soudain arrivé à une
 page vierge.
 
-« Harry, » dit la femme d’une voix hésitante.
+« Harry », dit la femme d’une voix hésitante.
 
 Le garçon la regarda.
 
@@ -326,7 +326,7 @@ obscur qui a fait ça, c’est moi. Oh, Maman, Papa, je suis désolé. »
 
 Il y eut un long silence formé du son de masques qui se brisaient.
 
-« Harry, » dit l’homme en s’agenouillant à nouveau, « j’ai besoin que tu
+« Harry », dit l’homme en s’agenouillant à nouveau, « j’ai besoin que tu
 recommences du début et que tu expliques ça beaucoup plus lentement. »
 
 Le garçon parla.
@@ -337,10 +337,10 @@ Quelques temps plus tard, le père se leva.
 
 Le garçon leva les yeux vers lui, grimaçant dans l’amère expectative.
 
-« Harry, » dit l’homme, « Pétunia et moi allons te sortir d’ici aussi vite
+« Harry », dit l’homme, « Pétunia et moi allons te sortir d’ici aussi vite
 que possible… »
 
-« Non, » dit le garçon avec un ton d’avertissement. « Je suis sérieux,
+« Non », dit le garçon avec un ton d’avertissement. « Je suis sérieux,
 Papa. Le ministère de la magie n’est pas une chose contre laquelle on se
 dresse. Dis-toi que c’est les impôts ou le recteur ou quelque chose
 d’autre qui n’admettra aucune remise en question de sa domination. En
@@ -357,7 +357,7 @@ pas dire ça maintenant… mais es-tu certain que ce dont tu parles est
 vraiment un côté obscur magique et pas quelque chose de normal pour un
 garçon de ton âge ? »
 
-« Normal, » dit le garçon avec une patience raffinée. « Normal comment,
+« Normal », dit le garçon avec une patience raffinée. « Normal comment,
 exactement ? Je pourrais revérifier, mais je suis raisonnablement
 certain qu’il n’y a rien à ce sujet dans *Enfance : un guide pour les
 parents*. Mon côté obscur n’est pas seulement un état émotionnel, il me
@@ -381,7 +381,7 @@ supporterais pas de mentir à ce sujet. »
 pourrait te prendre un moment avant de remarquer les filles. Si, de
 fait, tu n’en as pas déjà remarqué u… » et l’homme se tut brusquement.
 
-« Je n’aimais pas Hermione comme ça, » murmura le garçon. « Pourquoi est-ce
+« Je n’aimais pas Hermione comme ça », murmura le garçon. « Pourquoi est-ce
 que tout le monde continue de penser que ça devait être le cas ? C’est
 lui manquer de respect que de penser qu’on ne pourrait que l’aimer pour
 ça. »
@@ -399,7 +399,7 @@ après que les Formiques aient tué Valentine. »
 Le garçon parla d’une voix usée. « Pas des Fornique, Maman. Ce sont des
 aliens insectoïdes — laisses tomber. »
 
-« Harry, c’est exactement ce que je dis que tu ne devrais pas penser, »
+« Harry, c’est exactement ce que je dis que tu ne devrais pas penser »,
 dit le professeur Verres-Evans d’un ton ferme. « Tu ne vas pas aller
 t’imaginer que tu deviens méchant. Tu ne vas faire de mal à personne, tu
 ne vas pas te mettre en danger, tu ne vas pas jouer avec quelque magie
@@ -428,7 +428,7 @@ où on pourra le faire ! »
 Le garçon jeta un regard pénétrant vers son père puis vers sa mère. Puis
 il regarda de nouveau sa montre.
 
-« Une excellente remarque, » dit le garçon.
+« Une excellente remarque », dit le garçon.
 
 Il marcha jusqu’à la porte qui menait vers l’extérieur et l’ouvrit
 grand.
@@ -443,7 +443,7 @@ La porte s’ouvrit grand dans un craquement qui fit bondir Minerva, et
 avant qu’elle ait le temps de réfléchir, Harry Potter sortait de la
 pièce à grand pas en la regardant d’un air furieux.
 
-« Vous avez amené mes parents *ici*, » dit le Survivant. « À *Poudlard*. Où
+« Vous avez amené mes parents *ici* », dit le Survivant. « À *Poudlard*. Où
 Vous-Savez-Qui ou *quelqu’un* rôde et prend mes amis pour cible. À quoi
 pensiez-vous, exactement ? »
 
@@ -463,12 +463,12 @@ Patronus au directeur, et dites-lui qu’il doit les ramener tout de
 suite. Ne mentionnez pas le nom de mes parents, ni même leur existence,
 au cas où quelqu’un d’autre écouterait. »
 
-« Tout à fait, » dit le professeur Verres-Evans en hochant la tête avec
+« Tout à fait », dit le professeur Verres-Evans en hochant la tête avec
 sévérité, debout juste derrière le garçon, Pétunia un pas derrière lui.
 Sa main était fermement posée sur l’épaule de Harry. « Nous finirons de
 parler à notre fils chez nous. »
 
-« Un instant, s’il vous plaît, » dit Minerva avec une politesse
+« Un instant, s’il vous plaît », dit Minerva avec une politesse
 instinctive. Sa première tentative de lancer le Patronus avait échoué,
 l’un des désavantages du sort lors de certaines circonstances. Ce
 n’était pas la première fois qu’elle l’avait fait, mais elle semblait
@@ -477,7 +477,7 @@ avoir perdu une partie de l’entrain…
 Minerva tut cette pensée et se concentra.
 
 Une fois le message envoyé, elle se retourna vers le professeur
-Verres-Evans. « Monsieur, » dit-elle, « j’ai peur que M. Potter ne puisse
+Verres-Evans. « Monsieur », dit-elle, « j’ai peur que M. Potter ne puisse
 quitter l’école de Poudlard… »
 
 Lorsque Albus Dumbledore arriva enfin, on pouvait entendre des cris :
@@ -488,7 +488,7 @@ sa bouche.
 
 Lorsque le Professeur se tourna pour se disputer avec le directeur,
 Harry Potter, qui était demeuré silencieux pendant tout ce temps, parla.
-« Pas ici, » dit-il. « Tu peux te disputer avec lui n’importe où mais pas à
+« Pas ici », dit-il. « Tu peux te disputer avec lui n’importe où mais pas à
 Poudlard, Papa. Maman, s’il te plaît, s’il te plaît, assure-toi que Papa
 n’essaiera rien qui lui amènera des ennuis de la part du ministère. »
 
@@ -496,7 +496,7 @@ Le visage de Michael Verres-Evans fit une grimace. Il se retourna,
 regarda Harry Potter. Sa voix fut rauque lorsqu’il parla et il y avait
 de l’eau dans ses yeux. « Mon fils… qu’est-ce que tu fais ? »
 
-« Tu sais parfaitement ce que je fais, » dit Harry Potter. « Tu as lu ces
+« Tu sais parfaitement ce que je fais », dit Harry Potter. « Tu as lu ces
 histoires de super-héros longtemps avant de me les donner. J’ai eu pas
 mal d’emmerdes, j’ai un peu grandi, et maintenant je protège mes
 proches. En fait, c’est plus simple que ça, tu sais ce que je fais parce
@@ -508,7 +508,7 @@ découvre leur présence et ne décide de les tuer. »
 Michael Verres-Evans commença un plongeon désespéré vers Harry, puis
 tout mouvement s’arrêta, l’homme moldu penché dans sa course.
 
-« Je suis désolé, » dit doucement le directeur. « Nous reparlerons bientôt.
+« Je suis désolé », dit doucement le directeur. « Nous reparlerons bientôt.
 Minerva, j’étais avec les autres quand tu m’as appelée, ils attendent
 dans ton bureau. »
 
@@ -521,10 +521,10 @@ Minerva regarda Harry.
 
 Aucun mot ne lui vint.
 
-« Très malin, de les amener ici, » dit Harry Potter. « Ça a probablement
+« Très malin, de les amener ici », dit Harry Potter. « Ça a probablement
 nuit à notre relation de façon permanente. Bon sang, tout ce que je
 voulais c’était qu’on me laisse tranquille jusqu’à ce satané dîner.
-Qui, » le garçon regarda sa montre, « a de *toute façon* commencé. Je vais
+Qui », le garçon regarda sa montre, « a de *toute façon* commencé. Je vais
 aller dire au revoir à Hermione seul, je promet que cela prendra moins
 de deux minutes, et après ça je sortirai et j’irai manger quelque chose,
 comme je l’aurai fait de toute façon. Ne me dérangez *pas* pendant ces
@@ -565,7 +565,7 @@ Très lentement, une minute et demie s’écoulèrent.
 Lorsque la porte se rouvrit, Harry semblait avoir changé, comme si cette
 minute et demi avait duré plusieurs vies.
 
-« Scellez la pièce, » dit doucement Harry, « et allons-y professeur
+« Scellez la pièce », dit doucement Harry, « et allons-y professeur
 McGonagall. »
 
 Elle marcha jusqu’à la porte du débarras. Elle ne fut pas tout à fait
@@ -581,14 +581,14 @@ Ses doigts bougèrent sur sa baguette, sa bouche prononça les paroles
 sans réfléchir, des charmes et des barrières pour sceller la pièce
 contre toute infraction.
 
-« Professeur McGonagall, » dit Harry d’une voix étrange, comme s’il
+« Professeur McGonagall », dit Harry d’une voix étrange, comme s’il
 récitait, « avez-vous le rocher ? Le rocher que le directeur m’a donné ?
 Je devrais le transformer à nouveau en un joyau, puisqu’il s’est avéré
 utile. »
 
 Automatiquement ses yeux passèrent à l’anneau sur le petit doigt gauche
 de Harry et remarqua le vide sur la monture, là où le joyau aurait dû se
-trouver. « J’en parlerai au directeur, » répondit sa langue.
+trouver. « J’en parlerai au directeur », répondit sa langue.
 
 « Est-ce une tactique courante, au fait ? » dit Harry, d’une voix toujours
 étrange. « Transporter un grand objet métamorphosé en un objet petit pour
@@ -620,6 +620,6 @@ cela aurait été discourtois.
 
 Elle ouvrit la porte de son bureau.
 
-« Madame Granger, » dit sa voix, « M. Granger, je suis terriblement désolée
+« Madame Granger », dit sa voix, « M. Granger, je suis terriblement désolée
 de — »
 

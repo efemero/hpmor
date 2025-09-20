@@ -23,7 +23,7 @@ s’approchant, le souffle un peu court.
 quand un *Malefoy* demandait-il de l’aide à une *Greengrass* pour ses
 devoirs ?
 
-« Voici, » dit Drago d’un ton solennel, « tous les livres empruntés à la
+« Voici », dit Drago d’un ton solennel, « tous les livres empruntés à la
 bibliothèque par Granger entre le 1er et le 16 avril. Je pensais les
 parcourir au cas où l’un d’eux renfermerait un indice, mais je me suis
 dit que *tu* devrais peut-être participer, vu que tu la connaissais
@@ -33,7 +33,7 @@ Daphné fixa les livres du regard. « Le Général a lu tout ça en *deux
 semaines* ? » Une pointe de douleur traversa son cœur, mais elle la
 réprima.
 
-« Eh bien, je ne sais pas si elle les a tous finis, » dit Drago. Il éleva
+« Eh bien, je ne sais pas si elle les a tous finis », dit Drago. Il éleva
 un index, comme pour appeler à la prudence. « En fait, je ne sais pas si
 elle a lu un seul de ces livres, ni même si elle les a vraiment
 empruntés. En fait, tout ce qu’on a *observé*, c’est que le registre de
@@ -49,7 +49,7 @@ ces livres même si j’y passais tout l’été ; »
 Drago. « Surtout si on y trouve, tu sais, d’étranges notes de sa main, ou
 un marque-page laissé à l’intérieur, ou… »
 
-« Oui, j’ai vu ces pièces aussi, M. Malefoy, » dit Daphné en levant les
+« Oui, j’ai vu ces pièces aussi, M. Malefoy », dit Daphné en levant les
 yeux au ciel. « Mais on a des *Aurors* pour ça maint… »
 
 « *Nous sommes perdus !* » glapit Millicent Bulstrode, jaillissant dans la
@@ -60,10 +60,10 @@ Tout le monde s’interrompit et la regarda.
 « *C’est le professeur Quirrell !* »
 
 Une attention soudaine, comme si de vieilles querelles s’apprêtaient à
-être réglées. « Enfin, » dit quelqu’un alors que Millicent reprenait son
+être réglées. « Enfin », dit quelqu’un alors que Millicent reprenait son
 souffle. « Il lui reste quoi, dix jours avant de mal tourner ? »
 
-« Onze jours, » dit l’élève de septième année qui prenait les paris.
+« Onze jours », dit l’élève de septième année qui prenait les paris.
 
 « *Son état s’est soudainement amélioré et il va faire venir les première
 année pour leur examen final de Défense ! Un examen surprise ! Dans
@@ -75,7 +75,7 @@ Quirrell ne donne pas d’examens. »
 « L’examen final du *ministère* ! » glapit Millicent.
 
 « Mais le professeur Quirrell n’enseigne pas du tout le programme du
-ministère, » fit remarquer Pansy.
+ministère », fit remarquer Pansy.
 
 Daphné fonçait déjà vers sa chambre, vers le manuel de Défense de
 première année qu’elle n’avait pas ouvert depuis septembre, un hurlement
@@ -114,7 +114,7 @@ personne n’aurait à avoir honte. Mais même sans partager leur opinion,
 Daphné pouvait comprendre que les Poufsouffle et les Serdaigle voient
 les choses autrement.
 
-« Il est maléfique, » dit un Serdaigle d’une voix tremblante. « Cent pour
+« Il est maléfique », dit un Serdaigle d’une voix tremblante. « Cent pour
 cent pur mage noir jusqu’à la moelle. Grindelwald ne ferait pas ça à des
 enfants. Il est pire que Vous-Savez-Qui. »
 
@@ -217,7 +217,7 @@ professeur Quirrell.
 
 Lorsque ce fut fait, le professeur Quirrell se redressa.
 
-« Mes jeunes élèves, » dit-il doucement. L’élève de septième avait sa
+« Mes jeunes élèves », dit-il doucement. L’élève de septième avait sa
 baguette pointée vers la bouche du professeur de Défense, si bien que
 tous entendaient la voix du professeur aussi clairement que s’il avait
 été à côté d’eux. « Je sais… que vous avez été nombreux à avoir peur…
@@ -233,7 +233,7 @@ approchait… même si vous auriez dû savoir… qu’il finirait par arriver.
 Mais je viens de vérifier magiquement… les réponses que vous avez
 fournies à ce… capital examen… bien que seule la note du ministère est
 officielle… j’ai inscrit vos notes pour l’année en prenant compte de ce
-résultat… et je les ai écrites sur ces parchemins, » le professeur
+résultat… et je les ai écrites sur ces parchemins », le professeur
 Quirrell toucha une pile de parchemin située à côté de son bureau, « ils
 vous seront maintenant distribués… un sortilège incroyable… non ? »
 
@@ -261,7 +261,7 @@ la note exacte avait de l’importance. Voulait-il dire que Harry s’en
 potentiel ? Ou la note signifiait-elle littéralement que Harry avait
 bien dépassé les attentes du professeur ?
 
-« Vous avez tous… réussi, » dit le professeur Quirrell tandis que les
+« Vous avez tous… réussi », dit le professeur Quirrell tandis que les
 élèves découvraient leur note finale, et des soupirs de soulagement
 s’élevèrent des tables. Lavande Brown leva son parchemin tenu dans un
 poing serré en signe de triomphe. « Tous les élèves du cours de magie de
@@ -290,7 +290,7 @@ jour-là. »
 
 Le professeur de Défense inspira avec difficulté.
 
-« Ainsi va le monde réel, » dit le professeur Quirrell. « Le seul véritable
+« Ainsi va le monde réel », dit le professeur Quirrell. « Le seul véritable
 test… peut arriver n’importe quand… mieux vaut s’y préparer. Quant au
 reste d’entre vous… ceux qui ont reçu EE ou plus… vous avez reçu mes
 lettres de recommandation… pour certaines organisations par-delà les
@@ -315,7 +315,7 @@ fatigués.
 
 « C’est la même note… que celle que j’ai reçue en première année. »
 
-« Me… me… me…, » Harry ne parvint pas à faire sortir le mot *merci* de sa
+« Me… me… me… », Harry ne parvint pas à faire sortir le mot *merci* de sa
 gorge soudain nouée. Le professeur de défense inclina la tête, le
 regarda avec curiosité, et Harry s’inclina vivement avant de quitter la
 pièce.

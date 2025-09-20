@@ -91,7 +91,7 @@ trouvait là ne pouvait plus le détecter.
 
 « C’est moi. »
 
-Il y eut un long silence. « Entrez, » dit la voix.
+Il y eut un long silence. « Entrez », dit la voix.
 
 Harry se glissa à l’intérieur, ferma la porte derrière lui et lança le
 sortilège de Mutisme. Il se tenait aussi loin que possible du professeur
@@ -107,12 +107,12 @@ devant ses yeux, une page entourée d’une pâle lueur qui enrobait aussi
 un cube noir posé à côté du lit. Ce n’était donc pas la magie du
 professeur de Défense mais un appareil quelconque.
 
-Le livre était « Penser la physique, » de Einstein, le même livre que
+Le livre était « Penser la physique », de Einstein, le même livre que
 Harry avait prêté à Drago quelques mois auparavant. Harry avait cessé de
 se tracasser quant aux mauvais usages que l’on pourrait en faire
 plusieurs semaines plus tôt.
 
-« C’est…, » dit le professeur Quirrell, et il eut une toux étrange. « C’est
+« C’est… », dit le professeur Quirrell, et il eut une toux étrange. « C’est
 un livre fascinant… si jamais je m’étais rendu compte… » Un rire, mêlé à
 une autre toux. « Pourquoi ais-je présumé que les arts Moldus… ne
 devaient être miens ? Qu’ils ne me seraient… d’aucun usage ? Pourquoi
@@ -174,7 +174,7 @@ Les yeux du professeur Quirrell s’étaient élevés. Sa voix fut moins
 douce, reprit une partie de son acerbité usuelle, lorsqu’il dit : « Je
 vous interdis de recommencer. »
 
-« Je me demandais si vous diriez cela, » dit Harry. Il déglutit de
+« Je me demandais si vous diriez cela », dit Harry. Il déglutit de
 nouveau. « Mais cette licorne est déjà, déjà perdue, alors autant que
 vous la preniez, professeur… »
 
@@ -182,11 +182,11 @@ vous la preniez, professeur… »
 
 Si le professeur de Défense n’était pas capable de comprendre cela,
 c’était la personne la plus lente à la détente que Harry avait jamais
-rencontrée. « Je n’arrêtais pas de me dire que je ne pouvais rien faire, »
+rencontrée. « Je n’arrêtais pas de me dire que je ne pouvais rien faire »,
 dit Harry. « Et j’en ai eu assez de penser ça. »
 
 Le professeur Quirrell ferma les yeux. Il reposa sa tête sur l’oreiller.
-« Vous avez eu de la chance, » dit le professeur de Défense d’une voix
+« Vous avez eu de la chance », dit le professeur de Défense d’une voix
 douce, « qu’une licorne métamorphosée… ne déclenche pas le système de
 protection de Poudlard contre les créatures étranges… je devrai… sortir
 de ces limites pour pouvoir en faire usage… mais des moyens existent. Je
@@ -204,7 +204,7 @@ semblèrent rester bloqués dans sa gorge.
 assigné des probabilités, tu as multiplié, puis tu as jeté le résultat
 et as suivi ton nouvel instinct, qui disait la même chose. Alors vas-y.*
 
-« Connaissez-vous, » dit Harry d’une voix chancelante, « un moyen
+« Connaissez-vous », dit Harry d’une voix chancelante, « un moyen
 quelconque de sauver votre vie ? »
 
 Les yeux du professeur s’ouvrirent. « Pourquoi… me demandes-tu cela,
@@ -212,7 +212,7 @@ garçon ? »
 
 « Il y a… un sortilège dont j’ai entendu parler, un rituel… »
 
-« Silence, » dit le professeur de Défense.
+« Silence », dit le professeur de Défense.
 
 Un instant plus tard, un serpent se trouvait dans le lit.
 
@@ -277,7 +277,7 @@ augmenterait aussi la fidélité du transfert… même si demeuraient encore
 les autres problèmes.
 
 Le professeur Quirrell émit un son court qui aurait pu être un rire.
-« Vous savez, garçon, » murmura le professeur Quirrell, « j’avais pensé
+« Vous savez, garçon », murmura le professeur Quirrell, « j’avais pensé
 tout vous apprendre… les graines de tous les secrets que je connais…
 d’un esprit vivant à l’autre… afin que plus tard, en ouvrant les bons
 livres, vous compreniez… je vous aurai transmis mon savoir, mon
@@ -311,7 +311,7 @@ squelettique de Bellatrix Black qu’il avait vue à Azkaban…
 
 Sans même réfléchir, Harry détourna violemment son visage.
 
-« Vous voyez, » murmura le professeur. « Je n’aime pas énoncé des clichés…
+« Vous voyez », murmura le professeur. « Je n’aime pas énoncé des clichés…
 M. Potter… mais la vérité est que… les Arts que l’ont dit sombres… ne
 sont en définitive… pas bons pour ceux qui les pratiquent. »
 
@@ -341,7 +341,7 @@ réponsse. »*
 
 Un homme était étendu sur le lit.
 
-« Écoutez-moi attentivement, » dit le professeur Quirrell. « Je vais vous
+« Écoutez-moi attentivement », dit le professeur Quirrell. « Je vais vous
 donner une énigme… une devinette pour un sortilège dangereux… quand vous
 connaîtrez la réponse à ce puzzle… vous connaîtrez aussi… la réponse à
 votre question… est-ce que vous écoutez ? »
@@ -365,7 +365,7 @@ connaît aucune limite ? »
 
 *Un second niveau à Avada Kedavra, exactement comme avec le Patronus…*
 
-« Ça ne m’intéresse pas vraiment, » répondit Harry.
+« Ça ne m’intéresse pas vraiment », répondit Harry.
 
 Le professeur de Défense eut un gloussement enroué. « Bien. Vous…
 apprenez. Alors vous voyez… » Une pause, pour se transformer. *« Je ne
@@ -379,7 +379,7 @@ clamé être encore entier.
 
 « Autre chose… à dire ? » continua l’homme alité.
 
-« Êtes-vous absolument certain, » dit Harry, « que vous n’avez jamais
+« Êtes-vous absolument certain », dit Harry, « que vous n’avez jamais
 entendu parler de quelque chose qui pourrait vous sauver, professeur ?
 Parmi toutes vos connaissances ? Trouver et réunir les trois Reliques de
 la Mort, un vieil artefact que Merlin aurait scellé derrière une énigme
@@ -391,7 +391,7 @@ vous voir mort, professeur Quirrell. »
 
 Il y eut une longue pause.
 
-« Une chose, » dit le professeur Quirrell. « Une chose… pourrait m’aider…
+« Une chose », dit le professeur Quirrell. « Une chose… pourrait m’aider…
 ou peut-être pas… mais l’obtenir… dépasse vos forces et les miennes… »
 
 *Oh, c’est exactement le discours d’introduction d’une quête annexe*,
@@ -415,7 +415,7 @@ S’il y avait eu un moyen de fabriquer de l’immortalité à la chaîne
 pendant tout ce temps et que personne ne s’était fatigué à l’utiliser,
 Harry allait craquer et assassiner tout le monde.
 
-*« J’ai lu à sson sujet, »*, siffla Harry. *« Conclut que c’était
+*« J’ai lu à sson sujet »,*, siffla Harry. *« Conclut que c’était
 évidemment un mythe. Aucune bonne raisson que le même objet fournissse à
 la fois l’immortalité et une quantité infinie d’or. Pas à moins que
 quelqu’un ne ssoit jusste en train d’inventer des hisstoires
@@ -437,7 +437,7 @@ entendu parler ? »*
 ensseigné nombreux ssecrets à directeur d’école. Directeur d’école n’a
 rien dit de posssessseur de Pierre, rien de Pierre ? Pas d’indiçce ? »*
 
-*« Rien qui me revienne facilement, »* répondit sincèrement Harry.
+*« Rien qui me revienne facilement »,* répondit sincèrement Harry.
 
 *« Ah,* » siffla le serpent. *« Ah, bon. »*
 
@@ -452,14 +452,14 @@ question. »*
 Pierre ou désiré connaisssansce du détenteur. Ne demande pas. Ne dois
 pas demander. N’esssaie pas d’obtenir Pierre toi-même. J’interdis. »*
 
-Un homme se trouvait à nouveau dans le lit. « Je suis… à la limite…, » dit
+Un homme se trouvait à nouveau dans le lit. « Je suis… à la limite… », dit
 le professeur Quirrell. « Je dois récupérer… des forces… avant d’aller…
 dans la forêt… avec votre cadeau. Partez maintenant… mais maintenez
 métamorphose… avant de partir. »
 
 Harry tendit la main, toucha le caillou blanc sur le mouchoir et
 renouvela la métamorphose. « Elle devrait durer une heure et
-cinquante-trois minutes, maintenant, » dit Harry.
+cinquante-trois minutes, maintenant », dit Harry.
 
 « Vos études… avancent bien. »
 
@@ -548,7 +548,7 @@ elle les laissait entrer pour pouvoir leur cracher dessus en personne.
 *Qu’est-ce qui est plus mortel que la haine et ne connaît aucune
 limite ?*
 
-« L’indifférence, » murmura Harry, le secret d’un sortilège qu’il ne
+« L’indifférence », murmura Harry, le secret d’un sortilège qu’il ne
 pourrait jamais lancer ; et il continua d’avancer vers la bibliothèque
 pour lire tout ce qu’il pourrait trouver, absolument tout, au sujet de
 la Pierre Philosophale.

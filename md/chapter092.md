@@ -39,7 +39,7 @@ passait quand il reconnu le visage du garçon Serpentard.
 Il comprit alors. Bien sûr, l’un des élèves qui étaient restés à l’école
 pendant les vacances de Pâques serait naturellement…
 
-« Tu m’attendais, » dit Harry à voix haute, sans enlever la Cape.
+« Tu m’attendais », dit Harry à voix haute, sans enlever la Cape.
 
 Le Serpentard eut un mouvement de recul, se cogna la tête contre le mur,
 et son manuel de cinquième année tomba de ses mains avant qu’il ne
@@ -64,7 +64,7 @@ pas ? »
 « Tu as agi exactement comme tu aurais dû le faire dans ces
 circonstances. C’est moi qui ai été un imbécile. »
 
-« Je suis navré, maître, » chuchota Lesath.
+« Je suis navré, maître », chuchota Lesath.
 
 « Si tu *étais* venu avec moi, aurais-tu été capable de tuer le troll ? »
 Ce n’était même pas la bonne question, la bonne question était de savoir
@@ -76,11 +76,11 @@ entraînements de duel de Serpentard, je n’ai pas appris les gestes du
 sortilège de la Mort — devrais-je apprendre ces arts pour mieux vous
 servir, seigneur ? »
 
-« Je continue d’insister : je ne suis pas ton seigneur, » dit Harry.
+« Je continue d’insister : je ne suis pas ton seigneur », dit Harry.
 
 « Oui, seigneur. »
 
-« Quoi que, » dit Harry, « et ce n’est en aucun cas un ordre, juste une
+« Quoi que », dit Harry, « et ce n’est en aucun cas un ordre, juste une
 remarque, tout le monde devrait savoir se défendre, surtout toi. Je suis
 sûr que le professeur de Défense t’aiderait par principe, si tu le lui
 demandais. »
@@ -165,7 +165,7 @@ professeur de Défense, l’habitude de ne pas être conscient de la douleur
 des autres quand il avait quelque chose à l’esprit, ou si ce n’était
 qu’un défaut d’enfant dont cet homme n’avait jamais su se défaire.
 
-« M. Potter a cessé de monter la garde devant le corps de Mlle Granger, »
+« M. Potter a cessé de monter la garde devant le corps de Mlle Granger »,
 dit-elle, mettant dans sa voix une partie de la froideur qu’elle
 ressentait. Elle était certaine que le professeur de Défense ne
 ressentait pas autant de peine qu’elle, l’homme n’avait pas dit un mot
@@ -176,7 +176,7 @@ crois qu’il est descendu dîner. »
 professeur Quirrell fit un geste vif, comme pour communiquer un concept
 pour lequel il n’avait pas de mot.
 
-« Pas particulièrement, » dit-elle. Elle était à environ trente secondes
+« Pas particulièrement », dit-elle. Elle était à environ trente secondes
 d’ordonner au professeur de Défense de quitter son bureau.
 
 Le professeur Quirrell commença à déambuler dans l’espace réduit du
@@ -198,11 +198,11 @@ lui faire face. « Remus Lupin réconfortait-il les endeuillés ou
 raisonnait-il ceux décidés à agir inconsciemment lorsqu’il faisait
 partie de l’Ordre du Phénix ? »
 
-« Ce n’est pas une mauvaise idée, » dit-elle lentement. « Je crois que M.
+« Ce n’est pas une mauvaise idée », dit-elle lentement. « Je crois que M.
 Lupin a souvent été la voix de la raison de James Potter lorsqu’ils
 étaient à Poudlard. »
 
-« James Potter, » dit le professeur Quirrell en plissant les yeux. « Les
+« James Potter », dit le professeur Quirrell en plissant les yeux. « Les
 garçon ressemble peu à James Potter. Êtes-vous confiante dans le succès
 de ce plan ? Non, c’est la mauvaise question, nous ne sommes pas limités
 à un seul plan. Êtes-vous certaine que ce plan suffira, que nous n’avons
@@ -212,7 +212,7 @@ d’intervention possible. » Le professeur de Défense avait recommencé à
 déambuler dans les confins du bureau, atteignant un mur, pivotant sur
 ses talons, marchant jusqu’à l’autre.
 
-« Je vous prie de m’excuser, professeur, » elle ne se fatigua pas à
+« Je vous prie de m’excuser, professeur », elle ne se fatigua pas à
 masquer le tranchant de sa voix, « mais j’ai largement atteint mes
 limites pour aujourd’hui. Vous pouvez partir. »
 
@@ -239,7 +239,7 @@ obscur pouvoir.
 Puis le pouvoir se retira, ne laissant que le certificat de décès de
 Hermione Granger flotter dans les airs et descendre jusqu’au sol.
 
-« Je suis David Monroe, et j’ai combattu Voldemort, » dit l’homme d’un ton
+« Je suis David Monroe, et j’ai combattu Voldemort », dit l’homme d’un ton
 neutre. « Écoutez mes paroles. On ne peut laisser le garçon poursuivre
 dans cet état d’esprit. Il deviendra dangereux. Il est possible que vous
 ayez déjà fait tout ce qui est en votre pouvoir. Mais j’ai découvert que
@@ -258,7 +258,7 @@ leur état d’esprit et demandez-vous si vous avez vraiment fait tout ce
 qui est en votre pouvoir pour arracher Harry Potter à la voie sur
 laquelle il se trouve. »
 
-« Je suis une Gryffondor et peu encline à être motivée par la peur, »
+« Je suis une Gryffondor et peu encline à être motivée par la peur »,
 rétorqua-t-elle. « Vous serez plus courtois dans mon bureau ! »
 
 « Je trouve que la peur est une excellente motivation, et c’est

@@ -3,11 +3,11 @@
 
 « *Romantiques ?* » dit Hermione. « Ce sont tous les deux des *garçons !* »
 
-« Waouh, » dit Daphné d’un ton légèrement choqué. « Tu veux dire que les
+« Waouh », dit Daphné d’un ton légèrement choqué. « Tu veux dire que les
 Moldus détestent *vraiment* ça ? Je pensais que c’était juste quelque
 chose que les Mangemorts avaient inventé. »
 
-« Non, » dit une Serpentard plus âgée que Hermione ne reconnu pas, « c’est
+« Non », dit une Serpentard plus âgée que Hermione ne reconnu pas, « c’est
 vrai, ils doivent se marier en secret et si jamais ils sont découverts
 ils passent au bûcher tous les deux. Et si tu es une fille et que tu
 trouves ça romantique, ils te brûlent aussi. »
@@ -59,18 +59,18 @@ sans parler de quelques gros titres du *Chicaneur*.
 
 « Le Survivant fait tomber Drago Malefoy enceinte ? » dit Harry.
 
-« D’accord, tu *sais* de quoi il est question, » dit Drago. « Je croyais
+« D’accord, tu *sais* de quoi il est question », dit Drago. « Je croyais
 que les Moldus détestaient ça ? »
 
-« Seulement les idiots, » dit Harry. « Mais, euh, ne sommes-nous pas, euh,
+« Seulement les idiots », dit Harry. « Mais, euh, ne sommes-nous pas, euh,
 un peu *jeunes ?* »
 
-« Pas trop jeunes pour *elles*, » dit Drago. Il renifla. « Ah, les
+« Pas trop jeunes pour *elles* », dit Drago. Il renifla. « Ah, les
 *filles !* »
 
 Ils marchèrent en silence jusqu’au bord du toit.
 
-« Donc *je* fais ça par vengeance contre toi, » dit Drago, « mais pourquoi
+« Donc *je* fais ça par vengeance contre toi », dit Drago, « mais pourquoi
 est-ce que *tu* le fais ? »
 
 L’esprit de Harry fit un calcul éclair, pesant les facteurs, décidant
@@ -87,7 +87,7 @@ Il y eut une pause.
 
 Puis -
 
-« Ouais, » dit Drago. « Je comprends. »
+« Ouais », dit Drago. « Je comprends. »
 
 Harry ne sourit pas. Ça avait peut-être été le non-sourire le plus
 difficile de toute sa vie.
@@ -111,7 +111,7 @@ le dire à votre esprit inconscient.
 C’était tout aussi effrayant que ce que Harry avait imaginé que ça avait
 dû être pour Hermione, ce qui était fort juste, en somme.
 
-« Drago, » dit Harry, il avait du mal à contrôler sa voix mais les filles
+« Drago », dit Harry, il avait du mal à contrôler sa voix mais les filles
 de Serdaigle lui avaient donné un script, « Tu dois me laisser tomber ! »
 
 « D’accord ! » dit Drago, et il lâcha le bras de Harry.
@@ -148,7 +148,7 @@ Harry essayait désespérément de contrôler son hyperventilation, et
 entendre les hurlements de toutes les filles qui gisaient maintenant en
 tas au sol et les unes sur les autres ne l’aidait pas beaucoup.
 
-« Par les cieux, » dit l’homme peu familier, l’homme aux vêtement étranges
+« Par les cieux », dit l’homme peu familier, l’homme aux vêtement étranges
 et au visage légèrement balafré qui tenait Harry dans ses bras. « De
 toutes les façons dont j’avais imaginé que nous pourrions un jour nous
 croiser de nouveau, je ne m’attendais pas à vous voir tomber du ciel. »
@@ -156,7 +156,7 @@ croiser de nouveau, je ne m’attendais pas à vous voir tomber du ciel. »
 Harry se souvint de la dernière chose qu’il avait vue, le corps
 s’écroulant, et il parvint à hoqueter : « Professeur… Quirrell… »
 
-« Il ira bien dans quelques heures, » dit l’homme peu familier qui tenait
+« Il ira bien dans quelques heures », dit l’homme peu familier qui tenait
 Harry. « Il est juste épuisé. Je n’aurais pas cru cela possible… il doit
 avoir assommé *deux cents élèves* juste pour s’assurer d’atteindre celui
 qui vous jetait un sort… »
@@ -172,10 +172,10 @@ L’homme l’aida à se relever, s’assurant à chaque instant qu’il était
 entre Harry et les filles qui se relevaient elles aussi, son visage
 jetant des coups d’œils constants dans leur direction.
 
-« Harry, » dit doucement l’homme, d’une voix extrêmement sérieuse, « as-tu
+« Harry », dit doucement l’homme, d’une voix extrêmement sérieuse, « as-tu
 la moindre idée de qui parmi ces filles aurait pu vouloir te tuer ? »
 
-« Pas un meurtre, » dit une voix épuisée, « juste de la stupidité. »
+« Pas un meurtre », dit une voix épuisée, « juste de la stupidité. »
 
 Cette fois c’est l’homme peu familier qui sembla être sur le point de
 s’effondrer, alors qu’un choc profond se dessinait sur son visage.
@@ -191,12 +191,12 @@ le faire en étant *efficace*. »
 
 Le professeur Quirrell ne se leva quand même pas.
 
-« Merci, » chuchota Harry. Puis « merci, » à l’homme qui se tenait à côté de
+« Merci », chuchota Harry. Puis « merci », à l’homme qui se tenait à côté de
 lui.
 
 « Que s’est-il passé ? » dit l’homme.
 
-« J’aurais dû le prévoir, » dit le professeur Quirrell, sa voix rêche et
+« J’aurais dû le prévoir », dit le professeur Quirrell, sa voix rêche et
 chargée de désapprobation. « Un certain nombre de filles ont essayé de
 faire venir M. Potter dans leurs bras à elles. J’imagine que chacune
 pensait le faire avec douceur. »
@@ -204,7 +204,7 @@ pensait le faire avec douceur. »
 Oh.
 
 « Considérez ceci comme une leçon sur les vertus de la préparation, M.
-Potter, » dit le professeur Quirrell. « Si je n’avais pas *insisté* pour
+Potter », dit le professeur Quirrell. « Si je n’avais pas *insisté* pour
 qu’il y ait plus d’un témoin adulte présent à ce petit événement et que
 nous ayons *tous les deux* nos baguettes sorties, M. Lupin n’aurait pas
 été disponible pour ralentir votre chute après que je me sois effondré
@@ -215,7 +215,7 @@ dire des choses pareilles au garçon ! »
 
 « Qui est — » commença à dire Harry.
 
-« La seule autre personne qui était disponible pour regarder à part moi, »
+« La seule autre personne qui était disponible pour regarder à part moi »,
 dit le professeur Quirrell. « Je vous présente Remus Lupin, qui est
 temporairement ici pour enseigner aux élèves le sortilège du Patronus.
 Bien que j’ai cru comprendre que vous vous êtes déjà rencontrés. »
@@ -225,7 +225,7 @@ légèrement balafré, de cet étrange et doux sourire.
 
 « Où nous sommes-nous rencontrés ? » dit Harry.
 
-« À Godric’s Hollow, » dit l’homme. « J’ai changé un certain nombre de vos
+« À Godric’s Hollow », dit l’homme. « J’ai changé un certain nombre de vos
 couches. »
 
 
@@ -250,7 +250,7 @@ premier lieu avait été atrocement maléfique, bien sûr ; mais cela ne
 voulait pas dire que Hermione agissait bien *maintenant* en privant des
 êtres sentients de la corvée qu’ils avaient été créés pour aimer).
 
-« Assieds-toi s’il te plaît, Harry, » dit doucement l’homme. Ses robes
+« Assieds-toi s’il te plaît, Harry », dit doucement l’homme. Ses robes
 d’enseignant étaient de mauvaise qualité, pas tout à fait en loques mais
 visiblement usées par le passage du temps, d’une façon qu’un simple
 sortilège de réparation n’aurait pu arranger ; *miteux* venait à
@@ -265,25 +265,25 @@ faisait partie de leur style et qui voulaient que vous le remarquiez.
 Harry s’assit sur le petit tabouret de bois, face à l’étroit bureau de
 M. Lupin.
 
-« Merci d’être venu, » dit l’homme.
+« Merci d’être venu », dit l’homme.
 
-« Non, merci à *vous* de m’avoir sauvé, » dit Harry. « Si vous avez jamais
+« Non, merci à *vous* de m’avoir sauvé », dit Harry. « Si vous avez jamais
 besoin que quelque chose d’impossible se produise, faites-le moi
 savoir. »
 
 L’homme sembla hésiter. « Harry, puis-je… te poser une question
 personnelle ? »
 
-« Vous pouvez la poser, certainement, » dit Harry, « j’ai moi aussi
+« Vous pouvez la poser, certainement », dit Harry, « j’ai moi aussi
 beaucoup de questions pour vous. »
 
 Lupin hocha la tête. « Harry, tes parents adoptifs prennent-ils bien soin
 de toi ? »
 
-« Mes *parents*, » dit Harry. « J’en ai quatre. Michael, James, Pétunia et
+« Mes *parents* », dit Harry. « J’en ai quatre. Michael, James, Pétunia et
 Lily. »
 
-« Ah, » dit M. Lupin. Puis « Ah » de nouveau. Il semblait cligner très fort
+« Ah », dit M. Lupin. Puis « Ah » de nouveau. Il semblait cligner très fort
 des yeux. « Je… c’est bon à entendre, Harry, Dumbledore ne voulait pas
 nous dire où tu étais… j’avais peur qu’il ne pense qu’il te faudrait
 d’horribles beaux-parents, ou quelque chose comme ça… »
@@ -295,7 +295,7 @@ est-il de mes… » Harry chercha un mot qui ne les rabaisserait pas plus
 qu’il ne les mettrait sur un piédestal… « *autres* parent ? Je veux
 savoir… eh bien, je veux tout savoir. »
 
-« C’est une gageure, » dit M. Lupin. Il s’essuya le front d’une main. « Eh
+« C’est une gageure », dit M. Lupin. Il s’essuya le front d’une main. « Eh
 bien, commençons au commencement. Lorsque tu es né, James était si
 heureux qu’il ne pouvait toucher sa baguette sans qu’une lueur dorée ne
 s’en échappe, et ce pendant une semaine. Et même après cela, à chaque
@@ -319,7 +319,7 @@ alors que Remus était au milieu d’un long discours sur les merveilles
 dont James était capable au Quidditch, et Harry n’avait pas pu trouver
 le cœur de l’interrompre plus directement.
 
-« Et c’est là que, » dit Remus, les yeux brillants, « James réussit un
+« Et c’est là que », dit Remus, les yeux brillants, « James réussit un
 *triple Plongeon renversé de Mulhanney* avec *effet coupé !* Toute la
 foule est partie en délire, même certains des Poufsouffle acclamaient
 - »
@@ -332,13 +332,13 @@ s’arrêta au milieu de sa phrase.
 
 « Mon père était-il une brute ? » dit Harry.
 
-Remus regarda longuement Harry. « Pendant un petit temps, » dit Remus. « Il
+Remus regarda longuement Harry. « Pendant un petit temps », dit Remus. « Il
 mûrit et s’en éloigna bien assez tôt. Où as-tu entendu cela ? »
 
 Harry ne répondit pas, il essayait de trouver une phrase vraie qui
 dévierait les soupçons, mais il ne réfléchit pas assez vite.
 
-« Oublie cela, » dit Remus, et il soupira. « Je peux deviner de qui il
+« Oublie cela », dit Remus, et il soupira. « Je peux deviner de qui il
 s’agit. » Le visage légèrement balafré était pincé par une expression de
 désapprobation. « Quelle chose horrible à dire — »
 
@@ -347,20 +347,20 @@ familiale difficile, ou quelque chose comme ça ? Ou était-il juste…
 naturellement méchant ? » *Froid ?*
 
 Les mains de Remus passèrent dans ses cheveux, le premier geste nerveux
-que Harry ait pu voir chez lui. « Harry, » dit Remus, « tu ne peux pas
+que Harry ait pu voir chez lui. « Harry », dit Remus, « tu ne peux pas
 juger ton père par ce qu’il faisait lorsqu’il était un jeune garçon ! »
 
-« Je *suis* un jeune garçon, » dit Harry, « et je me juge *moi*. »
+« Je *suis* un jeune garçon », dit Harry, « et je me juge *moi*. »
 
 En entendant cela, Remus cligna deux fois des yeux.
 
-« Je veux savoir *pourquoi*, » dit Harry. « Je veux *comprendre*, parce que
+« Je veux savoir *pourquoi* », dit Harry. « Je veux *comprendre*, parce que
 pour moi, il me semble qu’il n’existe pas la moindre excuse ! » — voix un
 peu tremblante. « Dites-moi tout ce que vous savez sur ses raisons, même
 si ça ne semble pas gentil. » *Pour que je ne tombe pas dans le même
 piège moi-même, quel qu’il soit*.
 
-« C’était la chose à faire quand on était à Gryffondor, » dit Remus
+« C’était la chose à faire quand on était à Gryffondor », dit Remus
 lentement, avec réticence. « Et… je ne le pensais pas à l’époque, je
 pensais que ça avait été l’inverse, mais… c’est peut-être *Black* qui a
 entraîné *James*, en fait… Black voulait tellement montrer à tout le
@@ -373,7 +373,7 @@ que le sang de quelqu’un n’était pas sa destinée — »
 
 
 
-« Non, Harry, » dit Remus. « Je ne sais pas pourquoi Black a poursuivi
+« Non, Harry », dit Remus. « Je ne sais pas pourquoi Black a poursuivi
 Peter au lieu de s’enfuir. C’est comme si ce jour là, Black a provoqué
 des tragédies pour le plaisir de le faire. » La voix de l’homme était
 instable. « Il n’y a pas eu d’indice, pas d’avertissement, nous pensions
@@ -387,7 +387,7 @@ avait perdu ses quatre meilleurs amis en moins de vingt-quatre heures ;
 et il n’y avait pas eu la moindre justification pour la perte de Peter
 Pettigrow, le dernier qui lui restait.
 
-« Parfois, cela me fait encore mal de penser qu’il est à Azkaban, » finit
+« Parfois, cela me fait encore mal de penser qu’il est à Azkaban », finit
 Remus, sa voix presque un murmure. « Harry, je suis heureux que les
 Mangemorts n’aient pas le droit aux visiteurs. Cela veut dire que je
 n’ai pas à me sentir honteux de ne pas lui rendre visite. »
@@ -417,13 +417,13 @@ Godric, intrépide et fort comme les gens pensent qu’un Gryffondor
 devrait être. Mais si Peter avait plus peur que n’importe lequel d’entre
 nous, cela ne fait-il pas de lui le plus courageux ? »
 
-« Si, » dit Harry. Sa propre gorge était si serrée qu’il ne pouvait
+« Si », dit Harry. Sa propre gorge était si serrée qu’il ne pouvait
 presque pas parler. « Si vous le pouvez, M. Lupin, si vous avez le temps,
 je pense qu’il y a quelqu’un d’autre qui devrait entendre l’histoire de
 Peter Pettigrow, un élève de Poufsouffle en première année, Neville
 Londubat. »
 
-« Le garçon de Frank et Alice, » dit Remus d’une voix devenue triste. « Je
+« Le garçon de Frank et Alice », dit Remus d’une voix devenue triste. « Je
 vois. Ce n’est pas une histoire joyeuse, Harry, mais je peux la raconter
 à nouveau si tu penses que cela l’aidera. »
 
@@ -440,14 +440,14 @@ connaître, ou qu’il aurait voulu protéger en le tuant ? »
 Quelque chose scintilla dans les yeux de Remus, mais l’homme plus âgé
 secoua la tête et dit : « Pas vraiment. »
 
-« Cela veut dire qu’il y *a* quelque chose, » dit Harry.
+« Cela veut dire qu’il y *a* quelque chose », dit Harry.
 
 Le sourire narquois apparut de nouveau sous la moustache poivre et sel.
 « Tu as un peu de Peter en toi, tu vois. Mais ce n’est pas important,
 Harry. »
 
 « Je suis Serdaigle, je ne suis pas *censé* résister à la tentation des
-secrets. Et, » dit Harry d’un ton plus sérieux, « si Black trouvait que
+secrets. Et », dit Harry d’un ton plus sérieux, « si Black trouvait que
 cela méritait qu’il se fasse prendre, je ne peux pas m’empêcher de
 penser que c’est peut-être important. »
 
@@ -461,7 +461,7 @@ particulier de la voix de Remus, ou la façon dont l’homme avait dit
 *quand tu seras plus vieux*, ce détail qui fit jaillir une étincelle
 dans l’intuition de Harry…
 
-« En fait, » dit Harry, « je pense que j’ai plus ou moins déjà deviné,
+« En fait », dit Harry, « je pense que j’ai plus ou moins déjà deviné,
 désolé. »
 
 Remus leva les sourcils. « Vraiment ? ». Il semblait un peu sceptique.
@@ -472,7 +472,7 @@ Il y eut une longue pause gênée.
 
 Remus hocha lentement la tête d’un air grave.
 
-« Une fois, » dit Remus. « Il y a longtemps. Une triste affaire, qui
+« Une fois », dit Remus. « Il y a longtemps. Une triste affaire, qui
 s’acheva par une vaste tragédie, c’est du moins ainsi que nous l’avons
 perçue lorsque nous étions jeunes. » La perplexité et le mécontentement
 étaient clairement présents sur son visage. « Mais j’avais cru que tout

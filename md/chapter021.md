@@ -4,8 +4,8 @@ Hermione Granger avait peur d’être devenue Mauvaise.
 
 La différence entre Bon et Mauvais était généralement simple à saisir,
 elle n’avait jamais compris pourquoi les autres avaient tant de
-difficulté. À Poudlard, « Bon, » c’était le professeur Flitwick et le
-professeur McGonagall et le professeur Chourave. « Mauvais, » c’était le
+difficulté. À Poudlard, « Bon », c’était le professeur Flitwick et le
+professeur McGonagall et le professeur Chourave. « Mauvais », c’était le
 professeur Rogue et le professeur Quirrell et Drago Malefoy. Harry
 Potter… était un de ces cas inhabituels où on ne *pouvait pas* savoir
 juste en regardant. Elle essayait encore de décider à quel groupe il
@@ -123,7 +123,7 @@ Plus que cinq secondes.
 Harry Potter replaça précautionneusement le marque-page dans le livre,
 referma ce dernier et le mit de côté.
 
-« Je voudrais noter, au bénéfice de la postérité, » dit le Survivant d’une
+« Je voudrais noter, au bénéfice de la postérité », dit le Survivant d’une
 voix claire, « que je n’avais qu’un demi-livre à lire, et que j’ai fait
 face à un certain nombre de délais inattendus — »
 
@@ -154,22 +154,22 @@ la planification*. »
 Le visage de Harry révéla une profonde stupéfaction.
 
 « Oh, ça me rappelle que j’ai fini de lire le premier lot de livres que
-tu m’as prêté, » dit Hermione de son air le plus innocent. Deux avaient
+tu m’as prêté », dit Hermione de son air le plus innocent. Deux avaient
 été *difficiles*. Elle se demandait combien de temps ça *lui* avait pris
 pour finir de les lire.
 
-« Un jour, » dit le Survivant, « quand les lointains descendants d’*Homo
+« Un jour », dit le Survivant, « quand les lointains descendants d’*Homo
 sapiens* contempleront l’histoire de la galaxie et se demanderont quand
 les choses ont mal tournées, ils concluront que l’erreur originelle a
 été commise quand quelqu’un a appris à Hermione Granger à lire. »
 
-« Mais tu as quand même perdu, » dit Hermione. Elle avait une main sur son
+« Mais tu as quand même perdu », dit Hermione. Elle avait une main sur son
 menton et semblait contemplative. « Mais je me demande, que devrais-tu
 perdre exactement ? »
 
 « *Quoi ?* »
 
-« Tu as perdu le pari, » expliqua Hermione, « tu dois donc verser un gage. »
+« Tu as perdu le pari », expliqua Hermione, « tu dois donc verser un gage. »
 
 « Je ne me souviens pas d’avoir consenti à ça ! »
 
@@ -191,7 +191,7 @@ Vous *rendez-vous* compte de ce qu’elle est en train de faire ? Elle
 vous pousse à vous engager à l’avance maintenant, et alors la pression
 de la cohérence vous fera accepter tout ce qu’elle dira ensuite ! »
 
-« Ne t’en fais pas, » dit la préfète Pénélope Deauclaire. « Si elle demande
+« Ne t’en fais pas », dit la préfète Pénélope Deauclaire. « Si elle demande
 quelque chose de déraisonnable, nous pourrons toujours changer d’avis.
 Pas vrai, tout le monde ? »
 
@@ -228,13 +228,13 @@ masques, déplacez-les d’une salle de classe à un cimetière, et ce serait
 exactement comme le début de la moitié des histoires que les amis de son
 père racontaient sur les Mangemorts.
 
-« Je veux que tu saches, Drago Malefoy, » dit la silhouette avec un calme
+« Je veux que tu saches, Drago Malefoy », dit la silhouette avec un calme
 mortel, « que je ne te blâme pas pour ma récente défaite. »
 
 Sans réfléchir, Drago ouvrit la bouche pour protester, il n’y avait
 absolument aucune raison pour qu’*il* soit blâmé.
 
-« C’était, plus que toute autre chose, dû à ma propre stupidité, »
+« C’était, plus que toute autre chose, dû à ma propre stupidité »,
 continua la sombre silhouette. « J’aurais pu faire beaucoup d’autres
 choses, et ce à toutes les étape du parcours. Tu ne m’as pas demandé de
 faire *exactement* ce que j’ai fait. Tu m’as seulement demandé mon aide.
@@ -251,10 +251,10 @@ Drago avait déjà entendu parler de la défaite de Harry, et du gage que
 Hermione avait exigé de lui. La nouvelle avait circulé plus vite que des
 chouettes n’auraient pu la transporter.
 
-« Je comprends, » dit Drago. « Je suis désolé. » Il n’y avait rien d’autre
+« Je comprends », dit Drago. « Je suis désolé. » Il n’y avait rien d’autre
 qu’il *puisse* dire s’il voulait que Harry Potter soit ami avec lui.
 
-« Je ne demande ni compassion ni chagrin, » dit la sombre silhouette,
+« Je ne demande ni compassion ni chagrin », dit la sombre silhouette,
 toujours d’un calme mortel. « Mais je viens de passer deux heures
 entières en compagnie de Hermione Granger, habillé des vêtements qui
 m’avaient été fournis, à visiter des endroits fascinants de Poudlard
@@ -271,7 +271,7 @@ rendez-vous de Harry afin d’en finir avec son hilarité hystérique avant
 l’heure de rencontre convenue, et de ne pas commettre de *faux pas* en
 gloussant jusqu’à en perdre conscience.
 
-« Penses-tu, » dit Drago, « que quelque chose devrait arriver à cette
+« Penses-tu », dit Drago, « que quelque chose devrait arriver à cette
 Granger- »
 
 « Fais passer le mot à Serpentard que la Granger est *mienne* et que
@@ -284,7 +284,7 @@ me voyant sourire à Granger. »
 « Ou si tu es vu à un second rendez-vous ? » dit Drago, ne laissant percer
 dans sa voix qu’une toute petite note de scepticisme.
 
-« *Il n’y aura pas de second rendez-vous*, » dit la silhouette nimbée de
+« *Il n’y aura pas de second rendez-vous* », dit la silhouette nimbée de
 vert d’une voix si effrayante qu’elle semblait être non seulement celle
 d’un Mangemort mais aussi celle d’Amycus Carrow ce jour-là, juste avant
 que Père ne lui dise d’arrêter, qu’il n’était pas le Seigneur des
@@ -297,11 +297,11 @@ Seigneur des Ténèbres, Drago utiliserait une Pensine pour conserver une
 copie de ce souvenir dans un endroit sûr, et Harry Potter n’oserait plus
 jamais le trahir.
 
-« Mais parlons d’affaires plus joyeuses, » dit la silhouette aux ombres
+« Mais parlons d’affaires plus joyeuses », dit la silhouette aux ombres
 verdâtres. « Parlons de savoir et de pouvoir, Drago Malefoy, parlons de
 Science. »
 
-« Oui, » dit Drago. « Parlons donc. »
+« Oui », dit Drago. « Parlons donc. »
 
 Drago se demanda quelle partie de son visage était visible, et quelle
 partie était dans l’ombre, dans cette inquiétante lumière verte.
@@ -311,7 +311,7 @@ sourire dans son cœur.
 
 Il avait *enfin* une vraie conversation d’adulte.
 
-« Je t’offre un pouvoir, » dit la sombre silhouette, « et je te parlerai de
+« Je t’offre un pouvoir », dit la sombre silhouette, « et je te parlerai de
 ce pouvoir et de son prix. Le pouvoir a son origine dans la connaissance
 de la forme de la réalité et du contrôle qu’on obtient alors sur elle.
 Ce que tu comprends, tu peux le commander, et c’est un pouvoir assez
@@ -339,17 +339,17 @@ comment cela pouvait mal tourner.
 
 En plus Drago voulait quand même diriger le monde.
 
-« Oui, » dit Drago.
+« Oui », dit Drago.
 
-« Excellent, » dit la sombre silhouette. « J’ai eu ce qu’on pourrait
+« Excellent », dit la sombre silhouette. « J’ai eu ce qu’on pourrait
 appeler une *semaine encombrée*, et ça prendra du temps de planifier ton
 programme d’études- »
 
 « J’ai moi-même beaucoup de choses à faire pour consolider mon pouvoir à
-Serpentard, » dit Drago, « sans parler des devoirs. Peut-être qu’on
+Serpentard », dit Drago, « sans parler des devoirs. Peut-être qu’on
 devrait juste commencer en octobre ? »
 
-« Ça m’a l’air raisonnable, » dit la sombre silhouette, « mais ce que je
+« Ça m’a l’air raisonnable », dit la sombre silhouette, « mais ce que je
 voulais dire c’est que pour préparer ton programme, je dois savoir ce
 que je vais t’enseigner. Trois pensées me viennent. La première est que
 je t’explique l’esprit et le cerveau humain. La deuxième option est que
@@ -365,7 +365,7 @@ pense pas que ce sera pour tout de suite. La troisième option est que je
 t’enseigne la génétique et l’évolution et l’hérédité, ce que tu
 appellerais le sang — »
 
-« Celle-là, » dit Drago.
+« Celle-là », dit Drago.
 
 La silhouette hocha la tête. « Je pensais que tu dirais ça. Mais je pense
 que ce sera le chemin le plus douloureux pour toi, Drago. Et si ta
@@ -378,16 +378,16 @@ découvres que les tests expérimentaux en disent une autre ? »
 Il y eut une pause, et la sombre silhouette se tint là, bouche béante,
 pendant quelques instants.
 
-« Euh, » dit la sombre silhouette. « Ça ne marche pas vraiment comme ça.
+« Euh », dit la sombre silhouette. « Ça ne marche pas vraiment comme ça.
 C’est ce contre quoi j’essayais de te mettre en garde, Drago. Tu ne
 *peux pas* changer la réponse pour qu’elle te plaise. »
 
 « On peut *toujours* faire en sorte que la réponse soit celle qui nous
-arrange, » dit Drago. Ça avait pratiquement été la première chose que ses
+arrange », dit Drago. Ça avait pratiquement été la première chose que ses
 précepteurs lui avaient enseignée. « Le problème est juste de trouver les
 bons arguments. »
 
-« Non, » dit la sombre silhouette, sa voix s’élevant sous l’effet de la
+« Non », dit la sombre silhouette, sa voix s’élevant sous l’effet de la
 frustration, « non, non, non ! Alors tu obtiens la *mauvaise* réponse, et
 ce n’est pas comme ça que tu pourras aller sur la Lune ! La Nature n’est
 pas une personne, tu ne peux pas la duper et lui faire croire autre
@@ -395,7 +395,7 @@ chose, si tu essaies de dire que la Lune est faite de fromage tu pourras
 argumenter pendant des jours et ça ne changera pas la Lune ! Ce dont tu
 parles, c’est de *rationaliser*, comme de commencer avec une feuille de
 papier, d’aller directement à la dernière ligne, d’utiliser de l’encre
-pour écrire « et *par conséquent*, la Lune est faite de fromage, » puis de
+pour écrire « et *par conséquent*, la Lune est faite de fromage », puis de
 remonter tout en haut pour écrire plein d’arguments ingénieux. Mais soit
 la Lune est faite de fromage, soit elle ne l’est pas. Au moment où tu as
 écrit la conclusion, c’était déjà vrai ou faux. Que la page se termine
@@ -404,7 +404,7 @@ par la bonne ou la mauvaise conclusion est déterminé à l’instant où tu
 chères, et que tu aimes celle qui brille, les arguments ingénieux que tu
 inventes pour justifier son achat n’ont aucune importance, la *vraie*
 règle que tu as utilisée pour *choisir pour quelle malle tu allais
-argumenter* était « prend celle qui brille, » et quelle que soit
+argumenter* était « prend celle qui brille », et quelle que soit
 l’efficacité de cette règle en ce qui concerne la sélection de malles,
 c’est le genre de malle que tu auras. La rationalité *ne peut pas* être
 utilisée pour argumenter en faveur d’un camp déjà fixé, il est seulement
@@ -425,7 +425,7 @@ Et Harry Potter avait alors dit quelque chose que Drago ne pouvait
 absolument pas laisser passer. « Tu penses que les sang-de-bourbe sont
 *plus forts* ? »
 
-« Je ne pense rien, » dit la sombre silhouette. « Je ne sais rien. Je ne
+« Je ne pense rien », dit la sombre silhouette. « Je ne sais rien. Je ne
 crois rien. Ma conclusion n’est pas encore écrite. Je découvrirai
 comment tester la force magique des nés-Moldus, et la force magique des
 Sang-Purs. Si mes tests me disent que les nés-Moldus sont plus faibles,
@@ -436,11 +436,11 @@ cela et d’autres faits, je gagnerai une certaine quantité de pouvoir — 
 « Et tu t’attends à ce que *je* crois tout ce que tu dis ? » demanda
 vivement Drago.
 
-« Je m’attends à ce que tu exécutes les tests *toi-même*, » dit calmement
+« Je m’attends à ce que tu exécutes les tests *toi-même* », dit calmement
 la sombre figure. « As-tu peur de ce que *tu* vas découvrir ? »
 
 Drago fixa la sombre silhouette pendant un moment, ses yeux étroits.
-« Bon piège, Harry, » dit-il. « Il faudra que je m’en souvienne, c’est
+« Bon piège, Harry », dit-il. « Il faudra que je m’en souvienne, c’est
 nouveau. »
 
 La sombre silhouette secoua la tête. « Ce n’est pas un piège, Drago.
@@ -456,17 +456,17 @@ Es-tu certain de ne pas préférer apprendre le fonctionnement du
 cerveau ? »
 
 « Et si je te dis que je préférerais apprendre le fonctionnement du
-cerveau, » dit Drago, sa voix maintenant dure, « tu raconteras à tout le
+cerveau », dit Drago, sa voix maintenant dure, « tu raconteras à tout le
 monde que j’avais peur de ce que j’allais découvrir. »
 
-« Non, » dit la sombre silhouette. « Je ne ferai pas ça. »
+« Non », dit la sombre silhouette. « Je ne ferai pas ça. »
 
 « Mais tu feras peut-être le même genre de tests toi-même, et si tu
 obtiens la mauvaise réponse, je ne serai pas là pour dire quelque chose
 avant que tu ne la montres à quelqu’un d’autre. » La voix de Drago était
 toujours dure.
 
-« Je te demanderais quand même avant, Drago, » dit calmement la sombre
+« Je te demanderais quand même avant, Drago », dit calmement la sombre
 silhouette.
 
 Drago resta silencieux. Il ne s’était pas attendu à ça, il pensait avoir
@@ -491,12 +491,12 @@ En fait, ça ne prit pas longtemps d’y réfléchir. Si on écartait toutes
 les parties déroutantes… alors Harry Potter se préparait à jouer avec
 quelque chose qui pouvait provoquer une explosion politique gigantesque,
 et il serait dément de juste s’en aller et de le laisser le faire seul.
-« Nous étudierons le sang, » dit Drago.
+« Nous étudierons le sang », dit Drago.
 
 « *Excellent,* » dit la silhouette, et elle sourit. « Je te félicite pour
 ton désir de poser la question. »
 
-« Merci, » dit Drago, ne parvenant pas tout à fait à masquer toute trace
+« Merci », dit Drago, ne parvenant pas tout à fait à masquer toute trace
 d’ironie de sa voix.
 
 « Hé, tu pensais qu’aller sur la Lune était *facile* ? Réjouis-toi que
@@ -508,14 +508,14 @@ humain ! »
 Il y eut une courte pause, puis la silhouette hocha la tête. « C’est
 juste. »
 
-« Écoute, Harry, » dit Drago sans grand espoir, « je pensais que l’idée
+« Écoute, Harry », dit Drago sans grand espoir, « je pensais que l’idée
 était de prendre toutes les choses que les Moldus savent, de les
 combiner avec ce que les sorciers savent, et de devenir maîtres des deux
 mondes. Ne serait-il pas beaucoup plus simple de juste étudier les
 choses que les Moldus ont *déjà* découvertes, comme les trucs de la
 Lune, et d’utiliser *ce* pouvoir — »
 
-« *Non*, » dit la silhouette en secouant brutalement la tête de droite à
+« *Non* », dit la silhouette en secouant brutalement la tête de droite à
 gauche, ce qui envoya des ombres vertes courir sur son nez et ses yeux.
 Sa voix devint très grave. « Si tu ne peux apprendre l’art scientifique
 qui consiste à accepter la réalité, alors je ne *dois pas* te dire ce
@@ -526,7 +526,7 @@ intelligence et ta discipline en survivant à de moindres périls. »
 
 Un frisson descendit le long de la colonne vertébrale de Drago et il eut
 un soubresaut involontaire. Il savait que ça avait été visible même dans
-la faible lumière. « Très bien, » dit Drago. « Je comprends. » Père lui
+la faible lumière. « Très bien », dit Drago. « Je comprends. » Père lui
 avait dit cela en de nombreuses occasions. Quand un sorcier plus
 puissant vous disait que vous n’étiez pas prêt à savoir, et que vous
 vouliez vivre, vous n’insistiez pas.
@@ -548,11 +548,11 @@ s’ils ne parlaient *pas*, les scientifiques du pays *ennemi* parleraient
 de sens. « Ils ne détruisirent pas le monde. Mais il s’en est fallu de
 peu. Et *nous* n’allons pas reproduire cette erreur. »
 
-« Tout à fait, » dit Drago, sa voix maintenant très ferme. « Pas *nous*.
+« Tout à fait », dit Drago, sa voix maintenant très ferme. « Pas *nous*.
 Nous sommes des sorciers, et étudier la science ne fait pas de nous des
 Moldus. »
 
-« Comme tu dis, » dit la silhouette nimbée de vert. « Nous allons établir
+« Comme tu dis », dit la silhouette nimbée de vert. « Nous allons établir
 *notre* propre Science, une Science magique, et cette Science aura des
 traditions plus intelligentes dès le début. » La voix devint très dure.
 « Le savoir que je partage avec toi sera enseigné en même temps que la
@@ -561,7 +561,7 @@ sera aligné sur ton progrès dans cette discipline, et tu ne partageras
 pas ce savoir avec ceux n’ayant pas appris cette discipline. Acceptes-tu
 cela ? »
 
-« Oui, » dit Drago. Qu’était-il censé faire, dire non ?
+« Oui », dit Drago. Qu’était-il censé faire, dire non ?
 
 « Bien. Et ce que tu découvriras toi-même, tu le garderas pour toi, à
 moins que tu ne penses que d’autres scientifiques sont prêts à
@@ -574,7 +574,7 @@ armes dangereuses, peu importe qu’une guerre fasse rage. À partir
 d’aujourd’hui, ce sera la tradition et la loi de la science parmi les
 sorciers. Sommes-nous d’accord là-dessus ? »
 
-« Oui, » dit Drago. En fait, ça commençait *vraiment* à avoir l’air
+« Oui », dit Drago. En fait, ça commençait *vraiment* à avoir l’air
 sacrément attrayant. Les Mangemorts avaient essayé de prendre le pouvoir
 en étant plus effrayants que tout le monde, et ils n’avaient pas encore
 vraiment gagné. Peut-être était-il temps d’essayer de diriger à l’aide
@@ -585,10 +585,10 @@ et tous ses membres doivent accepter nos règles. »
 
 Il y eut une très courte pause.
 
-« Nous aurons besoin de meilleures robes, » dit la sombre silhouette,
+« Nous aurons besoin de meilleures robes », dit la sombre silhouette,
 « avec des capuches et tout ça — »
 
-« Je *pensais justement* à ça, » dit Drago. « Nous n’avons pas besoin de
+« Je *pensais justement* à ça », dit Drago. « Nous n’avons pas besoin de
 nouvelles robes intégrales, cela dit, juste des houppelandes à capuche à
 mettre par-dessus. J’ai une amie à Serpentard, elle prendra tes mesures
 - »
@@ -613,12 +613,12 @@ l’identification des nôtres trop facile ? »
 ses robes au-dessus de du bras droit » et que nos gars sont là « oups,
 désolé, on dirait que je suis un espion » — »
 
-« *Oublie ce que je viens de dire*, » dit immédiatement Drago, de la sueur
+« *Oublie ce que je viens de dire* », dit immédiatement Drago, de la sueur
 perlant soudain sur toute la surface de son corps. Il avait besoin d’une
 distraction, *vite* — « Et comment nous appellerons-nous ? Les
 Mangescience ? »
 
-« Non, » dit lentement la sombre silhouette. « Ça ne sonne pas bien… »
+« Non », dit lentement la sombre silhouette. « Ça ne sonne pas bien… »
 
 Du revers d’une de ses manches, Drago s’essuya le front, chassant des
 gouttes d’humidité. Mais à quoi *avait pensé* le Seigneur des Ténèbres ?
@@ -791,12 +791,12 @@ Harry mangea une autre bouchée de pancake.
 
 Les jumeaux Weasley arrivèrent, souriant joyeusement.
 
-« Bonjour, Fred, » dit Harry d’un ton morne. L’un des deux jumeaux fit un
+« Bonjour, Fred », dit Harry d’un ton morne. L’un des deux jumeaux fit un
 signe de tête. « Bonjour, George. » L’autre jumeau hocha la tête.
 
-« Tu as l’air fatigué, » dit George.
+« Tu as l’air fatigué », dit George.
 
-« Tu devrais te réjouir, » dit Fred.
+« Tu devrais te réjouir », dit Fred.
 
 « Regarde ce qu’*on* a pour toi ! »
 
@@ -806,10 +806,10 @@ Un gâteau avec douze bougies allumées.
 
 Il y eut une pause, tandis que toute la table Serdaigle les fixait.
 
-« Ça ne va pas, » dit quelqu’un. « Harry Potter est né le trente et un
+« Ça ne va pas », dit quelqu’un. « Harry Potter est né le trente et un
 juil- »
 
-« IL VIENT, » dit une immense voix creuse qui coupa toutes les
+« IL VIENT », dit une immense voix creuse qui coupa toutes les
 conversations à la manière d’une épée de glace. « CELUI QUI DÉCHIRERA L« — »
 
 Dumbledore avait bondi de son trône et courut sur la Grande Table et
@@ -821,7 +821,7 @@ Il y eut une pause choquée…
 
 …puis des têtes se tournèrent en direction de Harry Potter.
 
-« Je n’ai pas fait ça, » dit Harry d’une voix fatiguée.
+« Je n’ai pas fait ça », dit Harry d’une voix fatiguée.
 
 « C’était une *prophétie* ! » siffla quelqu’un à la table. « Et je parie
 que ça *te* concerne ! »
@@ -859,10 +859,10 @@ La conversation continua autour de lui.
 contienne d’horribles choses au fait des idées de David Criswell au
 sujet de la dissipation d’étoiles.
 
-« Donc, » dit Harry d’un ton fatigué, « ça arrive tous les dimanches au
+« Donc », dit Harry d’un ton fatigué, « ça arrive tous les dimanches au
 petit déjeuner, c’est ça ? »
 
-« Non, » dit un étudiant qui aurait pu être en septième année, et il
+« Non », dit un étudiant qui aurait pu être en septième année, et il
 fronçait les sourcils d’un air sinistre. « Pas du tout. »
 
 Harry haussa les épaules. « Bref. Quelqu’un veut du gâteau

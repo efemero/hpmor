@@ -5,7 +5,7 @@ Il demeurait rare, même après avoir été directrice adjointe pendant
 trente ans et professeur de Métamorphose avant ça, de voir Albus
 Dumbledore pris complètement au dépourvu.
 
-« …Susan Bones, Lavande Brown et Daphné Greengrass, » conclut Minerva. « Je
+« …Susan Bones, Lavande Brown et Daphné Greengrass », conclut Minerva. « Je
 dois aussi remarquer, Albus, que le récit de Mlle Granger sur votre
 attitude indifférente — je crois que sa phrase était “il a dit que je
 devrai me contenter de n’être qu’un faire-valoir” — a généré beaucoup
@@ -17,7 +17,7 @@ Le vieux sorcier s’enfonça dans son immense fauteuil, les yeux toujours
 braqués sur elle, un air plutôt distrait derrière ses lunettes en
 demi-lune.
 
-« Cela m’a mis dans un sacré dilemme, Albus, » dit le professeur
+« Cela m’a mis dans un sacré dilemme, Albus », dit le professeur
 McGonagall. Elle s’assura de maintenir une expression neutre. « Je sais
 que vous ne souhaitiez pas vraiment décourager la fille. Bien au
 contraire, en fait. Mais vous et Severus m’avez souvent dit que pour
@@ -29,10 +29,10 @@ accompagnée d’un ton légèrement offensé. Après tout, si je n’avais *pas
 su que vous essayiez délibérément de manipuler Mlle Granger, j’aurais
 été passablement énervée. »
 
-« Je… vois, » dit lentement le vieux sorcier. Sa main joua distraitement
+« Je… vois », dit lentement le vieux sorcier. Sa main joua distraitement
 avec sa barbe d’argent par petits gestes rapides.
 
-« Heureusement, » continua le professeur McGonagall, « pour l’instant, les
+« Heureusement », continua le professeur McGonagall, « pour l’instant, les
 seuls membres du personnel à porter les badges de Mlle Granger sont les
 professeurs Sinistra et Vector. »
 
@@ -48,15 +48,15 @@ l’heure de nous donner une quête !* »
 
 « Mlle Granger les vend pour deux Mornilles et m’a fait savoir qu’elle en
 a pour le moment écoulées cinquante. Je crois que Nymphadora Tonks, une
-Poufsouffle en septième année, les enchante pour elle. Enfin, » dit le
+Poufsouffle en septième année, les enchante pour elle. Enfin », dit le
 professeur McGonagall d’une voix brusque, « nos huit nouvelles héroïnes
 ont demandé l’autorisation de manifester devant l’entrée de votre
 bureau. »
 
-« J’espère, » dit Albus en fronçant les sourcils, « que vous leur avez
+« J’espère », dit Albus en fronçant les sourcils, « que vous leur avez
 expliqué que — »
 
-« Je leur ai expliqué que mercredi à 19 h conviendrait très bien, » dit
+« Je leur ai expliqué que mercredi à 19 h conviendrait très bien », dit
 Minerva. Elle reprit le badge du bureau du directeur, offrit à Albus un
 sourire mielleux et se tourna vers la porte.
 
@@ -102,7 +102,7 @@ infiniment trop horrible de dire à tout le monde qu’elle annulait. Elle
 se demanda combien d’actions héroïques avaient continué pour ce genre de
 raisons. La plupart des livres ne *disaient* pas : « Et ils refusèrent
 d’abandonner, peu importe à quel point cela aurait été sensé, car cela
-aurait été trop embarrassant, » mais une grande partie de l’Histoire
+aurait été trop embarrassant », mais une grande partie de l’Histoire
 s’expliquait beaucoup mieux vu sous cet angle.
 
 À 19 h 15, selon les dires professeur McGonagall, Dumbledore descendrait
@@ -142,7 +142,7 @@ façon lente et rythmée au lieu d’hyperventiler jusqu’à l’écroulement.
 « *Vraiment ?* » dit Mlle Preece avec une fascination non dissimulée.
 « Elles ne pouvaient pas *voter* ? »
 
-« En effet, » dit le professeur Sinistra. (Les cheveux du professeur
+« En effet », dit le professeur Sinistra. (Les cheveux du professeur
 d’Astronomie étaient encore noirs et sa peau noire n’était que
 légèrement ridée ; Hermione aurait *deviné* qu’elle avait environ
 soixante-dix ans, sauf que…) « Je me souviens bien que ma mère s’était
@@ -156,11 +156,11 @@ Trente secondes plus tôt tous les non-nés-Moldus, mâles et femelles,
 regardaient le professeur Sinistra avait un air profondément choqué.
 Hannah fit tomber sa pancarte.
 
-« Et *ça* n’était pas le pire non plus, loin de là, » conclut le
+« Et *ça* n’était pas le pire non plus, loin de là », conclut le
 professeur Sinistra. « Mais vous voyez où ce genre de chose peut
 potentiellement mener. »
 
-« Merlin nous protège, » dit Pénélope Deauclaire d’une voix étranglée.
+« Merlin nous protège », dit Pénélope Deauclaire d’une voix étranglée.
 « Vous voulez dire que c’est comme *ça* que les hommes nous traiteraient
 si nous n’avions pas de baguettes pour nous défendre ? »
 
@@ -186,7 +186,7 @@ prenne de lui ce qu’elle désire — »
 « *Professeur Quirrell !* » dit le professeur McGonagall d’une voix
 coupante.
 
-« Pardon, » dit le professeur Quirrell d’une voix douce, les yeux toujours
+« Pardon », dit le professeur Quirrell d’une voix douce, les yeux toujours
 baissés vers le badge dans sa main, « continuons-nous tous à prétendre
 que cela n’arrive jamais ? Dans ce cas je vous présente mes excuses. »
 
@@ -195,7 +195,7 @@ Le professeur Sinistra rétorqua : « Et j’imagine que les sorciers ne �
 « Des *enfants* sont présents, professeurs ! » Encore le professeur
 McGonagall.
 
-« Certains le font, » dit le professeur d’une voix calme comme pour
+« Certains le font », dit le professeur d’une voix calme comme pour
 discuter du temps qu’il faisait. « Quoique personnellement, j’évite. »
 
 Il y eut un assez long silence. Hermione releva sa pancarte — elle avait
@@ -209,7 +209,7 @@ pas tout à fait assez rapide pour manquer le petit hochement de tête que
 Harry fit à son intention, comme s’ils venaient de tomber d’accord sur
 quelque chose.
 
-« Pour être honnête, » dit le professeur Sinistra après un moment, « je ne
+« Pour être honnête », dit le professeur Sinistra après un moment, « je ne
 peux pas me souvenir avoir fait face au moindre préjugé dû à mon sexe ou
 à ma couleur de peau depuis que j’ai reçu ma lettre de Poudlard. Non,
 aujourd’hui c’est toujours parce que je suis une née-Moldue. Je crois
@@ -227,7 +227,7 @@ Sinistra et ses cheveux commençaient à grisonner un peu ; Hermione ne
 s’était jamais retrouvée à proximité du professeur d’Arithmancie avant
 que celle-ci ne vienne lui demander un badge.
 
-« Euh, » dit Hermione d’une voix légèrement aiguë, « j’ai été voir dans les
+« Euh », dit Hermione d’une voix légèrement aiguë, « j’ai été voir dans les
 livres d’Histoire et il y a eu autant de femmes que d’hommes ministres
 de la Magie. Puis j’ai été voir les Manitous Suprêmes et il y a eu un
 peu plus de sorciers que de sorcières mais pas beaucoup. Mais si vous
@@ -235,7 +235,7 @@ cherchez des chasseurs de Seigneurs des Ténèbres connus ou des gens qui
 ont empêché des invasions de créatures maléfiques ou des gens qui ont
 renversé des Seigneurs des Ténèbres — »
 
-« Et des Seigneurs des Ténèbres eux-mêmes, bien sûr, » dit le professeur
+« Et des Seigneurs des Ténèbres eux-mêmes, bien sûr », dit le professeur
 Quirrell. *Cette fois* il avait levé les yeux. « Vous pouvez les ajouter
 à votre liste, Mlle Granger. Parmi tous les Mangemorts présumés on ne
 peut trouver que deux sorcières, Bellatrix Black et Alecto Carrow. Et je
@@ -246,11 +246,11 @@ Hermione se contenta de le fixer du regard.
 
 Il ne pouvait pas *vraiment* vouloir -
 
-« Professeur Quirrell, » dit le professeur Vector, « qu’insinuez-vous
+« Professeur Quirrell », dit le professeur Vector, « qu’insinuez-vous
 exactement ? »
 
 Le professeur de Défense éleva le badge afin que les lettres SPEHS
-soient face à elles et dit : « Héros, » puis il retourna le badge pour
+soient face à elles et dit : « Héros », puis il retourna le badge pour
 montrer son fond argenté et dit : « Mages Noirs. Ce sont des carrières
 similaires choisies par des gens similaires, et on peut difficilement
 demander pourquoi les jeunes sorcières se détournent d’une de ces voies
@@ -313,7 +313,7 @@ avec Harry Potter. »
 « Je — » dit Hermione, sa voix si aiguë qu’elle en devint presque un
 pépiement, mais elle ne sut alors quoi dire.
 
-« Vous pouvez prendre un moment pour réfléchir si vous le souhaitez, » dit
+« Vous pouvez prendre un moment pour réfléchir si vous le souhaitez », dit
 le professeur Quirrell. « Dites-vous que c’est un devoir à rendre pour
 jeudi. J’ai entendu dire que vous étiez assez éloquente à l’écrit. »
 
@@ -322,7 +322,7 @@ Tout le monde la regardait.
 « Je — » dit Hermione. « Je suis en désaccord avec absolument tout ce que
 vous avez dit. »
 
-« Bien dit, » lui parvint la voix brusque du professeur McGonagall.
+« Bien dit », lui parvint la voix brusque du professeur McGonagall.
 
 Le regard du professeur Quirrell ne vacilla pas. « Cela n’est pas assez
 développé pour un devoir à rendre, Mlle Granger. *Quelque chose* vous
@@ -342,7 +342,7 @@ quitté son visage. « La plupart des gens se disent qu’ils font ce qui est
 juste, Mlle Granger. Ils ne sortent pas pour autant de l’ordinaire. »
 
 Hermione prit deux profondes inspirations et essaya d’être courageuse.
-« Il ne *s’agit pas* de sortir de l’ordinaire, » dit-elle aussi
+« Il ne *s’agit pas* de sortir de l’ordinaire », dit-elle aussi
 vaillamment qu’elle en était capable. « Mais si quelqu’un essaie
 seulement de faire ce qui est juste, encore et encore, et qu’il n’est
 pas trop paresseux pour faire le travail requis, qu’il réfléchit à ce
@@ -356,7 +356,7 @@ quelqu’un comme ça rencontrerait déjà bien assez d’ennuis. »
 Quelques-uns des garçons et des filles gloussèrent, y compris le
 professeur McGonagall, qui avait l’air à la fois narquoise et fière.
 
-« Vous avez peut-être raison, » dit le professeur de Défense, ses yeux
+« Vous avez peut-être raison », dit le professeur de Défense, ses yeux
 mis-clos. Il jeta le badge à Hermione et elle l’attrapa sans y penser.
 « Mon don à votre cause, Mlle Granger. J’ai cru comprendre qu’il valait
 deux Mornilles. »
@@ -372,33 +372,33 @@ moment.
 des larmes. « Je — je — demain j’aurais trouvé ce que c’est, mais j’en ai
 une, j’en suis sûre ! »
 
-« Si tu ne peux vraiment rien trouver, » dit Daphné en donnant une tape
+« Si tu ne peux vraiment rien trouver », dit Daphné en donnant une tape
 affective sur l’épaule de Tracey, « prends la bonne vieille ambition de
 conquérir le monde. »
 
 « Hé ! » dit Susan d’un ton sec. « Vous êtes censées être des héroïnes
 maintenant ! Ça veut dire que vous devez être *bonnes !* »
 
-« Pas de problème, » dit Lavande, « je suis quasiment sûre que le général
+« Pas de problème », dit Lavande, « je suis quasiment sûre que le général
 Chaos veut conquérir le monde et c’est plutôt un chic type. »
 
-D’autres conversations s’engagèrent parmi les spectateurs. « Eh bien, »
+D’autres conversations s’engagèrent parmi les spectateurs. « Eh bien »,
 dit Pénélope Deauclaire. « Je pense que c’est le professeur de Défense le
 plus *ouvertement* maléfique qu’on ait jamais eu. »
 
 Le professeur McGonagall toussa en signe d’avertissement, le président
-des élèves dit : « Tu n’étais pas là à l’époque du professeur Barney, » et
+des élèves dit : « Tu n’étais pas là à l’époque du professeur Barney », et
 plusieurs personnes tiquèrent.
 
-« Le professeur Quirrell *parle* juste comme ça, » dit Harry Potter, même
+« Le professeur Quirrell *parle* juste comme ça », dit Harry Potter, même
 s’il avait l’air moins sûr de lui qu’avant. « Enfin, réfléchissez, il ne
 *fait* rien qui se rapproche de ce que Rogue fait — »
 
-« M. Potter, » couina le professeur Flitwick, sa voix polie et son visage
+« M. Potter », couina le professeur Flitwick, sa voix polie et son visage
 sévère, « pourquoi m’avez-vous demandé de rester silencieux ? »
 
 « Le professeur Quirrell testait Hermione pour voir s’il voulait être son
-vieux sorcier mystérieux, » dit Harry. « Ce qui n’aurait jamais, jamais
+vieux sorcier mystérieux », dit Harry. « Ce qui n’aurait jamais, jamais
 fonctionné, mais elle devait répondre elle-même. »
 
 Hermione cligna des yeux.
@@ -438,10 +438,10 @@ joie derrières ses lunettes en demi-lune et dit : « Bonjour, Mlle
 Granger. »
 
 Ce qui était bizarre, c’était que c’était loin d’être aussi effrayant
-que de parler au professeur Quirrell. « Bonjour, monsieur le directeur, »
+que de parler au professeur Quirrell. « Bonjour, monsieur le directeur »,
 dit Hermione sans autre chose qu’un léger chevrotement dans la voix.
 
-« Mlle Granger, » dit Dumbledore, et il avait l’air maintenant plus
+« Mlle Granger », dit Dumbledore, et il avait l’air maintenant plus
 sérieux, « je pense que vous et moi nous sommes assez mal compris. Je ne
 souhaitais pas sous-entendre que vous ne pouviez pas ni ne deviez pas
 être une héroïne. Je n’ai certainement pas insinué que les sorcières en
@@ -457,7 +457,7 @@ personnes passées par Poudlard sont devenues des héros, je parle de gens
 comme Lupe Cazaril et d’autres, et *dix* d’entre elles étaient des
 garçons. Cimorene Linderwall était la seule sorcière. »
 
-« Hmm, » dit le directeur. Son visage était pensif ; il avait au moins
+« Hmm », dit le directeur. Son visage était pensif ; il avait au moins
 *l’air* d’y réfléchir. « Mlle Granger, ça n’a jamais été mon genre de
 comparer ce genre de chiffres. Il est souvent bien plus simple de
 compter que de comprendre. Nombre de gens bons sont sortis de Poudlard,
@@ -484,13 +484,13 @@ sera. Ces personnes seraient prêtes à traverser des incendies et à nager
 dans de la glace. Ni les Détraqueur ni la mort de leurs amis ne les
 arrêterait, pas plus que la dissuasion. »
 
-« Eh bien, » dit Hermione, et elle s’interrompit, luttant pour trouver ses
+« Eh bien », dit Hermione, et elle s’interrompit, luttant pour trouver ses
 mots. « Eh bien, enfin… et si ce n’est pas *vraiment* vrai ? Enfin, de
 *mon point de vue* il semble que si on veut que plus de sorcières
 deviennent des héroïnes, on devrait mieux leur apprendre à se
 héroïfier. »
 
-« Beaucoup de garçons et de filles rêvent d’être des héros, » dit
+« Beaucoup de garçons et de filles rêvent d’être des héros », dit
 Dumbledore à voix basse. Il ne regardait qu’elle et aucune des autres
 filles. « Ceux qui continuent une fois éveillés sont moins nombreux.
 Beaucoup ont tenu bon et se sont battus lorsque le Mal est venu les
@@ -508,7 +508,7 @@ solitaire ni si courte.*
 
 Mais elle ne parvint pas à le dire ; pas à lui.
 
-« Enfin, ce débat est stérile, » dit le vieux sorcier. Son sourire parut
+« Enfin, ce débat est stérile », dit le vieux sorcier. Son sourire parut
 un peu triste à Hermione. « Mlle Granger, on ne peut enseigner l’héroïsme
 comme on enseignerait les Charmes. On ne peut demander un devoir sur
 comment continuer quand tout espoir semble perdu. On ne peut inculquer
@@ -518,7 +518,7 @@ une autre, ce sont plus souvent des garçons que des filles. » Le
 directeur haussa les épaules comme pour dire qu’*il* ne pouvait rien y
 faire.
 
-« Euh, » dit Hermione. Elle ne put s’empêcher ne regarder derrière elle.
+« Euh », dit Hermione. Elle ne put s’empêcher ne regarder derrière elle.
 
 Le professeur Sinistra avait l’air un peu indignée. Et *non*, tout le
 monde ne la regardait pas comme si elle s’était comportée comme une
@@ -532,7 +532,7 @@ ne vois pas comment quiconque pourrait vraiment *savoir* ça plutôt que
 de juste l’affirmer après-coup. Et quand *je* vous ai dit que je voulais
 être une héroïne, vous n’avez pas été très encourageant. »
 
-« M. Potter, » dit le directeur avec douceur. Ses yeux ne quittèrent pas
+« M. Potter », dit le directeur avec douceur. Ses yeux ne quittèrent pas
 ceux de Hermione. « Dites s’il vous plaît à Mlle Granger votre impression
 sur notre première rencontre. Diriez-vous que j’étais encourageant ?
 Répondez sincèrement. »
@@ -542,7 +542,7 @@ Il y eut un silence.
 « M. Potter ? » dit la voix perplexe du professeur Vector derrière
 Hermione.
 
-« Euh, » dit la voix de Harry, venue d’un peu plus loin, extrêmement
+« Euh », dit la voix de Harry, venue d’un peu plus loin, extrêmement
 réticente. « Euh, enfin, à vrai dire dans mon cas le directeur a mis le
 feu à un poulet. »
 
@@ -552,7 +552,7 @@ pas certaine qu’on l’ait entendue.
 
 Dumbledore la regardait, l’air parfaitement sérieux.
 
-« Je n’étais pas au courant pour Fumseck, » dit rapidement la voix de
+« Je n’étais pas au courant pour Fumseck », dit rapidement la voix de
 Harry, « alors il m’a dit que Fumseck était un phénix tout en me montrant
 un poulet sur le perchoir de Fumseck pour que je pense que ce poulet
 *était* Fumseck et ensuite il a mis le feu au poulet — et il m’a aussi
@@ -633,7 +633,7 @@ de pieds foulant la pierre des couloirs de Poudlard. « Enfin, si il *est*
 fou avec tout le monde et pas seulement avec les sorcières, ce n’est pas
 de la discrimination, si ? »
 
-« Je ne veux plus manifester contre le directeur, » dit faiblement Hannah.
+« Je ne veux plus manifester contre le directeur », dit faiblement Hannah.
 La Poufsouffle avait l’air un peu instable. « Je me fiche que le
 professeur McGonagall dise qu’il ne nous en veut pas, mes nerfs ne
 peuvent pas le supporter. »
@@ -645,14 +645,14 @@ d’Inferi de sitôt — »
 *apprendre* à être des héroïnes, d’accord ? Ce n’est pas grave si
 quelqu’un ne sait pas tout de suite comment l’être. »
 
-« Le directeur ne pense pas que ça *puisse* être appris, » dit Padma. Le
+« Le directeur ne pense pas que ça *puisse* être appris », dit Padma. Le
 visage de la Serdaigle était pensif et ses pas sur le couloir étaient
 mesurés. « Il ne pense même pas que ce soit une bonne idée. »
 
 Daphné marchait à grandes enjambées, le dos droit et la tête levée, et
 elle ressemblait plus à une Jeune Fille Convenable dans ses robes de
 Poudlard que Hermione n’aurait jamais pu l’être dans sa meilleure robe
-de soirée. « Le directeur, » dit Daphné d’une voix précise alors que ses
+de soirée. « Le directeur », dit Daphné d’une voix précise alors que ses
 chaussures frappaient la pierre avec force, « pense que nous ne sommes
 qu’un ramassis de petites idiotes qui s’amusent, qu’un jour Hermione
 pourra être un bon faire-valoir mais que nous sommes sans espoir. »
@@ -670,12 +670,12 @@ batailles, jusqu’au moment où la Serpentard avait bondi de son canapé
 pour se porter volontaire. « On leur fera voir ! On leur fera voir à
 *tous* ! »
 
-« OK, » dit Susan, « ça c’était *clairement* maléfique — »
+« OK », dit Susan, « ça c’était *clairement* maléfique — »
 
-« Non, » dit Lavande, « c’est une devise de la légion du Chaos. Sauf
+« Non », dit Lavande, « c’est une devise de la légion du Chaos. Sauf
 qu’elle n’a pas fait le rire dément. »
 
-« C’est vrai, » dit Tracey d’une voix basse et lugubre. « Cette fois je ne
+« C’est vrai », dit Tracey d’une voix basse et lugubre. « Cette fois je ne
 rigole pas. » La fille continua de rôder dans le couloir comme si une
 musique dramatique qu’elle seule pouvait entendre l’accompagnait.
 
@@ -687,14 +687,14 @@ musique dramatique qu’elle seule pouvait entendre l’accompagnait.
 penserait qu’on n’est qu’un ramassis d’idiotes. Quel est le rapport
 entre être une héroïne et manifester devant le bureau du directeur ? »
 
-« Ha, » dit Lavande, et elle eut l’air pensive à son tour. « C’est vrai.
+« Ha », dit Lavande, et elle eut l’air pensive à son tour. « C’est vrai.
 Nous devrions faire quelque chose d’héroïque. Je veux dire
 d’héroïnique. »
 
 « Euh — » dit Hannah, ce qui exprimait très bien les pensées de Hermione
 sur le sujet.
 
-« Eh bien, » dit Parvati, « est-ce que tout le monde ici a déjà traversé le
+« Eh bien », dit Parvati, « est-ce que tout le monde ici a déjà traversé le
 couloir du troisième étage de Dumbledore ? Parce que tous les
 Gryffondor l’ont déjà fait — »
 
@@ -706,16 +706,16 @@ se rendait compte, bien trop tard, pourquoi Dumbledore n’avait pas voulu
 que qui que ce soit *d’autre* devienne un héros.
 
 « Je ne pense pas qu’on puisse devenir une héroïne si on ne fait jamais
-rien de dangereux, » dit Lavande, ce qui était raisonnable.
+rien de dangereux », dit Lavande, ce qui était raisonnable.
 
-« Et puis, » dit Padma avec l’air de penser à voix haute, « tout le monde
+« Et puis », dit Padma avec l’air de penser à voix haute, « tout le monde
 dit que rien de vraiment grave n’arrive jamais à Poudlard. Aux élèves je
 veux dire, pas aux professeur de Défense. On a toutes ces anciennes
 protections. »
 
 « Euh — » répéta Hannah ;
 
-« Ouais, » dit Parvati, « le pire qui puisse arriver c’est qu’on perde une
+« Ouais », dit Parvati, « le pire qui puisse arriver c’est qu’on perde une
 petite douzaine de points, et comme nous sommes deux de chaque maison
 *ça* sera équitable. »
 
@@ -731,5 +731,5 @@ devenir de véritables héroïnes. Nous irons chercher le Mal — »
 
 « Et *le* forcerons à *nous* faire face — » dit Lavande.
 
-« Et lui apprendrons à avoir peur, » dit Tracey Davis d’un ton lugubre
+« Et lui apprendrons à avoir peur », dit Tracey Davis d’un ton lugubre
 

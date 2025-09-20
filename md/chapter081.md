@@ -14,13 +14,13 @@ obscur avait conçu un plan – puis il était reparti, car un ton trop
 froid n’aurait pas été à l’avantage de Hermione ; un fait dont le Harry
 seulement à moitié glacial ne s’était pas rendu compte…
 
-« La motion est adoptée, » entonna le secrétaire après que l’on ait fini
+« La motion est adoptée », entonna le secrétaire après que l’on ait fini
 de compter et que les mains levées se soient rabaissées. « Le Magenmagot
 reconnaît la dette de sang due par Hermione Granger à la maison Malefoy
 pour la tentative de meurtre sur son héritier et la tentative de
 destruction de sa lignée. »
 
-Lucius Malefoy avait un sourire lugubre et satisfait. « Et maintenant, »
+Lucius Malefoy avait un sourire lugubre et satisfait. « Et maintenant »,
 dit l’homme à la crinière blanche, « je dis que sa dette sera payée… »
 
 Harry serra ses poings et s’écria : « Par la dette que la maison Malefoy
@@ -30,7 +30,7 @@ doit à la maison Potter ! »
 à côté du ministre Fudge. « Vous avez déjà suffisamment perturbé ces
 délibérations ! Aurors, escortez-le à l’extérieur ! »
 
-« Attendez, » dit Augusta Londubat depuis les sièges supérieurs. « De
+« Attendez », dit Augusta Londubat depuis les sièges supérieurs. « De
 quelle dette s’agit-il ? »
 
 Les mains de Lucius Malefoy blanchirent autour de sa canne. « La maison
@@ -41,7 +41,7 @@ un article de journal écrit par une femme qui avait reçu un sortilège de
 faux souvenirs, mais Rita Skeeter avait semblé trouver plausible que M.
 Weasley puisse devoir une dette à James Potter parce que…
 
-« Je suis surpris que vous l’ayez oublié, » dit Harry d’une voix neutre.
+« Je suis surpris que vous l’ayez oublié », dit Harry d’une voix neutre.
 « C’était sûrement une époque difficile et douloureuse de votre vie, à
 travailler sous le joug de l’Imperius de
 Celui-Dont-Il-Ne-Faut-Pas-Prononer-Le-Nom jusqu’à en être libéré par les
@@ -51,12 +51,12 @@ sûr par moi. »
 
 Il y eut un bref silence dans la Très Ancienne Chambre.
 
-« Ah, mais quelle excellente remarque, » dit la vieille sorcière qui
+« Ah, mais quelle excellente remarque », dit la vieille sorcière qui
 s’était révélée être Mme Bones. « Je suis moi aussi assez surprise de
 constater que Lord Malefoy a pu oublier un événement d’une telle
 importance. Cela doit avoir été un jour tellement heureux pour lui. »
 
-« Oui, » dit Augusta Londubat. « Il a dû être tellement reconnaissant. »
+« Oui », dit Augusta Londubat. « Il a dû être tellement reconnaissant. »
 
 Mme Bones hocha la tête. « La maison Malefoy ne pourrait certainement pas
 nier cette dette – à moins peut-être que Lord Malefoy ne nous dise qu’il
@@ -69,14 +69,14 @@ s’il était sur le point de l’abattre, de relâcher le pouvoir qui y était
 contenu, quel qu’il fut…
 
 Puis il sembla se détendre et un sourire froid prit forme sur son
-visage. « Bien sûr, » dit-il avec aisance. « Je confesse ne pas avoir
+visage. « Bien sûr », dit-il avec aisance. « Je confesse ne pas avoir
 compris au premier abord, mais l’enfant a tout à fait raison. Cependant
 je ne pense pas que les deux dettes s’annulent tout à fait – la maison
 Potter n’essayait après tout que de se sauver elle-même… »
 
-« C’est faux, » dit Dumbledore, plus haut.
+« C’est faux », dit Dumbledore, plus haut.
 
-« …et par conséquent, » entonna Lucius Malefoy, « je demande aussi une
+« …et par conséquent », entonna Lucius Malefoy, « je demande aussi une
 compensation monétaire pour le rachat de la dette de sang due à mon
 fils. La loi dit aussi cela. »
 
@@ -114,7 +114,7 @@ de livres sterling : ce n’était que de l’argent, et l’argent ne valait
 que ce qu’il permettait d’acheter…
 
 Il était étrange de constater à quel point on pouvait être
-psychologiquement attaché à « que de l’argent, » et à quel point il
+psychologiquement attaché à « que de l’argent », et à quel point il
 pouvait être douloureux de s’imaginer perdre une chambre forte pleine
 d’or dont on avait même pas imaginé l’existence seulement un an
 auparavant.
@@ -152,7 +152,7 @@ avait été adoptée…
 
 Les lèvres de Harry s’ouvrirent.
 
-« J’accepte votre offre, » dirent-elles sans qu’aucune décision n’ait été
+« J’accepte votre offre », dirent-elles sans qu’aucune décision n’ait été
 prise, exactement comme si le débat interne n’avait été qu’un simulacre,
 qu’une illusion, et que le véritable contrôleur de la voix n’y avait pas
 pris part.
@@ -167,7 +167,7 @@ par-dessus le rugissement de hoquets simultanés venu du Magenmagot…
 
 Un claquement de pierre fit taire la foule.
 
-« Non, » dit la voix de Dumbledore.
+« Non », dit la voix de Dumbledore.
 
 La tête de Harry eut un mouvement sec et se réorienta en direction du
 vieux sorcier.
@@ -196,7 +196,7 @@ droite, son court bâton dans la gauche.
 
 Et les yeux de Harry allèrent aussi jusqu’à l’oiseau rouge-or dont les
 serres se reposaient sur l’épaule recouverte de noir de Dumbledore,
-silencieux à un moment où aucun phénix n’aurait dû l’être. « Fumseck, »
+silencieux à un moment où aucun phénix n’aurait dû l’être. « Fumseck »,
 dit Harry d’une voix qui lui sembla étrange, « pourrais-tu lui crier
 dessus de ma part ? »
 
@@ -213,14 +213,14 @@ Et Harry sut alors, en regardant l’oiseau rouge-or, ce qu’il se devait
 lui aussi de faire. Elle aurait due être évidente depuis le début, cette
 solution.
 
-« Alors je ferais ce que je me dois de faire moi aussi, » dit Harry, le
+« Alors je ferais ce que je me dois de faire moi aussi », dit Harry, le
 menton levé vers Dumbledore, comme s’ils se tenaient tous deux seuls
 dans la pièce. « Vous comprenez cela vous aussi, n’est-ce pas ? »
 
 Le vieux sorcier secoua sa tête tremblante. « Tu changeras d’avis quand
 tu seras plus âgé… »
 
-« Je ne parle pas de cela, » dit Harry d’une voix qui lui semblait
+« Je ne parle pas de cela », dit Harry d’une voix qui lui semblait
 toujours étrange. « Je veux dire que je ne laisserai pas Hermione Granger
 se faire manger par des Détraqueurs sous quelques circonstances que ce
 soit. Point. Peu importe ce qu’une loi quelconque peut en dire et peu
@@ -231,7 +231,7 @@ Un étrange voix masculine parla, quelque part, loin en-dessous :
 garde renforcée. »
 
 Harry attendit en regardant le vieux sorcier puis parla de nouveau.
-« J’irai à Azkaban, » dit-il à celui-ci, comme s’ils étaient seuls au
+« J’irai à Azkaban », dit-il à celui-ci, comme s’ils étaient seuls au
 monde, « avant que Hermione ne puisse y être menée, et je commencerai à
 claquer des doigts. J’y perdrai peut-être ma vie, mais lorsqu’elle
 arrivera là-bas, Azkaban n’existera plus. »
@@ -243,7 +243,7 @@ Puis un grand nombre d’entre eux commença à rire.
 « Et comment irais-tu là-bas, petit garçon ? » dit une voix parmi les
 rieurs.
 
-« J’ai mes propres moyens de déplacement, » dit la voix distante du
+« J’ai mes propres moyens de déplacement », dit la voix distante du
 garçon. Il garda ses yeux braqués sur Dumbledore, sur le vieux sorcier
 qui l’observait, choqué. Harry ne regarda pas directement Fumseck, il ne
 dévoila pas son plan ; mais il se préparait mentalement à faire appel au
@@ -262,7 +262,7 @@ prendre la folle menace parfaitement au sérieux.
 Les yeux du vieux sorciers restèrent rivés à Harry. « Risquerais-tu tout
 – absolument tout – seulement pour elle ? »
 
-« Oui, » répondit Harry.
+« Oui », répondit Harry.
 
 *C’est la mauvaise réponse, tu sais*, dit Serpentard. *Sérieux.*
 
@@ -270,13 +270,13 @@ Les yeux du vieux sorciers restèrent rivés à Harry. « Risquerais-tu tout
 
 « Tu n’entendras pas raison ? » dit le vieux sorcier.
 
-« On dirait bien que non, » répondit Harry.
+« On dirait bien que non », répondit Harry.
 
 Les regards demeurèrent ancrés l’un dans l’autre.
 
-« C’est une terrible folie, » dit le vieux sorcier.
+« C’est une terrible folie », dit le vieux sorcier.
 
-« J’en suis conscient, » répondit le héros. « Maintenant hors de mon
+« J’en suis conscient », répondit le héros. « Maintenant hors de mon
 chemin. »
 
 Une étrange lumière luit dans les vieux yeux bleus. « Comme tu le
@@ -284,8 +284,8 @@ souhaites, Harry Potter, mais saches que ce n’est pas fini. »
 
 Le reste du monde recommença d’exister.
 
-« Je retire mon objection, » dit le vieux sorcier, « Harry Potter peut
-faire ce qu’il désire, » et le Magenmagot explosa dans un rugissement
+« Je retire mon objection », dit le vieux sorcier, « Harry Potter peut
+faire ce qu’il désire », et le Magenmagot explosa dans un rugissement
 ahuri et ne put être tut que par un dernier coup du bâton de pierre.
 
 Harry tourna la tête pour regarder Lord Malefoy qui semblait avoir vu un
@@ -296,12 +296,12 @@ qu’il avait l’air perdu était loin de faire justice à son apparence.
 vraiment cent mille Gallions pour sauver une Sang-de-Bourbe. »
 
 « Je pense qu’il y a environ quarante mille Gallions dans ma chambre
-forte, » dit Harry. Étrange comme cela provoquait *toujours* plus de
+forte », dit Harry. Étrange comme cela provoquait *toujours* plus de
 douleur intérieure que l’idée de risquer sa vie à plus d’une chance sur
 deux pour détruire Azkaban. « Quand aux autres soixante mille – quelles
 sont les règles, exactement ? »
 
-« Tu ne les devras qu’en sortant de Poudlard, » dit le vieux sorcier
+« Tu ne les devras qu’en sortant de Poudlard », dit le vieux sorcier
 depuis son perchoir. « Mais j’ai peur que Lord Malefoy n’ait certains
 droits sur toi avant ce terme. »
 
@@ -309,14 +309,14 @@ Lucius Malefoy demeurait immobile et regardait Harry, les sourcils
 froncés. « Qui est-elle pour vous, alors ? *Qu’*est-elle pour vous, pour
 que vous soyez prêt à payer autant dans le but de l’épargner ? »
 
-« Mon amie, » dit doucement le garçon.
+« Mon amie », dit doucement le garçon.
 
 Les yeux de Lucius Malefoy se plissèrent. « Selon le rapport que j’ai
 reçu, vous ne pouvez pas lancer le Patronus, et Dumbledore le sait. Le
 pouvoir d’un seul Détraqueur a failli vous tuer. Vous n’oseriez pas vous
 approcher d’Azkaban en personne… »
 
-« C’était en janvier, » dit Harry. « Nous sommes en avril. »
+« C’était en janvier », dit Harry. « Nous sommes en avril. »
 
 Les yeux de Lucius Malefoy demeurèrent froids et calculateurs. « Vous
 prétendez pouvoir détruire Azkaban et Dumbledore prétend le croire. »
@@ -334,7 +334,7 @@ De nouveau un rugissement de voix. « Déshonorant ! » s’écria quelqu�
 vous… » puis cette voix se tut abruptement.
 
 « Je reconnais la dette, mais je ne suis pas strictement obligé par la
-loi de l’accepter en annulation de l’autre, » dit Lucius Malefoy avec un
+loi de l’accepter en annulation de l’autre », dit Lucius Malefoy avec un
 lugubre sourire. « Cette fille ne fait pas partie de la maison Potter ;
 la dette que je dois à cette maison n’est pas sienne. Quant au
 *déshonneur*… » Lucius Malefoy s’interrompit. « Quant à la grave honte que
@@ -345,7 +345,7 @@ pardonner. »
 « Eh bien, mon garçon ? » dit l’homme balafré assis à la droite de Lord
 Malefoy. « Vas donc, et détruis Azkaban ! »
 
-« J’aimerais voir ça, » dit une autre voix. « Vendrez-vous des tickets pour
+« J’aimerais voir ça », dit une autre voix. « Vendrez-vous des tickets pour
 le spectacle ? »
 
 Il va sans dire que Harry ne choisit pas cet instant pour abandonner.
@@ -440,7 +440,7 @@ avec le Détraqueur quelques pas à peine derrière elle
 
 elle n’avait rien dit…
 
-« O-oui, » murmura la voix de Hermione Granger. « Je p-peux parler. »
+« O-oui », murmura la voix de Hermione Granger. « Je p-peux parler. »
 
 Harry rouvrit les yeux et vit son visage qui le regardait à présent. Ce
 visage ne communiquait rien qui puisse laisser comprendre ce qu’il
@@ -450,14 +450,14 @@ c’était de se contorsionner et de se nouer.
 
 « H-H-Harry, j-je suis tellement, je suis tellement… »
 
-« La ferme, » suggéra Harry.
+« La ferme », suggéra Harry.
 
 « d-d-désolée… »
 
 « Si tu ne m’avais pas rencontré dans le train tu n’aurais aucun ennui à
-l’heure qu’il est. Alors la ferme, » dit Harry Potter.
+l’heure qu’il est. Alors la ferme », dit Harry Potter.
 
-« Arrêtez de vous comporter comme des idiots, tous les deux, » dit le
+« Arrêtez de vous comporter comme des idiots, tous les deux », dit le
 professeur McGonagall de son ferme accent écossais (il était étrange de
 constater à quel point l’accent aidait). « M. Potter, tendez votre
 baguette pour que les doigts de Mlle Granger puissent la toucher. Mlle
@@ -479,7 +479,7 @@ Tous ces mots avaient été déballés dans une expiration désespérée, avant
 que Harry ne puisse penser ou dire quoi que ce soit, au cas où il aurait
 été assez fou pour interrompre.
 
-« M. Potter, répétez ces mots, » dit le professeur McGonagall. « Moi,
+« M. Potter, répétez ces mots », dit le professeur McGonagall. « Moi,
 Harry, héritier et dernier descendant des Potter, accepte que vous me
 serviez jusqu’à la fin du monde et de sa magie. »
 
@@ -487,7 +487,7 @@ Harry prit une profonde inspiration et dit : « Moi, Harry, héritier et
 dernier descendant des Potter, accepte que vous me serviez jusqu’à la
 fin du monde et de sa magie. »
 
-« C’est fait, » dit le professeur McGonagall. « Bien joué. »
+« C’est fait », dit le professeur McGonagall. « Bien joué. »
 
 Harry leva les yeux et vit que tout le Magenmagot, dont il avait oublié
 l’existence, les regardait fixement.
@@ -517,7 +517,7 @@ vous avez fait aujourd’hui ? Vous pensez que cette fille peut essayer de
 tuer mon fils et s’en sortir sans dommages ? »
 
 La femme-crapaud au maquillage rose dont Harry ne pouvait se remémorer
-le nom se leva de son siège. « Allons, mais bien sûr que non, » dit-elle
+le nom se leva de son siège. « Allons, mais bien sûr que non », dit-elle
 avec un sourire écœurant. « Après tout, cette fille est *toujours* une
 meurtrière, et je pense que le ministère s’intéressera de très près à
 ses actes – il semble fort peu sage qu’on l’autorise à déambuler dans
@@ -594,7 +594,7 @@ Harry se détourna du néant vide et leva les yeux vers l’endroit où se
 tenait la femme-crapaud. Elle était pâle sous son maquillage rose et sa
 bouche s’ouvrait et se fermait comme celle d’un poisson.
 
-« Je vous fais cette seule offre, » dit le Survivant. « Je n’apprends
+« Je vous fais cette seule offre », dit le Survivant. « Je n’apprends
 jamais que vous avez interféré avec moi ou les miens. Et vous n’apprenez
 jamais pourquoi le monstre mangeur d’âme intuable a peur de moi.
 Maintenant asseyez-vous et fermez-la. »
@@ -613,10 +613,10 @@ L’espace d’un instant, Lord Malefoy se tint là, les yeux légèrement
 écarquillés ; puis son visage retomba à un mépris calme et sa réponse
 fut fraîche et maîtrisée : « Me menacez-vous ouvertement, M. Potter ? »
 
-« Je ne vous menace pas, » dit le Survivant. « Je vous fais *peur*. Il y a
+« Je ne vous menace pas », dit le Survivant. « Je vous fais *peur*. Il y a
 une différence. »
 
-« Assez, M. Potter, » dit le professeur McGonagall. « Nous allons déjà être
+« Assez, M. Potter », dit le professeur McGonagall. « Nous allons déjà être
 assez en retard pour le cours de Métamorphose de cet après-midi. Et
 revenez ici, vous terrifiez encore ce pauvre Détraqueur. » Elle se tourna
 vers les Aurors. « M. Kleiner, si vous voulez bien ! »
@@ -646,13 +646,13 @@ ralentirent et s’arrêtèrent. Le professeur McGonagall changea
 brusquement de posture et renforça sa prise : les mains de la fille
 pendaient mollement et ses yeux étaient fermés…
 
-« Elle s’en remettra, M. Potter, » dit doucement le professeur McGonagall
+« Elle s’en remettra, M. Potter », dit doucement le professeur McGonagall
 à l’intention de Harry mais sans le regarder. « Elle a juste besoin de
 quelques heures dans l’un des lits de Mme Pomfresh. »
 
-« Très bien, dans ce cas, » dit Harry. « Amenons-la chez Mme Pomfresh. »
+« Très bien, dans ce cas », dit Harry. « Amenons-la chez Mme Pomfresh. »
 
-« Oui, » dit Dumbledore en descendant jusqu’au bas des escaliers de pierre
+« Oui », dit Dumbledore en descendant jusqu’au bas des escaliers de pierre
 noire. « Rentrons tous chez nous. » Ses yeux bleus étaient braqués sur
 ceux de Harry, durs comme des saphirs.
 

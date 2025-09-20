@@ -12,7 +12,7 @@ aguets, les yeux de chacun passant de l’un à l’autre, et des torches,
 qui brûlaient dans des chandeliers à nu et dont la lumière repoussait
 les ténèbres et le froid des donjons Serpentard.
 
-« J’en suis *certaine*, » dit Reese Belka avec hargne, « absolument
+« J’en suis *certaine* », dit Reese Belka avec hargne, « absolument
 *certaine*, ce n’était pas un vrai rituel. Les petites sorcières de
 première année ne peuvent pas faire ce genre de magie, et même si elles
 le pouvaient, qui a jamais entendu parler d’un rituel noir qui
@@ -21,18 +21,18 @@ le pouvaient, qui a jamais entendu parler d’un rituel noir qui
 « Est-ce que tu étais — » dit Lucian Bole. « Je veux dire — après que cette
 fille ait claqué des doigts — »
 
-Le regard de Belka aurait dû le faire frire sur place. « Non, »
+Le regard de Belka aurait dû le faire frire sur place. « Non »,
 cracha-t-elle, « certainement *pas*. »
 
-« C’est-à-dire qu’elle n’était pas nue, » dit Marcus Flint d’une voix
+« C’est-à-dire qu’elle n’était pas nue », dit Marcus Flint d’une voix
 traînante, ses larges épaules appuyée contre le mur de pierre de façon à
 laisser penser qu’il était détendu. « Couverte de glaçage au chocolat,
 oui, mais pas nue. »
 
-« Potter a aujourd’hui fait grande insulte à nos maisons, » dit la voix
+« Potter a aujourd’hui fait grande insulte à nos maisons », dit la voix
 lugubre de Jaime Astorga.
 
-« Oui, enfin, désolé d’être aussi direct, » dit Randolph Lee d’une voix
+« Oui, enfin, désolé d’être aussi direct », dit Randolph Lee d’une voix
 égale. Le duettiste de septième année se frotta le menton où l’on avait
 laissé poussé un léger début de barbe. « Mais quand quelqu’un vous colle
 au plafond, c’est un message, Astorga. C’est un message qui dit : Je
@@ -46,10 +46,10 @@ demander si on n’a pas choisi le mauvais camp, vous ne trouvez pas ?
 J’ai entendu des histoires au sujet de *messages* de ce genre, envoyés
 sur ordre de l’ancien Seigneur des Ténèbres… »
 
-« Je ne suis pas tout à fait prêt à m’agenouiller devant Potter, » dit
+« Je ne suis pas tout à fait prêt à m’agenouiller devant Potter », dit
 Astorga en regardant Jugson droit dans les yeux.
 
-« Moi non plus, » dit Belka.
+« Moi non plus », dit Belka.
 
 Jugson tenait sa baguette, et il la faisait pivoter avec nonchalance
 dans un sens puis dans l’autre entre ses doigt, la faisant ainsi pointer
@@ -65,17 +65,17 @@ Flint fit un geste dédaigneux de la main. « Quoi que Malefoy manigance, il
 veut avoir l’air innocent. Il ne peut pas se permettre de manquer à
 l’appel en même temps que nous. »
 
-« Mais tout le monde *sait* déjà ça, » dit Bole. « Même dans les autres
+« Mais tout le monde *sait* déjà ça », dit Bole. « Même dans les autres
 maisons. »
 
-« Oui, très maladroit, » dit Belka. Elle grogna. « Malefoy ou pas, c’est
+« Oui, très maladroit », dit Belka. Elle grogna. « Malefoy ou pas, c’est
 qu’un petit de première année et on a pas besoin de lui ici. »
 
-« J’enverrai une chouette à mon père, » dit Jugson d’une voix basse, « et
+« J’enverrai une chouette à mon père », dit Jugson d’une voix basse, « et
 *lui* parlera à Lord Malefoy en personne — » puis il s’arrêta de parler
 abruptement.
 
-« Je ne sais pas pour *vous*, mes chéris, » dit Belka d’une voix
+« Je ne sais pas pour *vous*, mes chéris », dit Belka d’une voix
 faussement suave, « mais *je* ne compte pas être épouvantée par un faux
 rituel et *je* n’en ai pas fini avec Potter et sa Sang-de-Bourbe de
 compagnie. »
@@ -85,7 +85,7 @@ Personne ne répondit. Tous regardaient derrière elle.
 Belka se retourna lentement afin de voir ce que les autres regardaient
 fixement.
 
-« Vous ne ferez *rien*, » siffla leur directeur de maison. Le visage de
+« Vous ne ferez *rien* », siffla leur directeur de maison. Le visage de
 Severus Rogue était empli de rage et de petits points de bave
 s’envolaient de ses lèvres à chacun de ses mots, tachant d’autant plus
 ses robes déjà salies. « Vous en avez *assez* fait, idiots ! Vous avez
@@ -114,7 +114,7 @@ Les Serdaigle plus âgés qui s’étaient assis à côté de lui échangèrent 
 rapides regards jusqu’à ce que, selon un protocole tacite, le plus
 expérimenté d’entre eux parle :
 
-« Écoute, » dit Arty Grey, qui était en septième année et devançait les
+« Écoute », dit Arty Grey, qui était en septième année et devançait les
 autres à cette compétition de trois sorcières et d’un professeur de
 Défense, « le truc à comprendre, c’est que ce n’est pas parce qu’elle est
 en *colère* que tu as perdu des points à ce jeu. Mlle Granger est en
@@ -123,7 +123,7 @@ tu comprends ? Mais en même temps, même si elle ne l’admettra pas, elle
 sera touchée que son petit copain en soit allé à des extrémités aussi
 ridicules et franchement folles pour la protéger. »
 
-« Ce n’est pas une question de *points*, » grinça Harry. Les mots
+« Ce n’est pas une question de *points* », grinça Harry. Les mots
 glissaient entre ses dents serrées. Son dîner attendait devant lui, sur
 la table, ignoré. « C’est une question de *justice*. Et *Je. Ne. Suis.
 Pas. Son. Petit. Copain !* »
@@ -131,7 +131,7 @@ Pas. Son. Petit. Copain !* »
 Tous ceux présents lui répondirent par une bonne dose de rire
 sarcastique.
 
-« Oui, enfin, » dit un Serdaigle en sixième année, « je pense qu’après
+« Oui, enfin », dit un Serdaigle en sixième année, « je pense qu’après
 qu’elle t’ait embrassé pour te faire sortir de ton détraquage et que tu
 ais collé quarante-quatre brutes au plafond pour elle, on est bien
 au-delà de “non, vraiment, c’est pas ma copine,” et plutôt à se demander
@@ -139,7 +139,7 @@ au-delà de “non, vraiment, c’est pas ma copine,” et plutôt à se demande
 Serdaigle laissa sa phrase en suspens puis dit d’une voix plus menue :
 « S’il te plaît, ne me regarde pas comme ça. »
 
-« Écoute, » dit Arty Grey, « désolé d’être direct, mais tu peux avoir la
+« Écoute », dit Arty Grey, « désolé d’être direct, mais tu peux avoir la
 justice, tu peux avoir les filles, mais pas les deux à la fois. » Il
 claqua d’une main amicale sur l’épaule de Harry. « Tu as du potentiel,
 petit, plus qu’aucun sorcier que j’ai jamais vu, mais tu dois apprendre
@@ -151,10 +151,10 @@ noirs sont des tombeurs, mais les beaux garçons bien habillés soupçonnés
 d’être *secrètement* des mages noirs tombent plus de filles que tu ne
 pourrais l’imaginer — »
 
-« Pas intéressé, » dit catégoriquement Harry tout en ôtant la main de
+« Pas intéressé », dit catégoriquement Harry tout en ôtant la main de
 l’autre garçon de son épaule et en la faisant tomber sans cérémonies.
 
-« Mais tu le seras, » dit Arty Gray, d’une voix basse et prophétesse. « Ah,
+« Mais tu le seras », dit Arty Gray, d’une voix basse et prophétesse. « Ah,
 tu le seras ! »
 
 Ailleurs à la même table -
@@ -168,14 +168,14 @@ plafond et il fait ce qu’il veut de *ma* vie ! »
 « Mais tu ne vois pas ? » dit une sorcière en quatrième année. « Ça veut
 dire que même s’il est maléfique, il *t’aime* ! »
 
-« Tu ne fais pas avancer les choses, » dit Pénélope Deauclaire un peu plus
+« Tu ne fais pas avancer les choses », dit Pénélope Deauclaire un peu plus
 loin à la table, mais on l’ignora. Quelques sorcières plus âgées
 s’étaient approchées de Hermione après qu’elle se soit assise à
 l’extrémité opposée à celle où se trouvait Harry Potter, mais un nuage
 de filles plus jeunes et plus rapide avait alors entouré celle-ci d’une
 barrière impénétrable.
 
-« Les garçons, » dit Hermione Granger, « ne devraient pas avoir le droit
+« Les garçons », dit Hermione Granger, « ne devraient pas avoir le droit
 d’aimer les filles sans leur demander d’abord ! C’est vrai à plusieurs
 égards, et en particulier quand il s’agit de coller des gens au
 plafond ! »
@@ -186,7 +186,7 @@ en troisième année.
 « Une pièce ? » dit Hermione. « J’aimerais voir une pièce où *ce* genre de
 choses se produit ! »
 
-« Oh, » dit la troisième année. « Je pensais à cette pièce vraiment
+« Oh », dit la troisième année. « Je pensais à cette pièce vraiment
 *romantique* où il y a ce garçon tout mignon et tout gentil qui fait un
 appel de cheminette, sauf qu’il prononce mal le nom de sa destination et
 qu’il tombe dans cette pièce pleine de mages noires qui sont en train
@@ -215,7 +215,7 @@ Deux secondes plus tard, ses oreilles eurent vent de ce que ses lèvres
 venaient de dire.
 
 La quatrième année mit une main sur l’épaule de Hermione et la serra
-d’un geste réconfortant. « Mlle Granger, » dit-elle d’une voix apaisante,
+d’un geste réconfortant. « Mlle Granger », dit-elle d’une voix apaisante,
 « je pense que si tu es vraiment honnête avec toi-même, tu admettras que
 la véritable raison pour laquelle tu es en colère contre ton sombre
 maître, c’est parce qu’il a canalisé ses pouvoirs innommables au travers
@@ -231,7 +231,7 @@ dire que Harry Potter puisse œuvrer par une autre fille alors qu’il
 s’est lié à toi ? Est-ce que vous avez un, tu sais, un de ces
 arrangements à trois ? »
 
-« *Aaaaaargh*, » dit Hermione Granger, sa gorge toujours bloquée, son
+« *Aaaaaargh* », dit Hermione Granger, sa gorge toujours bloquée, son
 cerveau sur arrêt, ses cordes vocales imitant spontanément le bruit
 d’une gorge qui régurgitait un yak.
 
@@ -243,12 +243,12 @@ d’une gorge qui régurgitait un yak.
 
 (*Plus tard)*
 
-« Je ne comprends pas pourquoi tu es si *déraisonnable*, » dit une autre
+« Je ne comprends pas pourquoi tu es si *déraisonnable* », dit une autre
 sorcière de deuxième année qui avait remplacé la troisième année après
 que Hermione ait menacé de demander à Tracey de manger l’âme de
 celle-ci. « Enfin franchement, si quelqu’un comme Harry Potter *me*
 sauvait, je lui… Je lui enverrais des cartes de remerciements, et je lui
-ferais des câlins, et, » le visage de la fille rougit quelque peu,
+ferais des câlins, et », le visage de la fille rougit quelque peu,
 « enfin, je l’embrasserais, j’espère. »
 
 « Ouais ! » dit une autre deuxième année. « Je n’ai jamais compris pourquoi
@@ -259,7 +259,7 @@ comporterais pas comme ça si le héros m’aimait *moi*. »
 Hermione Granger avait laissé tomber sa tête sur la table et ses mains
 tiraient lentement ses cheveux.
 
-« Vous ne comprenez juste pas la psychologie masculine, » dit la quatrième
+« Vous ne comprenez juste pas la psychologie masculine », dit la quatrième
 année d’un ton d’experte. « Granger doit lui donner *l’impression* d’être
 mystérieusement capable de pouvoir résister à son charme. »
 
@@ -275,7 +275,7 @@ Et Hermione Granger se tourna donc rapidement vers la seule personne
 restante à laquelle elle pouvait parler, la seule personne dont elle
 savait que cette dernière comprendrait son point de vue -
 
-« Ils sont tous fous, » dit Hermione Granger en marchant à grandes
+« Ils sont tous fous », dit Hermione Granger en marchant à grandes
 enjambées vers la tour Serdaigle après être partie du dîner bien avant
 qu’il ne se termine. « Tout le monde sauf toi et moi, Harry, et je veux
 dire *tout le monde* à Poudlard sauf nous, ils sont tous complètement
@@ -286,7 +286,7 @@ demandé si on avait lié nos âmes, et je vais faire des recherches à la
 bibliothèque cette nuit mais je suis relativement certaine que ça ne
 s’est jamais produit — »
 
-« Je n’ai même pas de *mot* pour ce genre de raisonnement fallacieux, »
+« Je n’ai même pas de *mot* pour ce genre de raisonnement fallacieux »,
 dit Harry Potter. Le garçon marchait d’un pas normal, si bien qu’il
 devait parfois sautiller pendant quelques pas pour rester à hauteur de
 la vitesse indignée de Hermione. « Je pense sérieusement que si ça ne
@@ -295,10 +295,10 @@ changer nos noms et qu’on s’appelle Potter-Evans-Verres-Granger… berk,
 en le disant à voix haute je me rends compte à quel point ça sonne mal. »
 
 « Tu veux dire que *ton* nom serait Potter-Evans-Verres-Granger et que le
-*mien* serait Granger-Potter-Evans-Verres, » dit Hermione. « C’est trop
+*mien* serait Granger-Potter-Evans-Verres », dit Hermione. « C’est trop
 atroce pour que j’arrive à le concevoir. »
 
-« Non, » répondit le garçon, « la maison Potter est une maison noble, donc
+« Non », répondit le garçon, « la maison Potter est une maison noble, donc
 je pense que ce nom reste devant — »
 
 « *Quoi ?* » dit-elle, indignée. « Qui a dit qu’on *devait* — »
@@ -306,7 +306,7 @@ je pense que ce nom reste devant — »
 Il y eut un silence soudain et horrible, brisé seulement par le bruit
 sourd de leurs semelles.
 
-« *Enfin bref*, » continua Hermione avec hâte, « quelques-unes des
+« *Enfin bref* », continua Hermione avec hâte, « quelques-unes des
 absurdités qu’ils ont dit au dîner m’ont fait réfléchir, et donc je veux
 juste te dire, Harry, que je te suis vraiment reconnaissante de nous
 avoir sauvés d’une raclée, moi et tout le monde, et même si certains
@@ -335,12 +335,12 @@ avait furieusement martelé le sol jusqu’à l’endroit où Harry avait été
 assis et qu’elle lui avait demandé d’un ton raisonnable s’ils pourraient
 aller marcher un peu et régler cette histoire.
 
-« Donc en d’autres termes, » dit Hermione de la voix la plus calme qu’elle
+« Donc en d’autres termes », dit Hermione de la voix la plus calme qu’elle
 avait jamais eu, « on n’est pas en froid, je te parle encore, on est
 encore amis et on étudie toujours ensemble. On n’est *pas* train de se
 disputer. D’accord ? »
 
-Cela ne sembla qu’augmenter l’appréhension de Harry Potter. « D’accord, »
+Cela ne sembla qu’augmenter l’appréhension de Harry Potter. « D’accord »,
 dit le Survivant.
 
 « Génial ! » dit Hermione. « Donc, *avez-vous* trouvé pourquoi je suis en
@@ -357,10 +357,10 @@ quarante-quatre brutes amassées dans une embuscade sont *loin* au-delà
 de ce que n’importe qui pourrait gérer sans aide. C’est pour ça que j’ai
 pensé que tu aurais vraiment besoin d’aide juste cette fois — »
 
-« Non, ça, ça ne me dérange pas, » dit Hermione. « On *était* dépassé par
+« Non, ça, ça ne me dérange pas », dit Hermione. « On *était* dépassé par
 les événements. Essayez de deviner encore, M. Potter. »
 
-« Euh, » dit Harry. « Ce que Tracey a fait t’a… surpris ? »
+« Euh », dit Harry. « Ce que Tracey a fait t’a… surpris ? »
 
 « Surpris, M. Potter ? » Peut-être y eut-il une touche d’acidité dans sa
 voix. « Non, M. Potter, j’ai eu *peur*. J’ai été *effrayée*. Je ne
@@ -370,7 +370,7 @@ mais quand on entend des voix lointaines crier “Tekeli-li ! Tekeli-li !”
 et qu’il y a des mares de sang qui coulent de sous les portes, alors
 c’est normal d’avoir peur. »
 
-« Je *suis* désolé, » dit Harry d’un ton qui semblait exprimer un regret
+« Je *suis* désolé », dit Harry d’un ton qui semblait exprimer un regret
 sincère. « Je pensais que tu comprendrais que c’était moi. »
 
 « Et la *raison* pour laquelle on a toutes eu peur comme ça, M. Potter,
@@ -414,7 +414,7 @@ comprends ce que tu dis, bien sûr, mais la question reste en suspens :
 est-ce que c’était *vraiment* une bonne idée ou est-ce que c’était juste
 un plan astucieux — »
 
-« Je comprends pourquoi tu as fait ce que tu as fait aujourd’hui, »
+« Je comprends pourquoi tu as fait ce que tu as fait aujourd’hui »,
 continua Hermione. « Mais je veux que tu me promettes qu’à partir de
 maintenant, tu commenceras par me demander, toujours, même si tu trouves
 une raison pour laquelle tu ne devrais pas le faire. »
@@ -431,7 +431,7 @@ Harry avait un air très sérieux. « Qui à la S.P.E.H.S. essaye-tu de
 défendre le plus, Hermione ? Pour qui as-tu le plus peur quand tu te
 bats ? »
 
-« Hannah Abbot, » dit Hermione sans avoir à y penser, et elle se sentit
+« Hannah Abbot », dit Hermione sans avoir à y penser, et elle se sentit
 alors un peu coupable parce que Hannah *essayait* de toutes ses forces
 et qu’elle *s’était* beaucoup améliorée -
 
@@ -463,7 +463,7 @@ t’avais prévenu qu’il y aurait une embuscade tendue par quarante-quatre
 brutes ? »
 
 « J’aurais réagi de façon *responsable*, je l’aurais dit au *professeur
-McGonagall* et je l’aurais laissée s’en occuper, » répondit Hermione
+McGonagall* et je l’aurais laissée s’en occuper », répondit Hermione
 immédiatement. « Et *alors* il n’y aurait eu ni ténèbres ni hurlements ni
 terrible lumière bleue — »
 
@@ -488,7 +488,7 @@ ton incrédule. Elle plaqua ses mains contre ses hanches et le regarda
 d’un air ouvertement furieux. « Est-ce que tu es *dingue* ? »
 
 Le garçon ne cilla pas. « Tu pourrais peut-être appeler ça la
-responsabilité héroïque, » dit Harry Potter. « Pas le genre habituel. Ça
+responsabilité héroïque », dit Harry Potter. « Pas le genre habituel. Ça
 veut dire que quoi qu’il arrive, quelles que soient les circonstances,
 c’est *toujours* de ta faute. Même si tu en parles au professeur
 McGonagall, ce n’est pas elle qui est responsable de ce qui arrive,
@@ -507,7 +507,7 @@ avait acquise depuis le jour où Fumseck s’était posé sur son épaule
 s’était glissé dans sa voix. « Tu ne peux pas t’imaginer que tu as
 accompli ton devoir en suivant les règles. »
 
-« Je pense, » dit Hermione d’une voix neutre, « que vous et moi sommes
+« Je pense », dit Hermione d’une voix neutre, « que vous et moi sommes
 peut-être en désaccord sur certaines choses, M. Potter. Comme de savoir
 qui est le plus *responsable*,de vous et du professeur McGonagall, ou si
 un comportement *responsable* se termine souvent par des gens criant et
@@ -515,7 +515,7 @@ courant dans tous les sens, ou si c’est une bonne idée de respecter le
 règlement de l’école. Et ce n’est pas parce que nous ne sommes pas
 d’accord, M. Potter, que *vous* devez avoir le dernier mot. »
 
-« Eh bien, » dit Harry, « tu m’as demandé ce qu’il y avait de *si* terrible
+« Eh bien », dit Harry, « tu m’as demandé ce qu’il y avait de *si* terrible
 à te demander la permission d’abord, et c’était une question étonnamment
 bonne, donc j’ai examiné mon esprit et c’est ça que j’ai trouvé. Je
 pense que ma véritable peur, c’est que si Hannah a des ennuis et que je
@@ -568,7 +568,7 @@ dernier s’acheva.
 
 « Eh bien ? » dit Harry.
 
-« Je ne devrais pas avoir à faire de promesses, » dit-elle, « juste pour
+« Je ne devrais pas avoir à faire de promesses », dit-elle, « juste pour
 être *consultée* au sujet de ma *propre vie*. » Elle se détourna de Harry
 et commença à marcher vers la tour Serdaigle sans le regarder. « Mais j’y
 réfléchirai quand même. »
@@ -579,7 +579,7 @@ au cuivre, puis entrèrent dans un couloir parfaitement semblable à celui
 qu’ils venaient de quitter hormis son dallage composé de pentagones et
 non plus de carrés.
 
-« Hermione, » dit Harry. « Depuis le jour où tu as dit que tu voulais être
+« Hermione », dit Harry. « Depuis le jour où tu as dit que tu voulais être
 une héroïne, je t’ai observé et j’ai réfléchi. Tu *as* le courage. Tu te
 battras pour ce qui es juste, même face à des ennemis qui en
 effraieraient d’autre. Tu as certainement l’intelligence brute
@@ -593,7 +593,7 @@ juste continué de marcher, comme perdu dans ses pensées. Jouer *ce*
 rôle ? Elle n’avait jamais essayé de s’imaginer ainsi. Elle n’avait
 jamais *imaginé* s’imaginer ainsi ;
 
-« Et peut-être que j’ai tort, » dit Harry tandis qu’ils marchaient.
+« Et peut-être que j’ai tort », dit Harry tandis qu’ils marchaient.
 « Peut-être que j’ai lu trop d’histoires où les héros ne sont jamais
 raisonnables, ne suivent jamais les règles et n’en parlent jamais au
 professeur McGonagall, si bien que mon cerveau ne pense pas que tu es
@@ -642,7 +642,7 @@ du temps avec Harry — peut-être Godric Gryffondor avait-il eu *tort*.
 veux dire, il vit dans cette école et c’est le héros le plus légendaire
 du monde — »
 
-« C’*était* le héros le plus légendaire du monde, » dit Harry. « Maintenant
+« C’*était* le héros le plus légendaire du monde », dit Harry. « Maintenant
 il met le feu à des poulets. Franchement, est-ce que Dumbledore t’a
 l’air fiable à *toi* ? »
 
@@ -653,7 +653,7 @@ dont les marches alternaient entre le bronze et la pierre bleue suivi de
 l’approche finale jusqu’au portrait Serdaigle qui protégeait la porte
 par des énigmes stupides.
 
-« Oh, et je viens de penser à quelque chose que je dois te dire, »
+« Oh, et je viens de penser à quelque chose que je dois te dire »,
 continua Harry lorsqu’ils eurent parcouru environ la moitié de
 l’escalier. « Puisque ça affecte ta vie et tout ça. Vois ça comme une
 avance — »
@@ -665,7 +665,7 @@ avance — »
 « *Sa retraite* ? » dit Hermione en trébuchant presque sur une des
 marches.
 
-« Ouais, » dit Harry. « Enfin, je pourrais me tromper, mais j’ai dans
+« Ouais », dit Harry. « Enfin, je pourrais me tromper, mais j’ai dans
 l’idée que les professeurs vont sévèrement réprimer les combats dans les
 couloirs. » Harry souriait tout en parlant et une lueur dans ses yeux
 couverts par ses lunettes laissait entendre quelque savoir secret.
@@ -706,7 +706,7 @@ aussi vindicatif que le visage d’un mage noir ; et derrière lui les
 autres professeurs assis à la table d’honneur le regardaient, leurs
 visages aussi rigides que s’ils avaient été sculptés dans la pierre.
 
-« — définitivement dissolue, » cracha le professeur de potions. « Votre
+« — définitivement dissolue », cracha le professeur de potions. « Votre
 Société autoproclamée est dorénavant *illégale* au sein de Poudlard, par
 mon ordre ! Si votre Société ou un membre de celle-ci est à nouveau
 découvert se battant dans les couloirs, Granger, vous serez
@@ -745,7 +745,7 @@ devrait rien faire sans lui demander avant.
 Hermione fit demi-tour pour regarder la table d’honneur au moment même
 où Rogue se détournait pour revenir à sa place.
 
-« J’ai dit que vous pouviez partir, jeune fille, » dit la voix narquoise,
+« J’ai dit que vous pouviez partir, jeune fille », dit la voix narquoise,
 mais il avait un sourire satisfait, comme s’il attendait qu’elle fasse
 quelque chose -
 
@@ -771,7 +771,7 @@ Sa voix tremblait, chargée de son dernier espoir, de l’ultime tentative
 de cette chose en elle pour rechercher de l’aide. « Vous *savez* que ce
 que vous faites est mal ! »
 
-« Deux semaines de retenue supplémentaire pour insolence, » dit Rogue
+« Deux semaines de retenue supplémentaire pour insolence », dit Rogue
 d’une voix soyeuse.
 
 La chose se fracassa.
@@ -798,7 +798,7 @@ elle fut de nouveau assise à la table Serdaigle, à côté de Harry Potter.
 À côté d’elle, Harry était figé, comme s’il avait trop peur pour pouvoir
 bouger.
 
-« Tout va bien, » lui dit sa voix, automatiquement, sans qu’elle l’ait
+« Tout va bien », lui dit sa voix, automatiquement, sans qu’elle l’ait
 choisi ni qu’elle y ait pensé et même si tout n’allait pas bien du tout.
 « Mais est-ce que tu pourrais essayer de me sortir de la retenue de Rogue
 comme tu l’as fait pour toi la dernière fois ? »
@@ -814,7 +814,7 @@ estomac qui suggéraient qu’elle était sur le point de vomir, ce qui
 était étrange car elle aurait pu en même temps jurer que tout son corps
 était engourdi, comme si elle n’avait rien pu sentir.
 
-« Et, » dit sa voix, « si tu veux enfreindre le règlement ou quelque chose
+« Et », dit sa voix, « si tu veux enfreindre le règlement ou quelque chose
 comme ça, tu peux me demander, je te promets que je ne te répondrai pas
 juste : “non” ».
 

@@ -60,14 +60,14 @@ Le garçon finit par énoncer ces mots, lentement et précisément :
 
 « Je ne peux pas croire qu’un phénix se trouve encore sur votre épaule. »
 
-« Les phénix ne choisissent qu’une fois, » dit le vieux sorcier. « Ils
+« Les phénix ne choisissent qu’une fois », dit le vieux sorcier. « Ils
 peuvent peut-être quitter un maître qui choisit le mal plutôt que le
 bien ; mais ils ne choisiront pas un maître forcé de choisir entre un
 bien et un autre. Les phénix ne sont pas arrogants. Ils connaissent les
 limites de leur propre sagesse. » Son regard ancien était des plus
 sévères « Contrairement à toi, Harry. »
 
-« Choisir entre un bien et un autre, » dit Harry en écho, sans timbre.
+« Choisir entre un bien et un autre », dit Harry en écho, sans timbre.
 « Comme la vie de Hermione Granger contre cent mille Gallions. » La rage
 et l’indignation que Harry avait voulu mettre dans sa voix n’était pas
 tout à fait présente, peut-être parce que…
@@ -78,7 +78,7 @@ récalcitrant que j’ai vu sur ton visage, là-bas, dans la Très Ancienne
 Chambre ? »
 
 La sensation qu’il avait d’être creux empira. « Je cherchais des
-alternatives, » mordit-il. « Un moyen de la sauver qui ne me fasse *pas*
+alternatives », mordit-il. « Un moyen de la sauver qui ne me fasse *pas*
 perdre d’argent. »
 
 *Waouh*, dit Serdaigle. *Tu viens de proférer un mensonge pur et simple.
@@ -90,7 +90,7 @@ acérés et Harry vécut un instant terrifiant pendant lequel il se demanda
 si le sorcier le plus puissant du monde pouvait parfaitement voir à
 travers ses barrières occlumantiques.
 
-« *Oui*, » dit Harry, « j’ai reculé face à la douleur de me défaire de tout
+« *Oui* », dit Harry, « j’ai reculé face à la douleur de me défaire de tout
 l’argent de ma chambre forte. Mais je l’ai quand même *fait* ! C’est
 *ça* qui compte ! Et *vous…* » l’indignation qui avait quitté la voix de
 Harry revint. « Vous avez *vraiment* mis un prix sur la vie de Hermione
@@ -111,10 +111,10 @@ Serpentard. *Serdaigle, tu peux me soutenir sur ce coup ?*
 sorcier d’un ton brusque. « Sacrifierais-tu Minerva pour sauver Hermione
 ? »
 
-« Oui et oui, » lâcha Harry. « Ça fait partie du travail du professeur
+« Oui et oui », lâcha Harry. « Ça fait partie du travail du professeur
 McGonagall et elle le sait. »
 
-« Alors la valeur de Minerva n’est pas infinie, » dit le vieux sorcier,
+« Alors la valeur de Minerva n’est pas infinie », dit le vieux sorcier,
 « malgré tout l’amour qu’on peut lui porter. Il ne peut y avoir qu’un
 seul roi sur l’échiquier, Harry Potter, une seule pièce pour laquelle tu
 sacrifierais n’importe quelle autre pièce afin de la sauver. Et Hermione
@@ -125,7 +125,7 @@ Et si les mots du vieux sorcier ne l’avaient pas touché si durement,
 n’avaient pas été aussi proches de la vérité, Harry n’aurait peut-être
 pas dit ce qu’il dit alors.
 
-« Lucius avait raison, » grinça Harry. « Vous n’avez jamais eu de femme,
+« Lucius avait raison », grinça Harry. « Vous n’avez jamais eu de femme,
 vous n’avez jamais eu de fille, vous n’avez jamais eu que la guerre… »
 
 La main gauche du vieux sorcier se referma avec force autour du poignet
@@ -147,7 +147,7 @@ Harry fut tiré le long des escaliers noirs.
 La pièce aux piédestaux noirs et à la lumière d’argent tombant sur des
 baguettes fracassées.
 
-« Vous pensez, » cria Harry après que ses lèvres se furent débloquées,
+« Vous pensez », cria Harry après que ses lèvres se furent débloquées,
 « que vous pouvez gagner n’importe quel débat juste en allant ici ? »
 
 Le vieux sorcier l’ignora et traîna Harry à travers la pièce. Sa main
@@ -177,7 +177,7 @@ Comme on le lui avait demandé, Harry regarda l’eau lumineuse.
 Harry avait déjà entendu ce mot mais il n’arrivait plus à se souvenir du
 contexte. « Qu’est-ce… que ça fait… »
 
-« Souvenirs, » dit le vieux sorcier. « Tu verras mon souvenir. C’est sans
+« Souvenirs », dit le vieux sorcier. « Tu verras mon souvenir. C’est sans
 danger, je t’en fais le serment. Maintenant regarde dans la Pensine,
 Serdaigle, si tu te soucies encore de ta précieuse vérité ! »
 
@@ -305,7 +305,7 @@ qu’Alastor m’avait dit depuis le début mais je ne l’avais pas écouté.
 Toi, je m’attends à ce que tu t’avères meilleur que moi pour ce genre de
 décisions. »
 
-« Je suis surpris, » dit Harry, émerveillé que sa voix soit aussi stable.
+« Je suis surpris », dit Harry, émerveillé que sa voix soit aussi stable.
 « Je me serais attendu à ce qu’à moins de tous les avoir du premier coup,
 les Mangemorts s’en prennent à une autre famille du camp des gentils et
 commencent un cycle de représailles toujours plus intenses. »
@@ -322,7 +322,7 @@ j’ai perdu moins de pièces une fois que j’ai su ce qu’elles valaient. �
 
 La mâchoire de Harry semblait bloquée, comme s’il avait besoin d’un
 effort colossal pour faire bouger ses lèvres. « Mais là ce n’est pas
-comme si Lucius avait délibérément rançonné Hermione, » dit-il d’une voix
+comme si Lucius avait délibérément rançonné Hermione », dit-il d’une voix
 faible. « Du point de vue de Lucius, quelqu’un d’autre a brisé la trêve.
 En gardant cela à l’esprit, combien de Gallions Hermione vaut-elle
 exactement ? En laissant la question du Danegeld de côté, si c’était
@@ -331,7 +331,7 @@ la sauver ? Dix mille Gallions ? Cinq mille ? »
 
 Le vieux sorcier ne répondit pas.
 
-« C’est drôle, » dit Harry d’une voix vacillante comme l’image d’un objet
+« C’est drôle », dit Harry d’une voix vacillante comme l’image d’un objet
 immergé. « Vous savez, le jour où j’ai fait face au Détraqueur, vous
 savez ce qu’a été mon pire souvenir ? C’était la mort de mes parents.
 J’entendais leurs voix et tout. »
@@ -339,7 +339,7 @@ J’entendais leurs voix et tout. »
 Les yeux du vieux sorcier s’écarquillèrent derrière les lunettes en
 demi-lune.
 
-« Et voilà le truc, » dit Harry, « le truc auquel j’ai pensé et repensé. Le
+« Et voilà le truc », dit Harry, « le truc auquel j’ai pensé et repensé. Le
 Seigneur des Ténèbres a donné à Lily Potter une chance de partir. Il lui
 a dit qu’elle pouvait fuir. Il lui a *dit* que mourir devant le berceau
 ne sauverait pas son bébé : “Écarte-toi, femme imbécile, si tu as le
@@ -373,7 +373,7 @@ vouloir – à ton innocence… »
 Harry regarda le sorcier une seconde de plus puis se retourna et sortit
 de la pièce noire, descendit les escaliers, traversa le bureau…
 
-« Je ne sais vraiment pas pourquoi tu es toujours sur son épaule, » dit-il
+« Je ne sais vraiment pas pourquoi tu es toujours sur son épaule », dit-il
 à Fumseck.
 
 …par la porte et le long de la spirale tournoyante infinie.
@@ -419,7 +419,7 @@ frère. Albus Dumbledore sait, et il l’a appris de la pire des façons
 possibles, qu’il y a des limites à la valeur d’une vie ; et l’admettre a
 failli le rendre fou. Mais toi, Harry Potter –* tu *le sais déjà.*
 
-« Tais-toi, » chuchota le garçon à une salle de Métamorphose vide, alors
+« Tais-toi », chuchota le garçon à une salle de Métamorphose vide, alors
 qu’il n’y avait personne pour l’entendre.
 
 *Tu as déjà lu les expériences de Philip Tetlock où l’on demande à des
@@ -534,7 +534,7 @@ attendue et de faire le seul choix raisonnable.
 
 Si elle l’avait fait, elle aurait été la mère de Harry.
 
-« Mais les êtres humains ne peuvent pas vivre comme ça, » chuchotèrent les
+« Mais les êtres humains ne peuvent pas vivre comme ça », chuchotèrent les
 lèvres du garçon à l’adresse de la salle vide. « Les humains ne peuvent
 pas vivre comme ça. »
 

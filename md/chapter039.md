@@ -25,7 +25,7 @@ Cette fois, Dumbledore semblait assez sérieux, son sourire habituel
 était absent ; et il était habillé d’un pyjama d’un violet plus sombre
 et plus sobre qu’à l’ordinaire.
 
-« Merci d’être venu, Harry, » dit le directeur. Le vieux sorcier se leva
+« Merci d’être venu, Harry », dit le directeur. Le vieux sorcier se leva
 de son trône et commença à lentement marcher à travers la pièce et entre
 les étranges appareils. « Tout d’abord, as-tu les notes de ta rencontre
 d’hier avec Lucius Malfoy ? »
@@ -41,7 +41,7 @@ significatifs que vous ne compreniez pas, il était *bougrement évident*
 qu’il fallait immédiatement l’écrire, avant que le souvenir ne s’efface,
 afin de pouvoir essayer de la comprendre plus tard.
 
-« Très bien, » dit le directeur, « de mémoire, alors. »
+« Très bien », dit le directeur, « de mémoire, alors. »
 
 Honteux, Harry récita du mieux qu’il pouvait, et il en était presque
 arrivé à la moitié lorsqu’il se rendit compte que ce n’était pas
@@ -58,7 +58,7 @@ Le visage de Dumbledore était devenu de plus en plus lointain au fur et
 à mesure du discours de Harry, et à la fin on pouvait voir quelque chose
 d’antique sur son visage, comme une gravité dans l’air.
 
-« Bien, » dit Dumbledore. « Je suggère alors que tu prennes grand soin de
+« Bien », dit Dumbledore. « Je suggère alors que tu prennes grand soin de
 t’assurer qu’il n’arrive aucun malheur à l’héritier Malfoy. Et j’en
 ferai de même. » Le directeur fronçait les sourcils, ses doigts battaient
 silencieusement sur la surface d’une plaque noire comme de l’encre où
@@ -84,18 +84,18 @@ serait *pas* contenté de raconter l’histoire qui lui obtiendrait le plus
 de compassion de la part du professeur Quirrell…
 
 « Et si, au lieu de protester, je disais que je comprends votre point de
-vue, » dit Harry, « et que vous continuiez à intercepter mes chouettes,
+vue », dit Harry, « et que vous continuiez à intercepter mes chouettes,
 mais que vous me disiez qui les envoie ? »
 
 « J’ai peur d’avoir intercepté de nombreuses chouettes qui t’étaient
-destinées, » dit Dumbledore d’un ton neutre. « Tu es une célébrité, Harry,
+destinées », dit Dumbledore d’un ton neutre. « Tu es une célébrité, Harry,
 et si je ne les renvoyais pas, tu recevrais des dizaines de lettres par
 jour, venues parfois de pays lointains. »
 
 « *Ceci,* » dit Harry, commençant maintenant à ressentir un peu
 d’indignation, « semble aller un peu trop loin — »
 
-« Nombre de ces lettres, » dit le vieux sorcier avec douceur, « te
+« Nombre de ces lettres », dit le vieux sorcier avec douceur, « te
 demanderont des choses que tu ne peux pas donner. Je ne les ai pas lues,
 bien sûr, seulement renvoyées à leur émetteur. Mais je le sais, car je
 les reçois moi aussi. Et, Harry, tu es trop jeune pour avoir le cœur
@@ -105,14 +105,14 @@ Harry regarda ses chaussures. Il *aurait dû* insister pour lire les
 lettres et juger par lui-même mais… il y avait une petite voix de bon
 sens à l’intérieur de lui, et elle était en train de hurler.
 
-« Merci, » marmonna Harry.
+« Merci », marmonna Harry.
 
-« L’autre raison pour laquelle je t’ai demandé de venir, » dit le vieux
+« L’autre raison pour laquelle je t’ai demandé de venir », dit le vieux
 sorcier, « est que je souhaite consulter ton talent génial et unique. »
 
 « La Métamorphose ? » dit Harry, surpris et flatté.
 
-« Non, pas *ce* talent génial unique, » dit Dumbledore. « Dis-moi, Harry,
+« Non, pas *ce* talent génial unique », dit Dumbledore. « Dis-moi, Harry,
 quel mal pourrais-tu accomplir si un Détraqueur était autorisé à venir
 dans l’enceinte de Poudlard ? »
 
@@ -126,7 +126,7 @@ Il fut révélé que le professeur Quirrell avait demandé, ou plutôt exigé,
 que ses élèves mettent à l’épreuve leurs capacités contre un véritable
 Détraqueur, après avoir appris les mots et les gestes du Patronus.
 
-« Le professeur Quirrell est lui-même incapable de créer un Patronus, »
+« Le professeur Quirrell est lui-même incapable de créer un Patronus »,
 dit Dumbledore, déambulant lentement entre les appareils. « Ce qui n’est
 jamais bon signe. Mais après tout, il m’a *volontairement* révélé ce
 fait en me demandant que des professeurs extérieurs soient amenés pour
@@ -135,7 +135,7 @@ offert de payer les frais lui-même si jamais je refusais. Cela m’a
 grandement impressionné. Mais maintenant il insiste pour amener un
 Détraqueur — »
 
-« Professeur, » dit doucement Harry, « le professeur Quirrell accorde une
+« Professeur », dit doucement Harry, « le professeur Quirrell accorde une
 immense importance aux tests sous feu réel, dans des conditions de
 combat réalistes. Vouloir amener un véritable Détraqueur correspond
 *complètement* à son personnage. »
@@ -144,7 +144,7 @@ Le directeur jetait maintenant un étrange regard à Harry.
 
 « *Correspond à son personnage ?* » dit le vieux sorcier.
 
-« Je veux dire, » dit Harry, « c’est parfaitement cohérent avec la façon
+« Je veux dire », dit Harry, « c’est parfaitement cohérent avec la façon
 dont il agit d’habitude… » Harry laissa sa phrase en suspens. Pourquoi
 *l’avait-il* formulé ainsi ?
 
@@ -172,18 +172,18 @@ qu’il ne pouvait même pas se sentir flatté.
 
 « *Moi* * ?* » dit Harry.
 
-« Oui, » dit Dumbledore, souriant légèrement. « Je fais de mon mieux pour
+« Oui », dit Dumbledore, souriant légèrement. « Je fais de mon mieux pour
 anticiper sur les actes de mes ennemis, pour comprendre leur esprit
 tordu et prédire leurs maléfiques pensées. Mais *je* n’aurais jamais
 pensé à aiguiser les os d’une Poufsouffle pour en faire des armes. »
 
 Harry allait-il *jamais* réussir à faire oublier ça ?
 
-« Directeur, » dit Harry d’un ton usé, « je sais que ça n’est pas rassurant
+« Directeur », dit Harry d’un ton usé, « je sais que ça n’est pas rassurant
 à entendre, mais très sérieusement : je ne suis pas maléfique, je suis
 juste très créatif — »
 
-« Je n’ai pas dit que tu étais maléfique, » dit Dumbledore avec sérieux.
+« Je n’ai pas dit que tu étais maléfique », dit Dumbledore avec sérieux.
 « Il y a ceux qui disent que comprendre le mal est devenir le mal ; mais
 ils font seulement semblant d’être sage. Ce qui est maléfique, c’est
 plutôt ce qui n’aime pas, ce qui n’ose pas imaginer l’amour et qui ne
@@ -195,7 +195,7 @@ qu’est l’amour. Donc, Harry. » Le regard du directeur s’était intensif
 accomplir, après m’avoir roulé pour que j’autorise la présence d’un
 Détraqueur dans l’enceinte de Poudlard ? »
 
-« *Attendez* un instant, » dit Harry, et, vaguement étourdi, il parvint
+« *Attendez* un instant », dit Harry, et, vaguement étourdi, il parvint
 jusqu’à la chaise située face au bureau du directeur et s’assit. Cette
 fois, c’était une chaise large et confortable, pas un tabouret de bois,
 et Harry pouvait se sentir être enveloppé à mesure qu’il s’y enfonçait.
@@ -212,7 +212,7 @@ directeur à l’empêcher.
 
 Remarque trois…
 
-« Professeur, » dit Harry, « si le professeur Quirrell se prépare *en
+« Professeur », dit Harry, « si le professeur Quirrell se prépare *en
 effet* à faire quelque chose, je ne suis pas certain de *pouvoir*
 déjouer ses manigances. Il a beaucoup plus d’expérience que moi. »
 
@@ -221,7 +221,7 @@ dépit de son sourire. « Tu te sous-estimes. »
 
 C’était la première fois que quiconque avait dit cela à Harry.
 
-« Je me souviens, » continua le vieux sorcier, « d’un jeune homme, dans ce
+« Je me souviens », continua le vieux sorcier, « d’un jeune homme, dans ce
 bureau, froid et avec le plein contrôle de lui-même, alors qu’il faisait
 face au directeur de la maison Serpentard, faisant chanter son directeur
 pour protéger ses camarades de classe. Et je crois que ce jeune homme
@@ -265,7 +265,7 @@ Et bien sûr que Harry *allait* passer de son côté obscur et se pencher
 sur le sujet depuis cette perspective, juste par honnêteté, et juste au
 cas où.
 
-« Dites-moi, » dit Harry, « tout ce qui concerne la façon dont le
+« Dites-moi », dit Harry, « tout ce qui concerne la façon dont le
 Détraqueur doit être amené, et comment il sera gardé. »
 
 Les sourcils de Dumbledore s’élevèrent l’espace d’un instant, puis le
@@ -331,7 +331,7 @@ Et il pensa alors au Détraqueur.
 
 Et ce fut évident.
 
-« Le Détraqueur est une distraction, » dit Harry. La froideur était claire
+« Le Détraqueur est une distraction », dit Harry. La froideur était claire
 dans sa voix, puisque c’était ce que Dumbledore voulait et ce à quoi il
 s’attendait. « Une menace remarquable, immense, mais en fin de compte
 directe et simple à contrer. Alors, tandis que toute votre attention
@@ -349,7 +349,7 @@ anciens.
 « *Quoi ?* » dit Harry avec une nuance d’exaspération, le froid toujours
 dans son sang.
 
-« J’ai une autre question pour ce jeune homme, » dit le directeur. « C’est
+« J’ai une autre question pour ce jeune homme », dit le directeur. « C’est
 quelque chose que je me suis longtemps demandé et que j’ai pourtant été
 incapable de comprendre. *Pourquoi ?* » Il y avait une nuance de douleur
 dans sa voix. « Pourquoi quiconque deviendrait-il un monstre de façon
@@ -436,7 +436,7 @@ perspicaces. Vous laissiez juste le logiciel de reconnaissance de forme
 de votre cerveau compléter le cliché en utilisant n’importe quelle
 Sagesse Profonde enregistrée auparavant.
 
-« Directeur, » dit Harry d’un ton solennel, « je préférerais ne pas me
+« Directeur », dit Harry d’un ton solennel, « je préférerais ne pas me
 définir par rapport à mes ennemis. »
 
 Bizarrement, au milieu de tous ces roulements et ces déclics, il y eut
@@ -444,19 +444,19 @@ une sorte de silence.
 
 Ça avait sonné un peu plus Profondément Sage que Harry ne l’avait voulu.
 
-« Peut-être es-tu très sage, Harry, » dit lentement le directeur.
+« Peut-être es-tu très sage, Harry », dit lentement le directeur.
 « J’aurais en effet souhaité… avoir pu être défini par mes amis. » La
 douleur dans sa voix était devenue plus profonde.
 
 L’esprit de Harry chercha frénétiquement quelque autre Sagesse Profonde
 à dire qui adoucirait la force inattendue de ce coup -
 
-« Ou peut-être, » dit Harry plus doucement, « est-ce l’ennemi qui fait le
+« Ou peut-être », dit Harry plus doucement, « est-ce l’ennemi qui fait le
 Gryffondor, comme c’est l’ami qui fait le Poufsouffle, et l’ambition qui
 fait le Serpentard. Je sais que c’est toujours, à chaque génération, le
 puzzle qui fait le scientifique. »
 
-« C’est un terrible destin auquel tu condamnes ma Maison, Harry, » dit le
+« C’est un terrible destin auquel tu condamnes ma Maison, Harry », dit le
 directeur. La douleur était encore présente dans sa voix. « Car
 maintenant que tu le mentionnes, je pense que j’ai en grande partie été
 fait par mes ennemis. »
@@ -464,20 +464,20 @@ fait par mes ennemis. »
 Harry regarda ses propres mains, posées sur ses genoux. Peut-être qu’il
 devrait juste se taire tant qu’il était en tête de course.
 
-« Mais tu *as* répondu à ma question, » dit Dumbledore plus doucement,
+« Mais tu *as* répondu à ma question », dit Dumbledore plus doucement,
 comme à lui-même. « J’aurais dû me rendre compte que la clé viendrait de
 Serpentard. Pour son ambition, tout pour son ambition ; et *cela* je le
 sais, mais je ne sais pas *pourquoi*… » Pendant un moment Dumbledore
 regarda dans le vide ; puis il se raidit et ses yeux semblèrent de
 nouveau mettre au point sur Harry.
 
-« Et toi, Harry, » dit le directeur, « tu te dis un *scientifique* ? » Sa
+« Et toi, Harry », dit le directeur, « tu te dis un *scientifique* ? » Sa
 voix était entrelacée de surprise et d’une légère désapprobation.
 
 « Vous n’aimez pas la science ? » dit Harry d’un ton un peu usé. Il avait
 espéré que Dumbledore ait plus d’affection pour les choses Moldues.
 
-« Je suppose que c’est utile pour ceux qui n’ont pas de baguette, » dit
+« Je suppose que c’est utile pour ceux qui n’ont pas de baguette », dit
 Dumbledore en fronçant les sourcils. « Mais me semble bien étrange de se
 définir par cela. La science est-elle aussi importante que l’amour ? Que
 la gentillesse ? Que l’amitié ? Est-ce la science qui te donne ton
@@ -492,7 +492,7 @@ Malfoy ? »
 Maintenant, comme formuler la réplique de façon à ce qu’elle sonne elle
 aussi comme quelque chose d’incroyablement sage…
 
-« Vous n’êtes pas Serdaigle, » dit Harry avec une calme dignité, « et il ne
+« Vous n’êtes pas Serdaigle », dit Harry avec une calme dignité, « et il ne
 vous est donc peut-être pas venu à l’esprit que respecter la vérité et
 la rechercher chaque jour de sa vie peut aussi constituer un acte de
 grâce. »
@@ -509,7 +509,7 @@ de Harry à formuler les choses pour qu’elles aient l’air profondes, au
 lieu de les dire dans un français simple, comme Richard Feynman l’avait
 fait avec *sa* sagesse…
 
-« L’amour est plus important que la sagesse, » dit Harry, juste pour
+« L’amour est plus important que la sagesse », dit Harry, juste pour
 tester les limites de la tolérance de Dumbledore pour les clichés
 aveuglément évidents complétés par simple reconnaissance de forme sans
 aucune forme d’analyse détaillée.
@@ -521,24 +521,24 @@ que je me dépêche d’aller aimer quelque chose alors, ça va sûrement
 m’aider à vaincre le Seigneur des Ténèbres. Et la prochaine fois que
 vous me demanderez un conseil, je vous donnerai juste un câlin -*
 
-« Tu m’as grandement aidé aujourd’hui, Harry, » dit le directeur. « Et il y
+« Tu m’as grandement aidé aujourd’hui, Harry », dit le directeur. « Et il y
 a donc une dernière chose que je voudrais demander à ce jeune homme. »
 
 *Génial.*
 
-« Dis-moi, Harry, » dit le directeur (et maintenant sa voix semblait
+« Dis-moi, Harry », dit le directeur (et maintenant sa voix semblait
 simplement perplexe, bien qu’il y ait toujours un soupçon de douleur
 dans ses yeux), « pourquoi les mages noirs ont-ils tant peur de la
 mort ? »
 
-« Euh, » dit Harry, « désolé, mais sur ce coup je suis avec les mages
+« Euh », dit Harry, « désolé, mais sur ce coup je suis avec les mages
 noirs. »
 
 Woosh. Shhh. Ding ; glop, plop, blup -
 
 « *Quoi ?* » dit Dumbledore.
 
-« La mort est quelque chose de mauvais, » dit Harry, rejetant la sagesse
+« La mort est quelque chose de mauvais », dit Harry, rejetant la sagesse
 au bénéfice d’une communication claire. « Très mauvais. Extrêmement
 mauvais. Avoir peur de la peur, c’est comme d’avoir peur d’un grand
 monstre avec des crocs empoisonnés. C’est sensé, et en réalité,
@@ -546,10 +546,10 @@ n’indique pas qu’on a un problème psychologique. »
 
 Le directeur le regardait comme s’il venait de se transformer en chat.
 
-« D’accord, » dit Harry, « laissez-moi le formuler ainsi. *Souhaitez*-vous
+« D’accord », dit Harry, « laissez-moi le formuler ainsi. *Souhaitez*-vous
 mourir ? Parce que si oui, il y a ce truc Moldu appelé le SOS suicide — »
 
-« Lorsque le temps sera venu, » dit le vieux mage avec douceur. « Pas
+« Lorsque le temps sera venu », dit le vieux mage avec douceur. « Pas
 avant. Je ne chercherai jamais à en accélérer la venue, pas plus que je
 ne la refuserai lorsqu’elle sera là. »
 
@@ -568,7 +568,7 @@ cavernes de leur fabrication, infiniment plus sombres, sans lune ni
 ils sont tellement désireux de l’obtenir qu’ils sacrifierait jusqu’à
 leur âme même ! Veux-tu vivre pour *toujours*, Harry ? »
 
-« Oui, et vous aussi, » dit Harry. « Je veux vivre un jour de plus. Demain,
+« Oui, et vous aussi », dit Harry. « Je veux vivre un jour de plus. Demain,
 je voudrai encore en vivre un de plus. Par conséquent je veux vivre pour
 toujours, preuve par induction sur les entiers positifs. Si vous ne
 voulez pas mourir, cela veut dire que vous voulez vivre pour toujours.
@@ -579,7 +579,7 @@ comprendre, n’est-ce pas ? »
 Les deux cultures s’observèrent d’un bord à l’autre d’un vaste espace
 d’incommensurabilité.
 
-« J’ai vécu cent dix ans, » dit le vieux sorcier avec douceur (sortant sa
+« J’ai vécu cent dix ans », dit le vieux sorcier avec douceur (sortant sa
 barbe du bol et la secouant pour faire partir la couleur). « Et j’ai vu
 et fait un grand nombre de choses, que pour la plupart je souhaiterais
 n’avoir jamais vues ni faites. Et pourtant je ne regrette pas d’être en
@@ -604,24 +604,24 @@ j’ai beaucoup plus d’espoir maintenant que j’ai découvert que les
 prétendues lois de la physique ne sont que des indications
 optionnelles. »
 
-« Je n’ai pas compris grand-chose de tout cela, » dit Dumbledore. « Mais il
+« Je n’ai pas compris grand-chose de tout cela », dit Dumbledore. « Mais il
 me faut demander si ce sont des choses que tu désires désespérément ou
 si tu ne les imagines que pour t’imaginer ne pas être un jour fatigué,
 dans ta fuite permanente de la mort. »
 
 « La vie n’est pas une liste finie de choses que l’on coche avant d’avoir
-le droit de mourir, » dit Harry avec fermeté. « C’est la vie, on continue
+le droit de mourir », dit Harry avec fermeté. « C’est la vie, on continue
 juste de la vivre. Si je ne fais pas ces choses, ce sera parce que
 j’aurais trouvé quelque chose de mieux. »
 
 Dumbledore soupira. Ses doigts martelèrent une horloge ; alors qu’ils la
 touchaient, les chiffres se changèrent en une écriture indéchiffrable,
 et les aiguilles apparurent brièvement à d’autres emplacements. « Au cas
-peu probable où je serais autorisé à tarder jusqu’à cent cinquante ans, »
+peu probable où je serais autorisé à tarder jusqu’à cent cinquante ans »,
 dit le vieux sorcier, « je ne pense pas que cela me gênerait. Mais deux
 cent ans seraient vraiment abuser des bonnes choses. »
 
-« Oui, eh bien, » dit Harry, sa voix un peu asséchée lorsqu’il songea à
+« Oui, eh bien », dit Harry, sa voix un peu asséchée lorsqu’il songea à
 son père et à sa mère et à *leur* espérance de vie si Harry n’y faisait
 rien, « je soupçonne, professeur, que si vous étiez venu d’une culture où
 les gens étaient habitués à vivre jusqu’à quatre cent ans, alors mourir
@@ -629,7 +629,7 @@ les gens étaient habitués à vivre jusqu’à quatre cent ans, alors mourir
 mourir à, disons, *quatre-vingt*. » La voix de Harry se durcit sur ce
 dernier mot.
 
-« Peut-être, » dit paisiblement le vieux sorcier. « Je ne souhaiterais pas
+« Peut-être », dit paisiblement le vieux sorcier. « Je ne souhaiterais pas
 mourir avant mes amis, ni vivre après qu’ils soient tous partis. Les
 temps les plus difficiles sont quand ceux qu’on aimait le plus sont déjà
 partis, et que d’autres vivent pourtant, pour le bien desquels il faut
@@ -654,13 +654,13 @@ Pouet. Pouf. Clong.
 complètement sidéré. « *Harry, tu es un sorcier ! Tu as vu des
 fantômes !* »
 
-« Des fantômes, » dit Harry d’une voix sans timbre. « Vous voulez dire ces
+« Des fantômes », dit Harry d’une voix sans timbre. « Vous voulez dire ces
 choses comme les portraits, des mémoires enregistrés et des
 comportements sans conscience ni vie, accidentellement imprimées dans le
 matériel environnant par les éclats de magie qui accompagnent la mort
 violente d’un sorcier — »
 
-« J’ai entendue cette théorie, » dit le directeur, sa voix devenant
+« J’ai entendue cette théorie », dit le directeur, sa voix devenant
 coupante, « répétée par des sorciers qui confondent le cynisme et la
 sagesse, qui pensent que rabaisser les autres permet de s’élever
 soi-même. C’est l’une des idées les plus sottes que j’ai entendu en cent
@@ -669,7 +669,7 @@ que ce n’est *pas à ce monde qu’ils appartiennent !* Les âmes sont
 censées continuer, il n’y plus de vie pour eux *ici* ! Et hormis les
 fantômes, qu’en est-il du Voile ? Et de la Pierre de Résurrection ? »
 
-« Très bien, » dit Harry, essayant de maintenir une voix calme,
+« Très bien », dit Harry, essayant de maintenir une voix calme,
 « j’écouterai toutes les preuves parce que *c’est ce que les
 scientifiques font*. Mais d’abord, professeur, laissez-moi vous raconter
 une petite histoire. » La voix de Harry tremblait. « Vous savez, lorsque
@@ -688,10 +688,10 @@ mes parents qui étaient morts pour moi et leur dire que j’étais au
 courant de leur sacrifice et que je commencerais à les appeler maman et
 papa — »
 
-« Harry, » murmura Dumbledore. De l’eau étincela dans les yeux du vieux
+« Harry », murmura Dumbledore. De l’eau étincela dans les yeux du vieux
 sorcier. Il s’approcha d’un pas -
 
-« Et *alors*, » cracha Harry, la furie entrant pleinement dans sa voix, la
+« Et *alors* », cracha Harry, la furie entrant pleinement dans sa voix, la
 rage froide envers l’univers parce qu’il était ainsi et envers lui-même
 parce qu’il avait été aussi stupide, « j’ai demandé à Hermione et elle
 m’a dit qu’ils n’étaient que des *images rémanentes*, brûlées dans la
@@ -731,7 +731,7 @@ pardonnerai jamais ! *Qu’est-ce que le voile* ? »
 Harry éleva sa main et essuya ses joues alors que les objets de verre du
 bureau cessaient de vibrer sous l’effet de son dernier cri.
 
-« Le Voile, » dit le vieux sorcier d’une voix qui ne tremblait que
+« Le Voile », dit le vieux sorcier d’une voix qui ne tremblait que
 légèrement, « est une grande arcade de pierre, gardée au Département des
 Mystères ; un passage vers le monde des morts. »
 
@@ -751,7 +751,7 @@ rencontrer, et au moment où vous toucheriez le Voile, vous seriez
 absorbé à l’intérieur et plus personne n’entendrait plus jamais parler
 de vous.
 
-« Ça n’a même pas l’air d’être une fumisterie *intéressante*, » dit Harry,
+« Ça n’a même pas l’air d’être une fumisterie *intéressante* », dit Harry,
 sa voix plus calme maintenant qu’il n’y avait plus rien qui puisse le
 faire espérer ou l’énerver d’avoir eu ses espoirs brisés. « Quelqu’un a
 construit une arcade de pierre, a fait une petite surface noire
@@ -764,7 +764,7 @@ peux te dire la vérité, mais si tu refuses de l’entendre… »
 
 *Pas intéressant non plus.* « Qu’est-ce que la Pierre de Résurrection ? »
 
-« Je ne te le dirais pas, » dit lentement le directeur, « si je ne
+« Je ne te le dirais pas », dit lentement le directeur, « si je ne
 craignais ce que cette incroyance pourrait te faire… alors écoute,
 Harry, s’il te plaît, écoute… »
 
@@ -792,10 +792,10 @@ penser avec un temps d’avance sur sa langue, assez vite pour ne *pas*
 dire le premier nom et le premier test qui lui soit venu à l’esprit.
 
 « … votre femme décédée, et lui demander où elle a laissé sa boucle
-d’oreille perdue, ou quelque chose comme ça, » conclut Harry. « Quelqu’un
+d’oreille perdue, ou quelque chose comme ça », conclut Harry. « Quelqu’un
 a-t-il fait le moindre test qui ressemble à ceci ? »
 
-« La Pierre de Résurrection est perdue depuis des siècles, Harry, » dit
+« La Pierre de Résurrection est perdue depuis des siècles, Harry », dit
 doucement le directeur.
 
 Harry haussa les épaules. « Eh bien, je suis un scientifique, et je suis
@@ -823,10 +823,10 @@ mailles argentées, d’un cramoisi passé semblable à du sang séché, le
 symbole des Reliques de la Mort : un triangle avec un cercle dessiné à
 l’intérieur et une ligne les divisant tous deux.
 
-« Merci, » dit poliment Harry. « Je m’assurerai de garder l’œil ouvert pour
+« Merci », dit poliment Harry. « Je m’assurerai de garder l’œil ouvert pour
 une pierre ainsi marquée. Avez-vous d’autres preuves ? »
 
-Dumbledore semblait être en proie à une lutte intérieure.« Harry, » dit
+Dumbledore semblait être en proie à une lutte intérieure.« Harry », dit
 le vieux sorcier, et sa voix s’éleva, « c’est une route dangereuses que
 tu empruntes, et je ne suis pas certain qu’il soit bon que je dise ce
 que je m’apprête à dire, mais je *dois* te tirer de ce chemin ! Harry,
@@ -839,7 +839,7 @@ Seigneur des Ténèbres était encore en vie ; et c’était le directeur fou
 de l’asile qu’on appelait leur école, le directeur fou qui pensait que
 le monde fonctionnait à base de clichés.
 
-« Bonne question, » dit Harry après un peu de débat interne sur la façon
+« Bonne question », dit Harry après un peu de débat interne sur la façon
 de procéder. « Peut-être a-t-il trouvé une façon de dupliquer le pouvoir
 de la Pierre de Résurrection, seulement il l’a chargée à l’avance avec
 une copie *complète* de l’état de son cerveau. Ou quelque chose comme
@@ -850,7 +850,7 @@ façon dont le Seigneur des Ténèbres a survécu et sur ce qu’il faudrait
 faire pour le tuer ? » *Si encore il est plus réel que des gros titre du
 Chicaneur*.
 
-« Tu ne me trompes pas, Harry, » dit le vieux sorcier ; son visage avait
+« Tu ne me trompes pas, Harry », dit le vieux sorcier ; son visage avait
 maintenant l’air ancien et ridé par autre chose que des années. « Je sais
 la vraie raison pour laquelle tu poses cette question. Non, je ne lis
 pas dans ton esprit, je n’ai pas à le faire, ton hésitation te trahit !
@@ -874,11 +874,11 @@ la bouche grande ouverte, l’air hébété.
 (Harry se décerna un point pour lundi puisqu’il était parvenu à
 complètement déboussoler quelqu’un avant la fin de la journée).
 
-« Et au cas où ça n’aurait pas été clair, » dit Harry, « quand je dis *tout
+« Et au cas où ça n’aurait pas été clair », dit Harry, « quand je dis *tout
 le monde* je veux dire tous les Moldus aussi, pas seulement les
 sorciers. »
 
-« Non, » dit le vieux sorcier, secouant sa tête. Sa voix s’éleva. « Non,
+« Non », dit le vieux sorcier, secouant sa tête. Sa voix s’éleva. « Non,
 non, non ! *C’est de la folie !* »
 
 « Bwah ha ha ! » dit Harry.
@@ -901,26 +901,26 @@ Lentement, le visage du vieux sorcier sortit de sa colère et se
 détendit, mais l’inquiétude était toujours présente. « Tu n’utiliserais
 aucun rituel qui requière un sacrifice humain. »
 
-« Je ne sais pas pour qui vous me prenez, *professeur*, » dit froidement
+« Je ne sais pas pour qui vous me prenez, *professeur* », dit froidement
 Harry, sa propre colère montante, « mais n’oublions que c’est *moi* qui
 souhaite que les gens *vivent* ! Celui qui veut *sauver* tout le monde !
 C’est *vous* qui pensez que la mort est géniale et que tout le monde
 devrait mourir ! »
 
-« Je suis perdu, Harry, » dit le vieux sorcier. Ses pieds commencèrent de
+« Je suis perdu, Harry », dit le vieux sorcier. Ses pieds commencèrent de
 nouveau à parcourir l’étrange bureau. « Je ne sais que dire. » Il ramassa
 une sphère de cristal qui semblait contenir une main entourée de flammes
 et l’observa d’un air triste. « Seulement que je suis bien mécompris… je
 ne *veux* pas que tout le monde meure, Harry ! »
 
-« Vous ne voulez juste pas que tout le monde soit immortel, » dit Harry
+« Vous ne voulez juste pas que tout le monde soit immortel », dit Harry
 avec une grande ironie dans la voix. Il semblait que les tautologies
 logiques élémentaires telles que *Pour tout x : Meurt(x) = N’existe pas
 x : Ne meure pas(x)* étaient au-delà des capacités de raisonnement du
 sorcier le plus puissant du monde.
 
 Le vieux sorcier hocha la tête. « J’ai moins peur qu’avant, mais je suis
-toujours grandement inquiet pour toi, Harry, » dit-il doucement. Sa main,
+toujours grandement inquiet pour toi, Harry », dit-il doucement. Sa main,
 légèrement flétrie par le temps mais toujours forte, replaça fermement
 la sphère de cristal sur son socle. « Car la peur de la mort est une
 chose amère, une maladie de l’âme qui tord et déforme les gens.
@@ -935,7 +935,7 @@ Le visage du vieux sorcier était paisible. « Je ne suis pas parfait,
 Harry, mais je pense avoir accepté ma mort comme une partie de mon
 être. »
 
-« Oh oh, » dit Harry. « Vous voyez, il y a cette petite chose nommée
+« Oh oh », dit Harry. « Vous voyez, il y a cette petite chose nommée
 *dissonance cognitive*, ou en français plus simple, le *dépit*. Si on
 frappait les gens sur la tête avec des matraques une fois par mois, et
 que personne ne pouvait rien y faire, il y aurait bientôt toutes sortes
@@ -957,7 +957,7 @@ vous ne voulez pas *vraiment* mourir, et que cette pensée vous fait si
 mal que vous devez la rationaliser, que vous devez faire quelque chose
 pour atténuer la douleur, pour ne plus avoir à y penser — »
 
-« Non, Harry, » dit le vieux sorcier. Son visage était paisible, sa main
+« Non, Harry », dit le vieux sorcier. Son visage était paisible, sa main
 parcourait un bac d’eau éclairé qui émettait de petits carillons au
 passage de ses doigts. « Même si je peux comprendre pourquoi tu le
 penses. »
@@ -974,7 +974,7 @@ des innocents et appelleriez cela de l’amitié. Si vous pouvez dire que
 la mort est meilleure que la vie alors vous pouvez tordre votre compas
 moral pour qu’il pointe *n’importe où* — »
 
-« Je pense, » dit Dumbledore, éjectant quelques gouttes d’eau de sa main
+« Je pense », dit Dumbledore, éjectant quelques gouttes d’eau de sa main
 en la secouant, au son de petites clochettes tintantes, « que tu
 comprends *très* bien les mages noirs, sans en être encore un toi-même. »
 C’était dit avec un parfait sérieux et sans accusation. « Mais ta
@@ -994,13 +994,13 @@ a été cent fois plus fort que vous. »
 Un air d’incompréhension passa sur le visage du vieux sorcier. « Que
 veux-tu dire ? »
 
-« Je veux dire, » dit Harry, la voix mordante, « que Drago *prenait ses
+« Je veux dire », dit Harry, la voix mordante, « que Drago *prenait ses
 propres croyances au sérieux* et *considérait* mes mots au lieu de
 simplement les *jeter par la fenêtre* en souriant avec une aimable
 supériorité. Vous êtes si vieux et sage que vous ne pouvez même pas
 *remarquer* ce que je dis ! Pas comprendre, *remarquer* ! »
 
-« Je t’*ai* écouté, Harry, » dit Dumbledore, l’air maintenant plus
+« Je t’*ai* écouté, Harry », dit Dumbledore, l’air maintenant plus
 solennel, « mais écouter n’est pas toujours être d’accord. Désaccords mis
 à part, que crois-tu que je ne comprends pas ? »
 
@@ -1011,7 +1011,7 @@ les laisser s’éterniser ici, endommagés -*
 
 Harry parvint à peine, *à peine*, à s’empêcher de le dire à voix haute.
 
-« Très bien, » dit froidement Harry. « Je répondrai alors à votre question
+« Très bien », dit froidement Harry. « Je répondrai alors à votre question
 initiale. Vous avez demandé pourquoi les mages noirs ont peur de la
 mort. Prétendez, professeur, que vous croyez *vraiment* aux âmes.
 Prétendez que chacun soit capable de vérifier l’existence des âmes à
@@ -1026,11 +1026,11 @@ qu’une seule fois ? Parce que *c’est cela*, la Mort — l’annihilati
 d’une âme ! »
 
 Le vieux sorcier le regardait avec tristesse. « Je suppose que je
-*comprends* à présent, » dit-il avec douceur.
+*comprends* à présent », dit-il avec douceur.
 
 « Oh ? » dit Harry. « Vous comprenez quoi ? »
 
-« Voldemort, » dit le vieux sorcier. « Je le comprends enfin. Parce pour
+« Voldemort », dit le vieux sorcier. « Je le comprends enfin. Parce pour
 croire que le monde est réellement ainsi, il faut croire qu’il est dénué
 de justice, qu’il est parcouru de ténèbres jusqu’à son cœur. Je t’ai
 demandé pourquoi il était devenu un monstre, et tu n’as pu me donner une
@@ -1047,9 +1047,9 @@ Ils se tinrent là, se fixant l’un-l’autre, le vieux sorcier dans ses
 robes, et le jeune garçon avec la cicatrice en forme d’éclair sur son
 front.
 
-« Dis-moi, Harry, » dit le vieux sorcier, « vas-*tu* devenir un monstre ? »
+« Dis-moi, Harry », dit le vieux sorcier, « vas-*tu* devenir un monstre ? »
 
-« Non, » dit le garçon, une certitude d’acier dans la voix.
+« Non », dit le garçon, une certitude d’acier dans la voix.
 
 « Pourquoi pas ? » dit le vieux sorcier.
 
@@ -1061,7 +1061,7 @@ n’est ni mauvais ni bon, il ne s’en soucie tout simplement pas. Les
 pas à le faire ! *Nous* nous en soucions ! Il y *a* de la lumière dans
 le monde, et c’est *nous* ! »
 
-« Je me demande ce qu’il adviendra de toi, Harry, » dit le vieux sorcier.
+« Je me demande ce qu’il adviendra de toi, Harry », dit le vieux sorcier.
 Sa voix était douce, mêlée d’un étrange émerveillement et d’un étrange
 regret. « Assez pour me faire souhaiter de vivre, juste pour le voir. »
 

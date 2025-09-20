@@ -25,14 +25,14 @@ Le silence ne s’était toujours pas brisé lorsque le professeur
 McGonagall arriva. Le professeur de Métamorphose avança jusqu’au tableau
 sans s’arrêter, l’effaça d’un revers de main puis commença à écrire.
 
-« Aujourd’hui, les enfants, » dit la voix calme et professionnelle du
+« Aujourd’hui, les enfants », dit la voix calme et professionnelle du
 professeur de Métamorphose, exactement comme si rien d’extraordinaire ne
 s’était produit de la semaine, « nous apprendrons quel est l’effort
 nécessaire à maintenir une métamorphose et pourquoi, à votre âge, vous
 ne devriez même pas vous y essayer. La Forme originale n’a pas disparu,
 elle est seulement réprimée, et pour la maintenir ainsi… »
 
-« Excusez-moi, » dit Padma Patil. Elle savait que sa voix chevrotait,
+« Excusez-moi », dit Padma Patil. Elle savait que sa voix chevrotait,
 elle savait qu’elle tremblait de façon visible, mais il fallait qu’elle
 pose la question : « Excusez-moi, professeur McGonagall, mais qu’est-ce
 qui est arrivé à Mlle Granger ? »
@@ -43,7 +43,7 @@ qu’une main ne se soit levée, mais au lieu de cela son visage était
 amical. « Vous ne le savez pas déjà, Mlle Patil ? Je m’attendais à ce
 que la rumeur se soit répandue. »
 
-« Il y a trop de rumeurs, » dit Padma. « Je ne sais pas ce qui est vrai. »
+« Il y a trop de rumeurs », dit Padma. « Je ne sais pas ce qui est vrai. »
 
 Morag MacDougal leva la main puis dit sans attendre qu’on lui permette
 de parler : « Je te l’ai dit Padma, ce qui est *vrai* c’est que le
@@ -52,7 +52,7 @@ Détraqueur, qu’ils ont fait venir le Détraqueur et alors Harry Potter
 l’a collé au plafond et il a refusé de le faire descendre jusqu’à ce
 que… »
 
-« Oh, par Merlin, » dit le professeur McGonagall dont le visage était
+« Oh, par Merlin », dit le professeur McGonagall dont le visage était
 devenu plus sec, mais elle fit un effort manifeste afin de se calmer. « Le ridicule de l’affaire était des plus complets et je ne me répandrai
 pas en détails. Disons seulement que Mlle Granger se repose pour le
 moment chez Mme Pomfresh et qu’elle reviendra en cours demain. Et si
@@ -68,7 +68,7 @@ Le professeur McGonagall se retourna vers son tableau…
 D’un coin de la classe, une autre voix s’éleva. « Et le professeur
 Quirrell ? » dit Terry Boot. « Est-ce qu’il a été arrêté ? »
 
-« Les Aurors le maintiennent juste en détention, » dit le professeur de
+« Les Aurors le maintiennent juste en détention », dit le professeur de
 Métamorphose sans se retourner. « S’ils ne nous l’ont pas rendu demain,
 je demanderai au directeur d’aller le chercher. Mais autant vous le
 dire : le conseil d’administration a prévu un vote quant au droit du
@@ -81,7 +81,7 @@ Le professeur de Métamorphose s’arrêta de dessiner à nouveau.
 
 Elle se retourna encore, plus lentement cette fois.
 
-« Je *suis* navrée, M. Sifflebranche, » dit le professeur McGonagall.
+« Je *suis* navrée, M. Sifflebranche », dit le professeur McGonagall.
 Son visage semblait légèrement plus ridé que lorsqu’elle était entrée
 dans la pièce. « On m’a fait comprendre qu’il n’y avait rien à craindre
 pour la santé de M. Malefoy. Mais j’ai malheureusement reçu une chouette

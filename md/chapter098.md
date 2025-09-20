@@ -55,13 +55,13 @@ Daphné se tourna lentement et ouvrit à nouveau la porte.
 « *Toi !* » dit Daphné, frappée de stupeur, et elle vit le visage sous le
 capuchon. « Je pensais que tu étais… »
 
-« Je reviens vers toi, » dit la silhouette à robes d’argent d’une voix
+« Je reviens vers toi », dit la silhouette à robes d’argent d’une voix
 forte, « en ce moment dé… »
 
 « *Qu’est-ce que tu fais dans ma chambre ?* » glapit Daphné.
 
 « Greengrass, j’ai entendu dire que tu pouvais produire la forme brumeuse
-du Patronus, » dit la silhouette en robe d’argent. « Puis-je la voir ? »
+du Patronus », dit la silhouette en robe d’argent. « Puis-je la voir ? »
 
 Daphné le regarda en silence, et son sang se mit soudain à bouillir.
 « Pourquoi ? » dit-elle en gardant sa baguette levée. « Pour que tu puisses
@@ -81,7 +81,7 @@ apparaître une baguette de sous ses robes. La main de Daphné se resserra
 sur la sienne, mais elle reconnut alors la position des doigts, la
 posture que la silhouette adoptait, et elle inspira soudain…
 
-« *Expecto Patronum*, » dit clairement Drago Malefoy.
+« *Expecto Patronum* », dit clairement Drago Malefoy.
 
 Une lumière d’argent bondit de l’extrémité de la baguette de Malefoy — et
 se condensa pour former un serpent de lumière qui parut se lover en
@@ -89,7 +89,7 @@ l’air, comme s’il se reposait là.
 
 Elle en fut bouche bée.
 
-« J’ai *vraiment* essayé d’aider Hermione Granger, » dit Drago Malefoy
+« J’ai *vraiment* essayé d’aider Hermione Granger », dit Drago Malefoy
 d’une voix neutre. « Parce que je connais la maladie qui ronge le cœur de
 la maison Serpentard, la raison pour laquelle nous sommes si nombreux à
 ne plus pouvoir lancer le Patronus. C’est notre haine. Les gens
@@ -102,7 +102,7 @@ L’esprit de Daphné était comme assommé. Ses yeux vérifièrent
 nerveusement l’espace sous les portes pour vérifier que du sang n’en
 sortait pas, comme la dernière fois que Quelque Chose s’était Brisé.
 
-« Et j’ai aussi compris, » dit doucement Drago Malefoy, alors que le
+« Et j’ai aussi compris », dit doucement Drago Malefoy, alors que le
 serpent d’argent continuait de briller de sa lumière et de son
 indéniable chaleur, « que Hermione Granger n’a jamais vraiment essayé de
 me tuer. Peut-être qu’elle a subit un sortilège de faux souvenirs,
@@ -118,14 +118,14 @@ Daphné se brisa. Si Lucius Malefoy entendait que son fils avait dit ça il
 Drago Malefoy sourit, sa robe métallique scintillante sous la lumière de
 son Patronus complet ; c’était un sourire à la fois arrogant et
 dangereux, comme si s’inquiéter qu’on puisse le transformer en un
-pantalon de cuir était indigne de lui. « Oui, » dit-il, « mais ça n’a plus
+pantalon de cuir était indigne de lui. « Oui », dit-il, « mais ça n’a plus
 d’importance à présent. La maison Malefoy rend son argent à la maison
 Potter et annule sa dette. »
 
 Daphné marcha jusqu’à son lit et s’y laissa choir, espérant qu’elle
 pourrait alors se réveiller de ce rêve.
 
-« J’aimerais que tu rejoignes une conspiration, » dit la silhouette en
+« J’aimerais que tu rejoignes une conspiration », dit la silhouette en
 robes étincelantes. « Pour tous ceux à Serpentard capables de lancer le
 Patronus et tous ceux capables de l’apprendre. C’est grâce à cela que
 nous pourrons nous faire confiance quand nous nous retrouverons entre
@@ -162,7 +162,7 @@ yeux, que Poudlard…
 …n’était plus sûre…
 
 « Je ne sais qui vous êtes allés voir pour le sortilège de faux souvenirs
-sur Rita Skeeter, » dit la voix sans source de Harry Potter. « Qui que ce
+sur Rita Skeeter », dit la voix sans source de Harry Potter. « Qui que ce
 soit,… il ne pourra probablement *pas* satisfaire directement cette
 commande, mais il connaîtra peut-être quelqu’un capable de faire venir
 des choses du monde Moldu. Et… je sais que ça coûtera peut-être plus
@@ -184,7 +184,7 @@ qu’ils regardaient la liste. « Notre père est expert en Moldus… »
 
 « …qu’est-ce que tu comptes *faire* exactement ? »
 
-« Nous sommes passés au choses sérieuses, » dit doucement la voix de
+« Nous sommes passés au choses sérieuses », dit doucement la voix de
 Harry. « Je ne sais pas ce que je vais devoir faire. J’aurai peut-être
 besoin du pouvoir des Moldus, pas seulement de celui des sorciers, avant
 d’en avoir fini avec tout ceci — et j’en aurai peut-être besoin dans
@@ -198,7 +198,7 @@ j’espère c’est qu’un jour, quand vous aurez grandi, vous serez plus
 raisonnables à ce sujet et que vous *voudrez bien* accepter une prime de
 dix pour cent… »
 
-« Tais-toi, toi, » dit George ou Fred.
+« Tais-toi, toi », dit George ou Fred.
 
 « Bon Dieu, vous avez combattu un troll pour moi et Fred s’est fait
 briser les côtes ! »
@@ -217,7 +217,7 @@ ceux qu’il avait aidés plus qu’ils ne l’avaient aidé, ou d’appeler cel
 une dette — tout en étant apparemment incapable de concevoir que
 d’autres pourraient un jour vouloir agir de même envers *lui*.
 
-« Rappelez-moi de vous acheter un exemplaire du roman moldu *La Grève*, »
+« Rappelez-moi de vous acheter un exemplaire du roman moldu *La Grève* »,
 dit la voix sans source. « Je commence à comprendre quel genre de
 personne gagne à le lire. »
 
@@ -263,7 +263,7 @@ côté. Des souffles furent coupés par l’ébahissement ; il était
 impossible que ces deux-là soient aujourd’hui autre chose que les pires
 de tous les ennemis.
 
-« Moi et mon Père, le Lord de la noble et très ancienne maison Malefoy, »
+« Moi et mon Père, le Lord de la noble et très ancienne maison Malefoy »,
 dit Drago Malefoy d’une voix claire, « nous sommes rendus compte que des
 forces néfastes sont à l’œuvre à Poudlard. Que ces forces néfastes
 souhaitaient clairement nuire à Hermione Granger. Que Hermione Granger a
@@ -299,19 +299,19 @@ monde qui glissait, de pouvoirs qui se réagençaient de façon quasiment
 tangible.
 
 « Mon père, Owen Greengrass, avec l’assentiment et le soutien absolu de
-ma mère, la Dame de la Noble et très Ancienne Maison de Greengrass, » dit
+ma mère, la Dame de la Noble et très Ancienne Maison de Greengrass », dit
 Daphné Greengrass.
 
-« Et mon patriarche, Charles, de la maison Nott, » dit l’ancien lieutenant
+« Et mon patriarche, Charles, de la maison Nott », dit l’ancien lieutenant
 Nott, autrefois Théodore du Chaos, à présent derrière Drago Malefoy.
 
 « Et ma grande-tante, Amélia, de la maison Bones, aussi directrice du
-département de justice magique, » dit Susan Bones, qui se tenait contre
+département de justice magique », dit Susan Bones, qui se tenait contre
 le flanc de Daphné Greengrass, celle au côté de laquelle elle avait
 combattu.
 
 « Et ma grand-mère, Augusta, de la Noble et très ancienne maison de
-Londubat, » dit Neville Londubat, qui était revenu, juste pour cette
+Londubat », dit Neville Londubat, qui était revenu, juste pour cette
 nuit.
 
 « Et mon père, Lucius, le Lord des Malefoy, de la noble et très ancienne
@@ -397,19 +397,19 @@ Auxiliaire ! »
 Et Daphné laissa retomber un silence spectaculaire. Ils avaient tous
 répété ce moment.
 
-« Nous ne savons pas qui est l’ennemi, » dit Neville d’une voix qui ne
+« Nous ne savons pas qui est l’ennemi », dit Neville d’une voix qui ne
 couina pas.
 
-« Nous ne savons pas ce que l’ennemi veut, » dit Théodore d’un air
+« Nous ne savons pas ce que l’ennemi veut », dit Théodore d’un air
 toujours menaçant.
 
-« Mais nous savons qui l’ennemi attaque, » dit Susan, aussi féroce que
+« Mais nous savons qui l’ennemi attaque », dit Susan, aussi féroce que
 lorsqu’elle avait battu trois élèves de septième année.
 
-« L’ennemi attaque les élèves de Poudlard, » dit Drago Malefoy d’une voix
+« L’ennemi attaque les élèves de Poudlard », dit Drago Malefoy d’une voix
 claire et impérieuse, comme si tout ceci était pour lui une seconde
 nature.
 
-« Et Poudlard, » dit Daphné de Greengrass en sentant son sang bouillir en
+« Et Poudlard », dit Daphné de Greengrass en sentant son sang bouillir en
 elle comme jamais auparavant, « va se *défendre*. »
 

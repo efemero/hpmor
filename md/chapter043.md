@@ -66,7 +66,7 @@ Pas une seule étincelle de lumière.
 Lorsqu’il releva les yeux, Remus Lupin examinait encore la baguette, un
 air assez inquiet sur son visage légèrement balafré.
 
-Il finit par secouer la tête. « Je suis navré Harry, » dit doucement
+Il finit par secouer la tête. « Je suis navré Harry », dit doucement
 l’homme. « Ton mouvement était parfait. »
 
 Et il n’y avait pas une seule étincelle de lumière où que ce soit, parce
@@ -84,14 +84,14 @@ Est-ce qu’il aimait plus son père ?
 
 « Quelle pensée as-tu utilisée pour le lancer ? » dit Remus.
 
-« Mon père, » dit Harry d’une voix tremblante. « Je lui ai demandé de
+« Mon père », dit Harry d’une voix tremblante. « Je lui ai demandé de
 m’acheter quelques livres avant que je n’aille à Poudlard, et il l’a
 fait, et ils coûtaient cher, et puis il m’a demandé s’il y en avait
 assez — »
 
 Il n’essaya pas d’expliquer la devise de la famille Verres.
 
-« Reposes-toi avant d’essayer une autre pensée, Harry, » dit Remus. Il fit
+« Reposes-toi avant d’essayer une autre pensée, Harry », dit Remus. Il fit
 un geste en direction d’un autre élève qui était assis au sol, et le
 visage de ce dernier avait une expression qui aurait pu signifier la
 déception, la gêne ou le regret. « Tu n’arriveras pas à lancer un
@@ -111,18 +111,18 @@ Greengrass et Tracey Davis qui s’essayaient encore aux mouvements.
 Harry se laissa chuter sur l’herbe froide et morte de l’hiver, à côté de
 l’élève dont l’échec l’avait le plus surpris.
 
-« Alors tu n’as pas pu le faire non plus, » dit Hermione. Elle avait
+« Alors tu n’as pas pu le faire non plus », dit Hermione. Elle avait
 d’abord fuit le lieu d’entraînement, mais elle avait fini par revenir,
 et il fallait observer ses yeux rougis de près pour voir qu’elle avait
 pleuré.
 
-« Je, » dit Harry, « je, je me sentirais probablement bien pire si tu
+« Je », dit Harry, « je, je me sentirais probablement bien pire si tu
 n’avais pas échoué, tu es la plus gentille des personnes que je connais,
 que j’ai jamais rencontré, Hermione, et si *tu* ne peux pas le faire non
 plus, ça veut dire que je suis peut-être quelqu’un de, quelqu’un de
 bien… »
 
-« J’aurais dû aller à Gryffondor, » chuchota Hermione. Elle cligna des
+« J’aurais dû aller à Gryffondor », chuchota Hermione. Elle cligna des
 yeux plusieurs fois mais elle ne les essuya pas.
 
 
@@ -174,10 +174,10 @@ serait confronté à la plus sombre de toutes les créatures.
 Harry commençait déjà à se sentir pessimiste, et il ne faisait même pas
 encore face à un Détraqueur.
 
-« Je parie que tu peux le faire et que je ne peux pas, » dit Harry dans un
+« Je parie que tu peux le faire et que je ne peux pas », dit Harry dans un
 souffle. « Je parie que c’est ce qui va se passer. »
 
-« Je ne n’ai rien ressenti, » dit Hermione, sa voix encore moins audible
+« Je ne n’ai rien ressenti », dit Hermione, sa voix encore moins audible
 que la sienne. « J’ai essayé ce matin et je m’en suis rendue compte.
 Quand j’ai brandi ma main à la fin, avant même de dire les mots, je n’ai
 rien ressenti. »
@@ -188,7 +188,7 @@ heureuses avant de pouvoir se l’avouer. Il s’était senti creux à chaque
 fois qu’il avait essayé de brandir sa baguette ; le sort qu’il essayait
 d’apprendre ne lui correspondait pas.
 
-« Ça ne veut pas dire qu’on va être des mages noirs, » dit Harry. « Il y a
+« Ça ne veut pas dire qu’on va être des mages noirs », dit Harry. « Il y a
 plein de gens qui ne peuvent pas lancer de Patronus et qui ne sont pas
 des mages noirs. Godric Gryffondor n’était pas un mage noir… »
 
@@ -262,16 +262,16 @@ Harry vit que Hermione clignait des yeux ; et il se demanda si elle
 pensait à Rowena Serdaigle, qui avait elle aussi beaucoup aimé les
 livres.
 
-« Bon, » chuchota Harry. « Un peu de bonne humeur. Si tu obtiens un
+« Bon », chuchota Harry. « Un peu de bonne humeur. Si tu obtiens un
 Patronus corporel complet, que penses-tu que ton animal sera ? »
 
-« Un loutre, » répondit immédiatement Hermione.
+« Un loutre », répondit immédiatement Hermione.
 
 « Un *loutre* ? » chuchota Harry d’un ton incrédule.
 
-« Oui, une loutre, » dit Hermione. « Et le tien ? »
+« Oui, une loutre », dit Hermione. « Et le tien ? »
 
-« Un faucon pèlerin, » dit Harry sans hésiter. « Il peut plonger à plus de
+« Un faucon pèlerin », dit Harry sans hésiter. « Il peut plonger à plus de
 trois cent kilomètres par heure, c’est l’animal le plus rapide qui
 soit. » Le faucon pèlerin avait été l’animal préféré de Harry depuis
 toujours. Harry était fermement décidé à devenir un Animagus un jour,
@@ -382,7 +382,7 @@ directeur disparaissait pour tester le prochain élève. Peut-être que le
 professeur Quirrell imaginait le même effet placebo que Harry, la vague
 de vide caressant son esprit.
 
-« Anthony Goldstein, » dit la voix du directeur.
+« Anthony Goldstein », dit la voix du directeur.
 
 Harry marcha en silence vers Seamus tandis qu’Anthony commençait à
 s’approcher du phénix d’argent, et de… cette chose qui était sous la
@@ -394,10 +394,10 @@ De nombreux élèves n’avaient pas répondu à Harry lorsqu’il avait essayé
 d’obtenir des informations ; mais Seamus était Finnigan du Chaos, l’un
 des lieutenants de Harry. Peut-être que ce n’était pas juste mais…
 
-« Mort, » dit Seamus dans un souffle, « gris et gluant… mort et laissé dans
+« Mort », dit Seamus dans un souffle, « gris et gluant… mort et laissé dans
 l’eau un moment… »
 
-Harry hocha la tête. « C’est ce que beaucoup de gens voient, » dit Harry.
+Harry hocha la tête. « C’est ce que beaucoup de gens voient », dit Harry.
 Il exhibait de la confiance en lui, même si elle était fausse, parce que
 Seamus en avait besoin. « Vas manger du chocolat, tu te sentiras mieux. »
 
@@ -454,7 +454,7 @@ d’essayer de la détendre.
 Dumbledore avait un léger sourire en raccompagnant Anthony jusqu’aux
 autres ; léger seulement parce qu’il avait l’air très, très fatigué.
 
-« Incroyable, » dit Dumbledore d’une voix qui semblait bien faible
+« Incroyable », dit Dumbledore d’une voix qui semblait bien faible
 comparée à son coffre habituel. « Un Patronus corporel, sa première
 année. Et un nombre incroyable de succès chez les autres jeunes élèves.
 Quirinus, je dois reconnaître que tu avais raison. »
@@ -464,15 +464,15 @@ Un Détraqueur attaque par la peur, et les enfants ont moins peur. »
 
 « *Moins* peur ? » dit l’Auror Goryanof depuis son siège.
 
-« C’est ce que j’ai dit moi aussi, » dit Dumbledore. « Et le professeur
+« C’est ce que j’ai dit moi aussi », dit Dumbledore. « Et le professeur
 Quirrell a fait remarquer que les adultes ont plus de courage, pas moins
 de peur ; je dois avouer que cela ne m’avait jamais traversé l’esprit. »
 
-« Ce n’était pas ma formulation *exacte*, » dit le professeur Quirrell
+« Ce n’était pas ma formulation *exacte* », dit le professeur Quirrell
 d’une voix sèche, « mais cela suffira. Et pour le reste de notre accord,
 directeur ? »
 
-« Comme vous le voudrez, » dit Dumbledore avec réticence. « J’admets que je
+« Comme vous le voudrez », dit Dumbledore avec réticence. « J’admets que je
 ne m’attendais pas à perdre ce pari, Quirinus, mais tu as prouvé ta
 sagesse. »
 
@@ -494,10 +494,10 @@ au professeur Flitwick. »
 Dumbledore secoua la tête. « Nous en avons presque fini, Quirinus. Je
 tiendrai le coup. »
 
-Hermione s’approcha d’Antony. « Capitaine Goldstein, » dit-elle, et sa
+Hermione s’approcha d’Antony. « Capitaine Goldstein », dit-elle, et sa
 voix ne tremblait qu’un peu, « pourriez-vous me donner des conseils ? »
 
-« N’aies pas peur, » dit Anthony d’une voix ferme. « Ne penses à aucune des
+« N’aies pas peur », dit Anthony d’une voix ferme. « Ne penses à aucune des
 choses auxquelles il essaiera de te faire penser. Tu ne fais pas que
 tenir ta baguette devant toi comme un bouclier contre la peur, tu la
 *brandis* pour faire partir la peur, c’est comme ça que tu transformes
@@ -565,7 +565,7 @@ secondes, si l’on était assez sensible.
 Ses yeux semblèrent alors mettre au point et darder autour d’elle, puis
 il s’arrêtèrent sur Harry.
 
-« Harry, » hoqueta-t-elle, et les autres élèves étaient silencieux.
+« Harry », hoqueta-t-elle, et les autres élèves étaient silencieux.
 « Harry, non. *Non !* »
 
 Harry eut soudain peur de demander à quoi elle faisait référence,
@@ -584,7 +584,7 @@ professeur Quirrell veut que le Détraqueur te mange !* »
 
 Le professeur Quirrell s’avança de quelques pas avec un empressement
 soudain ; mais il ne vint ensuite pas plus près (Harry était là, après
-tout). « Mademoiselle Granger, » dit-il, la voix grave, « je pense que vous
+tout). « Mademoiselle Granger », dit-il, la voix grave, « je pense que vous
 devriez prendre plus de chocolat. »
 
 « *Professeur Flitwick, ne laissez pas Harry essayer, renvoyez-le !* »
@@ -592,30 +592,30 @@ devriez prendre plus de chocolat. »
 Le directeur était alors arrivé, et lui et le professeur Flitwick
 échangeaient des regards inquiets.
 
-« Je n’ai pas entendu le Détraqueur parler, » dit le directeur. « Mais
+« Je n’ai pas entendu le Détraqueur parler », dit le directeur. « Mais
 quand-même… »
 
-« Posez simplement la question, » dit le professeur Quirrell d’un ton un
+« Posez simplement la question », dit le professeur Quirrell d’un ton un
 peu las.
 
 « Le Détraqueur a-t-il dit *comment* il atteindrait Harry ? » dit le
 directeur.
 
-« Ses parties les plus goûteuses en premier, » dit Hermione, « il man- il
+« Ses parties les plus goûteuses en premier », dit Hermione, « il man- il
 mangerait… »
 
 Hermione cligna des yeux. De la folie sembla revenir dans ses yeux.
 
 Puis elle se mit à pleurer.
 
-« Vous avez été trop courageuse, Mlle Granger, » dit le directeur. Sa voix
+« Vous avez été trop courageuse, Mlle Granger », dit le directeur. Sa voix
 était aimable et clairement audible. « Bien plus brave que ce à quoi je
 m’attendais. Vous auriez dû vous détourner et courir, ne pas endurer
 cela et ne pas essayer d’achever votre sortilège. Lorsque vous serez
 plus âgée et plus forte, Mlle Granger, je sais que vous essaierez de
 nouveau et que vous réussirez. »
 
-« Je suis désolée, » dit Hermione entre deux hoquets, « je suis désolée, je
+« Je suis désolée », dit Hermione entre deux hoquets, « je suis désolée, je
 suis désolée, je suis désolée, … je suis désolée Harry, je ne peux pas
 te dire ce que j’ai vu, je n’ai pas regardé, je n’ai pas osé, je savais
 que c’était trop horrible pour être jamais vu… »
@@ -664,10 +664,10 @@ le directeur ? »
 
 Sèchement. « Nos pires souvenirs ne peuvent qu’empirer avec l’âge. »
 
-« Ah, » dit Harry. « Logique. »
+« Ah », dit Harry. « Logique. »
 
 Quelque chose d’étrange brilla dans les yeux du professeur Quirrell,
-puis, regardant Harry : « Espérons, » dit le professeur Quirrell, « que
+puis, regardant Harry : « Espérons », dit le professeur Quirrell, « que
 vous réussirez cet essai, M. Potter. Car si vous le faites, le directeur
 vous enseignera peut-être sa technique consistant à utiliser un Patronus
 pour envoyer des messages impossibles à falsifier et à intercepter, et
@@ -830,7 +830,7 @@ La main de Harry s’était levée dans le mouvement de brandissement final.
 
 Ça n’allait pas.
 
-« Expecto Patronum, » dit sa voix, les mots creux et vides de sens.
+« Expecto Patronum », dit sa voix, les mots creux et vides de sens.
 
 Et Harry tomba dans son côté obscur, tomba dans son côté obscur, plus
 loin et plus vite et plus profond que jamais, plus bas plus bas plus bas
@@ -925,7 +925,7 @@ Les autres enfants virent Harry tomber, ils l’entendirent crier, un fin
 cri haut perché qui sembla percer leurs oreilles, tel un couteau.
 
 Il y eut l’éclat d’argent et la voix du directeur qui mugissait
-« *Expecto Patronum !*, » et le phénix embrasé revint à la vie.
+« *Expecto Patronum !* », et le phénix embrasé revint à la vie.
 
 Mais l’horrible cri de Harry continua encore et encore, alors que le
 directeur prenait le garçon dans ses bras et qu’il le portait loin du
@@ -982,7 +982,7 @@ vide là où il avait gardé le Détraqueur.
 
 Horreur et confusion et bavardages soudains.
 
-« M. Potter devrait récupérer, » dit le professeur Quirrell, élevant sa
+« M. Potter devrait récupérer », dit le professeur Quirrell, élevant sa
 voix, mais son ton était à nouveau calme, « je pense que c’était juste un
 peu plus de vingt secondes. »
 
@@ -1028,7 +1028,7 @@ Granger, choisis juste l’endroit qui te correspond…*
 
 Il n’y avait pas assez de temps pour choisir, Harry était mourant.
 
-« Je ne peux pas m’en souvenir pour l’instant, » dit Hermione d’une voix
+« Je ne peux pas m’en souvenir pour l’instant », dit Hermione d’une voix
 qui se brisait, « mais attendez juste, je vais retourner voir le
 Détraqueur… »
 
@@ -1045,7 +1045,7 @@ militaire. « *Mettez vos Patronus hors de sa route !* »
 POTTER !* »
 
 Et, alors que Hermione comprenait, le professeur Flitwick criait déjà
-« *Accio !*, » et elle vit le bout de bois grandir en s’approchant depuis
+« *Accio !* », et elle vit le bout de bois grandir en s’approchant depuis
 l’endroit où il était tombé, où il avait presque touché la cage du
 Détraqueur.
 
@@ -1063,5 +1063,5 @@ Parle moi !* »
 Le visage de Albus Dumbledore se pencha jusqu’à entrer dans le champ de
 vision qui avait été précédemment occupé par un lointain toit de marbre.
 
-« Tu es énervant, » dit la voix vide. « Tu devrais mourir. »
+« Tu es énervant », dit la voix vide. « Tu devrais mourir. »
 

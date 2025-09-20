@@ -1,6 +1,6 @@
 # L’inconnu et l’inconnaissable
 
-« Entrez, » dit la voix étouffée du professeur McGonagall.
+« Entrez », dit la voix étouffée du professeur McGonagall.
 
 Harry s’exécuta.
 
@@ -51,7 +51,7 @@ mais puisqu’il était là…
 Le professeur McGonagall acheva un sort dans une langue qui semblait
 beaucoup plus vieille que le Latin, puis elle s’assit à nouveau.
 
-« Très bien, » dit-elle d’une voix basse. « Personne ne nous écoute. » Son
+« Très bien », dit-elle d’une voix basse. « Personne ne nous écoute. » Son
 visage était plutôt tendu.
 
 *Oh, c’est vrai, elle s’attend à ce que je la fasse chanter avec la
@@ -59,14 +59,14 @@ prophétie pour obtenir des informations.*
 
 Euh, Harry s’en occuperait un autre jour.
 
-« C’est à propos de l’Incident avec le Choixpeau magique, » dit Harry (le
+« C’est à propos de l’Incident avec le Choixpeau magique », dit Harry (le
 professeur McGonagall cligna des yeux). « Euh… je pense qu’un sort a été
 ajouté au Choixpeau magique sans qu’il s’en rende compte, quelque chose
 qui se déclenche quand le Choixpeau magique dit Serpentard. J’ai entendu
 un message et je suis plutôt certain que les Serdaigle ne sont pas
 censés l’entendre. Ça a eu lieu au moment où le Choixpeau a quitté ma
 tête et que j’ai senti la connexion se couper. Ça ressemblait à la fois
-à de l’anglais et à un sifflement, » il y eut une brusque inspiration
+à de l’anglais et à un sifflement », il y eut une brusque inspiration
 venant de McGonagall, « et ça disait : Salutations de Serpentard à
 Serpentard, si tu souhaites percer mes secrets, parle à mon serpent. »
 
@@ -77,17 +77,17 @@ comme si deux têtes supplémentaires venaient de lui pousser.
 pouvait croire aux mots qui s’échappaient de ses propres lèvres, « vous
 avez décidé de venir immédiatement m’en parler. »
 
-« Ben, oui, bien sûr, » dit Harry. Il n’y avait aucun besoin d’admettre le
+« Ben, oui, bien sûr », dit Harry. Il n’y avait aucun besoin d’admettre le
 temps qu’il avait mis à avoir eu cette idée. « Plutôt que de, disons,
 faire moi-même des recherches à ce sujet, ou de le dire à un des autres
 enfants. »
 
-« Je… vois, » dit le professeur McGonagall. « Et si, disons, vous
+« Je… vois », dit le professeur McGonagall. « Et si, disons, vous
 découvriez l’entrée de la légendaire Chambre des Secrets de Salazar
 Serpentard, une entrée que vous et vous seul pourriez ouvrir… »
 
 « Je fermerais l’entrée et vous en informerais afin qu’une équipe
-d’archéologues magiciens expérimentés puisse être mise sur pied, » dit
+d’archéologues magiciens expérimentés puisse être mise sur pied », dit
 immédiatement Harry. « Puis j’ouvrirais à nouveau l’entrée et ils
 entreraient en faisant bien attention à ce qu’il n’y ait rien de
 dangereux. Peut-être que je m’y rendrais plus tard pour jeter un coup
@@ -99,10 +99,10 @@ commencent à piétiner ce lieu historique inestimable. »
 Le professeur McGonagall resta assise là, bouche béé, regardant Harry
 comme s’il venait de se transformer en chat.
 
-« C’est évident quand on n’est pas un Gryffondor, » dit Harry avec
+« C’est évident quand on n’est pas un Gryffondor », dit Harry avec
 gentillesse.
 
-« Je pense, » dit le professeur McGonagall d’une voix plutôt étouffée,
+« Je pense », dit le professeur McGonagall d’une voix plutôt étouffée,
 « que vous sous-estimiez *grandement* la rareté du sens commun, M.
 Potter. »
 
@@ -118,7 +118,7 @@ oreilles. « Il a *vraiment* fait ça ? »
 
 « Oui. »
 
-« M. Potter, » dit McGonagall, et sa voix était maintenant très basse, « il
+« M. Potter », dit McGonagall, et sa voix était maintenant très basse, « il
 y a cinq décennies que pour la dernière fois un étudiant est mort entre
 les murs de Poudlard, et je suis maintenant certaine que c’est il y a
 cinq décennies que quelqu’un a entendu ce message pour la dernière
@@ -141,7 +141,7 @@ telle chose était possible. « Il n’est pas *possible* que je vous décerne
 suffisamment de points pour ceci sans vous décerner la Coupe des Quatre
 Maisons du même coup. »
 
-« Hmm, » dit Harry. « Hmm. Je préférerais ne pas gagner *autant* de points
+« Hmm », dit Harry. « Hmm. Je préférerais ne pas gagner *autant* de points
 que ça. »
 
 Le professeur McGonagall le regardait maintenant étrangement. « Pourquoi
@@ -168,7 +168,7 @@ gagner cinquante points pour avoir fait mention d’un murmure qu’il
 aurait entendu venir du Choixpeau magique ? Ce ne serait pas juste du
 tout. »
 
-« Je vois pourquoi le Choixpeau magique vous a proposé Poufsouffle, » dit
+« Je vois pourquoi le Choixpeau magique vous a proposé Poufsouffle », dit
 le professeur McGonagall. Elle le regardait avec un étrange respect.
 
 Harry avala de travers. Il avait honnêtement pensé qu’il n’était pas
@@ -187,7 +187,7 @@ magique et découvraient qui était mêlé à ça. Donc je pense que la
 meilleure preuve de bravoure, c’est le secret absolu. Pas besoin d’me
 remercier m’dame, la vertu est sa propre récompense. »
 
-« Ainsi soit-il, » dit le professeur McGonagall, « mais j’ai quelque chose
+« Ainsi soit-il », dit le professeur McGonagall, « mais j’ai quelque chose
 de très spécial à vous donner. Je vois que je je me suis trompée sur
 votre compte, M. Potter. Attendez ici s’il vous plaît. »
 
@@ -200,7 +200,7 @@ la porte derrière elle semblant n’avoir jamais été ouverte.
 Et le professeur McGonagall tenait en main un collier, une fine chaîne
 d’or portant en son centre un cercle d’argent, qui était l’armature d’un
 sablier. Dans son autre main se trouvait une brochure pliée. « C’est pour
-vous, » dit-elle.
+vous », dit-elle.
 
 Wow ! Il allait avoir un espèce de super objet magique comme récompense
 pour sa quête ! Apparemment, le truc de refuser les pièces d’or jusqu’à
@@ -219,7 +219,7 @@ la véritable nature de cet objet est *secrète* et que vous ne devez
 l’utilisez. Si vous ne jugez pas cela acceptable, alors vous pouvez me
 le rendre maintenant. »
 
-« Je sais garder des secrets, » dit Harry. « Alors qu’est-ce que ça fait ? »
+« Je sais garder des secrets », dit Harry. « Alors qu’est-ce que ça fait ? »
 
 « Du point de vue des autres élèves, ceci sera un Portillon tournant, qui
 est utilisé pour traiter une maladie magique rare et non contagieuse
@@ -263,7 +263,7 @@ dynamite ? Vous rendez-vous compte que je pèse moi-même 41 kilogrammes
 et que le souffle produit laisserait UN CRATÈRE GÉANT LÀ OÙ AVANT SE
 TROUVAIT L’ÉCOSSE ?*
 
-« Excusez-moi, » parvint à dire Harry, « mais ça a l’air vraiment vraiment
+« Excusez-moi », parvint à dire Harry, « mais ça a l’air vraiment vraiment
 *vraiment* *VRAIMENT DANGEREUX* ! » La voix de Harry ne devint pas tout à
 fait un hurlement, il lui aurait été absolument impossible de crier
 assez pour rendre justice à la situation, alors pas la peine d’essayer.
@@ -273,7 +273,7 @@ tolérance. « Je suis heureuse que vous preniez cela sérieusement, M.
 Potter, mais les Retourneurs de Temps ne sont pas *si dangereux que ça*.
 Autrement, nous n’en donnerions pas aux enfants. »
 
-« Vraiment, » dit Harry. « Ahahahaha. Bien sûr que vous ne donneriez pas de
+« Vraiment », dit Harry. « Ahahahaha. Bien sûr que vous ne donneriez pas de
 machine à remonter le temps à des enfants si c’était dangereux, mais à
 *quoi* pouvais-je bien penser ? Donc juste pour que tout soit bien
 clair, éternuer sur cet engin ne me renverra *pas* au Moyen-Âge où je
@@ -285,7 +285,7 @@ Les lèvres de McGonagall se tordaient comme elles le faisaient
 lorsqu’elle essayait de ne pas sourire. Elle offrit à Harry la brochure,
 mais Harry tenait précautionneusement le collier de ses deux mains et le
 gardait à l’œil pour s’assurer qu’il n’était pas sur le point de
-tourner. « Ne vous en faites pas, » dit McGonagall après une courte pause,
+tourner. « Ne vous en faites pas », dit McGonagall après une courte pause,
 une fois qu’il fut devenu clair que Harry ne comptait pas bouger, « il
 est impossible que cela arrive, M. Potter. Le Retourneur de Temps ne
 peut être utilisé pour revenir plus de six heures en arrière. Il ne peut
@@ -299,7 +299,7 @@ et ses occupants dans une boucle infinie de jeudis. »
 dire que d’étranges choses se passent s’ils sont cassés. Mais rien de
 *tel* ! »
 
-« Peut-être, » dit Harry lorsqu’il put à nouveau parler, « que vous devriez
+« Peut-être », dit Harry lorsqu’il put à nouveau parler, « que vous devriez
 poser une sorte de *coque protectrice* à vos machines à remonter dans le
 temps, plutôt que de *laisser le verre exposé*, pour *empêcher que ce
 genre de chose n’arrive*. »
@@ -310,7 +310,7 @@ informerai le Ministère. »
 *Ça y est, c’est officiel maintenant, ils l’ont ratifié au Parlement,
 tous les habitants du monde magique sont complètement stupides.*
 
-« Et bien que je déteste devenir tout à coup très *PHILOSOPHIQUE*, » Harry
+« Et bien que je déteste devenir tout à coup très *PHILOSOPHIQUE* », Harry
 essaya désespérément d’abaisser sa voix en-dessous du hurlement, « mais
 personne n’a-t-il pensé aux IMPLICATIONS de revenir six heures en
 arrière et de faire quelque chose qui change le temps, ce qui, en gros,
@@ -335,7 +335,7 @@ futur moi agisse en sachant déjà parfaitement tout ce qui, de mon point
 de vue, n’a pas encore eu lieu… » la voix de Harry resta en suspens face
 aux lacunes de la langue Anglaise.
 
-« Correct, je pense, » dit le professeur McGonagall. « bien que l’on
+« Correct, je pense », dit le professeur McGonagall. « bien que l’on
 conseille *en effet* aux sorciers d’éviter d’être vus par leur soi
 passés. Si, par exemple, vous assistiez à deux cours en même temps et
 que vous deviez vous croiser, la première version devrait se mettre sur
@@ -573,7 +573,7 @@ La note n’était pas signée
 
 
 
-« Attendez, » dit Harry, s’arrêtant net alors que les autres garçons
+« Attendez », dit Harry, s’arrêtant net alors que les autres garçons
 s’apprêtaient à quitter le dortoir des Serdaigle. « Désolé, il y a
 quelque chose d’autre dans ma malle dont j’ai besoin. Je vous rejoindrai
 pour le petit déjeuner dans quelques minutes. »
@@ -590,11 +590,11 @@ Grande Salle pour le petit déjeuner. »
 
 Terry fronça les sourcils. « Attends, est-ce que — »
 
-« Ne t’inquiète pas, » dit Pénélope Deauclaire, qui était là pour les
+« Ne t’inquiète pas », dit Pénélope Deauclaire, qui était là pour les
 guider. « Il n’y avait pas failles. Bien dit, Potter, tu devrais être
 avocat. »
 
-Harry Potter cligna des yeux. Ah, oui, *préfète* de Serdaigle. « Merci, »
+Harry Potter cligna des yeux. Ah, oui, *préfète* de Serdaigle. « Merci »,
 dit-il. « Je crois. »
 
 « Quand tu essaieras de trouver la Grand Salle, tu te perdras. » Pénélope
@@ -608,7 +608,7 @@ recherche. Sinon nous te reverrons trois mois plus tard et tu auras
 vieilli de deux ans et tu seras habillé d’un pagne et couvert de neige
 et ça c’est *si tu restes dans le château*. »
 
-« Compris, » dit Harry, avalant difficilement sa salive. « Euh, ne
+« Compris », dit Harry, avalant difficilement sa salive. « Euh, ne
 devriez-vous pas dire ce genre de choses aux élèves dès le début ? »
 
 Pénélope soupira. « Quoi, *toutes* ces choses ? Ça prendrait des
@@ -631,7 +631,7 @@ bourse de Harry-1, sachant qu’elle serait ainsi déjà dans la sienne.
 
 
 
-« Je vois bien que le message est destiné à Cornelion Flubberwalt, » dit
+« Je vois bien que le message est destiné à Cornelion Flubberwalt », dit
 le tableau d’un homme à l’air aristocratique et doté d’un nez à vrai
 dire parfaitement normal. « Mais pourrais-je connaître son *origine* ? »
 
@@ -662,7 +662,7 @@ Grande Salle. Il avait besoin d’arriver en Botanique un peu en avance.
 Le professeur Chourave regarda Harry avec sévérité. « Comment
 savez-*vous* ce que les Serpentard comptent faire ? »
 
-« Je ne peux nommer mes sources, » dit Harry. « En fait, je vais devoir
+« Je ne peux nommer mes sources », dit Harry. « En fait, je vais devoir
 vous demander de prétendre que cette conversation n’a jamais eu lieu.
 Faites simplement comme si vous les croisiez naturellement pendant que
 vous alliez quelque part, ou quelque chose de ce genre. J’irai en avance
@@ -677,7 +677,7 @@ Le professeur Chourave le regarda pendant un long moment, puis son
 expression s’adoucit. « Faites attention à vous, Harry Potter. Et…
 merci. »
 
-« Soyez sûre de ne pas être en retard, » dit Harry. « Et souvenez-vous,
+« Soyez sûre de ne pas être en retard », dit Harry. « Et souvenez-vous,
 quand vous arrivez là-bas, vous ne vous attendiez pas à me voir et cette
 conversation n’a jamais eu lieu. »
 
@@ -691,7 +691,7 @@ C’était horrible de se voir tirer Neville hors du cercle des Serpentard.
 Neville avait raison, il avait utilisé trop de force, beaucoup trop de
 force.
 
-« Bonjour, » dit Harry Potter froidement. « Je suis le Survivant. »
+« Bonjour », dit Harry Potter froidement. « Je suis le Survivant. »
 
 Huit garçons en première année, tous à peu près de la même taille. L’un
 d’eux avait une cicatrice sur le front et ne se comportait pas comme les

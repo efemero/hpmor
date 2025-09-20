@@ -30,7 +30,7 @@ dénoter une question. « Est-ce réel ? »
 Il n’arrivait pas à laisser ces mots passer ses lèvres, cela lui était
 impossible.
 
-« Je savais — que vous — viendriez pour moi — un jour, » lorsqu’elle
+« Je savais — que vous — viendriez pour moi — un jour », lorsqu’elle
 inspira l’air nécessaire à quelques sanglots silencieux, la voix de
 Bellatrix chevrota et se fractura. « Je savais — que vous étiez en vie -
 que vous viendriez — pour moi — seigneur… » il y eut une longue
@@ -47,11 +47,11 @@ Ténèbres et le tuer, juste pour cette…
 
 « Ai-je encore — une utilité pour vous — seigneur ? »
 
-« Non, » siffla la voix de Harry, sans même qu’il doive penser, elle
+« Non », siffla la voix de Harry, sans même qu’il doive penser, elle
 semblait être en pilote automatique « j’ai pénétré Azkaban par caprice.
 Bien sûr que vous m’êtes utile ! Ne posez pas de questions stupides. »
 
-« Mais — je suis faible, » dit la voix de Bellatrix, et un sanglot complet
+« Mais — je suis faible », dit la voix de Bellatrix, et un sanglot complet
 lui échappa, bien trop fort dans les couloirs d’Azkaban, « je ne peux pas
 tuer pour vous, seigneur, je suis désolée, ils ont tout mangé, ils m’ont
 dévorée, je suis trop faible pour me battre, quel intérêt ai-je pour
@@ -61,7 +61,7 @@ Le cerveau de Harry chercha désespérément une façon de la rassurer à
 travers les lèvres d’un Seigneur des Ténèbres qui ne prononcerait jamais
 un seul mot affectueux.
 
-« Laide, » dit Bellatrix. Sa voix prononça ce mot comme si ça avait été
+« Laide », dit Bellatrix. Sa voix prononça ce mot comme si ça avait été
 l’ultime clou dans son cercueil, son désespoir ultime. « Je suis laide,
 ils ont mangé ça aussi, je suis, je ne suis plus jolie, vous ne pourrez
 même, pas, m’utiliser, comme récompense, pour vos serviteurs — même les
@@ -89,7 +89,7 @@ maintenant… »
 Des mains géantes écrasaient la poitrine de Harry, le tordaient comme un
 chiffon, essayaient de broyer son cœur.
 
-« S’il vous plaît, » dit Bellatrix, « tuez-moi… » sa voix sembla se calmer
+« S’il vous plaît », dit Bellatrix, « tuez-moi… » sa voix sembla se calmer
 après qu’elle ait prononcé ces mots. « Seigneur, s’il vous plaît, tuez
 moi, je n’ai aucune raison de vivre si je ne peux vous être utile… je
 veux seulement que cela s’arrête… faites-moi mal une dernière fois,
@@ -187,26 +187,26 @@ espérait n’en avoir rien perdu — il aurait dû le savoir, il aurait dû
 souvenir que la simple magie n’était pas la seule chose qui alimentait
 le sortilège du Patronus -
 
-« Merci, Seigneur, » chuchota l’homme au teint cireux.
+« Merci, Seigneur », chuchota l’homme au teint cireux.
 
-« Idiot, » dit la dure voix d’un garçon qui prétendait être le Seigneur
+« Idiot », dit la dure voix d’un garçon qui prétendait être le Seigneur
 des Ténèbres. « Ne t’ai-je pas prévenu que le sortilège pouvait s’avérer
 fatal si tu échouais à contrôler tes émotions ? »
 
 Les yeux du professeur Quirrell ne s’écarquillèrent bien sûr pas.
 
-« Oui, Seigneur, je comprends, » dit le serviteur du Seigneur des Ténèbres
+« Oui, Seigneur, je comprends », dit le serviteur du Seigneur des Ténèbres
 d’une voix chancelante, et il se tourna alors vers Bellatrix -
 
 Elle se relevait déjà, lentement, comme une vieille femme Moldue. « Que
-c’est amusant, » chuchota Bellatrix, « tu as failli être tué par un
+c’est amusant », chuchota Bellatrix, « tu as failli être tué par un
 Patronus… ». Un gloussement, qui sembla souffler de la poussière hors de
 ses tuyaux à gloussement. « Je pourrais peut-être te punir, si mon
 Seigneur te figeait sur place et que j’avais des couteaux… peut-être que
 je peux être utile, après tout ? Oh, je me sens déjà un peu mieux, comme
 c’est étrange… »
 
-« Sois silencieuse, chère Bella, » dit Harry d’une voix froide, « jusqu’à
+« Sois silencieuse, chère Bella », dit Harry d’une voix froide, « jusqu’à
 ce que je t’octroie le droit de parler. »
 
 Il n’y eut pas de réponse, ce qui constituait de l’obéissance.
@@ -277,7 +277,7 @@ Si son sept de cœur se faisait avoir par un Modificateur Détraqueur et
 se faisait transformer en six, il descendait direct à deux paires et
 McCusker pourrait battre ça -
 
-« Mike, » dit McCusker, « qu’est-ce qu’il a, ton Patronus ? »
+« Mike », dit McCusker, « qu’est-ce qu’il a, ton Patronus ? »
 
 Li tourna la tête et regarda.
 
@@ -290,7 +290,7 @@ direction.
 
 Ils échangèrent des regards puis soupirèrent.
 
-« Je vais leur dire, » dit Bahry. Le protocole requérait que l’on envoie
+« Je vais leur dire », dit Bahry. Le protocole requérait que l’on envoie
 les trois Auror qui étaient de repos mais qui ne dormaient pas afin
 qu’ils inspecte tout anomalie. « Épargne peut-être l’un deux et prends la
 spirale C, si ça ne te dérange pas. »
@@ -376,7 +376,7 @@ Il y eut un léger son, comme un souffle ou une bourrasque, puis le corps
 invisible de Bellatrix qui venait se blottir quelques marches plus bas,
 elle n’aurait rien à faire hormis -
 
-« Ne bouge pas, » dit le chuchotement froid et aigu, « tais-toi. »
+« Ne bouge pas », dit le chuchotement froid et aigu, « tais-toi. »
 
 Puis il y eut silence et immobilité.
 
@@ -423,14 +423,14 @@ dos, si -
 
 Mais l’Auror s’arrêta après avoir fait trois pas dans le couloir.
 
-« Jolie désillusion, » dit une dure voix masculine que Harry ne reconnue
+« Jolie désillusion », dit une dure voix masculine que Harry ne reconnue
 pas. « Maintenant, montrez-vous ou vous aurez de *vrais* ennuis. »
 
 L’homme barbu au teint cireux devint alors visible.
 
-« Et vous, avec le Patronus, » dit la voix dure. « Sortez. *Maintenant.* »
+« Et vous, avec le Patronus », dit la voix dure. « Sortez. *Maintenant.* »
 
-« Ça ne serait pas malin, » dit la voix râpeuse de l’homme au teint
+« Ça ne serait pas malin », dit la voix râpeuse de l’homme au teint
 cireux. Ce n’était plus la voix terrifiée du serviteur du Seigneur des
 Ténèbres ; elle était soudain devenue l’intimidation professionnelle
 d’un criminel compétent. « Vous ne voulez pas voir la personne derrière
@@ -440,13 +440,13 @@ partez. De gros problèmes pour votre carrière sinon. »
 
 Il y eut une longue pause.
 
-« Écoutez, qui que vous soyez, » dit la voix dure. « Vous semblez mal
+« Écoutez, qui que vous soyez », dit la voix dure. « Vous semblez mal
 comprendre comment les choses fonctionnent. Je me fiche que ce soit
 Lucius Malefoy derrière vous, ou Albus Sacré Dumbledore. Vous sortez
 *tous*, je vous inspecte, et *alors* on discute de combien ça va vous
 coûter — »
 
-« Deux mille Gallions, dernière offre, » dit la voix râpeuse avec un ton
+« Deux mille Gallions, dernière offre », dit la voix râpeuse avec un ton
 d’avertissement. « C’est dix fois le prix habituel et plus que ce que
 vous gagnez en un an. Et croyez-moi, si vous voyez quelque chose que
 vous n’auriez pas dû voir, vous allez regretter de n’avoir pas accepté
@@ -475,7 +475,7 @@ baguette avait transplané dans sa main, et le sortilège d’étourdissement
 de Bahry étincelait docilement au bout de celle-ci, pas bloqué, pas
 contré, pas dévié, *saisi* comme une mouche dans du miel.
 
-« Mon offre est redescendue à cinq cent Gallions, » dit l’homme d’une voix
+« Mon offre est redescendue à cinq cent Gallions », dit l’homme d’une voix
 plus froide, plus formelle. Il avait un sourire sec, et ce sourire ne
 collait pas au visage barbu. « Et vous devrez accepter un sortilège
 d’Oubliettes. »
@@ -495,13 +495,13 @@ s’il s’était agi d’un casse-tête pour enfant.
 
 Il n’avait levé aucun bouclier.
 
-« Dites-moi, » dit-il d’une voix désintéressée qui n’allait pas tout à
+« Dites-moi », dit-il d’une voix désintéressée qui n’allait pas tout à
 fait à la gorge râpeuse — Polynectar, se serait dit Bahry s’il avait
 pensé que quiconque pouvait pratiquer la magie à un degré si délicat
 depuis l’intérieur du corps d’un autre — « qu’avez-vous fait pendant la
 dernière guerre ? Fait face au danger, ou planqué ? »
 
-« Face au danger, » dit Bahry. Sa voix garda le calme d’acier d’un Auror
+« Face au danger », dit Bahry. Sa voix garda le calme d’acier d’un Auror
 en service depuis presque cent ans et à sept mois de la retraite.
 Maugrey Fol-Œil ne l’aurait pas dit avec plus de conviction.
 
@@ -530,7 +530,7 @@ Le miroir était terne et sans vie dans la main de Bahry. Il le remit
 lentement à sa ceinture.
 
 « Voilà longtemps que je n’ai pas eu un combat sérieux face à un opposant
-sérieux, » dit l’homme, ne regardant toujours pas Bahry. « Essayez de ne
+sérieux », dit l’homme, ne regardant toujours pas Bahry. « Essayez de ne
 pas trop me décevoir. Vous pouvez attaquer quand vous voulez. Ou vous
 pouvez repartir avec cinq cent Gallions. »
 
@@ -580,11 +580,11 @@ Et Harry vit que la forme polynectarée du professeur Quirrell pointait
 délibérément sa baguette vers l’Auror agenouillé, qui vivait les
 derniers instants de son combat.
 
-« Rendez-vous, » dit la voix râpeuse.
+« Rendez-vous », dit la voix râpeuse.
 
 L’Auror cracha des mots indicibles.
 
-« Dans ce cas, » dit la voix, « *Avada -* »
+« Dans ce cas », dit la voix, « *Avada -* »
 
 Le temps sembla avancer très lentement, comme s’il y avait le temps
 d’entendre les syllabes individuelles, *Ke*, et *Da*, et *Vra*, le temps
@@ -675,7 +675,7 @@ dissiper.
 Bahry inspira profondément, lourdement, stabilisa sa respiration autant
 qu’il le pouvait avant de parler.
 
-« Vous, » dit Bahry. « Qui que vous soyez. Sortez. »
+« Vous », dit Bahry. « Qui que vous soyez. Sortez. »
 
 Il y eut un silence, et l’idée vint à Bahry que cette personne était
 peut-être inconsciente. Il ne comprenait pas ce qui venait de se passer,
@@ -683,16 +683,16 @@ mais il avait entendu le cri…
 
 Eh bien, il y avait un moyen de tester ça.
 
-« Sortez, » dit Bahry d’une voix plus dure, « ou j’utiliserai des
+« Sortez », dit Bahry d’une voix plus dure, « ou j’utiliserai des
 sortilèges à large zone d’effet. » Il n’y serait probablement pas
 parvenu.
 
-« Attendez, » dit la voix d’un garçon, d’un *jeune* garçon, haute,
+« Attendez », dit la voix d’un garçon, d’un *jeune* garçon, haute,
 fluette, fluctuante, comme si elle retenait de l’épuisement ou des
 larmes. La voix semblait maintenant venir d’un peu plus près. « Attendez
 s’il vous plaît. Je — sors — »
 
-« Laissez tomber l’invisibilité, » gronda Bahry. Il était trop fatigué
+« Laissez tomber l’invisibilité », gronda Bahry. Il était trop fatigué
 pour s’embêter avec des sortilèges anti-Désillusion.
 
 Un instant plus tard, le visage d’un jeune garçon émergea d’une cape
@@ -703,7 +703,7 @@ S’il avait eu vingt ans d’expérience de moins il aurait peut-être cillé.
 Au lieu de cela, il cracha quelque chose qu’il n’aurait probablement pas
 dû dire face au Survivant.
 
-« Il, il, » dit la voix vacillante du garçon, son jeune visage exprimait
+« Il, il », dit la voix vacillante du garçon, son jeune visage exprimait
 la frayeur, la fatigue, et des larmes coulaient encore le long de ses
 joues, « il m’a kidnappé, pour me faire lancer mon Patronus… il a dit
 qu’il me tuerait sinon… mais je ne pouvais pas le laisser vous tuer… »
@@ -716,7 +716,7 @@ la Mort. Bahry aurait peut-être pu éviter la mort verte, il avait
 certainement essayé, mais si l’affaire se retrouvait face au Magenmagot,
 ils décréteraient une dette de vie envers une maison Noble.
 
-« Je vois, » dit Bahry d’un grondement bien plus amical. Il commença à
+« Je vois », dit Bahry d’un grondement bien plus amical. Il commença à
 marcher vers le garçon. « Fiston, je suis désolé que tout ça te soit
 arrivé, mais j’ai besoin que tu lâches ta cape et ta baguette. »
 
@@ -725,9 +725,9 @@ revers bleu de Poudlard, imbibées de sueur, et sa main droite serrée si
 fort autour d’une baguette de houx de trente centimètres que ses
 jointures en étaient blanches.
 
-« Ta baguette, » répéta Bahry.
+« Ta baguette », répéta Bahry.
 
-« Pardon, » chuchota le garçon de onze ans, « voilà, » et il tendit la
+« Pardon », chuchota le garçon de onze ans, « voilà », et il tendit la
 baguette vers Bahry.
 
 Bahry parvint à peine s’empêcher de gronder contre le garçon traumatisé
@@ -752,7 +752,7 @@ de triomphe, seulement un désespoir écrasant.
 Harry se tourna pour regarder l’endroit où le serpent vert se trouvait,
 toujours immobile.
 
-« *Professeur ?*, » siffla Harry. « *Ami ? Ss’il vous plaît, êtess-vouss en
+« *Professeur ?* », siffla Harry. « *Ami ? Ss’il vous plaît, êtess-vouss en
 vie ?* » Une horrible peur se saisissait du cœur de Harry ; en cet
 instant, il avait entièrement oublié qu’il venait de voir le professeur
 de Défense essayer de tuer un officier de police.

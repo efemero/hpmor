@@ -7,7 +7,7 @@ de prendre la parole.
 La voix du professeur de Défense était très calme, et cela perturbait
 Harry bien plus que si le professeur Quirrell n’avait crié.
 
-« J’essaie, » dit doucement le professeur Quirrell, « de me montrer
+« J’essaie », dit doucement le professeur Quirrell, « de me montrer
 indulgent en raison de votre jeunesse. Du fait que j’étais moi-même, à
 votre âge, un extraordinaire idiot. Vous parlez comme un adulte, vous
 vous mêlez de jeux adultes, et j’oublie parfois que vous n’êtes qu’une
@@ -24,7 +24,7 @@ désagréables, ont prit leur nom de *fasces*, un ensemble de morceaux de
 bois liés ensembles, pour symboliser l’idée que l’unité est la force — »
 
 « Alors les vilains fascistes Italiens croyaient que l’unité est plus
-forte que la division, » dit le professeur Quirrell. La dureté commençait
+forte que la division », dit le professeur Quirrell. La dureté commençait
 à poindre dans sa voix. « Peut-être qu’ils croyaient aussi que le ciel
 est bleu et qu’ils acceptaient l’idée selon laquelle il est néfaste de
 se faire tomber des rochers sur la tête. »
@@ -39,7 +39,7 @@ porter la Marque d’un dictateur ! C’est un point unique de défaillance 
 Imperius à celui qui contrôle la Marque — »
 
 « Les puissants sorciers ne sont pas si simples à soumettre à
-l’Imperius, » dit sèchement le professeur Quirrell. « Et si vous ne pouvez
+l’Imperius », dit sèchement le professeur Quirrell. « Et si vous ne pouvez
 pas trouver un chef de valeur, alors vous êtes de toute façon foutus.
 Mais les chefs de valeur existent, la question est de savoir si les gens
 les suivront. »
@@ -50,7 +50,7 @@ la chute du troisième Reich* au professeur Quirrell puis recommencer la
 conversation. « J’imagine que si je suggérais que la démocratie est une
 meilleure forme de gouvernement que la dictature — »
 
-« Je vois, » dit le professeur Quirrell. Il ferma brièvement les yeux,
+« Je vois », dit le professeur Quirrell. Il ferma brièvement les yeux,
 puis les rouvrit. « M. Potter, la stupidité du Quidditch vous est limpide
 parce que vous n’avez pas grandi en vénérant ce jeu. Si vous n’aviez
 jamais entendu parler d’élections, M. Potter, et que vous pouviez
@@ -86,13 +86,13 @@ autre. *Si* vous survivez, M. Potter, ce que vous ne ferez *pas* à moins
 d’abandonner les enthousiastes illusions de l’enfance ! »
 
 « Si vous pensez qu’il n’y a aucun danger dans la ligne de conduite que
-vous soutenez, » dit Harry, sa voix devenait tranchante en dépit de ses
+vous soutenez », dit Harry, sa voix devenait tranchante en dépit de ses
 efforts, « alors cela est aussi de l’enthousiasme puéril. »
 
 Harry regarda sombrement dans les yeux du professeur Quirrell, qui le
 fixa en retour sans ciller.
 
-« De tels dangers, » dit froidement le professeur Quirrell, « doivent être
+« De tels dangers », dit froidement le professeur Quirrell, « doivent être
 étudiés dans des bureaux tels que celui-ci, pas dans des discours. Les
 idiots qui ont élu Cornelius Fudge ne s’intéressent pas aux complexités
 et à la prudence. Présentez leur quelque chose de plus nuancé qu’une
@@ -102,12 +102,12 @@ n’aurait pas faite à huit ans. Cela aurait dû être évident, même pour
 *vous*, que vous auriez dû rester silencieux et *me consulter avant* au
 lieu de mentionner vos inquiétudes devant la foule ! »
 
-« Je ne suis certainement pas un ami d’Albus Dumbledore, » dit Harry, un
+« Je ne suis certainement pas un ami d’Albus Dumbledore », dit Harry, un
 froid dans sa voix en réponse à celui du professeur Quirrell. « Mais il
 n’est pas un enfant, et il ne semblait pas trouver mes inquiétudes
 puériles, ni que j’aurais dû attendre avant d’en parler. »
 
-« Oh, » dit le professeur Quirrell, « alors vous vous faites souffler la
+« Oh », dit le professeur Quirrell, « alors vous vous faites souffler la
 réplique par le directeur, maintenant ? » et il se leva.
 
 
@@ -119,14 +119,14 @@ réplique par le directeur, maintenant ? » et il se leva.
 Lorsque Blaise passa l’angle, en chemin vers le bureau, il vit que le
 professeur Quirrell était déjà là, appuyé contre le mur.
 
-« Blaise Zabini, » dit le professeur de Défense en se redressant ; ses
+« Blaise Zabini », dit le professeur de Défense en se redressant ; ses
 yeux étaient incrustés dans son visage tels deux pierres noires, et sa
 voix envoya un frisson de peur le long de la colonne vertébrale de
 Blaise.
 
 *Il ne peut rien contre moi, je dois juste me souvenir que -*
 
-« Je crois, » dit le professeur Quirrell, d’une voix claire et forte,
+« Je crois », dit le professeur Quirrell, d’une voix claire et forte,
 « avoir déjà deviné le nom de votre employeur. Mais j’aimerais l’entendre
 de vos lèvres, et aussi entendre le prix qui vous a acheté. »
 
@@ -147,7 +147,7 @@ Dumbledore. Et il me protégera si vous essayez de faire quelque chose. »
 « En effet. Dites-moi le prix. » Le regard du professeur de Défense était
 toujours dur.
 
-« C’est ma cousine Kimberly, » dit Blaise, déglutissant de nouveau et
+« C’est ma cousine Kimberly », dit Blaise, déglutissant de nouveau et
 essayant de contrôler sa voix. « Elle existe, et elle se fait vraiment
 martyriser, Potter a vérifié ça, il n’était pas stupide. Seulement
 Dumbledore a dit qu’il avait un peu poussé les brutes à le faire, juste
@@ -157,21 +157,21 @@ plus d’ennuis ! »
 
 Le professeur Quirrell resta silencieux un long moment.
 
-« Je vois, » dit le professeur Quirrell, sa voix maintenant plus douce.
+« Je vois », dit le professeur Quirrell, sa voix maintenant plus douce.
 « M. Zabini, si un tel événement devait de nouveau survenir, je vous
 invite à me contacter directement. J’ai mes propres moyens de protéger
 mes amis. Maintenant, une dernière question : même avec tout le pouvoir
 que vous aviez, forcer une égalité aurait été difficile. Qui Dumbledore
 vous a-t-il ordonné de faire gagner le cas échéant ? »
 
-« Soleil, » dit Blaise.
+« Soleil », dit Blaise.
 
 Le professeur Quirrell hocha la tête. « Comme je le pensais. » Le
 professeur de Défense soupira. « Dans votre carrière future, M. Zabini,
 je vous suggère de ne pas vous essayer à des intrigues aussi complexes.
 Elles ont tendance à échouer. »
 
-« Euh, en fait, j’ai dit ça au directeur, » dit Blaise, « et il a dit que
+« Euh, en fait, j’ai dit ça au directeur », dit Blaise, « et il a dit que
 c’était pour ça qu’il était important d’avoir plus d’une intrigue en
 cours à la fois. »
 
@@ -199,7 +199,7 @@ Harry arracha la Cape d’Invisibilité de sa tête et la fourra dans sa
 bourse. Il tremblait d’une rage telle qu’il pouvait à peine parler. « Il
 a *quoi* ? Il a fait *quoi* ? »
 
-« Vous auriez dû le déduire vous-même, M. Potter, » dit doucement le
+« Vous auriez dû le déduire vous-même, M. Potter », dit doucement le
 professeur Quirrell. « Vous devez apprendre à brouiller votre vision
 jusqu’à réussir à voir la forêt masquée par les arbres. Toute personne
 entendant des histoires à votre sujet et ne sachant pas que vous étiez
@@ -350,7 +350,7 @@ la moindre trace de doute.
 Blaise avançait dans les couloirs avec une lenteur composée et attentive
 tandis que son cœur battait follement et qu’il essayait de le calmer -
 
-« Ahem, » dit une voix sèche et chuchotante depuis une alcôve ombragée
+« Ahem », dit une voix sèche et chuchotante depuis une alcôve ombragée
 devant laquelle il passait.
 
 Blaise fit un bond mais ne cria pas.
@@ -364,15 +364,15 @@ trouvait un chapeau noir aux larges rebords, et un nuage noir semblait
 s’amonceler en-dessous, cachant le visage de celui ou de ce qui se
 trouvait derrière.
 
-« Votre rapport, » chuchota M. Chapeau et Cape.
+« Votre rapport », chuchota M. Chapeau et Cape.
 
-« J’ai dit exactement ce que vous m’aviez dit de dire, » dit Blaise. Sa
+« J’ai dit exactement ce que vous m’aviez dit de dire », dit Blaise. Sa
 voix était un peu plus calme maintenant qu’il n’était plus en train de
 mentir à quelqu’un. « Et le professeur Quirrell a réagit exactement de la
 façon dont vous vous y attendiez. »
 
 Le large chapeau noir s’était incliné et redressé, comme si la tête
-en-dessous avait opiné. « Excellent, » dit le chuchotement impossible à
+en-dessous avait opiné. « Excellent », dit le chuchotement impossible à
 attribuer à qui que ce soit de connu. « La récompense que je t’ai promise
 est déjà en chemin vers ta mère, par chouette. »
 
@@ -392,11 +392,11 @@ Le large chapeau noir s’inclina d’un côté, comme pour exprimer un regard
 interloqué. « Dis moi, ami Blaise, t’est-il venu à l’esprit que les
 traîtres qui trahissent autant rencontrent souvent de funestes fins ? »
 
-« Nan, » dit Blaise, regardant droit vers le nuage noir sous le chapeau.
+« Nan », dit Blaise, regardant droit vers le nuage noir sous le chapeau.
 « Tout le monde sait qu’il n’arrive jamais rien de *vraiment* mauvais aux
 élèves dans l’enceinte de Poudlard. »
 
-M. Chapeau et Cape chuchota un gloussement. « En effet, » dit le
+M. Chapeau et Cape chuchota un gloussement. « En effet », dit le
 chuchotement. « Avec le meurtre d’un élève voilà cinq décennies comme
 exception pour prouver la règle, puisque Salazar Serpentard aurait mit
 son monstre sous clé dans les anciens murs à un niveau plus élevé que
@@ -409,11 +409,11 @@ d’alarme. Quirrell et Rogue étaient les seuls professeurs qui pourraient
 faire une chose pareille, et Quirrell n’aurait aucun intérêt à se duper
 *lui-même*, et Rogue ne ferait pas de mal à un de ses Serpentard… non ?
 
-« Non, ami Blaise, » chuchota le nuage noir, « je souhaitais seulement te
+« Non, ami Blaise », chuchota le nuage noir, « je souhaitais seulement te
 conseiller de ne jamais rien tenter de tel dans ta vie adulte. Tant de
 trahisons mèneraient certainement à au moins une vengeance. »
 
-« Ma *mère* n’a jamais subit de vengeance, » dit fièrement Blaise. « Même
+« Ma *mère* n’a jamais subit de vengeance », dit fièrement Blaise. « Même
 si elle a épousé *sept* maris et que chacun d’eux est mort
 mystérieusement en lui laissant beaucoup d’argent ; »
 
@@ -421,7 +421,7 @@ mystérieusement en lui laissant beaucoup d’argent ; »
 de l’épouser après qu’il ait entendu ce qui était arrivé aux six
 autres ? »
 
-« J’ai demandé à maman, » dit Blaise,« et elle a dit que je ne pourrais
+« J’ai demandé à maman », dit Blaise,« et elle a dit que je ne pourrais
 pas savoir avant d’être assez vieux, et je lui ai demandé à quel âge je
 serais assez vieux, et elle a dit, plus vieux qu’elle. »
 
@@ -483,11 +483,11 @@ pouvait pas s’imaginer avoir peur.
 
 « Qu’êtes-vous ? » dit Hermione.
 
-« C’est un message du professeur McGonagall, » dit le chat, toujours de la
+« C’est un message du professeur McGonagall », dit le chat, toujours de la
 voix du professeur. « Peux-tu te rendre dans mon bureau et ne parler de
 ceci à personne ? »
 
-« J’arrive tout de suite, » dit Hermione, encore surprise, et le chat
+« J’arrive tout de suite », dit Hermione, encore surprise, et le chat
 bondit et disparu ; seulement il ne disparut pas, il s’en fut ; du moins
 c’est ce que son esprit lui dit, même si ses yeux venaient de le voir
 disparaître.
@@ -505,7 +505,7 @@ McGonagall, elle s’était toujours demandé quel genre de travail les
 adultes devaient accomplir pour faire fonctionner l’école et s’ils
 pourraient avoir besoin de son aide…
 
-« Mlle Granger, » dit le professeur McGonagall, « laissez-moi commencer par
+« Mlle Granger », dit le professeur McGonagall, « laissez-moi commencer par
 vous dire que je sais déjà que le directeur vous a demandé de faire ce
 vœu — »
 
@@ -526,7 +526,7 @@ d’être Serpentard. »
 
 Cela fit *vraiment* mal.
 
-« Très bien, » dit Hermione d’un ton quelque peu acerbe, « j’irai demander
+« Très bien », dit Hermione d’un ton quelque peu acerbe, « j’irai demander
 des leçons de Serpentard à Harry Potter, alors. »
 
 « Ce n’*est pas* ce que je voulais… » dit le professeur McGonagall, et
@@ -551,7 +551,7 @@ jeunes élèves, Mlle Granger, ou il ne prend pas assez de précautions
 pour qu’ils ne souffrent pas. C’est un homme bon, mais parfois ses
 intrigues peuvent aller trop loin. »
 
-« Mais il est *bon* pour un élève d’avoir de la force et du courage, » dit
+« Mais il est *bon* pour un élève d’avoir de la force et du courage », dit
 Hermione. « C’est pour cela que vous m’avez suggéré Gryffondor, n’est-ce
 pas ? »
 
@@ -559,7 +559,7 @@ Le professeur McGonagall eut un sourire sarcastique. « Peut-être que
 j’étais simplement égoïste, que je vous voulais pour ma Maison. Le
 Choixpeau vous a-t-il offert — non, je n’aurais pas dû vous demander. »
 
-« Il m’a dit que je pouvais aller partout sauf à Serpentard, » dit
+« Il m’a dit que je pouvais aller partout sauf à Serpentard », dit
 Hermione. Elle avait *failli* demander pourquoi elle n’était pas assez
 bonne pour Serpentard avant de réussir à s’en empêcher… « Alors *j’ai* du
 courage, professeur ! »
@@ -576,10 +576,10 @@ Hermione ne savait tout simplement pas quoi répondre à cela. Mais l’idée
 lui vint que le professeur McGonagall ne l’aurait peut-être pas mise en
 garde si elle avait été un garçon à Gryffondor et pas une fille à
 Serdaigle, et *ça*, c’était, eh bien… « J’essaierai d’être quelqu’un de
-bien, » dit-elle, « et je ne laisserai personne me dire de ne pas l’être. »
+bien », dit-elle, « et je ne laisserai personne me dire de ne pas l’être. »
 
 Le professeur McGonagall se comprima les mains sur les yeux. Lorsqu’elle
-les enleva, son visage ridé semblait très vieux. « Oui, » dit-elle dans un
+les enleva, son visage ridé semblait très vieux. « Oui », dit-elle dans un
 souffle, « vous auriez bien réussi dans ma Maison. Soyez prudente, Mlle
 Granger. Et si vous êtes jamais inquiète ou mal à l’aise au sujet de
 quoi que ce soit, venez me voir immédiatement. Je ne vous retiendrai pas
@@ -602,11 +602,11 @@ moins quand le *maudit imbécile* qui refusait de laisser ses livres
 sortir de son champ de vision parvenait à se la *fermer* et à laisser
 Drago se *concentrer* -
 
-« Hermione Granger est une *Sang-de-Bouuurbe*, » chanta Harry Potter
+« Hermione Granger est une *Sang-de-Bouuurbe* », chanta Harry Potter
 depuis un bureau non loin de celui de Drago, lisant lui-même un livre
 beaucoup plus pointu.
 
-« Je sais ce que tu essaies de faire, » dit calmement Drago sans lever les
+« Je sais ce que tu essaies de faire », dit calmement Drago sans lever les
 yeux de son livre. « Ça ne va pas marcher. On va quand même s’allier et
 t’écraser. »
 
@@ -636,7 +636,7 @@ Harry ne répondit rien, alors Drago leva les yeux de son livre et sentit
 un tiraillement de satisfaction malsaine à la vue de l’air triste sur le
 visage de Harry.
 
-« Hmm, » dit Harry. « Beaucoup de gens m’ont demandé ça, mais je ne pense
+« Hmm », dit Harry. « Beaucoup de gens m’ont demandé ça, mais je ne pense
 pas que le professeur Quirrell aurait voulu que j’en parle. »
 
 Drago se donna un air sérieux. « Tu peux m’en parler à *moi*. Ce n’est
@@ -644,7 +644,7 @@ probablement pas important comparé aux autres secrets que tu m’as
 révélés, et à quoi d’autres les amis servent-ils ? » *C’est ça, je suis
 ton ami ! Sens-toi coupable !*
 
-« Ce n’était vraiment pas si intéressant que ça, » dit Harry avec une
+« Ce n’était vraiment pas si intéressant que ça », dit Harry avec une
 légèreté évidemment artificielle. « Juste, *je souhaite que le professeur
 Quirrell enseigne la magie de bataille l’année prochaine*. »
 

@@ -29,7 +29,7 @@ s’ouvrirent grand, ses lèvres aspirèrent l’oxygène dans une grande
 bouffée, ses poumons lui semblèrent lourds comme si un immense poids
 était posé sur sa poitrine. À côté d’elle, Hannah se relevait déjà, la
 tête entre les mains, grimaçante. Daphné les avait prévenues que ce
-serait un combat « difficile, » ce qui avait suscité une certaine
+serait un combat « difficile », ce qui avait suscité une certaine
 trépidation chez Hermione, et d’ailleurs chez toutes les filles. Sauf
 peut-être chez Susan qui était arrivée à l’heure dite du rendez-vous,
 avait marché à côté d’elles sans parler et avait combattu la brute de
@@ -104,7 +104,7 @@ professeur Quirrell).
 
 
 
-« Professeur Quirrell, » dit Harry, « la haine que la maison Serpentard
+« Professeur Quirrell », dit Harry, « la haine que la maison Serpentard
 développe à l’encontre de Hermione Granger m’inquiète. »
 
 Ils étaient assis dans le bureau du professeur de Défense, Harry assis
@@ -119,7 +119,7 @@ façon dont il s’était mis à réfléchir ces derniers temps.
 « Et ceci me concerne pour quelle raison ? » dit le professeur Quirrell en
 sirotant son thé.
 
-« Oui, eh bien, » dit Harry, « je vais juste fermer les yeux sur — oh,
+« Oui, eh bien », dit Harry, « je vais juste fermer les yeux sur — oh,
 professeur Quirrell, arrêtez ça, *vous* avez comploté pour rétablir la
 réputation de Serpentard depuis au moins le premier vendredi de cette
 année. »
@@ -153,7 +153,7 @@ Harry sirota son thé.
 
 « Ah… » dit Harry. « Professeur Quirrell… aidez-moi ? »
 
-« J’ai déjà offert mon aide à Mlle Granger, » dit le professeur Quirrell,
+« J’ai déjà offert mon aide à Mlle Granger », dit le professeur Quirrell,
 « dès que j’ai prévu ce qui allait se produire. Mon élève m’a dit en
 termes polis de ne pas me mêler de ses affaires. Et je m’attend à ce
 qu’elle vous dise la même chose. Comme je n’ai que peu à gagner ou à
@@ -230,12 +230,12 @@ autour des bordures jaunes de ses robes de sorcière. « Je me demande
 pourquoi. Peut-être que je ne voulais pas que Hannah se fasse des idées.
 Loyauté Poufsouffle, tout ça. »
 
-« Si tu ne pars pas, » dit le général Soleil, « j’ordonnerai une annulation
+« Si tu ne pars pas », dit le général Soleil, « j’ordonnerai une annulation
 de la mission et nous retournons *toutes* à nos devoirs, Mlle Bones ! »
 
 « *Hé !* » dit Lavande. « On n’a pas voté pour — »
 
-« Ça me va, » dit Susan, qui regardait fixement l’autre bout du couloir,
+« Ça me va », dit Susan, qui regardait fixement l’autre bout du couloir,
 là où il débouchait sur la grande pièce dallées où on leur avait dit
 qu’elles trouveraient la brute. « Je resterai là toute seule alors. »
 
@@ -245,7 +245,7 @@ vraiment terribles, atroces, pas bien, extrêmement mauvaises se
 produiront. Et alors ça aura lieu quand même.*… « Pourquoi est-ce que tu
 fais ça ? »
 
-« Ça ne me ressemble pas, » dit Susan. « Je sais. Mais — » elle haussa les
+« Ça ne me ressemble pas », dit Susan. « Je sais. Mais — » elle haussa les
 épaules. « Les gens ne se ressemblent pas tout le temps, tu sais. »
 
 Elle plaidèrent.
@@ -258,7 +258,7 @@ Daphné pleurait presque, elle continuait à se demander si elle était la
 *cause* de tout cela, si essayer de changer le destin avait *empiré* les
 choses -
 
-« Daphné, » dit Hermione d’une voix plus aiguë que d’habitude, « vas
+« Daphné », dit Hermione d’une voix plus aiguë que d’habitude, « vas
 chercher un professeur. Cours. »
 
 Daphné pivota sur ses talons et partit à toute vitesse vers l’autre bout
@@ -269,7 +269,7 @@ peux pas… »
 
 « *Quoi ?* » dit Hermione.
 
-« Parfois ça devient pire quand on essaie de lutter, » dit Daphné. C’était
+« Parfois ça devient pire quand on essaie de lutter », dit Daphné. C’était
 ce qui arrivait parfois dans les pièces.
 
 Hermione la regarda fixement puis dit : « Padma. »
@@ -279,7 +279,7 @@ sachant que Padma ne courait pas aussi vite qu’elle, se demandant à
 présent si cela s’avérerait peut-être être la *seule* raison pour
 laquelle l’aide allait arriver trop tard…
 
-« Les brutes sont là, » dit Susan d’un ton laconique. « Oh, elles ont un
+« Les brutes sont là », dit Susan d’un ton laconique. « Oh, elles ont un
 otage. »
 
 Elles tournoyèrent de concert, regardèrent, et virent -
@@ -325,10 +325,10 @@ nous vous avons toutes eues — même si j’imagine que l’autre Serdaigle
 cache dans un coin ou est accrochée quelque part au plafond ? Eh bien,
 peu importe. Ceci est votre — »
 
-« Assez parlé, » dit Robert Jugson III, « c’est l’heure d’avoir mal, » et il
+« Assez parlé », dit Robert Jugson III, « c’est l’heure d’avoir mal », et il
 leva sa baguette : « *Cluthe !* »
 
-Susan leva immédiatement la sienne, dit : « *Prismatis !*, » et une petite
+Susan leva immédiatement la sienne, dit : « *Prismatis !* », et une petite
 sphère arc-en-ciel apparut en l’air presque au même instant, une
 barrière si dense et lumineuse qu’elle demeura intacte même lorsque le
 sortilège de Jugson la frappa et rebondit vers Belka dont la baguette
@@ -342,19 +342,19 @@ n’avait jamais pensé à utiliser une sphère prismatique comme *ça* -
 « Je pensais qu’on en avait parlé. D’abord on les bat, *ensuite* on
 joue. »
 
-« S-s’il vous plaît, » dit Hermione Granger d’une voix défaillante,
+« S-s’il vous plaît », dit Hermione Granger d’une voix défaillante,
 « laissez-les partir — je, je, je promets que je — »
 
-« Oh, vraiment, » dit Lee avec agacement. « Es-tu sur le point de proposer
+« Oh, vraiment », dit Lee avec agacement. « Es-tu sur le point de proposer
 de te rendre si on les laisse partir ? On vous a déjà *toutes*, tu
 sais. »
 
-Jugson sourit alors. « Ça pourrait être amusant, » dit le Mangemort de
+Jugson sourit alors. « Ça pourrait être amusant », dit le Mangemort de
 sixième année d’un ton à la fois doux et menaçant. « Et si tu léchais mes
 chaussures, Sang-de-Bourbe, pour qu’*une* de tes amies puisse partir ?
 Choisis celle que tu aimes le plus, les autres souffriront. »
 
-« Nan, » dit la jeune voix de Susan Bones, « aucune chance que ça arrive, »
+« Nan », dit la jeune voix de Susan Bones, « aucune chance que ça arrive »,
 et d’un geste trop rapide pour être ne serait-ce que suivi du regard, la
 Poufsouffle se jeta sur le côté au moment même où un tir
 d’étourdissement pourpre fusait de la baguette de Belka ; Daphné put à
@@ -389,12 +389,12 @@ Parvati fonça vers l’endroit où Susan était étendue, pressa son pouce
 contre le poignet de Susan, là où l’on aurait pu sentir son pouls, puis,
 lentement, en tremblant, elle se leva, yeux écarquillés -
 
-« *Vitalis Revelio*, » dit Lee alors même que Parvati ouvrait la bouche,
+« *Vitalis Revelio* », dit Lee alors même que Parvati ouvrait la bouche,
 et le corps de Susan fut entouré d’une lueur rouge et chaude. Le
 septième année souriait vraiment à présent. « Probablement juste une
 juste clavicule brisée, je dirais. Bien essayé, cela dit. »
 
-« Merlin ce qu’il *sont* rusés, » dit Jugson.
+« Merlin ce qu’il *sont* rusés », dit Jugson.
 
 « Vous m’avez eue pendant quelques secondes, mes chéris. » La septième
 année ne souriait pas du tout.
@@ -445,11 +445,11 @@ Un moment de silence vint puis s’en fut.
 
 « Et maintenant, quoi ? » dit le garçon à la voix douce-effrayante.
 
-« Maintenant on réveille la Sang-de-Bourbe, » dit la voix précise du
+« Maintenant on réveille la Sang-de-Bourbe », dit la voix précise du
 garçon à la voix cérémonieuse-effrayante, « et on découvre qui est
 *vraiment* derrière ça, pas le fantôme de Salazar Serpentard. »
 
-« Non mes chéris, » dit la voix angélique-effrayante de la fille,
+« Non mes chéris », dit la voix angélique-effrayante de la fille,
 « *d’abord*, nous les attachons toutes *très* soigneusement — »
 
 Et il y eut alors un son d’éclair et tonnerre, les yeux de Hermione
@@ -491,15 +491,15 @@ Puis la lueur s’estompa.
 
 La jeune fille se tenait toujours là, main sur la hanche.
 
-« Faux, » dit Susan.
+« Faux », dit Susan.
 
-« Et *c’est* la vérité, » continua-t-elle. « Au cas où personne ne vous l’a
+« Et *c’est* la vérité », continua-t-elle. « Au cas où personne ne vous l’a
 jamais dit — »
 
 Dans sa main s’éleva une baguette rendue floue par le nuage bleu qui
 l’entourait.
 
-« On ne touche pas aux Pouff’s, » dit Susan, et dans un éclair gris si
+« On ne touche pas aux Pouff’s », dit Susan, et dans un éclair gris si
 puissant qu’il en fit mal aux yeux mi-clos de Hermione, la véritable
 bataille commença.
 
@@ -535,7 +535,7 @@ Lavande se rasseyait déjà, les yeux gros comme des pastèques.
 
 « *Génial !* » dit Lavande.
 
-« Oh, bon sang, » dit Susan Bones. Son visage avait déjà pâli sous la
+« Oh, bon sang », dit Susan Bones. Son visage avait déjà pâli sous la
 sueur et cela ne faisait qu’empirer, lui donnant un air terriblement
 blanchâtre. « Ah… pourrais-je vous convaincre que vous venez d’halluciner
 tout ça ? »
@@ -550,7 +550,7 @@ que quiconque puisse dire un mot de plus.
 
 « Non mais sérieux, c’était *quoi* ? » dit Parvati.
 
-« *Innerver*, » dit Hermione en dirigeant sa baguette vers Daphné dont
+« *Innerver* », dit Hermione en dirigeant sa baguette vers Daphné dont
 elle n’avait pu apercevoir le corps plus tôt, et Lavande pointa sa
 baguette vers Hannah et fit de même.
 
@@ -564,22 +564,22 @@ mi-parcours.
 
 Daphné n’avait pas bougé mais Hermione pouvait voir sa poitrine se
 soulever et s’abaisser et le rythme semblait assez normal. « Je pense
-qu’elle va bien, » dit Hermione, « mais — » elle prit un moment pour
+qu’elle va bien », dit Hermione, « mais — » elle prit un moment pour
 déglutir car sa bouche était trop sèche. Les choses avaient vraiment,
 vraiment, *vraiment* dégénéré. « Je pense qu’on devrait emmener Daphné
 chez Mme Pomfresh… »
 
 « Bien sûr, bien sûr, *donnez moi juste quelques minutes* et je m’en
-sortirai *peut-être*, » dit Parvati.
+sortirai *peut-être* », dit Parvati.
 
 « *Pardon*, mais » dit Daphné d’un ton poli mais ferme, « comment a-t-on
 gagné ? Et pourquoi le plafond a-t-il l’air tout fondu ? »
 
 Il y eut un silence.
 
-« C’est Susan qui a fait ça, » dit Tracey.
+« C’est Susan qui a fait ça », dit Tracey.
 
-« Ouais, » dit Parvati, d’une voix qui n’était que légèrement instable
+« Ouais », dit Parvati, d’une voix qui n’était que légèrement instable
 tout en se levant et en époussetant ses robes à bordures rouges, « il
 s’avère que Susan Bones est l’héritière de Poufsouffle et qu’elle a
 ouvert l’entrée depuis longtemps perdue de la Chambre du Dur Labeur et
@@ -592,7 +592,7 @@ Importance Leçon de Morale — vraiment, *Susan* ? »
 
 Hermione reprenait lentement ses esprits. La terreur absolue n’avait pas
 duré plus de trente seconde, ou du moins Hermione n’avait pas été
-consciente plus longtemps. « En fait, » dit Hermione d’un ton circonspect,
+consciente plus longtemps. « En fait », dit Hermione d’un ton circonspect,
 à mesure que son esprit se remettait à fonctionner, « je suis assez
 certaine que *c’est* juste quelque chose que raconte le professeur
 Chourave, ce n’était pas dans *Poudlard : Une Histoire* ni dans aucun
@@ -612,7 +612,7 @@ compte ! »
 
 « Une *double* sorcière ! » dit Tracey.
 
-« Tu vois, » dit Lavande en parlant très vite, « il y a toujours des
+« Tu vois », dit Lavande en parlant très vite, « il y a toujours des
 histoires d’enfants nés super magiciens, capables de lancer des
 sortilèges que personne d’autre ne peut lancer, et qu’il y a toute une
 école secrète à l’intérieur de Poudlard, avec des cours qu’eux seuls
@@ -622,7 +622,7 @@ peuvent voir et où eux seuls peuvent se rendre — »
 pas comme ça dans la vraie vie ! Je veux dire, oui, bien sûr, j’ai lu
 tous ces livres — »
 
-« Une minute, s’il vous plaît, » dit Hermione. Peut-être que son esprit
+« Une minute, s’il vous plaît », dit Hermione. Peut-être que son esprit
 *était* ralenti, après tout. « Vous voulez dire que même si vous allez
 *déjà* à une école magique et tout ça, vous aimeriez bien aller à une
 *double* école magique ? »
@@ -634,7 +634,7 @@ comme d’avoir un destin incroyable et tout ! Ça voudrait dire qu’on est
 
 Sur ces mots, Hannah hocha la tête en les observant, allongée au côté de
 Daphné vers laquelle elle avait rampé afin de vérifier que ses os
-n’étaient pas brisés. « J’aimerais être une double sorcière, » dit alors
+n’étaient pas brisés. « J’aimerais être une double sorcière », dit alors
 Hannah, puis, d’un ton un peu plus triste, « même si je ne crois pas que
 ça existe vraiment… vous avez vu Susan faire quoi exactement ? Je veux
 dire, vous êtes sûres que vous n’avez pas juste pas juste halluciné
@@ -642,7 +642,7 @@ après avoir été assommées ? »
 
 À ce stade, Hermione ne savait vraiment, vraiment plus quoi dire.
 
-« Oh, non, » dit Tracey. La Serpentard pivota et regarda l’entrée du
+« Oh, non », dit Tracey. La Serpentard pivota et regarda l’entrée du
 couloir, ses robes voletant autour d’elle. « Oh non ! On doit sortir
 d’ici ! On doit partir avant que Susan ne revienne avec quelqu’un
 capable de nous lancer un sortilège de super-Oubliettes ! »
@@ -698,14 +698,14 @@ que les choses commencent à devenir incontrôlables. »
 
 Hermione continua d’écraser la part de gâteau au chocolat dans son
 assiette pour en faire une bouillie informe de gâteau et de glaçage.
-« Oui, » dit Hermione d’une voix qui était peut-être un peu acerbe, « c’est
+« Oui », dit Hermione d’une voix qui était peut-être un peu acerbe, « c’est
 ce que je disais au professeur Flitwick quand je m’excusais, que je
 savais que la situation nous avait échappée, et il a hurlé : *Vraiment,
 Mlle Granger, vous pensez ?* d’un couinement tellement fort que mes
 oreilles ont pris feu. Je veux dire que mes oreilles ont *vraiment pris
 feu*. Le professeur Flitwick a dû les éteindre. »
 
-Harry s’était mis une main sur le front. « Excuse-moi, » dit Harry. Son
+Harry s’était mis une main sur le front. « Excuse-moi », dit Harry. Son
 visage était parfaitement neutre. « Parfois j’ai encore un peu de mal à
 m’habituer à ce genre de choses. Hé, Hermione, tu te souviens de
 l’époque où on était jeunes et naïfs et où on pensait que le monde était
@@ -732,22 +732,22 @@ Hermione commença à y tremper ses carottes et à les manger.
 « Pourquoi cette question ? » dit Harry. « Est-ce que *tu* aimerais revenir
 au monde moldu ? »
 
-« Pas exactement, » dit Hermione, en prenant une bouchée de carotte et de
+« Pas exactement », dit Hermione, en prenant une bouchée de carotte et de
 chocolat. « C’est juste que je trouvais bizarre d’avoir *souhaité* être
 une sorcière… est-ce que tu voulais être un sorcier quand tu étais
 petit ? »
 
-« Bien sûr, » répondit tout de suite Harry. « Je voulais aussi avoir des
+« Bien sûr », répondit tout de suite Harry. « Je voulais aussi avoir des
 pouvoirs psychiques, une super-force, des os renforcés en adamantium,
 mon propre château volant et parfois j’étais triste de me dire que
 j’allais peut-être devoir me contenter d’être un scientifique célèbre et
 un astronaute. »
 
-Hermione hocha la tête. « Tu sais, » dit-elle doucement, « je pense que les
+Hermione hocha la tête. « Tu sais », dit-elle doucement, « je pense que les
 sorcières et les sorciers qui *grandissent* ici n’apprécient pas
 vraiment la magie à leur juste valeur… »
 
-« Enfin, bien sûr que non, » dit Harry, « c’est ce qui nous donne notre
+« Enfin, bien sûr que non », dit Harry, « c’est ce qui nous donne notre
 avantage. N’est-ce pas évident ? Je veux dire, franchement, j’ai trouvé
 ça carrément évident cinq minutes après être arrivé au Chemin de
 Traverse. » Il y avait un air perplexe sur le visage du garçon, comme

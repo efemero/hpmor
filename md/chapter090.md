@@ -20,7 +20,7 @@ dont il disposait, Dumbledore n’était pas très coopératif, et quoi qu’il
 en soit on était plusieurs minutes dans le Temps après l’instant
 crucial.
 
-« Harry, » chuchota le directeur en posant sa main sur l’épaule de Harry.
+« Harry », chuchota le directeur en posant sa main sur l’épaule de Harry.
 Il avait disparu de là où il s’était tenu, au-dessus des jumeaux Weasley
 et était apparu à côté de Harry ; George Weasley s’était comme téléporté
 de sa position assise à une position agenouillée au côté de son frère,
@@ -28,7 +28,7 @@ et Fred était à présent allongé bien droit, ses yeux grands ouverts, une
 grimace sur le visage à chaque respiration. « Harry, tu dois quitter cet
 endroit. »
 
-« Attendez, » dit la voix de Harry. « J’essaie de voir si je peux faire
+« Attendez », dit la voix de Harry. « J’essaie de voir si je peux faire
 autre chose. »
 
 La voix du vieux sorcier attestait de son impuissance. « Harry — je sais
@@ -48,7 +48,7 @@ main…
 
 « …fais ? »
 
-« Hypothermie, » dit Harry d’une voix distante tout en chancelant. Cela
+« Hypothermie », dit Harry d’une voix distante tout en chancelant. Cela
 avait été l’un des sortilèges avec lesquels, lors d’une vie antérieure,
 lui et Hermione avaient fait des expériences. Il était donc capable de
 le contrôler avec précision mais il lui avait fallu beaucoup de
@@ -63,7 +63,7 @@ ont besoin d’arrêter le cœur de quelqu’un pendant un moment. »
 
 Fred et George commencèrent à sangloter.
 
-Le visage de Dumbledore était déjà strié de larmes. « Je suis désolé, »
+Le visage de Dumbledore était déjà strié de larmes. « Je suis désolé »,
 chuchota-t-il. « Harry, je suis tellement navré, mais tu dois arrêter de
 faire ça. » Le directeur prit Harry par les épaules et le tira en
 arrière.
@@ -148,7 +148,7 @@ dernier.
 Harry mit un moment à parler.
 
 « J’essaie de trouver s’il y a quoi que ce soit que je devrais faire
-maintenant, » dit-il. « Mais c’est difficile. Mon esprit n’arrête pas
+maintenant », dit-il. « Mais c’est difficile. Mon esprit n’arrête pas
 d’imaginer comment le passé aurait pu se dérouler différemment, si
 j’avais réfléchi plus vite, et je ne peux pas éliminer la possibilité
 qu’une réponse se cache là. »
@@ -160,7 +160,7 @@ ce soit sain que vous… pensiez comme ça… »
 meurent. » Les mots avaient été prononcés d’un ton monotone, comme s’il
 avait récité un texte appris dans un livre.
 
-« Harry, » dit-elle, réfléchissant à peine en prononçant ces paroles, « il
+« Harry », dit-elle, réfléchissant à peine en prononçant ces paroles, « il
 n’y a rien que vous auriez pu faire… »
 
 Quelque chose grésilla dans l’expression de Harry. Ses yeux semblèrent
@@ -191,7 +191,7 @@ nuit là… »
 Harry appuya ses mains sur son visage et lorsqu’il les retira, il était
 à nouveau calme et mesuré.
 
-« Quoi qu’il en soit, » dit Harry Potter d’une voix à nouveau monotone,
+« Quoi qu’il en soit », dit Harry Potter d’une voix à nouveau monotone,
 « je ne veux pas réitérer cette erreur, donc je vais réfléchir jusqu’à
 l’heure du dîner pour voir s’il y a quelque chose que je devrais faire.
 Si je n’ai rien trouvé à l’heure du dîner, alors j’irai manger.
@@ -232,7 +232,7 @@ qu’il montrait à de jeunes enfants impressionnables. Elle lui crierait
 peut-être même dessus, cette fois. Elle avait de toute façon songé à lui
 crier dessus, à cause de Hermione Granger…
 
-« Vous n’êtes *pas* responsable, » dit-elle, même si sa voix tremblait.
+« Vous n’êtes *pas* responsable », dit-elle, même si sa voix tremblait.
 « Ce sont les professeurs — ce sont nous qui sommes responsable de la
 sécurité des élèves, pas vous. »
 
@@ -244,7 +244,7 @@ Elle leva le menton et hocha la tête. Ce serait bien, bien mieux que de
 voir Harry se blâmer lui-même.
 
 Le garçon se releva en appuyant sur le sol et fit un pas en avant.
-« Alors très bien, » dit-il d’une voix monotone. « J’ai essayé d’être
+« Alors très bien », dit-il d’une voix monotone. « J’ai essayé d’être
 raisonnable quand j’ai vu que Hermione manquait à l’appel et qu’aucun
 des professeurs n’étaient au courant. J’ai demandé à des élèves de
 septième année de venir avec moi sur un balais volant et de me protéger
@@ -319,7 +319,7 @@ Albus apparut dans une ondulation à côté d’elle, prenant brièvement un
 teint criard le temps que le sortilège de Désillusion s’estompe.
 
 Elle ne bondit pas tout à fait de surprise. « Je vous ai dit d’arrêter de
-faire ça, » dit Minerva. Sa voix semblait morne à ses propres oreilles.
+faire ça », dit Minerva. Sa voix semblait morne à ses propres oreilles.
 « C’était une conversation privée. »
 
 Albus agita ses doigts vers la porte derrière elle. « J’avais peur que M.
@@ -332,7 +332,7 @@ seulement, et il se serait arrêté. Et alors il n’aurait eu personne à
 qui dire ces terribles choses, personne. »
 
 « J’ai trouvé que les remarques de M. Potter étaient entièrement injuste
-et imméritées, » dit Albus.
+et imméritées », dit Albus.
 
 « Si cela avait été vous, Albus, vous n’auriez pas menacé d’expulser
 quiconque quitterait la pièce. Pouvez-vous honnêtement me dire le
@@ -363,7 +363,7 @@ que vous comprendriez. »
 « Je ne suis pas apte à vous succéder à la direction. Nous le savons tous
 les deux. »
 
-« Tu as tort, » dit doucement Albus. « Quand le jour viendra, tu seras la
+« Tu as tort », dit doucement Albus. « Quand le jour viendra, tu seras la
 quarante-cinquième directrice de Poudlard et tu feras un excellent
 travail. »
 
@@ -400,14 +400,14 @@ L’homme inclina légèrement la tête. Des yeux pâles examinèrent le garçon
 comme s’il était un spécimen d’une vie venue d’une lointaine planète,
 avec le danger potentiel que cela impliquait.
 
-« Je suis venu vous présenter mes excuses, M. Potter, » dit doucement
+« Je suis venu vous présenter mes excuses, M. Potter », dit doucement
 l’homme.
 
 « Vous excuser pour quoi ? » dit le garçon. « Pourquoi, qu’auriez-*vous* pu
 faire pour empêcher la mort de Hermione ? »
 
 « J’aurais dû penser à vérifier votre présence, celle de M. Londubat et
-celle de Mlle Granger, car vous étiez tous des cibles évidentes, » dit le
+celle de Mlle Granger, car vous étiez tous des cibles évidentes », dit le
 professeur de Défense sans hésiter. « M. Hagrid n’était pas mentalement
 apte à commander un contingent d’élèves. J’aurais dû ignorer la demande
 de silence que m’avait faite la directrice adjointe et lui dire de
@@ -437,7 +437,7 @@ où le troll avait été vu. »
 
 Le garçon ne sembla pas se détendre. « J’imagine que c’est plausible. »
 
-« Quoi qu’il en soit, » dit l’homme, « s’il y a ici quiconque qui peut être
+« Quoi qu’il en soit », dit l’homme, « s’il y a ici quiconque qui peut être
 déclaré responsable de la mort de Mlle Granger, c’est moi-même, pas
 vous. C’est moi, et non pas vous, qui aurais dû… »
 
@@ -448,7 +448,7 @@ sans masque. »
 
 Il y eut un silence.
 
-« Comme vous le souhaitez, » dit le professeur de Défense d’une voix vide
+« Comme vous le souhaitez », dit le professeur de Défense d’une voix vide
 d’émotions. Les yeux pâles demeuraient vifs, aux aguets. « Je regrette
 effectivement que la fille soit morte. Elle était une bonne élève en
 cours de Défense et aurait pu être votre alliée plus tard. J’aimerais
@@ -456,7 +456,7 @@ vous consoler de votre perte mais j’ignore entièrement comment procéder.
 Naturellement, si je découvre les responsables, je les tuerai. Vous
 serez invité à participer si les circonstances le permettent. »
 
-« Comme c’est touchant, » dit le garçon d’une voix froide. « Vous ne
+« Comme c’est touchant », dit le garçon d’une voix froide. « Vous ne
 prétendez donc pas avoir aimé Hermione ? »
 
 « Je crois avoir été insensible à ce qui faisait son charme. Je ne tisse
@@ -467,7 +467,7 @@ professeur ? »
 
 Il y eut un silence.
 
-« Le château est meurtri, à présent, » dit l’homme debout dans un coin.
+« Le château est meurtri, à présent », dit l’homme debout dans un coin.
 
 « Quoi ? »
 
@@ -481,7 +481,7 @@ qu’il sera nécessaire de colmater les trous au moyens de conjurations
 plus faibles. Je le regrette maintenant, puisqu’il s’est avéré que
 j’arrivais trop tard. »
 
-« Ah, » dit le garçon. Il ferma brièvement les yeux. « Vous vouliez la
+« Ah », dit le garçon. Il ferma brièvement les yeux. « Vous vouliez la
 sauver. Vous le vouliez tellement que vous avez fait un vrai effort.
 J’imagine que votre esprit, contrairement au leur, est capable de cela. »
 
@@ -490,7 +490,7 @@ Un bref sourire sec venu de l’homme.
 « Merci, professeur. Mais je voudrais être laissé seul jusqu’au dîner.
 Vous entre tous saurez comprendre. Est-ce tout ? »
 
-« Pas tout à fait, » dit l’homme. Une nuance de sécheresse sardonique
+« Pas tout à fait », dit l’homme. Une nuance de sécheresse sardonique
 était à présent revenue dans sa voix. « Voyez-vous, étant donné mes
 expériences récentes, je suis inquiet à l’idée que ayez maintenant pour
 projet de faire quelque chose d’extrêmement stupide. »
@@ -518,13 +518,13 @@ Le garçon secoua la tête. « Je réfléchis encore, et je voudrais être
 laissé seul pour le faire. »
 
 « Je me souviens d’une offre que vous m’avez faite, il y a quelques
-mois, » dit le professeur de Défense. « Souhaitez-vous avoir quelqu’un
+mois », dit le professeur de Défense. « Souhaitez-vous avoir quelqu’un
 d’intelligent à qui parler ? Je comprendrais que vous ne soyez pas
 agréable à côtoyer. »
 
 Le garçon secoua de nouveau la tête. « Non, merci. »
 
-« Eh bien dans ce cas, » dit le professeur de Défense. « Que diriez-vous de
+« Eh bien dans ce cas », dit le professeur de Défense. « Que diriez-vous de
 quelqu’un de puissant et pas particulièrement entravé par de naïfs
 scrupules ? »
 
@@ -536,7 +536,7 @@ pourraient juger être contre nature ? »
 Les yeux du garçon se plissèrent légèrement, d’une façon si
 imperceptible que quelqu’un d’autre aurait pu ne pas…
 
-« Je vois, » dit le professeur de Défense. « Allez-y, interrogez-moi,
+« Je vois », dit le professeur de Défense. « Allez-y, interrogez-moi,
 alors. Je vous donne ma parole de ne rien en répéter aux autres. »
 
 Le garçon mit un moment à parler, et lorsqu’il parla ce fut d’une voix
@@ -558,7 +558,7 @@ perplexes.
 
 Il y eut un autre silence.
 
-« Peu importe les risques, » dit l’homme dans un coin. « Peu importe à quel
+« Peu importe les risques », dit l’homme dans un coin. « Peu importe à quel
 point la magie nécessaire à accomplir ceci sera dangereuse. »
 
 « Oui. »
@@ -586,7 +586,7 @@ lieu*, c’est ce que je ferai. »
 
 Un autre silence.
 
-« Et pour faire *ça*, » dit l’homme dans le coin, « vous utiliserez votre
+« Et pour faire *ça* », dit l’homme dans le coin, « vous utiliserez votre
 outil favori, la science. »
 
 « Bien sûr. »
@@ -600,7 +600,7 @@ sens à la chose, j’imagine. »
 
 « La magie. D’où vient-elle ? »
 
-« Je l’ignore, » dit l’homme.
+« Je l’ignore », dit l’homme.
 
 « Et tout le monde est dans le même cas ? »
 
@@ -636,10 +636,10 @@ sont ceux qui ont appris des savoirs ancestraux. »
 
 Le garçon hocha la tête d’un air distant. « Tant pis pour la solution
 directe, alors. Il aurait été agréable de juste inventer le sortilège
-« Relever les morts, » « Devenir Dieu, » ou « Invoquer un Terminal ».
+« Relever les morts », « Devenir Dieu », ou « Invoquer un Terminal ».
 Savez-vous quoi que ce soit au sujet d’Atlantis ? »
 
-« Seulement ce que tout érudit en sait, » dit sèchement l’homme. « Si vous
+« Seulement ce que tout érudit en sait », dit sèchement l’homme. « Si vous
 souhaitez entendre les dix-huit meilleures théories standard — ne me
 regardez pas comme ça, M. Potter. Si c’était si facile, je l’aurais fait
 il y a de nombreuses années. »
@@ -675,7 +675,7 @@ des épreuves plus simples. Et bien qu’il ne s’agisse pas d’un des
 ingrédients principaux du rituel, j’ai peur qu’il ne nécessite plus de
 magie que vous n’en posséderez pendant encore quelques années. »
 
-« Dommage, » dit le garçon. « Il aurait été agréable de voir la tête de
+« Dommage », dit le garçon. « Il aurait été agréable de voir la tête de
 l’ennemi la prochaine fois qu’il aurait essayé d’utiliser un troll. »
 
 Le professeur de Défense inclina la tête, ses lèvres tressaillirent de
@@ -686,7 +686,7 @@ comportaient étrangement et le directeur a dit qu’il pense qu’ils ont
 été victime d’un sortilège d’Oubliettes. Cela semble être l’une des
 techniques préférées de l’ennemi. »
 
-« Règle numéro huit, » dit le professeur de Défense. « Toute technique
+« Règle numéro huit », dit le professeur de Défense. « Toute technique
 assez bonne pour m’avoir un fois est assez bonne pour mériter que je
 l’apprenne. »
 
@@ -697,7 +697,7 @@ pas considéré comme Impardonnable, bien que je ne puis comprendre
 pourquoi. Si j’avais pu faire en sorte que M. Hagrid se souvienne
 d’autres ordres… »
 
-« Ce n’est pas aussi simple, » dit le professeur de Défense. « Vous n’êtes
+« Ce n’est pas aussi simple », dit le professeur de Défense. « Vous n’êtes
 pas assez puissant pour utiliser le sortilège de faux souvenirs, et même
 un simple Oubliettes serait à la limite de votre endurance actuelle.
 C’est un art dangereux, dont la pratique est illégale sans autorisation
@@ -710,7 +710,7 @@ ce que je dois en fait vous dire, c’est que vous trouverez le manuel
 d’instruction standard sur le sujet dans les piles nord-nord-ouest de la
 bibliothèque principale de Poudlard, à la lettre M. »
 
-« Sérieusement, » dit le garçon d’un ton neutre.
+« Sérieusement », dit le garçon d’un ton neutre.
 
 « En effet. »
 
@@ -755,7 +755,7 @@ pense que je dois faire une visite à la bibliothèque de Poudlard. »
 
 « La *bibliothèque* ? »
 
-« Oui, » dit le professeur Quirrell. Une tension inhabituelle apparut dans
+« Oui », dit le professeur Quirrell. Une tension inhabituelle apparut dans
 sa voix. « Je compte renforcer la sécurité de la section interdite avec
 certaines précautions de ma propre fabrication. Les protections
 actuelles sont une plaisanterie. Et M. Potter doit être maintenu hors de

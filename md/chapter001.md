@@ -24,16 +24,16 @@ vert émeraude, se trouve là aussi.
 Le professeur et sa femme discutent sèchement, mais ils ne crient pas.
 Le professeur trouverait cela fort peu civilisé.
 
-« Tu plaisantes, » dit Michael à Pétunia. Son ton indiquait qu’il avait
+« Tu plaisantes », dit Michael à Pétunia. Son ton indiquait qu’il avait
 bien peur que non.
 
-« Ma sœur était une sorcière, » répéta-t-elle. Elle semblait effrayée,
+« Ma sœur était une sorcière », répéta-t-elle. Elle semblait effrayée,
 mais elle tenait bon. « Son mari était un sorcier. »
 
 « C’est absurde ! » répondit sèchement Michael. « Ils étaient à notre
 mariage… Ils nous avaient rendu visite à Noël… »
 
-« Je leur ai dit que tu ne devais pas être mis au courant, » murmura
+« Je leur ai dit que tu ne devais pas être mis au courant », murmura
 Pétunia. « Mais c’est vrai. J’ai vu des choses… »
 
 Le professeur leva les yeux au ciel. « Ma chérie, je pense que tu ne connais pas bien la littérature sceptique. Tu ne comprends probablement
@@ -73,7 +73,7 @@ supporter. Alors, j’ai écrit à ma sœur. Je lui ai dit que, si elle ne m’a
 
 Elle se tut.
 
-« Enfin, » continua-t-elle d’une petite voix, « elle a cédé. Elle m’a
+« Enfin », continua-t-elle d’une petite voix, « elle a cédé. Elle m’a
 dit que c’était dangereux, je lui ai dit que je m’en fichais, j’ai bu sa
 potion et j’ai été malade pendant des semaines. Mais une fois remise, ma
 peau avait perdu ses boutons, j’avais enfin des formes et… j’étais
@@ -81,12 +81,12 @@ belle. Les gens étaient *gentils* avec moi. » Sa voix se brisa. « Après,
 je n’ai plus pu haïr ma sœur. Surtout quand j’ai appris ce que sa magie
 lui avait fait… »
 
-« Ma chérie, » dit Michael avec gentillesse, « tu es tombée malade, tu as pris du poids pendant ta convalescence et ta peau s’est arrangée d’elle-même. Ou alors la maladie t’a fait changer de régime
+« Ma chérie », dit Michael avec gentillesse, « tu es tombée malade, tu as pris du poids pendant ta convalescence et ta peau s’est arrangée d’elle-même. Ou alors la maladie t’a fait changer de régime
 alimentaire… »
 
-« C’était une sorcière, » répéta Pétunia. « Je l’ai vu. »
+« C’était une sorcière », répéta Pétunia. « Je l’ai vu. »
 
-« Pétunia, » dit Michael. L’exaspération devenait audible. « Tu *sais*
+« Pétunia », dit Michael. L’exaspération devenait audible. « Tu *sais*
 que c’est impossible. Dois-je vraiment t’expliquer pourquoi ? »
 
 Pétunia se tordit les mains. Elle semblait sur le point de pleurer.
@@ -101,16 +101,16 @@ troisième personne se trouvait là, avec eux.
 Harry inspira lentement. « Maman, *tes* parents avaient-ils des pouvoirs
 magiques ? »
 
-« Non, » dit Pétunia d’un ton interloqué.
+« Non », dit Pétunia d’un ton interloqué.
 
 « Alors, personne chez toi ne connaissait la magie quand Lily a reçu sa
 lettre. Comment est-ce qu’ils *vous* ont convaincus ? »
 
 « Ah… » dit Pétunia. « Ils n’ont pas fait qu’envoyer une lettre. Ils ont
-envoyé un professeur de Poudlard. Il…, » elle regarda brièvement Michael.
+envoyé un professeur de Poudlard. Il… », elle regarda brièvement Michael.
 « Il nous a fait une démonstration de sa magie. »
 
-« Alors pas la peine de vous battre, » dit Harry d’un ton ferme. Il
+« Alors pas la peine de vous battre », dit Harry d’un ton ferme. Il
 espérait contre toute attente que cette fois, cette fois seulement, ils
 l’écouteraient. « Si c’est vrai, on n’a qu’à faire venir un professeur
 de Poudlard et voir cette magie nous-mêmes. Papa devra admettre que
@@ -139,7 +139,7 @@ enfant de dix ans *au sérieux* ? Certainement pas.
 
 Harry avait parfois envie de hurler sur son père.
 
-« Maman, » dit Harry. « Si tu veux remporter ce débat contre papa,
+« Maman », dit Harry. « Si tu veux remporter ce débat contre papa,
 regarde le chapitre deux du premier manuel de physique de Feynman. Il
 parle de ce que racontent les philosophes sur la méthode scientifique,
 et il explique qu’ils ont tous tort, que la seule règle en science,
@@ -160,11 +160,11 @@ Voilà qu’ils reprenaient une de *ces* disputes. Où sa mère essayait de
 faire culpabiliser son père, et où ce dernier essayait de la faire se
 sentir stupide.
 
-« Je vais dans ma chambre, » annonça Harry. Sa voix tremblait un peu.
+« Je vais dans ma chambre », annonça Harry. Sa voix tremblait un peu.
 « Essayez de ne pas trop vous battre, papa et maman. On aura la réponse
 bien assez vite, non ? »
 
-« Bien sûr, Harry, » dit son père, sa mère lui envoya un baiser rassurant
+« Bien sûr, Harry », dit son père, sa mère lui envoya un baiser rassurant
 et ils continuèrent de se disputer pendant que Harry grimpait les
 escaliers jusqu’à sa chambre.
 
@@ -249,7 +249,7 @@ quel point elle était aimante. La discussion semblait close. Aussi
 effrayantes que les disputes puissent être, leur *absence* pouvait être
 bien pire.
 
-« Maman, » dit Harry au milieu de ce silence troublant, « je vais tester
+« Maman », dit Harry au milieu de ce silence troublant, « je vais tester
 mon hypothèse. Que dit ta théorie sur la meilleure façon d’envoyer une
 chouette à Poudlard ? »
 
@@ -259,7 +259,7 @@ Cela aurait dû être fort suspect. *Oh, alors on ne peut pas tester ta
 théorie ?* Mais l’étrange certitude en Harry était prête à aller plus
 loin.
 
-« Eh bien, la lettre est enfin arrivée jusqu’ici, » dit-il. « Je vais donc l’agiter dehors en criant “Lettre pour Poudlard !” pour voir si une chouette vient la chercher. Papa, tu veux venir regarder ? »
+« Eh bien, la lettre est enfin arrivée jusqu’ici », dit-il. « Je vais donc l’agiter dehors en criant “Lettre pour Poudlard !” pour voir si une chouette vient la chercher. Papa, tu veux venir regarder ? »
 
 Son père secoua lentement la tête et continua sa lecture. *Bien sûr*,
 songea Harry. La magie était une de ces croyances honteuses pour
@@ -302,14 +302,14 @@ cheveux grisonnants s’échappaient de la résille qu’elle portait sur la
 tête. C’était Mlle Figg, qui lui servait parfois de babysitteur.
 « Harry, qu’est-ce que tu fais ? »
 
-« Rien, » dit-il d’une voix étranglée. « Je… teste juste une théorie
+« Rien », dit-il d’une voix étranglée. « Je… teste juste une théorie
 idiote… »
 
 « Est-ce que Poudlard t’a envoyé ta lettre d’admission ? »
 
 Il se figea.
 
-« Oui, » répondirent ses lèvres quelques instants plus tard. « J’ai reçu
+« Oui », répondirent ses lèvres quelques instants plus tard. « J’ai reçu
 une lettre de Poudlard. Ils disent qu’ils veulent avoir reçu ma chouette
 avant le 31 juillet, mais… »
 
@@ -319,7 +319,7 @@ assez *bêtes* pour t’envoyer la lettre habituelle ? »
 Un bras ridé passa par-dessus la clôture et ouvrit une main. À peine
 capable de réfléchir, Harry lui donna l’enveloppe.
 
-« Laisse-la-moi, mon petit., » dit Mlle Figg. « Je ferai venir quelqu’un en un rien de temps. »
+« Laisse-la-moi, mon petit. », dit Mlle Figg. « Je ferai venir quelqu’un en un rien de temps. »
 
 Puis son visage disparut derrière la clôture.
 

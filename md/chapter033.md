@@ -3,7 +3,7 @@
 Ce qui était le plus effrayant, c’était la vitesse à laquelle l’affaire
 avait échappé à tout contrôle.
 
-« Albus, » dit Minerva lorsqu’ils entrèrent dans la Grande Salle, sans
+« Albus », dit Minerva lorsqu’ils entrèrent dans la Grande Salle, sans
 même essayer de maintenir l’inquiétude hors de sa voix, « il faut faire
 quelque chose. »
 
@@ -33,7 +33,7 @@ d’arrêter — même Drago avait amèrement acquiescé après avoir écout
 jusqu’au bout — mais leurs partisans n’avaient rien voulu entendre.
 
 Dumbledore parcourut les tables du regard, l’air distant. « Il y a
-longtemps, » cita doucement le vieux sorcier, « que les Habitants de
+longtemps », cita doucement le vieux sorcier, « que les Habitants de
 chaque ville sont divisés en deux factions, les Bleus et les Verts … ils
 se battent sans savoir la raison pour laquelle ils se querellent et se
 mettent en danger … ils conçoivent sans raison une haine implacable pour
@@ -43,13 +43,13 @@ même si ceux qui ne diffèrent que par ces couleurs sont frères ou liés
 de quelque autre façon. Ce que je ne puis attribuer qu’à je ne sais
 quelle maladie d’esprit… »
 
-« Je suis navrée, » dit Minerva, « je ne — »
+« Je suis navrée », dit Minerva, « je ne — »
 
-« Procope de Césarée, » dit Dumbledore. « Ils prenaient les courses de
+« Procope de Césarée », dit Dumbledore. « Ils prenaient les courses de
 chariot très au sérieux dans l’Empire Romain. Oui Minerva, je suis
 d’accord, il faut faire quelque chose. »
 
-« Bientôt, » dit Minerva, sa voix s’assourdissant encore. « Albus, je pense
+« Bientôt », dit Minerva, sa voix s’assourdissant encore. « Albus, je pense
 qu’il faut que ce soit avant samedi. »
 
 Le dimanche, la plupart des élèves quitteraient Poudlard pour passer les
@@ -66,7 +66,7 @@ Minerva hocha la tête.
 
 Minerva hocha de nouveau la tête, le visage pincé. Il y avait longtemps
 qu’elle avait tiré une leçon de la façon dont les professeurs de Défense
-étaient renvoyés. « Albus, » dit Minerva, « nous ne pouvons pas perdre le
+étaient renvoyés. « Albus », dit Minerva, « nous ne pouvons pas perdre le
 professeur Quirrell maintenant, *nous ne pouvons pas* ! Mais s’il reste
 jusqu’à janvier, alors nos cinquième année passeront leur BUSE, s’il
 reste jusqu’à mars, nos septième année passeront leur ASPIC, il rattrape
@@ -76,7 +76,7 @@ Seigneur des Ténèbres — vous devez arrêter la bataille, Albus !
 Interdisez les armées maintenant ! »
 
 « Je ne suis pas certain que le professeur de Défense accepterait avec le
-sourire, » dit Dumbledore, jetant un œil en direction de la grande table
+sourire », dit Dumbledore, jetant un œil en direction de la grande table
 où le professeur Quirrell bavait dans sa soupe. « Il m’a semblé des plus
 attaché à ses armées, même si lorsque j’ai accepté, je croyais qu’il y
 en aurait quatre par année. » Le vieux sorcier soupira. « Un homme
@@ -109,7 +109,7 @@ La deuxième avait été *dérangée*.
 Et la prochaine serait *pire* à moins qu’ils ne réussissent tous les
 trois dans leur dernière tentative désespérée de l’arrêter.
 
-« Professeur Quirrell, c’est de la folie, » dit Drago sur le ton de
+« Professeur Quirrell, c’est de la folie », dit Drago sur le ton de
 l’évidence. « Ce n’est plus Serpentard, c’est juste… » Drago manquait de
 mots. Il agita les mains avec impuissance. « On ne peut pas intriguer
 quand ce genre de choses se passe. À la dernière bataille, l’un de mes
@@ -119,7 +119,7 @@ choses se produisent au hasard maintenant, ça n’a rien à voir avec qui
 est le plus malin, ou avec quelle armée combat le mieux, c’est … » Il ne
 pouvait même pas le décrire.
 
-« Je suis d’accord avec M. Malefoy, » dit Granger d’un ton qui laissait
+« Je suis d’accord avec M. Malefoy », dit Granger d’un ton qui laissait
 penser qu’elle ne s’était jamais attendue à s’entendre dire une chose
 pareille. « Autoriser les traîtres ne fonctionne pas, professeur
 Quirrell. »
@@ -145,7 +145,7 @@ sur ses mains et il était penché sur son bureau. « Et vous M. Potter ? 
 dit le professeur de Défense. « Êtes-vous d’accord avec eux ? »
 
 « Il n’y aurait qu’à descendre Franz Ferdinand et on pourrait faire
-démarrer la première guerre mondiale, » dit Harry. « C’est le chaos
+démarrer la première guerre mondiale », dit Harry. « C’est le chaos
 complet. Je suis carrément pour. »
 
 « *Harry !* » dit Drago, profondément choqué.
@@ -164,7 +164,7 @@ Le professeur Quirrell avait un fin sourire, même si ses yeux étaient
 toujours mi-clos. « Et pourquoi donc, M. Potter ? »
 
 « Parce que je pense que je peux supporter le chaos mieux que Mlle
-Granger et M. Malefoy, » dit le traître. « Notre guerre est un jeu à somme
+Granger et M. Malefoy », dit le traître. « Notre guerre est un jeu à somme
 nulle, et que ce soit facile ou difficile dans l’absolu n’a aucune
 importance, ce qui compte, c’est qui s’en sort mieux et qui s’en sort
 moins bien. »
@@ -180,7 +180,7 @@ même devenu un agent quadruple. »
 « *Quadruple* ! » dit Granger. « Mais il n’y a que trois camps dans la
 guerre ! »
 
-« Oui, » dit le professeur Quirrell, « c’est ce que vous auriez pensé,
+« Oui », dit le professeur Quirrell, « c’est ce que vous auriez pensé,
 n’est-ce pas. Je ne suis pas certain qu’il y ait jamais eu un agent
 quadruple dans l’Histoire, ou une armée avec une fraction si élevée de
 vrais et de faux traîtres. Nous explorons de nouveaux territoires, Mlle
@@ -192,7 +192,7 @@ encore plus irritée.
 
 « Je n’arrive pas à croire que tu aies fait ça, Harry ! » dit Granger.
 
-« Désolé, » dit Harry, l’air pas désolé du tout, ses lèvres recourbées en
+« Désolé », dit Harry, l’air pas désolé du tout, ses lèvres recourbées en
 un joyeux sourire maléfique. « Souviens-toi Hermione, c’*est* juste un
 jeu, et pourquoi les généraux comme nous devraient-ils être les seuls à
 avoir le droit de comploter ? Et puis, qu’est-ce que vous allez y faire,
@@ -222,7 +222,7 @@ complètement, absolument impuissante.
 Il y avait des noms, et des lignes reliant les noms à d’autres noms, et
 certaines des lignes avaient d’autres couleurs et…
 
-« Dites moi, » dit le général Granger, « y a-t-il quelqu’un dans mon armée
+« Dites moi », dit le général Granger, « y a-t-il quelqu’un dans mon armée
 qui *n’est pas* un espion ? »
 
 Ils n’étaient pas dans le bureau mais dans une autre salle, déserte, et
@@ -243,7 +243,7 @@ serait probablement heureux de la vendre à n’importe qui d’*autre*, il
 ne laisserait jamais Malefoy ou Harry gagner.
 
 « La plupart de vos soldats vous *sont* toujours loyaux, j’en suis assez
-certain, » dit Zabini. « C’est juste que personne ne veut passer à côté de
+certain », dit Zabini. « C’est juste que personne ne veut passer à côté de
 l’amusement que la trahison procure. » Le regard dédaigneux de Zabini
 laissa clairement entendre son opinion des gens qui ne prenaient pas les
 complots au sérieux. « Alors ils pensent pouvoir être des agents doubles
@@ -251,7 +251,7 @@ et travailler secrètement pour notre camp tout en prétendant nous
 trahir. »
 
 « Et cela vaudrait aussi pour toute personne des *autres* armées disant
-qu’elles veulent être *nos* espions, » dit prudemment Hermione.
+qu’elles veulent être *nos* espions », dit prudemment Hermione.
 
 Le jeune Serpentard haussa les épaules. « Je pense que j’ai bien réussi à
 déterminer ceux qui veulent vraiment vendre Malefoy, je ne suis pas
@@ -263,7 +263,7 @@ aussi bien que — »
 
 Hermione ferma ses yeux un moment. « On va perdre, c’est ça ? »
 
-« Écoutez, » dit Zabini avec patience, « vous êtes en tête en points
+« Écoutez », dit Zabini avec patience, « vous êtes en tête en points
 Quirrell pour l’instant. Il nous suffit de ne pas *complètement* perdre
 cette bataille et vous aurez assez de point pour gagner le vœu de Noël. »
 
@@ -278,7 +278,7 @@ quelle armée avait gagné les points. Et si quelqu’un faisait semblant
 d’être touché, le gong retentirait quand même, et un double gong
 retentirait plus tard, après une durée non déterminée, pour annoncer la
 rétraction. Et si vous acclamiez le nom d’une armée, si vous criiez
-« Pour Soleil ! » ou « Pour Chaos ! » ou « Pour Dragon !, » cela plaçait votre
+« Pour Soleil ! » ou « Pour Chaos ! » ou « Pour Dragon ! », cela plaçait votre
 allégeance sur cette armée…
 
 Même Hermione avait pu voir le défaut de *cet* ensemble de règles. Mais
@@ -294,10 +294,10 @@ Pour l’instant, Hermione avait deux cent quarante-quatre points
 Quirrell, et Malefoy en avait deux cent dix-neuf, et Harry en avait deux
 cent vingt-et-un ; et il y avait vingt-quatre soldats dans chaque armée.
 
-« Donc nous nous battons avec précaution, » dit Hermione, « et nous
+« Donc nous nous battons avec précaution », dit Hermione, « et nous
 essayons de ne pas perdre trop salement. »
 
-« Non, » dit Zabini. Le visage du jeune Serpentard était à présent
+« Non », dit Zabini. Le visage du jeune Serpentard était à présent
 sérieux. « Le problème, c’est que Malefoy et Potter savent maintenant que
 leur seule façon de gagner est de s’allier et de nous écraser, puis de
 combattre seuls. Alors voilà ce que je pense que nous devrions faire — »
@@ -333,13 +333,13 @@ confiance, dont l’un d’eux était un traître.
 
 Comme ça. C’est comme ça que la vie aurait dû être.
 
-« Nous sommes rassemblés, » dit Harry.
+« Nous sommes rassemblés », dit Harry.
 
-« Que le Chaos règne, » dirent les quatre lieutenants en chœur.
+« Que le Chaos règne », dirent les quatre lieutenants en chœur.
 
-« Mon aéroglisseur est plein d’anguilles, » dit Harry.
+« Mon aéroglisseur est plein d’anguilles », dit Harry.
 
-« Je n’achèterai pas ce disque, il est rayé, » dirent les quatre
+« Je n’achèterai pas ce disque, il est rayé », dirent les quatre
 lieutenants en chœur.
 
 « Tout smouales étaient les Borogoves. »
@@ -351,7 +351,7 @@ Cela conclut les formalités.
 « Comment va la confusion ? » dit Harry dans un souffle sec semblable à
 celui de l’empereur Palpatine.
 
-« Elle va bien, général Chaos, » dit Neville du ton qu’il utilisait
+« Elle va bien, général Chaos », dit Neville du ton qu’il utilisait
 toujours pour les affaires militaires, un ton si profond que le garçon
 devait souvent s’arrêter et tousser. Le lieutenant Chaotique était bien
 habillé dans ses robes scolaires noires, brodées du jaune de la maison
@@ -363,9 +363,9 @@ complots depuis hier soir. »
 Harry eut un sourire maléfique. « L’un d’entre eux a-t-il une chance de
 fonctionner ? »
 
-« Je ne pense pas, » dit Neville du Chaos. « Voici le rapport. »
+« Je ne pense pas », dit Neville du Chaos. « Voici le rapport. »
 
-« Excellent, » dit Harry, et il eut un sourire glacé tout en prenant le
+« Excellent », dit Harry, et il eut un sourire glacé tout en prenant le
 parchemin de mains de Neville, faisant de son mieux pour faire comme
 s’il s’étouffait sur de la poussière. Cela faisait un total de soixante.
 
@@ -380,7 +380,7 @@ de compagnie de quelqu’un, pour avoir un chat à caresser en même temps.
 « La Légion peut-elle arrêter de faire des complots maintenant ? » dit
 Finnigan du Chaos. « Je veux dire, n’avons-nous pas déjà assez de — »
 
-« Non, » dit catégoriquement Harry. « On ne peut *jamais* avoir assez de
+« Non », dit catégoriquement Harry. « On ne peut *jamais* avoir assez de
 complots. »
 
 Le professeur Quirrell l’avait parfaitement formulé. Ils repoussaient
@@ -390,7 +390,7 @@ rebroussé chemin maintenant.
 
 On entendit un coup contre la porte.
 
-« Ce sera le général Dragon, » dit Harry, souriant de sa prescience
+« Ce sera le général Dragon », dit Harry, souriant de sa prescience
 maléfique. « Il arrive, précisément au moment où je m’y attendais.
 Invitez-le donc à entrer, et vous-même à sortir. »
 
@@ -417,7 +417,7 @@ de décider de renverser Harry Potter avant que celui-ci ne puisse
 conquérir le monde. Drago n’arrivait même pas à *imaginer* ce que ça
 pourrait être que de vivre sous son règne).
 
-« Bonsoir, général Dragon, » dit Harry Potter d’un murmure brutal. « Vous
+« Bonsoir, général Dragon », dit Harry Potter d’un murmure brutal. « Vous
 voilà, comme je m’y attendais. »
 
 Ce n’était pas surprenant puisque Drago et Harry s’étaient mis d’accord
@@ -426,12 +426,12 @@ sur l’heure de leur rendez-vous.
 Et aussi, on n’était pas le soir, mais à ce stade, Drago avait assez
 d’expérience pour savoir qu’il valait mieux ne rien dire.
 
-« Général Potter, » dit Drago avait autant de dignité qu’il en était
+« Général Potter », dit Drago avait autant de dignité qu’il en était
 capable, « vous savez que nos deux armées doivent travailler ensemble
 pour qu’*un* d’entre nous ait une chance de remporter le vœu du
 professeur Quirrell ? »
 
-« Sc’est scela, » siffla Harry, comme si le garçon avait cru être un
+« Sc’est scela », siffla Harry, comme si le garçon avait cru être un
 Fourchelangue. « Nous devons coopérer pour détruire Soleil, puis en
 découdre entre nous. Mais si l’un de nous trahit l’autre en début de
 combat, il pourrait avoir un avantage plus tard. Et le général Soleil,
@@ -444,7 +444,7 @@ Drago hocha la tête. Évident jusque là. « Et… nous voulons tous deux
 gagner et *rien d’autre*, et il n’y a personne pour nous punir si nous
 trahissons l’autre… »
 
-« Exactement, » dit Harry Potter, son visage devenant maintenant sérieux.
+« Exactement », dit Harry Potter, son visage devenant maintenant sérieux.
 « Nous faisons face à un *vrai* dilemme du prisonnier. »
 
 Selon les enseignements de Harry, le dilemme du prisonnier fonctionnait
@@ -540,19 +540,19 @@ monde où toutes les Pansies coopéraient et un monde où toutes les
 Pansies trahissaient, et elle serait mieux lotie si les deux copies
 coopéraient. Et si Harry avait pensé que les gens « rationnels »
 *trahissaient* au dilemme du prisonnier, il n’aurait alors rien fait
-pour répandre ce genre de « rationalité, » parce qu’un pays ou une
+pour répandre ce genre de « rationalité », parce qu’un pays ou une
 conspiration pleins de gens « rationnels » se seraient dissolus dans le
 chaos. Vous parleriez de la « rationalité » à vos *ennemis*.
 
 Sur le moment, tout cela avait *semblé* raisonnable à Drago, mais
 *maintenant* la pensée lui venait que…
 
-« *Tu* as dit, » dit Drago, « que la solution rationnelle au dilemme du
+« *Tu* as dit », dit Drago, « que la solution rationnelle au dilemme du
 prisonnier est de coopérer. Mais bien sûr que *tu* voudrais que je crois
 ça. » Et si Drago se faisait duper et coopérait, Harry dirait juste, *ha
 ha, je t’ai encore trahi* ! et il se moquerait ensuite de lui.
 
-« Je ne me permettrai pas de falsifier les leçons, » dit Harry avec
+« Je ne me permettrai pas de falsifier les leçons », dit Harry avec
 sérieux. « Mais Drago, je dois te rappeler que je n’ai pas dit que tu
 devrais juste automatiquement coopérer. Pas dans un *vrai* dilemme du
 prisonnier tel que celui-ci. Ce que j’ai dit, c’est que quand tu
@@ -578,11 +578,11 @@ que tu peux prédire que je le déciderai ? »
 besoin de faire un effort pour comprendre *la moitié* de ce que Harry
 venait de dire, la réponse était évidemment « Non ».
 
-« Oui, » dit Drago.
+« Oui », dit Drago.
 
 Il y eut une pause.
 
-« Je vois, » dit Harry, l’air déçu. « Eh bien. Dans ce cas, j’imagine que
+« Je vois », dit Harry, l’air déçu. « Eh bien. Dans ce cas, j’imagine que
 nous allons devoir trouver un autre moyen. »
 
 Drago n’avait pas pensé que cela allait fonctionner.
@@ -614,9 +614,9 @@ elle allait, son esprit préoccupé par la guerre, par la duplicité, et
 par d’autres concepts impropres à son âge, et elle passa un angle et
 alla se cogner directement contre un adulte.
 
-« Pardon, » dit-elle, puis, sans vraiment y songer : « *Aaaaaaaaaah !* »
+« Pardon », dit-elle, puis, sans vraiment y songer : « *Aaaaaaaaaah !* »
 
-« Ne vous en faites pas, mademoiselle Granger, » dit le sourire joyeux
+« Ne vous en faites pas, mademoiselle Granger », dit le sourire joyeux
 placé sous les yeux pétillants et au-dessus de la barbe argentée du
 DIRECTEUR DE POUDLARD. « Vous êtes tout à fait pardonnée. »
 
@@ -628,7 +628,7 @@ Seigneur des Ténèbres, et de nombreux autres faits apparaissaient dans
 son esprit les uns après les autres tandis que sa gorge émettait
 d’embarrassants petits couinements.
 
-« À vrai dire, » dit Albus Perceval Wulfric Brian Dumbledore, « c’est un
+« À vrai dire », dit Albus Perceval Wulfric Brian Dumbledore, « c’est un
 heureux hasard que nous nous soyons ainsi rentrés dedans. Allons, je me
 demandais justement, et avec curiosité, ce que vous trois comptiez
 demander pour votre vœu… »
@@ -705,7 +705,7 @@ Les conversations moururent presque instantanément sous le regard de
 glace de Drago, ses soldats levant les yeux vers lui avec de
 gratifiantes expressions de peur et d’inquiétude.
 
-« Écoutez-moi avec très attentivement, » dit le général Malefoy. Sa voix
+« Écoutez-moi avec très attentivement », dit le général Malefoy. Sa voix
 était un peu plus grave, un peu bulleuse, *éboutez boi dlès
 attentibement*, mais le son se propageait avec clarté. « Il n’y a qu’une
 seule façon de gagner ceci. Nous devons avancer sur Soleil avec Chaos et
@@ -717,13 +717,13 @@ Et Drago expliqua le plan que lui et Harry avait concocté.
 
 Des regards effarés furent échangés parmi les soldats.
 
-« — et si l’un de *vos* complots fait obstacle à ceci, » conclut Drago,
+« — et si l’un de *vos* complots fait obstacle à ceci », conclut Drago,
 « je vous immolerai après que nous soyons sortis de l’eau. »
 
 Il y eut un chorus nerveux de *ouimsieur*.
 
 « Et tous ceux avec des ordres secrets, assurez-vous de les exécuter *à
-la lettre*, » dit Drago.
+la lettre* », dit Drago.
 
 Environ la moitié de ses soldats *hochèrent ouvertement la tête*, et
 Drago les marqua comme devant être tués après son ascension au pouvoir.
@@ -808,7 +808,7 @@ la surface ensoleillée du lac.
 
 « Et maintenant *quoi* ? » dit Ron.
 
-« Maintenant, on attend, » dit Hermione, assez fort pour que tous ses
+« Maintenant, on attend », dit Hermione, assez fort pour que tous ses
 soldats l’entendent. C’était étrange de parler la bouche pleine d’eau,
 elle avait constamment l’impression de commettre une horrible
 impolitesse à la table du dîner et d’être sur le point de se baver
@@ -816,7 +816,7 @@ dessus. « Nous tous ici allons nous faire dézinguer, mais ça allait de
 toute façon avoir lieu avec Dragon et Chaos s’alliant contre nous. Nous
 devons juste essayer d’en emporter le plus possible avec nous. »
 
-« J’ai un plan, » dit l’un de ses soldats Soleil… Hannah, sa voix avait
+« J’ai un plan », dit l’un de ses soldats Soleil… Hannah, sa voix avait
 été un peu difficile à reconnaître au début. « C’est plutôt compliqué,
 mais je sais comment nous pouvons pousser Dragon et Chaos à se battre le
 uns contre les autres — »
@@ -834,7 +834,7 @@ après l’autre.
 
 Hermione les regarda d’un air fatigué.
 
-« D’accord, » dit Hermione lorsque le tumulte se fut tarit, « vous avez
+« D’accord », dit Hermione lorsque le tumulte se fut tarit, « vous avez
 tous compris ? Tous vos plans étaient fabriqués par la légion du Chaos,
 et certains peut-être par Dragon. Toute personne voulant *vraiment*
 trahir Harry ou Malefoy allait me voir moi ou Zabini, pas vous. Allez-y,
@@ -845,20 +845,20 @@ disaient, c’était pour ça que le professeur Quirrell l’avait faite
 général. « Alors ne vous fatiguez pas à essayer d’autres complots quand
 les armées arriveront. Battez-vous, d’accord ? S’il vous plaît ? »
 
-« Mais, » dit Ernie, un air choqué sur le visage, « Neville est
+« Mais », dit Ernie, un air choqué sur le visage, « Neville est
 *Poufsouffle* ! Tu veux dire qu’il nous a *menti* ? »
 
 Daphné riait si bruyamment et avec tant de force que ses exhalaisons
 sous-marines l’avaient mise tête en bas.
 
-« Je ne suis pas certain de ce qu’*est* Londubat, » dit Ron d’un air
+« Je ne suis pas certain de ce qu’*est* Londubat », dit Ron d’un air
 sombre, « mais je ne pense pas qu’il soit toujours un Poufsouffle. Pas
 maintenant que *Harry Potter* a fait main basse sur lui. »
 
-« Sais-tu, » dit Susan, « que je lui ai *posé* cette question, et qu’il m’a
+« Sais-tu », dit Susan, « que je lui ai *posé* cette question, et qu’il m’a
 dit qu’il était devenu un Poufsouffle du Chaos ? »
 
-« *Quoi qu’il en soit*, » dit Hermione d’une voix forte. « Zabini est parti
+« *Quoi qu’il en soit* », dit Hermione d’une voix forte. « Zabini est parti
 avec tous ceux que nous pensons être des espions, donc j’espère que dans
 *notre* armée nous pouvons arrêter de nous surveiller autant. »
 
@@ -866,7 +866,7 @@ avec tous ceux que nous pensons être des espions, donc j’espère que dans
 
 « *Parvati* était une espionne ? » s’étrangla Hannah.
 
-« Parvati était carrément une espionne, » dit Daphné. « Elle faisait ses
+« Parvati était carrément une espionne », dit Daphné. « Elle faisait ses
 courses au marché des espions et portait du rouge à lèvre d’espion, et
 un jour elle va se marier avec un gentil mari espion et avoir plein de
 petits espions. »
@@ -880,7 +880,7 @@ Les traîtres n’avaient pas le droit de tuer les généraux, pas après le
 désastre de la première bataille en Décembre où les trois généraux
 avaient été abattus durant la première minute. Mais avec de la chance…
 
-« Oh, » dit Hermione. « On dirait que M. Crabbe fait une petite sieste. »
+« Oh », dit Hermione. « On dirait que M. Crabbe fait une petite sieste. »
 
 
 
@@ -913,7 +913,7 @@ de l’être autant pour Neville.
 La direction anciennement connue sous le nom de « haut » devenait de plus
 en plus claire tandis qu’ils s’approchaient de la surface et de Soleil.
 
-« Baguettes dehors, » dit le général Chaos.
+« Baguettes dehors », dit le général Chaos.
 
 L’escouade de Neville sortit ses baguettes, les pointant droit vers
 l’ennemi tandis que leur tête scannait encore plus vite. S’il y avait
@@ -975,7 +975,7 @@ La plupart des soldats de Hermione semblaient encore confus, mais une
 expression d’horreur naissante se dessinait sur le visage de ceux qui
 commençaient à comprendre.
 
-« Tout va bien, » dit Susan Bones d’une voix forte. Des têtes se
+« Tout va bien », dit Susan Bones d’une voix forte. Des têtes se
 tournèrent pour regarder le capitaine Soleil. « Notre tâche reste la
 même, en abattre autant que nous le pouvons. Et souvenez-vous, Zabini a
 emporté tous les espions ! Nous n’avons pas être vigilants comme *eux*
@@ -1042,7 +1042,7 @@ battre sans tes attaques spéciales idiotes — * »
 et lorsque le capitaine Soleil eut fini d’être incliné sur le côté,
 Neville tira sur sa jambe.
 
-« Je ne me bats pas en juste, » dit Neville à la forme endormie, « je me
+« Je ne me bats pas en juste », dit Neville à la forme endormie, « je me
 bats comme Harry Potter. »
 
 *Granger : 237 / Malefoy : 217 / Potter : 220*
@@ -1102,7 +1102,7 @@ Les deux bancs nagèrent l’un à côté de l’autre, mals à l’aise, les
 soldats de chaque armée attendant un ordre pour proclamer leur véritable
 allégeance et attaquer…
 
-« Tous ceux qui les ont reçus, » dit Harry d’une voix forte,
+« Tous ceux qui les ont reçus », dit Harry d’une voix forte,
 « souvenez-vous des Ordres Spéciaux Un à Trois. Et n’oubliez pas que
 c’est Merlin a dit pour le Trois. Ne confirmez pas. »
 
@@ -1243,7 +1243,7 @@ Serdaigle était sœur de Serpentard ; Drago avait été surpris lorsque son
 père lui avait dit que c’était une maison acceptable pour sa future
 femme, mais il comprenait maintenant pourquoi.
 
-« Attendez que nous soyons tous là, » dit Drago. À vrai dire, il avait
+« Attendez que nous soyons tous là », dit Drago. À vrai dire, il avait
 besoin de reprendre son souffle. C’était le problème quand on était le
 général *et* le sorcier le plus puissant, il fallait sans cesse utiliser
 sa magie.
@@ -1281,12 +1281,12 @@ Bogdan a abattu Specter — »
 « *Si* ! » hurla Cesi. « Général Malefoy, c’est *elle* l’espion, j’aurais dû
 m’en ren- »
 
-« *Somnium*, » dit Drago.
+« *Somnium* », dit Drago.
 
 Il y eut le triple son de cloche d’une perte d’un point pour Dragon, et
 le corps mou de Kellah commença alors à dériver loin d’eux.
 
-À ce stade, Drago *avait* entendu le mot « récursion, » et il savait
+À ce stade, Drago *avait* entendu le mot « récursion », et il savait
 reconnaître un complot de Harry Potter quand il en avait un sous les
 yeux.
 
@@ -1368,7 +1368,7 @@ sourire le plus démoniaque qu’il ait jamais adressé à Harry Potter.
 
 « Le sommeil plutôt que de se rendre ! » tonna le général Chaos.
 
-« Juste pour que tu saches, » dit Drago, « Zabini n’a pas *vraiment* une
+« Juste pour que tu saches », dit Drago, « Zabini n’a pas *vraiment* une
 grande sœur que tu pourrais sauver des griffes de brutes de Gryffondor.
 Mais Zabini *a* une mère qui ne voit pas d’un bon œil les nés-Moldus
 tels que Granger, et je lui ai écrit quelques mots, et j’ai offert
@@ -1403,7 +1403,7 @@ Harry expira longuement sous l’effet du soulagement, et pas seulement
 parce qu’il n’avait plus besoin de maintenir sa sphère prismatique.
 Lorsqu’il abaissa sa baguette, sa main tremblait.
 
-« Tu sais, » dit Harry, « j’ai été plutôt inquiet l’espace d’un instant. »
+« Tu sais », dit Harry, « j’ai été plutôt inquiet l’espace d’un instant. »
 
 *Ordre Spécial Deux : Si un traître Soleil n’a pas l’air de vraiment
 vous tirer dessus, faire occasionnellement semblant d’être touché.
@@ -1417,16 +1417,16 @@ aucune des jumelles Patil.*
 Avec un large sourire, Parvati Patil arracha la partie métamorphosée du
 blason de son uniforme et le laissa flotter dans l’eau.
 
-« Gryffondor pour Chaos, » dit-elle, et elle rendit sa baguette à Zabini.
+« Gryffondor pour Chaos », dit-elle, et elle rendit sa baguette à Zabini.
 
-« Merci *beaucoup*, » dit Harry, et il s’inclina prestement en direction
-de la fille Gryffondor. « Et merci à *toi* aussi, » s’inclinant vers
+« Merci *beaucoup* », dit Harry, et il s’inclina prestement en direction
+de la fille Gryffondor. « Et merci à *toi* aussi », s’inclinant vers
 Zabini. « Tu sais, quand tu es venu me voir avec ce plan, je me suis
 demandé si tu étais génial ou fou, et j’ai décidé que tu étais les deux.
-Au fait, » dit Harry, se tournant maintenant comme pour s’adresser au
+Au fait », dit Harry, se tournant maintenant comme pour s’adresser au
 corps de Drago, « Zabini *a* un cousin — »
 
-« *Somnium*, » dit la voix de Zabini.
+« *Somnium* », dit la voix de Zabini.
 
 
 
@@ -1439,7 +1439,7 @@ Granger : 255 / Malefoy : 252 / Potter : 254
 Et le corps de Harry Potter dériva, l’expression de choc et d’horreur se
 relaxant rapidement sous l’effet du sommeil.
 
-« Réflexion faite, » dit Parvati d’un ton joyeux, « disons plutôt
+« Réflexion faite », dit Parvati d’un ton joyeux, « disons plutôt
 Gryffondor pour Soleil. »
 
 Elle commença à rire, plus euphorique qu’elle ne l’avait jamais été de
@@ -1454,27 +1454,27 @@ baguette de Zabini se tourna vers elle.
 
 « *Quoi* ? » dit Parvati.
 
-« Désolé, » dit Zabini, d’un air désolé pas-vraiment-sincère, « mais je ne
+« Désolé », dit Zabini, d’un air désolé pas-vraiment-sincère, « mais je ne
 peux pas être *entièrement* certain que tu es pour Soleil. Donc je
 t’ordonne de me laisser t’abattre. »
 
 « *Attends !* » dit Parvati. « On est seulement devant Chaos par un point !
 Si tu m’abats maintenant — »
 
-« Je t’abats au nom de Dragon, *évidemment*, » dit Zabini, d’un ton à
+« Je t’abats au nom de Dragon, *évidemment* », dit Zabini, d’un ton à
 présent légèrement supérieur. « Ce n’est pas parce que nous sommes
 parvenus à *les* pousser à le faire que ça ne marchera pas pour nous. »
 
 Parvati le fixa, ses yeux s’amincissant. « Le général Malefoy a dit que ta
 mère n’aime pas Hermione. »
 
-« J’imagine, » dit Zabini, toujours avec ce rictus supérieur. « Mais
+« J’imagine », dit Zabini, toujours avec ce rictus supérieur. « Mais
 certains d’entre nous sont plus disposés à agacer un parent que ne l’est
 Drago Malefoy. »
 
 « Et Harry Potter a dit que tu as un cousin — »
 
-« Nan, » dit Zabini.
+« Nan », dit Zabini.
 
 Parvati le fixa, essayant de réfléchir, mais elle n’était vraiment pas
 douée en complot ; Zabini avait dit que le plan était de secrètement
@@ -1487,7 +1487,7 @@ Serpentard…
 « Pourquoi est-ce que *je* ne t’abats pas *toi* au nom de Dragon ? » dit
 Parvati.
 
-« Parce que je suis ton supérieur, » dit Zabini.
+« Parce que je suis ton supérieur », dit Zabini.
 
 Parvati avait un mauvais pressentiment.
 
@@ -1506,7 +1506,7 @@ n’avait pas dit *pour Dragon*, et elle se coupa avec frénésie -
 
 Granger : 255 / Malefoy : 254 / Potter : 254
 
-« Bonjour tout le monde, » dit le visage de Blaise Zabini depuis les
+« Bonjour tout le monde », dit le visage de Blaise Zabini depuis les
 écrans, affichant air plutôt amusé, « j’ai l’impression qu’il ne reste
 que moi. »
 
@@ -1523,7 +1523,7 @@ Une série de carillons indiquait que la dernière minute de la bataille
 Et le Serpentard eut un étrange sourire tordu, et il joua négligemment
 avec sa baguette, le bois sombre à peine visible dans l’eau trouble.
 
-« Vous savez, » dit la voix de Blaise Zabini du ton de quelqu’un qui avait
+« Vous savez », dit la voix de Blaise Zabini du ton de quelqu’un qui avait
 préparé ces mots depuis longtemps, « c’est juste un jeu, en fait. Et les
 jeux sont censés être *amusants*. Alors pourquoi est-ce que je ne ferais
 pas ce qui me chante ? »

@@ -21,14 +21,14 @@ Et étrangement, Lord Voldemort n’avait pas encore tiré.
 
 La voix de Harry ressembla à un coassement. « Qu’attendez-vous de moi ? »
 
-« Te voir mourir, » répondit le professeur Quirrell, « certainement pas. Si
+« Te voir mourir », répondit le professeur Quirrell, « certainement pas. Si
 je l’avais voulu, tu serais mort depuis longtemps. La bataille fatidique
 en Lord Voldemort et le Survivant est un pur produit de l’imagination de
 Dumbledore. Je sais où se trouve ta maison familiale et je sais ce
 qu’est un fusil à lunette. Tu aurais été mort avant d’avoir touché une
 baguette. J’espère que tu comprends ça, Tom. »
 
-« C’est limpide, » murmura Harry. Son corps tremblait encore, exécutait
+« C’est limpide », murmura Harry. Son corps tremblait encore, exécutait
 des programmes plus appropriés à la fuite face à un tigre qu’au lancer
 de délicats sortilèges ou à la *réflexion*. Mais il put en partie
 deviner ce que celui qui tenait l’arme désirait de lui, une question que
@@ -54,7 +54,7 @@ apparurent sur le front de Harry. « Lâche ta baguette. *Maintenant*.
 
 Harry s’exécuta. »Éloigne-t’en,« dit le professeur Quirrell.
 
-Harry obéit. »Tends une main vers ton cou,« dit le professeur Quirrell, »et enlève
+Harry obéit. »Tends une main vers ton cou,« dit le professeur Quirrell »,et enlève
 ton Retourneur de Temps en ne touchant que la chaîne. Place-le au sol,
 et éloigne-t’en aussi.« Harry le fit aussi. Même en état de choc, son esprit cherchait encore
 une façon de faire pivoter le Retourneur de Temps, de vaincre par un
@@ -74,10 +74,10 @@ toujours douce. »Est-ce que ce sont là des choses qui t’importent,
 petit ? Je serais heureux de t’entendre dire non, mais ce serait trop
 espérer.« »Je voudrais,« parvint à dire Harry à travers l’horreur, le chagrin et
 les lames qui, rompant un lien émotionnel, provoquaient la douleur d’un
-membre qu’on ampute, »que vous ne fassiez rien de tout ça, Professeur.« *Pourquoi, Professeur Quirrell, pourquoi est-ce que ça se termine comme
+membre qu’on ampute »,que vous ne fassiez rien de tout ça, Professeur.« *Pourquoi, Professeur Quirrell, pourquoi est-ce que ça se termine comme
 ça ? Je ne… je ne veux pas admettre que c’est vrai…* »
 
-« Très bien, » dit le professeur Quirrell. « Je t’autorise à me donner
+« Très bien », dit le professeur Quirrell. « Je t’autorise à me donner
 quelque chose que je désire. » Il agita l’arme en signe d’encouragement.
 « C’est un privilège rare, petit. Lord Voldemort n’a pas l’habitude de
 négocier. »
@@ -98,10 +98,10 @@ Harry déglutit bruyamment. Il n’arrivait pas à empêcher ses yeux de
 faire l’aller-retour entre le visage du professeur Quirrell et le
 pistolet.
 
-Il savait bien que le héros d’un livre de contes aurait dit « Non, » mais
+Il savait bien que le héros d’un livre de contes aurait dit « Non », mais
 ici, dans la réalité, dire « Non » semblait absurde.
 
-« Je suis déçu de voir que tu as besoin d’y réfléchir, » dit le professeur
+« Je suis déçu de voir que tu as besoin d’y réfléchir », dit le professeur
 Quirrell. « Tu devrais évidemment m’obéir, puisque j’ai un ascendant
 total sur toi. Je te l’ai déjà appris : dans cette situation, tu devrais
 faire semblant de perdre. Il n’y a rien à espérer gagner dans la lutte,
@@ -118,7 +118,7 @@ Davis. Elle pivota lentement, ses membres tendus…
 … puis elle redescendit juste au moment où une nouvelle dose
 d’adrénaline atteignait le cœur de Harry.
 
-« Choisis, » dit le professeur Quirrell. « Je commence à perdre patience. »
+« Choisis », dit le professeur Quirrell. « Je commence à perdre patience. »
 
 *J’aurais dû répondre tout de suite, avant qu’il ne manque d’arracher
 ses jambes à Tracey… non, le directeur a dit qu’il ne fallait pas
@@ -135,12 +135,12 @@ activité ; la seule chose capable de le faire s’effondrer, malgré un
 cerveau en état de marche, c’était le modèle qu’il avait de lui-même, le
 fait de *croire* qu’il allait s’effondrer…
 
-« Je n’ai pas l’intention d’éprouver votre patience, » dit-il d’une voix
+« Je n’ai pas l’intention d’éprouver votre patience », dit-il d’une voix
 brisée. Tant mieux. Lord Voldemort lui donnerait peut-être plus de temps
 s’il le croyait en état de choc. « Mais je n’ai jamais entendu dire que
 Lord Voldemort respectait sa parole. »
 
-« Une inquiétude compréhensible, » dit le professeur Quirrell. « Il y a une
+« Une inquiétude compréhensible », dit le professeur Quirrell. « Il y a une
 solution simple, que je comptais utiliser de toute façon. *Le sserpents
 ne peuvent pas mentir*. Et, comme la stupidité me déplaît au plus haut
 poins, je te conseille de ne pas me demander de m’expliquer. Tu vaux
@@ -167,7 +167,7 @@ souviens-toi bien de ceci : *Il n’exisste à ma connaisssance aucun moyen
 de me vaincre ; perdre la pierre ne m’empêchera pas de revenir et ma
 colère n’épargnera ni toi, ni les tiens.* Aucune des réactions hâtives
 que tu contemples ne te permettront de gagner, petit. Mais je reconnais
-ta capacité à m’agacer, et je te conseille d’éviter de le faire. »Vous avez dit,« répondit Harry d’une voix qui lui sembla étrange, »que
+ta capacité à m’agacer, et je te conseille d’éviter de le faire. »Vous avez dit,« répondit Harry d’une voix qui lui sembla étrange »,que
 les pouvoirs de la Pierre Philosophale n’étaient pas ceux décrits par la
 légende. Vous me l’avez dit en Fourchelangue. Avant d’accepter de vous
 aider, je veux connaître le véritable pouvoir de la Pierre.« Si la
@@ -233,7 +233,7 @@ pas le temps d’avoir une conversation ordinaire, il lui fallait deviner
 à l’avance la requête à la fois la plus sûre et la plus ambitieuse
 possible.
 
-Le professeur Quirrell plissa les yeux, écarta les lèvres… »Si je vous aide,« dit Harry, »vous devez promettre que vous ne comptez
+Le professeur Quirrell plissa les yeux, écarta les lèvres… »Si je vous aide,« dit Harry »,vous devez promettre que vous ne comptez
 pas vous en prendre à moi ensuite. Je veux que vous épargniez le
 professeur Rogue et tous les habitants de Poudlard pendant au moins une
 semaine. Et je veux des réponses, je veux savoir ce qui se passe depuis
@@ -253,7 +253,7 @@ le professeur Quirrell.
 
 Harry hocha la tête, incapable de répondre.
 
-« *J’accepte*, » siffla le professeur Quirrell. « *Aide-moi et tu auras les
+« *J’accepte* », siffla le professeur Quirrell. « *Aide-moi et tu auras les
 réponsses à tes quesstions, tant qu’elles concernent le passsé et pas
 mes plans futurs. Je ne compte pas te faire du mal un jour,
 physsiquement ou magiquement, tant que tu feras de même. Je ne tuerai
@@ -264,7 +264,7 @@ Pierre. Et je rendrai la vie et la ssanté à la fille-amie ; et ni moi ni
 les miens ne chercherons plus à lui faire du mal.* » Un sourire retors.
 « *Promets, petit, et le marché ssera conclu.* »
 
-« Je promets, » murmura Harry.
+« Je promets », murmura Harry.
 
 *QUOI ?* hurla le reste de son esprit.
 
@@ -334,7 +334,7 @@ s’il manipulait une marionnette suspendue à des fils.
 Le professeur Rogue se releva prestement et se plaça à nouveau devant la
 porte du couloir.
 
-« *Alohomora*, » dit le professeur Quirrell en dirigeant sa baguette vers
+« *Alohomora* », dit le professeur Quirrell en dirigeant sa baguette vers
 la porte interdite. Il avait l’air de s’amuser beaucoup. « Me feras-tu
 l’honneur, petit ? »
 

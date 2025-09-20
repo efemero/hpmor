@@ -103,7 +103,7 @@ Elle s’obligea à regarder Harry en face et vit que ses yeux verts
 
 « Professeur McGonagall ? » dit le garçon d’une voix basse.
 
-« M. Potter, » dit-elle, « j’ai peur que ce ne soit pas à moi de vous
+« M. Potter », dit-elle, « j’ai peur que ce ne soit pas à moi de vous
 l’expliquer, mais si après ce qui va suivre le directeur ne vous dit
 *toujours* rien, vous pourrez revenir me revoir et j’irai lui crier
 dessus pour vous. »
@@ -112,7 +112,7 @@ Les yeux du garçon s’écarquillèrent, une partie du véritable Harry qui
 se révélait par une faille avant que le masque composé ne se remette en
 place.
 
-« Quoi qu’il en soit, » dit-elle vivement. « Je suis navrée du dérangement,
+« Quoi qu’il en soit », dit-elle vivement. « Je suis navrée du dérangement,
 M. Potter, mais je dois vous demander d’utiliser votre Retourneur de
 Temps pour revenir six en heures en arrière, à trois heures de
 l’après-midi afin de donner le message suivant au professeur Flitwick :
@@ -134,7 +134,7 @@ rien y faire. Merci de faire savoir aux elfes de maison qu’ils devront
 obtempérer si je demande un petit-déjeuner très matinal, disons à trois
 heures demain matin. »
 
-« Bien sûr, M. Potter, » dit-elle. « Merci de votre compréhension. »
+« Bien sûr, M. Potter », dit-elle. « Merci de votre compréhension. »
 
 Le garçon se leva de sa chaise et lui offrit un salut formel avant de se
 glisser hors de la pièce, sa main allant déjà sous sa chemise, là où son
@@ -160,7 +160,7 @@ aussi profonde et véritable que celle des jumeaux Weasley, même si un
 sortilège de Doloris n’aurait pas suffit à faire qu’elle le dise à voix
 haute.
 
-« *Expecto Patronum*, » dit-elle, puis : « Vas voir le professeur Flitwick
+« *Expecto Patronum* », dit-elle, puis : « Vas voir le professeur Flitwick
 et rapporte sa réponse après lui avoir demandé ceci : “M. Potter
 t’a-t-il donné un message de moi, quel était ce message, et quand
 l’as-tu reçu ?” »
@@ -306,7 +306,7 @@ costume d’affaires.
 
 Albus Dumbledore semblait à la fois très âgé et très triste.
 
-« Bonjour, Harry, » dit le vieux sorcier.
+« Bonjour, Harry », dit le vieux sorcier.
 
 Depuis l’intérieur d’un soi alternatif maintenu à la façon d’une
 barrière Occlumantique, un Harry innocent et ignorant de tout ce qui se
@@ -314,7 +314,7 @@ passait inclina sa tête froidement et dit : « Monsieur le directeur. Je
 suppose que vous avez reçu une réponse du professeur McGonagall, et si
 cela ne vous dérange pas, j’aimerais *vraiment* savoir ce qui se passe. »
 
-« Oui, » dit le vieux sorcier, « il est temps, Harry Potter. » Le dos se
+« Oui », dit le vieux sorcier, « il est temps, Harry Potter. » Le dos se
 raidit, un peu seulement, car le sorcier se tenait déjà très droit ;
 mais ce changement parvint néanmoins à donner l’impression qu’il avait
 gagné trente centimètres de hauteur, de la force sinon de la jeunesse,
@@ -327,7 +327,7 @@ chose qui observait depuis l’intérieur songea plus ou moins la même
 chose, à de nombreuses profanités près.
 
 « On a fait sortir Bellatrix Black d’Azkaban ; elle s’est échappée d’une
-prison inviolable, » dit le vieux sorcier. « Si une prouesse porte la
+prison inviolable », dit le vieux sorcier. « Si une prouesse porte la
 signature de Voldemort, c’est bien celle-ci, et elle, son plus fidèle
 serviteur, est l’un des trois éléments nécessaires à son retour parmi
 nous dans une nouvelle enveloppe charnelle. Comme il a été prédit,
@@ -336,7 +336,7 @@ l’ennemi que tu as vaincu revient dix ans plus tard. »
 Rien en Harry ne trouvait quoi répondre à cela, du moins pas pendant les
 quelques secondes disponibles avant que le vieux sorcier ne continue :
 
-« Peu de choses devront changer pour toi, » dit-il. « J’ai commencé à
+« Peu de choses devront changer pour toi », dit-il. « J’ai commencé à
 rassembler l’Ordre du Phénix, qui te servira, et j’ai alerté les
 quelques âmes qui devraient et vont comprendre : Amélia Bones, Alastor
 Maugrey, Bartemius Croupton et certains autres. De la prophétie — oui, il
@@ -358,13 +358,13 @@ Le silence dura un bon moment.
 Puis Harry dit : « C’est un exemplaire du *Seigneur des Anneaux* de J.R.R
 Tolkien. »
 
-« Tu as su reconnaître une citation de ce livre, » dit Dumbledore, le
+« Tu as su reconnaître une citation de ce livre », dit Dumbledore, le
 regard attentif, « je présume donc que tu t’en souviens bien. Corrige moi
 si je me trompe. »
 
 Harry se contenta de le fixer du regard.
 
-« Il est important que tu comprennes, » dit Dumbledore, « que ce livre
+« Il est important que tu comprennes », dit Dumbledore, « que ce livre
 n’est pas une représentation réaliste d’une guerre de sorciers. John
 Tolkien n’a jamais combattu Voldemort. Ta guerre ne sera pas celle des
 livres que tu as lu. La vie ne ressemble pas aux histoires.
@@ -372,7 +372,7 @@ Comprends-tu, Harry ? »
 
 Assez lentement, Harry acquiesça ; puis il fit non de la tête.
 
-« En particulier, » dit Dumbledore, « Gandalf fait une chose
+« En particulier », dit Dumbledore, « Gandalf fait une chose
 particulièrement idiote dans le premier tome. Il en fait beaucoup, c’est
 le sorcier de Tolkien ; mais cette erreur est la plus impardonnable. La
 voici : lorsque Gandalf soupçonne, même l’espace d’un instant, que
@@ -393,7 +393,7 @@ Comprends-tu ce dont je parle ? »
 ainsi, quelque chose chez ce dernier rendait plus ardue la tâche de
 rester glacial ; son côté obscur avait du mal avec le bizarre.
 
-« Alors je serai clair, » dit le vieux sorcier. Sa voix était dure et ses
+« Alors je serai clair », dit le vieux sorcier. Sa voix était dure et ses
 yeux tristes. « Frodon aurait dû être immédiatement envoyé à Fondcombe
 par Gandalf — et il n’aurait jamais dû quitter Fondcombe sans escorte.
 Il n’y aurait pas dû y avoir de nuit de terreur à Bree, de Hauts des
@@ -410,11 +410,11 @@ Et le Harry qui ne savait rien dit exactement ce qu’un Harry innocent
 *aurait* dit tandis que l’observateur silencieux poussait un hurlement
 d’agonie et de désespoir.
 
-« Vous voulez dire, » dit Harry, la voix tremblantes, tandis que les
+« Vous voulez dire », dit Harry, la voix tremblantes, tandis que les
 émotions qui l’habitaient brûlaient, perçaient la couche de calme
 externe, « que je ne vais pas rentrer chez mes parents pour Pâques. »
 
-« Tu les *reverras*, » dit prestement le vieux sorcier. « Je les prierai de
+« Tu les *reverras* », dit prestement le vieux sorcier. « Je les prierai de
 venir te voir, et ils seront reçu de la meilleure des façons possibles.
 Mais tu ne rentreras pas pour Pâques, Harry. Tu ne rentreras pas pendant
 l’été. Tu ne prendras plus de déjeuners au Chemin de Traverse, même avec
@@ -427,7 +427,7 @@ longtemps pour pouvoir te mener en lieu sûr. »
 De l’eau s’amoncelait aux coins des yeux de Harry. « Est-ce une
 demande ? » dit sa voix chevrotante. « Ou un ordre ? »
 
-« Je suis navré, Harry, » dit le vieux sorcier d’une voix douce. « Tes
+« Je suis navré, Harry », dit le vieux sorcier d’une voix douce. « Tes
 parents en reconnaîtront la nécessité, du moins je l’espère, mais sinon…
 j’ai peur qu’ils n’aient aucun recours ; la loi, aussi injuste
 soit-elle, ne les reconnaît pas comme tes tuteurs légaux. Je suis navré,
@@ -445,7 +445,7 @@ vue sur l’affaire, comme le professeur Quirrell le prédit ?*
 Le masque du Harry innocent dit automatiquement ce qu’il aurait dit :
 « Mes parents sont-ils en danger ? Doivent-*ils* être amenés ici ? »
 
-« Non, » dit la voix du vieux sorcier. « Je ne pense pas. Vers la fin de la
+« Non », dit la voix du vieux sorcier. « Je ne pense pas. Vers la fin de la
 guerre, les Mangemorts ont appris à ne pas attaquer les familles de
 l’Ordre. Et si Voldemort agit à présent sans l’aide de ses ancien
 compagnons, il sait toujours que c’est moi qui prend encore les
@@ -465,7 +465,7 @@ d’astuce, il demanderait au professeur Quirrell s’il y avait un moyen de
 convaincre le directeur qu’il avait tort. Pour le moment, maintenir le
 masque requérait toute l’attention de Harry.
 
-« Voldemort a utilisé un engin Moldu pour s’échapper d’Azkaban, » dit le
+« Voldemort a utilisé un engin Moldu pour s’échapper d’Azkaban », dit le
 vieux sorcier. « Il t’observe et il apprend de toi. Un homme du ministère
 nommé Arthur Weasley rendra bientôt un édit interdisant tout utilisation
 d’objets Moldus pendants les batailles du professeur de Défense. À
@@ -476,12 +476,12 @@ d’acquiescer et répéta : « Y a-t-il autre chose ? »
 
 Il y eut un silence.
 
-« S’il te plaît, » dit le vieux sorcier dans un murmure. « Je n’ai pas le
+« S’il te plaît », dit le vieux sorcier dans un murmure. « Je n’ai pas le
 droit de demander ton pardon, mais s’il te plaît, Harry James
 Potter-Evans-Verres, dis moi au moins que tu comprends mes raisons. » On
 pouvait voir de l’eau dans les yeux du vieux mage.
 
-« Je comprends, » dit la voix du Harry extérieur, qui comprenait, « enfin…
+« Je comprends », dit la voix du Harry extérieur, qui comprenait, « enfin…
 c’est plus ou moins ce que je me disais, de toute façon… je me demandais
 si j’aurais pu vous convaincre vous et mes parents de me laisser rester
 à Poudlard pendant l’été, comme les orphelins, pour que je puisse y lire
@@ -536,7 +536,7 @@ les larmes commencèrent à se déverser des yeux de Harry, le long de ses
 joues, et sa voix buta à mesure que les mots sortirent sa gorge, comme
 s’il avait toussé de la lave…
 
-« Fumseck dit, » fit la voix de Harry, « qu’il veut que, je fasse, quelque
+« Fumseck dit », fit la voix de Harry, « qu’il veut que, je fasse, quelque
 chose, au sujet, des prisonniers, d’Azkaban — »
 
 « Fumseck, *non* ! » dit le vieux sorcier. Dumbledore s’avança et tendit
@@ -544,7 +544,7 @@ une main suppliante vers le phénix. Sa voix était presque aussi
 désespérée que le cri du phénix l’avait été. « Tu ne peux pas lui
 demander cela, Fumseck, il n’est encore qu’un enfant ! »
 
-« Vous êtes allé à Azkaban, » chuchota Harry, « vous avez emmené Fumseck
+« Vous êtes allé à Azkaban », chuchota Harry, « vous avez emmené Fumseck
 avec vous, il a vu — *vous* avez vu — vous étiez *là*, vous avez vu -
 *POURQUOI N’AVEZ-VOUS RIEN FAIT ? POURQUOI NE LES AVEZ-VOUS PAS LAISSÉS
 SORTIR ?* »
@@ -554,7 +554,7 @@ que Fumseck avait crié en même temps que lui et qu’il volait maintenant
 à ses côtés, face à Dumbledore, et que la tête rouge-or était à la
 hauteur de la sienne.
 
-« Peux-tu, » murmura le vieux sorcier, « peux-tu vraiment entendre la voix
+« Peux-tu », murmura le vieux sorcier, « peux-tu vraiment entendre la voix
 du phénix si distinctement ? »
 
 Harry sanglotait presque trop pour pouvoir parler ; face aux portes de
@@ -582,12 +582,12 @@ Le vieux sorcier arracha ses yeux du phénix et rencontra ceux de Harry.
 simple ! Les phénix ne sont pas que de simples animaux mais ils *sont*
 des animaux, Harry, ils ne peuvent pas comprendre — »
 
-« Je ne comprends pas non plus, » dit Harry d’une voix tremblante. « Je ne
+« Je ne comprends pas non plus », dit Harry d’une voix tremblante. « Je ne
 comprends pas pourquoi vous *donnez des gens à manger aux Détraqueurs !
 Azkaban n’est pas une prison, c’est une salle de torture où vous
 torturez les gens jusqu’à la MORT !* »
 
-« Perceval, » dit le vieux sorcier d’une voix rauque, « Perceval
+« Perceval », dit le vieux sorcier d’une voix rauque, « Perceval
 Dumbledore, mon propre père, Harry, mon propre père est mort à Azkaban !
 Je sais, je sais que c’est horrible ! *Mais que voudrais-tu me voir
 faire ?* Entrer à Azkaban de force ? Voudrais-tu me voir déclarer une
@@ -603,7 +603,7 @@ directeur ! Je viendrai avec vous et je détruirai tous les Détraqueurs
 qui s’approcheront ! Nous nous inquiéterons des retombées politiques
 ensuite, je vous parie que vous et moi pourrions nous le permettre — »
 
-« Harry, » murmura le vieux sorcier, « les phénix ne comprennent pas la
+« Harry », murmura le vieux sorcier, « les phénix ne comprennent pas la
 façon dont une bataille gagnée peut faire perdre une guerre. » Des larmes
 coulaient le long des joues du vieux sorcier et gouttaient sur sa barbe
 d’argent. « Ils ne connaissent que la bataille. Ils sont bons, mais pas
@@ -691,7 +691,7 @@ feu d’or.
 
 Croa !
 
-« Oh, » dit Harry d’une voix un peu tremblante, « je suis heureux de
+« Oh », dit Harry d’une voix un peu tremblante, « je suis heureux de
 l’entendre, Fumseck, parce que je ne pense pas — le directeur — je ne
 pense pas qu’il mérite — »
 

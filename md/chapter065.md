@@ -15,7 +15,7 @@ autre bouchée de tartine et dit : « Est-ce que tu peux me réexpliquer
 ça ? Ça me sidère toujours autant. »
 
 « C’est plutôt clair quant on y pense du point de vue d’un Serpentard du
-côté clair, » dit le garçon que tous les résidents de l’école mis à part
+côté clair », dit le garçon que tous les résidents de l’école mis à part
 eux deux croyaient être son véritable amour. La cuillère de Harry Potter
 remua distraitement ses céréales ; Hermione ne l’avait pas vu manger
 grand-chose ce matin. « Tout ce qui est bon en ce monde provoque
@@ -140,7 +140,7 @@ Padma dit d’un ton hésitant : « Est-ce que c’est moi ou est-ce que Har
 Potter s’est mit à parler comme un livre encore plus *compliqué* ces
 derniers jours ? Enfin, je ne l’ai pas écouté très longtemps — »
 
-« Ce n’est pas seulement toi, » dit Anthony.
+« Ce n’est pas seulement toi », dit Anthony.
 
 Hermione ne répondit pas mais son inquiétude allait croissante. Quoi
 qu’il soit arrivé à Harry le jour du phénix, cela l’avait changé ;
@@ -161,18 +161,18 @@ Elle avait l’impression que Harry…
 
 …s’éloignait d’elle…
 
-« Il a l’air beaucoup plus *vieux* tout d’un coup, » dit Anthony. « Pas
+« Il a l’air beaucoup plus *vieux* tout d’un coup », dit Anthony. « Pas
 comme un vrai adulte, je n’arrive pas à imaginer *Harry* adulte, mais
 c’est comme s’il venait de devenir une version *quatrième année* de… de
 ce qu’il *est*. »
 
-« Eh bien, » dit Padma. Elle grignotait délicatement un scone au chocolat
+« Eh bien », dit Padma. Elle grignotait délicatement un scone au chocolat
 recouvert d’un glaçage au scone. « Je pense que Dragon et Soleil feraient
 mieux de s’unir pendant la prochaine bataille, ou M. Harry Potter va
 nous *détruire*. On était tous alliés la dernière fois et Chaos a quand
 même failli gagner — »
 
-« Ouais, » dit Anthony. « Vous avez raison, mademoiselle Patil. Dites au
+« Ouais », dit Anthony. « Vous avez raison, mademoiselle Patil. Dites au
 général Dragon qu’on veut vous rencontrer — »
 
 « Non ! » dit Hermione. « On ne *devrait pas* avoir à se liguer contre le
@@ -190,7 +190,7 @@ Ni Padma ni Anthony ne trouvèrent à y répondre.
 
 Toc-toc, toc-toc.
 
-« Entrez, M. Potter, » dit-elle.
+« Entrez, M. Potter », dit-elle.
 
 La porte s’ouvrit dans un craquement et Harry Potter se glissa par
 l’ouverture dans son bureau ; il la referma derrière lui d’une main et
@@ -206,11 +206,11 @@ Il ne sembla pas le remarquer. Un apparence de détermination tranquille
 se dégageait de lui ; ses yeux étaient irrémédiablement braqués sur les
 siens et ne les lâchaient pas. « Vous m’avez appelé ? » dit le garçon.
 
-« Oui, » dit le professeur McGonagall. « J’ai deux bonnes nouvelles pour
+« Oui », dit le professeur McGonagall. « J’ai deux bonnes nouvelles pour
 vous, M. Potter. D’abord — avez-vous jamais rencontré M. Rubeus Hagrid ?
 Le gardien des Clés ? C’était un vieil ami de vos parents. »
 
-Harry hésita. Puis : « M. Hagrid m’a un peu parlé après mon arrivée, »
+Harry hésita. Puis : « M. Hagrid m’a un peu parlé après mon arrivée »,
 dit-il. « Je crois que c’était un mardi pendant ma première semaine de
 cours. Mais il n’a pas dit qu’il connaissait mes parents. À l’époque je
 pensais qu’il voulait juste se présenter au Survivant… avait-il un but
@@ -244,7 +244,7 @@ vous qui l’avez aidé… ? »
 Elle vit le regard calculateur dans ses yeux -
 
 « Je me souviens de M. Hagrid lorsqu’il vous portait dans ses bras alors
-que vous étiez un bébé, » dit-elle. « Je pense qu’il serait très heureux
+que vous étiez un bébé », dit-elle. « Je pense qu’il serait très heureux
 de l’apprendre. »
 
 Mais elle put voir sur le visage de Harry l’instant où il décida que
@@ -252,7 +252,7 @@ Rubeus ne lui serait d’aucune utilité.
 
 Harry secoua la tête. « C’est déjà assez embêtant que quelqu’un puisse
 déduire qu’il y avait un Fourchelangue dans la cohorte d’élèves de cette
-année, » dit-il. « Je pense qu’il serait plus prudent de garder tout cela
+année », dit-il. « Je pense qu’il serait plus prudent de garder tout cela
 aussi secret que possible. »
 
 Elle se souvint de James et Lily qui n’avaient jamais hésité à rendre à
@@ -267,13 +267,13 @@ Potter ? »
 Il y eut un silence. Elle n’avait probablement pas compté dire ça à voix
 haute.
 
-Une vague de tristesse passa sur le visage de Harry. « Probablement, »
+Une vague de tristesse passa sur le visage de Harry. « Probablement »,
 dit-il à voix basse. « Mais je pense que lui et moi ne deviendrions pas
 amis. Vous ne croyez pas ? »
 
 Elle avait l’impression que quelque chose s’était coincé dans sa gorge.
 
-« En parlant de faire usage des gens, » dit Harry. « Il semble que je vais
+« En parlant de faire usage des gens », dit Harry. « Il semble que je vais
 bientôt être jeté au cœur d’une guerre contre un Seigneur des Ténèbres.
 Alors tant que je suis dans votre bureau, je voudrais vous demander
 d’étendre mon cycle de sommeil pour qu’il soit de trente heures par
@@ -293,10 +293,10 @@ sais que ce n’était pas votre idée, mais j’aimerais survivre à l’usage
 que le directeur compte faire de moi. S’il vous plaît, n’y faites pas
 obstacle. »
 
-Cela faillit la briser. « Harry, » murmura-t-elle d’une voix aphone, « les
+Cela faillit la briser. « Harry », murmura-t-elle d’une voix aphone, « les
 enfants ne devraient pas avoir à *penser* comme ça ! »
 
-« Vous avez raison, ce serait préférable, » dit Harry. « Mais *beaucoup*
+« Vous avez raison, ce serait préférable », dit Harry. « Mais *beaucoup*
 d’enfants doivent grandir trop tôt, pas seulement moi ; et la plupart de
 ces enfants ne mettraient pas cinq secondes à décider d’échanger leur
 place avec moi. Je ne vais pas me prendre en pitié, professeur
@@ -307,7 +307,7 @@ Elle déglutit avec force et dit : « M. Potter, à trente heures par jour,
 vous — *vieillirez* plus vite — » *Comme Albus*.
 
 « Et en cinquième année j’aurais à peu près le même âge physiologique que
-Hermione, » dit Harry. « Ça ne m’a pas l’air *si* terrible que ça. » Il
+Hermione », dit Harry. « Ça ne m’a pas l’air *si* terrible que ça. » Il
 arborait maintenant un sourire narquois. « Franchement, je choisirais
 probablement de faire ça même *sans* Seigneur des Ténèbres. Les sorciers
 vivent un bon bout de temps et soit les sorciers soit les Moldus feront
@@ -317,7 +317,7 @@ J’ai des projets, et il vaudrait mieux qu’ils se réalisent rapidement. »
 
 Il y eut un long silence.
 
-« Très bien, » dit Minerva. C’était presque un chuchotement. Elle éleva la
+« Très bien », dit Minerva. C’était presque un chuchotement. Elle éleva la
 voix. « Très bien, M. Potter, je demanderai au directeur et s’il accepte,
 ce sera fait. »
 
@@ -335,11 +335,11 @@ Pevensie était trop jeune, et elle avait finit par ne plus jamais faire
 d’objections. « Qui vous a dit ça, M. Potter ? » *Pas Albus — Albus ne
 dirait certainement pas ça à un élève -*
 
-« J’ai beaucoup lu dernièrement, » dit Harry. Son corps commença à
+« J’ai beaucoup lu dernièrement », dit Harry. Son corps commença à
 s’élever hors de la chaise puis s’arrêta. « Oserais-je vous interroger
 sur la seconde bonne nouvelle ? »
 
-« Oh, » dit-elle. « Ah — le professeur Quirrell s’est éveillé et dit que
+« Oh », dit-elle. « Ah — le professeur Quirrell s’est éveillé et dit que
 vous pouvez — »
 
 
@@ -395,7 +395,7 @@ mortalité et le professeur de Défense n’était *pas* censé être mortel.
 Madame Pomfresh avait dit à Harry qu’il lui était absolument interdit
 d’enquiquiner son patient.
 
-Harry avait dit « je comprends, » ce qui n’impliquait techniquement rien
+Harry avait dit « je comprends », ce qui n’impliquait techniquement rien
 quant à son obéissance.
 
 La vieille et sévère guérisseuse s’était alors tournée vers le
@@ -405,7 +405,7 @@ qu’il se fatigue ni qu’il… ne s’énerve…
 Puis elle avait laissé sa phrase en suspens, avait fait un demi-tour
 empressé et s’était échappée la pièce.
 
-« Pas mal, » remarqua Harry après que la porte se fut refermée derrière la
+« Pas mal », remarqua Harry après que la porte se fut refermée derrière la
 matrone médicale en fuite. « Je devrais apprendre à faire ça un jour. »
 
 Le professeur Quirrell sourit d’un sourire dénué de tout humour et dit
@@ -426,10 +426,10 @@ peut-être un peu creusé.
 
 Les pâles yeux bleus étaient demeurés vifs et perçants.
 
-« Je suis heureux, » dit Harry à voix basse, « de vous voir visiblement
+« Je suis heureux », dit Harry à voix basse, « de vous voir visiblement
 bien portant. »
 
-« Les apparences peuvent évidemment être trompeuses, » dit le professeur
+« Les apparences peuvent évidemment être trompeuses », dit le professeur
 Quirrell. Il agita les doigts et lorsque son geste fut achevé, sa
 baguette se trouvait entre ses mains. « Croirez-vous que cette femme
 pense m’avoir confisqué ceci ? »
@@ -440,21 +440,21 @@ chambre de Marie.
 
 Harry l’interrogea silencieusement d’un haussement de sourcils.
 
-« C’est tout ce dont je suis capable pour l’instant, » dit le professeur
+« C’est tout ce dont je suis capable pour l’instant », dit le professeur
 de Défense. « Je pense que cela s’avérera suffisant. Néanmoins, comme dit
 le proverbe : si tu ne souhaites pas qu’on entende quelque chose, ne le
 dis pas. Considérez qu’il s’applique ici pleinement. J’ai cru comprendre
 que vous désiriez me voir ? »
 
-« Oui, » dit Harry. Il s’interrompit et rassembla ses pensées. « Le
+« Oui », dit Harry. Il s’interrompit et rassembla ses pensées. « Le
 directeur ou qui que ce soit d’autre vous a-t-il dit que nous ne
 pourrions plus aller déjeuner ? »
 
-« Quelque chose dans le genre, » répondit le professeur de Défense. Et
+« Quelque chose dans le genre », répondit le professeur de Défense. Et
 sans changer d’expression : « Bien sûr, j’ai été terriblement désolé de
 l’apprendre. »
 
-« Cela va plus loin, pour tout vous dire, » continua Harry. « Je suis
+« Cela va plus loin, pour tout vous dire », continua Harry. « Je suis
 confiné à Poudlard et ses terres pour une durée indéterminée. Je ne peux
 en sortir sans avoir un garde et une bonne raison. Je ne vais pas
 rentrer chez moi cet été, et peut-être jamais. J’espérais… pouvoir en
@@ -478,7 +478,7 @@ semblait assombri. Ses yeux, qui avaient auparavant ressemblé à des
 trous gris, renvoyaient la lumière de la torche et semblaient plus
 clairs que le reste de son corps.
 
-« *Alors*, » siffla la créature venimeuse. « *Que ssouhaitais-tu me
+« *Alors* », siffla la créature venimeuse. « *Que ssouhaitais-tu me
 dire ?* »
 
 Et Harry siffla : « *Le directeur pensse que c’est l’ancien Sseigneur de
@@ -495,7 +495,7 @@ allié.
 langue bifide passa rapidement d’un côté à l’autre de sa bouche, rire
 reptilien sardonique. « *Et pourtant je ne ssuis pas ssurpris.* »
 
-« *Oui*, » siffla Harry avec sécheresse. « *très amusant, j’en ssuis ssûr.
+« *Oui* », siffla Harry avec sécheresse. « *très amusant, j’en ssuis ssûr.
 Ssauf que maintenant je ssuis coincé à Poudlard pendant les ssix
 prochaines années par mesure de ssécurité ! J’ai décidé que je vais bel
 et bien me mettre en quête de pouvoir ; et la sséquestration ne m’y aide
@@ -534,7 +534,7 @@ Sous la lumière rouge orangée d’une torche vacillante, un serpent vert
 ondulait sur un lit blanc d’hôpital et un garçon scrutait l’ambre de ses
 yeux.
 
-« *Donc*, » finit par dire Harry. « *Ssoyons clairs quant à votre
+« *Donc* », finit par dire Harry. « *Ssoyons clairs quant à votre
 proposition. Vous ssugérez de trouver un impossteur qui jouera le rôle
 du Sseigneur des Ténèbres.* »
 

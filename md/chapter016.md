@@ -55,12 +55,12 @@ très musclé pour un enfant de onze ans, et l’autre maintenait une
 posture suspicieusement équilibrée.
 
 Drago sourit avec beaucoup de suffisance et fit un geste vers l’arrière.
-« Potter, je te présente M. Crabbe, » sa main passa de Muscles à
+« Potter, je te présente M. Crabbe », sa main passa de Muscles à
 Équilibre, « et M. Goyle. Vincent, Gregory, voici Harry Potter. »
 
 M. Goyle pencha sa tête et jeta à Harry un regard qui était probablement
 censé signifier quelque chose mais qui lui donna juste l’air bigleux. M.
-Crabbe dit « Ravi d’fair vot’ connaissance, » d’un ton qui laissait penser
+Crabbe dit « Ravi d’fair vot’ connaissance », d’un ton qui laissait penser
 qu’il essayait de forcer sa voix vers des octaves aussi basses que
 possibles.
 
@@ -82,7 +82,7 @@ Harry regarda M. Crabbe et M. Goyle. Ils semblaient tous deux essayer
 très fort d’avoir l’air menaçants. C’est-à-dire qu’ils étaient penchés
 en avant, les épaules voûtées, le cou tendu, et le regard fixé sur lui.
 
-« Euh… attends voir, » dit Harry. « Ça a été organisé il y a des
+« Euh… attends voir », dit Harry. « Ça a été organisé il y a des
 *années* ? »
 
 « Exactement, Potter. Pas de chance. »
@@ -90,7 +90,7 @@ en avant, les épaules voûtées, le cou tendu, et le regard fixé sur lui.
 M. Goyle fit apparaître un cure-dent et commença à se nettoyer la
 bouche, l’air toujours menaçant.
 
-« Et, » dit Harry, « Lucius a insisté pour que tu grandisses *sans* jamais
+« Et », dit Harry, « Lucius a insisté pour que tu grandisses *sans* jamais
 connaître tes gardes du corps, et que tu ne devais les rencontrer qu’au
 premier jour d’école. »
 
@@ -107,7 +107,7 @@ Drago grimaça.
 « — et le pire, c’est qu’ils *se connaissent* et qu’ils se sont
 *entraînés* — »
 
-« Le boss t’a dit d’la fermer, » gronda M. Crabbe . M. Goyle mordit son
+« Le boss t’a dit d’la fermer », gronda M. Crabbe . M. Goyle mordit son
 cure-dent, le tint entre ses incisives, et utilisa une main pour faire
 craquer les jointures de l’autre.
 
@@ -119,7 +119,7 @@ dans ses robes avec précipitation.
 Mais à l’instant où Drago se détourna d’eux pour faire à nouveau face à
 Harry, ils reprirent leur air menaçant.
 
-« Je m’excuse, » dit Drago avec raideur, « pour l’insulte que ces
+« Je m’excuse », dit Drago avec raideur, « pour l’insulte que ces
 *imbéciles* t’ont fait subir. »
 
 Harry jeta un regard lourd de sens à M. Crabbe et à M. Goyle. « Je dirais
@@ -134,7 +134,7 @@ boss ? »
 
 « Je suis sûr que M. Potter ne serait pas assez insensé pour essayer ça. »
 
-« Oh, même pas en rêve, » dit Harry d’une voix mielleuse. « C’est juste un
+« Oh, même pas en rêve », dit Harry d’une voix mielleuse. « C’est juste un
 petit quelque chose à garder à l’esprit si votre employeur actuel vous
 semble ingrat. Et puis, ça ne peut pas faire de mal d’avoir d’autres
 offres pendant qu’on négocie ses conditions de travail, n’est-ce pas ? »
@@ -143,7 +143,7 @@ offres pendant qu’on négocie ses conditions de travail, n’est-ce pas ? 
 
 « Je n’en ai pas la moindre idée, M. Crabbe. »
 
-« *Taisez vous* tous les deux, » dit Drago à travers des dents grinçantes.
+« *Taisez vous* tous les deux », dit Drago à travers des dents grinçantes.
 « C’est un *ordre*. » Il lui fallut faire un effort visible pour de
 nouveau transférer son attention sur Harry. « Quoi qu’il en soit,
 qu’est-ce que tu fais au cours de Défense de Serpentard ? »
@@ -157,17 +157,17 @@ au cours où il était *censé* être, quel que soit ce cours. Dieu savait
 s’il aimait son Retourneur de Temps, et un jour, quand il serait assez
 vieux, ils se marieraient.
 
-« Non, c’est la bonne heure, » dit Drago, les sourcils froncés. Son regard
+« Non, c’est la bonne heure », dit Drago, les sourcils froncés. Son regard
 parcourut le reste de l’auditorium, qui se remplissait de robes à
 bordures vertes et de…
 
 « *Gryffidiots !* » cracha Drago. « Qu’est ce *qu’ils* font ici ? »
 
-« Hmm, » dit Harry. « Le professeur Quirrell a dit… j’ai oublié ses mots
+« Hmm », dit Harry. « Le professeur Quirrell a dit… j’ai oublié ses mots
 exacts… qu’il allait ignorer certaines des conventions éducatives de
 Poudlard. Peut-être qu’il a juste combiné toutes ses classes. »
 
-« Euh, » dit Drago. « Tu es le premier Serdaigle à être arrivé ici. »
+« Euh », dit Drago. « Tu es le premier Serdaigle à être arrivé ici. »
 
 « Ouep. Je suis arrivé tôt. »
 
@@ -191,7 +191,7 @@ Derrick et à son équipe ? »
 ambitieux, et qu’il était une disgrâce à la mémoire de Salazar
 Serpentard. » Drago regardait Harry avec une grande intensité.
 
-« C’était… c’était à peu près ça, » dit Harry. « Je pense que c’était plus
+« C’était… c’était à peu près ça », dit Harry. « Je pense que c’était plus
 proche de : “Cela fait-il partie d’un plan incroyablement malin vous
 permettant d’obtenir un avantage futur, ou est-ce autant une inutile
 disgrâce du nom de Salazar Serpentard que ça en a l’air,” ou quelque
@@ -217,7 +217,7 @@ conséquence. »
 M. Crabbe et M. Goyle ricanèrent tous deux, ce qui poussa M. Goyle à se
 flanquer une main sur sa bouche.
 
-« On ferait mieux de s’asseoir, » dit Drago. Il hésita, et sembla devenir
+« On ferait mieux de s’asseoir », dit Drago. Il hésita, et sembla devenir
 un peu plus formel. « Potter, sans m’engager à quoi que ce soit, je tiens
 à te dire que je souhaite continuer notre conversation et que je suis
 prêt à accepter ta situation actuelle. »
@@ -230,7 +230,7 @@ samedi après-midi ? Je suis en plein concours pour le moment. »
 « Pour voir si je peux lire tous mes manuels aussi vite que Hermione
 Granger l’a fait. »
 
-« Granger, » répondit Drago comme en écho. Ses yeux se rétrécirent. « La
+« Granger », répondit Drago comme en écho. Ses yeux se rétrécirent. « La
 sang-de-Bourbe qui croit qu’elle est Merlin ? Si tu essaies de *lui* en
 remontrer, alors tout Serpentard te souhaite bonne chance, Potter, et je
 ne t’embêterai pas jusqu’à samedi. » Drago inclina la tête dans un geste
@@ -265,7 +265,7 @@ télévision moldue. Il y avait là quelque chose de triste et de
 nostalgique, ça ressemblait tant à un élément de son foyer sans pour
 autant l’être réellement…
 
-« Bonjour, mes jeunes apprentis, » dit le professeur Quirrell. Sa voix
+« Bonjour, mes jeunes apprentis », dit le professeur Quirrell. Sa voix
 semblait venir de l’écran du pupitre et s’adresser directement à Harry.
 « Bienvenue dans votre premier cours de Magie de Combat, comme les
 fondateurs de Poudlard l’appelaient ; ou, comme certains le nomment en
@@ -275,7 +275,7 @@ Il y eut une montée de griffonnages frénétiques alors que les étudiants,
 pris par surprise, se saisissaient de leur parchemin ou de leur carnet
 de notes.
 
-« Non, » dit le professeur Quirrell, « franchement, ne vous embêtez pas à
+« Non », dit le professeur Quirrell, « franchement, ne vous embêtez pas à
 prendre note de la façon dont on appelait autrefois ce cours. Aucune
 question inutile n’apparaîtra sur aucun de mes contrôles. C’est une
 promesse. »
@@ -339,7 +339,7 @@ Sort de la Mort, alors vous pouvez simplement transplaner ! De même, si
 vous faites face à la deuxième des machines à tuer les plus parfaites,
 le Détraqueur. Vous vous contentez de transplaner ! »
 
-« À moins bien sûr, » dit le professeur Quirrell, sa voix plus basse et
+« À moins bien sûr », dit le professeur Quirrell, sa voix plus basse et
 plus dure, « que vous ne soyez sous l’influence d’une malédiction
 anti-transplanage. Non, il y a exactement un seul monstre qui sera
 capable de vous menacer une fois que vous aurez fini votre croissance.
@@ -375,7 +375,7 @@ Serpentard, mais la plupart des élèves étaient tout simplement trop
 étourdis pour réagir.
 
 Le professeur Quirrell fit un geste cassant, et les applaudissements
-moururent instantanément. « Merci beaucoup, » dit le professeur Quirrell.
+moururent instantanément. « Merci beaucoup », dit le professeur Quirrell.
 « Maintenant, passons aux questions pratiques. J’ai combiné tous mes
 cours en un seul, ce qui me permet de vous offrir le double de la durée
 d’une double session normale — »
@@ -501,7 +501,7 @@ CRAIGNEZ-MOI, LOIS DE LA PHYSIQUE, CAR JE VIENS VOUS ENFREINDRE !*
 discernable dans le brouhaha de cris similaires venus de la
 classe/plate-forme.
 
-« Assez, » dit la voix amplifiée du professeur Quirrell. (Le son n’était
+« Assez », dit la voix amplifiée du professeur Quirrell. (Le son n’était
 pas fort, il semblait avoir un volume normal et venir de juste derrière
 votre épaule gauche où que vous vous teniez par rapport au professeur
 Quirrell.) « Je vois que toute le monde a réussi au moins une fois. » Les
@@ -511,7 +511,7 @@ plafond.
 Le professeur Quirrell se tenait sur l’estrade au centre de la
 plate-forme, légèrement penché sur le bureau, appuyé sur une main.
 
-« Je vous ai dit, » dit le professeur Quirrell, « que nous allions jouer à
+« Je vous ai dit », dit le professeur Quirrell, « que nous allions jouer à
 un jeu nommé *Qui est l’élève le plus dangereux de la classe*. Il y a un
 élève dans cette classe qui a maîtrisé le Sort d’Attaque Simple Sumérien
 plus vite que quiconque — »
@@ -560,7 +560,7 @@ Simple. »
 
 Hermione se pétrifia.
 
-« Allons, » dit doucement le professeur Quirrell. « Vous avez jeté ce sort
+« Allons », dit doucement le professeur Quirrell. « Vous avez jeté ce sort
 à la perfection plus de cinquante fois. Il ne fait aucun dommage
 permanent et n’est pas si douloureux que ça. Il fait à peu près aussi
 mal qu’un bon coup de poing dans le nez et ne dure que quelques
@@ -583,12 +583,12 @@ pas peur…*
 La baguette de Hermione pivota dans sa main, puis son visage se
 détendit, et elle abaissa sa baguette contre son flanc.
 
-« Non, » dit Hermione Granger.
+« Non », dit Hermione Granger.
 
 Sa voix était calme, et même si elle n’était pas forte, le silence était
 tel que tout le monde l’entendit.
 
-« Alors je dois vous ôter un point, » dit le professeur Quirrell. « C’était
+« Alors je dois vous ôter un point », dit le professeur Quirrell. « C’était
 un test, et vous l’avez échoué. »
 
 Hermione fut touchée par ces paroles. Harry le voyait bien. Mais elle
@@ -605,28 +605,28 @@ Hermione marcha jusqu’au groupe de Serdaigle. Elle semblait être en paix
 avec elle-même, et, pour une étrange raison, Harry aurait bien voulu
 applaudir. Même si le professeur Quirrell avait eu *raison*.
 
-« Donc, » dit le professeur Quirrell. « Il devient clair que Hermione
+« Donc », dit le professeur Quirrell. « Il devient clair que Hermione
 Granger n’est pas l’élève la plus dangereuse de la salle. Qui ici pense
 être la personne la plus dangereuse ? — à part moi, bien sûr. »
 
 Sans même y penser, les yeux de Harry se tournèrent vers le contingent
 de Serpentard.
 
-« Drago, de la Noble et Ancienne Maison Malefoy, » dit le professeur
+« Drago, de la Noble et Ancienne Maison Malefoy », dit le professeur
 Quirrell. « Il semble que nombreux sont ceux qui regardent dans votre
 direction. Merci de vous avancer. »
 
 Drago s’exécuta, et son port comportait un certain orgueil. Il alla
 jusqu’à l’estrade et regarda le professeur Quirrell en souriant.
 
-« M. Malefoy, » dit le professeur Quirrell. « Feu. »
+« M. Malefoy », dit le professeur Quirrell. « Feu. »
 
 Harry aurait essayé de l’en empêcher s’il en avait eu le temps, mais
 d’un mouvement gracieux Drago avait tournoyé vers les Serdaigle, avait
 levé sa baguette, avait dit « *Mahasu !* » comme si c’était un mot d’une
 seule syllabe, et Hermione avait dit « Ouh ! » et c’était fini.
 
-« Bien envoyé, » dit le professeur Quirrell. « Deux points Quirrell pour
+« Bien envoyé », dit le professeur Quirrell. « Deux points Quirrell pour
 vous. Mais dites-moi, pourquoi avez-vous visé Mademoiselle Granger ? »
 
 Il y eut une pause.
@@ -651,7 +651,7 @@ Drago s’inclina légèrement et retourna au contingent de Serpentard.
 Quelques applaudissements s’élevèrent des robes à bordures vertes, mais
 le professeur Quirrell fit un geste cassant et le silence retomba.
 
-« Il semblerait que notre jeu soit fini, » dit le professeur Quirrell. « Et
+« Il semblerait que notre jeu soit fini », dit le professeur Quirrell. « Et
 pourtant, il reste un étudiant dans cette salle qui est plus dangereux
 que le descendant de Malefoy. »
 
@@ -678,9 +678,9 @@ Quirrell était certainement trop intelligent pour *ça*…
 Harry s’arrêta bien avant l’estrade, et le professeur Quirrell ne lui
 demanda pas de s’approcher plus.
 
-« Ce qui est ironique, » dit le professeur Quirrell, « c’est que vous avez
+« Ce qui est ironique », dit le professeur Quirrell, « c’est que vous avez
 tous regardé la bonne personne, mais pour les mauvaises raisons. Vous
-vous dites, » les lèvres du professeur Quirrell se tordirent, « que Harry
+vous dites », les lèvres du professeur Quirrell se tordirent, « que Harry
 Potter a vaincu le Seigneur des Ténèbres, et qu’il doit donc être très
 dangereux. Bah. Il avait un an. Quel que soit le caprice du destin qui a
 tué le Seigneur des Ténèbres, cela avait bien peu à voir avec les
@@ -758,7 +758,7 @@ fois autour de sa tête, ou les robes de Hermione Granger, qui peuvent
 quelqu’un, ou les robes de Drago Malefoy, qui peuvent être utilisées pour
 allumer un feu — »
 
-« Trois points, » dit le professeur Quirrell, « plus de vêtements à
+« Trois points », dit le professeur Quirrell, « plus de vêtements à
 présent. »
 
 « Ma baguette peut être poussée dans le cerveau d’un ennemi à travers son
@@ -771,7 +771,7 @@ gorge — »
 
 « Cinq points, c’est assez. »
 
-« Hpmf, » dit Harry. « Dix points Quirrell pour un point de Maison, c’est
+« Hpmf », dit Harry. « Dix points Quirrell pour un point de Maison, c’est
 ça ? Vous auriez dû me laisser continuer jusqu’à ce que je gagne la
 coupe des Quatre Maisons, je n’ai même pas commencé à parler des
 utilisations inhabituelles de ce que j’ai dans mes poches » ni de la
@@ -837,7 +837,7 @@ Quoi ? Attendez, ça ne pouvait pas être vrai… Harry eut une sensation de
 vertige soudaine alors qu’il essayait de se souvenir de ce qu’il avait
 suggéré, il y avait sûrement un contre-exemple…
 
-« Et voilà, » dit le professeur Quirrell, « pourquoi les idées de M. Potter
+« Et voilà », dit le professeur Quirrell, « pourquoi les idées de M. Potter
 étaient si étranges et si inutiles — parce qu’il devait aller loin dans
 l’incommode afin d’atteindre son but : *tuer l’ennemi*. Pour lui, toute
 idée ne menant pas à cela ne méritait pas d’être prise en considération.
@@ -865,16 +865,16 @@ Mais il pouvait voir que les autres élèves commençaient à y croire.
 L’esprit de Harry passait en revue les dénis potentiels et ne trouvait
 rien qui pourrait tenir contre la voix autoritaire du professeur
 Quirrell. Le mieux que Harry avait trouvé était « Je ne suis pas un
-psychopathe, je suis juste très créatif, » et encore, ça semblait
+psychopathe, je suis juste très créatif », et encore, ça semblait
 menaçant. Il lui fallait dire quelque chose d’inattendu, quelque chose
 qui pousserait les gens à s’interrompre dans leurs pensées et à
 reconsidérer -
 
-« Et maintenant, » dit le professeur Quirrell, « M. Potter. Feu. »
+« Et maintenant », dit le professeur Quirrell, « M. Potter. Feu. »
 
 Rien ne se passa, bien sûr.
 
-« Ah, bon, » dit le professeur Quirrell. Il soupira. « J’imagine que nous
+« Ah, bon », dit le professeur Quirrell. Il soupira. « J’imagine que nous
 devons tous commencer quelque part. M. Potter, choisissez n’importe quel
 étudiant et jetez-lui un Sort d’Attaque Simple. Vous le *ferez* avant la
 fin des cours. Sinon, je vais commencer à déduire des points, et je
@@ -897,7 +897,7 @@ Les autres Serpentard auraient trouvé cela plutôt étrange.
 « Pourquoi cette hésitation ? » dit le professeur Quirrell. « Il n’y a
 qu’un seul choix évident. »
 
-« Oui, » dit Harry. « Seulement un choix *évident*. »
+« Oui », dit Harry. « Seulement un choix *évident*. »
 
 Harry fit un mouvement du poignet et dit « *Ma-ha-su* ! »
 

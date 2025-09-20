@@ -9,7 +9,7 @@ ne pouvait se souvenir d’aucun rêve ; peut-être que son cerveau avait
 été trop épuisé pour rêver, car il lui semblait n’avoir fermé les yeux
 qu’un instant avant d’avoir entendu ce mot.
 
-« Vous devez vous éveiller, » dit la voix de Quirinus Quirrell. « Je vous
+« Vous devez vous éveiller », dit la voix de Quirinus Quirrell. « Je vous
 ai donné autant de temps que possible mais il serait sage de garder au
 moins une utilisation du Retourneur de Temps en réserve. Nous allons
 bientôt devoir revenir quatre heures en arrière, chez *Marie*, et donner
@@ -86,7 +86,7 @@ j’avais à choisir entre prendre le thé avec eux ou avec Vous-Savez-Qui,
 je me découvrirais être moins heurté dans mes sensibilités par le
 Seigneur des Ténèbres. »
 
-« Je ne comprends pas, » dit Harry, sa voix tremblait, il avait lu
+« Je ne comprends pas », dit Harry, sa voix tremblait, il avait lu
 l’expérience classique au sujet de la psychologie des prisons, les
 étudiants ordinaires qui étaient devenus sadiques à l’instant où ils
 s’étaient vus assigner le rôle de garde de prison ; seulement Harry
@@ -184,14 +184,14 @@ vous semblez gagner, leurs instincts leur disent qu’il est à leur
 avantage d’être de votre côté. Si vous marchez toujours dans l’ombre, la
 lumière et les ténèbres vous suivront toutes deux. »
 
-« Et, » dit le garçon d’une voix égale, « que voulez-*vous* tirer de tout
+« Et », dit le garçon d’une voix égale, « que voulez-*vous* tirer de tout
 cela ? »
 
 Le professeur Quirrell s’était incliné en arrière, dos contre le mur,
 plaçant son visage dans l’ombre, ses yeux passant d’une glace pâle à des
 crevasses ténébreuses semblables à celles de sa forme animale. « Je
 souhaite que l’Angleterre devienne forte sous l’égide d’un meneur fort ;
-cela *est* mon souhait. Quant à mes raisons, » dit le professeur Quirrell
+cela *est* mon souhait. Quant à mes raisons », dit le professeur Quirrell
 avec un sourire sans joie, « je pense qu’elles resteront miennes. »
 
 « Cette sensation funeste que je ressens autour de vous. » Les mots
@@ -199,7 +199,7 @@ devenaient de plus en plus difficile à prononcer à mesure que le propos
 dansait de plus en plus près d’une chose terrible et interdite. « Vous
 avez toujours su ce qu’elle signifie. »
 
-« J’ai eu plusieurs idées, » dit le professeur Quirrell, et son visage
+« J’ai eu plusieurs idées », dit le professeur Quirrell, et son visage
 était inscrutable. « Et je ne dirais pas encore tout ce que j’ai deviné.
 Mais je vous dirai cela : c’est *votre* perte qui flamboie lorsque nous
 sommes proches, pas la mienne. »
@@ -208,7 +208,7 @@ Pour une fois, le cerveau de Harry parvint à marquer cette affirmation
 comme étant douteuse, comme un mensonge possible, au lieu de croire tout
 ce qu’il entendait. « Pourquoi vous transformez-vous parfois en zombie ? »
 
-« Raisons personnelles, » dit le professeur Quirrell sans le moindre
+« Raisons personnelles », dit le professeur Quirrell sans le moindre
 humour dans la voix.
 
 « Quel était votre véritable but en sauvant Bellatrix ? »
@@ -232,7 +232,7 @@ terrible qui commençait à bouillir dans son sang, dans quelques instants
 il dirait quelque chose qu’il ne devrait vraiment pas dire alors qu’ils
 étaient seuls tous les deux dans un entrepôt désert -
 
-« Mais elle *était* innocente, » dit le professeur de Défense. Il ne
+« Mais elle *était* innocente », dit le professeur de Défense. Il ne
 souriait pas. « Et le degré auquel tous ses choix lui furent enlevés,
 tant et si bien qu’elle n’eut jamais la chance de souffrir de ses
 *propres* erreurs… cela m’a semblé *excessif*, M. Potter. Si elle ne
@@ -240,7 +240,7 @@ vous révèle rien d’utile — » Le professeur de Défense eut un autre p
 haussement d’épaules. « Je ne considérerai pas que cette journée de
 travail aura été gâchée. »
 
-« Que c’est altruiste de votre part, » dit Harry d’une voix froide. « Donc
+« Que c’est altruiste de votre part », dit Harry d’une voix froide. « Donc
 si tous les sorciers sont comme Vous-Savez-Qui en leur for intérieur,
 seriez-vous donc une exception ? »
 
@@ -287,9 +287,9 @@ pousser à me soumettre ?*
 
 *Une émotion réelle ?*
 
-« Je vois, » dit le professeur Quirrell. « J’imagine que cela répond — »
+« Je vois », dit le professeur Quirrell. « J’imagine que cela répond — »
 
-« Non, » dit le garçon d’une voix calme et froide, « vous ne réussirez pas
+« Non », dit le garçon d’une voix calme et froide, « vous ne réussirez pas
 à orienter la conversation aussi facilement, professeur. J’ai fait des
 efforts considérables dans le but de vous protéger et de vous faire
 sortir d’Azkaban en sécurité *après* que j’ai cru avoir découvert que
@@ -316,7 +316,7 @@ vide que le néant entre les étoiles, aussi dangereuse qu’un espace empli
 de radiations dures. « Non M. Potter, vous n’avez pas du tout appris
 votre leçon. »
 
-« J’ai songé à perdre de nombreuses fois à Azkaban, » dit le garçon d’une
+« J’ai songé à perdre de nombreuses fois à Azkaban », dit le garçon d’une
 voix maîtrisée. « J’ai songé que je devrais simplement abandonner et me
 rendre aux Aurors. Il aurait été sensé de perdre. J’ai entendu votre
 voix me le dire dans mon esprit, et je l’aurais *fait* si j’avais été
@@ -325,13 +325,13 @@ seul. Mais je ne suis pas parvenu à me permettre de *vous* perdre. »
 Ils furent alors silencieux pendant un moment ; comme si le professeur
 de Défense ne savait pas tout à fait quoi répondre à cela.
 
-« Je suis curieux, » dit enfin ce dernier. « Pour quoi exactement
+« Je suis curieux », dit enfin ce dernier. « Pour quoi exactement
 pensez-vous que je devrais m’excuser ? Je vous au donné des instructions
 précises en cas de combat. Vous deviez rester au sol, hors de mon
 chemin, et ne pratiquer aucune magie. Vous avez violé ces instructions
 et avez fait échouer la mission. »
 
-« Je n’ai pris aucune décision, » dit le garçon d’une voix calme, « il n’y
+« Je n’ai pris aucune décision », dit le garçon d’une voix calme, « il n’y
 a eu aucun choix, seulement le souhait qu’un Auror ne meure pas, et mon
 Patronus était là. Pour que ce souhait n’ai jamais eu lieu, vous auriez
 dû me prévenir de la possibilité que vous bluffiez en utilisant un sort
@@ -340,14 +340,14 @@ baguette vers quelqu’un et que vous dites Avada Kedavra, c’est parce que
 vous souhaitez voir cette personne mourir. Cela ne devrait-il pas être
 la première règle de sécurité des Sortilèges Impardonnables ? »
 
-« Les règles sont bonnes pour les duels, » dit le professeur de Défense.
+« Les règles sont bonnes pour les duels », dit le professeur de Défense.
 Une partie du froid était revenu dans sa voix. « Et l’art du duel est un
 sport, pas une branche de la magie de combat. Dans un véritable combat,
 un sortilège qui ne peut être arrêté et *doit* être évité constitue une
 tactique indispensable. Je pensais que cela vous serait apparu comme
 évident, mais il semble que j’ai mal jugé de votre intellect. »
 
-« Il me semble aussi imprudent, » dit le garçon, continuant comme si
+« Il me semble aussi imprudent », dit le garçon, continuant comme si
 l’autre n’avait pas parlé, « de ne pas *me dire* que tout sortilège que
 je lancerai sur vous risquerai de nous tuer tous deux. Et s’il y avait
 eu un incident, et si j’avais dû essayer un Innerver ou un sortilège de
@@ -358,7 +358,7 @@ Il y eut un autre silence. Les yeux du professeur s’étaient plissés et
 il avait l’air légèrement perplexe, comme s’il venait de rencontrer une
 situation totalement inconnue ; mais il ne parla pourtant pas.
 
-« Eh bien, » dit le garçon. Ses yeux ne s’étaient pas détournés de ceux du
+« Eh bien », dit le garçon. Ses yeux ne s’étaient pas détournés de ceux du
 professeur de Défense. « Je regrette certainement de vous avoir fait du
 mal, professeur. Mais je ne pense pas que cette situation mérite que je
 me soumette. Je n’ai jamais vraiment bien compris le concept d’excuse,
@@ -369,7 +369,7 @@ suis désolé ? »
 Encore ce rire froid, froid et plus sombre que le vide entre les
 étoiles.
 
-« Je ne pourrais le savoir, » dit le professeur de Défense, « je n’ai moi
+« Je ne pourrais le savoir », dit le professeur de Défense, « je n’ai moi
 non plus jamais compris le concept d’excuse. Il semble que ce stratagème
 serait inutile entre nous, puisque nous le savons tous deux être un
 mensonge. Alors n’en parlons plus. Les dettes que nous devons l’un à
@@ -377,12 +377,12 @@ l’autre finiront un jour par être payées. »
 
 Un silence, pendant un moment.
 
-« Au fait, » dit le garçon. « Hermione Granger n’aurait jamais construit
+« Au fait », dit le garçon. « Hermione Granger n’aurait jamais construit
 Azkaban, quelles que soient les personnes destinées à y être placées. Et
 elle mourrait plutôt que de faire du mal à un innocent. Je mentionne ça
 parce que vous avez dit plus tôt qu’au fond, tous les sorciers étaient
 comme Vous-Savez-Qui, et c’est une affirmation factuellement erronée.
-M’en serais rendu compte plus tôt si je n’avais pas été, » le garçon eut
+M’en serais rendu compte plus tôt si je n’avais pas été », le garçon eut
 un bref sourire lugubre, « stressé ».
 
 Les yeux du professeur de Défense étaient mi-clos, son visage distant.
@@ -390,7 +390,7 @@ Les yeux du professeur de Défense étaient mi-clos, son visage distant.
 Potter. Peut-être souhaite-t-elle simplement que les autres la voie
 comme une bonne fille. Elle ne peut pas utiliser le Patronus — »
 
-« Hah, » dit le garçon ; son sourire semblait maintenant plus réel, plus
+« Hah », dit le garçon ; son sourire semblait maintenant plus réel, plus
 chaud. « Elle a des difficultés exactement pour les mêmes raisons que
 moi. Il y a assez de lumière en elle pour détruire des Détraqueurs, j’en
 suis sûr. Elle ne pourrait pas *s’empêcher* de les détruire, même au
@@ -427,7 +427,7 @@ maintenant, si nous n’avons rien de plus à nous dire. »
 « Vous n’avez aucune question au sujet des choses impossibles que j’ai
 accomplies à Azkaban ? »
 
-« Non, » dit le professeur de Défense. « Je crois en avoir déjà compris la
+« Non », dit le professeur de Défense. « Je crois en avoir déjà compris la
 majeure partie. Quant au reste, il m’est trop rare de trouver une
 personne qui ne m’est pas immédiatement et entièrement transparente,
 qu’elle soient amie ou alliée. Je finirai de démêler ces puzzles vous
@@ -472,7 +472,7 @@ Le sorcier le laissa lentement s’échapper de ses doigts. Il se pencha
 d’un air absent au-dessus du pavé et ramassa le morceau de parchemin le
 plus proche, un morceau remarquablement similaire à celui qu’il venait
 de prendre ; il le toucha de sa baguette, et un moment plus tard s’y
-trouvait le même mot : « NON, » de la même écriture, la sienne.
+trouvait le même mot : « NON », de la même écriture, la sienne.
 
 Le vieux sorcier avait escompté revenir trois heures en arrière, au
 moment où Harry Potter était arrivé au Chemin de Traverse. Il avait déjà
@@ -502,10 +502,10 @@ devenait déjà chauve, et un autre esprit portait la forme d’un garçon de
 onze ans avec une cicatrice sur le front. Glace et ombre, pâle lumière
 bleue.
 
-« Je ne sais pas, » dit l’homme.
+« Je ne sais pas », dit l’homme.
 
 Le garçon se contenta de le regarder. Puis il dit : « Oh, vraiment ? »
 
-« Vraiment, » dit l’homme. « Je ne sais rien, et je ne dirai rien de ce
+« Vraiment », dit l’homme. « Je ne sais rien, et je ne dirai rien de ce
 dont je me doute. Mais je dirai ceci — »
 

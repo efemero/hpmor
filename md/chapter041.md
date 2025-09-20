@@ -22,7 +22,7 @@ Drago essayait très fort de ne *pas* penser aux six étages de vide qui
 se trouvaient en dessous de lui, et de se concentrer plutôt sur la façon
 dont il allait tuer Harry Potter.
 
-« Vous savez, M. Malfoy, » dit la jeune fille à côté de lui, sur le ton de
+« Vous savez, M. Malfoy », dit la jeune fille à côté de lui, sur le ton de
 la conversation, « si une voyante m’avait un jour dit que je me tiendrais
 à la paroi d’un château, retenue par le bout de mes doigts, en essayant
 de ne pas regarder en bas ni de penser à la force avec laquelle maman
@@ -113,7 +113,7 @@ Il y eut un bref silence tendu.
 
 Puis Harry parla.
 
-« Je suis le méchant à présent, » dit le jeune garçon avec froideur, « et
+« Je suis le méchant à présent », dit le jeune garçon avec froideur, « et
 si vous pensez que les méchants sont si faciles que ça à achever, vous
 feriez mieux de reconsidérer cette idée. Battez moi lorsque je combats
 sérieusement et je resterai battu ; mais perdez et la prochaine fois
@@ -179,7 +179,7 @@ sûreté.*
 
 Harry Potter, par contre, allait mourir.
 
-« Je me demande pourquoi Harry fait cela, » dit le général Granger d’un
+« Je me demande pourquoi Harry fait cela », dit le général Granger d’un
 ton pensif, détachant lentement le bout des doigts d’une de ses mains du
 mur au son d’un « shlick » prolongée. Sa main se rabattit contre le mur
 presque immédiatement après avoir été soulevée. « Il faudra que je le lui
@@ -191,16 +191,16 @@ Drago n’avait pas vraiment envie de parler pour le moment mais il
 parvint à dire, à travers des dents serrées : « Ça pourrait être une
 vengeance. Pour le rendez-vous galant. »
 
-« Vraiment, » dit Granger. « Après tout ce temps. »
+« Vraiment », dit Granger. « Après tout ce temps. »
 
 Shlick. Plop.
 
-« Que c’est gentil de sa part, » dit Granger.
+« Que c’est gentil de sa part », dit Granger.
 
 Shlick. Plop.
 
 « J’imagine que je trouverai une façon vraiment romantique de le
-remercier, » dit Granger.
+remercier », dit Granger.
 
 Stick. Plop.
 
@@ -259,13 +259,13 @@ tranche d’une tuile.
 
 « *Hermione* ! » glapit la voix distante de Harry.
 
-« Drago, » chuchota Granger, et Drago baissa les yeux.
+« Drago », chuchota Granger, et Drago baissa les yeux.
 
 Cela avait peut-être été une erreur. Il y avait beaucoup de vide
 en-dessous d’eux, rien que du vide, ils étaient au bord d’un toit qui
 surplombait les murs de Poudlard.
 
-« Il va venir m’aider, » chuchota la fille, « mais d’abord il va nous
+« Il va venir m’aider », chuchota la fille, « mais d’abord il va nous
 lancer un *Luminos* à tous les deux, impossible qu’il fasse autrement.
 Tu dois me laisser tomber. »
 
@@ -278,7 +278,7 @@ Elle n’aurait même pas *mal* * !*
 
 … le cerveau de Drago refusait d’écouter ce que Drago avait à lui dire.
 
-« Fais-le, » chuchota Hermione, ses yeux étincelants, dénués de la moindre
+« Fais-le », chuchota Hermione, ses yeux étincelants, dénués de la moindre
 trace de peur, « fais-le, Drago, fais-le, tu peux le battre seul, Drago,
 *il faut qu’on gagne !* »
 
@@ -310,7 +310,7 @@ Daphné, c’était une histoire déjà parfaite sans avoir besoin des
 
 « Et alors ? » glapirent Flora et Hestia Carrow.
 
-« Le général Granger a levé les yeux vers lui, » dit Millicent d’une voix
+« Le général Granger a levé les yeux vers lui », dit Millicent d’une voix
 théâtrale, « et elle a dit : “Drago ! Tu dois me lâcher ! Ne t’en fais pas
 pour moi, je te promets que tout ira bien !” Et que pensez-vous que
 Malfoy a alors fait ? »
@@ -328,7 +328,7 @@ Il y eut une pause abasourdie.
 
 « Ça ne se fait *pas* ! » dit Charlotte.
 
-« C’est une *sang-de-bourbe*, » dit Pansy, l’air confuse. « Bien *sûr*
+« C’est une *sang-de-bourbe* », dit Pansy, l’air confuse. « Bien *sûr*
 qu’il l’a lâchée ! »
 
 « Eh bien, Malfoy n’aurait pas dû la rattraper en premier lieu alors ! »
@@ -336,16 +336,16 @@ dit Charlotte. « Mais une fois qu’il l’avait attrapée, il *devait* la
 tenir ! *Surtout* face à une fin certaine qui s’approchait ! » Tracey
 Davis, assise à côté de Daphné, approuvait énergiquement de la tête.
 
-« Je ne vois pas pourquoi, » dit Pansy.
+« Je ne vois pas pourquoi », dit Pansy.
 
-« C’est parce que tu n’as pas une once de romantisme en toi, » dit Tracey.
+« C’est parce que tu n’as pas une once de romantisme en toi », dit Tracey.
 « Et puis, on ne peut pas juste laisser tomber les filles comme ça. Une
 garçon qui laisserait tomber une fille comme ça… il laisserait tomber
 *n’importe qui*. Il te laisserait tomber *toi*, Pansy. »
 
 « Qu’es’tu veux dire, *il me laisserait tomber* ? » dit Pansy.
 
-Daphné ne pouvait plus se retenir. « Tu sais, » dit Daphné d’un air
+Daphné ne pouvait plus se retenir. « Tu sais », dit Daphné d’un air
 sombre, « tu prends le petit déjeuner un jour à notre table, et voilà-t-y
 pas que Malfoy *te laisse tomber*, et tu tombes du sommet de Poudlard !
 Voilà ce qu’elle veut dire ! »
@@ -385,7 +385,7 @@ seule, dans une chaise, lisant un livre paisiblement.
 S’il existait une façon de s’excuser en ouvrant une porte grinçante,
 c’était comme ça que Harry venait de le faire.
 
-« Euh, » dit la voix de Harry Potter.
+« Euh », dit la voix de Harry Potter.
 
 Hermione continua de lire.
 

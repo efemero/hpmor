@@ -11,7 +11,7 @@ soudain, saisirent ses bras et ses pieds.
 
 Après avoir résisté un instant, il choisit de se détendre.
 
-« Intéressant, » dit le professeur Quirrell en lévitant depuis la trappe,
+« Intéressant », dit le professeur Quirrell en lévitant depuis la trappe,
 sans toucher ni les feuilles ni les tiges. « Je constate que ça ne t’a
 pas dérangé de perdre contre une plante. »
 
@@ -29,7 +29,7 @@ Harry. Il en ignorait la raison — peut-être que le professeur de Défense
 avait encore besoin de lui -, mais participer à cette mascarade semblait
 servir les intérêts de Harry.
 
-« Vous m’avez sciemment laissé tomber dans ce piège, professeur, »
+« Vous m’avez sciemment laissé tomber dans ce piège, professeur »,
 répondit Harry exactement comme il l’aurait fait face au professeur
 Quirrell. *Rôles, masques, rappelle-lui notre ancienne relation…* « Seul,
 j’aurais utilisé un balai. »
@@ -66,7 +66,7 @@ n’arrivait pas à le comprendre. « Je pensais que nous avions une mission,
 professeur. Je ne peux rien contre vous, mais est-ce que c’est *malin*
 de perdre autant de temps à vous amuser à mes dépens ? »
 
-« Oh, nous avons le temps, » répondit-il, comme amusé. « Il y aurait un
+« Oh, nous avons le temps », répondit-il, comme amusé. « Il y aurait un
 tumulte général si on découvrait que nous étions ici, protégés par un
 Inferius. Lorsque tu es venu et as parlé à Rogue, tu n’avais pas l’air
 d’avoir vu un tumulte lors du match de Quidditch. »
@@ -113,7 +113,7 @@ impossible à manquer.
 
 Contre le mur de gauche, un balai, le modèle standard Brossdur 7.
 
-« Professeur, » dit Harry en regardant les nuages de clés, « vous avez dit
+« Professeur », dit Harry en regardant les nuages de clés, « vous avez dit
 que vous répondriez à mes questions. Qu’est-ce qui se passe ici ? Quand
 on a une porte blindée que seule une clé peut ouvrir, on garde la clé à
 l’abri et on n’en donne des copies qu’aux personnes de confiance. On ne
@@ -123,7 +123,7 @@ passe ? Il est très probable que seul le miroir magique garde vraiment
 la pierre, alors pourquoi tout ça… pourquoi encourager les élèves de
 première année à venir ? »
 
-« Je n’en suis pas certain, » dit le professeur de Défense. Il était entré
+« Je n’en suis pas certain », dit le professeur de Défense. Il était entré
 après Harry et s’était placé à sa droite, à une distance respectable.
 « Mais je répondrai, comme je l’ai promis. La méthode de Dumbledore
 consiste à faire dix choses folles en apparence, et à donner un but
@@ -156,7 +156,7 @@ On n’entendit que le sifflement des clés pendant un bref instant.
 Harry s’éloigna du professeur Quirrell de quelques pas. « Je n’aurais
 probablement pas dû dire ça. »
 
-« Oh, si, » répondit-il. « Je pense que c’est tout à fait raisonnable de
+« Oh, si », répondit-il. « Je pense que c’est tout à fait raisonnable de
 dire ça au plus puissant mage noir du monde quand il se tient à moins de
 dix pas de vous. »
 
@@ -218,7 +218,7 @@ trou et se posa juste au-dessus de l’épaule gauche du professeur
 Quirrell. Les serres cramoisies à l’intensité solaire demeurèrent
 quelques centimètres au-dessus des robes.
 
-« Continue, » dit le professeur Quirrell. « La voie est libre, maintenant. »
+« Continue », dit le professeur Quirrell. « La voie est libre, maintenant. »
 
 Harry dut faire appel aux motifs mentaux de son côté obscur pour garder
 son calme et s’avancer. Il enjamba les restes encore lumineux de la
@@ -228,13 +228,13 @@ porte détruite, allaient d’un mur latéral à l’autre, mais s’arrêtaient
 aussi à cinq mètres de la porte suivante située de l’autre côté de la
 pièce. Le plafond était largement hors de portée des statues.
 
-« Je suppose, » dit Harry d’une voix maintenue calme par les motifs
+« Je suppose », dit Harry d’une voix maintenue calme par les motifs
 mentaux de son côté obscur, « que, comme le balai était inutile à
 l’obtention de la clé, la solution prévue consiste à voler au-dessus des
 statues en utilisant le balai de la chambre précédente ? »
 
 Derrière lui, le professeur Quirrell rit, et c’était le rire de Lord
-Voldemort. « Continue, » dit une voix devenue plus froide, plus flûtée.
+Voldemort. « Continue », dit une voix devenue plus froide, plus flûtée.
 « Va dans la pièce suivante. J’aimerais voir ce que tu penseras de ce qui
 s’y trouve. »
 
@@ -254,7 +254,7 @@ Il lui fallut plusieurs secondes pour reprendre son souffle et se
 maîtriser. De l’autre côté, de forts mugissements continuaient de se
 faire entendre, accompagnés de grands coups de massue contre la porte.
 
-« Je suppose, » dit Harry d’une voix elle aussi devenue froide, « que,
+« Je suppose », dit Harry d’une voix elle aussi devenue froide, « que,
 puisque Dumbledore ne mettrait certainement pas un véritable troll des
 montagnes dans cette pièce, la prochaine épreuve est une illusion faite
 de mes pires souvenirs. Comme un Détraqueur, avec le souvenir projeté
@@ -267,13 +267,13 @@ ne surtout pas s’approcher du feu noir-cramoisi qui voletait au-dessus
 de l’épaule du professeur Quirrell.
 
 Le professeur Quirrell ouvrit grand la porte et regarda à l’intérieur.
-« Hmm, » dit-il. « Seulement le troll, comme tu l’as dit. Bon. J’espérais
+« Hmm », dit-il. « Seulement le troll, comme tu l’as dit. Bon. J’espérais
 apprendre quelque chose de plus intéressant à ton sujet. C’est un
 Kokohekkus, aussi connu sous le nom d’Épouvantard commun. »
 
 « Un Épouvantard ? Qu’est-ce qu’il… non, je crois savoir ce que ça fait. »
 
-« Un Épouvantard, » continua le professeur Quirrell, et sa voix était à
+« Un Épouvantard », continua le professeur Quirrell, et sa voix était à
 présent celle d’un professeur de Poudlard en pleine leçon, « gravite à
 proximité d’endroits sombres, fermés, rarement ouverts, tel un placard
 oublié dans un grenier. Il veut qu’on le laisse tranquille et adoptera
@@ -335,7 +335,7 @@ Le professeur Quirrell jeta le parchemin vers Harry, et il roula par
 terre. « Qu’en penses-tu ? » dit le professeur Quirrell avant de reculer
 pour que Harry puisse s’approcher et le ramasser.
 
-« Non, » dit Harry après avoir parcouru le parchemin. « Vérifier que
+« Non », dit Harry après avoir parcouru le parchemin. « Vérifier que
 l’arrivant sait résoudre une énigme ridiculement simpliste pour
 connaître l’ordre d’ajout des ingrédients ne constitue toujours pas une
 épreuve dont l’issue diffère selon le niveau d’accréditation de
@@ -343,14 +343,14 @@ l’arrivant. Proposer une énigme plus intéressante qui concerne trois
 idoles ou une rangée de personnes coiffées de chapeaux de couleur n’y
 change rien, c’est toujours à côté de la plaque. »
 
-« Regarde l’autre côté, » dit le professeur Quirrell.
+« Regarde l’autre côté », dit le professeur Quirrell.
 
 Harry retourna le parchemin de deux pieds de long.
 
 De l’autre côté, écrit en patte de mouche, se trouvait la plus longue
 recette de potions que Harry ait jamais lue. « Mais qu’est-ce que… »
 
-« Une *potion de splendeur*, pour tarir le feu violet, » dit le professeur
+« Une *potion de splendeur*, pour tarir le feu violet », dit le professeur
 Quirrell. « Il faut ajouter les mêmes ingrédients encore et encore, d’une
 façon à chaque fois un peu différente. Imagine un groupe de première
 année enthousiaste qui vient de passer de salle en salle, persuadé
@@ -360,7 +360,7 @@ cette épreuve. C’est bien là le l’œuvre du maître des potions. »
 Harry regarda la forme sombre sur l’épaule du professeur Quirrell. « Du
 feu peut-il vaincre du feu ? »
 
-« C’est possible, » répondit ce dernier. « Je ne suis pas sûr que ce soit
+« C’est possible », répondit ce dernier. « Je ne suis pas sûr que ce soit
 souhaitable. Et si la pièce était piégée ? »
 
 Harry n’avait certainement pas l’intention de se retrouver coincé ici à
@@ -373,19 +373,19 @@ adultes, mais pas pour les enfants. Ou qu’elle recèle l’un de cent
 autres pièges mortels, si on veut parler sérieusement. Est-ce qu’on
 parle sérieusement ? »
 
-« Cette salle est l’œuvre de Severus Rogue, » répondit le professeur
+« Cette salle est l’œuvre de Severus Rogue », répondit le professeur
 Quirrell, de nouveau pensif. « Rogue n’est pas tout à fait un témoin de
 cette partie. Il n’a pas l’intelligence de Dumbledore, mais il possède
 l’intention de tuer que Dumbledore n’a jamais eue. »
 
-« Eh bien quoi qu’il ait fait, ça n’empêche pas les enfants de passer, »
+« Eh bien quoi qu’il ait fait, ça n’empêche pas les enfants de passer »,
 fit remarquer Harry. « Beaucoup de première année sont passés. Et si
 cette pièce permet de ne laisser passer *que* des enfants, alors du
 point de vue de Dumbledore, elle force aussi Lord Voldemort à venir avec
 un enfant. Étant donné les buts de Dumbledore et Rogue, je ne vois pas
 l’intérêt. »
 
-« En effet, » dit le professeur en se frottant l’arête du nez. « Mais
+« En effet », dit le professeur en se frottant l’arête du nez. « Mais
 vois-tu, petit, cette pièce ne contient pas les alarmes qui se
 trouvaient dans les autres. Il n’y a aucune protection subtile à
 contourner. C’est comme si j’étais *invité* à passer outre la potion et
@@ -398,7 +398,7 @@ Harry écouta, concentré, les sourcils froncés. « Donc… le seul intérêt
 d’enlever les alarmes de cette pièce est d »*éviter* que vous traversiez
 cette pièce en trombe. »
 
-« J’attends de Rogue qu’il s’attende à ce que je comprenne aussi cela, »
+« J’attends de Rogue qu’il s’attende à ce que je comprenne aussi cela »,
 continua le professeur de défense. « Passé ce cap, je ne peux pas prédire
 le niveau de jeu qu’il attend de moi. Je suis patient et j’ai consacré
 beaucoup de temps à ce projet. Mais Rogue ne me connait pas ; il ne
@@ -417,7 +417,7 @@ Harry hocha la tête. Puis il remarqua qu’il était confus. « Mon livre
 d’enchantements dit que les sorciers ne peuvent pas se faire léviter
 eux-mêmes. »
 
-« Oui, » dit le professeur Quirrell, « c’est bien ce qui y est écrit. Aucun
+« Oui », dit le professeur Quirrell, « c’est bien ce qui y est écrit. Aucun
 sorcier ne peut se faire voler, ou aucun objet qui supporte son propre
 poids. Ce serait comme d’essayer de se propulser en orbite en tirant sur
 ses cheveux. Pourtant, Lord Voldemort peut voler. Comment ? Réponds
@@ -427,7 +427,7 @@ Si un élève de première année pouvait répondre à la question… « Vous 
 demandé à quelqu’un d’autre d’ensorceler vos sous-vêtements, puis vous
 leur avez effacé la mémoire. »
 
-« Pas du tout, » dit le professeur Quirrell. « Les sortilèges pour balais
+« Pas du tout », dit le professeur Quirrell. « Les sortilèges pour balais
 nécessitent une forme longue, étroite et solide. Des vêtements ne
 conviendraient pas. »
 
@@ -452,14 +452,14 @@ moi. Donne-moi ton analyse de cette pièce. »
 
 Harry hésita en essayant de sembler pensif.
 
-« J’ajouterai, » dit le professeur Quirrell, et le phénix de feu noirâtre
+« J’ajouterai », dit le professeur Quirrell, et le phénix de feu noirâtre
 perché sur son épaule sembla tourner la tête et regarder Harry avec
 méchanceté, « que si tu me laisses sciemment échouer, je considérerais
 cela comme une trahison. Je te rappelle que la pierre est la clé de la
 résurrection de Mlle Granger et que je tiens en otage les vies de
 centaines d’élèves. »
 
-« Je m’en souviens, » dit Harry, et juste après, le cerveau
+« Je m’en souviens », dit Harry, et juste après, le cerveau
 merveilleusement inventif de Harry eut une idée.
 
 Il n’était pas certain qu’il fut sage de le dire.
@@ -471,7 +471,7 @@ Fourchelangue. »
 
 Non, ce ne serait *pas* facile, pas contre un adversaire intelligent
 capable de vous forcer à dire la vérité n’importe quand. « Severus, ou du
-moins le Severus d’aujourd’hui, respecte beaucoup votre intelligence, »
+moins le Severus d’aujourd’hui, respecte beaucoup votre intelligence »,
 préféra répondre Harry. « Je pense… je pense qu’il *s’attend* à ce que
 Voldemort croie que Severus penserait Voldemort incapable de réussir son
 épreuve de patience, et qu’il s’attend à ce que Voldemort en soit en
@@ -480,7 +480,7 @@ fait capable. »
 Le professeur Quirrell hocha la tête. « C’est plausible. Est-ce que tu y
 crois ? Réponds en Fourchelangue. »
 
-« *Oui*, » siffla Harry. Peut-être qu’il était dangereux de cacher des
+« *Oui* », siffla Harry. Peut-être qu’il était dangereux de cacher des
 informations, ou même des pensées et des idées… « Le but de cette salle
 est donc de retarder Lord Voldemort d’une heure. Et si je voulais vous
 tuer, et que je croyais ce que Dumbledore croit, il serait évident de
@@ -489,7 +489,7 @@ que vous êtes une âme désincarnée… d’ailleurs, est-ce que vous en êtes
 une ? »
 
 Le professeur Quirrell ne bougea pas. « Dumbledore ne penserait pas à
-ça, » dit le professeur de Défense après un instant. « Mais Severus,
+ça », dit le professeur de Défense après un instant. « Mais Severus,
 peut-être. » Il commença à se tapoter la joue d’un doigt et regarda dans
 le lointain. « Tu es plus fort que les Détraqueurs, petit. Peux-tu me
 dire s’il y en a non loin ? »
@@ -515,7 +515,7 @@ centaines d’étudiants en otage : utiliserais-tu ton pouvoir contre les
 Détraqueurs pour me défendre, si l’un d’eux apparaissait ? Réponds en
 Fourchelangue. »
 
-« *Je ne sais pas*, » siffla Harry.
+« *Je ne sais pas* », siffla Harry.
 
 « *Les mange-vie ne peuvent pas me détruire, je ne pensse pas,* » siffla
 le professeur Quirrell. « *Et j’abandonnerais ssimplement ce corps ss’ils
@@ -526,7 +526,7 @@ mourraient, y compris ceux que tu dis être tes amis. Maintenant, je te
 posse à nouveau la quesstion : s’ils venaient, utilisserais-tu ton
 pouvoir contre les mange-vie pour me protéger ?* »
 
-« *Oui*, » siffla Harry. La tristesse et l’horreur que Harry avait
+« *Oui* », siffla Harry. La tristesse et l’horreur que Harry avait
 repoussées jaillirent à nouveau, et son côté obscur n’avait aucun motif
 lui permettant de gérer ces émotions. « *Pourquoi, professeur Quirrell,
 pourquoi êtes-vous ainsi…* »
@@ -542,7 +542,7 @@ n’était presque plus visible et le professeur Quirrell semblait
 n’exercer aucun effort. Le phénix de Feudeymon vola jusqu’au coin opposé
 et y demeura. « Étant donné la situation et les incertitudes auxquelles
 nous faisons face, il semble plus sage d’y aller lentement, comme le
-ferait un élève de première année, » dit le professeur de Défense.
+ferait un élève de première année », dit le professeur de Défense.
 « Autant discuter pendant que nous attendons. Tu avais des questions,
 petit ? J’ai dit que j’y répondrai, alors, pose-les. »
 

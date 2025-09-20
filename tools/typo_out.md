@@ -37,9 +37,9 @@ d’~~retirer~~ ceci
 — les sons l’entourant changèrent.
 — les sons l’entourant changèrent.
 
-« C’est pour ça, » dit-il avec de grands yeux, « que je ne peux pas. ».
-« C’est pour ça, » dit-il avec de grands yeux, « que je ne peux pas. ».
-« C’est pour ça, » dit-il avec de grands yeux, « que je ne peux pas. ».
+« C’est pour ça », dit-il avec de grands yeux, « que je ne peux pas. ».
+« C’est pour ça », dit-il avec de grands yeux, « que je ne peux pas. ».
+« C’est pour ça », dit-il avec de grands yeux, « que je ne peux pas. ».
 
 « Yolo *yolo !* »
 « Yolo *yolo !* » 
@@ -64,7 +64,7 @@ BONES, DAVIS, GRANGER
 LE RECTANGLE AMOUREUX DE LA PEUR
 
 « L’interdiction d’utiliser des objets moldus réduit beaucoup nos
-possibilités, » dit Anthony Goldstein du ton sombre qu’il utilisait pour
+possibilités », dit Anthony Goldstein du ton sombre qu’il utilisait pour
 indiquer un pessimisme voulu. « J’ai pensé à métamorphoser des filets
 pour les jeter sur des gens mais - »
 

@@ -32,7 +32,7 @@ immédiatement à travers l’ouverture, accompagnée d’une poignée de
 flocons de neige venus d’un ciel tacheté de nuages nocturnes gris, entre
 l’obscurité et les étoiles.
 
-« N’ayez crainte, M. Potter, » dit le professeur de Défense d’une voix
+« N’ayez crainte, M. Potter », dit le professeur de Défense d’une voix
 normale. « J’ai ensorcelé vos parents, ils ne se réveilleront pas avant
 mon départ. »
 
@@ -57,18 +57,18 @@ Harry regarda le professeur Quirrell pendant un moment. « Que
 *faites*-vous ici ? » dit-il enfin.
 
 Le sourire quitta le visage du professeur Quirrell. « Je suis venu vous
-demander pardon, M. Potter, » dit doucement le professeur de Défense. « Je
+demander pardon, M. Potter », dit doucement le professeur de Défense. « Je
 n’aurais pas dû vous parler aussi durement que je l’ai — »
 
-« Évitez, » dit Harry. Il baissa les yeux sur la couverture qu’il gardait
+« Évitez », dit Harry. Il baissa les yeux sur la couverture qu’il gardait
 serrée autour de son pyjama, « Évitez juste… »
 
 « Vous ai-je tant offensé que cela ? » dit la voix douce du professeur
 Quirrell.
 
-« Non, » dit Harry. « Mais vous le *ferez* si vous vous excusez. »
+« Non », dit Harry. « Mais vous le *ferez* si vous vous excusez. »
 
-« Je vois, » dit le professeur Quirrell, et sa voix devint instantanément
+« Je vois », dit le professeur Quirrell, et sa voix devint instantanément
 sévère. « Alors, si je dois vous traiter comme un égal, M. Potter, je
 dois dire que vous avez gravement enfreint l’étiquette qui régit
 l’amitié entre deux Serpentard. Si vous n’êtes pas en train de jouer
@@ -77,12 +77,12 @@ l’avez fait, pas sans leur en parler *avant*. Car vous ne savez pas quel
 peut être leur véritable dessein, ni l’enjeu qu’ils y ont placé. Cela
 vous marquerait comme étant un ennemi, M. Potter. »
 
-« Je suis navré, » dit Harry, du même ton doux que le professeur Quirrell
+« Je suis navré », dit Harry, du même ton doux que le professeur Quirrell
 avait utilisé.
 
-« Excuses acceptées, » dit le professeur Quirrell.
+« Excuses acceptées », dit le professeur Quirrell.
 
-« Mais, » dit Harry, toujours doucement, « nous devrions vraiment reparler
+« Mais », dit Harry, toujours doucement, « nous devrions vraiment reparler
 de politique à un moment ou à un autre. »
 
 Le professeur Quirrell soupira. « Je sais que vous n’aimez pas la
@@ -90,7 +90,7 @@ condescendance, M. Potter — »
 
 Ce n’était pas un petit euphémisme.
 
-« Mais il serait encore plus condescendant, » dit le professeur Quirrell,
+« Mais il serait encore plus condescendant », dit le professeur Quirrell,
 « de ne pas le dire clairement. Il vous manque une certaine expérience de
 vie, M. Potter. »
 
@@ -107,9 +107,9 @@ la plus banale du monde, entouré de l’obscurité et des étoiles et du
 ciel tacheté de nuages, tandis qu’un ou deux petits flocons passaient
 devant lui dans l’air hivernal mordant.
 
-« Ce qui me rappelle, » dit Harry. « Joyeux Noël. »
+« Ce qui me rappelle », dit Harry. « Joyeux Noël. »
 
-« Je suppose, » dit le professeur Quirrell. « Après tout, si ce ne sont
+« Je suppose », dit le professeur Quirrell. « Après tout, si ce ne sont
 *pas* des excuses, alors ce doit être un cadeau de Noël. Le premier que
 j’ai jamais donné, à vrai dire. »
 
@@ -117,7 +117,7 @@ Harry n’avait même pas commencé à apprendre le Latin pour pouvoir lire
 le journal expérimental de Roger Bacon ; et il n’osa ouvrir la bouche
 pour demander.
 
-« Mettez votre manteau d’hiver, » dit le professeur Quirrell, « ou prenez
+« Mettez votre manteau d’hiver », dit le professeur Quirrell, « ou prenez
 une potion réchauffante si vous en avez une ; et retrouvez moi dehors,
 sous les étoiles. Je verrai si je peux le maintenir un peu plus
 longtemps cette fois-ci. »

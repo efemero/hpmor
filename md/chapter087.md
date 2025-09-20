@@ -72,7 +72,7 @@ main dans la bourse rouge en velours, il en tira une confiserie en forme
 de cœur enrobée d’un papier métallique rouge et son cerveau fondit comme
 du chocolat laissé au soleil.
 
-« J’allais te donner plus d’espace, » dit Harry Potter, « sauf que je
+« J’allais te donner plus d’espace », dit Harry Potter, « sauf que je
 lisais les théories de Critch sur l’hédonisme, sur la meilleure façon
 d’entraîner le pigeon qu’on a en nous, sur la façon dont les petits
 retours négatifs et positifs immédiats contrôlent vraiment la majorité
@@ -83,7 +83,7 @@ donc j’ai mis la main sur un sac de chocolat des jumeaux Weasley et je
 vais juste t’en donner un à chaque fois que tu me verras pour créer un
 renforcement positif si ça ne te pose pas de problème… »
 
-« *Respire*, Harry, » dit Hermione sans même y penser.
+« *Respire*, Harry », dit Hermione sans même y penser.
 
 C’était la première chose qu’elle lui avait dite depuis le jour du
 procès.
@@ -94,7 +94,7 @@ Les livres sur les étagèrent les regardèrent.
 
 Ils se regardèrent encore un peu.
 
-« Tu es censée manger le chocolat, » dit Harry en tendant la confiserie en
+« Tu es censée manger le chocolat », dit Harry en tendant la confiserie en
 forme de cœur comme un Valentin. « À moins que le fait de recevoir le
 chocolat soit assez agréable pour constituer un renforcement positif,
 auquel cas tu devrais probablement le mettre dans ta poche. »
@@ -112,7 +112,7 @@ fort de ne pas éclater en sanglots. « *Tout !* » répéta-t-elle, sans
 pouvoir trouver une meilleure façon de le dire, bien qu’elle fut
 certaine que Harry voulait qu’elle soit plus précise.
 
-« Je pense que je comprends, » dit prudemment Harry. « Qu’est-ce que tu
+« Je pense que je comprends », dit prudemment Harry. « Qu’est-ce que tu
 lis ? »
 
 Avant qu’elle ne puisse l’arrêter, Harry se pencha sur la table de
@@ -121,7 +121,7 @@ qu’elle ne pense à l’écarter…
 
 Harry regarda la page à laquelle le livre était ouvert.
 
-« Les sorciers les plus riches et comment ils y sont parvenus, » lut Harry
+« Les sorciers les plus riches et comment ils y sont parvenus », lut Harry
 à haute voix en regardant le haut de celle-ci. « Numéro soixante-cinq,
 Sire Gareth, propriétaire d’une entreprise gagnante des guerres de
 transport du 19^ème^ siècle… monopole sur les oh-thé-trois… Je vois. »
@@ -131,7 +131,7 @@ vas t’occuper de tout ? » Son ton fut plus dur qu’elle ne l’avait vou
 et elle sentit venir une autre vague de culpabilité à l’idée d’être une
 personne aussi horrible.
 
-« Nan, » dit Harry, étrangement enjoué. « Je peux suffisamment bien me
+« Nan », dit Harry, étrangement enjoué. « Je peux suffisamment bien me
 mettre à ta place pour savoir que si *tu* avais payé une grosse somme
 pour *me* sauver, je *serais* en train d’essayer de te rembourser. Je
 saurais que c’est idiot, en un sens, mais j’essaierais *quand même* de
@@ -140,7 +140,7 @@ tout te rembourser. *Ça*, je peux parfaitement le comprendre, Hermione. »
 Le visage de cette dernière se tordit et elle sentit de l’humidité au
 coin de ses yeux.
 
-« Je t’avertis quand même, » continua Harry, « je résoudrai peut-être le
+« Je t’avertis quand même », continua Harry, « je résoudrai peut-être le
 problème de la dette envers Lucius Malefoy moi-même si je découvre un
 moyen de le faire avant toi. C’est plus important de résoudre le
 problème tout de suite que de savoir *lequel* d’entre nous l’a résolu.
@@ -155,9 +155,9 @@ sa personne revint à la page 37, où se trouvait la possibilité la plus
 prometteuse pour l’instant (même si dans son imagination elle le faisait
 toujours toute seule et prenait Harry complètement par surprise)…
 
-« J’ai pensé que ça avait l’air assez intéressant, » dit sa voix.
+« J’ai pensé que ça avait l’air assez intéressant », dit sa voix.
 
-« Numéro quatorze, “Crozier”, véritable nom : inconnu, » dit Harry .« Wow,
+« Numéro quatorze, “Crozier”, véritable nom : inconnu », dit Harry .« Wow,
 c’est… le chapeau haut de forme à carreau le plus Gaudiesque que j’ai
 jamais vu. Fortune : au moins six cent mille Gallions… donc environ
 trente millions de livres sterling, pas assez pour rendre un Moldu
@@ -170,13 +170,13 @@ l’argent ainsi que vers… l’Élixir de longue vie qui prolonge
 indéfiniment la jeunesse et la santé de celui qui le boit… euh,
 Hermione, ça m’a l’air évidemment faux. »
 
-« J’ai trouvé d’autres références au sujet de Nicholas Flamel, » dit
+« J’ai trouvé d’autres références au sujet de Nicholas Flamel », dit
 Hermione. « *Grandeur et Chute des Arts Noirs* dit qu’il a secrètement
 entraîné Dumbledore avant son affrontement avec Grindelwald. Il y a
 beaucoup de livres qui prennent cette histoire au sérieux, pas seulement
 celui-ci… tu penses que c’est trop beau pour être vrai ? »
 
-« Non, bien sûr que non, » dit Harry. Il tira la chaise située à côté de
+« Non, bien sûr que non », dit Harry. Il tira la chaise située à côté de
 Hermione et s’assit à son emplacement habituel, à sa droite, comme s’il
 n’en était jamais parti ; elle dut refréner un hoquet. « L’idée de « trop
 beau pour être vrai » ne constitue pas un raisonnement causal, l’univers
@@ -211,9 +211,9 @@ qu’une seule découverte magique produit ces deux effets, mais parce que
 quelqu’un a inventé l’histoire d’un truc hyper cool. »
 
 « Harry, il y a plein de choses dans le monde de la magie qui n’ont aucun
-sens, » dit-elle.
+sens », dit-elle.
 
-« Accordé, » dit Harry. « Mais Hermione, le second problème c’est que même
+« Accordé », dit Harry. « Mais Hermione, le second problème c’est que même
 les *sorciers* ne sont pas assez fous pour nonchalamment laisser passer
 ce que ça *impliquerait*. *Tout le monde* serait en train d’essayer de
 redécouvrir le formule de la Pierre Philosophale, des *pays* entiers
@@ -245,7 +245,7 @@ secrets et il ne voudrait pas passer à côté de *celui là*. » Harry
 soupira et leva les yeux ; elle suivit son regard, mais il semblait se
 contenter de regarder la bibliothèque dans son ensemble, les rangées et
 rangées et rangées d’étagères. « Je ne veux pas interférer avec ton
-projet, » dit Harry, « et je ne veux certainement pas te décourager, mais…
+projet », dit Harry, « et je ne veux certainement pas te décourager, mais…
 Honnêtement, Hermione, je ne suis pas certain que tu vas trouver une
 seule bonne idée te permettant de gagner de l’argent dans un livre comme
 celui là. C’est comme la vieille blague sur l’économiste qui voit un
@@ -257,7 +257,7 @@ livre comme celui-ci… tu vois ce que je veux dire ? Ça ne peut pas être
 possible de gagner mille Gallions par mois en trois étapes faciles à
 suivre, sinon tout le monde le ferait. »
 
-« Et alors ? Ça ne t’arrêterait pas *toi*, » dit Hermione d’une voix qui
+« Et alors ? Ça ne t’arrêterait pas *toi* », dit Hermione d’une voix qui
 redevenait dure. « Tu fais des choses impossibles tout le temps, je parie
 que tu as fait quelque chose d’impossible la *semaine* dernière et que
 tu ne t’es même pas fatigué à le *dire* à quelqu’un. »
@@ -267,7 +267,7 @@ tu ne t’es même pas fatigué à le *dire* à quelqu’un. »
 aviez combattu Maugrey Fol Œil et l’aviez battu exactement huit jours
 plus tôt).
 
-« Pas dans ces sept derniers jours, non, » dit Harry. « Écoute… une partie
+« Pas dans ces sept derniers jours, non », dit Harry. « Écoute… une partie
 de la technique qui permet d’accomplir l’impossible est de choisir
 *quelles* impossibilités remettre en cause et de tenter le coup
 seulement quand on a un avantage spécial. S’il y a une méthode
@@ -275,7 +275,7 @@ permettant de gagner de l’argent dans ce livre qui a l’air difficile à
 un sorcier mais qui est facile si on peut utiliser le vieux Mac Plus de
 papa, *alors* on a un plan. »
 
-« Je *sais ça*, Harry, » dit Hermione d’une voix qui ne vacilla que
+« Je *sais ça*, Harry », dit Hermione d’une voix qui ne vacilla que
 légèrement. « Je cherchais à voir s’il y avait quelque chose ici que je
 *pouvais* réussir à faire. Je me suis dit, peut-être que la partie
 difficile dans la fabrication de la Pierre Philosophale, c’est que le
@@ -283,12 +283,12 @@ cercle alchimique doit être super précis et que je pourrais y arriver
 juste en utilisant un microscope moldu… »
 
 « C’est *génial*, Hermione ! » le garçon leva rapidement sa baguette, dit
-« *Sourdinam*, » puis poursuivit lorsque le bruissement des livres les
+« *Sourdinam* », puis poursuivit lorsque le bruissement des livres les
 plus chahuteurs se fut tut. « Même si la Pierre Philosophale n’est qu’un
 mythe, cette technique pourrait marcher pour d’autres alchimies
 difficiles… »
 
-« Eh bien ça ne *peut pas* marcher, » dit Hermione. Elle avait traversé
+« Eh bien ça ne *peut pas* marcher », dit Hermione. Elle avait traversé
 toute la bibliothèque pour trouver le seul livre sur l’alchimie qui
 n’était pas dans la section interdite. Et alors… elle se souvenait de
 l’écrasante déception, de l’espoir soudain qui s’était dissipé comme un
@@ -299,7 +299,7 @@ je n’ai entendu parler d’aucun sortilège permettant d’utiliser des
 Multiplettes pour agrandir les choses et être plus précis. J’aurais dû
 m’en rendre compte ! »
 
-« Hermione, » dit Harry avec sérieux en replongeant la main dans sa bourse
+« Hermione », dit Harry avec sérieux en replongeant la main dans sa bourse
 rouge en velours, « ne te punis pas quand une idée intelligente ne
 fonctionne pas. Tu dois avoir *beaucoup* d’idées imparfaites pour en
 trouver une qui peut fonctionner. Et si tu envois des retours négatifs à
@@ -311,7 +311,7 @@ côté du livre. « Tiens, prends un autre chocolat. Je veux dire en plus de
 celui que je t’ai donné plus tôt. Celui là est pour encourager ton
 cerveau parce qu’il a généré une bonne stratégie potentielle. »
 
-« J’imagine que tu as raison, » dit Hermione d’une petite voix, mais elle
+« J’imagine que tu as raison », dit Hermione d’une petite voix, mais elle
 ne toucha pas au chocolat. Elle commença à revenir à la page 167 qu’elle
 était en train de lire avant que Harry ne vienne.
 
@@ -330,7 +330,7 @@ essayé d’inventer un moyen de faire de la *production de masse
 d’immortalité* pour que je puisse *rembourser ma dette envers Lucius
 Malefoy* ? »
 
-« Oui, » dit-elle d’une voix encore plus petite. Même quand elle
+« Oui », dit-elle d’une voix encore plus petite. Même quand elle
 *essayait* de penser comme Harry, il semblait qu’elle n’avait pas encore
 saisit le truc. « Et qu’est-ce que tu as fait pendant tout ce temps,
 Harry ? »
@@ -343,13 +343,13 @@ plutôt être moi… qui essaie de résoudre mon *propre* mystère ? » Ça
 n’avait pas été sa première idée, sa première priorité, mais maintenant
 que Harry le mentionnait…
 
-« Dans ce cas, ça ne fonctionnerait pas, » dit froidement Harry. « Il y a
+« Dans ce cas, ça ne fonctionnerait pas », dit froidement Harry. « Il y a
 trop de gens qui acceptent de parler à moi mais pas à toi… et je suis
 aussi navré de te dire que certains m’ont fait promettre de ne répéter à
 personne ce qu’ils m’ont dit. Désolé, je ne pense pas que tu puisse
 beaucoup aider sur ce coup là. »
 
-« D’accord, » dit Hermione d’un ton las. « Très bien. Tu fais tout. Tu
+« D’accord », dit Hermione d’un ton las. « Très bien. Tu fais tout. Tu
 récoltes tous les indices et tu parles à tous les suspects pendant que
 je reste assise ici, dans la bibliothèque. Préviens-moi quand tu
 découvres que c’est le professeur Quirrell qui était derrière tout ça. »
@@ -358,7 +358,7 @@ découvres que c’est le professeur Quirrell qui était derrière tout ça. �
 *qui* fait quoi ? Est-ce que ça ne devrait pas être plus important de
 tout résoudre que de savoir qui a tout résolu ? »
 
-« J’imagine que tu as raison, » dit Hermione. Elle leva les mains et les
+« J’imagine que tu as raison », dit Hermione. Elle leva les mains et les
 pressa contre ses yeux. « J’imagine que ça n’a plus d’importance. Tout le
 monde va penser — je *sais* que ce n’est pas ta faute Harry, tu as été -
 tu as été Bon, tu as été un parfait gentleman — mais peu importe ce que
@@ -389,11 +389,11 @@ gens ne faisaient *pas* attention à moi tu apparaîtrais comme la
 sorcière la plus puissante depuis un siècle ? Que tu peux combattre
 trois brutes plus âgées toute seule et gagner ? »
 
-« Je ne sais pas, » dit-elle en appuyant ses mains sur ses yeux, d’une
+« Je ne sais pas », dit-elle en appuyant ses mains sur ses yeux, d’une
 voix vacillante « Tout ce que je sais, c’est… que même si tout ça est
 *vrai* — personne ne me verra jamais pour qui je suis, plus jamais. »
 
-« Très bien, » dit Harry au bout d’un moment. « Je vois ce que tu veux
+« Très bien », dit Harry au bout d’un moment. « Je vois ce que tu veux
 dire. Au lieu de la fameuse équipe de recherche Potter et Granger, il y
 aura Harry Potter et son assistante de laboratoire… Euh… voilà une idée.
 Et si je ne me concentrais *pas* sur comment gagner de l’argent pendant
@@ -435,11 +435,11 @@ tête ? »
 Elle se rendit compte qu’il y en *avait une* ; et pas seulement ça :
 elle parlait exactement avec la voix de Harry.
 
-« C’est assez troublant maintenant que j’y pense, » dit-elle. « J’ai
+« C’est assez troublant maintenant que j’y pense », dit-elle. « J’ai
 effectivement une copie de toi dans ma tête. Elle me parle en ce moment
 même avec ta voix et elle soutient que c’est parfaitement normal. »
 
-« Bien, » dit Harry avec sérieux. « Enfin je ne vois pas comment les gens
+« Bien », dit Harry avec sérieux. « Enfin je ne vois pas comment les gens
 pourraient être amis sans ça. »
 
 Elle continua alors de lire son livre et Harry sembla satisfait de
@@ -465,7 +465,7 @@ Elle resta bouche bée.
 
 « Tu sais, comme l’Empereur et Dark Vador, mais à l’envers. »
 
-« *Drago Malefoy*, » dit-elle. « Harry, est-ce que tu as la *moindre idée*… »
+« *Drago Malefoy* », dit-elle. « Harry, est-ce que tu as la *moindre idée*… »
 
 « Oui. »
 
@@ -478,13 +478,13 @@ indicible, au sens que je ne peux pas le dire à voix haute ! »
 « C’était quand ? » dit Harry. « Au début de l’année ? Est-ce que Daphné
 t’a dit *quand* c’était ? »
 
-« Non, » dit Hermione. « Parce que le quand n’a pas d’importance. Quiconque
+« Non », dit Hermione. « Parce que le quand n’a pas d’importance. Quiconque
 dit des choses — comme celles que Malefoy a dites — ne peut pas être
 quelqu’un de bien. Tes tentations n’ont pas d’importance, il reste
 quelqu’un de pourri, parce que *quoiqu’il arrive* quelqu’un de bien ne
 pourrait *jamais*… »
 
-« Tu as tort, » dit Harry en la regardant droit dans les yeux. « Je peux
+« Tu as tort », dit Harry en la regardant droit dans les yeux. « Je peux
 imaginer ce que Drago a menacé de te faire, parce que la deuxième fois
 que je l’ai rencontré, il parlait de le faire à une fille de dix ans.
 Mais est-ce que tu ne vois pas que le jour où Drago Malefoy est arrivé à
@@ -499,21 +499,21 @@ c’était interdit, c’est quelque chose qu’on ne fait pas parce que… parc
 que *quand les gens souffrent, ça se voit*. Tu ne sais pas ça, Harry ? »
 Sa voix tremblait à présent. « Ce n’est pas… ce n’est pas une *règle* que
 les gens suivent comme les règles de l’algèbre ! Si tu ne peux pas le
-*voir*, si tu ne peux pas le ressentir *ici*, » sa main frappa au centre
+*voir*, si tu ne peux pas le ressentir *ici* », sa main frappa au centre
 de sa poitrine, pas tout à fait là où se trouvait son cœur, mais ça
 n’avait pas d’importance parce que tout se passait dans le cerveau de
 toute façon, « alors tu ne l’as pas ! »
 
 L’idée vint alors à Hermione que Harry ne l’avait peut-être *pas*.
 
-« Il y a des livres d’Histoire que tu n’as pas lus, » dit doucement Harry.
+« Il y a des livres d’Histoire que tu n’as pas lus », dit doucement Harry.
 « Il y a des livres que tu n’as pas lus et qui pourraient te faire voir
 les choses autrement. Il y a quelques siècles — je pense que c’était
 certainement encore en vogue au dix-septième siècle — c’était une forme
 d’amusement populaire au village que de prendre un panier en osier ou un
 ballot avec une dizaine de chats vivants à l’intérieur et… »
 
-« Arrête, » dit-elle.
+« Arrête », dit-elle.
 
 « …de les brûler dans un feu de joie. Juste une fête ordinaire. Un
 plaisir sain. Et je leur accorderai ça : c’était plus sain que te brûler
@@ -524,13 +524,13 @@ anatomique correct, mais il s’arrêta et déplaça sa main vers sa tête, au
 niveau de l’oreille, « … c’est qu’il souffrent quand ils voient leurs
 *amis* souffrir. Quand la personne entre dans leur cercle de
 préoccupation, quand c’est un membre de leur tribu. Cette sensation a un
-interrupteur, un bouton on-off étiqueté « ennemi, » « étranger, » ou parfois
+interrupteur, un bouton on-off étiqueté « ennemi », « étranger », ou parfois
 juste « inconnu ». Les gens sont comme ça si on ne leur *apprend* rien
 d’autre. Donc non, le fait que Drago Malefoy a grandi en croyant que
 c’est drôle de faire souffrir ses ennemis ne veut *pas* dire qu’il est
 inhumain, ni même inhabituellement mauvais… »
 
-« Si tu crois ça, » dit-elle d’une voix instable, « si tu *peux* croire ça,
+« Si tu crois ça », dit-elle d’une voix instable, « si tu *peux* croire ça,
 alors tu es mauvais. Les gens sont toujours responsables de leurs actes.
 Ce qu’on te *dit* de faire n’a pas d’importance ; c’est toi qui agis.
 Tout le monde sait ça… »
@@ -572,7 +572,7 @@ elle avait entendu le témoignage sous Veritaserum de Drago Malefoy.
 « Pourquoi est-ce que tu ne m’as rien *dit* de tout ça ? » dit Hermione,
 et en dépit d’elle-même, sa voix monta d’un cran. « Si j’avais *su*… »
 
-« Ce n’était pas à moi de te révéler ce secret, » dit Harry. « Drago aurait
+« Ce n’était pas à moi de te révéler ce secret », dit Harry. « Drago aurait
 été mis en danger si son père l’avait découvert. »
 
 « Je ne suis pas stupide, M. Potter. Quelle est la *vraie* raison pour
@@ -587,7 +587,7 @@ savoir s’il pouvait me battre et qu’il m’avait donc provoquée en duel
 afin de le *tester empiriquement*. Ce furent ses *mots exacts*, selon la
 retranscription de son témoignage. »
 
-« Ouais, » dit Harry, toujours sans croiser son regard. « Hermione Granger.
+« Ouais », dit Harry, toujours sans croiser son regard. « Hermione Granger.
 Bien *sûr* qu’elle se souviendrait des mots exacts. Peu importe qu’elle
 soit enchaînée à une chaise et accusée de meurtre devant tout le
 Magenmagot… »
@@ -639,7 +639,7 @@ j’aurais fait avec lui… »
 
 Harry leva une main et frotta ses cheveux en bataille, et sans qu’elle
 sache pourquoi cela lui donna *encore plus* envie de hurler. « Mlle
-Granger, » dit Harry, « je pense que cette conversation est devenue
+Granger », dit Harry, « je pense que cette conversation est devenue
 *métaphorique* à un niveau qui, euh… »
 
 « *Quoi ?* » dit-elle d’une voix stridente depuis l’intérieur de la
@@ -653,7 +653,7 @@ dans le coin opposé, les regardait tous les deux avec de grands yeux,
 tout en essayant assez tristement de le masquer en tenant un livre juste
 en-dessous de son visage.
 
-« Oui, » dit Harry avec un petit soupir. « Donc, en gardant *fermement à
+« Oui », dit Harry avec un petit soupir. « Donc, en gardant *fermement à
 l’esprit* que c’était juste une mauvaise métaphore et que les *vrais
 scientifiques* collaborent *tout le temps*, je ne pense pas avoir trompé
 qui que ce soit. Les scientifiques sont souvent discrets quant aux
@@ -719,7 +719,7 @@ avaient des sortilèges pour gérer ce genre d’ennuis et *qu’est-ce qui
 prenait Harry de poser une question pareille à une pauvre fille
 innocente…* »
 
-« Écoute, je suis *désolé*, » s’empressa de dire Harry. « Je ne voulais
+« Écoute, je suis *désolé* », s’empressa de dire Harry. « Je ne voulais
 vraiment pas dire la majorité de ce que j’ai eu l’air de vouloir dire !
 Je suis sûr que n’importe qui prenant une vue extérieure sur la
 situation et proposant des cotes de paris sur la personne que je finirai

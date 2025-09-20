@@ -24,7 +24,7 @@ réveilla et cria.
 
 Personne d’autre ne l’entendit.
 
-« M. Potter, » couina le petit homme, « le directeur requiert votre
+« M. Potter », couina le petit homme, « le directeur requiert votre
 présence, immédiatement. »
 
 Lentement, le garçon s’assit, ses mains bougeant brièvement sous ses
@@ -44,7 +44,7 @@ revenu à abandonner. Il n’y avait plus rien à choisir, plus d’ambiguïté,
 plus de conflit déchirant, plus besoin de se souvenir de ce qu’il avait
 *vu*…
 
-« Je vais m’habiller, » dit Harry.
+« Je vais m’habiller », dit Harry.
 
 Le professeur Flitwick sembla assez réticent avant de parler mais il dit
 d’une voix haut perchée : « Le directeur a précisé que vous deviez être
@@ -58,7 +58,7 @@ chaise, et le maître des potions rôdait non loin entre les étranges
 appareils, surprit dans un immense bâillement au moment où Harry
 arrivait par la cheminée.
 
-« Harry, » dit le directeur sans préambule, « avant de dire ce que je vais
+« Harry », dit le directeur sans préambule, « avant de dire ce que je vais
 te dire, je t’annonce que Hermione Granger est vraiment morte. Le
 système de sécurité l’a perçut et m’en a informé. Les pierres
 elles-mêmes ont parlé d’une sorcière qui avait perdu la vie. J’ai testé
@@ -68,7 +68,7 @@ connu des sorciers de défaire la mort. Cela étant dit, les restes de
 Hermione Granger ont maintenant disparu du débarras où ils avaient été
 placés et où tu les gardais. Les as-tu pris, Harry Potter ? »
 
-« Non, » dit Harry en plissant les yeux. Un coup d’œil lui révéla que
+« Non », dit Harry en plissant les yeux. Un coup d’œil lui révéla que
 Severus l’observait maintenant avec intérêt.
 
 Dumbledore semblait lui aussi très attentif, mais aussi amical. « Le
@@ -82,7 +82,7 @@ corps de Hermione Granger est-il en ta possession ? »
 
 « Sais-tu qui l’a pris ? »
 
-« Non, » dit Harry, puis il hésita. « Mis à part les évidentes spéculations
+« Non », dit Harry, puis il hésita. « Mis à part les évidentes spéculations
 probabilistes qui ne reposent sur aucune information connue de moi
 seul. »
 
@@ -101,7 +101,7 @@ récupérer l’argent de Lucius ? »
 
 « *Quoi ?* » dit le professeur McGonagall.
 
-« Non, » dit le vieux sorcier.
+« Non », dit le vieux sorcier.
 
 « Saviez-vous ou soupçonniez-vous que Hermione Granger allait mourir ? »
 
@@ -112,7 +112,7 @@ bénéficier, Harry Potter. Maintenant, montre-moi ta bourse. »
 
 « Elle est dans ma malle… » commença Harry.
 
-« Severus, » dit le vieux sorcier, et le maître des potions s’avança.
+« Severus », dit le vieux sorcier, et le maître des potions s’avança.
 « Vérifie aussi sa malle, chaque compartiment. »
 
 « Ma malle est protégée. »
@@ -124,13 +124,13 @@ l’agiter non loin des cheveux de Harry avec l’air d’un Moldu muni d’un
 détecteur de métaux. Avant d’avoir atteint le cou de Harry, Dumbledore
 s’arrêta.
 
-« La gemme sur ton anneau, » dit Dumbledore. « Ce n’est plus un diamant
+« La gemme sur ton anneau », dit Dumbledore. « Ce n’est plus un diamant
 transparent,. Il est marron, la couleur des yeux de Hermione Granger, la
 couleur de ses cheveux. »
 
 Une tension emplit soudain la pièce.
 
-« C’est le rocher de mon père, » dit Harry. « Métamorphosé comme avant.
+« C’est le rocher de mon père », dit Harry. « Métamorphosé comme avant.
 J’ai juste fait ça pour me souvenir de Hermione… »
 
 « Je dois m’en assurer. Enlève cet anneau, Harry, et pose-le sur mon
@@ -146,7 +146,7 @@ expansion soudaine, frappa une sorte de barrière invisible au-dessus de
 lui puis retomba dans un grand craquement sur le bureau du directeur,
 
 « Ça va me prendre une demi-heure de travail de le métamorphoser à
-nouveau, » dit Harry d’un ton neutre.
+nouveau », dit Harry d’un ton neutre.
 
 Dumbledore reprit son examen. Harry dut enlever sa chaussure droite et
 enlever l’anneau de pied, son Portoloin d’urgence au cas où quelqu’un le
@@ -168,7 +168,7 @@ voix aussi froide qu’il en fut capable. Il prit sa bourse et commença à
 lui donner son rocher gris à manger. L’anneau vide revint sur son doigt.
 
 Le vieux sorcier expira et glissa sa baguette dans sa manche. « Je *suis*
-navré, » dit-il. « Il fallait que je sache. Harry… il semble que le
+navré », dit-il. « Il fallait que je sache. Harry… il semble que le
 Seigneur des Ténèbres a prit les restes de Hermione Granger. Je ne puis
 imaginer ce qu’il aurait à y gagner, mis à part envoyer son corps nous
 affronter sous la forme d’un Inferi. Severus te donnera certaines
@@ -186,7 +186,7 @@ pyjama. »
 Poudlard a détecté qu’aucune créature venue de l’extérieur n’est entrée
 et que c’est le professeur de Défense qui a tué Hermione Granger. »
 
-« Hmm, » dit Harry.
+« Hmm », dit Harry.
 
 *Pensée 1 : Mais j’ai vu le troll tuer Hermione.*
 
@@ -213,7 +213,7 @@ journaux.*
 *Pensée 8 : Est-ce que je me souviens correctement de ce qu’ont dit les
 journaux ?*
 
-« Hmm, » répéta Harry. « Ce sortilège devrait vraiment être Impardonnable.
+« Hmm », répéta Harry. « Ce sortilège devrait vraiment être Impardonnable.
 Pensez-vous que le professeur Quirrell aurait pu lancer un sortilège de
 Faux Souvenirs… »
 
@@ -284,14 +284,14 @@ en fait, le professeur Sinistra aura été victime d’une Légilimancie et
 *aura* tué quelqu’un. »
 
 « Sauf si c’est précisément ce que le Seigneur des Ténèbres veut que nous
-pensions, » dit Severus Rogue, un sourcil froncé sous l’effet de la
+pensions », dit Severus Rogue, un sourcil froncé sous l’effet de la
 concentration. « Auquel cas il contrôle bien le système de sécurité et le
 professeur Sinistra sera innocent. »
 
 « Le Seigneur des Ténèbres fomente-t-il *vraiment* des plans avec autant
 de niveaux de méta… »
 
-« Oui, » dirent Dumbledore et Severus.
+« Oui », dirent Dumbledore et Severus.
 
 Harry hocha la tête, comme distrait. « Alors cela pourrait être une
 piège, soit pour nous faire croire que le système de sécurité dit la
@@ -304,7 +304,7 @@ besoin de faire l’effort de piéger le professeur Quirrell par une
 méthode dont nous allions comprendre que nous étions censés la
 découvrir, juste pour nous forcer à passer au niveau méta… »
 
-« Pas tout à fait, » dit Dumbledore. « Si Voldemort n’a pas un contrôle
+« Pas tout à fait », dit Dumbledore. « Si Voldemort n’a pas un contrôle
 complet du système de sécurité, alors il fallait que le système croie
 que la main d’un professeur était à l’œuvre, sans quoi l’alarme aurait
 été sonnée à la première blessure de Mlle Granger et pas seulement au
@@ -346,7 +346,7 @@ deuil avant de jouer son prochain coup. » *Pourquoi l’ennemi n’a-t-il pas
 frappé pendant que nous étions distraits ?*
 
 Dumbledore eut un échange de regards avec Severus, puis, alors que le
-visage du professeur McGonagall se pinçait soudain. « Harry, » dit le
+visage du professeur McGonagall se pinçait soudain. « Harry », dit le
 vieux sorcier, « si tu éloignes toi-même tous tes amis, c’est exactement
 comme si Voldemort… »
 
@@ -355,7 +355,7 @@ n’est pas comme si vous comptiez forcer mes amis à rester ici cet été,
 et ça ne *suffit certainement pas à justifier* qu’on le laisse se faire
 tuer ! Professeur McGonagall… »
 
-« Je suis plutôt d’accord, » dit la sorcière écossaise. Elle fronça les
+« Je suis plutôt d’accord », dit la sorcière écossaise. Elle fronça les
 sourcils. « Je suis extrêmement d’accord. Je suis tellement d’accord que…
 j’ai quelque difficulté à l’exprimer, Albus… »
 
@@ -369,7 +369,7 @@ menaces d’actions unilatérales. »
 
 Le directeur soupira. « Pas besoin. Vas-y, Minerva. »
 
-« Attendez, » dit le maître des potions alors même que le professeur
+« Attendez », dit le maître des potions alors même que le professeur
 McGonagall, d’un mouvement plutôt rapide, s’emparait d’une pincée de
 poudre verte dans un vase de cheminette. « Nous ne devrions pas attirer
 l’attention sur le garçon comme le directeur a attiré l’attention sur
@@ -381,7 +381,7 @@ d’agir autant à découvert. »
 Il y eut un long échange de regards entre eux quatre et Harry finit par
 hocher la tête, suivit par le professeur McGonagall.
 
-« Quoi qu’il en soit, » dit Harry. « Je suis sûr d’une autre chose. »
+« Quoi qu’il en soit », dit Harry. « Je suis sûr d’une autre chose. »
 
 « Et quelle est-elle ? » dit Dumbledore.
 
@@ -394,7 +394,7 @@ ce pyjama. »
 
 
 
-« Au fait, » dit Harry quand lui et le directeur émergèrent de la
+« Au fait », dit Harry quand lui et le directeur émergèrent de la
 cheminette dans le bureau vide du directeur de Serdaigle. « Une dernière
 petite question rapide que je voulais vous poser. Cette épée que les
 jumeaux Weasley ont sortie du Choixpeau. C’était l’épée de Gryffondor,
@@ -407,12 +407,12 @@ te fait penser ça, Harry ? »
 avait un pommeau en rubis, des lettres d’or sur la lame, et le texte
 latin disait *rien de mieux*. Juste une intuition. »
 
-« *Nihil supernum*, » dit le vieux sorcier. « Ce n’est pas *tout à fait* ce
+« *Nihil supernum* », dit le vieux sorcier. « Ce n’est pas *tout à fait* ce
 que ça veut dire. »
 
 Harry hocha la tête. « Mmmh. Qu’est-ce que vous en avez fait ? »
 
-« Je l’ai récupérée et je l’ai mise dans un endroit sûr, » dit le vieux
+« Je l’ai récupérée et je l’ai mise dans un endroit sûr », dit le vieux
 sorcier. Il regarda Harry avec sévérité. « J’espère que tu n’as pas
 l’avarice de la désirer pour toi, jeune Serdaigle. »
 
@@ -444,12 +444,12 @@ Le vieux sorcier soupira. « Oui, Fred et George Weasley sont l’héritier
 de Gryffondor. Je te supplie de ne pas leur en parler, pas encore. »
 
 Harry hocha la tête et se retourna, se préparant à partir. « Je suis
-surpris, » dit-il. « J’ai un peu lu l’histoire de la vie de Godric
+surpris », dit-il. « J’ai un peu lu l’histoire de la vie de Godric
 Gryffondor. Les jumeaux Weasley sont… eh bien, ils sont géniaux de plus
 d’une façon, mais ils ne ressemblent pas beaucoup au Godric des livres
 d’histoire. »
 
-« Seul un homme incroyablement fier et vaniteux, » dit doucement
+« Seul un homme incroyablement fier et vaniteux », dit doucement
 Dumbledore en se retournant dans la cheminette qui rugissait de flammes
 vertes, « pourrait croire que son héritier devrait être comme lui plutôt
 que comme celui qu’il aurait aimé être. »
@@ -468,21 +468,21 @@ Poufsouffle) :*
 Le visage de Neville Londubat était déformé par l’angoisse et il parlait
 comme si personne n’était là pour l’entendre, face au vide.
 
-« Sérieux, » lui répondit le vide. « Je porte une cape d’invisibilité avec
+« Sérieux », lui répondit le vide. « Je porte une cape d’invisibilité avec
 des sortilèges de discrétion supplémentaires juste pour traverser les
 couloirs parce que *je* ne veux pas me faire tuer. Mes parents me
 feraient sortir de Poudlard immédiatement si le directeur le leur
 permettait. Neville, te faire sortir de Poudlard, c’est du bon sens, ça
 n’a *rien* à voir avec… »
 
-« Je vous ai trahi, mon général, » dit Neville, avec une voix aussi creuse
+« Je vous ai trahi, mon général », dit Neville, avec une voix aussi creuse
 qu’un enfant de onze ans pouvait raisonnablement en produire. « Je ne
 l’ai même pas fait à la façon Chaotique. J’ai obéi aux ordres et j’ai
 essayé de faire que tu leur obéisse toi aussi. Qu’est-ce que tu dis
 toujours, que dans la Légion du Chaos, un soldat uniquement capable de
 suivre les ordres est inutile ? »
 
-« Neville, » dit le vide d’un ton ferme. Le poids de deux mains drapées
+« Neville », dit le vide d’un ton ferme. Le poids de deux mains drapées
 d’un fin tissu vinrent s’appuyer avec force sur les épaules de Neville
 et la voix s’approcha de lui. « Tu n’obéissais pas aveuglément aux
 ordres, tu essayais de me protéger. C’est vrai que dans notre monde
@@ -502,12 +502,12 @@ pourrais rester ici et te faire la liste des dix façons dont j’aurais pu
 assurer la survie de Hermione si je n’avais pas été stupide… »
 
 « Toi ? *Tu* lui as couru après. C’est *moi* qui ai essayé de t’arrêter.
-Si c’est la faute de quelqu’un, c’est la mienne, » dit Neville d’un ton
+Si c’est la faute de quelqu’un, c’est la mienne », dit Neville d’un ton
 amer.
 
 Le vide réagit par un silence qui dura un moment.
 
-« Waouh, » dit enfin le vide. « Waouh. Je dois dire que c’est une façon
+« Waouh », dit enfin le vide. « Waouh. Je dois dire que c’est une façon
 sacrément différente de voir les choses. J’essaierai de m’en souvenir la
 prochaine fois que je ressentirai l’envie de me blâmer pour quelque
 chose. Neville, le terme technique qui nous intéresse est “biais
@@ -524,7 +524,7 @@ arrivé à Hermione Granger. Pas pendant une fraction de seconde. Tu te
 comportes, si tu me pardonnes l’expression, comme un petit idiot.
 Maintenant tais-toi et dis moi au revoir. »
 
-« Je ne veux pas dire au revoir, » dit Neville. Sa voix tremblait mais il
+« Je ne veux pas dire au revoir », dit Neville. Sa voix tremblait mais il
 parvint à ne pas pleurer. « Je veux rester ici et me battre avec toi
 contre… contre ce qui se passe. »
 

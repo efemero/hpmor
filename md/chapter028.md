@@ -1,6 +1,6 @@
 # Réductionnisme
 
-« D’accord, » dit Harry en déglutissant. « D’accord Hermione, ça suffit, tu
+« D’accord », dit Harry en déglutissant. « D’accord Hermione, ça suffit, tu
 peux arrêter. »
 
 La pile de sucre blanc placée devant Hermione n’avait changé ni de forme
@@ -14,14 +14,14 @@ créer des choses qui n’existent pas encore ! »
 
 La main de Hermione relâcha lentement sa prise sur la baguette.
 
-« J’ai eu l’impression de le sentir, » dit-elle d’une voix qui était à
+« J’ai eu l’impression de le sentir », dit-elle d’une voix qui était à
 peine un murmure. « J’ai eu l’impression que je l’ai senti commencer à se
 métamorphoser, pendant juste une seconde. »
 
 Il y avait une boule coincée dans la gorge de Harry. « Tu l’as
 probablement imaginé. Tu espérais trop fort. »
 
-« Probablement, » dit-elle. Elle avait l’air d’avoir envie de pleurer.
+« Probablement », dit-elle. Elle avait l’air d’avoir envie de pleurer.
 
 Harry se saisit lentement de son porte-mine, puis il se pencha au-dessus
 de la feuille de papier sur laquelle on pouvait voir une liste
@@ -59,7 +59,7 @@ sa fatigue, ce qui était très inhabituel chez Hermione. Elle aimait à
 prétendre qu’elle n’avait pas de limites, ou du moins elle aimait le
 faire quand Harry était dans les parages.
 
-« Un dernier, » dit prudemment Harry, « mais celui-ci est petit, et puis ça
+« Un dernier », dit prudemment Harry, « mais celui-ci est petit, et puis ça
 pourrait vraiment marcher. Je l’ai gardé pour la fin parce j’espérais
 qu’on puisse finir sur une note positive. C’est quelque chose de réel,
 pas comme des sabres lasers. Ils en ont déjà fabriqué en laboratoire, au
@@ -86,7 +86,7 @@ pèse un sixième de son poids. »
 Hermione releva les yeux de la feuille de papier millimétré. « C’est
 *réel* ? »
 
-« Ouais, » dit Harry, « juste difficile à faire pour des Moldus. Si on
+« Ouais », dit Harry, « juste difficile à faire pour des Moldus. Si on
 pouvait obtenir une quantité suffisante de ce matériau, on pourrait
 l’utiliser pour construire un ascenseur spatial jusqu’à une altitude
 d’orbite géostationnaire, voir encore plus haut puisqu’en termes de
@@ -96,12 +96,12 @@ fournisseurs d’énergie solaire comme si c’étaient des confettis. »
 
 Hermione fronçait à nouveau les sourcils. « C’est *sûr*, ce truc ? »
 
-« Je ne vois pas pourquoi ça ne le serait pas, » dit Harry. « Un nanotube
+« Je ne vois pas pourquoi ça ne le serait pas », dit Harry. « Un nanotube
 de carbone est juste une feuille de graphite roulée en un tube
 circulaire, pour faire simple, et le graphite est la même matière que
 celle utilisée pour faire des crayons — »
 
-« Je *sais* ce qu’est le graphite, Harry, » dit Hermione. Elle se recoiffa
+« Je *sais* ce qu’est le graphite, Harry », dit Hermione. Elle se recoiffa
 d’un air distrait, ses sourcils toujours froncés tandis qu’elle fixait
 la feuille de papier.
 
@@ -113,7 +113,7 @@ pourrait être métamorphosé comme un tout. Si Harry se souvenait bien, le
 cyanoacrylate fonctionnait en formant des liaisons covalentes, et
 c’était le plus près qu’on pourrait jamais approcher de la notion
 « d’objet solide » dans un monde en définitive composé de petits atomes
-individuels. « Quand tu es prête, » dit Harry, « essaie de métamorphoser ça
+individuels. « Quand tu es prête », dit Harry, « essaie de métamorphoser ça
 en un ensemble de nanotubes de carbone alignés et incrusté dans deux
 anneaux de diamant solide. »
 
@@ -130,7 +130,7 @@ regarda pendant un moment.
 Deux petits cercles de diamant scintillant étaient posés sur la table,
 reliés par un long fil noir.
 
-« Ça a changé, » dit Hermione. Elle avait l’air d’essayer d’être
+« Ça a changé », dit Hermione. Elle avait l’air d’essayer d’être
 enthousiaste mais d’être en fait à court d’énergie. « Et maintenant ? »
 
 Harry se sentit un peu découragé par le manque de passion de sa
@@ -159,7 +159,7 @@ bien* avoir besoin de ça, mais ils n’avaient posé aucune question. Et
 selon eux, leurs métamorphoses duraient environ trois heures, donc Harry
 et Hermione avaient encore un bon moment devant eux).
 
-« Cent kilos, » dit Harry une minute plus tard. « Je ne pense pas qu’un fil
+« Cent kilos », dit Harry une minute plus tard. « Je ne pense pas qu’un fil
 d’acier aussi fin que celui-ci aurait pu en soutenir autant. On devrait
 pouvoir monter encore plus haut, mais c’est tout le poids dont je
 dispose. »
@@ -168,18 +168,18 @@ Il y eut plus de silence.
 
 Harry se redressa, revint à leur table, s’assit dans sa chaise et cocha
 cérémonieusement la ligne qui comportait les mots « nanotubes de
-carbone ». « Voilà, » dit Harry. « *Celui-là* a fonctionné. »
+carbone ». « Voilà », dit Harry. « *Celui-là* a fonctionné. »
 
 « Mais ce n’est pas vraiment *utile*, n’est-ce pas ? » dit Hermione depuis
 sa chaise, tête reposée sur ses mains. « Je veux dire que même si on le
 donnait à un scientifique, il ne pourrait pas apprendre comment faire
 plein de nanotubes en étudiant les nôtres. »
 
-« Il pourrait apprendre *quelque chose*, » dit Harry. « Hermione, *regarde
+« Il pourrait apprendre *quelque chose* », dit Harry. « Hermione, *regarde
 ça*, ce petit fil qui soutient tout ce poids, on vient de faire quelque
 chose qu’aucun laboratoire Moldu ne pourra jamais faire — »
 
-« Mais n’importe quelle sorcière le pourrait, » dit Hermione. Son
+« Mais n’importe quelle sorcière le pourrait », dit Hermione. Son
 épuisement filtrait maintenant à travers sa voix. « Harry, je ne pense
 pas que ça fonctionne. »
 
@@ -189,7 +189,7 @@ Cela lui arracha un léger sourire. « Je veux dire nos recherches. »
 
 « Oh, Hermione, comment *peux-tu* ? »
 
-« Tu es mignon quand tu es méchant, » dit-elle. « Mais Harry, c’est de la
+« Tu es mignon quand tu es méchant », dit-elle. « Mais Harry, c’est de la
 folie, j’ai douze ans, tu en as onze, c’est *idiot* de croire qu’on va
 découvrir quelque chose dont personne ne s’est déjà rendu compte. »
 
@@ -201,7 +201,7 @@ honnête, il sentait une partie de la fatigue de Hermione. Aucune des
 découverte qui mérite d’être mentionnée, le motif Mendélien, et il ne
 pouvait pas en parler à Hermione sans briser sa promesse envers Drago.
 
-« Non, » dit Hermione. Son jeune visage semblait très sérieux et très
+« Non », dit Hermione. Son jeune visage semblait très sérieux et très
 adulte. « Je veux dire que pour l’instant on devrait *étudier* toute la
 magie que les sorciers connaissent déjà pour pouvoir faire ce genre
 d’expériences après que l’on ait terminé nos études à Poudlard. »
@@ -226,7 +226,7 @@ immortel, si elle deviendrait un de ces héros pleurnicheurs apitoyés sur
 leur sort que Harry ne supportait pas de voir apparaître dans ses
 livres.
 
-« Bref, » dit Hermione. Sa voix trembla. « Je ne veux pas continuer à faire
+« Bref », dit Hermione. Sa voix trembla. « Je ne veux pas continuer à faire
 ça. Je ne crois pas que les enfants peuvent faire des choses que les
 adultes ne peuvent pas faire, ça n’existe que dans les histoires. »
 
@@ -243,14 +243,14 @@ des héritiers de quatorze ans avaient été d’excellents rois et
 d’excellents généraux, il n’y avait pas vraiment qui que ce soit qui
 soit entré dans les livres d’histoires à l’âge de onze ans.
 
-« Très bien, » dit Harry. « Trouver comment faire quelque chose qu’un
+« Très bien », dit Harry. « Trouver comment faire quelque chose qu’un
 adulte ne peut pas faire. C’est ça ton défi ? »
 
-« Ce n’est pas ce que je voulais dire, » dit Hermione, sa voix s’échappant
+« Ce n’est pas ce que je voulais dire », dit Hermione, sa voix s’échappant
 sous la forme d’un chuchotement apeuré.
 
 Harry fit un immense effort et arracha son regard à celui de Hermione.
-« Je ne suis pas en colère contre *toi*, » dit-il. Sa voix était froide en
+« Je ne suis pas en colère contre *toi* », dit-il. Sa voix était froide en
 dépit de ses efforts. « Je suis en colère contre, je ne sais pas, contre
 tout. Mais je ne suis pas prêt à perdre. Perdre n’est pas toujours la
 meilleure des stratégies. Je trouverai comment faire quelque chose qu’un
@@ -259,17 +259,17 @@ que tu en penses ? »
 
 Il y eut encore plus de silence.
 
-« D’accord, » dit Hermione, sa voix un peu vacillante. Elle s’extirpa de
+« D’accord », dit Hermione, sa voix un peu vacillante. Elle s’extirpa de
 sa chaise et alla jusqu’à la porte de la salle de classe abandonnée où
 ils avait travaillé. Sa main atteint la poignée. « On est toujours amis,
 oui ? Et si tu ne trouves rien — »
 
 Sa voix s’arrêta.
 
-« Alors nous étudierons ensemble, » dit Harry. Sa voix était maintenant
+« Alors nous étudierons ensemble », dit Harry. Sa voix était maintenant
 encore plus froide.
 
-« Euh, au revoir pour l’instant, alors, » dit Hermione, et elle sortit
+« Euh, au revoir pour l’instant, alors », dit Hermione, et elle sortit
 rapidement de la pièce et referma la porte derrière elle.
 
 Parfois, Harry détestait avoir un côté obscur, même quand il était à
@@ -432,7 +432,7 @@ aux autres…
 
 
 Mandy Brocklehurst interrompit le mouvement de sa fourchette en chemin
-vers sa bouche. « Euh, » dit-elle à Su Li, qui était assise de l’autre
+vers sa bouche. « Euh », dit-elle à Su Li, qui était assise de l’autre
 côté de l’espace maintenant vide situé à sa droite, « qu’est-ce qui lui
 arrive, à Hermione ? »
 
@@ -545,9 +545,9 @@ pouvait modifier les choses *dans le monde*, c’étaient seulement les
 *concepts* de Harry qui la *limitaient*. Quelque part, derrière le voile
 de Maya, la *vérité* cachée derrière le concept que Harry nommait « ma
 baguette » touchait la collection d’atomes que l’esprit de Harry nommait
-« un bout de la gomme, » et si cette baguette pouvait transformer la
+« un bout de la gomme », et si cette baguette pouvait transformer la
 collection d’atomes que Harry considérait être « la gomme dans son
-ensemble, » il n’y avait aucune raison pour laquelle la baguette ne
+ensemble », il n’y avait aucune raison pour laquelle la baguette ne
 pourrait pas aussi changer l’autre collection…
 
 La métamorphose ne fonctionnait toujours pas.
@@ -695,7 +695,7 @@ Harry commença à avoir l’air encore plus effrayé maintenant qu’il avait
 compris le sens de la question. « Je, je ne pense pas avoir de symptôme
 - »
 
-Hermione ferma les yeux un instant. « Bien, » murmura-t-elle. « Reprendre…
+Hermione ferma les yeux un instant. « Bien », murmura-t-elle. « Reprendre…
 mon souffle. »
 
 Cela prit un moment. Harry avait toujours l’air effrayé. Il valait
@@ -707,7 +707,7 @@ gorgées.
 
 Et il lui fallut un autre bon moment avant de pouvoir parler.
 
-« Nous avons enfreint les règles, Harry, » dit-elle d’une voix cassée.
+« Nous avons enfreint les règles, Harry », dit-elle d’une voix cassée.
 « Nous avons enfreint les règles. »
 
 « Je… » Harry déglutit. « Je ne vois toujours pas en quoi, j’y ai
@@ -741,9 +741,9 @@ colère contre lui, il avait toujours l’air tellement sûr de lui, et ça
 l’avait entraînée dans son sillage sans qu’elle y pense. « Nous aurions
 pu *entacher le dossier parfait du professeur McGonagall* * !* »
 
-« Oui, » dit Harry, « ne lui parlons pas de ça, d’accord ? »
+« Oui », dit Harry, « ne lui parlons pas de ça, d’accord ? »
 
-« Nous devons nous arrêter, » dit Hermione. « Sans quoi nous allons nous
+« Nous devons nous arrêter », dit Hermione. « Sans quoi nous allons nous
 faire du mal. Nous sommes trop jeunes, Harry, nous ne pouvons pas faire
 ça, pas encore. »
 
@@ -754,7 +754,7 @@ petit bout en métal.
 
 Hermione la regarda, perplexe.
 
-« La mécanique quantique n’a pas suffit, » dit Harry. « J’ai dû descendre
+« La mécanique quantique n’a pas suffit », dit Harry. « J’ai dû descendre
 jusqu’à la physique intemporelle avant que ça fonctionne. J’ai dû voir
 la baguette comme quelque chose qui imposait une *relation* entre deux
 réalités séparées, présente et future, au lieu de quelque chose qui
@@ -773,19 +773,19 @@ Hermione leva de nouveau sa baguette et la pointa vers la gomme.
 Pendant un instant, de la colère apparut sur le visage de Harry, mais il
 n’esquissa aucun geste pour l’arrêter.
 
-« *Finite Incantatem*, » dit Hermione. « Vérifie auprès du professeur
+« *Finite Incantatem* », dit Hermione. « Vérifie auprès du professeur
 McGonagall avant de réessayer. »
 
 Harry hocha la tête, bien que son visage soit encore un peu pincé.
 
-« Et nous devons quand même arrêter, » dit Hermione.
+« Et nous devons quand même arrêter », dit Hermione.
 
 « *Pourquoi* ? » dit Harry. « Ne vois-tu pas ce que ça veut *dire*,
 Hermione ? Les sorciers ne *savent pas* tout ! Ils sont trop peu
 nombreux, et encore moins d’entre eux ont un savoir scientifique, ils
 n’ont pas épuisé toutes les solutions faciles — »
 
-« Ce n’est pas *sans danger*, » dit Hermione. « Si on *peut* découvrir des
+« Ce n’est pas *sans danger* », dit Hermione. « Si on *peut* découvrir des
 choses nouvelles, c’est encore *plus* dangereux ! On est *trop jeunes* !
 On a déjà fait une grosse erreur, on pourrait simplement *mourir* la
 prochaine fois ! »
@@ -795,7 +795,7 @@ Puis Hermione tressaillit.
 Harry détourna son regard et commença à prendre des inspirations lentes
 et profondes.
 
-« N’essaie pas tout seul, Harry, » dit Hermione, la voix tremblante, « s’il
+« N’essaie pas tout seul, Harry », dit Hermione, la voix tremblante, « s’il
 te plaît. »
 
 *S’il te plaît, ne me fais pas décider si je dois aller voir le
@@ -803,7 +803,7 @@ professeur Flitwick.*
 
 Il y eut une longue pause.
 
-« Donc tu veux qu’on étudie, » dit Harry. Elle pouvait voir qu’il essayait
+« Donc tu veux qu’on étudie », dit Harry. Elle pouvait voir qu’il essayait
 de garder la colère hors de sa voix. « Juste qu’on étudie. »
 
 Hermione ne savait pas si elle était censée répondre mais… « Par exemple
@@ -811,18 +811,18 @@ tu as étudié, euh, la physique intemporelle, c’est ça ? »
 
 Harry la regarda à nouveau.
 
-« Ce que tu as fait, » dit timidement Hermione, « ce n’était pas grâce à
+« Ce que tu as fait », dit timidement Hermione, « ce n’était pas grâce à
 *nos* expériences, n’est-ce-pas ? Tu as pu le faire parce que tu as lu
 beaucoup de livres. »
 
 Harry ouvrit la bouche, puis il la referma. Il y avait un air frustré
 sur son visage.
 
-« Très bien, » dit Harry. « Que dis-tu de ça. On étudie, et si je pense
+« Très bien », dit Harry. « Que dis-tu de ça. On étudie, et si je pense
 qu’il y a quelque chose qui vaut *vraiment* le coup d’être essayé, on
 essaiera après que j’ai demandé à un professeur. »
 
-« D’accord, » dit Hermione. Elle ne s’effondra pas de soulagement, mais
+« D’accord », dit Hermione. Elle ne s’effondra pas de soulagement, mais
 c’était seulement parce qu’elle était déjà assise.
 
 « On va déjeuner ? » dit prudemment Harry.
@@ -839,7 +839,7 @@ Hermione battit des paupières lorsque l’énorme poids sur ses jambes
 diminua jusqu’à devenir supportable.
 
 Un sourire jaillit sur le visage de Harry. « On peut *soulever* quelque
-chose sans le faire flotter complètement, » dit-il. « Tu te souviens de
+chose sans le faire flotter complètement », dit-il. « Tu te souviens de
 cette expérience ? »
 
 Hermione sourit en retour, incapable de s’en empêcher, même si elle
@@ -868,9 +868,9 @@ donné à Minerva d’entendre. Elle se sentait un peu gênée d’avoir appelé
 le directeur pour qu’il vienne écouter ça, mais les ordres qu’elle avait
 reçu à ce sujet étaient formels.
 
-« J’ai bien peur que non, » dit Minerva d’un ton guindé.
+« J’ai bien peur que non », dit Minerva d’un ton guindé.
 
-« Donc, » dit Dumbledore. La barbe d’argent se balança loin d’elle et le
+« Donc », dit Dumbledore. La barbe d’argent se balança loin d’elle et le
 regard pétillant du vieux sorcier changea à nouveau de cible. « Tu penses
 être capable de faire quelque chose dont les autres sorciers ne sont pas
 capables, quelque chose que nous croyons être impossible. »
@@ -898,7 +898,7 @@ directeur à ce sujet et qu’ils se soient rendu en un lieu sûr.
 Si Harry avait commencé par *décrire précisément* ce qu’il croyait
 pouvoir faire, elle n’aurait pas pris cette peine.
 
-« Écoutez, je sais que c’est difficile à expliquer, » dit Harry d’un ton
+« Écoutez, je sais que c’est difficile à expliquer », dit Harry d’un ton
 un peu gêné. « La conséquence de tout cela, c’est que vous croyez quelque
 chose qui entre en conflit avec ce que les scientifiques croient, et ce
 dans un domaine où je m’attends vraiment à ce que les scientifiques en
@@ -916,17 +916,17 @@ remplacer par une autre. Qu’est-ce que cela pouvait même bien vouloir
 la sphère *dans son ensemble* avait la même forme qu’avant, mais que *la
 moitié* de la sphère avait une forme différente ?
 
-« M. Potter, » dit le professeur McGonagall, « ce que vous voulez faire
+« M. Potter », dit le professeur McGonagall, « ce que vous voulez faire
 n’est pas seulement impossible, c’est *illogique*. Si vous avez changé
 la moitié de quelque chose, vous en *avez* changé le tout. »
 
-« En effet, » dit Dumbledore. « Mais Harry est le héros, il pourrait donc
+« En effet », dit Dumbledore. « Mais Harry est le héros, il pourrait donc
 être capable de faire des choses logiquement impossibles. »
 
 Minerva aurait levé les yeux aux ciel si elle n’avait pas été depuis
 bien longtemps insensible à ce genre de remarques.
 
-« En admettant que *ce soit* possible, » dit Dumbledore, « peux-tu imaginer
+« En admettant que *ce soit* possible », dit Dumbledore, « peux-tu imaginer
 la moindre raison pour laquelle les résultats seraient d’une quelconque
 façon différents de ceux d’une métamorphose ordinaire ? »
 
@@ -944,14 +944,14 @@ si ta théorie est correcte, cela veut dire que ce que tu comptes faire
 est *exactement* comme une métamorphose, mais appliqué à la partie d’un
 sujet plutôt qu’au sujet dans son ensemble ? *Aucun* autre changement ? »
 
-« Oui, » dit Harry d’un ton arrêté. « C’est tout l’intérêt. »
+« Oui », dit Harry d’un ton arrêté. « C’est tout l’intérêt. »
 
 Dumbledore la regarda de nouveau. « Minerva, peux-tu imaginer la moindre
 raison pour laquelle ce serait dangereux ? »
 
-« Non, » dit Minerva après qu’elle ait fini de sonder sa mémoire.
+« Non », dit Minerva après qu’elle ait fini de sonder sa mémoire.
 
-« Moi non plus, » dit le directeur. « Très bien, puisque ce devrait être en
+« Moi non plus », dit le directeur. « Très bien, puisque ce devrait être en
 tout point analogue à une métamorphose ordinaire, et puisque nous ne
 pouvons imaginer aucune raison pour laquelle ce serait dangereux, je
 pense qu’une prudence de niveau deux devrait suffire. »
@@ -981,7 +981,7 @@ une autre lucarne au premier contretemps.
 
 Harry les regarda travailler avec un air un peu effrayé.
 
-« Ne vous en faites pas M. Potter, » dit le professeur McGonagall au
+« Ne vous en faites pas M. Potter », dit le professeur McGonagall au
 milieu de sa description de l’installation, « ce sera presque
 certainement inutile. Si nous nous *attendions* à ce que quoi que ce
 soit tourne mal, vous ne seriez pas autorisé à essayer. Ce sont juste
@@ -1008,23 +1008,23 @@ Dumbledore jetait des sorts d’analyse sur la sphère, une expression de
 plus en plus intriguée sur le visage. Trente ans venaient de s’envoler
 de ses traits.
 
-« Fascinant, » dit Dumbledore. « C’est exactement ce qu’il avait annoncé.
+« Fascinant », dit Dumbledore. « C’est exactement ce qu’il avait annoncé.
 Il a simplement métamorphosé une partie du sujet sans en métamorphoser
 le tout. Harry, tu dis que ce n’est en réalité qu’une limite
 conceptuelle ? »
 
-« Oui, » dit Harry, « mais une limite profonde, le seul fait de savoir que
+« Oui », dit Harry, « mais une limite profonde, le seul fait de savoir que
 ça devait être une limite conceptuelle n’a pas suffit. J’ai dû refouler
 la partie de mon esprit qui commettait l’erreur et la remplacer par une
 pensée au sujet de la véritable réalité sous-jacente aux choses, celle
 que les scientifiques ont découverte. »
 
-« Vraiment fascinant, » dit Dumbledore. « Je suppose que pour qu’un autre
+« Vraiment fascinant », dit Dumbledore. « Je suppose que pour qu’un autre
 sorcier reproduise ce que tu as fait, il lui faudrait des mois d’études,
 et encore ? Et pourrais-je te demander de métamorphoser partiellement
 quelques autres sujets ? »
 
-« Probablement que oui et bien sûr, » répondit Harry.
+« Probablement que oui et bien sûr », répondit Harry.
 
 Une demi-heure plus tard, Minerva se sentait toujours autant abasourdie,
 mais considérablement rassurée quant aux questions de sûreté.
@@ -1032,11 +1032,11 @@ mais considérablement rassurée quant aux questions de sûreté.
 C’*était* bien la même chose, mis à part le fait que ce soit logiquement
 impossible.
 
-« Je pense que cela suffira, directeur, » dit enfin Minerva. « Je soupçonne
+« Je pense que cela suffira, directeur », dit enfin Minerva. « Je soupçonne
 que la métamorphose partielle est plus fatigante que la variante
 ordinaire. »
 
-« De moins en moins avec la pratique, » dit le garçon pâle et épuisé d’une
+« De moins en moins avec la pratique », dit le garçon pâle et épuisé d’une
 voix instable, « mais ouais, vous avez raison à ce sujet. »
 
 Le processus consistant à extraire Harry du dispositif prit une minute
@@ -1048,14 +1048,14 @@ glacée.
 était sincère. Elle aurait été prête à parier presque n’importe quoi que
 ça n’allait pas fonctionner.
 
-« Félicitations, en effet, » dit Dumbledore. « Même moi, je n’ai fait
+« Félicitations, en effet », dit Dumbledore. « Même moi, je n’ai fait
 aucune découverte originale en Métamorphose avant l’âge de quatorze ans.
 Jamais depuis l’époque de Dorotea Senjak génie n’avait si rapidement
 éclos. »
 
-« Merci, » dit Harry, l’air un peu surpris.
+« Merci », dit Harry, l’air un peu surpris.
 
-« Néanmoins, » dit Dumbledore d’un ton pensif, « je pense qu’il serait fort
+« Néanmoins », dit Dumbledore d’un ton pensif, « je pense qu’il serait fort
 sage de garder cet heureux événement secret, du moins pour l’instant.
 Harry, as-tu parlé de ton idée avec qui que ce soit d’autre avant d’en
 parler au professeur McGonagall ? »
@@ -1071,13 +1071,13 @@ totalement nouvelle avec un *élève* avant de consulter une autorité
 reconnue ? Avez-vous la moindre idée d’à quel point c’était
 *irresponsable* ? »
 
-« Je suis désolé, » dit Harry. « Je ne m’en suis pas rendu compte. »
+« Je suis désolé », dit Harry. « Je ne m’en suis pas rendu compte. »
 
 Le garçon avait l’air correctement apeuré, et Minerva sentit quelque
 chose se détendre à l’intérieur d’elle-même. Au moins Harry comprenait à
 quel point il avait été insensé.
 
-« Tu dois faire jurer le secret à mademoiselle Granger, » dit Dumbledore
+« Tu dois faire jurer le secret à mademoiselle Granger », dit Dumbledore
 avec le plus grand sérieux. « Et n’en parles à personne d’autre à moins
 que tu n’aies une raison particulièrement bonne de le faire, et cette
 personne devra jurer elle aussi. »
@@ -1085,17 +1085,17 @@ personne devra jurer elle aussi. »
 « Ah… pourquoi ? » dit Harry.
 
 « Parce que tu peux faire quelque chose que personne ne te croira capable
-de faire, » dit Dumbledore. « Quelque chose de totalement inattendu. Cela
+de faire », dit Dumbledore. « Quelque chose de totalement inattendu. Cela
 pourrait se révéler ton avantage capital, Harry, et nous devons le
 préserver. S’il te plaît, fais-moi confiance à ce sujet. »
 
 Le professeur McGonagall hocha la tête, son visage ferme ne montrant
-rien de sa confusion intérieure. « S’il vous plaît M. Potter, faites-le, »
+rien de sa confusion intérieure. « S’il vous plaît M. Potter, faites-le »,
 dit-elle.
 
 « Très bien… » dit lentement Harry.
 
-« Lorsque nous aurons fini d’examiner vos sujets de métamorphose, » ajouta
+« Lorsque nous aurons fini d’examiner vos sujets de métamorphose », ajouta
 Dumbledore, « vous pourrez pratiquer la métamorphose partielle, verre
 vers acier et acier vers verre *uniquement*, avec mademoiselle Granger
 comme guetteuse. Naturellement, si l’un de vous suspecte le moindre
@@ -1111,7 +1111,7 @@ professeur Rogue ? »
 
 Minerva ne laissa pas son sourire narquois apparaître sur son visage.
 Bien sûr que le garçon éprouvait une appréhension vis-à-vis du
-« maléfique maître de Potions, » puisqu’il n’avait aucun moyen de savoir
+« maléfique maître de Potions », puisqu’il n’avait aucun moyen de savoir
 la raison pour laquelle on pouvait faire confiance à Severus. Ç’aurait
 été pour le moins étrange d’expliquer à Harry que Severus était toujours
 amoureux de sa mère.
@@ -1138,7 +1138,7 @@ Harry s’inclina respectueusement devant eux et prit congé.
 
 
 
-« Albus, » dit Minerva après que le garçon fut parti, « comment
+« Albus », dit Minerva après que le garçon fut parti, « comment
 *saviez-vous* qu’il fallait prendre Harry au sérieux ? J’aurais
 considéré son idée comme étant simplement impossible ! »
 
@@ -1167,7 +1167,7 @@ Ces mots effroyables, prononcés par cette terrible voix tonitruante, ne
 semblait pas correspondre à quelque chose comme la métamorphose
 partielle.
 
-« Peut-être que non alors, » dit Dumbledore après que Minerva ait essayé
+« Peut-être que non alors », dit Dumbledore après que Minerva ait essayé
 de le lui expliquer. « J’avoue avoir espéré quelque chose qui nous aide à
 trouver l’horcruxe de Voldemort, où qu’il puisse être caché. Mais… » Le
 vieux sorcier haussa les épaules. « Les prophéties sont des choses
@@ -1177,7 +1177,7 @@ petit détail pourrait se révéler décisif s’il peut rester inattendu. »
 « Et que pensez-vous qu’il ait voulu dire au sujet de *Severus* ? » dit
 Minerva.
 
-« Là, je n’en ai aucune idée, » soupira Dumbledore. « À moins que Harry ne
+« Là, je n’en ai aucune idée », soupira Dumbledore. « À moins que Harry ne
 soit en train de jouer un coup contre Severus et qu’il ait pensé qu’une
 question ouverte pourrait être prise sérieusement là où une allégation
 directe aurait été rejetée. Et si c’est en effet ce qui se s’est passé,
@@ -1219,7 +1219,7 @@ continuer -
 Rogue venait d’envoyer le haricot de bronze sur le front d’Alissa avec
 une infaillible précision.
 
-« Mademoiselle Cornfoot, » dit le maître de Potions, la voix coupante,
+« Mademoiselle Cornfoot », dit le maître de Potions, la voix coupante,
 « c’est une potion délicate à réaliser, et si vous n’arrivez pas à faire
 attention, vous ferez du mal à vos camarades, pas seulement à vous-même.
 Venez me voir après le cours. »
@@ -1235,11 +1235,11 @@ que ce pourrait être une *mauvaise idée*. Alors elle s’avança, le visage
 neutre, avec une posture tout à fait appropriée pour une jeune
 demoiselle, et dit : « Professeur ? »
 
-« Mademoiselle Cornfoot, » dit Rogue sans lever les yeux des contrôles
+« Mademoiselle Cornfoot », dit Rogue sans lever les yeux des contrôles
 qu’il corrigeait, « je ne vous renvoie pas vos affections, je commence à
 trouver vos regards dérangeants, et vous retiendrez vos yeux à partir
 d’aujourd’hui. Est-ce assez clair ? »
 
-« Oui, » dit Alissa dans un glapissement étranglé, et Rogue la congédia,
+« Oui », dit Alissa dans un glapissement étranglé, et Rogue la congédia,
 et elle fuit la salle, ses joues en feu comme si elles avaient été
 faites de lave en fusion.

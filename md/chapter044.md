@@ -1,7 +1,7 @@
 # Humanisme, partie 2
 
 
-« Fumseck, » dit Albus Dumbledore d’une voix qui se brisait, « s’il te
+« Fumseck », dit Albus Dumbledore d’une voix qui se brisait, « s’il te
 plaît, aides-le… »
 
 Un créature flamboyante aux reflets rouges et or apparut dans son champ
@@ -10,9 +10,9 @@ de vision et le regarda d’un air railleur. Elle commença à chanter.
 Les pépiements dépourvus de sens glissèrent sur le néant, il n’y avait
 rien auquel ils pouvaient s’accrocher.
 
-« Tu es bruyant, » dit la voix, « tu devrais mourir. »
+« Tu es bruyant », dit la voix, « tu devrais mourir. »
 
-« Chocolat, » dit Albus Dumbledore, « tu as besoin de chocolat et de tes
+« Chocolat », dit Albus Dumbledore, « tu as besoin de chocolat et de tes
 amis — mais je n’ose pas te ramener — »
 
 Puis un corbeau de lumière apparut et parla de la voix du professeur
@@ -43,7 +43,7 @@ chance de le faire pour *elle* -
 
 Harry recracha le chocolat.
 
-« Vas-t-en, » dit une voix si vide qu’elle n’était même pas froide.
+« Vas-t-en », dit une voix si vide qu’elle n’était même pas froide.
 
 …
 
@@ -51,7 +51,7 @@ Tout sembla se figer, tous ceux qui s’étaient dirigés vers Harry
 s’arrêtèrent, tous les mouvements se brisèrent sous le choc de ces deux
 mots morts.
 
-Puis : « Non, » dit Albus Dumbledore, « je refuse, » et le temps reprit son
+Puis : « Non », dit Albus Dumbledore, « je refuse », et le temps reprit son
 cours alors qu’un autre morceau de chocolat s’envolait de table vers la
 bouche de Harry.
 
@@ -88,7 +88,7 @@ Hermione vit l’expression choquée qui passa sur leur visage.
 
 « Il ne le pense pas vraiment, hein ? » dit Samus d’un ton suppliant.
 
-« Vous ne comprenez pas, » dit Hermione, sa voix se brisait, « *ce n’est
+« Vous ne comprenez pas », dit Hermione, sa voix se brisait, « *ce n’est
 pas Harry — * » et elle se tut avant d’en dire plus, mais il avait *fallu*
 qu’elle dise au moins cela.
 
@@ -204,7 +204,7 @@ crièrent : « *Je t’ai dit pas de bisou !* »
 
 
 
-« Je pense que ça va aller maintenant, » dit le directeur, regardant vers
+« Je pense que ça va aller maintenant », dit le directeur, regardant vers
 l’endroit où Harry était en train de pleurer à grands sanglots tandis
 que Fumseck chantait au-dessus de lui. « Très bon travail, Mlle Granger.
 Savez-vous que même moi je ne me serais pas attendu à ce que cela

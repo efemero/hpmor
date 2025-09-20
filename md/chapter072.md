@@ -27,16 +27,16 @@ importantes.
 
 « Je veux dire pourquoi est-ce que tu ne leur as pas juste dit *non* ? »
 
-« Eh bien, » dit Harry alors que leurs chaussures battaient les dalles
+« Eh bien », dit Harry alors que leurs chaussures battaient les dalles
 d’un pas léger, « je ne peux pas m’amuser à dire « non » à chaque fois que
 quelqu’un m’interroge au sujet de quelque chose que je n’ai pas fait.
 Par exemple imagine que quelqu’un me demande : « Harry, c’est toi qui as
-fait la blague avec la peinture invisible ?, » que je réponde : « non, »
+fait la blague avec la peinture invisible ? », que je réponde : « non »,
 puis que la même personne me dise : « Harry, est-ce que tu sais qui a
 joué avec le balais volant de l’attrapeur Gryffondor ? » et que je dise :
-« Je refuse de répondre à cette question, » ça vendrait plutôt la mèche. »
+« Je refuse de répondre à cette question », ça vendrait plutôt la mèche. »
 
-« Et c’est pour *ça*, » dit Hermione avec précaution, « que tu as dit à
+« Et c’est pour *ça* », dit Hermione avec précaution, « que tu as dit à
 tout le monde… » Elle se concentra et essaya de se souvenir des mots
 exacts, « …que si, hypothétiquement, il y *avait* une conspiration, tu ne
 pouvais ni confirmer ni infirmer que le véritable chef de cette
@@ -44,12 +44,12 @@ conspiration était le fantôme de Salazar Serpentard, et qu’à vrai dire
 tu ne pouvais même pas admettre qu’une conspiration existait et que les
 gens devraient donc arrêter de te poser des questions à ce sujet. »
 
-« Ouaip, » dit Harry Potter avec un léger sourire. « Ça leur apprendra à
+« Ouaip », dit Harry Potter avec un léger sourire. « Ça leur apprendra à
 prendre les scénarios hypothétiques trop au sérieux. »
 
 « Et tu *m’as* dit de ne répondre à rien — »
 
-« Ils ne te *croiraient* peut-être pas si tu le niais, » dit Harry. « Donc
+« Ils ne te *croiraient* peut-être pas si tu le niais », dit Harry. « Donc
 il vaut mieux ne rien dire, à moins que tu ne veuilles qu’ils te
 prennent pour une menteuse. »
 
@@ -58,7 +58,7 @@ croient que je *fais* des choses pour le compte de Salazar Serpentard ! »
 La façon dont ceux de Gryffondor l’avaient regardée — la façon dont ceux
 de *Serpentard* l’avaient regardée -
 
-« Ça fait partie de la condition de héros, » dit Harry. « Tu as vu ce que
+« Ça fait partie de la condition de héros », dit Harry. « Tu as vu ce que
 le *Chicaneur* dit sur *moi* ? »
 
 L’espace d’un instant, Hermione imagina ses parents lisant un article de
@@ -73,7 +73,7 @@ dans une carrière d’héroïne.
 La voix de Harry devint un peu plus formelle. « En parlant de ça, Mlle
 Granger, comment va votre dernière quête ? »
 
-« Eh bien, » dit Hermione, « à moins que le fantôme de Salazar Serpentard
+« Eh bien », dit Hermione, « à moins que le fantôme de Salazar Serpentard
 ne surgisse *vraiment* et qu’il ne nous dise où trouver les brutes, je
 ne pense pas que nous allons avoir beaucoup de chance. » Non que cela la
 désolasse.
@@ -81,7 +81,7 @@ désolasse.
 Elle jeta un coup d’œil à Harry et vit que le garçon l’observait d’un
 regard particulièrement intense.
 
-« Tu sais, Hermione, » dit le garçon d’une voix basse comme s’il voulait
+« Tu sais, Hermione », dit le garçon d’une voix basse comme s’il voulait
 s’assurer que personne d’autre au monde ne l’entendrait, « je pense que
 tu as raison, je pense que certains se font beaucoup plus aider que
 d’autres pour devenir des héros. Et *je* ne pense pas non plus que ce
@@ -103,7 +103,7 @@ Puis il mit une main dans sa bourse et dit : « Cape d’Invisibilité ».
 « *Ehhhhh* ? » dit Hermione.
 
 Harry extrayait déjà des replis de tissu noir scintillant de l’appareil
-en peau de Moke. « Ne t’inquiète pas, » dit le garçon avec un petit
+en peau de Moke. « Ne t’inquiète pas », dit le garçon avec un petit
 sourire, « elles sont tellement rares que personne n’a prit la peine
 d’inventer un règlement pour les interdire… »
 
@@ -129,7 +129,7 @@ première fois qu’elle avait tenu sa baguette ; c’était comme si
 quelqu’un s’était mis à chanter d’une voix extrêmement faible à
 l’arrière de son crâne.
 
-« C’est un de mes objets de quête, Hermione, » dit Harry d’une voix douce.
+« C’est un de mes objets de quête, Hermione », dit Harry d’une voix douce.
 « Elle appartenait à mon père et ce n’est pas quelque chose que je
 pourrais remplacer en cas de perte. Ne la prête à personne, ne la montre
 à personne, ne dis à personne qu’elle existe… mais si tu veux
@@ -140,7 +140,7 @@ profondeur et regarda de nouveau Harry.
 
 « Je ne peux pas — »
 
-« Bien sûr que tu peux, » dit Harry. « Parce qu’il n’y a absolument rien de
+« Bien sûr que tu peux », dit Harry. « Parce qu’il n’y a absolument rien de
 juste au fait que j’ai trouvé ceci emballé dans du papier cadeau dans
 une boîte un matin, à côté de mon lit, et… pas toi. » Harry marqua une
 pause songeuse. « À moins que tu *n’aies* reçu ta propre cape
@@ -189,11 +189,11 @@ héroïnes malgré ça alors d’accord. »
 
 C’était pendant des moments comme celui là que Hermione se demandait si
 elle allait *jamais* s’habituer à la façon de penser de Harry. « Harry,
-je ne veux vraiment, » sa voix buta pendant une seconde, « vraiment,
+je ne veux vraiment », sa voix buta pendant une seconde, « vraiment,
 *vraiment* pas qu’il leur arrive du mal ! Surtout à cause de quelque
 chose que j’ai commencé ! »
 
-« Hermione, » dit Harry avec sérieux, « je suis assez certain que tu as
+« Hermione », dit Harry avec sérieux, « je suis assez certain que tu as
 fait ce qu’il fallait. Je ne vois pas de scénario plausible qui serait
 *pire* pour elles, à long terme, que de *ne rien faire*. »
 
@@ -207,7 +207,7 @@ qu’elle peignait précautionneusement d’un jaune Poufsouffle chaque
 matin, mais imaginer la suite lui fut alors interdit. « Et alors — alors
 elles ne feront plus jamais rien de courageux, plus jamais — »
 
-« Je ne pense pas que ça marche comme ça, » dit Harry d’un ton ferme.
+« Je ne pense pas que ça marche comme ça », dit Harry d’un ton ferme.
 « Même si tout tourne atrocement mal, je ne pense pas que ça marche comme
 ça dans l’esprit humain. Ce qui est important c’est qu’elles se voient
 comme des gens capables de dépasser leurs limites. Essayer et avoir mal
@@ -236,7 +236,7 @@ n’ai jamais été brutalisé, mais j’ai participé à une simulation réalis
 et ça n’était pas très agréable. As-tu jamais été brutalisée,
 Hermione ? »
 
-« Non, » dit-elle d’une petite voix, et elle continua de tendre sa cape
+« Non », dit-elle d’une petite voix, et elle continua de tendre sa cape
 d’invisibilité à Harry.
 
 Il reprit enfin sa cape — elle eut un léger sentiment de perte lorsque
@@ -246,7 +246,7 @@ enfoncer le matériau noir dans sa bourse.
 Après que la bourse eut mangé le dernier morceau de tissu, Harry se
 détourna de Hermione pour aller briser la barrière de silence -
 
-« Et, euh, » dit Hermione. « Ce n’est pas *la* Cape d’Invisibilité quand
+« Et, euh », dit Hermione. « Ce n’est pas *la* Cape d’Invisibilité quand
 même ? Celle qu’on a vue à la bibliothèque à la page dix-huit de la
 traduction par Paula Vieira du *Parchemin Illustré des Objets Perdus* de
 Gottschalk ? »
@@ -383,7 +383,7 @@ stupide, et les histoires finissait généralement avec quelqu’un qui se
 retrouvait complètement *foutu* à terre, sur les murs, et sur les
 chaussures de Tantine.
 
-« Hé, Padma, » marmonna Parvati, sa voix à peine audible par-dessus les
+« Hé, Padma », marmonna Parvati, sa voix à peine audible par-dessus les
 légers impacts de huit filles marchant sur la pointe des pieds dans le
 couloir qui menait à la salle de potions, « t’sais pourquoi Hermione a
 soupiré toute la matinée — »
@@ -510,7 +510,7 @@ spéculations quant au fantôme de Salazar Serpentard -
 Susan aurait dû murmurer d’abandonner, d’annuler le plan, mais il n’y
 avait aucun moyen de faire passer le message à -
 
-« *Silencio*, » dit la brute d’une voix douce et mesurée, baguette pointée
+« *Silencio* », dit la brute d’une voix douce et mesurée, baguette pointée
 vers le couloir, la brume bleue de son sortilège de bouclier chatoyant
 autour de lui. « *Accio* victime. »
 
@@ -520,7 +520,7 @@ une jambe, et ses robes bordées de rouge commençaient à glisser le long
 de ses cuisses et à révéler son pantalon. Sa bouche s’ouvrait et se
 fermait en vain ; aucun son ne sortait.
 
-« J’imagine que tu te demandes ce qui se passe, » dit le Serpentard en
+« J’imagine que tu te demandes ce qui se passe », dit le Serpentard en
 septième année d’une voix basse et froide. « Ne t’en fais pas. C’est
 tellement simple que même un Gryffondor pourrait comprendre. »
 
@@ -528,7 +528,7 @@ Sur ce, le Serpentard serra son poing et l’envoya avec force dans le
 ventre du Gryffondor. Le corps du garçon convulsa désespérément mais
 toujours aucun mot ne sortait de sa bouche
 
-« Tu es ma victime, » dit le Serpentard plus âgé. « Je suis une brute. Je
+« Tu es ma victime », dit le Serpentard plus âgé. « Je suis une brute. Je
 vais te battre. Et on verra si quelqu’un m’en empêche. »
 
 C’est alors que Susan comprit que c’était un piège.
@@ -541,7 +541,7 @@ volontaire pour faire diversion pendant que les autres l’attaqueraient
 par derrière au moment où la brute ne s’y attendrait pas, voilà ce
 qu’avait été le plan, sauf que maintenant -
 
-« Au nom de Poudlard, » s’écria la voix de Lavande, même si elles ne
+« Au nom de Poudlard », s’écria la voix de Lavande, même si elles ne
 pouvaient pas la voir, « et au nom des héroïnes de par le monde, je
 t’ordonne de lâcher ce IIIIIIHHH ! »
 
@@ -553,7 +553,7 @@ jupe or et pourpre vif et d’un chemisier à la place de ses robes de
 Poudlard habituelles.
 
 La brute jetait aussi un regard étrange au corps renversé de la fille,
-et il dirigea alors sa baguette vers elle, dit : « *Finite Incantatem*, »
+et il dirigea alors sa baguette vers elle, dit : « *Finite Incantatem* »,
 mais les vêtements ne changèrent pas.
 
 Puis la brute haussa les et épaules et, toujours face à Lavande et non
@@ -590,7 +590,7 @@ arrière, alors Susan fit appel à toute la magie qui lui restait et elle
 hurla *« Innerver* ! » vers le corps de Hermione alors même que la brute
 se tournait vers elle, baguette pointée de nouveau vers elle, puis Padma
 hurla « *Prismatis !* » juste avant que la brute ne hurle
-« *Impedimental !*, » la sphère arc-en-ciel se forma *autour de la brute*
+« *Impedimental !* », la sphère arc-en-ciel se forma *autour de la brute*
 et le Serpentard vacilla lorsque son propre sort fut renvoyé vers lui,
 mais un instant plus tard la baguette de ce dernier se retourna et le
 toucha, et la sphère prismatique de Padma éclata alors comme une bulle
@@ -641,7 +641,7 @@ Elle fit une roulade en dépit de la douleur, alors que les muscles de
 ses jambes se nouaient l’un autour de l’autre, elle roula jusque
 derrière l’angle de la coursive et cria : « *Vas-t-en !* »
 
-« Je ne pense pas, » dit la brute, sa voix grave et effrayante, semblable
+« Je ne pense pas », dit la brute, sa voix grave et effrayante, semblable
 à celle d’un homme adulte, très proche.
 
 La brute passa l’angle et Daphné Greengrass enfonça sa Très Ancienne
@@ -682,7 +682,7 @@ Tout s’était joué sur trop peu de choses, songea Susan, bien trop peu.
 Si la brute avait ne serait-ce que jeté un coup d’œil derrière l’angle -
 si elle avait prit un moment pour relancer son sortilège de bouclier -
 
-« On devrait arrêter, » dit Susan dès qu’elles furent hors de portée
+« On devrait arrêter », dit Susan dès qu’elles furent hors de portée
 d’oreille du bureau de la guérisseuse. « On devrait arrêter de faire ça. »
 
 Et alors, bien qu’elles aient été censées voter pour ce genre de chose,
@@ -698,7 +698,7 @@ qu’elle n’en a elle-même. »
 
 Toutes les autres filles hochèrent la tête, hormis Susan.
 
-« Je pense que le pire est arrivé, » dit Parvati. « Et on sait le gérer. On
+« Je pense que le pire est arrivé », dit Parvati. « Et on sait le gérer. On
 vient de le prouver. »
 
 Susan ne savait pas quoi répondre à cela. Elle ne pensait pas que hurler
@@ -708,10 +708,10 @@ pas juste *quitter* les autres filles non plus. Comme si ça ne suffisait
 pas d’être maudit par le zèle, pourquoi fallait-il que les Poufsouffle
 soient *loyaux* en plus de tout le reste ?
 
-« Au fait, Lavande, » dit Padma. « Par les sous-vêtements de Merlin,
+« Au fait, Lavande », dit Padma. « Par les sous-vêtements de Merlin,
 qu’est-ce que tu *portais* là bas ? »
 
-« Mon costume d’héroïne, » dit la Gryffondor.
+« Mon costume d’héroïne », dit la Gryffondor.
 
 Daphné parla d’une voix lasse, sans tourner la tête, en continuant de
 marcher d’un pas laborieux : « C’est le costume du soldat de Gryffondor
@@ -726,12 +726,12 @@ lancer *Finite* après avoir vu la brute. Tu veux avoir le tien,
 Parvati ? Katarina et Joshua m’ont fait le mien hier pour douze
 Mornilles, ils sont en sixième année — »
 
-« Je pense, » dit le général Granger avec prudence, « que cela nous
+« Je pense », dit le général Granger avec prudence, « que cela nous
 donnerait à toutes l’air un peu idiotes. »
 
-« Eh bien, » dit Lavande, « on devrait voter pour savoir si on — »
+« Eh bien », dit Lavande, « on devrait voter pour savoir si on — »
 
-« Je pense, » dit le général Granger, « que peu importe ce que *vous*
+« Je pense », dit le général Granger, « que peu importe ce que *vous*
 votez, je préférerais mourir plutôt que d’être vue avec un de ces
 costumes sur le dos — »
 
@@ -823,7 +823,7 @@ Un autre moment de silence figé. La tête de Hermione — Daphné pouvait l
 voir trembler — se retourna pour regarder le capitaine de Quidditch de
 Serpentard.
 
-« Présente-moi des excuses, » dit Flint.
+« Présente-moi des excuses », dit Flint.
 
 Harry Potter commença à se lever de la table Serdaigle puis s’arrêta
 soudain à mi-parcours, comme s’il venait de penser à quelque chose -
@@ -848,7 +848,7 @@ Hermione, révélant une expression de surprise sur le visage de la
 Serdaigle lorsque Drago Malefoy s’approcha, rengaina sa baguette puis
 posa un genoux à terre et lui offrit sa main.
 
-« Navré pour tout ceci, Mlle Granger, » dit la voix polie de Drago Malefoy.
+« Navré pour tout ceci, Mlle Granger », dit la voix polie de Drago Malefoy.
 « Je suppose que quelqu’un s’est crû drôle. »
 
 Hermione prit la main de Drago et Daphné comprit soudain ce qui allait
@@ -859,9 +859,9 @@ laisser retomber par terre.
 
 Il la mit juste sur pieds.
 
-« Merci, » dit Hermione.
+« Merci », dit Hermione.
 
-« De rien, » dit Drago d’une voix forte, sans regarder autour de lui, où
+« De rien », dit Drago d’une voix forte, sans regarder autour de lui, où
 les quatre maisons de Poudlard le regardaient dans un état de
 stupéfaction absolue. « Souvenez-vous juste qu’être rusé et ambitieux ne
 signifie pas qu’on se comporte forcément d’une façon pareille. »
@@ -901,7 +901,7 @@ regardaient Drago.
 
 Mais les visage perplexes étaient en surnombre.
 
-« D’accord, j’abandonne, » dit un garçon de sixième année que Drago ne
+« D’accord, j’abandonne », dit un garçon de sixième année que Drago ne
 reconnut pas, assit en face de lui, deux places sur la droite. « Pourquoi
 tu as fait ça, Drago ? »
 
@@ -910,7 +910,7 @@ Même si sa bouche était très sèche, Drago ne déglutit pas. Cela aurait
 qui étaient l’aliment le plus humide sa son assiette, mâcha et avala
 tout en réfléchissant le plus rapidement possible.
 
-« Tu sais, » dit Drago, d’une voix aussi tranchante qu’il en était
+« Tu sais », dit Drago, d’une voix aussi tranchante qu’il en était
 capable — alors que son cœur battait encore plus fort dans sa poitrine,
 alors que tout le monde s’était arrêté de parler et l’écoutait — « il y a
 *probablement* un moyen de donner encore plus mauvaise réputation à
@@ -923,7 +923,7 @@ Les visages qui étaient perplexes le demeurèrent.
 « Quoi ? » dit le garçon en sixième année, et « Attends, *quel* bénéfice ? »
 dit une fille en cinquième année assise à sa gauche.
 
-« Ça donne une bonne réputation à Serpentard, » dit Drago.
+« Ça donne une bonne réputation à Serpentard », dit Drago.
 
 Les Serpentard autour de lui jetaient des regards mi-interloqués
 mi-moqueurs, comme s’il venait d’essayer de leur expliquer ce qu’était
@@ -931,7 +931,7 @@ l’algèbre.
 
 « Auprès de *qui* ? » dit le garçon en sixième année.
 
-« Mais tu viens d’aider une *Sang-de-Bourbe*, » dit la fille en cinquième
+« Mais tu viens d’aider une *Sang-de-Bourbe* », dit la fille en cinquième
 année. « Comment est-ce que *ça* c’est censé nous donner une bonne
 réputation ? »
 
@@ -940,12 +940,12 @@ dysfonctionnement qui l’empêchait de trouver autre chose à répondre que
 la vérité -
 
 Puis : « C’est probablement une sorte de plan incroyablement malin que
-Malefoy prépare, » dit un garçon en cinquième année. « Vous savez, comme
+Malefoy prépare », dit un garçon en cinquième année. « Vous savez, comme
 dans *La Tragédie de Light*, où tous les revers font en fait partie du
 plan. Et ça finit avec la tête de Granger au bout d’une pique et
 personne pour le soupçonner. »
 
-« *Ça*, ça se tient, » dit quelqu’un plus loin vers l’autre bout de la
+« *Ça*, ça se tient », dit quelqu’un plus loin vers l’autre bout de la
 table, et il y eut de nombreux hochements de tête.
 
 
@@ -1051,7 +1051,7 @@ penseront que je fomente quelque chose, ils n’en seront pas certains. »
 « Euh… » dit le garçon en cinquième année. « Je ne pense pas que je te
 crois, ça n’a vraiment pas l’air assez fourbe pour être ça — »
 
-« C’est ce qu’il *veut* que tu penses, » dit la fille en cinquième année.
+« C’est ce qu’il *veut* que tu penses », dit la fille en cinquième année.
 
 
 
@@ -1059,7 +1059,7 @@ crois, ça n’a vraiment pas l’air assez fourbe pour être ça — »
 
 
 
-« Albus, » dit Minerva d’un ton menaçant, « avez-vous *planifié* tout
+« Albus », dit Minerva d’un ton menaçant, « avez-vous *planifié* tout
 cela ? »
 
 
@@ -1097,7 +1097,7 @@ Daphné fixa Millicent de ses yeux de simples mortels qui se trouvaient
 « Ben ouais ! » dit Millicent. « Tout le monde sait que vous faites la
 chasse aux brutes ! »
 
-« Hannah s’est prise un sortilège vraiment douloureux en plein visage, »
+« Hannah s’est prise un sortilège vraiment douloureux en plein visage »,
 dit Daphné. « Elle a dû aller voir un guérisseur, Millicent ! En tant
 qu’amie, tu aurais dû me *prévenir* ! »
 
@@ -1116,7 +1116,7 @@ se passe si je n’y vais tout simplement pas ? »
 « Je ne *sais* pas ! » dit Millicent. « Mais comparé à ça, se faire manger
 par des Moremplis ressemble probablement à une partie de plaisir ! »
 
-« Écoute, même moi je sais que les prophéties ne marchent pas comme ça, »
+« Écoute, même moi je sais que les prophéties ne marchent pas comme ça »,
 dit Daphné, puis elle marqua une pause. « En tout cas elles ne marchent
 pas comme ça dans les pièces de théâtre… » Il fallait convenir qu’il
 existait toutes sortes de tragédies ou essayer d’éviter la prophétie la
@@ -1130,7 +1130,7 @@ voyantes des pièces ne se souvenaient jamais de ce qu’elles avaient
 vues…
 
 Millicent dut remarquer l’hésitation de Daphné car elle commença à
-prendre un peu d’assurance. « Eh bien, » dit Millicent d’une voix sèche,
+prendre un peu d’assurance. « Eh bien », dit Millicent d’une voix sèche,
 « ce n’est pas une pièce ! Écoute, je te dirai si je vois une bataille
 facile ou une bataille difficile. Mais c’est *tout* ce que je peux
 faire, tu comprends ? Et si je dis “difficile”, tu ne *peux pas* être
@@ -1148,14 +1148,14 @@ Le professeur Chourave secoua la tête, le visage pincé.
 
 « Mais — » dit Susan. « Mais vous avez aidé *Harry Potter* cette fois-là — »
 
-« Et l’on m’a *clairement* fait comprendre, » dit le professeur Chourave
+« Et l’on m’a *clairement* fait comprendre », dit le professeur Chourave
 d’une voix qui donnait l’impression que quelqu’un utilisait un sortilège
 de rétrécissement pour lui serrer la gorge, « que c’était le travail du
 professeur Rogue et pas le mien de faire régner l’ordre dans la maison
 Serpentard — mademoiselle Bones, *s’il vous plaît*, vous n’avez pas à
 *faire* ça si — »
 
-« Si, je *dois* le faire, » dit Susan avec tristesse. « Je suis une
+« Si, je *dois* le faire », dit Susan avec tristesse. « Je suis une
 Poufsouffle, on doit être loyaux. »
 
 
@@ -1171,7 +1171,7 @@ père noël ? »
 
 Silence.
 
-« Alors, » dit Hermione, « je ne vais *pas* te poser de question, tu ne vas
+« Alors », dit Hermione, « je ne vais *pas* te poser de question, tu ne vas
 *rien* me dire et on va *tous les deux* faire comme si tu n’avais jamais
 dit ça et que je n’étais pas au courant — »
 
@@ -1186,7 +1186,7 @@ seule et jeta un regard autour d’elle pour vérifier que personne dans la
 salle commune Poufsouffle ne regardait (comme sa tante le lui avait
 enseigné, de façon à ce qu’il ne soit pas évident qu’elle vérifiait).
 
-« Hé, Susie, » dit la Poufsouffle en septième année. « Est-ce que tu as
+« Hé, Susie », dit la Poufsouffle en septième année. « Est-ce que tu as
 déjà besoin de plus de — »
 
 « Est-ce qu’on pourrait parler en privé un moment ? » dit Susan.
@@ -1202,7 +1202,7 @@ considéré comme un petit arriviste prometteur sur la scène des
 duettistes junior se tenait droit comme un piquet dans le bureau du
 professeur Rogue, dents serrées très fort et de la sueur dans le dos.
 
-« Je me souviens clairement, » dit le directeur de sa maison d’une voix
+« Je me souviens clairement », dit le directeur de sa maison d’une voix
 traînante et pleine d’ironie, « vous avoir prévenu, ainsi que nombre
 d’entre vous ce matin même, qu’il y avait certaines filles de première
 année qui pourraient s’avérer agaçantes si un combattant se montrait
@@ -1220,7 +1220,7 @@ avait dû recevoir de *l’aide* -
 Mais il était très clair que son directeur de maison n’allait pas croire
 ça.
 
-« Oh, je suis tout à fait d’accord, » murmura Rogue d’un ton bas, emplit
+« Oh, je suis tout à fait d’accord », murmura Rogue d’un ton bas, emplit
 de menace. « Elles n’auraient pas dû. Je commence à me demander si M.
 Malefoy, quelles que soient ses manigances, n’a pas raison, Astorga. Ça
 ne peut qu’être mauvais pour la réputation de Serpentard si nos

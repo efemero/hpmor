@@ -154,14 +154,14 @@ Super Poufsouffle avait observé la collision évitée de peu entre Cho
 Chang et Terence Higgs avec l’œil acéré d’un Attrapeur et d’un capitaine
 d’équipe à part entière.
 
-« L’Attrapeur Serdaigle est nouveau, » dit-il. « Mais Higgs est en septième
+« L’Attrapeur Serdaigle est nouveau », dit-il. « Mais Higgs est en septième
 année. J’ai joué contre lui. Il vaut mieux que ça. »
 
 « Tu penses que c’est une stratégie ? » demanda l’un des Poufsouffle assis
 à côté de Cédric.
 
 « Ça aurait un sens si Serpentard avait besoin de quelques points
-supplémentaires pour remporter la coupe de Quidditch, » répondit Cédric.
+supplémentaires pour remporter la coupe de Quidditch », répondit Cédric.
 « Mais ils l’ont déjà dans la poche. Qu’est-ce qui leur passe par la
 tête ? Ils auraient pu gagner ! »
 
@@ -177,7 +177,7 @@ faisant passer le score à 170-140, « *Ces bâtards !* »
 « Ouais ! » répondit un jeune garçon à côté de lui, bondissant lui aussi.
 « Pour qui ils se prennent, à marquer des points comme ça ? »
 
-« C’est pas ça, » s’écria Cédric. « Ils… ils essaient de nous *voler la
+« C’est pas ça », s’écria Cédric. « Ils… ils essaient de nous *voler la
 coupe !* »
 
 « Mais on a déjà perdu la… »
@@ -280,7 +280,7 @@ votes et de freiner l’élan réformiste.
 
 Rétrospectivement, songea Harry, il aurait été bon de voir Drago
 dérouler sa bannière dans le camp d’en face, disant « LES VIFS D’OR ON
-ADORE, » afin d’établir les polarités du débat. Plus tôt, Harry avait
+ADORE », afin d’établir les polarités du débat. Plus tôt, Harry avait
 scruté les gradins Serpentard, mais il n’avait vu Drago nulle part.
 Severus Rogue, qui aurait peut-être eu la gentillesse de bien vouloir
 jouer le rôle de l’infâme opposant, manquait aussi à l’appel.
@@ -294,10 +294,10 @@ cire. La cire était vierge elle aussi, sans sceau identificateur.
 
 « De quoi s’agit-il ? » demanda Harry.
 
-« C’est *moi*, » dit le garçon. « Avec l’enveloppe que vous m’avez remise.
+« C’est *moi* », dit le garçon. « Avec l’enveloppe que vous m’avez remise.
 Je sais que vous avez dit que je ne devais pas vous parler, mais… »
 
-« Alors ne me parle pas, » répondit Harry.
+« Alors ne me parle pas », répondit Harry.
 
 Le garçon jeta l’enveloppe à Harry et s’en fut d’un air offensé. Harry
 grimaça un peu, mais était donné les problèmes temporels en jeu, ça
@@ -318,13 +318,13 @@ et des sages et des bienveillants.*
 dans le lieu interdit et vraiment débile.*
 
 Harry lut les vers en un clin d’œil, replia la feuille et la plaça dans
-sa bourse avec un soupir. « Prends garde à la constellation, » vraiment ?
+sa bourse avec un soupir. « Prends garde à la constellation », vraiment ?
 Il se serait attendu à ce qu’une énigme laissée par lui-même à sa propre
 intention soit plus facile à interpréter… même si elle était évidente
 par endroits. Le futur Harry avait clairement eu peur que le parchemin
 soit intercepté, et même si le Harry du présent n’aurait pas
 naturellement vu les Aurors comme des « complices des Détraqueurs
-d’Azkaban, » peut-être que c’était la meilleure façon de les décrire sans
+d’Azkaban », peut-être que c’était la meilleure façon de les décrire sans
 alerter un lecteur inopportun désireux de décrypter le message. Si l’on
 traduisait l’idiome Fourchelangue qu’il avait utilisé lors de l’incident
 à Azkaban… peut-être bien que ça collait.
@@ -384,16 +384,16 @@ difficile…
 La montre de Harry indiquait maintenant 11 h 45, c’est-à-dire 6 h 45 après
 être revenu 5 heures dans le passé.
 
-« Il est temps, » murmura Harry au couloir vide, et il commença à
+« Il est temps », murmura Harry au couloir vide, et il commença à
 s’avancer au-dessus du grand escalier du troisième étage, à droite.
 
-« Le lieu interdit, » signifiait généralement la Forêt Interdite ; c’était
+« Le lieu interdit », signifiait généralement la Forêt Interdite ; c’était
 probablement ce que penserait quelqu’un qui intercepterait le message.
 Mais elle était immense et contenait plus d’un lieu notable. Pas de
 point Schelling où se retrouver ni d’événement autour duquel se
 rassembler.
 
-Mais lorsqu’on ajoutait « et vraiment débile, » un seul endroit interdit
+Mais lorsqu’on ajoutait « et vraiment débile », un seul endroit interdit
 de Poudlard demeurait plausible.
 
 Et Harry s’avança donc sur ce chemin interdit où, si la rumeur était
@@ -469,12 +469,12 @@ avez osé trafiquer ma baguette ? Vous avez *osé* ? »
 est en vain… si finement jouée soit-elle… maintenant, dites-moi… que
 faites-vous ? »
 
-« Je garde cette porte, » dit le professeur Rogue. « Et je vous demanderai
+« Je garde cette porte », dit le professeur Rogue. « Et je vous demanderai
 de vous en éloigner ! »
 
 « À quel titre… me donnez-vous des ordres… cher collègue ? »
 
-Il y eut un silence. « Eh bien, sur ordre du directeur, » répondit Severus
+Il y eut un silence. « Eh bien, sur ordre du directeur », répondit Severus
 Rogue d’une voix mielleuse. « Il m’a ordonné de garder cette porte
 pendant le match de Quidditch, et en tant que professeur, je me dois
 d’obéir à ses lubies. J’en parlerai plus tard au conseil
@@ -514,7 +514,7 @@ sous une torche, la silhouette affaissée du professeur Quirrell, dos
 contre le mur, visage levé. Les yeux semblèrent briller, comme pris
 entre la conscience et le néant.
 
-« Qu’est-ce que vous pouvez bien,, » dit la haute silhouette du maître des
+« Qu’est-ce que vous pouvez bien »,, dit la haute silhouette du maître des
 potions, « faire ici, *Potter* ? »
 
 À en juger son visage et son ton, le maître des potions était plutôt en
@@ -522,7 +522,7 @@ colère contre Harry et n’était certainement pas un de ses
 co-conspirateurs dans une entreprise à laquelle le professeur de Défense
 n’aurait pas été invité.
 
-« Je n’en suis pas sûr, » répondit Harry. Il n’était pas certain du rôle
+« Je n’en suis pas sûr », répondit Harry. Il n’était pas certain du rôle
 qu’il était censé joué, et donc, par désespoir, se rabattait sur
 l’honnêteté. « Je crois que je suis peut-être censé garder un œil sur le
 professeur de Défense. »
@@ -536,7 +536,7 @@ il ne connaissait même pas les règles. « Je ne sais pas bien comment
 répondre à ça… »
 
 Les traits froids du professeur Rogue vacillèrent. « Peut-être que je
-devrais appeler les Aurors, » dit-il.
+devrais appeler les Aurors », dit-il.
 
 « Attendez ! » dit hâtivement Harry.
 
@@ -553,10 +553,10 @@ Harry se tint poliment immobile.
 
 Lorsqu’il fut clair qu’aucun de ces sortilèges n’avait produit de
 résultat, Severus Rogue fixa Harry d’un regard sombre, apparemment
-sincère cette fois. « Je vous suggère de vous expliquer, M. Potter, »
+sincère cette fois. « Je vous suggère de vous expliquer, M. Potter »,
 dit-il doucement.
 
-« Je ne peux pas m’expliquer, » dit Harry. « Je n’en ai pas encore le
+« Je ne peux pas m’expliquer », dit Harry. « Je n’en ai pas encore le
 Temps. »
 
 Il regarda droit dans les yeux du maître des potions en prononçant les
@@ -579,7 +579,7 @@ Derrière Harry…
 On entendit le bruit de pas qui approchaient ; rapides et nombreux.
 
 Le professeur Rogue agita sa baguette une fois et le professeur de
-Défense, toujours étendu, fut entouré de ténèbres. « *Muffiato*, » siffla
+Défense, toujours étendu, fut entouré de ténèbres. « *Muffiato* », siffla
 le maître des potions. « M. Potter, si vous souhaitez rester,
 cachez-vous ! Mettez votre cape d’invisibilité ! Mon devoir est de
 garder cette porte, au cas où *il* surgirait. Il y a eu… une
@@ -607,12 +607,12 @@ Les pas qui approchaient dépassèrent le coin du couloir…
 Liserés de trois verts Serpentard et d’un jaune Poufsouffle, c’étaient
 Theodore Nott, Daphné Greengrass, Susan Bones et Tracey Davis.
 
-« *Où donc*, » dit le professeur Rogue, dont la colère semblait en pleine
+« *Où donc* », dit le professeur Rogue, dont la colère semblait en pleine
 ascension, « sont vos *escortes*, jeunes gens ? Les première année
 doivent être en permanence accompagnés d’un étudiant de sixième ou
 septième année ! Vous en particulier ! »
 
-Theodore Nott leva une main. « Nous, euh, » répondit-il. « C’est un
+Theodore Nott leva une main. « Nous, euh », répondit-il. « C’est un
 exercice de la Légion du Chaos, on travaille notre esprit d’équipe… et
 vous voyez, comme on s’est rendu compte qu’aucun de nous n’avait encore
 essayé d’entrer la pièce interdite du directeur et que l’année se
@@ -626,7 +626,7 @@ ses yeux.
 *Je… peut-être ?* il avait encore une heure devant lui, ce n’était donc
 pas impossible.
 
-« Harry Potter n’a aucune autorité en la matière, » répondit le maître des
+« Harry Potter n’a aucune autorité en la matière », répondit le maître des
 potions d’un ton doucereux. « Maintenant, expliquez-vous. »
 
 « Sérieusement ? » répondit Susan Bones. « Vous êtes sérieusement en train
@@ -636,7 +636,7 @@ professeur Rogue. Sa voix était étrangement ferme : « Monsieur, Drago
 Malefoy a disparu et nous pensons qu’il est venu ici. C’est la vérité, et
 le temps presse… »
 
-« Si M. Malefoy a disparu, » dit le professeur Rogue, « *pourquoi les Aurors
+« Si M. Malefoy a disparu », dit le professeur Rogue, « *pourquoi les Aurors
 n’en ont-ils pas été informés ?* »
 
 « Pour certaines… pour certaines *raisons* ! » s’écria Daphné Greengrass.
@@ -647,25 +647,25 @@ seriez-vous mis en tête que vous êtes en pleine aventure, bande
 d’idiots ? Détrompez-vous. Je vous assure que M. Malefoy n’a pas franchi
 cette porte. »
 
-« Nous pensons que M. Malefoy a une cape d’invisibilité, » répondit
+« Nous pensons que M. Malefoy a une cape d’invisibilité », répondit
 vivement Susan Bones. « Vous rappelez-vous avoir vu la porte s’ouvrir,
 sans raison apparente ? »
 
-« Non, » répondit que maître des potions. « Maintenant, partez. Ce couloir
+« Non », répondit que maître des potions. « Maintenant, partez. Ce couloir
 est interdit d’accès pour le reste de la journée. »
 
-« C’est le couloir interdit de *Dumbledore*, » dit Tracey. « Il a dit
+« C’est le couloir interdit de *Dumbledore* », dit Tracey. « Il a dit
 lui-même que personne ne devait venir ici. Vous vous prenez pour qui, à
 l’interdire aussi ? »
 
-« Mlle Davis, » dit le maître des potions, « je vous suggère d’éviter la
+« Mlle Davis », dit le maître des potions, « je vous suggère d’éviter la
 compagnie des Gryffondor, en particulier de ceux qui s’appellent
 Lavander Brown. Et si vous êtes encore ici dans une minute, je
 soumettrai une requête de transfert qui vous enverra chez eux. »
 
-« *Vous n’oseriez pas !*, » s’écria-t-elle.
+« *Vous n’oseriez pas !* », s’écria-t-elle.
 
-« Euh, » dit Susan Bones, les traits tirés par la concentration.
+« Euh », dit Susan Bones, les traits tirés par la concentration.
 « Professeur Rogue, vous arrive-t-il d’ouvrir la porte pour jeter un coup
 d’œil à ce qu’il y a derrière ? »
 
@@ -676,7 +676,7 @@ Harry regardait la main placée sur le heurtoir, et il ne vit donc pas ce
 que Rogue faisait de sa main gauche avant d’entendre de soudains éclats
 de voix.
 
-« À vrai dire non, » dit le professeur Rogue, sa main gauche maintenant
+« À vrai dire non », dit le professeur Rogue, sa main gauche maintenant
 serrée autour du col de Drago Malefoy. Hormis sa tête, le reste du corps
 de ce dernier était toujours masqué par une cape d’invisibilité. « Bien
 essayé, toutefois. »
@@ -686,7 +686,7 @@ essayé, toutefois. »
 Susan Bones se frappa le front. « J’arrive pas à croire que je me suis
 fait avoir par ça… »
 
-« Donc, M. Malefoy, » continua le professeur Rogue. Sa voix avait baissé
+« Donc, M. Malefoy », continua le professeur Rogue. Sa voix avait baissé
 d’un ton. « Vous envoyez vos amis ici pour me rouler… dans le seul espoir
 de franchir cette porte ? Pourquoi feriez-vous une chose pareille ? »
 
@@ -726,7 +726,7 @@ dernière. « Je ne suis pas avec eux. Je les ai juste accompagnés pour
 leur éviter de faire quelque chose d’encore plus stupide. »
 
 Severus Rogue regardait Theodore Nott et les autres. Puis il se retourna
-vers Drago Malefoy. « M. Malefoy, » dit-il d’une voix traînante. « Comment
+vers Drago Malefoy. « M. Malefoy », dit-il d’une voix traînante. « Comment
 avez-vous découvert le plan de Dumbledore ? »
 
 « Je l’ai déduit à partir d’indices ! » dit la tête de Drago Malefoy.
@@ -735,7 +735,7 @@ Celle du professeur Rogue pivota vivement vers Theodore Nott. « Comment
 comptiez-vous récupérer la pierre cachée dans un miroir censé mettre
 Dumbledore lui-même en échec ? Répondez, maintenant ! »
 
-« On allait prendre le miroir et le renvoyer à Flamel, » dit Theodore
+« On allait prendre le miroir et le renvoyer à Flamel », dit Theodore
 Nott. « Ce n’est pas comme si on voulait la pierre, on veut juste
 empêcher Dumbledore de la voler. »
 
@@ -751,7 +751,7 @@ explication logique à ça, je vous suggère de m’en faire part
 *immédiatement*. »
 
 Les cheveux de Susan Bones devinrent rouge vif, mais son visage ne
-changea pas. « J’imagine que ce n’est plus la peine de me cacher, »
+changea pas. « J’imagine que ce n’est plus la peine de me cacher »,
 dit-elle, « puisque je serai diplômée dans deux jours. »
 
 « Les doubles sorcières reçoivent leur diplôme *six ans* plus tôt ? » dit
@@ -759,14 +759,14 @@ Tracey Davis. « C’est injuste ! »
 
 « *Bones est une double sorcière ?* » s’écria Theodore.
 
-« Non, c’est Nymphadora Tonks, une métamorphomage, » dit le professeur
+« Non, c’est Nymphadora Tonks, une métamorphomage », dit le professeur
 Rogue. « Comme vous le savez, le règlement interdit strictement de se
 faire passer pour un autre élève. Il n’est pas trop tard pour que vous
 soyez renvoyée de Poudlard, ce qui serait tragique… de votre point de
 vue. Du mien, ce serait hilarant. Maintenant, dites-moi exactement ce
 que vous faites ici. »
 
-« Je comprends mieux, » dit Daphné Greengrass. « Euh, est-ce qu’il y a une
+« Je comprends mieux », dit Daphné Greengrass. « Euh, est-ce qu’il y a une
 *vraie* Susan Bones, ou est-ce que notre Maison se meurt tellement
 qu’ils vous ont fait… »
 
@@ -785,13 +785,13 @@ Avant que ça ne devienne encore plus ridicule ? »
 
 « *Par Merlin, qu’est-ce qui se passe ici ?* »
 
-« Ah, » dit le professeur Rogue, qui pointait toujours sa baguette vers
+« Ah », dit le professeur Rogue, qui pointait toujours sa baguette vers
 une Susan Bones aux cheveux rouges et dont l’autre main tenait toujours
 le col de la tête sans corps de Drago Malefoy, et dont les pieds étaient
 à quelques centimètres du corps affalé du professeur de Défense.
 « Professeur Chourave, n’est-ce pas. »
 
-« Ce n’est pas ce que vous croyez, » s’expliqua Tracey Davis.
+« Ce n’est pas ce que vous croyez », s’expliqua Tracey Davis.
 
 La silhouette courtaude du professeur de Botanique s’avança à grands
 pas. Elle avait déjà sorti sa baguette, mais ne la dirigeait vers
@@ -811,12 +811,12 @@ tout ça… parce que c’était exactement le genre de chose qu’il aurait pu
 faire.
 
 Severus Rogue abaissa sa baguette. Son autre main relâcha Drago Malefoy.
-« Professeur Chourave, » dit le maître des potions, « je suis ici sur ordre
+« Professeur Chourave », dit le maître des potions, « je suis ici sur ordre
 du directeur afin de garder cette porte. Toutes les autres personnes
 présentes ici ne devraient *pas* l’être, et je vous prie de les faire
 partir. »
 
-« Une histoire plausible, » dit le professeur Chourave. « Pourquoi
+« Une histoire plausible », dit le professeur Chourave. « Pourquoi
 Dumbledore choisirait vous plutôt que n’importe qui d’autre pour garder
 la porte de son terrain de jeu ? Ce n’est pas comme s’il voulait
 empêcher les élèves d’entrer, oh que non, il faut qu’ils rentrent et
@@ -892,7 +892,7 @@ plus sombre et disposer de leurs propres boucliers.
 Harry Potter murmura, apparemment dans le vide : « Attaque Chourave. Aide
 Bones. Attaques non mortelles seulement. »
 
-« Oui, Seigneur, » murmura un Lesath Lestrange caché sous la Cape
+« Oui, Seigneur », murmura un Lesath Lestrange caché sous la Cape
 d’Invisibilité de Harry ; et le Serpentard en cinquième année s’avança
 vers la bataille, toujours dissimulé.
 
@@ -930,7 +930,7 @@ trempées de sueur.
 
 Elle regarda autour d’elle, les corps stupéfixés ou entourés de plantes.
 
-« Quoi, » dit pas-Susan. « Quoi. Quoi. *Quoi.* »
+« Quoi », dit pas-Susan. « Quoi. Quoi. *Quoi.* »
 
 Il n’y eut pas de réponse. Les victimes prises dans les tiges du
 professeur Chourave semblaient immobiles, mais elles paraissaient
@@ -988,15 +988,15 @@ Le corps étendu du professeur Quirrell eut une autre quinte de toux,
 leva une main vers le mur situé derrière lui et se remit lentement sur
 pieds.
 
-« Harry, » croassa le professeur Quirrell. « Harry. Tu es là ? »
+« Harry », croassa le professeur Quirrell. « Harry. Tu es là ? »
 
 C’était la première fois que le professeur Quirrell l’appelait par son
 prénom.
 
-« Je suis là, » dit Harry. Sans même qu’il réfléchisse, ses pieds
+« Je suis là », dit Harry. Sans même qu’il réfléchisse, ses pieds
 avançaient.
 
-« S’il te plaît, » dit le professeur Quirrell. « S’il te plaît, je n’ai…
+« S’il te plaît », dit le professeur Quirrell. « S’il te plaît, je n’ai…
 plus beaucoup de temps. S’il te plaît… emmène-moi au miroir… aide-moi… à
 trouver la pierre. »
 
@@ -1005,10 +1005,10 @@ autour de lui, mais Drago n’était plus visible, le sortilège de
 révélation s’était dissipé. « Vous pensez que M. Nott avait *raison* ? Je
 ne pense pas que Dumbledore… »
 
-« Pas… Dumbledore, » s’étrangla le professeur Quirrell. « Parce que…
+« Pas… Dumbledore », s’étrangla le professeur Quirrell. « Parce que…
 Chourave… »
 
-« Je comprends, » dit Harry. Si Dumbledore avait été derrière tout cela,
+« Je comprends », dit Harry. Si Dumbledore avait été derrière tout cela,
 il n’aurait pas eu besoin de contrôler l’esprit d’un professeur pour
 utiliser des sortilèges d’Oubliettes.
 
@@ -1023,7 +1023,7 @@ peuvent vouloir s’en emparer. L’un d’eux contrôle Chourave, et ça
 expliquerait son véritable but… seulement… ça n’explique pas pourquoi
 celui qui contrôle Chourave s’en prendrait à Hermione… »
 
-« Harry, s’il te plaît, » dit le professeur Quirrell. Sa respiration était
+« Harry, s’il te plaît », dit le professeur Quirrell. Sa respiration était
 plus laborieuse, sa voix d’une lenteur insoutenable. « C’est la seule
 chose… qui peut me sauver… et je me rends compte… que je ne veux pas
 mourir… aide-moi, s’il te plaît… »
@@ -1045,7 +1045,7 @@ désastres passés lui soufflait que s’il fonçait droit devant, il aurait
 une triste conversation où il comprendrait que son comportement avait
 été stupide. *Une fois de plus*.
 
-« Laissez-moi réfléchir, » dit-il. « Laissez-moi réfléchir une minute avant
+« Laissez-moi réfléchir », dit-il. « Laissez-moi réfléchir une minute avant
 qu’on y aille. » Il se détourna du professeur de Défense et regarda les
 corps inconscients au sol. Il avait déjà obtenu tellement de pièces du
 puzzle, peut-être que tout se mettrait en place s’il en trouvait une de
@@ -1187,10 +1187,10 @@ Le message codé sur le parchemin… une ligne ou deux n’avaient pas été
 dans le ton, n’avait pas ressemblé à un code que Harry s’attendrait à se
 voir utiliser…
 
-« Harry, » murmura la voix mourante du professeur Quirrell, derrière lui.
-« Harry, s’il te plaît, »
+« Harry », murmura la voix mourante du professeur Quirrell, derrière lui.
+« Harry, s’il te plaît »,
 
-« J’ai presque fini de réfléchir, » dit la voix de Harry, et il se rendit
+« J’ai presque fini de réfléchir », dit la voix de Harry, et il se rendit
 compte que c’était vrai.
 
 Sous l’angle inverse.
@@ -1324,7 +1324,7 @@ doutes et les émotions qui auraient pu s’interposer.
 … alors « David Monroe » et « Lord Voldemort » n’avaient été qu’une seule
 personne jouant sur les deux tableaux pendant la guerre des sorciers, et
 c’était pour ça que la famille Monroe avait été tuée avant de pouvoir
-rencontrer « David Monroe, » comme Maugrey s’en était douté…
+rencontrer « David Monroe », comme Maugrey s’en était douté…
 
 La réalité se figea en un point stable, une situation cohérente capable
 de générer élégamment l’ensemble des observations.
@@ -1334,7 +1334,7 @@ signe de l’agonie et de l’horreur qui inondaient son esprit.
 
 L’Ennemi était derrière lui. L’observait.
 
-« Très bien, » dit Harry à voix haute dès qu’il fit à nouveau confiance à
+« Très bien », dit Harry à voix haute dès qu’il fit à nouveau confiance à
 sa voix. Il continua de regarder les corps, loin du professeur Quirrell,
 parce qu’il ne faisait pas confiance à son visage. Il leva une manche
 pour essuyer la sueur sur son front, essaya de rendre le geste

@@ -6,7 +6,7 @@ illuminait trente-sept masques de crânes scintillant au-dessus de robes
 noires et un Lord Voldemort, encore plus sombre, aux yeux rouges et
 lumineux.
 
-« Bienvenue, mes Mangemorts, » dit la voix de Lord Voldemort, suave, aiguë
+« Bienvenue, mes Mangemorts », dit la voix de Lord Voldemort, suave, aiguë
 et terrible. « Non, ne me regardez pas, idiots ! Regardez le petit
 Potter ! Dix ans, voilà dix ans que nous nous sommes vus. Et pourtant
 vous répondez à mon appel comme si c’était hier… » Le Seigneur des
@@ -42,11 +42,11 @@ reviendriez — mais nous ne pouvions pas combattre Dumbledore sans vous…�
 Un cri horrible s’échappa hors du masque, déchira la nuit, et continua
 pendant de longues, longues secondes.
 
-« Levez-vous, » dit le Seigneur des Ténèbres à la silhouette qui s’était
+« Levez-vous », dit le Seigneur des Ténèbres à la silhouette qui s’était
 effondrée au sol. « Gardez votre baguette sur Harry Potter. *Ne me mentez
 plus.* »
 
-« Oui, Maître, » sanglota la silhouette en se relevant.
+« Oui, Maître », sanglota la silhouette en se relevant.
 
 Voldemort se remit à faire les cent pas derrières les silhouettes en
 robes noires. « J’imagine que vous vous demandez aussi ce que Harry
@@ -63,7 +63,7 @@ Lentement, le Seigneur des Ténèbres, dans sa chemise à col montant et
 ses robes noires, se tourna pour faire face au Mangemort qui avait osé
 parler.
 
-« Voilà, » murmura Voldemort d’une voix meurtrière, « qui est un peu trop
+« Voilà », murmura Voldemort d’une voix meurtrière, « qui est un peu trop
 insensé pour que j’y croie, M. Saule. Ayant entendu la théorie sur ma
 mort, vous tentez de me pousser à répéter mon erreur ? » Lord Voldemort
 flottait dans les airs, s’éloignait du sol. « J’imagine que vous en êtes
@@ -82,17 +82,17 @@ chacun. « Aidez-moi, mes frères ! Si nous nous unissons… »
 Le Mangemort s’effondra en sept morceaux brûlants, sept bouts de chairs
 dont les faces cautérisées rougeoyaient encore.
 
-« Yeux et baguettes braqués sur Harry Potter, vous tous, » répéta
+« Yeux et baguettes braqués sur Harry Potter, vous tous », répéta
 Voldemort d’un ton sourd et dangereux. « Et Macnair vient de se comporter
 d’une façon profondément stupide, car je suis maître de vos Marques,
 aujourd’hui et pour toujours. *Je suis immortel.* »
 
-« Maître, » dit une autre robe. « La fille sur l’autel… nous servira-t-elle
+« Maître », dit une autre robe. « La fille sur l’autel… nous servira-t-elle
 pour un Sombre Délice ? Elle est indigne d’une grande occasion telle que
 celle-ci. Je pourrais trouver mieux, Maître, si vous me laissiez
 quelques instants… »
 
-« Non, M. Amical, » dit Voldemort, apparemment très amusé. « La petite
+« Non, M. Amical », dit Voldemort, apparemment très amusé. « La petite
 sorcière que vous voyez sur cet autel n’est autre que Hermione Granger… »
 
 « Quoi ? » s’écria l’une des robes, puis : « Pardon Maître, pardon,
@@ -108,7 +108,7 @@ indépendant des circonstances — par exemple, même si elle venait à
 s’échapper. » Un rire froid et flûté, comme en réponse à une blague que
 personne d’autre n’avait comprise.
 
-« Maître, » dit l’une des robes d’une voix vacillante et déformée par le
+« Maître », dit l’une des robes d’une voix vacillante et déformée par le
 masque de crâne. « Maître, je vous prie… je ne vous défierais jamais, je
 vous obéis… mais Maître, je vous en prie, laissez-moi repartir pour
 mieux vous servir plus tard… je suis venu ici en hâte, au mépris de…
@@ -132,7 +132,7 @@ Les masques assemblés respiraient bruyamment, mais une silhouette riait.
 
 « Vous me trouvez amusant, M. Sinistre ? »
 
-« Mes excuses, Maître, » dit la silhouette en robes qui avait ri, sa
+« Mes excuses, Maître », dit la silhouette en robes qui avait ri, sa
 baguette parfaitement stable, pointée sur Harry. « J’ai été ravi
 d’entendre que vous avez abattu Dumbledore. J’ai fui l’Angleterre comme
 un lâche parce qu’il m’effrayait et que j’avais perdu tout espoir de
@@ -149,7 +149,7 @@ promesse, un serment, lui feriez-vous confiance ? »
 tournèrent leur masque vers Voldemort avant de rapidement rediriger leur
 crâne vers Harry.
 
-« Répondez, » siffla Voldemort. « Ce n’est pas un piège, M. Sinistre, et si
+« Répondez », siffla Voldemort. « Ce n’est pas un piège, M. Sinistre, et si
 vous ne me répondez pas sincèrement, vous en subirez les conséquences.
 Vous connaissiez les parents du garçon, n’est-ce pas ? Des gens francs
 et honnêtes, non ? Si le garçon choisissait librement de vous faire une
@@ -159,7 +159,7 @@ glapissement.
 
 « Je… oui, Maître, j’imagine que oui… »
 
-« Bien, » continua froidement Voldemort. « La possibilité d’une confiance
+« Bien », continua froidement Voldemort. « La possibilité d’une confiance
 doit exister pour pouvoir être sacrifiée. Quant au lieur du Serment
 Inviolable… lequel d’entre vous sacrifiera-t-il sa magie ? Ce sera un
 serment plutôt long… bien plus long que d’habitude… il faudra beaucoup
@@ -169,7 +169,7 @@ l’affaire. »
 « Non, s’il vous plaît ! *Maître, je vous en supplie !* Je vous ai mieux
 servi que tout… de mon mieux… »
 
-« *Crucio*, » dit Voldemort, et M. Blanc poussa un hurlement déformé par
+« *Crucio* », dit Voldemort, et M. Blanc poussa un hurlement déformé par
 son masque pendant une bonne minute. « Réjouissez-vous que je vous laisse
 la vie ! Maintenant, messieurs Sinistre et Blanc, approchez-vous du
 petit. Par derrière, idiots ! Ne bloquez pas les baguettes des autres !
@@ -181,7 +181,7 @@ que M. Sinistre prit place avec nonchalance.
 
 « Quel est le Serment, Maître ? » dit la voix de M. Sinistre.
 
-« Ah, oui, » dit Voldemort. Le Seigneur des Ténèbres continua de faire les
+« Ah, oui », dit Voldemort. Le Seigneur des Ténèbres continua de faire les
 cent pas derrière le demi-cercle de Mangemorts. « Aujourd’hui — mais je
 ne m’attends pas à ce que vous me croyiez — aujourd’hui nous
 accomplissons l’œuvre de Merlin, mes Mangemorts. Oui ! Devant nous se
@@ -211,7 +211,7 @@ Harry Potter à l’inaction suite à quelque désastre né de sa main, sous
 prétexte qu’il lui faudrait alors prendre un moindre risque pour y
 mettre fin. Le Serment ne doit pas non plus le forcer à choisir un
 risque d’immense destruction au profit de la certitude de ravages
-moindres. Mais toute la *bêtise* de Harry Potter, » sa voix monta d’un
+moindres. Mais toute la *bêtise* de Harry Potter », sa voix monta d’un
 cran, « toute son *inconscience*, tous ses *plans grandioses* et ses
 *bonnes intentions* — il ne les laissera pas nous mener au désastre ! Il
 ne jouera pas le destin de la Terre aux dés ! Pas de recherches pouvant
@@ -236,12 +236,12 @@ auparavant dans votre vie. M. Sinistre ? »
 
 Voldemort eut son sourire trop large et se répéta avec d’autres mots.
 
-« Et maintenant, » dit-il froidement, « Harry Potter, vous garderez votre
+« Et maintenant », dit-il froidement, « Harry Potter, vous garderez votre
 baguette baissée, et vous allez laisser M. Sinistre toucher vôtre
 baguette avec la sienne ; et vous répéterez les mots que je vous dicte.
 Si Harry Potter dit un seul autre mot, abattez-le, vous autres. »
 
-« Oui, Maître, » répondirent trente-quatre voix en chœur.
+« Oui, Maître », répondirent trente-quatre voix en chœur.
 
 Harry était transi de froid, il frissonnait, et ce n’était pas seulement
 parce qu’il était nu au beau milieu de la nuit. Il ne comprenait pas
@@ -249,7 +249,7 @@ pourquoi Voldemort ne se contentait *pas* de le tuer. Il ne semblait y
 avoir qu’un chemin vers l’avenir, celui choisi par Voldemort, et Harry
 ignorait ce qui viendrait après.
 
-« M. Blanc, » dit Voldemort. « Touchez la main de Harry Potter avec votre
+« M. Blanc », dit Voldemort. « Touchez la main de Harry Potter avec votre
 baguette, et répétez : Magie qui coule en moi, scelle ce Serment. »
 
 M. Blanc répéta. Même à travers la distorsion du masque, on croyait
@@ -258,12 +258,12 @@ pouvoir entendre son cœur se briser.
 Derrière Voldemort, les obélisques chantèrent d’un langage que Harry
 ignorait ; ils répétèrent les mots trois fois puis se turent.
 
-« M. Sinistre, » dit Voldemort, « pensez aux raisons pour lesquelles vous
+« M. Sinistre », dit Voldemort, « pensez aux raisons pour lesquelles vous
 auriez pu faire confiance à ce garçon s’il avait librement prêté
 serment. Pensez à la possibilité d’une confiance et *sacrifiez-la* à
 mesure que vous parlez… »
 
-« Par la confiance que j’ai pour vous, » dit M. Sinistre, « soyez tenu. »
+« Par la confiance que j’ai pour vous », dit M. Sinistre, « soyez tenu. »
 
 Et ce fut au tour de Harry Potter de répéter les paroles de Lord
 Voldemort, ce qu’il fit :
@@ -282,9 +282,9 @@ abstraite, déroutante. Il put se sentir *invoquer* son libre arbitre et
 il sut que ses prochaines paroles le *sacrifieraient*, que c’était sa
 dernière chance de faire marche arrière.
 
-« …qu’il en soit ainsi, » dit la voix froide et précise de Lord Voldemort.
+« …qu’il en soit ainsi », dit la voix froide et précise de Lord Voldemort.
 
-« …qu’il en soit ainsi, » répéta Harry, et il sut à cet instant qu’il
+« …qu’il en soit ainsi », répéta Harry, et il sut à cet instant qu’il
 n’était plus libre de suivre ou de rejeter le contenu du Serment ;
 c’était simplement ainsi que son esprit et son corps bougeraient. Ce
 n’était pas un serment qu’il pourrait briser, même en sacrifiant sa vie.
@@ -296,7 +296,7 @@ simplement ce-que-Harry-Potter-ferait.
 M. Blanc avait l’air de sangloter. « Oui, Maître… j’ai tant perdu, s’il
 vous plaît, j’ai été assez puni. »
 
-« Retournez à vos places, » dit Voldemort. « Bien. Regardez tous le petit
+« Retournez à vos places », dit Voldemort. « Bien. Regardez tous le petit
 Potter, préparez-vous à tirer dès qu’il essaiera de fuir, de lever sa
 baguette ou de parler… » Le Seigneur des Ténèbres lévita, sa silhouette
 entourée de noir domina le cimetière. Un pistolet se trouvait à nouveau
@@ -305,7 +305,7 @@ dans sa main gauche, et une baguette était toujours dans sa main droite.
 
 M. Blanc vacilla. M. Sinistre rit à nouveau, et d’autres firent de même.
 
-« Je n’avais pas l’intention d’être drôle, » dit froidement Voldemort.
+« Je n’avais pas l’intention d’être drôle », dit froidement Voldemort.
 « Nous avons affaire à une *prophétie*, idiots. Nous tranchons les fils
 du destin un par un ; prudemment, très prudemment, sans savoir où nous
 rencontrerons la première résistance. Voici l’ordre dans lequel les
@@ -330,7 +330,7 @@ maintenant, par Merlin ! »
 
 Un silence ahuri emplit le cimetière ; personne n’ouvrit la bouche.
 
-« Inutiles, tous autant que vous êtes, » dit Voldemort avec un mépris
+« Inutiles, tous autant que vous êtes », dit Voldemort avec un mépris
 amer. « Maintenant, je vais poser une dernière question à Harry Potter,
 et il ne répondra qu’à moi, en Fourchelangue. Abattez-le à l’instant où
 il répond par autre chose que des sifflements, à l’instant où il tente

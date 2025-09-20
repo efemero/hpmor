@@ -1,6 +1,6 @@
 # Tout ce que je crois est faux
 
-« Donc, juste pour être bien clair, » dit Harry, « Papa, si le
+« Donc, juste pour être bien clair », dit Harry, « Papa, si le
 professeur te fait vraiment léviter, alors que tu sais que tu n’as été
 attaché à aucun fil, ce sera une preuve suffisante. Tu ne vas pas
 changer d’avis et dire que c’était un truc de magicien. Ce ne serait pas
@@ -20,19 +20,19 @@ et son chapeau pointu, mais lorsqu’elle parlait, c’était d’un ton formel
 et écossais qui n’allait pas du tout avec son apparence. Au premier
 abord, elle ressemblait à quelqu’un qui devrait ricaner et mettre des
 bébés dans des chaudrons, mais l’effet était gâché à la seconde où elle
-ouvrait la bouche. « Est-ce assez, M. Potter ?, » dit-elle. « Puis-je à
+ouvrait la bouche. « Est-ce assez, M. Potter ? », dit-elle. « Puis-je à
 présent opérer la démonstration ? »
 
-« *Assez* ? Probablement pas, » dit Harry. « Mais au moins, ça *aidera*.
+« *Assez* ? Probablement pas », dit Harry. « Mais au moins, ça *aidera*.
 Allez-y, Madame la Directrice adjointe. »
 
-« Professeur suffira, » dit-elle, puis : « *Wingardium Leviosa*. »
+« Professeur suffira », dit-elle, puis : « *Wingardium Leviosa*. »
 
 Harry regarda son père.
 
-« Huh, » dit Harry.
+« Huh », dit Harry.
 
-Son père le regarda à son tour. « Huh, » dit-il en écho.
+Son père le regarda à son tour. « Huh », dit-il en écho.
 
 Puis le Professeur Verres-Evans regarda le Professeur McGonagall. « Très
 bien, vous pouvez me faire descendre maintenant. »
@@ -41,7 +41,7 @@ Son père fut précautionneusement descendu jusqu’au sol.
 
 Harry s’ébouriffa les cheveux. Peut-être était-ce à cause de l’étrange
 partie de lui qui avait *déjà* été convaincue, mais… « Voilà qui est un
-peu décevant, » dit Harry. « Vous penseriez qu’il y aurait une sorte
+peu décevant », dit Harry. « Vous penseriez qu’il y aurait une sorte
 d’évènement mental spectaculaire au moment d’une mise à jour au sujet
 d’une probabilité infinitésimale — » Harry s’interrompit. Maman,
 McGonagall, et même Papa lui jetaient à nouveau *ce regard*. « Je veux
@@ -57,7 +57,7 @@ les airs. Et maintenant ?*
 La femme sorcière leur souriait et semblait s’amuser.
 « Souhaiteriez-vous une démonstration supplémentaire, M. Potter ? »
 
-« Vous n’avez pas à faire ça, » dit Harry. « Nous venons de réaliser une
+« Vous n’avez pas à faire ça », dit Harry. « Nous venons de réaliser une
 expérience décisive. Mais… » Harry hésita. Il ne pouvait pas s’en
 empêcher. En fait, dans ces circonstances, il ne *devrait pas* s’en
 empêcher. Il était convenable et justifié d’être curieux. « Que pouvez-vous *faire* d’autre ? »
@@ -72,7 +72,7 @@ d’avertissement dans son épaule alors que son poids terminait sa chute
 libre.
 
 Le petit chat tigré redevint immédiatement une femme en robes. « Je suis
-navrée, M. Potter, » dit McGonagall, l’air sincère, bien que ses lèvres
+navrée, M. Potter », dit McGonagall, l’air sincère, bien que ses lèvres
 s’étirassent en un sourire. « J’aurais dû vous prévenir. »
 
 Harry avait le souffle court. Sa voix sortit étouffée. « *Vous ne POUVEZ
@@ -119,12 +119,12 @@ de Harry. La gagnante se fit entendre : « Et à quel type d’incantation
 appartient *Wingardium Leviosa* ? Qui invente les mots pour ces sorts,
 des enfants en maternelle ? »
 
-« C’est assez, M. Potter, » dit McGonagall avec fraicheur, bien que ses
+« C’est assez, M. Potter », dit McGonagall avec fraicheur, bien que ses
 yeux brillassent d’un amusement contenu. « Si vous souhaitez apprendre la
 magie, je suggère que nous mettions la dernière main à cette
 paperasserie afin que vous puissiez être inscrit à Poudlard. »
 
-« Bien, » dit Harry, quelque peu étourdi. Il rassembla ses pensées. La
+« Bien », dit Harry, quelque peu étourdi. Il rassembla ses pensées. La
 Marche de la Raison devrait juste recommencer, voilà tout ; il avait
 toujours la méthode expérimentale et c’était ça le plus important.
 « Comment puis-je me rendre à Poudlard ? »
@@ -132,14 +132,14 @@ toujours la méthode expérimentale et c’était ça le plus important.
 Un rire étouffé s’échappa de McGonagall, comme si on le lui avait
 arraché avec une pince à épiler.
 
-« Un instant, Harry, » dit son père. « Tu te souviens de la raison pour
+« Un instant, Harry », dit son père. « Tu te souviens de la raison pour
 laquelle tu n’as pas été à l’école jusqu’à maintenant ? Tu te souviens
 de ta situation ? »
 
 McGonagall pivota et fit face à Michael. « Sa situation ? De quoi
 s’agit-il ? »
 
-« Je ne dors pas comme il faut, » dit Harry. Il fit un geste
+« Je ne dors pas comme il faut », dit Harry. Il fit un geste
 d’impuissance. « Mon cycle de sommeil est de vingt-six heures. Je dois
 me coucher deux heures plus tard tous les jours. Je ne peux pas
 m’endormir plus tôt, et le lendemain, je dois me coucher deux heures plus
@@ -148,13 +148,13 @@ j’essaie de me lever tôt, ça ne change rien et je suis une loque toute
 la journée. C’est pour ça que je n’ai pas été à l’école jusqu’à
 maintenant. »
 
-« C’est une des raisons, » dit sa mère. Harry lui jeta un long regard.
+« C’est une des raisons », dit sa mère. Harry lui jeta un long regard.
 
 McGonagall fit un long « hmmmmm ». « Je ne me souviens pas avoir entendu
 parler d’un cas pareil auparavant… » dit-elle lentement. « Je vérifierai
 auprès de Madame Pomfresh si elle connait un remède. » Puis son visage
 s’éclaircit. « Non, je suis sure qu’il n’y aura pas de problème — je
-trouverai une solution d’une façon ou d’une autre. Maintenant, » et son
+trouverai une solution d’une façon ou d’une autre. Maintenant », et son
 regard devint dur à nouveau, « quelles sont ces *autres* raisons ? »
 
 Harry jeta à nouveau un long regard à ses parents. « Je suis un
@@ -164,13 +164,13 @@ scolaire perpétuellement défaillant à me fournir des enseignants ou du
 matériel d’étude d’une qualité ne serait-ce que minimalement adéquate. »
 
 Les deux parents hurlèrent de rire, comme s’ils pensaient que ce
-n’était qu’une bonne blague. « Oh, » dit le père de Harry, les yeux
+n’était qu’une bonne blague. « Oh », dit le père de Harry, les yeux
 brillant, « est-ce pour *ça* que tu as mordu un professeur de
 mathématique en CE2 ? »
 
 « *Elle ne savait pas ce qu’est un logarithme !* »
 
-« Bien sûr, » répondit la mère de Harry. « La mordre était une réponse
+« Bien sûr », répondit la mère de Harry. « La mordre était une réponse
 très mature. »
 
 Le père de Harry hocha la tête. « Une politique murement réfléchie et
@@ -180,16 +180,16 @@ comprennent pas les logarithmes. »
 « J’avais *sept ans* ! Combien de temps allez-vous continuer à ressasser
 cette histoire ? »
 
-« Je sais, » dit sa mère avec compassion, « tu mords *un* professeur
+« Je sais », dit sa mère avec compassion, « tu mords *un* professeur
 de mathématiques et ils ne te laissent jamais l’oublier, c’est ça ? »
 
 Harry se tourna vers McGonagall. « Et voilà ! Vous voyez ce que je dois
 endurer ? »
 
-« Excusez-moi, » dit Pétunia, et elle fuit à travers la porte vers le
+« Excusez-moi », dit Pétunia, et elle fuit à travers la porte vers le
 porche, d’où ses hurlements de rires restaient tout à fait audibles.
 
-« Ahem, eh bien, voyons, » dit McGonagall, qui, pour une raison ou une
+« Ahem, eh bien, voyons », dit McGonagall, qui, pour une raison ou une
 autre, semblait avoir du mal à parler, « personne ne mordra de
 professeur à Poudlard, est-ce bien clair, M. Potter ? »
 
@@ -199,7 +199,7 @@ m’aura pas mordu d’abord. »
 Le Professeur Michael Verres-Evans dut, lui aussi, quitter la pièce
 lorsqu’il entendit ça.
 
-« Bon, » soupira McGonagall après que les parents de Harry eurent
+« Bon », soupira McGonagall après que les parents de Harry eurent
 retrouvé leur maitrise d’eux-mêmes et furent revenus. « Bon, je pense
 que, dans ces circonstances, je devrais éviter de vous faire acheter
 votre matériel d’étude jusqu’à un jour ou deux avant le début des
@@ -208,7 +208,7 @@ classes. »
 « Quoi ? Pourquoi ? Les autres enfants connaissent déjà la magie, non ?
 Je dois commencer à les rattraper tout de suite ! »
 
-« Soyez rassuré, M. Potter, » répondit McGonagall, « Poudlard est tout à
+« Soyez rassuré, M. Potter », répondit McGonagall, « Poudlard est tout à
 fait capable d’enseigner les fondamentaux. Et je soupçonne, M. Potter,
 que, si je vous laisse seul durant deux mois avec vos manuels scolaires,
 même sans baguette, je reviendrais dans cette maison et trouverais,

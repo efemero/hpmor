@@ -16,33 +16,33 @@ honneur ! »
 Harry cligna des yeux puis se reprit. « Eh bien, oui, vous êtes
 perspicace ; la plupart des gens ne s’en rendent pas compte si vite — »
 
-« Ça suffit, » dit le Professeur McGonagall. Sa main se resserra sur
+« Ça suffit », dit le Professeur McGonagall. Sa main se resserra sur
 l’épaule de Harry. « Ne harcèle pas le garçon, Tom, tout ça est nouveau
 pour lui. »
 
 « Mais c’est lui ? » chevrota une vieille femme. « C’est Harry
 Potter ? » Elle se leva de sa chaise dans un bruit de raclement.
 
-« Doris…, » dit McGonagall sur un ton d’avertissement. Le long regard
+« Doris… », dit McGonagall sur un ton d’avertissement. Le long regard
 avec lequel elle balaya la pièce aurait dû suffire à intimider n’importe
 qui.
 
-« Je veux seulement lui serrer la main, » murmura la vieille femme. Elle
+« Je veux seulement lui serrer la main », murmura la vieille femme. Elle
 s’inclina profondément et brandit une main ridée. Harry, se sentant plus
 confus et gêné qu’il ne l’avait jamais été auparavant, la serra avec
 précaution. Des larmes tombèrent des yeux de la vieille femme jusqu’à
-leur poignée de main. « Mon petit-fils était un auror, » lui
+leur poignée de main. « Mon petit-fils était un auror », lui
 murmura-t-elle. « Mort en soixante-dix-neuf. Merci, Harry Potter. Loué
 soit le ciel. »
 
-« De rien, » dit Harry, passé en pilote automatique, puis il se tourna
+« De rien », dit Harry, passé en pilote automatique, puis il se tourna
 vers McGonagall et lui jeta un regard à la fois terrifié et implorant.
 
 McGonagall claqua son pied sur le sol juste avant que la ruée ne
 commence. Cela fit un bruit qui donna à Harry une nouvelle définition de
-l’expression « coup de tonnerre, » et tous se figèrent.
+l’expression « coup de tonnerre », et tous se figèrent.
 
-« Nous sommes pressés, » dit McGonagall d’une voix parfaitement,
+« Nous sommes pressés », dit McGonagall d’une voix parfaitement,
 absolument normale.
 
 Ils quittèrent le bar sans ennui.
@@ -70,11 +70,11 @@ a-t-on dit *au juste*… sur la façon dont vos parents sont morts ? »
 Harry lui renvoya un regard ferme. « Mes parents sont vivants et bienportants, et ils ont toujours refusé de me parler de la façon dont mes
 parents *génétiques* sont morts. Ce dont je ne déduis rien de bon. »
 
-« Une loyauté admirable, » dit McGonagall. Sa voix se fit plus basse :
+« Une loyauté admirable », dit McGonagall. Sa voix se fit plus basse :
 « Mais je souffre un peu de vous l’entendre dire ainsi. Lily et James
 étaient des amis. »
 
-Soudain honteux, Harry détourna le regard. « Je suis navré, » dit-il
+Soudain honteux, Harry détourna le regard. « Je suis navré », dit-il
 d’une petite voix. « Mais j’*ai* un père et une mère. Et je sais que je
 ne ferais que me rendre malheureux si je comparais la réalité à… quelque
 chose de parfait que mon imagination a construite. »
@@ -151,7 +151,7 @@ sera probablement un doublon. »
 
 Harry hocha la tête, et ils continuèrent.
 
-« Ne vous méprenez pas, c’est une *excellente* diversion, » dit Harry,
+« Ne vous méprenez pas, c’est une *excellente* diversion », dit Harry,
 alors que sa tête continuait de pivoter en tous sens, « probablement la
 meilleure diversion qu’on ait jamais essayée sur moi, mais ne croyez pas
 que j’ai oublié notre discussion laissée en suspens. »
@@ -162,7 +162,7 @@ peut-être été fort sages de ne rien vous dire. »
 « Et vous souhaitez que je continue dans cette ignorance béate ? Votre
 plan possède une faille évidente, Professeur McGonagall. »
 
-« J’imagine que ce serait assez futile, » dit la sorcière avec fermeté,
+« J’imagine que ce serait assez futile », dit la sorcière avec fermeté,
 « vu que n’importe quel passant pourrait vous raconter cette histoire.
 Très bien. »
 
@@ -224,7 +224,7 @@ Lorsque Harry eut fini de sangloter dans les robes de McGonagall, il
 releva la tête, et voir que des larmes se trouvaient aussi dans ses yeux
 à elle le fit se sentir un peu mieux.
 
-« Le Seigneur des Ténèbres est venu à Godric’s Hollow, » dit McGonagall
+« Le Seigneur des Ténèbres est venu à Godric’s Hollow », dit McGonagall
 dans un souffle. « Vous auriez dû être à l’abri, mais on vous a trahi.
 Le Seigneur des Ténèbres a tué James, et il a tué Lily, et enfin il est
 parvenu jusqu’à vous, jusqu’à votre berceau. Il vous a jeté le sortilège
@@ -250,7 +250,7 @@ règle disant que c’est lorsqu’on a le plus besoin de son art de
 rationaliste qu’on risque le plus de l’oublier.)
 
 Harry se détacha du flanc de McGonagall. « Je vais — avoir besoin d’y
-réfléchir, » dit-il, essayant de maintenir un contrôle sur sa voix. Il
+réfléchir », dit-il, essayant de maintenir un contrôle sur sa voix. Il
 fixa ses chaussures. « Euh, vous pouvez les appeler mes parents, si vous
 le souhaitez, vous n’avez pas à dire “parents génétiques” ou quoi que ce
 soit. Je ne vois pas pourquoi je ne pourrais pas avoir deux mères et
@@ -261,4 +261,4 @@ McGonagall fut silencieuse.
 Et ils marchèrent ensemble en silence, jusqu’à ce qu’ils parviennent à
 un grand bâtiment blanc aux vastes portes de bronze.
 
-« Gringotts, » dit McGonagall.
+« Gringotts », dit McGonagall.

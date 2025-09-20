@@ -19,12 +19,12 @@ pur que c’en était un stéréotype.
 « Remettez-vous en question l’intégrité de Gringotts, M.
 Potter-Evans-Verres ? »
 
-« Non, monsieur, » dit Harry d’un air absent, « pas du tout, navré si je me
+« Non, monsieur », dit Harry d’un air absent, « pas du tout, navré si je me
 suis mal exprimé. C’est juste que je ne sais pas du tout comment votre
 système financier fonctionne. Je vous demande si les Gallions en général
 sont faits d’or pur. »
 
-« Bien sûr, » dit Gripsec.
+« Bien sûr », dit Gripsec.
 
 « Et n’importe qui peu les frapper, ou sont-ils produits par un monopole qui
 collecte ainsi un seigneuriage ? »
@@ -34,7 +34,7 @@ collecte ainsi un seigneuriage ? »
 Gripsec grimaça, révélant des dents acérées. « Seul un idiot ferait
 confiance à autre chose qu’à une pièce gobeline ! »
 
-« En d’autres mots, » dit Harry, « les pièces ne sont pas supposées valoir
+« En d’autres mots », dit Harry, « les pièces ne sont pas supposées valoir
 plus que le métal dont elles sont faites ? »
 
 Gripsec regardait Harry. McGonagall semblait perplexe.
@@ -46,7 +46,7 @@ Pourrais-je repartir avec une tonne de Mornilles ? »
 des yeux scintillants. « Contre des frais certains. Où trouveriez-vous
 une tonne d’argent, cela, je me le demande. »
 
-« Je parlais hypothétiquement, » dit Harry. *Pour l’instant, en tout cas.*
+« Je parlais hypothétiquement », dit Harry. *Pour l’instant, en tout cas.*
 « Donc… combien feriez-vous payer, en fraction du poids total ? »
 
 Les yeux de Gripsec étaient fixés sur Harry. « Je devrais consulter mes
@@ -172,7 +172,7 @@ de regard silencieux.
 Le visage de McGonagall devint sévère. « Ces malles sont *très* chères,
 M. Potter ! »
 
-« Oui, mais, » plaida Harry, « je suis sûr que j’en voudrais une quand je
+« Oui, mais », plaida Harry, « je suis sûr que j’en voudrais une quand je
 serai adulte. Et je *peux* m’en offrir une. Il serait plus sensé d’en
 acheter une maintenant que plus tard, et d’en avoir l’usage
 immédiatement, n’est-ce pas ? C’est le même argent dans un cas comme
@@ -186,7 +186,7 @@ conserveriez-vous au juste dans une telle malle, M. Potter ? »
 
 « Des livres. »
 
-« Bien sûr, » soupira McGonagall.
+« Bien sûr », soupira McGonagall.
 
 « Vous auriez dû me dire *bien plus tôt* que ce genre d’objet magique
 existait ! Et que je pouvais me les offrir ! Maintenant, mon père et
@@ -220,7 +220,7 @@ quand même. »
 « J’aime cette façon de penser ! Et est-ce que la “Peau de Moke” fait ce
 que je pense qu’elle fait ? »
 
-« Pas autant qu’une malle, » dit McGonagall avec réticence, « mais une peau
+« Pas autant qu’une malle », dit McGonagall avec réticence, « mais une peau
 de Moke avec un sort de Récupération et un sort d’Extension Indétectable
 peut contenir un certain nombre d’objets qui pourront être rappelés par
 celui qui les y a rangés. »
@@ -256,7 +256,7 @@ terrible sorcier que la Grande-Bretagne ait jamais connu, non pas que je
 vous accuse d’être ingrate ou quoi que ce soit, mais quand même, que
 sont quelques jouets comparés à ça ? »
 
-« *Vous*, » grogna McGonagall. Elle avait un regard si effroyable et
+« *Vous* », grogna McGonagall. Elle avait un regard si effroyable et
 terrible que Harry glapit et fit un pas en arrière, reversant une pile
 de pièces d’or dans un grand tintement et s’étalant dans un tas
 d’argent. Gripsec soupira et se cacha le visage derrière sa main. « Je

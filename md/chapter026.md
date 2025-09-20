@@ -35,7 +35,7 @@ Eh bien, on ne laissait pas tomber ses amis quand ils ne se sentaient
 pas bien. Harry s’avança précautionneusement à l’intérieur la pièce. « Y
 a-t-il quelque chose que je puisse faire pour aider — »
 
-« Non, » dit le professeur Quirrell, ne levant toujours pas les yeux.
+« Non », dit le professeur Quirrell, ne levant toujours pas les yeux.
 
 « Je veux dire, si vous avez eu affaire à des idiots et que vous voulez
 avoir quelqu’un à qui parler… »
@@ -46,7 +46,7 @@ Le professeur Quirrell referma le livre avec force et celui-ci disparut
 dans un petit chuintement. Il leva alors les yeux, et Harry tressaillit.
 
 « J’imagine qu’une discussion intelligente *me* ferait du bien en ce
-moment, » dit le professeur Quirrell du même ton mordant qu’avec lequel
+moment », dit le professeur Quirrell du même ton mordant qu’avec lequel
 il avait invité Harry à entrer. « Ce ne sera probablement pas le cas pour
 *vous*, soyez-en prévenu. »
 
@@ -73,7 +73,7 @@ le confirment avec du Veritaserum. Il est dans sa *sixième année à
 Poudlard* et il a jeté un sort noir de haut niveau *sans connaître son
 effet*. »
 
-« Vous ne voulez pas dire, » dit Harry, « qu’il se *trompait* au sujet de
+« Vous ne voulez pas dire », dit Harry, « qu’il se *trompait* au sujet de
 son effet, qu’il avait malencontreusement lu la mauvaise description — »
 
 « Tout ce qu’il savait, c’était que le sort était censé être dirigé vers
@@ -82,7 +82,7 @@ un ennemi. Il *savait* que c’était tout ce qu’il savait. »
 Et ça lui avait suffit pour jeter le sort. « Je ne comprend pas comment
 quelque chose doté d’un si petit cerveau peut marcher droit. »
 
-« En effet, M. Potter, » dit le professeur Quirrell.
+« En effet, M. Potter », dit le professeur Quirrell.
 
 Il y eut un silence. Le professeur Quirrell se pencha en avant et prit
 l’encrier argenté posé sur son bureau, le tournant entre ses mains, le
@@ -105,7 +105,7 @@ Les mains du professeur Quirrell blanchirent autour de l’encrier.
 « *Voulez-vous en venir à quelque chose, M. Potter, ou énoncez-vous
 simplement l’évidence ?* »
 
-« Professeur Quirrell, » dit gravement Harry, « tous les étudiants
+« Professeur Quirrell », dit gravement Harry, « tous les étudiants
 élevés-Moldu de Poudlard ont besoin d’un cours sur la sécurité lors
 duquel on leur dira des choses tellement incroyablement évidentes
 qu’aucun né-sorcier ne songerait à les mentionner. Ne jetez pas de sorts
@@ -126,7 +126,7 @@ et semblant en arracher de petites parties, l’argent se tordant alors
 qu’il fondait, comme s’il essayait de s’échapper sans toutefois y
 parvenir. Il y eut un petit bruit aigu, comme si le métal avait hurlé.
 
-« J’imagine que vous avez raison, » dit le professeur Quirrell avec un
+« J’imagine que vous avez raison », dit le professeur Quirrell avec un
 sourire résigné. « Je mettrai au point un cours pour m’assurer que les
 nés-Moldus qui sont trop bêtes pour vivre n’emporteront jamais personne
 de valeur avec eux. »
@@ -135,14 +135,14 @@ L’encrier continua de brûler et de hurler dans les mains du professeur
 Quirrell, de petites gouttelettes de métal, toujours en feu, dégoulinant
 sur le bureau, comme si l’encrier pleurait.
 
-« Vous ne vous enfuyez pas, » observa le professeur Quirrell.
+« Vous ne vous enfuyez pas », observa le professeur Quirrell.
 
 Harry ouvrit la bouche -
 
-« Si vous êtes sur le point de dire que vous n’avez pas peur de moi, » dit
+« Si vous êtes sur le point de dire que vous n’avez pas peur de moi », dit
 le professeur Quirrell, « *évitez*. »
 
-« Vous êtes la personne la plus effrayante que je connaisse, » dit Harry,
+« Vous êtes la personne la plus effrayante que je connaisse », dit Harry,
 « et l’une des raisons principale à cela est le contrôle que vous avez
 sur vous-même. Je ne peux tout simplement pas vous imaginer faisant du
 mal à quelqu’un que vous n’auriez pas délibérément décidé de faire
@@ -158,14 +158,14 @@ tard qu’il aurait aussi bien pu signer sa confession. Le professeur
 Quirrell se fichait de votre expression, c’était l’état d’esprit la
 rendant probable qui lui importait.
 
-« Je vois, » dit le professeur Quirrell. « M. Malefoy est un ami utile à
+« Je vois », dit le professeur Quirrell. « M. Malefoy est un ami utile à
 avoir, M. Potter, et il a beaucoup à vous apprendre, mais j’espère que
 vous n’avez pas fait l’erreur de lui témoigner votre confiance par de
 trop grandes confidences. »
 
-« Il ne sait rien que je ne souhaite être découvert, » dit Harry.
+« Il ne sait rien que je ne souhaite être découvert », dit Harry.
 
-« Bon travail, » dit le professeur Quirrell, souriant légèrement. « Et
+« Bon travail », dit le professeur Quirrell, souriant légèrement. « Et
 pourquoi êtes-vous initialement venu ici ? »
 
 « Je crois en avoir fini avec les exercices d’Occlumancie préliminaires
@@ -234,7 +234,7 @@ la forêt non-interdite. Ce qui rendait la lecture un peu difficile,
 surtout que le sujet était ardu, et Harry souhaita soudain pouvoir lire
 les livres de science-fiction de son enfance -
 
-« Nous sommes hors du domaine de Poudlard, M. Potter, » dit la voix du
+« Nous sommes hors du domaine de Poudlard, M. Potter », dit la voix du
 professeur Quirrell, en face de lui. « Temps d’y aller. »
 
 Le professeur Quirrell débarqua avec précaution de l’attelage,
@@ -277,7 +277,7 @@ Harry s’interrompit, au contraire du professeur Quirrell.
 longuement expliqué que je suis responsable de tout ce qui vous arrive,
 quoi que ce fût, je vous laisserai avec — »
 
-« Kiosque, » dit Harry.
+« Kiosque », dit Harry.
 
 « Pardon ? »
 
@@ -304,10 +304,10 @@ d’Albanie au quinzième siècle*.
 
 Chaque chose en son temps. Harry marcha jusqu’au comptoir.
 
-« Excusez-moi, » dit Harry, « un exemplaire du Gazette du sorcier, s’il
+« Excusez-moi », dit Harry, « un exemplaire du Gazette du sorcier, s’il
 vous plaît. »
 
-« Cinq Mornilles, » dit le marchand. « Désolé petit, je n’en ai plus que
+« Cinq Mornilles », dit le marchand. « Désolé petit, je n’en ai plus que
 trois. »
 
 Cinq Mornilles tombèrent sur le comptoir. Harry avait l’impression qu’il
@@ -361,7 +361,7 @@ le professeur Quirrell revint dans le magasin.
 
 « Mes excuses pour — nom de Merlin, *qu’est-ce* que vous lisez ? »
 
-« Il semblerait, » dit Harry, la voix pleine d’estime, « qu’un certain M.
+« Il semblerait », dit Harry, la voix pleine d’estime, « qu’un certain M.
 Arthur Weasley a été victime d’un sort d’Imperium jeté par un Mangemort
 que mon père a tué, créant ainsi un dette envers la Noble Maison Potter,
 dont mon père a exigé le paiement par la main de la récemment née
@@ -379,12 +379,12 @@ lire le texte sous le gros titre.
 L’air stupéfait sur le visage du professeur Quirrell était une œuvre
 d’art qui valait presque le journal lui-même.
 
-« Ne vous en faites pas, » dit joyeusement Harry, « tout est truqué. »
+« Ne vous en faites pas », dit joyeusement Harry, « tout est truqué. »
 
 Ailleurs dans le magasin, il entendit le marchand manquer d’air. Il y
 eut le bruit d’une pile de livres qui s’effondrait.
 
-« M. Potter, » dit lentement le professeur Quirrell, « en êtes-vous
+« M. Potter », dit lentement le professeur Quirrell, « en êtes-vous
 *certain* ? »
 
 « Assez certain. Pouvons-nous y aller ? »
@@ -410,15 +410,15 @@ de la session confidentielle du Magenmagot. »
 « Vraiment ? » dit Harry. « Parce que si mes soupçons sont fondés, ça a été
 fait par un élève de Poudlard. »
 
-« C’est plus qu’impossible, » dit catégoriquement le professeur Quirrell.
+« C’est plus qu’impossible », dit catégoriquement le professeur Quirrell.
 « M. Potter… j’ai le regret de vous informer que cette jeune demoiselle
 s’attend à ce que vous l’épousiez. »
 
-« Mais *ceci* est improbable, » dit Harry. « Pour citer Douglas Adams,
+« Mais *ceci* est improbable », dit Harry. « Pour citer Douglas Adams,
 l’impossible a souvent une forme d’intégrité qui manque au simple
 improbable. »
 
-« Je vois ce que vous voulez dire, » dit lentement le professeur Quirrell.
+« Je vois ce que vous voulez dire », dit lentement le professeur Quirrell.
 « Mais… non, M. Potter. C’est peut-être impossible, mais je peux
 néanmoins *imaginer* une falsification des comptes-rendus du Magenmagot.
 Il est en revanche *inimaginable* que le Grand Manager de Gringotts
@@ -426,7 +426,7 @@ appose le sceau de sa fonction en témoignage d’un faux contrat de
 fiançailles, et mademoiselle Skeeter a personnellement vérifié ce
 sceau. »
 
-« En effet, » dit Harry, « il faudrait s’attendre à ce que le Grand Manager
+« En effet », dit Harry, « il faudrait s’attendre à ce que le Grand Manager
 de Gringotts soit impliqué, avec autant d’argent passant d’une main à
 l’autre. Il semblerait que M. Weasley était grandement endetté, et qu’il
 a donc demandé un paiement supplémentaire de dix mille Gallions — »
@@ -434,18 +434,18 @@ a donc demandé un paiement supplémentaire de dix mille Gallions — »
 « *Dix mille* Gallions pour un *Weasley* ? Vous pourriez acheter la fille
 d’une Maison Noble avec ça ! »
 
-« Excusez-moi, » dit Harry. « Maintenant je dois vraiment vous poser la
+« Excusez-moi », dit Harry. « Maintenant je dois vraiment vous poser la
 question : les gens font-ils réellement ce genre de choses par ici- »
 
-« Rarement, » dit le professeur Quirrell en fronçant les sourcils. « Et
+« Rarement », dit le professeur Quirrell en fronçant les sourcils. « Et
 plus du tout, je pense, depuis que le Seigneur des Ténèbres s’en est
 allé. J’imagine que le journal prétend que votre père a juste payé la
 somme ? »
 
-« Il n’avait pas le choix, » dit Harry. « Pas s’il voulait remplir les
+« Il n’avait pas le choix », dit Harry. « Pas s’il voulait remplir les
 conditions de la prophétie. »
 
-« *Donnez-moi ça*, » dit le professeur Quirrell, et le journal bondit hors
+« *Donnez-moi ça* », dit le professeur Quirrell, et le journal bondit hors
 des mains de Harry si vite que la tranche du papier le coupa.
 
 Harry plaça automatiquement son doigt dans sa bouche pour le sucer,
@@ -467,12 +467,12 @@ l’air et le jeta à Harry, qui le saisit par pur réflexe ; et le
 professeur Quirrell commença de nouveau à marcher, et Harry le suivit
 automatiquement en traînant les pieds.
 
-« Non, » dit le professeur Quirrell, « cette prophétie ne me semble pas
+« Non », dit le professeur Quirrell, « cette prophétie ne me semble pas
 très vraisemblable à moi non plus. »
 
 Harry hocha la tête, toujours stupéfait.
 
-« Les centaures auraient pu être placés sous un sort *d’Imperium*, » dit
+« Les centaures auraient pu être placés sous un sort *d’Imperium* », dit
 le professeur Quirrell en fronçant les sourcils, « *cela* semble
 compréhensible. Ce que la magie peut créer, la magie peut corrompre, et
 il n’est pas impensable que le Grand Sceau de Gringotts soit apposé par
@@ -482,7 +482,7 @@ d’efforts, il pourrait être possible de falsifier les comptes-rendus du
 Magenmagot. Avez-vous la moindre idée de la façon dont cela a été
 fait ? »
 
-« Je n’ai pas une seule hypothèse plausible, » dit Harry. « Je sais que
+« Je n’ai pas une seule hypothèse plausible », dit Harry. « Je sais que
 cela a été accompli avec un budget total de quarante Gallions. »
 
 Le professeur Quirrell s’arrêta net et fit volte-face vers Harry. Son
@@ -497,10 +497,10 @@ Harry haussa les épaules avec impuissance. « Je m’en souviendrai la
 prochain fois que je veux économiser trente-neuf mille neuf cent
 soixante Gallions en trouvant le le bon fournisseur. »
 
-« Je ne dis pas cela souvent, » dit le professeur Quirrell. « Je suis
+« Je ne dis pas cela souvent », dit le professeur Quirrell. « Je suis
 impressionné. »
 
-« De même, » dit Harry.
+« De même », dit Harry.
 
 « Et qui est cet incroyable étudiant de Poudlard ? »
 
@@ -513,7 +513,7 @@ Ils marchèrent, pensifs, en direction du bâtiment de Gringotts, car
 aucun d’eux n’était le genre de personne qui aurait abandonné un
 problème sans l’avoir considéré pendant au moins cinq minutes.
 
-« J’ai l’impression, » finit par dire Harry, « que nous n’attaquons pas le
+« J’ai l’impression », finit par dire Harry, « que nous n’attaquons pas le
 problème du bon angle. J’ai un jour entendu une histoire au sujet
 d’étudiants qui entrèrent dans leur cours de physique, et le professeur
 leur montra une large plaque de métal située près d’un feu. Elle leur
@@ -521,16 +521,16 @@ ordonna de toucher la plaque, et ils sentirent que le métal proche du
 feu était plus froid tandis que le métal plus éloigné était plus chaud.
 Et elle leur dit d’essayer de deviner l’explication. Alors certains
 étudiants écrivirent : « à cause de la façon dont le métal conduit la
-chaleur, » et d’autres : « à cause de la façon dont l’air se déplace, » et
-personne ne dit : « ça a juste l’air impossible, » et la véritable réponse
+chaleur », et d’autres : « à cause de la façon dont l’air se déplace », et
+personne ne dit : « ça a juste l’air impossible », et la véritable réponse
 était qu’avant que les étudiants n’entrent dans la pièce, le professeur
 avait juste retourné la plaque. »
 
-« Intéressant, » dit le professeur Quirrell. « Ça me semble en effet
+« Intéressant », dit le professeur Quirrell. « Ça me semble en effet
 similaire. Y a-t-il une morale ? »
 
 « Que la force d’un rationaliste est d’être plus facilement confus par la
-fiction que par la réalité, » dit Harry. « Si on est capable d’expliquer
+fiction que par la réalité », dit Harry. « Si on est capable d’expliquer
 n’importe quel phénomène, alors on ne sait rien. Les étudiants pensèrent
 qu’ils pouvaient utiliser des mots, comme “à cause de la conduction de
 la chaleur” pour expliquer n’importe quoi, même une plaque de métal plus
@@ -542,16 +542,16 @@ toujours l’impression qu’il y a quelque chose qui ne colle pas. Je
 remarque que je suis toujours confus, même après avoir entendu votre
 explication. »
 
-« Hmm, » dit le professeur Quirrell.
+« Hmm », dit le professeur Quirrell.
 
 Ils continuèrent de marcher.
 
-« Je suppose qu’il n’est pas possible, » dit Harry, « de vraiment
+« Je suppose qu’il n’est pas possible », dit Harry, « de vraiment
 *permuter* des gens entre des univers parallèles ? Par exemple, ce ne ne
 serait pas notre Rita Skeeter, ou bien ils pourraient l’avoir
 temporairement envoyée ailleurs. »
 
-« Si *c’était* possible, » dit le professeur Quirrell d’une voix plutôt
+« Si *c’était* possible », dit le professeur Quirrell d’une voix plutôt
 sèche, « serais-je toujours *ici* ? »
 
 Et, juste avant qu’ils n’atteignent l’immense façade blanche du bâtiment
@@ -565,7 +565,7 @@ de Gringotts, le professeur Quirrell dit :
 
 « … ce n’est *pas* juste. »
 
-« Je pense que c’est extrêmement juste, » dit le professeur Quirrell, et
+« Je pense que c’est extrêmement juste », dit le professeur Quirrell, et
 ils entrèrent, passant les portes de bronze.
 
 
@@ -665,7 +665,7 @@ Et le professeur Quirrell avait assez délibérément annoncé qu’il
 paierait la note, et il avait eu l’air de plutôt apprécier la tête que
 faisait Harry.
 
-« Non, » dit le professeur Quirrell à la serveuse, « nous n’aurons pas
+« Non », dit le professeur Quirrell à la serveuse, « nous n’aurons pas
 besoin de menus. J’aurai le menu spécial du jour, accompagné d’une
 bouteille de Chianti, et M. Potter aura la soupe de Dirico pour
 commencer, puis une assiette de boulettes de Roopo, et un pudding de
@@ -684,7 +684,7 @@ chambre de Marie est utilisée par deux sortes de personnes. Les premiers
 se livrent à d’illicites badinages. Et les seconds ont des vies
 intéressantes. »
 
-« *Vraiment*, » dit Harry.
+« *Vraiment* », dit Harry.
 
 Le professeur Quirrell hocha la tête.
 
@@ -693,7 +693,7 @@ Les lèvres de Harry étaient entrouvertes sous l’effet de l’anticipation.
 pourrions faire quelque chose de spécial. »
 
 Le professeur Quirrell sourit, puis il sortit sa baguette et l’agita en
-direction de la porte. « Bien sûr, » dit-il, « les gens qui ont des vies
+direction de la porte. « Bien sûr », dit-il, « les gens qui ont des vies
 intéressantes prennent des précautions plus *minutieuses* que les
 badineurs. Je viens de sceller la porte. Rien n’entrera ou ne sortira -
 par une craquelure sous la porte par exemple. Et… »
@@ -701,7 +701,7 @@ par une craquelure sous la porte par exemple. Et… »
 Le professeur Quirrell prononça pas moins de quatre enchantements
 différents, et Harry n’en reconnu aucun.
 
-« Même cela ne suffit pas *vraiment*, » dit le professeur Quirrell. « Si
+« Même cela ne suffit pas *vraiment* », dit le professeur Quirrell. « Si
 nous faisions quoi que ce soit de véritable importance, il serait
 nécessaire d’opérer vingt-trois vérifications supplémentaires en plus de
 celle-ci. Par exemple, si Rita Skeeter sait ou a deviné que nous sommes
@@ -714,11 +714,11 @@ devrais pas le faire, juste pour ne pas vous enseigner de mauvaises
 habitudes ? » Et le professeur Quirrell se tapota la joue du doigt, l’air
 distrait.
 
-« C’est bon, » dit Harry. « Je comprends, et je m’en souviendrai. » Même
+« C’est bon », dit Harry. « Je comprends, et je m’en souviendrai. » Même
 s’il était un peu déçu qu’ils ne soient pas en train de faire quelque
 chose de véritablement important.
 
-« Très bien, » dit le professeur Quirrell. Il s’enfonça dans sa chaise et
+« Très bien », dit le professeur Quirrell. Il s’enfonça dans sa chaise et
 eut un grand sourire. « Vous avez bien œuvré aujourd’hui, M. Potter.
 L’idée de base était vôtre, j’en suis sûr, même si vous en avez délégué
 l’exécution. Je ne pense pas que nous entendrons beaucoup parler de Rita
@@ -753,7 +753,7 @@ Harry bondit de sa chaise dans un mouvement convulsif, il fallait qu’il
 trouve Rita Skeeter et qu’il la prévienne avant qu’il ne soit trop tard
 -
 
-« *Asseyez-vous*, » dit le professeur Quirrell d’une voix cassante.
+« *Asseyez-vous* », dit le professeur Quirrell d’une voix cassante.
 « *Non*, Lucius ne la tuera pas. Mais Lucius rend la vie *extrêmement*
 déplaisante à ceux qui le servent mal. Mademoiselle Skeeter va fuir et
 recommencer sa vie sous un nouveau nom. *Asseyez-vous*, M. Potter ; il
@@ -764,12 +764,12 @@ Harry s’assit lentement. Il y avait un air déçu et agacé sur le visage
 du professeur Quirrell qui contribua plus à l’arrêter que les mots ne
 l’avaient fait.
 
-« Il arrive, » dit le professeur Quirrell, la voix coupante, « que je sois
+« Il arrive », dit le professeur Quirrell, la voix coupante, « que je sois
 inquiet à l’idée que votre possession d’un brillant esprit Serpentard ne
 soit du gâchis complet. Répétez après moi. Rita Skeeter était une femme
 vile et dégoûtante. »
 
-« Rita Skeeter était une femme vile et dégoûtante, » dit Harry. Il ne se
+« Rita Skeeter était une femme vile et dégoûtante », dit Harry. Il ne se
 sentit pas à l’aise en le disant, mais après tout il ne semblait pas y
 avoir d’autre choix possible.
 
@@ -792,7 +792,7 @@ vaincre mes ennemis. »
 
 « Je mérite une récompense spéciale. »
 
-« Ah, » dit le professeur Quirrell, qui avait sourit avec gentillesse
+« Ah », dit le professeur Quirrell, qui avait sourit avec gentillesse
 pendant les quelques dernières phrases, « je vois que j’ai réussi à
 attirer votre attention. »
 
@@ -813,7 +813,7 @@ mine de livres.
 
 « Qu’est-ce ? » respira Harry.
 
-« Un journal, » dit le professeur Quirrell.
+« Un journal », dit le professeur Quirrell.
 
 « De qui ? »
 
@@ -836,7 +836,7 @@ peut-être pas vraiment tout ce qu’ils possèdent — »
 
 « Vous l’avez *volé* ? » dit Harry d’un ton incrédule.
 
-« C’est juste, » dit le professeur Quirrell. « Très récemment à vrai dire.
+« C’est juste », dit le professeur Quirrell. « Très récemment à vrai dire.
 Je pense que vous apprécierez cet objet précis bien plus que le vil
 petit homme qui ne le détenait pour aucun autre but que celui
 d’impressionner ses amis également vils grâce à sa rareté. »
@@ -852,7 +852,7 @@ Le professeur Quirrell jetait le livre d’une main à l’autre, ce qui
 poussait Harry à tendre involontairement les bras, un air consterné sur
 le visage.
 
-« Oh, » dit le professeur Quirrell, « ne vous souciez pas de cette
+« Oh », dit le professeur Quirrell, « ne vous souciez pas de cette
 manipulation brutale. Vous pourriez jeter ce journal dans un feu et il
 en sortirait indemne. Quoi qu’il en soit, j’attends votre décision. »
 
@@ -900,7 +900,7 @@ de sa chaise. Il commença à marcher vers la porte -
 
 \- et chancela, faisant une embardée soudaine en direction du mur.
 
-« Tout va bien, » dit la voix du professeur Quirrell, qui semblait soudain
+« Tout va bien », dit la voix du professeur Quirrell, qui semblait soudain
 beaucoup plus faible que d’habitude. « Restez assis, M. Potter, c’est
 juste un sort d’étourdissement. Restez assis. »
 
@@ -923,7 +923,7 @@ Tout de même, le bref épisode de quoi-que-ça-ait-été avait décidé Harry.
 Il ne pouvait pas dire non, pas après que le professeur Quirrell ai fait
 tant d’efforts.
 
-« Oui, » dit Harry.
+« Oui », dit Harry.
 
 Le professeur Quirrell leva un doigt en signe d’avertissement, puis il
 sortit de nouveau sa baguette, verrouilla de nouveau la porte, et répéta
@@ -943,7 +943,7 @@ n’était ni celle du papier moldu ni celle du parchemin. Et il était…
 
 « Suis-je censé voir — »
 
-« Regardez plus près du début, » dit le professeur Quirrell, et Harry (de
+« Regardez plus près du début », dit le professeur Quirrell, et Harry (de
 nouveau avec la précaution enracinée dont il ne pouvait se défaire)
 feuilleta le livre de plusieurs pages vers l’arrière.
 
@@ -952,7 +952,7 @@ pensa que les mots étaient peut-être en Latin.
 
 « De *quoi* s’agit-il ? »
 
-« Ceci, » dit le professeur Quirrell, « est le compte-rendu des recherches
+« Ceci », dit le professeur Quirrell, « est le compte-rendu des recherches
 en magie d’un né-Moldu qui ne se rendit jamais à Poudlard. Il refusa sa
 lettre d’acceptation et conduisit ses propres petites recherches, qui
 n’allèrent pas bien loin sans baguette. D’après la description de

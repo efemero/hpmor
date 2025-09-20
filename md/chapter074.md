@@ -10,7 +10,7 @@ pour lui.
 Depuis l’autre côté de la porte fermée vint un murmure qui traversa
 celle-ci comme si elle n’avait pas été là.
 
-« Ce ne sont pas mes heures de bureau, » dit le froid murmure, « ni l’heure
+« Ce ne sont pas mes heures de bureau », dit le froid murmure, « ni l’heure
 de notre rendez-vous. Je vous enlève dix points Quirrell, et soyez
 heureux que ce ne soit pas plus. »
 
@@ -34,7 +34,7 @@ droite.
 Le parchemin disparut et fut remplacé par un autre si rapidement qu’on
 aurait dit que l’objet avait seulement clignoté.
 
-Puis les lèvres bougèrent elles aussi. « Et de cela, » murmurèrent-elles,
+Puis les lèvres bougèrent elles aussi. « Et de cela », murmurèrent-elles,
 « que déduisez-vous, M. Potter ? »
 
 Harry fut secoué par l’apparence du professeur mais sa voix demeura
@@ -48,7 +48,7 @@ d’être la seule possibilité, enfant. Voyez-vous l’autre ? »
 
 Harry fronça les sourcils tout en regardant le professeur de Défense.
 
-« Cela me fatigue, » murmura le professeur de Défense. « Vous resterez ici
+« Cela me fatigue », murmura le professeur de Défense. « Vous resterez ici
 jusqu’à ce que vous ayez trouvé la réponse seul ou vous partirez. » Comme
 si Harry avait cessé d’exister, les yeux du professeur revinrent au
 parchemin et l’examinèrent du même mouvement saccadé.
@@ -63,7 +63,7 @@ ignorance de l’existence de Neptune — »
 
 Le parchemin disparut et ne fut pas remplacé. La tête s’extirpa alors de
 son prélassement, fit face à Harry, et la voix qui parla fut basse mais
-pas sans timbre. « Je pense, enfant, » dit le professeur avec douceur mais
+pas sans timbre. « Je pense, enfant », dit le professeur avec douceur mais
 d’une voix qui était presque normale, « que si tout Serpentard la
 haïssait tant que cela, je m’en serais rendu compte. Et pourtant, trois
 formidables combattants de cette maison ont préféré l’action à
@@ -88,7 +88,7 @@ théorie ; mais enfin, puisqu’il s’agissait d’une déduction du
 Le professeur de Défense se contentait de regarder Harry, paupières
 légèrement baissées, comme en signe d’impatience.
 
-« Et oui, » dit Harry, « je *suis* certain que Drago Malefoy n’est pas
+« Et oui », dit Harry, « je *suis* certain que Drago Malefoy n’est pas
 derrière ça. »
 
 Un sifflement d’air expiré, comme un soupir. « Il est le fils de Lucius
@@ -110,11 +110,11 @@ signe d’approcher.
 Harry entra dans la pièce. La porte se referma derrière.
 
 « Ce n’est pas là quelque chose que vous auriez dû dire à voix haute en
-langue humaine, » dit la douce voix du professeur Quirrell. « Légilimancie
+langue humaine », dit la douce voix du professeur Quirrell. « Légilimancie
 sur l’héritier Malefoy ? Si Lucius Malefoy apprenait cela, il me ferait
 assassiner immédiatement. »
 
-« Il *essaierait*, » dit Harry. Cela aurait dû lui valoir un plissement
+« Il *essaierait* », dit Harry. Cela aurait dû lui valoir un plissement
 d’yeux de la part du professeur mais le visage de ce dernier resta
 immobile. « Mais pardon ».
 
@@ -138,7 +138,7 @@ positives. Citer des résultats expérimentaux quant aux bienfaits qu’il y
 avait à tenir un journal de gratitude pour augmenter son niveau de
 bonheur n’aurait probablement pas été bien reçu.
 
-« Je vous dirai ce qui n’éveille pas mon intérêt, » dit ce froid murmure.
+« Je vous dirai ce qui n’éveille pas mon intérêt », dit ce froid murmure.
 « Noter des essais mandatés par le ministère. Mais j’ai pris le poste de
 professeur de Défense à Poudlard et je mènerai ma tâche à bien. » Un
 autre parchemin apparut devant la tête du professeur Quirrell et ses
@@ -151,13 +151,13 @@ quand même à lire les visages. »
 
 Le doigt du professeur de Défense pointa derrière Harry, vers la porte.
 
-« Mais que vous ayez eu tort quant à la nature humaine, » dit Harry, « ou
+« Mais que vous ayez eu tort quant à la nature humaine », dit Harry, « ou
 qu’il y ait une force supplémentaire à l’œuvre dans Serpentard — dans un
 cas comme dans l’autre, Hermione Granger court un danger plus grand que
 vous ne l’aviez prédit. La dernière fois, c’était trois puissants
 combattants, alors que se passera-t-il la prochaine — »
 
-« Elle ne désire ni mon aide ni la vôtre, » dit une voix basse et froide.
+« Elle ne désire ni mon aide ni la vôtre », dit une voix basse et froide.
 « Je ne trouve plus vos préoccupations aussi amusantes qu’autrefois, M.
 Potter. Partez. »
 
@@ -185,14 +185,14 @@ effrayant.
 parler ? » dit Hermione d’un ton brusque.
 
 « Le professeur Quirrell a expulsé Reese Belka de son armée la nuit
-dernière, » dit Harry Potter. « Et de toutes les autres activités de
+dernière », dit Harry Potter. « Et de toutes les autres activités de
 Défense du soir. L’une d’entre vous comprend-t-elle le sens de cela ?
 Mademoiselle Greengrass ? Padma ? »
 
 Les yeux de Harry les passèrent en revue, Hermione échangea un regard
 perplexe avec Padma et Daphné secoua la tête.
 
-« Bon, » dit Harry à voix basse, « je m’y attendais. Ce que ça veut dire,
+« Bon », dit Harry à voix basse, « je m’y attendais. Ce que ça veut dire,
 c’est que vous êtes en danger, mais je ne sais pas à quel point. » Le
 garçon redressa les épaules et regarda droit dans les yeux de Hermione.
 « Je ne comptais pas dire ça mais… je voudrais juste vous offrir de vous
@@ -305,7 +305,7 @@ pu le savoir. »
 Hermione jeta un *regard* à Daphné qui, l’espace d’un instant, rendit
 Hermione effroyablement semblable au professeur McGonagall.
 
-« Hmm, » dit Hermione. « Et sais-tu comment Susan s’est soudain transformée
+« Hmm », dit Hermione. « Et sais-tu comment Susan s’est soudain transformée
 en Wonderwoman ? »
 
 Daphné secoua la tête et dit : « Non, mais je pense que si on reçoit un
@@ -319,7 +319,7 @@ Peur d’avoir peut-être…
 
 D’avoir peut-être *cassé* quelque chose.
 
-« Hmm, » dit Hermione, et ses yeux McGonagall étaient revenus.
+« Hmm », dit Hermione, et ses yeux McGonagall étaient revenus.
 
 
 
@@ -353,7 +353,7 @@ disait que la couleur serait le blanc.
 
 
 
-« Chacune d’entre vous a intérêt à ne rien trouver à redire à ça, » dit
+« Chacune d’entre vous a intérêt à ne rien trouver à redire à ça », dit
 Susan Bones. La Poufsouffle, ou le pouvoir étrange qui avait pris
 possession d’elle, ne faisait même plus *semblant* d’être normal. La
 fille au visage rondouillard traversait les couloirs d’un pas ferme et
@@ -372,10 +372,10 @@ du guérisseur, je vous rendrai visite *moi-même* et je vous *botterai
 les fesses* si fort que vous y retournerez. On est toutes d’accord
 là-dessus ? »
 
-« Oui, » couinèrent la plupart des filles, même si Hannah dit : « Oui, Dame
+« Oui », couinèrent la plupart des filles, même si Hannah dit : « Oui, Dame
 Susan ! »
 
-« Ne m’appelez *pas* comme ça, » cracha Susan. « Et *je ne crois pas vous
+« Ne m’appelez *pas* comme ça », cracha Susan. « Et *je ne crois pas vous
 avoir entendu, Mlle Brown* ! Je vous préviens, j’ai des amis qui
 écrivent des pièces, et si vous faites quoi que ce soit de stupide, vous
 resterez dans l’histoire comme “Lavande, l’incroyable otage stupide.” »
@@ -384,7 +384,7 @@ resterez dans l’histoire comme “Lavande, l’incroyable otage stupide.” 
 élèves mis à part Harry avaient de mystérieux côtés obscur et si *elle*
 risquait d’en développer un à force de traîner avec eux).
 
-« Très bien, capitaine Bones, » dit Lavande d’un ton exceptionnellement
+« Très bien, capitaine Bones », dit Lavande d’un ton exceptionnellement
 respectueux alors qu’elles passaient un angle sur le chemin le plus
 court vers la bibliothèque et qu’elles traversaient un couloir plutôt
 grand muni de six ensembles de doubles portes, trois de chaque côté.
@@ -392,7 +392,7 @@ grand muni de six ensembles de doubles portes, trois de chaque côté.
 pour devenir une double sourcière ? »
 
 « Inscris-toi au programme de préparation Auror quand tu seras en sixième
-année, » dit Susan. « C’est ce qu’il y a de mieux en second choix. Oh, et
+année », dit Susan. « C’est ce qu’il y a de mieux en second choix. Oh, et
 si un Auror célèbre te propose de superviser ton stage d’été,
 contente-toi de faire la sourde oreille à tous ceux qui te diront qu’il
 a une mauvaise influence et que tu vas presque certainement mourir. »
@@ -421,7 +421,7 @@ où nous nous trouvons, avec toutes ces portes, serait un excellent coin
 
 Il y eut un silence.
 
-« Maintenant, » dit une voix dure, brouillée jusqu’à ne plus être
+« Maintenant », dit une voix dure, brouillée jusqu’à ne plus être
 identifiable par un grésillement.
 
 Les six paires de portes s’ouvrirent grand.
@@ -445,7 +445,7 @@ Serpentard à chaque fois que vous combattez une brute, quelqu’un finira
 par le remarquer. Nous aurons une conversation avec elle quand nous en
 auront fini avec vous. »
 
-« Mlle Susan, » dit Hannah d’une voix qui commençait tout juste à
+« Mlle Susan », dit Hannah d’une voix qui commençait tout juste à
 trembler, « pourriez-vous être assez Wonderwoman pour — »
 
 Des baguettes s’élevèrent. Puis il y eut une série d’éclairs verts
@@ -458,7 +458,7 @@ couloir. Derrière les doubles portes que Hermione pouvait voir ne se
 trouvaient que des salles de cours vides, des voies sans la moindre
 issue.
 
-« Non, » dit la voix masculine surmontée d’un grésillement, « elle ne peut
+« Non », dit la voix masculine surmontée d’un grésillement, « elle ne peut
 pas. Au cas où vous ne l’auriez pas remarqué, vous avez énervé pas mal
 de monde et nous n’avons aucune intention de perdre cette fois-ci. Très
 bien, tout le monde, préparez-vous à tirer. »
@@ -486,7 +486,7 @@ par terre, inconscient, ses robes poussiéreuses achevant leur mouvement
 avant de se déposer au sol, sa main tendue vers sa baguette qui
 s’éloignait lentement en roulant.
 
-« Non, » dit la première voix mâle, maintenant un peu moins assurée. Puis
+« Non », dit la première voix mâle, maintenant un peu moins assurée. Puis
 il se ressaisit : « Non, c’est impossible. Il nous a entendu nous faire
 passer le mot, bien sûr, et il est venu pour s’assurer que personne ne
 ferait de nouveau tout foirer. Nous le réveillerons ensuite, nous nous
@@ -507,7 +507,7 @@ Hermione put voir ses membres vaciller et trembler. « Les filles, je suis
 désolé d’avoir dit ça plus tôt. S’il y a quoi que ce soit d’héroïque ou
 de malin que vous voulez essayer, autant le faire. »
 
-« Ah, ouais, » dit alors Tracey Davis d’une voix tremblante. « J’ai failli
+« Ah, ouais », dit alors Tracey Davis d’une voix tremblante. « J’ai failli
 *oublier*. » La Serpentard leva la main et parla.
 
 « Hé, vous tous ! » hurla Tracey d’une voix aiguë. « Hé, est-ce que vous
@@ -531,7 +531,7 @@ Tracey Davis rangea sa baguette dans ses robes.
 Lentement, d’un geste délibéré, elle leva une main haut dans les airs et
 appuya son pouce contre son majeur.
 
-« Vas-y, » dit la voix.
+« Vas-y », dit la voix.
 
 Tracey Davis claqua des doigts.
 
@@ -539,7 +539,7 @@ Il y eut un long et terrible silence.
 
 Rien ne se passa.
 
-« Oui, eh bien, » dit la voix -
+« Oui, eh bien », dit la voix -
 
 Tracey dit alors d’une voix encore plus aiguë et encore plus
 tremblante : « Acathla, mundatus sum. » Sa main s’étira encore plus haut
@@ -593,13 +593,13 @@ Les barrières noires à chaque extrémité du couloir étaient parties en
 fumée comme si une pression immense les avait vaporisées mais leur
 évaporation révéla des sorties scellées, bloquées par des lames empilées
 faites d’un métal noir qui semblait avoir été taché de sang ; et lorsque
-Tracey chanta « *Lermarchand, Lamente, Lemarchand*, » une terrible lumière
+Tracey chanta « *Lermarchand, Lamente, Lemarchand* », une terrible lumière
 bleutée commença à filtrer entre et sous les lames de métal, les six
 paires de portes se refermèrent d’un grand coup et des brutes en robes
 blanches paniquées commencèrent à tambouriner dessus et à hurler.
 
 Puis la baguette de Tracey fit un grand geste vers la gauche et elle
-s’écria : « *Khornath !*, » puis derrière elle : « *Slaaneth !*, » au-dessus
+s’écria : « *Khornath !* », puis derrière elle : « *Slaaneth !* », au-dessus
 d’elle : « *Nurgolth !* » puis, vers la droite : « *TZINTCHI !* »
 
 Tracey s’interrompit et prit une profonde inspiration, Hermione retrouva
@@ -670,37 +670,37 @@ même s’il avait quelque difficultés à ignorer celui situé directement
 derrière lui et qui faisait le bruit d’une chouette hululant
 désespérément alors qu’on la fourrait dans une déchiqueteuse à bois.
 
-« Harry, » dit le vieux sorcier, assit derrière son bureau, la voix âgée
+« Harry », dit le vieux sorcier, assit derrière son bureau, la voix âgée
 et égale, ses yeux bleus perçants derrière ses scintillantes lunettes en
 demi-lune. Le directeur s’était habillé de robes d’un pourpre nocturne
 et non pas d’un noir formel mais toujours assez sombre pour approcher le
 sérieux le plus mortel selon la mode du monde des sorciers. « Es-tu…
 *responsable* de ce qui a eu lieu ? »
 
-« Je ne peux nier que mon influence ait joué un rôle, » dit Harry.
+« Je ne peux nier que mon influence ait joué un rôle », dit Harry.
 
 Le vieux sorcier ôta ses lunettes et se pencha pour regarder directement
 Harry, ses yeux bleus braqués vers les yeux verts. « Je te poserai une
-seule question, » continua-t-il d’une voix plus basse. « Penses-tu que ce
+seule question », continua-t-il d’une voix plus basse. « Penses-tu que ce
 que tu as fait aujourd’hui était — *convenable* ? »
 
 « Des brutes étaient là, et elles étaient arrivées dans ce couloir avec
 l’intention de faire du mal à Hermione Granger et aux sept autres
-enfants de première année, » dit Harry d’une voix égale. « Si je ne suis
+enfants de première année », dit Harry d’une voix égale. « Si je ne suis
 pas trop jeune pour être la cible de jugements moraux, alors eux non
 plus. Non, directeur, ils ne méritaient pas de mourir. Mais ils
 *méritaient* d’être entièrement déshabillés et collés au plafond. »
 
 Le vieux sorcier remit ses lunettes. Pour la première fois depuis que
 Harry le connaissait, les mots semblaient manquer au directeur. « Merlin
-lui-même m’en soit témoin, » dit Dumbledore, « je n’ai pas la plus vague
+lui-même m’en soit témoin », dit Dumbledore, « je n’ai pas la plus vague
 idée de la façon dont je devrais réagir à cela. »
 
-« C’est plus ou moins l’effet que j’espérais produire, » dit Harry. Il
+« C’est plus ou moins l’effet que j’espérais produire », dit Harry. Il
 sentait qu’il aurait dû siffler un air gai, mais il n’avait
 malheureusement jamais appris à siffler de façon fiable.
 
-« Je n’ai pas besoin de te demander qui est *directement* responsable, »
+« Je n’ai pas besoin de te demander qui est *directement* responsable »,
 dit le directeur. « Seuls trois sorciers à Poudlard pourraient être assez
 puissants. Je n’y suis pour rien. Severus m’a assuré qu’il n’est pas
 impliqué. Et le troisième… » le directeur secoua la tête avec
@@ -711,14 +711,14 @@ Relique de la Mort — si, de fait, il ne l’a pas su à la seconde où il
 est entré en contact avec elle. »
 
 « Le professeur Quirrell avait déjà déduit que je possédais une cape
-d’invisibilité, » dit Harry. « Et le connaissant, il a probablement deviné
+d’invisibilité », dit Harry. « Et le connaissant, il a probablement deviné
 que c’est une Relique de la Mort. Mais dans *ce* cas, directeur, il se
 trouve que le professeur Quirrell était sous une des robes blanches
 dotées de voiles. »
 
 Il y eut un autre silence.
 
-« Que c’est rusé, » dit le directeur. Il s’enfonça dans son fauteuil et
+« Que c’est rusé », dit le directeur. Il s’enfonça dans son fauteuil et
 soupira. « J’ai discuté avec le professeur de Défense. Juste avant toi, à
 vrai dire. Je ne savais pas vraiment quoi dire. Je lui ai expliqué que
 ce n’était pas là la politique approuvée par Poudlard en matière
@@ -739,7 +739,7 @@ Le directeur fronça les sourcils. « Mais *pourquoi* a-t-il fait cela,
 Harry ? »
 
 « Parce que le professeur Quirrell n’aime pas les brutes de cette école
-et que je lui ai demandé très poliment, » dit Harry. *Et il s’ennuyait et
+et que je lui ai demandé très poliment », dit Harry. *Et il s’ennuyait et
 il s’est dit que cela pourrait lui remonter le moral.* « Soit ça, soit ça
 fait partie d’un complot incroyablement intriqué. »
 
@@ -750,7 +750,7 @@ peu… »
 
 « Génial ? » proposa Harry.
 
-« *Parfaitement et complètement incontrôlable* décrirait mieux la chose, »
+« *Parfaitement et complètement incontrôlable* décrirait mieux la chose »,
 dit Dumbledore. « Je ne suis pas certain qu’il y ait jamais eu un temps
 dans l’Histoire de cette école où les choses sont devenues si, si… je
 n’ai pas de mot pour le décrire Harry, parce que les choses n’ont jamais
@@ -769,10 +769,10 @@ monotonie de la vie scolaire de Poudlard. Mais enfin, le professeur
 McGonagall ne mettrait pas le feu à poulet, elle. »
 
 Les rides du visage de Dumbledore devinrent plus profonde. « Ce n’est pas
-cela qui m’inquiète, Harry, » dit doucement le directeur. « Une bataille a
+cela qui m’inquiète, Harry », dit doucement le directeur. « Une bataille a
 eu lieu dans ces couloirs ! »
 
-« M. le directeur, » dit Harry, essayant avec précaution de garder un ton
+« M. le directeur », dit Harry, essayant avec précaution de garder un ton
 respectueux, « le professeur Quirrell et moi n’avons pas choisi que cette
 bataille ait lieu. C’est les brutes qui en ont décidé. *Nous* avons
 juste décidé de faire gagner le côté clair. Je sais que parfois les
@@ -792,16 +792,16 @@ approuverait — » Harry jeta un coup d’œil au perchoir doré, mais il �
 vide ; soit le phénix avait des choses plus importantes à faire, soit le
 directeur ne l’avait pas invité à la discussion d’aujourd’hui.
 
-« Et ceci, » dit le directeur d’une voix âgée, fatiguée et passablement
+« Et ceci », dit le directeur d’une voix âgée, fatiguée et passablement
 étouffée, « est précisément le problème, Harry. Si les courageux jeunes
 héros ne sont pas mis aux commandes d’écoles, c’est qu’il y a une
 raison. »
 
-« Très bien, » dit Harry. Il n’arrivait pas tout à fait à empêcher sa voix
+« Très bien », dit Harry. Il n’arrivait pas tout à fait à empêcher sa voix
 de révéler son scepticisme. « Qu’est-ce que j’ai raté, cette fois ? »
 
 Le vieux sorcier releva la tête, son visage à présent solennel et plus
-calme. « Écoutes-moi, Harry, » dit Dumbledore, « écoute-moi bien, car tous
+calme. « Écoutes-moi, Harry », dit Dumbledore, « écoute-moi bien, car tous
 ceux doté de pouvoir doivent l’apprendre un jour. Certaines choses en ce
 monde son effet vraiment simples. Si tu ramasses une pierre et que tu la
 laisses tomber, la Terre n’en sera pas alourdie, et les étoiles ne
@@ -818,7 +818,7 @@ qui leur est fait. Comprends-tu maintenant pourquoi dire “Voici la ligne
 de démarcation entre les héros et les méchants !” ne suffit pas à
 affirmer que ce que tu as fait était juste ? »
 
-« M. le directeur, » dit Harry d’une voix neutre, « ce n’est pas une
+« M. le directeur », dit Harry d’une voix neutre, « ce n’est pas une
 décision que j’ai prise au hasard. Non, je ne connais pas l’effet exact
 que cela aura sur chacune des brutes présentes. Mais si j’attendais
 toujours d’avoir une information parfaite avant d’agir, je ne ferai
@@ -849,7 +849,7 @@ avant de soumettre sa suggestion au professeur Quirrell ; et pour une
 fois le professeur de Défense ne l’avait pas traité d’idiot, il avait
 juste lentement souri et avait commencé à rire.
 
-« Je comprends tes intentions, Harry, » dit le vieux sorcier. « Tu penses
+« Je comprends tes intentions, Harry », dit le vieux sorcier. « Tu penses
 avoir donné une leçon aux brutes de Poudlard. Mais si Peregrine Derrick
 pouvait apprendre cette leçon, il ne serait pas Peregrine Derrick. Tes
 actes n’auront d’autre effet que de le provoquer encore plus — ce n’est
@@ -885,7 +885,7 @@ Harry avait encore du mal à envisager la possibilité d’un professeur de
 Défense invisible surveillant la S.P.E.H.S. et s’assurant que les
 héroïnes étaient à l’abri du danger.
 
-« Et ainsi, » finit le vieux sorcier, « nous en sommes arrivés à
+« Et ainsi », finit le vieux sorcier, « nous en sommes arrivés à
 aujourd’hui, Harry, à l’attaque de quarante-quatre élèves contre huit
 sorcières en première année. Un véritable bataille, dans ces murs ! Je
 ne sais quelle était ton intention, mais tu dois accepter une part de
@@ -893,13 +893,13 @@ responsabilité. De telles choses ne se produisaient pas avant que tu
 n’arrives dans cette école, pas pendant les décennies que j’ai passé à
 Poudlard ; ni quand j’étais un élève ni quand j’étais un professeur. »
 
-« Merci beaucoup, » dit Harry d’une voix neutre. « Même si je pense que le
+« Merci beaucoup », dit Harry d’une voix neutre. « Même si je pense que le
 professeur Quirrell a plus de mérite que moi. »
 
 Les yeux bleus s’écarquillèrent. « Harry… »
 
 « Ces brutes attaquent leurs victimes depuis bien avant le début de
-l’année, » dit Harry. Malgré ses efforts, sa voix commençait à s’élever.
+l’année », dit Harry. Malgré ses efforts, sa voix commençait à s’élever.
 « Mais personne n’a semblé apprendre aux élèves qu’ils avaient le droit
 de se *défendre*. Je sais qu’il est beaucoup plus simple d’*ignorer* un
 combat à armes égales qu’une victime impuissante qui se prend des
@@ -911,7 +911,7 @@ qui parle de ce problème. Les batailles ouvertes sont peut-être plus
 peut-être plus difficile la tâche de prétendre qu’il ne s’est rien
 passé, mais le résultat final est *meilleur* — »
 
-« Non, » dit Dumbledore. « Pas du tout, Harry. *Toujours* combattre les
+« Non », dit Dumbledore. « Pas du tout, Harry. *Toujours* combattre les
 ténèbres, ne *jamais* laisser le mal incontesté — ce n’est pas de
 l’héroïsme mais simplement de l’orgueil. Même Godric Gryffondor ne
 pensait pas que toutes les guerres méritaient qu’on se batte, et
@@ -928,7 +928,7 @@ Gryffondor. Et Gryffondor entrait en rage moins vite que toi. » Le vieux
 sorcier secoua la tête. « Tu es trop prêt à te battre, Harry. Bien trop
 prêt, et Poudlard elle-même devient plus violente autour de toi. »
 
-« Eh bien, » dit Harry avec précaution, soupesant ses mots. « Je ne sais
+« Eh bien », dit Harry avec précaution, soupesant ses mots. « Je ne sais
 pas si ça va aider, mais je pense que vous avez une fausse impression de
 mes préférences. Je n’aime pas non plus les vrais combats. Ça fait peur,
 c’est violent et on risque de se faire mal. Mais je ne me suis *pas*
@@ -937,13 +937,13 @@ battu aujourd’hui, M. le directeur. »
 Ce dernier fronça les sourcils. « Tu as envoyé le professeur de Défense à
 ta place — »
 
-« Le professeur Quirrell ne s’est pas vraiment battu non plus, » dit Harry
+« Le professeur Quirrell ne s’est pas vraiment battu non plus », dit Harry
 avec calme. « Il n’y avait là personne d’assez puissant pour le
 combattre. Il n’y a eu aucun combat aujourd’hui, seulement une
 victoire. »
 
 Le vieux sorcier ne parla qu’un moment plus tard. « Peut-être est-ce bien
-le cas, » dit-il, « mais tous ces conflits doivent toucher à leur fin. Je
+le cas », dit-il, « mais tous ces conflits doivent toucher à leur fin. Je
 peux entendre la tension dans l’air, et à chaque altercation, cette
 tension monte. Tout cela doit prendre fin, de façon décisive et rapide,
 et tu ne dois pas faire obstacle à cette fin. »
@@ -989,7 +989,7 @@ Le professeur de Défense parla d’une voix basse et le reste de son corps
 demeura immobile. « Comment s’est déroulé votre entretien avec le
 directeur, M. Potter ? »
 
-« Je n’en suis pas certain, » dit Harry. « Pas comme je l’avais prédit. Il
+« Je n’en suis pas certain », dit Harry. « Pas comme je l’avais prédit. Il
 semble croire que le côté clair devrait perdre bien plus souvent que je
 crois être sage. Et puis je ne suis pas certain qu’il comprenne la
 différence entre essayer de se battre et essayer de gagner. Ce qui
@@ -1004,10 +1004,10 @@ pas la joie de gagner, tout comme il ne comprend pas la joie de jouer.
 Dites-moi, M. Potter. Avez-vous délibérément suggéré ce petit plan dans
 l’intention de me soulager de mon ennui ? »
 
-« C’était un de mes nombreux motifs, » dit Harry, parce qu’un instinct
+« C’était un de mes nombreux motifs », dit Harry, parce qu’un instinct
 l’avait prévenu qu’il ne pouvait pas juste dire *Oui*.
 
-« Savez-vous, » dit le professeur de Défense d’un ton doux et pensif, « que
+« Savez-vous », dit le professeur de Défense d’un ton doux et pensif, « que
 certains ont essayé d’adoucir mes humeurs les plus sombres, que d’autres
 ont en effet aidé à ensoleiller mes jours, mais que vous êtes la
 première personne à jamais réussir à le faire délibérément ? » Le
@@ -1017,7 +1017,7 @@ commença à s’en aller sans un regard en arrière. seul un petit geste du
 doigt indiquant à Harry qu’il devait suivre.
 
 « J’ai particulièrement apprécié le chant que vous avez composé pour Mlle
-Davis, » dit le professeur Quirrell après qu’ils aient parcouru une
+Davis », dit le professeur Quirrell après qu’ils aient parcouru une
 courte distance. « Même si vous auriez été plus sage de venir me
 consulter à l’avance avant de le lui faire apprendre. » Une main s’agita
 entre ses robes et sortit une baguette qui fit un petit geste, après
@@ -1039,12 +1039,12 @@ plus normal et les lèvres se courbèrent en un sourire étrange. « Eh bien,
 peut-être possédez-vous alors quelque talent particulier pour le
 domaine. »
 
-« Oui, enfin, » dit Harry d’un ton las. « J’imagine que le docteur Seuss
+« Oui, enfin », dit Harry d’un ton las. « J’imagine que le docteur Seuss
 avait aussi un talent naturel pour les rituels noirs alors, parce que
 *brouille, drouille, muzo, muffe* vient d’un livre pour enfants intitulé
 *Barthélémiou et l’Ooberk* — »
 
-« Non pas cette partie, » dit le professeur Quirrell. Sa voix devint un
+« Non pas cette partie », dit le professeur Quirrell. Sa voix devint un
 peu plus forte et ressembla plus à son ton professoral habituel. « Un
 charme ordinaire, M. Potter, peut-être lancé simplement en prononçant
 certains mots, en faisant des gestes de baguette précis et en dépensant
@@ -1079,13 +1079,13 @@ choisir. Et le troisième sorcier, l’Enchaîneur, sacrifie de façon
 permanente une petite partie de sa magie afin de maintenir le Serment
 éternellement. »
 
-« Ah, » dit Harry. « Je *m’étais demandé* pourquoi ce sortilège n’était pas
+« Ah », dit Harry. « Je *m’étais demandé* pourquoi ce sortilège n’était pas
 utilisé partout à chaque fois que deux personnes avaient du mal à se
 faire confiance… même si… pourquoi tous les sorciers sur leur lit de
 mort ne se font-ils pas payer pour lier des Serments Inviolables et pour
 laisser un héritage à leurs enfants — »
 
-« Parce qu’ils sont stupides, » dit le professeur Quirrell. « Il y a des
+« Parce qu’ils sont stupides », dit le professeur Quirrell. « Il y a des
 centaines de rituels utiles qui pourraient être pratiqués si les hommes
 avaient assez de bon sens pour cela ; je pourrais en nommer vingt sans
 m’arrêter pour reprendre mon souffle. Mais quoi qu’il en soit, M.
@@ -1107,7 +1107,7 @@ y en a — doivent avoir été terrifiés d’une façon indicible. S’il
 existait un véritable rituel dont l’accomplissement était aussi
 impressionnant que le vôtre, M. Potter, il ferait fondre la Terre. »
 
-« Hum, » dit Harry.
+« Hum », dit Harry.
 
 Les lèvres du professeur Quirrell se déformèrent encore plus. « Ah, mais
 la chose vraiment amusante était ceci : voyez-vous, le chant de chaque
@@ -1119,13 +1119,13 @@ manifestation de votre présence. Et toujours, pour chaque partie d’un
 rituel, on nomme *d’abord* la chose qui doit être sacrifiée et *ensuite*
 ce qu’elle va permettre de faire. »
 
-« Je… vois, » dit Harry en marchant derrière le professeur Quirrell à
+« Je… vois », dit Harry en marchant derrière le professeur Quirrell à
 travers les couloirs de Poudlard en direction du bureau de ce dernier.
 « Donc mon chant, tel que je l’ai écrit, sous-entend que le Dieu
 Extérieur, Yog-Sothot — »
 
 « A été définitivement sacrifié lors d’un rituel qui ne permet de
-manifester votre présence que brièvement, » continua le professeur
+manifester votre présence que brièvement », continua le professeur
 Quirrell. « J’imagine que nous découvrirons demain si quiconque a pris
 cela au sérieux, lorsque nous lirons les journaux et verrons si toutes
 les nations magiques du monde se sont alliées dans un effort désespéré
@@ -1137,7 +1137,7 @@ d’étranges son gutturaux.
 Aucun des deux ne parla jusqu’à ce qu’ils soient arrivés au bureau du
 professeur de Défense, puis l’homme s’arrêta avec sa main sur la porte.
 
-« C’est là une chose très étrange, » dit le professeur de Défense d’une
+« C’est là une chose très étrange », dit le professeur de Défense d’une
 voix de nouveau douce, presque inaudible. L’homme ne regardait pas
 Harry, et ce dernier ne voyait donc que son dos. « Une chose très
 étrange… Il fut un temps où j’aurais sacrifié un doigt de ma main armée
@@ -1221,7 +1221,7 @@ moi ! »
 L’annonce donna naissance à un silence glacé qui s’empara de toute la
 salle.
 
-« Excusez-moi, Mlle Davis, » dit la voix cultivée de Drago Malefoy, qui
+« Excusez-moi, Mlle Davis », dit la voix cultivée de Drago Malefoy, qui
 semblait indifférent et relisait ses parchemins de potions. Cet autre
 héritier d’une maison Très Ancienne ne leva pas les yeux de son bureau
 même lorsque tout le monde se tourna pour le regarder. « Harry Potter
@@ -1235,7 +1235,7 @@ tout ça ! »
 eut un fracas à l’autre bout de la pièce, car Ron Weasley avait fait
 tomber son encrier.
 
-« Ben, j’en suis assez certaine, » dit Tracey d’un ton brièvement
+« Ben, j’en suis assez certaine », dit Tracey d’un ton brièvement
 incertain avant de se reprendre : « enfin, je me suis regardée dans un
 miroir et je suis plus pâle, je peux toujours sentir une sorte de
 ténèbre qui m’entoure, j’ai été le conduit de ses terribles pouvoirs et
@@ -1247,17 +1247,17 @@ essayait de nettoyer son bureau.
 
 « Daphné ? » dit Tracey.
 
-« Je n’y crois pas, » dit une voix. « Impossible que le prochain Seigneur
+« Je n’y crois pas », dit une voix. « Impossible que le prochain Seigneur
 des Ténèbres te prenne *toi* comme épouse ! »
 
 Lentement, avec une immense incrédulité, des têtes se tournèrent pour
 regarder Pansy Parkinson.
 
-« Tais toi, toi, » dit Tracey, « ou je… » La Serpentard s’interrompit. Puis
+« Tais toi, toi », dit Tracey, « ou je… » La Serpentard s’interrompit. Puis
 sa voix devint encore plus basse et elle dit : « Tais toi ou je dévore
 ton âme. »
 
-« Tu ne peux pas faire ça, » dit Pansy du ton confiant d’une poule qui
+« Tu ne peux pas faire ça », dit Pansy du ton confiant d’une poule qui
 avait établi une hiérarchie de basse-cour très satisfaisante avec elle
 tout en haut et qui n’allait quand même pas mettre à jour sa croyance à
 cause de simples preuves.
@@ -1273,7 +1273,7 @@ Pansy était visiblement nerveuse à présent, maintenant que Tracey
 ondulait vers son bureau. « Qu’es’tu crois que tu fais ? » dit Pansy sans
 tout à fait réussir à avoir l’air indignée.
 
-« Je t’ai dit, » dit Tracey d’un ton menaçant. « Je vais dévorer ton âme. »
+« Je t’ai dit », dit Tracey d’un ton menaçant. « Je vais dévorer ton âme. »
 
 Tracey se pencha au-dessus de Pansy qui était resté assise, figée à son
 bureau ; et lorsque leurs lèvres se touchèrent presque, Tracey inhala
@@ -1300,25 +1300,25 @@ aller dans la même école que toutes les autres familles importantes
 justifiait vraiment le fait d’aller dans la même école que la légion du
 Chaos.
 
-« Oh, tu es mal barrée maintenant, Pansy, » dit Seamus Finnigan. « Je ne
+« Oh, tu es mal barrée maintenant, Pansy », dit Seamus Finnigan. « Je ne
 sais pas exactement ce qui se passe quand un Détraqueur t’embrasse, mais
 si Tracey Davis t’embrasse c’est probablement pire. »
 
-« J’ai entendu parler des gens sans âmes, » dit Dean Thomas d’une voix
+« J’ai entendu parler des gens sans âmes », dit Dean Thomas d’une voix
 lugubre. « Ils doivent tous s’habiller de noir, écrire des poèmes
 exécrables et rien ne les rend jamais heureux. Ils sont pleins
 *d’angoisse existentielle*. »
 
 « Je veux pas avoir d’angoisse existentielle ! » s’écria Pansy.
 
-« Dommage, » dit Dean Thomas. « Tu es obligée maintenant que ton âme est
+« Dommage », dit Dean Thomas. « Tu es obligée maintenant que ton âme est
 partie. »
 
 Pansy se retourna et tendit une main suppliante vers le bureau de Drago
 Malefoy. « Drago ! » dit-elle d’un ton plaidant. « M. Malefoy ! S’il vous
 plaît, forcez Tracey à me rendre mon âme ! »
 
-« Je ne peux pas, » dit Tracey. « Je l’ai *mangée*. »
+« Je ne peux pas », dit Tracey. « Je l’ai *mangée*. »
 
 « Forcez-la à la vomir ! » s’écria Pansy.
 
@@ -1338,7 +1338,7 @@ professeur Rogue y entra. Il avait l’air plus en colère que Daphné ne
 l’avait jamais vu, ce qui envoya une décharge de véritable peur dans son
 échine. Elle se pencha sur ses devoirs en hâte.
 
-« Asseyez-vous, Parkinson, » siffla le maître des potions, « et vous,
+« Asseyez-vous, Parkinson », siffla le maître des potions, « et vous,
 Davis, ôtez-moi cette cape ridicule — »
 
 « *Professeur Rooooooogue !* » gémit une Pansy Parkinson en larmes.

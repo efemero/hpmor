@@ -15,7 +15,7 @@ pour le Rapeltout ni pour le professeur Rogue… »
 Fred et George haussèrent les épaules et se détournèrent, se préparant à
 partir.
 
-« Si jamais tu trouves la réponse, » dirent les jumeaux Weasley,
+« Si jamais tu trouves la réponse », dirent les jumeaux Weasley,
 « assure-toi de nous le faire savoir. »
 
 « *Vous êtes méchants ! Vous êtes tous les deux méchants !* »
@@ -125,7 +125,7 @@ Potter. »
 Il était étrangement de circonstance que ce même homme en noir s’apprête
 à lire l’esprit de Harry.
 
-« Préparez-vous, » dit l’homme d’une voix sans timbre.
+« Préparez-vous », dit l’homme d’une voix sans timbre.
 
 Le livre d’Occlumancie de Harry avait dit qu’un esprit humain n’était
 exposé à un Legilimens que par certaines *surfaces*. Si vous échouiez à
@@ -256,7 +256,7 @@ déguisé, un garçon innocent nommé Harry Potter.
 « Je suis prêt » dit Kimball Kinnison d’un ton nerveux qui était
 exactement celui qu’aurait eu un garçon de onze ans.
 
-« *Legilimens*, » dit le sorcier en robes noires.
+« *Legilimens* », dit le sorcier en robes noires.
 
 Il y eut un flottement.
 
@@ -267,7 +267,7 @@ Survivant a un *mystérieux* *côté obscur* ? »
 
 Une chaleur grimpa lentement le long des joues de Harry.
 
-« Eh bien, » dit l’homme. Son visage était redevenu parfaitement calme.
+« Eh bien », dit l’homme. Son visage était redevenu parfaitement calme.
 « Excusez-moi, M. Potter, c’est une chose que de connaître ses avantages,
 mais c’en est une autre que d’être follement trop sûr d’eux. Peut-être
 pourrez-vous en effet apprendre l’Occlumancie à l’âge de onze ans. Cela
@@ -307,14 +307,14 @@ C’était leur quatrième jour, un dimanche soir. Quand vous payiez autant,
 vous aviez vos cours quand ça vous chantait et vous n’aviez pas à vous
 préoccuper du concept de week-ends.
 
-« Bonjour, M. Potter, » dit le télépathe d’une voix sans timbre après
+« Bonjour, M. Potter », dit le télépathe d’une voix sans timbre après
 avoir jeté l’ensemble des sorts de protection de l’intimité.
 
-« Bonjour, M. Bester, » dit Harry d’une voix lasse. « Débarrassons-nous
+« Bonjour, M. Bester », dit Harry d’une voix lasse. « Débarrassons-nous
 déjà du choc initial, voulez-vous ? »
 
 « Vous êtes parvenu à me surprendre ? » dit l’homme, maintenant légèrement
-intéressé. « Eh bien alors, » il pointa sa baguette et se plongea dans les
+intéressé. « Eh bien alors », il pointa sa baguette et se plongea dans les
 yeux de Harry. « *Legilimens*. »
 
 Il y eut une pause, puis le sorcier en robes noires tressaillit, comme
@@ -326,11 +326,11 @@ faufile dans les dortoirs des filles ?* »
 
 Harry soupira et regarda sa main. Dans à peu près trois secondes…
 
-« Donc, » dit l’homme. Il n’avait pas entièrement récupéré son absence de
+« Donc », dit l’homme. Il n’avait pas entièrement récupéré son absence de
 timbre. « Vous croyez honnêtement que vous allez découvrir les règles
 secrètes de la magie et devenir tout-puissant. »
 
-« C’est ça, » dit Harry d’une voix égale en regardant toujours sa montre.
+« C’est ça », dit Harry d’une voix égale en regardant toujours sa montre.
 « Je suis *aussi* présomptueux *que ça*. »
 
 « Je me le demande. Il semble que le Choixpeau pense que vous allez
@@ -342,7 +342,7 @@ déterminer si vous acceptiez de m’enseigner l’Occlumancie, et vous avez
 fini par décider que vous le ferez, alors pourrions-nous juste passer à
 la suite ? »
 
-« Très bien, » dit l’homme exactement six secondes plus tard, pareil que
+« Très bien », dit l’homme exactement six secondes plus tard, pareil que
 la dernière fois. « Préparez-vous. » Il marqua une paus puis dit, sa voix
 assez mélancolique : « Bien que *j’aimerais* pouvoir me souvenir de cette
 astuce avec l’or et l’argent. »
@@ -413,7 +413,7 @@ protectrice autour des machines à remonter le temps*, ou inventer *mille
 cinq cent façons créatives de tuer des gens*, ou être Hermione Granger
 pendant *toute l’année*.
 
-« On devrait les tuer, » dit Harry à Hermione, qui marchait à côté de lui
+« On devrait les tuer », dit Harry à Hermione, qui marchait à côté de lui
 et qui avait un air tout aussi offensé que le sien.
 
 « Qui ? » dit Hermione. « L’équipe de Quidditch ? »
@@ -424,13 +424,13 @@ avec le Quidditch, mais oui, l’équipe de Serdaigle serait un bon début. »
 Les lèvres de Hermione était pincées d’un air désapprobateur. « Tu *sais*
 que c’est mal de tuer des gens, Harry ? »
 
-« Oui, » dit Harry.
+« Oui », dit Harry.
 
-« D’accord, je voulais juste vérifier, » dit Hermione. « Occupons-nous
+« D’accord, je voulais juste vérifier », dit Hermione. « Occupons-nous
 d’abord de l’Attrapeuse. J’ai lu quelques mystères d’Agatha Christie,
 sais-tu comment on pourrait la faire monter dans un train ? »
 
-« Deux étudiants qui fomentent un meurtre, » dit une voix sèche. « Que
+« Deux étudiants qui fomentent un meurtre », dit une voix sèche. « Que
 c’est choquant. »
 
 Un homme vêtu de robes légèrement tachées passa un angle proche, sans se
@@ -454,7 +454,7 @@ Il y eut soudain un air très soucieux sur le visage de Hermione. Elle se
 retourna vers Harry et ouvrit la bouche, puis s’interrompit, l’air
 perturbée.
 
-« Oh, ne vous en faites pas, mademoiselle Granger, » dit la voix soyeuse
+« Oh, ne vous en faites pas, mademoiselle Granger », dit la voix soyeuse
 de Severus. « Je promets de vous rendre votre courtisant non estropié. »
 Son sourire disparut. « Maintenant, Potter et moi allons partir et avoir
 une conversation en privé, juste entre nous. J’espère qu’il est clair
@@ -465,16 +465,16 @@ petite fille comme vous ne désobéira pas. »
 Et Severus se détourna et repartit vers l’angle d’où il était venu.
 « Vous venez, Potter ? » dit sa voix.
 
-« Euh, » dit Harry à Hermione. « Est-ce que je peux, euh, partir et le
+« Euh », dit Harry à Hermione. « Est-ce que je peux, euh, partir et le
 suivre et *te* laisser trouver ce que j’aurais dû dire pour m’assurer
 que tu ne sois pas toute inquiète et offensée ? »
 
-« Non, » dit Hermione d’une voix tremblante.
+« Non », dit Hermione d’une voix tremblante.
 
 Le rire de Severus leur parvint par échos depuis derrière l’angle du
 couloir.
 
-Harry inclina la tête. « Désolé, » dit-il bassement, « vraiment, » et il
+Harry inclina la tête. « Désolé », dit-il bassement, « vraiment », et il
 partit à la poursuite du maître de Potions.
 
 
@@ -483,17 +483,17 @@ partit à la poursuite du maître de Potions.
 
 
 
-« Donc, » dit Harry. Il n’y avait pas d’autre son que celui de leurs deux
+« Donc », dit Harry. Il n’y avait pas d’autre son que celui de leurs deux
 paires de jambes, les longues et les courtes, qui avançaient à pas
 feutrés sur un couloir de pierre quelconque ; le maître de Potions
 déambulait rapidement, mais pas trop, pour que Harry puisse le suivre,
 et dans la mesure où Harry pouvait appliquer le concept de direction à
 Poudlard, ils s’éloignaient des zones fréquentées. « De quoi s’agit-il ? »
 
-« J’imagine que vous ne pourriez pas expliquer, » dit sèchement Severus,
+« J’imagine que vous ne pourriez pas expliquer », dit sèchement Severus,
 « pourquoi vous fomentiez tous deux le meurtre de Cho Chang ? »
 
-« J’imagine que *vous* ne pourriez pas expliquer, » dit sèchement Harry,
+« J’imagine que *vous* ne pourriez pas expliquer », dit sèchement Harry,
 « en tant qu’officiel du système scolaire de Poudlard, pourquoi attraper
 un moustique en or est considéré comme une réussite scolaire qui mérite
 cent cinquante points ? »
@@ -550,7 +550,7 @@ astronomiques.
 
 Dumbledore avait eu l’air de penser que Severus était sien, et il n’y
 avait rien eu pour venir contredire cela ; le maître de Potions avait
-été « effrayant mais pas abusif, » comme promis. Harry s’était donc dit un
+été « effrayant mais pas abusif », comme promis. Harry s’était donc dit un
 peu plus tôt qu’il s’agissait là d’une affaire liée à la Communauté. Si
 Severus avait prévu de lui faire du mal, il ne serait certainement pas
 venu chercher Harry devant Hermione, un témoin, alors qu’il aurait
@@ -558,7 +558,7 @@ simplement pu attendre un moment où Harry serait seul…
 
 Harry se mordit discrètement la lèvre.
 
-« J’ai un jour connu un garçon qui adorait le Quidditch, » dit Severus
+« J’ai un jour connu un garçon qui adorait le Quidditch », dit Severus
 Rogue. « C’était un abruti fini. Comme nous nous y serions attendus tous
 deux. »
 
@@ -579,7 +579,7 @@ invoquée ou conjurée ou née ou quelque chose du genre, Harry aurait eu
 quelques mots acerbes à dire à l’architecte qui avait payé des gens pour
 construire des corridors qui ne menaient nulle part.
 
-« *Silencio*, » dit Severus, ainsi que quelques autres choses.
+« *Silencio* », dit Severus, ainsi que quelques autres choses.
 
 Harry se pencha en arrière, croisa ses bras sur sa poitrine, et regarda
 le visage de Severus.
@@ -594,7 +594,7 @@ nous sommes *en train* d’avoir cette conversation. »
 
 Les yeux de Harry s’écarquillèrent involontairement.
 
-« Pour commencer, » dit Severus, les yeux brillants, « je voudrais votre
+« Pour commencer », dit Severus, les yeux brillants, « je voudrais votre
 promesse que vous ne parlerez pas de notre conversation à *quiconque*.
 En ce qui concerne l’école, nous discutons de vos devoirs de Potions.
 Qu’ils le croient ou non n’a aucune importance. En ce qui concerne
@@ -608,7 +608,7 @@ virtuelle.
 
 « Eh bien ? » dit le maître de Potions.
 
-« Très bien, » dit lentement Harry. Il était difficile de voir comment le
+« Très bien », dit lentement Harry. Il était difficile de voir comment le
 fait d’avoir une conversation et de ne pouvoir dire à personne que vous
 l’aviez eue était plus contraignant que de ne *pas* l’avoir eue, auquel
 cas vous ne pouviez pas *non plus* en dire le contenu à quelqu’un. « Je
@@ -619,7 +619,7 @@ bureau du directeur, que vous ne toléreriez pas qu’on malmène ou qu’on
 abuse des enfants. Je me demande donc, Harry Potter. À quel point
 ressemblez-vous à votre père ? »
 
-« À moins que nous ne parlions de Michael Verres-Evans, » dit Harry, « la
+« À moins que nous ne parlions de Michael Verres-Evans », dit Harry, « la
 réponse est que j’en sais très peu au sujet de James Potter. »
 
 Severus hocha la tête, comme s’il s’adressait à lui-même. « Il y a un
@@ -646,17 +646,17 @@ durs… ça n’avait pas d’importance que Harry sache pourquoi Severus lui
 avait donné cette information. Ça lui réchauffait quand même le cœur, le
 rendait fier, et l’empêchait de refuser l’opportunité.
 
-« Très bien, » dit Harry. « Parlez-moi de Lesath. Pourquoi est-il
+« Très bien », dit Harry. « Parlez-moi de Lesath. Pourquoi est-il
 malmené ? »
 
 Le visage de Severus perdit son léger sourire. « Vous pensez qu’il y a
 des *raisons*, Potter ? »
 
-« Peut-être pas, » dit doucement Harry. « Mais l’idée m’est venue qu’il
+« Peut-être pas », dit doucement Harry. « Mais l’idée m’est venue qu’il
 pourrait avoir poussé une Sang-de-Bourbe sans importance du haut de
 quelque escalier. »
 
-« Lesath Lestrange, » dit Severus, sa voix à présente froide, « est le fils
+« Lesath Lestrange », dit Severus, sa voix à présente froide, « est le fils
 de Bellatrix Black, la servante la plus fanatique et la plus maléfique
 du Seigneur des Ténèbres. Lesath est le bâtard reconnu de Rastaban
 Lestrange. Peu après la mort du Seigneur des Ténèbres, Bellatrix,
@@ -666,14 +666,14 @@ emprisonnés à vie à Azkaban. Les Londubat ont été rendus fous par des
 Cruciatus répétés et demeurent à l’aile des Incurables de Sainte
 Mangouste. Est-ce là une bonne raison de le maltraiter, Potter ? »
 
-« Absolument pas, » dit Harry, toujours doucement. « Et Lesath lui-même n’a
+« Absolument pas », dit Harry, toujours doucement. « Et Lesath lui-même n’a
 commis aucun tort dont vous soyez au courant ? »
 
 Le léger sourire traversa de nouveau les lèvres de Severus. « Il n’est
 pas plus saint qu’un autre. Mais il n’a poussé aucune Sang-de-Bourbe
 dans les escaliers, pas que j’ai entendu. »
 
-« Ou lu dans son esprit, » dit Harry.
+« Ou lu dans son esprit », dit Harry.
 
 L’expression de Severus était glacée. « Je n’ai pas envahi son intimité,
 Potter. J’ai plutôt regardé dans les Gryffondor. Il constitue une cible
@@ -683,10 +683,10 @@ Un douche froide de colère courut le long de l’épine dorsale de Harry,
 et il dut se rappeler que Severus n’était peut-être pas une bonne source
 d’information.
 
-« Et vous pensez, » dit Harry, « qu’une intervention par Harry Potter, le
+« Et vous pensez », dit Harry, « qu’une intervention par Harry Potter, le
 Survivant, pourrait s’avérer efficace. »
 
-« En effet, » dit Severus Rogue, et il dit à Harry où et quand les
+« En effet », dit Severus Rogue, et il dit à Harry où et quand les
 Gryffondor avaient prévu leur prochain petit jeu.
 
 
@@ -721,7 +721,7 @@ Les quatre garçons en robes bordées de rouge pivotent en tressaillant et
 le garçon en robes bordées de vert s’écarte frénétiquement de la fenêtre
 et tombe au sol, le visage strié de larmes.
 
-« Oh, » dit le plus beau des garçons en robes à bordures rouges, l’air
+« Oh », dit le plus beau des garçons en robes à bordures rouges, l’air
 soulagé, « c’est *toi* ? Hé, Lessy, tu sais qui c’est ? »
 
 Il n’y a aucune réponse venant du garçon au sol, qui essaie de contrôler
@@ -731,9 +731,9 @@ jambe, se préparant à frapper -
 « *Arrête !* » crie le sixième garçon.
 
 Le garçon en robes bordées de rouge vacille en interrompant son coup de
-pied. « Euh, » dit-il, « sais-*tu* qui il est ? »
+pied. « Euh », dit-il, « sais-*tu* qui il est ? »
 
-La respiration du sixième garçon semble étrange. « Lesath Lestrange, »
+La respiration du sixième garçon semble étrange. « Lesath Lestrange »,
 dit-il, le souffle très court, « et *il* n’a rien fait à mes parents, il
 avait cinq ans. »
 
@@ -752,7 +752,7 @@ Il aurait juste dû dire non à Harry Potter.
 lentement, sur un ton perplexe qui recelait déjà les premières notes de
 l’offense. « C’est un *Serpentard*. Et un *Lestrange*. »
 
-« C’est un garçon qui a perdu ses parents, » dit Neville Londubat. « Je
+« C’est un garçon qui a perdu ses parents », dit Neville Londubat. « Je
 sais ce que c’est. » Il ne savait pas d’où les mots étaient venus. Ça
 avait eu l’air trop cool, comme quelque chose que Harry Potter aurait
 dit.
@@ -767,7 +767,7 @@ Londubat -*
 
 Neville n’arrivait pas à le dire.
 
-« Je pense que c’est un *traître*, » dit l’un des autres Gryffondor, et
+« Je pense que c’est un *traître* », dit l’un des autres Gryffondor, et
 l’estomac de Neville se noua soudain.
 
 Il l’avait su, il l’avait juste su. Enfin de compte, Harry Potter avait
@@ -776,14 +776,14 @@ Londubat leur disait d’arrêter.
 
 Celui qui était beau fit un pas en avant et les trois autres suivirent.
 
-« Alors tu vois ça comme ça, » dit soudain Neville, impressionné par la
+« Alors tu vois ça comme ça », dit soudain Neville, impressionné par la
 fermeté de sa voix. « Tu te fiches que ce soit Lesath Lestrange ou
 Neville Londubat. »
 
 Lesath Lestrange émit soudain un glapissement depuis l’emplacement où il
 gisait.
 
-« Le mal est le mal, » gronda celui qui avait déjà parlé, « et si tu es ami
+« Le mal est le mal », gronda celui qui avait déjà parlé, « et si tu es ami
 avec le mal, alors tu es mauvais toi aussi. »
 
 Les quatre avancèrent d’un pas.
@@ -792,11 +792,11 @@ Lesath se leva, vacillant. Son visage était gris, il fit quelques pas
 vers l’avant, se pencha contre le mur, et ne dit rien. Ses yeux étaient
 rivés sur l’angle du couloir, sur la sortie.
 
-« Amis, » dit Neville. Sa voix était maintenant montée d’une octave. « Oui,
+« Amis », dit Neville. Sa voix était maintenant montée d’une octave. « Oui,
 j’ai des amis. L’un d’eux est le Survivant. »
 
 Deux des Gryffondor eurent soudain l’air inquiet. Le plus beau ne
-broncha pas. « Harry Potter n’est pas là, » dit-il, la voix dure, « et s’il
+broncha pas. « Harry Potter n’est pas là », dit-il, la voix dure, « et s’il
 l’était, je ne pense pas qu’il aimerait voir un Londubat défendre un
 Lestrange. »
 
@@ -836,7 +836,7 @@ Le plus beau fit un pas menaçant en direction de Neville.
 
 Les trois autres suivirent automatiquement.
 
-« Ahem, » dit Harry Potter depuis quelque part derrière eux, appuyé contre
+« Ahem », dit Harry Potter depuis quelque part derrière eux, appuyé contre
 le mur près de la fenêtre, dans le cul-de-sac du corridor, là où
 personne n’aurait pu se rendre sans être vu.
 
@@ -847,7 +847,7 @@ brutes.
 Harry Potter glissa vers l’avant, se plaçant entre Lesath Lestrange et
 les autres. Il fit passer son regard de glace le long des quatre garçons
 vêtus de robes à bordures rouges, puis ses yeux vinrent s’arrêter sur le
-plus beau, le chef de bande. « M. Carl Sloper, » dit Harry Potter. « Je
+plus beau, le chef de bande. « M. Carl Sloper », dit Harry Potter. « Je
 crois avoir pleinement compris la situation. Si Lesath Lestrange a
 jamais commis le moindre mal, à part celui d’être né des mauvais
 parents, ce fait n’est pas connu de *vous*. Si je me trompe à ce sujet,
@@ -857,14 +857,14 @@ Neville vit la peur et l’admiration sur le visage des autres garçons. Il
 la ressentait lui-même. Harry avait *dit* que ce ne serait qu’un tour,
 mais comment était-ce possible ?
 
-« Mais c’est un *Lestrange*, » dit le chef de bande.
+« Mais c’est un *Lestrange* », dit le chef de bande.
 
-« C’est un garçon qui a *perdu ses parents*, » dit Harry Potter, sa voix
+« C’est un garçon qui a *perdu ses parents* », dit Harry Potter, sa voix
 devenant encore plus froide.
 
 Cette fois, les trois autres Gryffondor tressaillirent.
 
-« Donc, » dit Harry Potter. « Vous avez vu que Neville ne voulait pas que
+« Donc », dit Harry Potter. « Vous avez vu que Neville ne voulait pas que
 vous tourmentiez un garçon innocent au nom des Londubat. Cela ne vous a
 pas convaincu. Si je vous dit que le Survivant pense *lui aussi* que
 vous avez tort, que ce que vous avez fait aujourd’hui était une terrible
@@ -874,9 +874,9 @@ Le chef de bande fit un pas vers Harry.
 
 Les autres ne le suivirent *pas*.
 
-« Carl, » dit l’un d’eux en déglutissant. « On devrait peut-être y aller. »
+« Carl », dit l’un d’eux en déglutissant. « On devrait peut-être y aller. »
 
-« Ils disent que tu vas devenir le prochain Seigneur des Ténèbres, » dit
+« Ils disent que tu vas devenir le prochain Seigneur des Ténèbres », dit
 le chef de bande, fixant Harry.
 
 Un sourire apparut sur le visage de Harry Potter. « Ils disent aussi que
@@ -886,10 +886,10 @@ annonçant que nous allons conquérir la France. » Le sourire s’effaça.
 laissez-moi rendre les choses claires. *Laissez Lesath tranquille*. Si
 vous ne le faites pas, je le saurai. »
 
-« Alors comme ça Lessy est allé rapporter, » dit froidement le chef de
+« Alors comme ça Lessy est allé rapporter », dit froidement le chef de
 bande.
 
-« Bien sûr, » dit sèchement Harry Potter, « et il m’a aussi dit ce que vous
+« Bien sûr », dit sèchement Harry Potter, « et il m’a aussi dit ce que vous
 avez fait aujourd’hui après le court de Sortilèges, dans un endroit
 isolé et intime où personne ne pouvait vous voir, avec une certaine
 fille de Poufsouffle qui porte un ruban blanc dans les cheveux — »
@@ -902,7 +902,7 @@ entendit le battement de ses pas rapide s’estomper peu à peu.
 
 Et ils ne furent plus que six.
 
-« Ah, » dit Harry Potter, « voilà que part un jeune homme légèrement
+« Ah », dit Harry Potter, « voilà que part un jeune homme légèrement
 intelligent. Vous autres pourriez apprendre de l’exemple de Bertram
 Kirke avant d’avoir à faire face à des, disons à des problèmes. »
 
@@ -923,7 +923,7 @@ Harry Potter leva sa main, prêt à claquer des doigts, et les trois
 Gryffondor se jetèrent en arrière, et l’un d’eux laissa échapper :
 « Non, ne… ! »
 
-« Vous voyez, » dit Harry Potter, « c’est là que je claque des doigts et
+« Vous voyez », dit Harry Potter, « c’est là que je claque des doigts et
 que vous devenez l’ingrédient dune histoire hilarante qui sera contée au
 milieu de beaucoup de rires nerveux ce soir au dîner. Mais le truc,
 c’est que des gens en qui j’ai confiance n’arrêtent pas de me dire de ne
@@ -946,7 +946,7 @@ de silence ensuite.
 
 Et ils ne furent plus que trois.
 
-Harry Potter prit une profonde inspiration puis exhala. « Waouh, » dit-il.
+Harry Potter prit une profonde inspiration puis exhala. « Waouh », dit-il.
 « Comment ça va, Neville ? »
 
 La voix de Neville sortit sous la forme d’un couinement aigu. « Alors
@@ -997,7 +997,7 @@ Harry, lui non plus ne savait pas quoi répondre.
 Seigneur, fais sortir mes parents d’Azkaban, je serai à jamais ton loyal
 serviteur, ma vie sera tienne et ma mort aussi, s’il te plaît — »
 
-« Lesath, » dit Harry, et sa voix se brisa, « Lesath, je ne peux pas, je ne
+« Lesath », dit Harry, et sa voix se brisa, « Lesath, je ne peux pas, je ne
 peux pas vraiment faire des choses pareilles, ce ne sont que des tours
 idiots. »
 
@@ -1032,10 +1032,10 @@ Neville regarda Harry.
 
 Harry regarda Neville.
 
-« Waouh, » dit doucement Neville. « Il n’avait pas l’air très reconnaissant
+« Waouh », dit doucement Neville. « Il n’avait pas l’air très reconnaissant
 qu’on l’aie sauvé. »
 
-« Il pensait que je pouvais l’aider, » dit Harry d’une voix rauque. « Il
+« Il pensait que je pouvais l’aider », dit Harry d’une voix rauque. « Il
 espérait pour la première depuis des années. »
 
 Neville avala sa salive avec difficulté, et le dit enfin : « Je suis
@@ -1045,18 +1045,18 @@ désolé. »
 
 « Je n’étais pas reconnaissant quand tu m’as aidé — »
 
-« Tout ce que tu as dit était vrai, » dit le Survivant.
+« Tout ce que tu as dit était vrai », dit le Survivant.
 
-« Non, » dit Neville, « pas tout. »
+« Non », dit Neville, « pas tout. »
 
 Ils se donnèrent simultanément un bref sourire triste, chacun regardant
 l’autre avec condescendance.
 
-« Je sais que ce n’était pas réel, » dit Neville, « je sais que je n’aurais
+« Je sais que ce n’était pas réel », dit Neville, « je sais que je n’aurais
 rien pu faire si tu n’avais pas été là, mais merci de m’avoir laissé
 faire comme si. »
 
-« N’importe quoi, » dit Harry.
+« N’importe quoi », dit Harry.
 
 Harry s’était détourné de Neville et regardait les nuages lugubres
 visibles par la fenêtre.
@@ -1064,15 +1064,15 @@ visibles par la fenêtre.
 Une idée complètement idiote vint à Neville. « Te sens-tu coupable parce
 que tu ne peux pas faire sortir les parents de Lesath d’Azkaban ? »
 
-« Non, » dit Harry.
+« Non », dit Harry.
 
 Quelques secondes s’écoulèrent.
 
-« Oui, » dit Harry.
+« Oui », dit Harry.
 
-« Tu es bête, » dit Neville.
+« Tu es bête », dit Neville.
 
-« J’en suis conscient, » dit Harry.
+« J’en suis conscient », dit Harry.
 
 « Dois-tu littéralement faire *tout* ce qu’on te demande ? »
 
@@ -1085,22 +1085,22 @@ littéralement, et c’était *avant* qu’elle aille à Azkaban. Elle a
 torturé ma mère et mon père jusqu’à ce qu’ils deviennent fous parce
 qu’elle voulait savoir ce qui était arrivé au Seigneur des Ténèbres — »
 
-« Je sais, » dit doucement Harry. « Je comprends ça, mais — »
+« Je sais », dit doucement Harry. « Je comprends ça, mais — »
 
 « Non ! Tu ne comprends *pas* ! Elle avait une *raison* de faire ça, et
 mes parents étaient tous les deux des Aurors ! C’est *loin* d’être la
 pire chose qu’elle ait jamais faite ! » la voix de Neville vacillait.
 
-« Quand même, » dit le Survivant, les yeux distants, regardant quelque
+« Quand même », dit le Survivant, les yeux distants, regardant quelque
 part, vers l’ailleurs, vers un endroit que Neville ne pouvait pas
 imaginer. « Il existe peut-être une solution incroyablement intelligente
 qui permettrait de sauver tout le monde et qu’ils vivent heureux pour
 toujours, et si j’étais assez intelligent, j’y aurais déjà pensé — »
 
-« Tu as un problème, » dit Neville. « Tu penses que tu te dois d’être la
+« Tu as un problème », dit Neville. « Tu penses que tu te dois d’être la
 personne que Lesath Lestrange pense que tu es. »
 
-« Ouais, » dit le Survivant, « tu as carrément mis le doigt dessus. Chaque
+« Ouais », dit le Survivant, « tu as carrément mis le doigt dessus. Chaque
 fois que quelqu’un crie une prière à laquelle je ne peux pas répondre,
 je me sens coupable de ne pas être Dieu. »
 
@@ -1125,7 +1125,7 @@ Les bruits de pas de Neville se déplacèrent et il fut bientôt inaudible.
 
 Et il ne fut plus qu’un.
 
-« Ahem, » dit la voix de Severus Rogue, directement depuis son dos.
+« Ahem », dit la voix de Severus Rogue, directement depuis son dos.
 
 Harry laissa échapper un petit cri et se haït instantanément.
 
@@ -1134,12 +1134,12 @@ Il se retourna lentement.
 Le grand homme graisseux vêtu de robes tachées se tenait appuyé contre
 un mur dans la même position que celle que Harry avait occupée.
 
-« Une excellente cape d’invisibilité, » dit le maître de Potions d’une
+« Une excellente cape d’invisibilité », dit le maître de Potions d’une
 voix traînante. « Voilà qui explique beaucoup. »
 
 Ah, bordel de fiente.
 
-« Et peut-être que j’ai passé trop de temps aux côtés de Dumbledore, » dit
+« Et peut-être que j’ai passé trop de temps aux côtés de Dumbledore », dit
 Severus, « mais je ne peux m’empêcher de me demander si ce n’est pas *La*
 Cape d’Invisibilité. »
 
@@ -1147,7 +1147,7 @@ Harry se transforma immédiatement en quelqu’un qui n’avait jamais
 entendu parler de la Cape d’Invisibilité et qui était *exactement* aussi
 intelligent que Harry croyait que Severus croyait que Harry était.
 
-« Oh, peut-être, » dit Harry. « Je vous fais confiance pour comprendre ce
+« Oh, peut-être », dit Harry. « Je vous fais confiance pour comprendre ce
 que cela impliquerait si c’était le cas ? »
 
 La voix de Severus était condescendante. « Vous n’avez pas la moindre
@@ -1167,13 +1167,13 @@ souriant, avait demandé au professeur Quirrell à quel niveau *lui*
 jouait, et le professeur Quirrell, en souriant, avait répondu : *un
 niveau au-dessus du vôtre*.)
 
-« Alors vous regardiez depuis le début, » dit Harry. « Je crois qu’on
+« Alors vous regardiez depuis le début », dit Harry. « Je crois qu’on
 appelle ça le sortilège de Désillusion. »
 
 Un léger sourire. « Il aurait été stupide de ma part de prendre le risque
 qu’il vous arrive malheur. »
 
-« Et vous vouliez voir le résultat de votre test vous-même, » dit Harry.
+« Et vous vouliez voir le résultat de votre test vous-même », dit Harry.
 « Alors. Est-ce que je ressemble à mon père ? »
 
 Un étrange expression se dessina sur le visage de l’homme, une
@@ -1184,25 +1184,25 @@ Severus s’interrompit abruptement.
 
 Il fixa Harry.
 
-« Lestrange vous a traité de fils de Sang-de-Bourbe, » dit lentement
+« Lestrange vous a traité de fils de Sang-de-Bourbe », dit lentement
 Severus. « Ça n’a pas eu l’air de beaucoup vous embêter. »
 
 Harry fronça les sourcils. « Non, pas dans ces circonstances. »
 
-« Vous veniez de l’aider, » dit Severus. Ses yeux étaient braqués sur
+« Vous veniez de l’aider », dit Severus. Ses yeux étaient braqués sur
 Harry. « Et il vous l’a renvoyé au visage. Ce n’est sûrement pas quelque
 chose que vous allez juste pardonner ? »
 
-« Il venait de vivre une expérience plutôt traumatisante, » dit Harry. « Et
+« Il venait de vivre une expérience plutôt traumatisante », dit Harry. « Et
 je ne pense pas qu’être sauvé par des première année l’aie non plus
 beaucoup aidé. »
 
-« J’imagine que c’était simple à pardonner, » dit Severus, et sa voix
+« J’imagine que c’était simple à pardonner », dit Severus, et sa voix
 était étrange, « puisque Lestrange n’a aucune importance à vos yeux.
 Juste un étrange Serpentard. S’il avait été votre ami, peut-être vous
 seriez-vous senti bien plus blessé par ce qu’il a dit. »
 
-« S’il avait été un ami, » dit Harry, « raison de plus de le pardonner. »
+« S’il avait été un ami », dit Harry, « raison de plus de le pardonner. »
 
 Il y eut un long silence. Harry sentit, et il n’aurait pu dire ni
 pourquoi ni d’où, que l’air se remplissait d’une horrible tension, comme
@@ -1211,11 +1211,11 @@ de l’eau qui monterait, monterait et monterait.
 Puis Severus sourit, semblant soudain à nouveau détendu, et toute la
 tension disparut.
 
-« Vous êtes une personne très clémente, » dit Severus, souriant toujours.
+« Vous êtes une personne très clémente », dit Severus, souriant toujours.
 « J’imagine que c’est votre père, Michael Verres-Evans, qui vous a
 enseigné cela. »
 
-« Plutôt la collection de science-fiction et de fantasy de papa, » dit
+« Plutôt la collection de science-fiction et de fantasy de papa », dit
 Harry. « En fait, c’était une sorte de cinquième parent. J’ai vécu les
 vies de tous les personnages de tous mes livres, et tout leur puissant
 savoir résonne dans mon esprit. Quelque part dans ces livres, je suis
@@ -1229,7 +1229,7 @@ gentils font. »
 Harry le regarda. C’était à vrai dire assez triste. « Je vous prêterai
 des livres avec des gentils si vous voulez. »
 
-« Je voudrais vous demander un conseil, » dit Severus d’un ton badin. « Je
+« Je voudrais vous demander un conseil », dit Severus d’un ton badin. « Je
 connais un autre Serpentard de cinquième année qui se faisait brutaliser
 par des Gryffondor. Il faisait la cour à une magnifique née-Moldue qui
 le croisa tandis qu’il se faisait brutaliser, et elle essaya de le
@@ -1238,14 +1238,14 @@ Il s’excusa de nombreuses fois, mais elle ne le pardonna jamais.
 Avez-vous la moindre idée de ce qu’il aurait pu dire ou faire pour
 obtenir d’elle le pardon que vous avez octroyé à Lestrange ? »
 
-« Euh, » dit Harry, « en me basant uniquement sur cette information, je ne
+« Euh », dit Harry, « en me basant uniquement sur cette information, je ne
 suis pas certain que ce soit *lui* qui ait eu un problème. Je lui aurais
 dit de ne pas sortir avec quelqu’un incapable de pardonner. Imaginez
 qu’ils se soient mariés, pouvez-vous imaginer la vie dans leur ménage ? »
 
 Il y eut une pause.
 
-« Oh, mais elle *pouvait* pardonner, » dit Severus d’un ton amusé,
+« Oh, mais elle *pouvait* pardonner », dit Severus d’un ton amusé,
 « puisqu’elle devint ensuite la petite amie de celui qui brutalisait le
 Serpentard. Dites-moi, pourquoi aurait-elle pardonné la brute et non la
 victime ? »
@@ -1259,9 +1259,9 @@ ou une autre, lui a semblé bien plus impardonnable. Ou, sans vouloir
 
 Il y eut une autre pause.
 
-« Oui aux deux, » dit Severus.
+« Oui aux deux », dit Severus.
 
-« Et voilà, » dit Harry. « Non pas que j’ai moi-même jamais été au lycée,
+« Et voilà », dit Harry. « Non pas que j’ai moi-même jamais été au lycée,
 mais mes livres m’ont laissé entendre qu’il existe un certain genre
 d’adolescente qui sera outragée par une seule insulte venant d’un garçon
 pauvre à l’apparence normale, et pourtant parviendra à trouver dans son
@@ -1284,21 +1284,21 @@ Il y eut plus de silence et plus d’étincelles.
 
 C’était probablement le bon moment pour changer de sujet.
 
-« Donc, » dit Harry. « Ai-je passé votre test, quel qu’il ait été ? »
+« Donc », dit Harry. « Ai-je passé votre test, quel qu’il ait été ? »
 
-« Je pense, » dit Severus, « qu’il ne devrait plus y avoir la moindre
+« Je pense », dit Severus, « qu’il ne devrait plus y avoir la moindre
 conversation entre nous, Potter, et vous seriez extrêmement sage de ne
 jamais mentionner celle-ci. »
 
 Harry cligna des yeux. « Accepteriez-vous de me dire ce que j’ai fait de
 mal ? »
 
-« Vous m’avez offensé, » dit Severus. « Et je ne fais plus confiance à
+« Vous m’avez offensé », dit Severus. « Et je ne fais plus confiance à
 votre capacité à la fourberie. »
 
 Harry regarda Severus, plutôt pris par surprise.
 
-« Mais vous m’avez donné des conseils bien intentionnés, » dit Severus
+« Mais vous m’avez donné des conseils bien intentionnés », dit Severus
 Rogue, « aussi je vous donnerai un vrai conseil en retour. » Sa voix était
 presque parfaitement stable. Comme une corde tendue presque parfaitement
 à l’horizontale malgré l’énorme poids accroché en son milieu, maintenue
@@ -1314,7 +1314,7 @@ Le cerveau de Harry fit enfin la connexion.
 La bouche de Harry se referma net lorsque *failli mourir* le percuta
 enfin, deux secondes trop tard.
 
-« Oui, » dit Severus, « c’était moi. »
+« Oui », dit Severus, « c’était moi. »
 
 Et la terrible tension se déversa à nouveau dans la pièce, comme de
 l’eau sous pression venue du fond de l’océan.
@@ -1323,23 +1323,23 @@ Harry ne pouvait pas respirer.
 
 *Perds. Maintenant*.
 
-« Je ne savais pas, » murmura Harry. « Je suis dé- »
+« Je ne savais pas », murmura Harry. « Je suis dé- »
 
-« Non, » dit Severus. Juste cet unique mot.
+« Non », dit Severus. Juste cet unique mot.
 
 Harry se tint là, silencieux, son esprit frénétiquement à la recherche
 d’alternatives. Severus se tenait entre lui et la fenêtre, ce qui était
 vraiment dommage parce qu’une chute de cette hauteur n’aurait pas tué un
 sorcier.
 
-« Vos livres vous ont trahi, » dit Severus, toujours de cette voix étirée
+« Vos livres vous ont trahi », dit Severus, toujours de cette voix étirée
 par des millions de tonnes de traction. « Ils ne vous ont pas dit la
 seule chose que vous deviez savoir. Vous ne pouvez apprendre ce que
 c’est que de perdre la personne que vous aimez en lisant une histoire.
 C’est quelque chose que vous ne pourrez jamais comprendre sans l’avoir
 ressenti vous-même. »
 
-« Mon père, » murmura Harry. C’était sa meilleure conjecture, la seule
+« Mon père », murmura Harry. C’était sa meilleure conjecture, la seule
 chose qui pourrait le sauver. « Mon père a essayé de vous protéger contre
 les brutes. »
 
@@ -1348,13 +1348,13 @@ déplaça vers Harry.
 
 Et le dépassa.
 
-« Au revoir, Potter, » dit Severus sans se retourner. « Nous aurons bien
+« Au revoir, Potter », dit Severus sans se retourner. « Nous aurons bien
 peu à nous dire à partir d’aujourd’hui. »
 
 Et arrivé à l’angle, l’homme s’arrêta, et sans se retourner, parla une
 dernière fois.
 
-« Votre père était la brute, » dit Severus Rogue, « et ce que votre mère a
+« Votre père était la brute », dit Severus Rogue, « et ce que votre mère a
 vu en lui est quelque chose que je n’avais jamais compris avant
 aujourd’hui. »
 

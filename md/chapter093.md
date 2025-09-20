@@ -39,7 +39,7 @@ te plaît, j’ai une lettre à te remettre. »
 
 Harry toussota, avala une partie de la tartine qui était mal passée, se
 leva, ôta la Cape d’Invisibilité et dit à voix haute : « Dis à Dumbledore
-que j’ai dit d’accord, » puis se rassit et continua de manger sa tartine.
+que j’ai dit d’accord », puis se rassit et continua de manger sa tartine.
 
 La tartine était finie lorsque Albus Dumbledore arriva jusqu’au recoin
 de Harry, des feuilles de papier pliées en main ; du vrai papier à
@@ -47,7 +47,7 @@ lignes, pas du parchemin de sorcier.
 
 « Est-ce… » dit Harry.
 
-« De ton père et de ta mère, » dit le vieux sorcier. Sans dire mot,
+« De ton père et de ta mère », dit le vieux sorcier. Sans dire mot,
 Dumbledore tendit les feuilles pliées, et sans un mot, Harry les
 accepta. Le vieux sorcier hésita puis dit doucement : « Le professeur de
 Défense m’a dit de me retenir de te donner des conseils et je suis
@@ -55,7 +55,7 @@ arrivé à la même conclusion en prenant le temps de réfléchir. J’ai
 toujours mit trop longtemps à apprendre les vertus du silence. Mais si
 j’ai tort, il te suffit de me le dire… »
 
-« Vous n’avez pas tort, » dit Harry. Il baissa les yeux vers le papier à
+« Vous n’avez pas tort », dit Harry. Il baissa les yeux vers le papier à
 ligne plié et ressentit une nausée qui était la façon que son corps
 avait d’indiquer une prédiction très pessimiste. Ses parents ne le
 répudieraient pas vraiment, et ils ne pouvaient pas lui *faire* grand
@@ -68,7 +68,7 @@ autre chose qu’à une furie indignée, qu’à une rage totale et vertueuse,
 lorsqu’on se comportait ainsi envers quelqu’un qui croyait être le
 dominant.
 
-« Après l’avoir lue, » dit le directeur, « je crois que tu voudras venir
+« Après l’avoir lue », dit le directeur, « je crois que tu voudras venir
 immédiatement dans la grande salle, Harry. Il y a une annonce que tu
 souhaiteras entendre. »
 
@@ -245,7 +245,7 @@ devant la grande table.
 Le bruit de la grande salle, déjà minime, se tut entièrement lorsque
 tous les élèves se tournèrent pour la regarder.
 
-« Vous savez tous, » dit-elle d’une voix pas tout à fait assurée. *Que
+« Vous savez tous », dit-elle d’une voix pas tout à fait assurée. *Que
 Hermione Granger est morte.* Elle ne prononça pas ces mots à voix haute,
 puisqu’ils le savaient tous. « Quelqu’un est parvenu à faire entrer un
 troll dans le château de Poudlard sans activer les systèmes de sécurité.
@@ -272,7 +272,7 @@ Les jumeaux Weasley marchèrent jusqu’au pupitre en la regardant avec des
 visages effrayés mais résolus ; et elle sentit quelque chose dans son
 cœur se fissurer encore un peu.
 
-« Je ne vais pas vous exclure, » dit-elle, et elle fut plus attristée
+« Je ne vais pas vous exclure », dit-elle, et elle fut plus attristée
 encore en voyant leur air surpris. « Fred Weasley, George Weasley,
 retournez-vous, faites face à vos camarades, laissez-les vous regarder. »
 
@@ -280,14 +280,14 @@ Toujours l’air surpris, les jumeaux Weasley s’exécutèrent.
 
 Elle s’arma de toute sa volonté et dit ce qu’il y avait à dire.
 
-« J’ai honte, » dit Minerva McGonagall, « de ce qui s’est passé
+« J’ai honte », dit Minerva McGonagall, « de ce qui s’est passé
 aujourd’hui. J’ai honte que vous n’ayez été que deux. Honte de ce que
 j’ai fait à Gryffondor. De toutes les maisons, c’est Gryffondor qui
 aurait dû aider Hermione Granger quand elle en avait besoin, quand Harry
 Potter en appelait aux braves pour qu’ils l’aident. C’est vrai, un
 étudiant en septième année aurait pu retenir un troll des montagnes tout
 en cherchant Mlle Granger. Et vous auriez dû penser que la directrice de
-la maison Gryffondor, » sa voix se brisa, « croirait en vous si vous lui
+la maison Gryffondor », sa voix se brisa, « croirait en vous si vous lui
 désobéissiez pour faire ce qui était juste, dans des circonstances
 qu’elle n’avait pas prévues. Je ne croyais pas aux vertus de Gryffondor.
 J’ai essayé d’écraser toute tendance à la rébellion au lieu d’entraîner
@@ -314,7 +314,7 @@ n’avait pas voulu que *ça* se…
 
 
 Minerva respira et poursuivit. « Cependant, le directeur n’a pas accepté
-ma démission, » dit-elle. « Je continuerai donc mon travail et essaierai
+ma démission », dit-elle. « Je continuerai donc mon travail et essaierai
 de défaire ce que j’ai façonné. Je dois parvenir à trouver un moyen
 d’enseigner à mes élèves comment faire ce qui est juste. Pas ce qui est
 sûr, pas ce qui simple, pas ce qu’on nous dit de faire. Si tout ce dont
@@ -326,7 +326,7 @@ jusqu’ici, je ne faisais que suivre la voie de la facilité. »
 Elle s’écarta du pupitre et descendit pour rejoindre les jumeaux
 Weasley.
 
-« Fred Weasley, George Weasley, » dit-elle. « Vous n’avez pas toujours fait
+« Fred Weasley, George Weasley », dit-elle. « Vous n’avez pas toujours fait
 ce qui est juste. Le chemin vers la sagesse n’est pas semé de défis
 éhontés et inutiles envers l’autorité. Et pourtant, aujourd’hui, vous
 avez prouvé être les derniers de notre maison à avoir survécu à mes
@@ -340,10 +340,10 @@ lame à travers son cœur.
 
 Elle se retourna pour faire face aux autres élèves.
 
-« Je ne décernerai aucun point à Serdaigle, » dit-elle. « Je devine que M.
+« Je ne décernerai aucun point à Serdaigle », dit-elle. « Je devine que M.
 Potter n’en voudrait pas. Si j’ai tort, qu’il me corrige et prenne
 autant de points qu’il le souhaitera. Mais pour ce que ça vaut, M.
-Potter, je suis, » elle hésita, « je suis désolée… »
+Potter, je suis », elle hésita, « je suis désolée… »
 
 
 
@@ -363,14 +363,14 @@ ne m’a rien dit de cela… qu’ont-ils fait ? »
 
 « Mlle Bones a essayé d’étourdir M. Hagrid quand il a essayé de
 m’arrêter, et M. Weasley a tiré sur Neville quand Neville a essayé de
-m’arrêter. Ils devraient aussi avoir des points et, et Neville aussi, »
+m’arrêter. Ils devraient aussi avoir des points et, et Neville aussi »,
 Harry n’avait pas pensé à y songer, à la façon dont Neville devait
 maintenant se sentir, mais à l’instant où il y pensa, il sut, « parce que
 Neville a essayé de faire quelque chose, même si ce n’était pas juste,
 faire ce qui est juste est la *deuxième* leçon, on peut commencer à la
 pratiquer après avoir appris à faire quelque chose, tout court… »
 
-« Dix points pour Poufsouffle, Mlle Bones, » dit le professeur McGonagall
+« Dix points pour Poufsouffle, Mlle Bones », dit le professeur McGonagall
 d’une voix qui se brisa à mi-phrase. « Dix points à Gryffondor, Ron
 Weasley, votre famille a de quoi être extrêmement fière, aujourd’hui. Et
 dix points à Poufsouffle pour Neville Londubat, pour avoir fait face à
@@ -397,7 +397,7 @@ Harry soit sorti. Avant que certains des élèves plus âgés ne nous
 arrêtent. Mais nous sommes parvenus à ralentir M. Hagrid pendant une
 minute pour que le général Potter puisse partir. »
 
-« Vous devez leur donner des points à eux aussi, » dit Ron Weasley depuis
+« Vous devez leur donner des points à eux aussi », dit Ron Weasley depuis
 la table Gryffondor. « Ou je n’en accepterai aucun. »
 
 « Qui d’autre ? » dit le professeur McGonagall d’une voix peu stable.
@@ -425,7 +425,7 @@ elle étouffa les sons.
 dire… » Il avait l’air de s’étrangler. « P-Professeur, tout ce que je vous
 ait dit, je cherchais à faire mal, à calmer ma haine, j’avais tort… »
 
-« Je le savais déjà, Harry Potter, » dit-elle. « Mais je souhaitais quand
+« Je le savais déjà, Harry Potter », dit-elle. « Mais je souhaitais quand
 même m’améliorer. » Il y avait une sensation de légèreté dans sa
 poitrine, très similaire à ce qu’on pouvait ressentir en sautant d’une
 falaise, quand les jambes n’avaient plus à soutenir le corps. Elle
@@ -443,7 +443,7 @@ pas laisser cette incertitude l’arrêter ; il était temps qu’elle
 commence à apprendre le courage d’un Gryffondor afin qu’elle puisse
 ensuite l’enseigner.
 
-« Avant, j’avais une sœur, » chuchota-t-elle. Juste cela, rien de plus.
+« Avant, j’avais une sœur », chuchota-t-elle. Juste cela, rien de plus.
 
 
 

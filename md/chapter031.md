@@ -117,10 +117,10 @@ d’une aura d’or.
 « Dans combien de temps pensez-vous que Malefoy comprendra ? » dit le
 général Granger.
 
-« Pas longtemps, » dit le colonel Blaise Zabini. « Peut-être l’a-t-il déjà
+« Pas longtemps », dit le colonel Blaise Zabini. « Peut-être l’a-t-il déjà
 compris. Combien de temps avant que Potter ne comprenne ? »
 
-« L’éternité, » dit le général Granger, « à moins que Malefoy ne le lui dise
+« L’éternité », dit le général Granger, « à moins que Malefoy ne le lui dise
 ou que l’un de ses soldats ne comprenne. Harry Potter ne pense tout
 simplement pas comme ça. »
 
@@ -130,11 +130,11 @@ Weasley (ils avaient rapporté toutes les autres chaises après le départ
 de Malefoy, bien sûr). « Je veux dire, ça m’a l’air assez évident. Qui
 essaierait d’avoir toutes les idées à lui seul ? »
 
-« Harry, » dit Hermione exactement au moment où Zabini dit « Malefoy. »
+« Harry », dit Hermione exactement au moment où Zabini dit « Malefoy. »
 
-« Malefoy pense qu’il est meilleur que tout le monde, » dit Zabini.
+« Malefoy pense qu’il est meilleur que tout le monde », dit Zabini.
 
-« Et Harry… ne *voit* pas vraiment les autres comme ça, » dit Hermione.
+« Et Harry… ne *voit* pas vraiment les autres comme ça », dit Hermione.
 
 C’était plutôt triste à vrai dire. Harry avait grandi seul, très seul.
 Non pas qu’il pense consciemment que seuls les génies avaient le droit
@@ -142,7 +142,7 @@ d’exister. C’est juste qu’il ne lui *viendrait jamais à l’esprit* que
 quiconque dans l’armée de Hermione, à part Hermione, soit capable
 d’avoir la moindre bonne idée.
 
-« Quoi qu’il en soit, » dit Hermione. « Capitaines Goldstein et Weasley,
+« Quoi qu’il en soit », dit Hermione. « Capitaines Goldstein et Weasley,
 vous avez pour mission de trouver des idées stratégiques pour notre
 prochaine bataille. Capitaines Macmillan et Susan — pardon, je voulais
 dire Macmillan et Bones — essayez de trouver des tactiques que nous
@@ -159,7 +159,7 @@ Drago Malefoy risque de faire la prochaine fois, et après avoir découvert
 quelque chose nous nous joindrons à vous. Je vais marcher tout en
 réfléchissant. Zabini, vous voulez m’accompagner ? »
 
-« Oui, général, » dit Zabini avec fraîcheur.
+« Oui, général », dit Zabini avec fraîcheur.
 
 Elle n’avait pas voulu que ce soit un ordre. Hermione soupira un peu en
 pensée. Il allait falloir qu’elle s’y fasse, et bien que l’idée initiale

@@ -21,7 +21,7 @@ Et il improvisait. L’éloge prévu longtemps à l’avance avait été rejeté
 Oliver Habryka tenait encore le parchemin dans sa main gauche, mais il
 ne le regardait pas.
 
-« Le professeur Quirrell était très malade, » dit le garçon d’une voix
+« Le professeur Quirrell était très malade », dit le garçon d’une voix
 hésitante, qui se perdait dans les murmures des autres élèves et se
 brisait parfois d’un sanglot. « Je pense qu’en pleine possession de ses
 moyens, le professeur Quirrell aurait pu se battre, que Vous-Savez-Qui
@@ -35,7 +35,7 @@ s’est dressé contre le Seigneur des Ténèbres. Seul. »
 Il y eut alors un silence, et certains élèves pleurèrent.
 
 Oliver essuya ses larmes du revers de sa manche et parla à nouveau.
-« Nous ne savons pas ce qui s’est passé, » dit Oliver. « J’imagine que le
+« Nous ne savons pas ce qui s’est passé », dit Oliver. « J’imagine que le
 Seigneur des Ténèbres lui a rit au nez. Peut-être qu’il s’est moqué du
 professeur, du fait qu’il lui tienne tête sans pouvoir tenir debout. Eh
 bien *il se marre moins, maintenant.* »
@@ -54,7 +54,7 @@ Est Le Plus Dangereux Sorcier Du Monde. »
 peut-être ce que Voldemort aurait essayé ; et c’était peut-être ce que
 le professeur Quirrell aurait répondu.
 
-« Et ils ne nous disent pas tout, » dit Oliver, « mais on peut deviner ce
+« Et ils ne nous disent pas tout », dit Oliver, « mais on peut deviner ce
 qui s’est passé ensuite. Nous savons tous que Hermione Granger, une des
 meilleures élèves du professeur, s’est fait tuer par un troll plus tôt
 cette l’année, et le Seigneur des Ténèbres devait être dans le coup,
@@ -77,7 +77,7 @@ le Seigneur des Ténèbres… ça a dû invoquer… l’esprit de Hermione
 Granger… d’entre les morts… ou d’ailleurs… » Oliver n’arrivait plus à
 parler.
 
-« Ce n’était pas seulement ça, » dit Harry depuis le premier rang, d’une
+« Ce n’était pas seulement ça », dit Harry depuis le premier rang, d’une
 voix elle aussi enrouée. Il *devait* dire quelque chose avant que ça
 devienne n’importe quoi. Si ce n’était pas déjà le cas. « David Monroe
 était un sorcier puissant ; seul lui et moi savons à quel point il
@@ -88,7 +88,7 @@ Une histoire si belle. Elle aurait dû être vraie. *Elle aurait dû être
 vraie.*
 
 « Je ne connais pas bien la personne qui se cachait derrière le
-professeur, » dit Oliver Habryka après s’être repris. « Je sais que David
+professeur », dit Oliver Habryka après s’être repris. « Je sais que David
 Monroe n’était pas un homme heureux. Il n’a jamais pu créer de
 Patronus. »
 
@@ -100,7 +100,7 @@ n’était pas seule responsable : les Horcruxes l’avaient empêché. Il ne
 il était heureux, *heureux* que le professeur Quirrell n’ait pas
 totalement disparu…
 
-« Mais je… je sais, » dit Oliver, des larmes scintillantes sur ses joues,
+« Mais je… je sais », dit Oliver, des larmes scintillantes sur ses joues,
 « que, où qu’il soit, le professeur Quirrell est heureux, maintenant. »
 
 À la main gauche de Harry, une petite émeraude brillait sous le soleil
@@ -111,7 +111,7 @@ personne. Je vous montrerai, un jour je vous montrerai comment être
 heureux…*
 
 Pour la première fois, le garçon jeta un regard au parchemin qu’il
-tenait en main. « Le professeur Quirrell, » dit Oliver d’une voix devenue
+tenait en main. « Le professeur Quirrell », dit Oliver d’une voix devenue
 plus rapide, plus féroce, « était de loin le meilleur professeur de Magie
 de Bataille que Poudlard ait jamais eu. Peu importe les sortilèges que
 Salazar Serpentard connaissait, le professeur Quirrell était au moins
@@ -129,7 +129,7 @@ Harry regarda là où le directeur — non, là où la directrice McGonagall
 était assise, et il la vit hocher la tête en silence, avec un air
 triste, sévère, et fier.
 
-« Ils ne nous ont pas encore laissé voir Mlle Granger, » dit Oliver. Sa
+« Ils ne nous ont pas encore laissé voir Mlle Granger », dit Oliver. Sa
 voix trembla. « La Ressuscitée. Mais je penserai toujours au professeur
 de Défense en la regardant. Son sacrifice vit en elle, tout comme son
 savoir vit en nous. » Oliver regarda Harry, puis regarda à nouveau le

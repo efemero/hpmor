@@ -103,10 +103,10 @@ fort bien n’être la faute d’aucun des membres de son équipe car le vieux
 fouineur savait souvent des choses impossibles à savoir).
 
 Albus Dumbledore inclina sa tête vers Amélia d’un geste courtois.
-« J’espère ne pas être importun, » dit le vieux sorcier avec calme. « Nous
+« J’espère ne pas être importun », dit le vieux sorcier avec calme. « Nous
 sommes tous dans le même camp, n’est-ce pas ? »
 
-« Cela dépend, » dit Amélia d’une voix dure. « Es-tu là pour nous aider à
+« Cela dépend », dit Amélia d’une voix dure. « Es-tu là pour nous aider à
 attraper des criminels ou pour les protéger des conséquences de leurs
 actes ? » *Vas-tu essayer de protéger la meurtrière de mon frère de son
 Baiser bien mérité, vieux fouineur ?* Amélia avait entendu dire que
@@ -118,7 +118,7 @@ avait été trouvé.
 Une douzaine de points blanc et argent, réflexions des animaux
 étincelants, luisaient à la surface des lunettes en croissant de lune du
 vieux sorcier ; il parla : « Je souhaite voir Bellatrix Black libérée
-encore moins que toi, » dit-il. « Elle ne *doit* pas quitter cette prison
+encore moins que toi », dit-il. « Elle ne *doit* pas quitter cette prison
 en vie, Amélia. »
 
 Avant qu’elle ne puisse de nouveau parler, ne serait-ce que pour
@@ -127,7 +127,7 @@ longue baguette noire et un flamboyant phénix d’argent apparut,
 peut-être plus lumineux que tous leurs Patronus réunis. C’était la
 première fois qu’elle avait vu quelqu’un jeter ce sortilège sans parler.
 « Ordonne à tous tes Aurors de dissiper leur Patronus pendant dix
-secondes, » dit le vieux sorcier. « Ce que le ténèbres ne peuvent trouver,
+secondes », dit le vieux sorcier. « Ce que le ténèbres ne peuvent trouver,
 peut-être la lumière saura-t-elle le découvrir. »
 
 Amélia aboya l’ordre d’accomplir la volonté de Dumbledore à l’officier
@@ -144,7 +144,7 @@ n’était certainement pas bon signe.
 Tout de même, il était bon de savoir qu’ils pourraient travailler
 ensemble, cette fois-ci.
 
-« Maintenant, » dit un chorus de miroirs, et tous les Patronus
+« Maintenant », dit un chorus de miroirs, et tous les Patronus
 s’évanouirent en un clin d’œil, mis à part ce flamboyant phénix
 d’argent.
 
@@ -161,9 +161,9 @@ La tête d’argent s’inclina de nouveau.
 
 Un dernier hochement de tête du phénix flamboyant.
 
-« C’est fait, » dit Dumbledore.
+« C’est fait », dit Dumbledore.
 
-« Terminé, » dirent tous les miroirs un instant après, et Amélia leva sa
+« Terminé », dirent tous les miroirs un instant après, et Amélia leva sa
 baguette et entreprit de relancer son propre Patronus (bien qu’il lui
 fallut un effort de concentration supplémentaire, avec ce sourire féroce
 déjà présent sur son visage, pour réussir à penser à la première fois où
@@ -183,7 +183,7 @@ main, poliment, comme s’il avait été dans une salle de classe.
 Il réfléchit rapidement. La question était de savoir comment — non, cela
 aussi était évident.
 
-« Il semble, » dit Harry d’une voix froidement amusée, « que quelqu’un a
+« Il semble », dit Harry d’une voix froidement amusée, « que quelqu’un a
 demandé à ce Patronus de ne transmettre son message qu’à moi. » Il
 gloussa. « Eh bien. Pardonne moi, chère Bella. *Quietus*. »
 
@@ -217,7 +217,7 @@ faire ? »
 
 Mais elle le savait déjà.
 
-« Ne me suivez pas, » dit le vieux sorcier d’une voix sévère. « Je peux me
+« Ne me suivez pas », dit le vieux sorcier d’une voix sévère. « Je peux me
 protéger, je ne peux pas protéger les autres. »
 
 L’injure qu’Amélia lui lança fit trembler jusqu’à ses propres Aurors.
@@ -488,16 +488,16 @@ maîtrisé la Relique de la Mort transmise le long de la lignée Potter.
 Il regarda la femme invisible droit dans les yeux et dit : « Les
 Détraqueurs peuvent-ils t’atteindre, Bella ? »
 
-« Non, » dit la femme d’une voix douce et émerveillée. Puis : « Mais,
+« Non », dit la femme d’une voix douce et émerveillée. Puis : « Mais,
 seigneur… *vous…* »
 
-« Si tu dis quelque chose de stupide, cela va m’agacer, » dit Harry d’un
+« Si tu dis quelque chose de stupide, cela va m’agacer », dit Harry d’un
 ton froid. « Ou bien as-tu l’impression que je me sacrifierai pour toi ? »
 
-« Non, seigneur, » répondit la servante du Seigneur des Ténèbres d’un ton
+« Non, seigneur », répondit la servante du Seigneur des Ténèbres d’un ton
 perplexe et peut-être admiratif.
 
-« Suis, » dit le froid murmure de Harry.
+« Suis », dit le froid murmure de Harry.
 
 Et ils continuèrent leur périple vers le fond d’Azkaban, et le Seigneur
 des Ténèbres fourra la main dans sa bourse, prit un cookie et le mangea.
@@ -515,7 +515,7 @@ et rouge-or maintenant derrière lui.
 
 « *Toi -* » commença à mugir Amélia.
 
-« Ils ont dissipé leur Patronus, » dit Dumbledore. Le vieux sorcier ne
+« Ils ont dissipé leur Patronus », dit Dumbledore. Le vieux sorcier ne
 sembla pas élever la voix mais ses mots calmes prirent le dessus. « Je ne
 peux plus les trouver. »
 

@@ -42,7 +42,7 @@ Le général Soleil ne réfléchit même pas ; les gens qui s’arrêtaient po
 réfléchir ne tendaient pas de très bonnes embuscades.
 
 Baguette à la main, ses doigts opérèrent la torsion nécessaire, ses
-lèvres dirent : « *Somnium !*, » la brute la plus grande tomba au sol, le
+lèvres dirent : « *Somnium !* », la brute la plus grande tomba au sol, le
 garçon Poufsouffle chuta avec un *bam*, les deux autres brutes
 essayèrent de la viser de leur baguette, elle répéta « *Somnium !* » et un
 autre des immenses garçons s’écroula — celui qui avait ajusté sa visée
@@ -88,7 +88,7 @@ suffisamment récupéré pour son prochain sortilège, qui serait -
 
 « *Glisseo,* » dit Hermione, dirigeant sa remarque vers le sol.
 
-« Arg, » dit la brute lorsque ses pieds se dérobèrent sous lui et qu’il
+« Arg », dit la brute lorsque ses pieds se dérobèrent sous lui et qu’il
 *laissa carrément tomber sa baguette.*
 
 Le *Protego* disparut instantanément.
@@ -101,7 +101,7 @@ la première contre le sol ; Hermione se rendit compte qu’il était
 heureux qu’il ne soit pas Moldu sans quoi le Poufsouffle aurait pu se
 briser le cou. Elle n’y avait à vrai dire pas pensé.
 
-« Euh, » dit le garçon aux cheveux bruns, aux yeux d’un marron commun qui
+« Euh », dit le garçon aux cheveux bruns, aux yeux d’un marron commun qui
 parvenait à sembler correspondre exactement à la notion de Poufsouffle
 et dont le visage, bien que dénué de larmes, était plutôt pâle. Elle
 l’aurait situé en quatrième ou peut-être troisième année.
@@ -109,11 +109,11 @@ l’aurait situé en quatrième ou peut-être troisième année.
 Puis les yeux marrons s’écarquillèrent à mesure qu’ils mirent au point
 sur elle. « *Général Soleil ?* »
 
-« Ouais, » dit-elle. « C’est (*halètement*) moi. » Elle décida alors que si
+« Ouais », dit-elle. « C’est (*halètement*) moi. » Elle décida alors que si
 le Poufsouffle disait quoi que ce soit sur son statut d’objet des émois
 de Harry Potter, il mourrait.
 
-« Waouh, » dit le Poufsouffle. « C’était — tu viens juste de — je veux
+« Waouh », dit le Poufsouffle. « C’était — tu viens juste de — je veux
 dire, je t’ai vu sur les écrans avant Noël mais — waoh ! J’arrive pas à
 croire que tu viens de faire ça ! »
 
@@ -121,14 +121,14 @@ Il y eut un silence.
 
 *J’arrive pas à croire que tu viens de faire ça*, pensa Hermione Granger
 qui se sentit soudain un peu défaillante ; ça devait être à cause de sa
-course récente. « Excuse (*halètement*) moi, » dit-elle, « est-ce que tu
+course récente. « Excuse (*halètement*) moi », dit-elle, « est-ce que tu
 pourrais juste (*halètement*)me dégélifier les jambes ? »
 
 Le garçon hocha la tête, se remit sur pied et chercha sa baguette dans
 ses robes ; puis Hermione dut corriger son geste pour que le contre-sort
 fonctionne.
 
-« Je m’appelle Michael Hopkins, » dit le garçon après que Hermione se fut
+« Je m’appelle Michael Hopkins », dit le garçon après que Hermione se fut
 relevée d’une roulade. Il tendit la main. « Ou juste Mike pour ceux de
 Poufsouffle, il n’y a aucun autre Mike à Poufsouffle cette année,
 incroyable non ? »
@@ -156,7 +156,7 @@ attaque surprise, voilà qui lui semblait soudain très sensé.
 Alors qu’elle essayait encore de reprendre son souffle, elle se tourna
 de nouveau vers Mike.
 
-« Est-ce que tu (*halètement*) me croirais, » dit Hermione Granger, « si je
+« Est-ce que tu (*halètement*) me croirais », dit Hermione Granger, « si je
 te disais qu’il y a cinq minute j’avais (*halètement*) du mal à trouver
 comment devenir une (*halètement*) une héroïne ? »
 
@@ -233,7 +233,7 @@ question pour vous, M. Potter. Comment pensez-vous que les gens échouent
 
 « *Quoi ?* » dit Harry.
 
-Elle le regarda. « Fais comme si tout était comme d’habitude, » dit-elle,
+Elle le regarda. « Fais comme si tout était comme d’habitude », dit-elle,
 « et dis juste ce que tu aurais dit hier. »
 
 « Euh… » dit Harry, et il avait l’air très perplexe et inquiet. « Je pense
@@ -253,12 +253,12 @@ Serpentard, ou peut-être même de Gryffondor, mais cela ne semblait pas
 correspondre à la liste du directeur ; et l’idée lui vint qu’il existait
 peut-être peut-être bien plus de quatre perspectives sur le sujet.
 
-« D’accord, » dit Hermione, « autre question. Qu’est-ce qui fait de
+« D’accord », dit Hermione, « autre question. Qu’est-ce qui fait de
 quelqu’un un héros ? »
 
 « Un *héros ?* » dit Harry.
 
-« Ouais, » dit Hermione.
+« Ouais », dit Hermione.
 
 « Ah… » dit Harry. Sa fourchette et son couteau tranchèrent un morceau de
 steak avec nervosité, le coupèrent en des morceaux de plus en plus
@@ -275,7 +275,7 @@ cette question ? » La fourchette de Harry poignarda trois morceaux de
 steak minutieusement découpés et les fit monter vers sa bouche.
 
 « Oh, je viens juste d’assommer trois brutes de Serpentard et de sauver
-un Poufsouffle, » dit Hermione. « Je vais devenir une héroïne. »
+un Poufsouffle », dit Hermione. « Je vais devenir une héroïne. »
 
 Lorsque Harry eut fini de s’étrangler sur sa bouchée (certains des
 autres Serdaigle à portée d’oreille toussaient encore), il répondit :
@@ -293,34 +293,34 @@ aviez envie d’aider les gens).
 Lorsqu’elle eut fini de parler, Harry la fixa du regard et ne dit pas un
 mot.
 
-« Je suis désolé d’avoir agi comme ça plus tôt, » dit Hermione. Elle
+« Je suis désolé d’avoir agi comme ça plus tôt », dit Hermione. Elle
 sirota un peu de son jus de pamplemousse. « J’aurais dû me souvenir que
 tant je te bats encore à plates couture en cours de Charmes ça n’est pas
 grave si tu es meilleur en Défense. »
 
-« *S’il te plaît*, ne le prends pas mal, » dit Harry. Il avait maintenant
+« *S’il te plaît*, ne le prends pas mal », dit Harry. Il avait maintenant
 l’air sombre et trop-adulte. « Mais es-tu certaine que c’est *toi*, ça,
 et pas, pour parler franchement, moi ? »
 
-« J’en suis assez certaine, » dit Hermione. « Allons, mon nom est presque
+« J’en suis assez certaine », dit Hermione. « Allons, mon nom est presque
 un anagramme de « héroïne » mis à part ce « m » en trop, je ne m’en étais
 jamais rendue compte avant aujourd’hui. »
 
-« Ce n’est pas toujours la fête d’être un héros, » dit Harry. « Pas le vrai
+« Ce n’est pas toujours la fête d’être un héros », dit Harry. « Pas le vrai
 boulot de héros du genre que les adultes ont à faire ; ça n’est pas
 comme ça, ça ne va pas être aussi simple. »
 
-« Je sais, » dit Hermione.
+« Je sais », dit Hermione.
 
 « C’est difficile et c’est douloureux et il faut prendre des décisions
 alors qu’aucune bonne réponse n’existe — »
 
 « Oui Harry, j’ai lu ces livres moi aussi. »
 
-« Non, » dit Harry, « tu ne comprends pas, même si les livres te mettent en
+« Non », dit Harry, « tu ne comprends pas, même si les livres te mettent en
 garde il est impossible que tu *puisses* comprendre jusqu’à ce que — »
 
-« Ça ne t’arrête pas, » dit Hermione. « Ça ne t’arrête pas le moins du
+« Ça ne t’arrête pas », dit Hermione. « Ça ne t’arrête pas le moins du
 monde. Je parie que tu n’as même jamais *envisagé* de ne pas être un
 héros à cause de ce problème. Alors pourquoi est-ce que tu penses que ça
 va m’arrêter ? »
@@ -332,10 +332,10 @@ enfantin et radieux que sa mine avait été sombre et adulte, et tout alla
 de nouveau bien entre Hermione et Harry.
 
 « Ça va tourner atrocement, extraordinairement mal, d’une façon ou d’une
-autre, » dit Harry, toujours avec son immense sourire. « Tu es au courant,
+autre », dit Harry, toujours avec son immense sourire. « Tu es au courant,
 n’est-ce pas ? »
 
-« Oh, je sais, » dit Hermione. Elle prit une autre bouchée de pain grillé.
+« Oh, je sais », dit Hermione. Elle prit une autre bouchée de pain grillé.
 « D’ailleurs, Dumbledore a refusé d’être mon vieux sorcier mystérieux.
 Est-ce qu’il y a un endroit auquel je pourrais écrire pour en demander
 un autre ? »
@@ -348,7 +348,7 @@ un autre ? »
 
 *Après-coup :*
 
-« …et le professeur Flitwick dit que sa détermination est inébranlable, »
+« …et le professeur Flitwick dit que sa détermination est inébranlable »,
 dit Minerva d’une voix pincée en regardant le vieux sorcier à barbe
 d’argent qui était responsable de tout cela. Albus Dumbledore était
 assis, silencieux, et il l’écoutait, le regard lointain. « Mlle Granger
@@ -364,19 +364,19 @@ compréhension.
 
 « *ALBUS !* » glapit-elle.
 
-« Ma chère, » dit le vieux sorcier, « lorsque vous aurez eu affaire à votre
+« Ma chère », dit le vieux sorcier, « lorsque vous aurez eu affaire à votre
 trentième héros environ, vous comprendrez qu’ils réagissent de façon
 assez prévisible à certaines choses ; par exemple d’entendre qu’ils sont
 trop jeunes, qu’ils ne sont pas destinés à devenir des héros ou qu’il
 est désagréable d’en être un ; et si vous souhaitez vraiment être sûr,
-vous devriez leur dire les trois. Bien que, » avec un bref soupir, « il
+vous devriez leur dire les trois. Bien que », avec un bref soupir, « il
 vaille mieux éviter d’être *trop* flagrant dans votre tentative, sans
 quoi votre directrice adjointe pourrait vous surprendre. »
 
-« Albus, » dit Minerva d’une voix encore plus pincée, « si il lui arrive du
+« Albus », dit Minerva d’une voix encore plus pincée, « si il lui arrive du
 mal, je jure que cette fois je — »
 
-« Elle aurait fini par en arriver au même point, » dit Albus, son regard
+« Elle aurait fini par en arriver au même point », dit Albus, son regard
 toujours lointain. « Si quelqu’un est censé devenir un héros, alors il
 n’écoutera pas nos mises en gardes, Minerva, peu importe nos efforts.
 Cela étant acquis, il vaut mieux pour Harry que Mlle Granger ne se
@@ -466,7 +466,7 @@ puissamment.
 La tête scintillante de Daphné s’enfonça plus profondément entre ses
 mains luisantes. « Lorsque ma famille aura pris le pouvoir je vous
 lancerai tous des sortilèges anti-Transplanage et je vous jetterai au
-fond de la mer par Portoloin, » dit-elle à l’intention de personne en
+fond de la mer par Portoloin », dit-elle à l’intention de personne en
 particulier. « Ça ne vous dérange pas j’espère ? »
 
 *Toc-toc, toc-toc-toc, toc.*
@@ -478,7 +478,7 @@ plus âgé situé non loin de celle-ci, et il l’ouvrit grand.
 
 Il y eut un moment de surprise générale.
 
-« Je suis venue parler avec Mlle Greengrass, » dit le général Soleil avec
+« Je suis venue parler avec Mlle Greengrass », dit le général Soleil avec
 l’air de vouloir donner l’impression qu’elle avait confiance en elle.
 « S’il vous plaît, quelqu’un pourrait-il — »
 
@@ -495,10 +495,10 @@ Millicent aperçut Hermione qui se tenait dans l’embrasure de la porte.
 
 Il y eut un silence assourdissant.
 
-« Euh, » dit Daphné. *Quoi ?* dit son cerveau. « Euh, qu’est-ce que vous
+« Euh », dit Daphné. *Quoi ?* dit son cerveau. « Euh, qu’est-ce que vous
 faites ici, général ? »
 
-« Eh bien, » dit Hermione Granger, un étrange sourire sur visage, « j’ai
+« Eh bien », dit Hermione Granger, un étrange sourire sur visage, « j’ai
 décidé que ça n’est pas juste si de mystérieux vieux sorciers donnent
 seulement à certaines personnes une chance d’être un héros, et j’ai
 aussi lu des livres d’Histoire et il n’y a vraiment pas assez d’héroïnes
@@ -507,7 +507,7 @@ voulais être une héroïne, et pourquoi est-ce que tu brilles comme ça ? �
 
 Il y eut un autre silence.
 
-« Ce n’est, » dit Daphné, « probablement *pas* le meilleur moment pour me
+« Ce n’est », dit Daphné, « probablement *pas* le meilleur moment pour me
 demander ça — »
 
 « *J’accepte !* » s’écria Tracey Davis en bondissant de son sofa.

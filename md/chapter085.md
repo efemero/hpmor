@@ -106,7 +106,7 @@ Au moins son côté obscur ne lui avait rien demandé en échange du
 sauvetage de Hermione. Peut-être parce que son côté obscur *n’était pas*
 une voix imaginaire comme celle de Poufsouffle ; Harry *imaginait*
 peut-être que sa partie Poufsouffle était dotée de ses propres désirs,
-différents des siens, mais son côté obscur n’était pas comme ça. Son « côté obscur, » du mieux que Harry puisse en juger, constituait un autre
+différents des siens, mais son côté obscur n’était pas comme ça. Son « côté obscur », du mieux que Harry puisse en juger, constituait un autre
 état d’être que Harry *était* parfois. Pour l’instant Harry n’était pas
 en colère et tenter de demander ce que désirait le « Harry obscur »
 revenait à laisser sonner un téléphone dans le vide. L’idée elle-même
@@ -583,7 +583,7 @@ pouvait voir l’image dans son esprit, brillante d’un insoutenable
 clarté, l’image de lui-même souriant d’un soulagement soudain alors
 qu’il rejetait toutes ses peurs et *choisissait* -
 
-« Mais je…, » murmura Harry, sans même se rendre compte de ce qu’il
+« Mais je… », murmura Harry, sans même se rendre compte de ce qu’il
 disait. Il leva ses mains tremblantes pour essuyer les larmes qui
 avaient jailli de ses yeux, face au phénix qui flottait devant lui à
 grands battements d’ailes. « Mais je… j’ai d’autres personnes que je
@@ -621,7 +621,7 @@ pendant qu’il était resté ici, tourmenté par cette décision…
 Les yeux passèrent un instant sur les étoiles au-dessus de lui puis il
 regarda le phénix.
 
-« Pas encore, » dit le garçon d’une voix à peine audible. « Pas encore.
+« Pas encore », dit le garçon d’une voix à peine audible. « Pas encore.
 J’ai encore trop à faire. Reviens plus tard, s’il te plaît, lorsque j’en
 aurai trouvé d’autres capables de lancer le Véritable Patronus – dans
 six mois, peut-être… »
@@ -641,7 +641,7 @@ Lentement, il se retourna…
 Puis s’écria et fit un bon tel qu’il tomba presque de la tour, bien que
 ce faux pas aurait été sans conséquence avec un tel sorcier présent.
 
-« Ainsi en fut-il, » dit Albus Dumbledore presque dans un soupir. « Ainsi en fut-il. » Fumseck était sur son épaule et regardait là où
+« Ainsi en fut-il », dit Albus Dumbledore presque dans un soupir. « Ainsi en fut-il. » Fumseck était sur son épaule et regardait là où
 s’était trouvé l’autre phénix d’un regard aviaire indéchiffrable.
 
 « *Que faites-vous ici ?* »
@@ -656,7 +656,7 @@ devait être le tien… »
 Une étrange appréhension commençait à se répandre en Harry, à sourdre en
 lui comme une sensation de nausée.
 
-« Que tout dépendait de cela, » dit Albus Dumbledore toujours de ce
+« Que tout dépendait de cela », dit Albus Dumbledore toujours de ce
 presque-soupir, « je le savais. Mais quel choix menait vers les
 ténèbres, cela, je n’ai pu le deviner. Au moins, le choix était tien. »
 
@@ -664,7 +664,7 @@ ténèbres, cela, je n’ai pu le deviner. Au moins, le choix était tien. »
 
 Une terrible hypothèse, qui gagnait en crédibilité…
 
-« Le phénix vient, » dit le vieux sorcier. « À ceux qui se battront, à
+« Le phénix vient », dit le vieux sorcier. « À ceux qui se battront, à
 ceux qui agiront même au prix de leur vie, le phénix vient. Les phénix
 ne sont pas sages, Harry, ils ne connaissent aucun moyen de nous juger
 autre que d’être témoins de ce choix. Je pensais courir à ma mort

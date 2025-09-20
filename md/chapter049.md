@@ -18,10 +18,10 @@ les épaules de l’homme se sont redressées, que son visage s’est affermi,
 et que ses chaussures marchent maintenant avec légèreté au-dessus de la
 terre sans laisser de trace de poussière derrière elles.
 
-« Bonjour, professeur Quirrell, » dit Harry sans laisser ses yeux se
+« Bonjour, professeur Quirrell », dit Harry sans laisser ses yeux se
 détourner à nouveau de la charrette.
 
-« Salutations, » dit la voix calme du professeur Quirrell. « Vous semblez
+« Salutations », dit la voix calme du professeur Quirrell. « Vous semblez
 garder vos distance, M. Potter. J’imagine que vous ne remarquez rien
 d’étrange quant à notre moyen de transport ? »
 
@@ -36,7 +36,7 @@ l’affection était réciproque. L’autre cheval squelette, noir et tanné,
 fit un geste de la tête, comme pour piaffer, mais aucun son ne fut
 produit.
 
-« Ce sont des Sombrals, et ils ont toujours tiré la charrette, » dit le
+« Ce sont des Sombrals, et ils ont toujours tiré la charrette », dit le
 professeur Quirrell d’un ton assez paisible, alors qu’il montait sur le
 banc avant de la charrette et s’asseyait le plus à droite possible. « Ils
 ne sont visibles qu’à ceux qui ont vu la mort et l’ont comprise, une
@@ -51,7 +51,7 @@ mort…*
 
 « Vous êtes-vous ce faisant souvenu de quoi que ce soit d’intéressant ? »
 
-« Oui, » dit Harry, « en effet, » cela seulement, et rien de plus, car il
+« Oui », dit Harry, « en effet », cela seulement, et rien de plus, car il
 n’était pas encore prêt à émettre des accusations.
 
 Le professeur de Défense eut un de ses sourires secs et lui fit signe de
@@ -115,7 +115,7 @@ déduction qui *le* prendrait totalement au dépourvu.
 
 
 
-« Je prendrai un bol de soupe au lentilles avec de la sauce soja, » dit le
+« Je prendrai un bol de soupe au lentilles avec de la sauce soja », dit le
 professeur Quirrell à la serveuse. « Et pour M. Potter, un plat de Chili
 Tenorman maison. »
 
@@ -147,7 +147,7 @@ sortilèges d’intimité habituels, et dit : « Une question intéressante,
 Potter. Je me demande pourquoi vous l’avez posée. »
 
 Harry maintint une expression neutre. « Je m’informais sur le Patronus un
-peu plus tôt, » dit-il. « À en croire »Le Patronus : ceux qui en étaient
+peu plus tôt », dit-il. « À en croire »Le Patronus : ceux qui en étaient
 capables et les autres« , il s’avère que Godric n’en était pas capable,
 mais que Salazar, si. J’ai été surpris, alors j’ai suivi la référence,
 dans *Quatre vies de Pouvoir*. Et j’ai *ensuite* découvert que Salazar
@@ -171,10 +171,10 @@ travers mes barrières Occlumantiques. »
 Le professeur Quirrell avait un large sourire. « Je prendrai cela comme
 un compliment, M. Potter, mais non. »
 
-« Je ne marche plus, » dit Harry. « Il est *impossible* que vous en soyez
+« Je ne marche plus », dit Harry. « Il est *impossible* que vous en soyez
 arrivé à cette conclusion en vous basant sur ces informations. »
 
-« Bien sûr que non, » dit calmement le professeur Quirrell. « Je comptais
+« Bien sûr que non », dit calmement le professeur Quirrell. « Je comptais
 vous poser cette question aujourd’hui de toute façon, et j’ai simplement
 choisi un moment opportun. Je le soupçonne depuis décembre, à vrai dire
 - »
@@ -197,7 +197,7 @@ Poudlard ressemblant à des serpents. Double illusion de transparence, il
 avait pensé qu’elle l’avait compris, elle avait pensé qu’il l’avait
 comprise — mais *comment* -
 
-« Donc, » dit Harry, « vous avez opéré une Légilimancie sur moi pendant mon
+« Donc », dit Harry, « vous avez opéré une Légilimancie sur moi pendant mon
 premier cours de Défense afin de découvrir ce qui s’était passé avec le
 Choixpeau — »
 
@@ -210,7 +210,7 @@ clos réexamine le cas d’un certain M. Rubeus Hagrid, que vous savez être
 le Gardien des Clés de Poudlard, et qui a été accusé du meurtre de Mimi
 Geignarde en 1943. »
 
-« Oh, bien sûr, » dit Harry, « voilà qui rend parfaitement *évident* le
+« Oh, bien sûr », dit Harry, « voilà qui rend parfaitement *évident* le
 fait que je suis un Fourchelangue. Professeur, par tous les suaves
 serpents susurrants — »
 
@@ -266,7 +266,7 @@ présenter vos excuses. Ce n’est pas votre faute si vous avez cru aux
 dénégations de Dumbledore quant à son intrusion dans votre intimité
 mentale. »
 
-« Mes excuses les plus sincères, » dit Harry en gardant une expression
+« Mes excuses les plus sincères », dit Harry en gardant une expression
 neutre. Le strict contrôle qu’il exerçait sur lui-même constituait une
 confession à lui seul, tout comme la sueur qui maculait son front ; mais
 il ne pensait pas que le professeur Quirrell en tirerait quelque
@@ -342,14 +342,14 @@ Les sortilèges puissants ne pouvaient être transmis par des fantômes ou
 par des livres, mais si vous pouviez faire une créature sentiente
 capable de vivre assez longtemps et avec une assez bonne mémoire -
 
-« Il me semble très probable, » dit le professeur Quirrell, « que
+« Il me semble très probable », dit le professeur Quirrell, « que
 Celui-Dont-On-Ne-Doit-Pas-Prononcer-Le-Nom a commencé son ascension au
 pouvoir grâce à des secrets obtenus de la bouche du monstre de
 Serpentard. Que le savoir perdu de Salazar est la source de
 l’extraordinaire puissance de Vous-Savez-Qui. D’où mon intérêt pour la
 Chambre des Secrets et le cas de M. Hagrid. »
 
-« Je *vois*, » dit Harry. Et si *lui*, Harry, pouvait trouver la Chambre
+« Je *vois* », dit Harry. Et si *lui*, Harry, pouvait trouver la Chambre
 des Secrets de Salazar… alors tout le savoir perdu que Lord Voldemort
 avait obtenu serait aussi *sien*.
 
@@ -367,7 +367,7 @@ as déjà essayé, mais en parlant en Fourchelangue et pas en anglais -
 arranges-toi pour que Drago te laisse entrer dans les dortoirs
 Serpentard -*
 
-« Ne vous réjouissez pas trop, M. Potter, » dit le professeur Quirrell. Le
+« Ne vous réjouissez pas trop, M. Potter », dit le professeur Quirrell. Le
 visage de ce dernier s’était vidé de toute expression. « Vous devez
 *continuer* de réfléchir. Quels furent les derniers mots du Seigneur des
 Ténèbres à l’intention du monstre ? »
@@ -385,9 +385,9 @@ maintenant rester fermée jusqu’à ce que le prochain descendant de
 Salazar se révèle être assez rusé pour l’ouvrir. Et celui destiné à
 devenir le Seigneur des Ténèbres hoche la tête et lui dit — »
 
-« Avada Kedavra, » dit Harry, se sentant soudain malade.
+« Avada Kedavra », dit Harry, se sentant soudain malade.
 
-« Règle numéro douze, » dit doucement le professeur Quirrell. « Ne laisse
+« Règle numéro douze », dit doucement le professeur Quirrell. « Ne laisse
 jamais la source de ton pouvoir traîner là où quelqu’un pourrait la
 trouver. »
 
@@ -400,7 +400,7 @@ genre de personne *ferait* ça à un être qui ne lui aurait offert rien
 d’autre que de l’amitié… « *Pensez-vous* que le Seigneur des Ténèbres
 aurait — »
 
-« Oui, » dit le professeur Quirrell d’un ton catégorique.
+« Oui », dit le professeur Quirrell d’un ton catégorique.
 « Celui-Dont-On-Ne-Doit-Pas-Prononcer-Le-Nom a laissé un sacré sillage de
 corps derrière lui, M. Potter ; je doute qu’il ai omis celui-ci. S’il y
 avait d’autres artefacts mobiles dans la Chambre, il les aura aussi pris
@@ -412,13 +412,13 @@ Serpentard reposant paisiblement dans sa tombe. »
 
 Ils restèrent silencieux pendant quelques instants.
 
-« Je pourrais avoir tort, » dit le professeur Quirrell. « Ce n’est en fin
+« Je pourrais avoir tort », dit le professeur Quirrell. « Ce n’est en fin
 de compte qu’une conjecture. Mais je souhaitais vous prévenir, M.
 Potter, afin que la déception ne soit pas trop douloureuse. »
 
 Harry hocha légèrement la tête.
 
-« On pourrait presque en venir à regretter votre victoire d’enfant, » dit
+« On pourrait presque en venir à regretter votre victoire d’enfant », dit
 le professeur Quirrell. Son sourire se tordit. « Si seulement
 Vous-Savez-Qui avait vécu, vous auriez pu le persuader de vous enseigner
 une partie du savoir qui aurait été votre héritage, transmit d’un
@@ -432,7 +432,7 @@ Ténèbres, d’une façon ou d’une autre.*
 Il y eut un autre silence. Le professeur Quirrell regardait Harry comme
 s’il attendait à ce que ce dernier lui demande quelque chose.
 
-« Eh bien, » dit Harry, « puisqu’on en parle, pourrais-je vous demander
+« Eh bien », dit Harry, « puisqu’on en parle, pourrais-je vous demander
 comment toute cette histoire de Fourchelangue a — »
 
 On frappa alors à la porte. Le professeur Quirrell leva un doigt, comme
@@ -465,7 +465,7 @@ Sauriez-vous garder un secret, M. Potter ? »
 
 Harry hocha la tête.
 
-« Un secret sérieux, M. Potter, » dit le professeur Quirrell. Ses yeux
+« Un secret sérieux, M. Potter », dit le professeur Quirrell. Ses yeux
 étaient attentifs, son visage solennel. « Un secret qui pourrait
 m’envoyer à Azkaban. Réfléchissez avant de me répondre. »
 
@@ -483,7 +483,7 @@ négatif sur son image aux yeux de Harry. Il n’avait aucun avantage à ne
 au sujet du professeur Quirrell, il serait alors tout à l’avantage de
 Harry de le savoir, même s’il avait promis de ne le dire à personne.
 
-« Je n’ai jamais eu grand respect pour l’autorité, » dit Harry. « Y compris
+« Je n’ai jamais eu grand respect pour l’autorité », dit Harry. « Y compris
 les autorités légales et gouvernementales. Je garderai votre secret. »
 
 Harry ne prit pas la peine de demander si la révélation valait le danger
@@ -491,7 +491,7 @@ qu’elle poserait au professeur Quirrell. Le professeur de Défense
 n’était pas stupide.
 
 « Alors je dois vérifier que vous êtes vraiment un descendant de
-Salazar, » dit le professeur Quirrell, et il se leva de sa chaise. Harry,
+Salazar », dit le professeur Quirrell, et il se leva de sa chaise. Harry,
 mû plus par un réflexe et par son instinct que par un calcul, se
 propulsa hors de sa propre chaise.
 
@@ -513,12 +513,12 @@ de Défense de Poudlard se fut transformé en un serpent venimeux.
 Harry déglutit et dit : « Salutations — ah, hssss, non, ah,
 *ssalutationss.* »
 
-« *Alors*, » siffla le serpent. « *Vouss parlez, j’entends. Je parle, vous
+« *Alors* », siffla le serpent. « *Vouss parlez, j’entends. Je parle, vous
 entendez ?* »
 
 « *Oui, je comprends,* » siffla Harry. *« Vous êtess un Animaguss ? »*
 
-« *Bien ssûr*, » siffla le serpent. « *Trente-ssept règles, numéro
+« *Bien ssûr* », siffla le serpent. « *Trente-ssept règles, numéro
 trente-quatre : Devenir un Animaguss. Touss les gens ssensés le font
 s’ils en ssont capables. Très rare, donc.* » Les yeux du serpent étaient
 des surfaces plates logées dans des abysses noires, des pupilles noires
@@ -536,7 +536,7 @@ Eh bien *voilà* qui soutenait certainement que le Fourchelangue était
 une magie personnelle, pas le résultat d’une population de serpents
 sentiente dotée d’un langage qu’un humain pouvait apprendre -
 
-« *Je ne ssuis pas enregisstré*, » siffla le serpent. Les abysses noires
+« *Je ne ssuis pas enregisstré* », siffla le serpent. Les abysses noires
 fixaient Harry. « *Les Animaguss doivent être enregisstrés. La peine est
 deux ans d’emprisonnement. Garderez-vous mon ssecret, enfant ?* »
 
@@ -553,7 +553,7 @@ Encore la série de courts sifflements rapides qui se traduisaient par un
 rire sardonique. « *Vous arrivez à mon premier cours alors que vous êtes
 encore à un autre, abattez vos ennemis avec tarte, deux Rapeltouts -* »
 
-« *Laisssez tomber*, » siffla Harry. « *Quesstion sstupide, oublié que vous
+« *Laisssez tomber* », siffla Harry. « *Quesstion sstupide, oublié que vous
 étiez malin.* »
 
 « *Sserait idiot de l’oublier,* » dit le serpent, mais le sifflement ne
@@ -594,7 +594,7 @@ puis ses épaules se redressèrent et il fut de nouveau humain.
 Et l’aura de sensation funeste était revenue.
 
 La chaise du professeur Quirrell fila vers lui, et il s’y assit. « Il
-serait absurde de gâcher ceci, » dit le professeur Quirrell en se
+serait absurde de gâcher ceci », dit le professeur Quirrell en se
 saisissant de sa cuillère, « même si pour l’instant je préférerais une
 souris vivante. On ne peut jamais tout à fait délier un esprit du corps
 qu’il porte, voyez-vous… »
@@ -608,12 +608,12 @@ Harry reprit lentement son siège et commença à manger.
 
 
 « Alors finalement la lignée de Salazar n’est pas morte avec
-Vous-Savez-Qui, » dit le professeur Quirrell après un moment. « Il
+Vous-Savez-Qui », dit le professeur Quirrell après un moment. « Il
 semblerait que des rumeurs disant que vous êtes maléfique ont déjà
 commencé à se répandre parmi notre cher corps étudiant ; je me demande
 ce qu’ils penseraient de cela s’ils le savaient. »
 
-« Ou s’ils savaient que j’ai détruit un Détraqueur, » dit Harry, et il
+« Ou s’ils savaient que j’ai détruit un Détraqueur », dit Harry, et il
 haussa les épaules. « J’imagine que toute cette histoire s’apaisera la
 prochaine fois que je ferai quelque chose d’intéressant. Hermione a du
 mal, cela dit, et je me demandais si vous auriez des suggestions pour
@@ -623,12 +623,12 @@ Le professeur de Défense but quelques cuillerées de sa soupe en
 demeurant silencieux, puis ; et lorsqu’il parla, sa voix était
 étrangement neutre : « Vous tenez vraiment à cette fille. »
 
-« Oui, » dit doucement Harry.
+« Oui », dit doucement Harry.
 
 « J’imagine que c’est pourquoi elle a été capable de vous faire sortir de
 votre détraquage ? »
 
-« Plus ou moins, » dit Harry. La phrase était vraie en un sens, mais pas
+« Plus ou moins », dit Harry. La phrase était vraie en un sens, mais pas
 précise ; ce n’était pas que sa personnalité détraquée s’était souciée
 de Hermione mais qu’elle avait été désorientée.
 

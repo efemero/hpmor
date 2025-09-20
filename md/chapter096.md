@@ -11,13 +11,13 @@ morte la veille, Harry Potter semblait étrangement tranquille, sans que
 cela ne laisse toutefois penser qu’il était insensible ou qu’il trouve
 cela normal. *Je ne souhaite pas en parler*, avait dit le garçon, *avec
 vous ou qui que ce soit d’autre*. Il avait dit « souhaite » et non pas
-« veux, » comme pour insister sur le fait qu’il était capable d’utiliser
+« veux », comme pour insister sur le fait qu’il était capable d’utiliser
 des mots d’adulte et de prendre des décisions d’adulte. Remus n’avait pu
 songer qu’à une chose susceptible d’aider après avoir reçu les chouettes
 du professeur McGonagall et de cette étrange homme nommé Quirinus
 Quirrell.
 
-« Il y a beaucoup de maisons vides, » dit Harry, après avoir jeté un
+« Il y a beaucoup de maisons vides », dit Harry, après avoir jeté un
 nouveau coup d’œil.
 
 Godric’s Hollow avait changé pendant la décennie depuis que Remus Lupin
@@ -52,7 +52,7 @@ entendu des rumeurs, mais il n’en croyait pas un mot, pas plus qu’il ne
 croyait que James avait promis son fils en mariage à la plus jeune fille
 de Molly).
 
-« Voilà le monument, » dit Remus en tendant la main vers l’avant.
+« Voilà le monument », dit Remus en tendant la main vers l’avant.
 
 
 
@@ -95,11 +95,11 @@ Au lieu de cela on pouvait voir un homme aux cheveux et aux lunettes
 sales, une femme aux cheveux détachés, un bébé dans ses bras, et c’était
 tout.
 
-« Ça m’a l’air très… normal, » dit Harry, et il sentit que sa voix lui
+« Ça m’a l’air très… normal », dit Harry, et il sentit que sa voix lui
 échappait.
 
 « Madame Londubat et le professeur Dumbledore y ont particulièrement
-tenu, » dit M. Lupin, qui regardait plus Harry que le monument. « Ils ont
+tenu », dit M. Lupin, qui regardait plus Harry que le monument. « Ils ont
 dit que nous devions nous souvenir des Potter comme ils avaient vécu,
 pas comme ils étaient morts. »
 
@@ -117,7 +117,7 @@ commun*. Ses parents biologiques l’auraient beaucoup aimé, et ça
 n’aurait pas aidé grand-monde sauf Harry. Si quelqu’un avait défait leur
 mort…
 
-« Vous étiez leur ami, » dit Harry en se retournant vers Lupin. « Depuis
+« Vous étiez leur ami », dit Harry en se retournant vers Lupin. « Depuis
 longtemps, depuis votre enfance. »
 
 M. Lupin acquiesça silencieusement.
@@ -128,12 +128,12 @@ plus d’importance. C’est plutôt que, étant une créature plus logique
 qu’eux, seul vous êtes conscient du fait que le rôle d’Ami exige cet
 acte de votre part…*
 
-« Quand Lily et James sont morts, » dit Harry, « vous êtes-vous le moins du
+« Quand Lily et James sont morts », dit Harry, « vous êtes-vous le moins du
 monde demandé s’il pourrait y avoir quelque objet magique capable de les
 ramener ? Comme Orphée et Eurydice ? Ou comme les, comment
 s’appelaient-ils déjà, les frères Elrin ? »
 
-« Aucune magie ne peut défaire la mort, » dit doucement M. Lupin. « Il y a
+« Aucune magie ne peut défaire la mort », dit doucement M. Lupin. « Il y a
 certains mystère que les sorciers ne peuvent atteindre. »
 
 « Avez-vous effectué une vérification mentale de ce que vous saviez, de
@@ -147,7 +147,7 @@ M. Lupin secoua la tête.
 
 « Pourquoi pas ? »
 
-« Parce que c’était fait, c’était accompli, » dit Remus Lupin avec
+« Parce que c’était fait, c’était accompli », dit Remus Lupin avec
 gentillesse. « Parce que, où que soient James et Lily à présent, ils
 voudraient que j’agisse pour le bien des vivants, pas pour celui des
 morts. »
@@ -196,7 +196,7 @@ porte d’entrée on ne trouvait plus que des échardes de bois.
 Ici, Lord Voldemort était venu, *en silence, il faisait moins de bruit
 que les feuilles mortes qui glissaient le long des pavés…*
 
-Remus Lupin plaça une main sur l’épaule de Harry. « Touche la porte, » dit
+Remus Lupin plaça une main sur l’épaule de Harry. « Touche la porte », dit
 M. Lupin.
 
 Harry tendit une main et s’exécuta.
@@ -260,7 +260,7 @@ une aube soudaine jaillie des ténèbres sans que personne ne sache même
 Si Lily Potter avait survécu à sa confrontation avec Lord Voldemort,
 c’est ce qu’elle aurait ressenti en voyant que son bébé avait survécu.
 
-« Allons-y, » murmura le bébé, dix ans plus tard.
+« Allons-y », murmura le bébé, dix ans plus tard.
 
 Ils partirent.
 
@@ -291,7 +291,7 @@ d’intensité, les sorciers ont de meilleures raisons d’espérer…*
 dépassèrent deux pierres relativement neuves marquées *Kendra
 Dumbledore* et *Ariana Dumbledore*.
 
-« Depuis très, très longtemps, » dit M. Lupin.
+« Depuis très, très longtemps », dit M. Lupin.
 
 Ils s’avancèrent dans le cimetière, en atteignirent presque le bout,
 derrière tous ces morts, tous pleurés.
@@ -344,7 +344,7 @@ Le symbole des Reliques de la Mort.
 
 Et Harry comprit.
 
-« Ils ont essayé, » chuchota Harry.
+« Ils ont essayé », chuchota Harry.
 
 *Les trois frères Peverell.*
 
@@ -377,12 +377,12 @@ message, pas ici.
 
 *Vous étiez véritablement mon père et ma mère.*
 
-« Ça ne parle pas de ressusciter les morts, Harry, » dit M. Lupin. « Ça
+« Ça ne parle pas de ressusciter les morts, Harry », dit M. Lupin. « Ça
 parle d’accepter la mort, de pouvoir la dépasser, la maîtriser. »
 
 « Est-ce que James vous a dit ça ? » dit Harry d’une voix étrange.
 
-« Non, » dit M. Lupin, « mais… »
+« Non », dit M. Lupin, « mais… »
 
 « Bien. »
 
@@ -405,7 +405,7 @@ Harry ! »
 
 *Ah oui, pour ce qu’il en sait, je ne peux pas…*
 
-Harry sourit, rit même un peu. « Il ne vaut mieux pas, » dit Harry. « Si
+Harry sourit, rit même un peu. « Il ne vaut mieux pas », dit Harry. « Si
 j’essayais de lancer le sortilège dans mon état d’esprit actuel, ça me
 tuerait probablement. »
 
@@ -414,7 +414,7 @@ tuerait probablement. »
 Harry James Potter-Evans-Verres leva sa main gauche, toujours en riant,
 et essuya quelques-unes des larmes.
 
-« Vous savez, M. Lupin, » dit Harry, « il faut vraiment être capable
+« Vous savez, M. Lupin », dit Harry, « il faut vraiment être capable
 d’interpréter les choses de façon *baroque* pour pouvoir penser que
 quelqu’un, songeant que la mort est une chose que nous devrions tous
 accepter, communiquerait son état d’esprit en disant : “Le dernier
@@ -431,9 +431,9 @@ détruit” fait référence à une situation future, cela ne peut donc pas
 parler de l’état actuel des choses. »
 
 Remus Lupin le regardait avec des yeux écarquillés. « Tu es certainement
-l’enfant de James et Lily, » dit l’homme d’un air plutôt stupéfait.
+l’enfant de James et Lily », dit l’homme d’un air plutôt stupéfait.
 
-« Oui, effectivement, » dit Harry. Mais ça ne suffisait pas, il devait
+« Oui, effectivement », dit Harry. Mais ça ne suffisait pas, il devait
 faire plus, alors il leva sa baguette et dit d’une voix aussi assurée
 que possible : « Je suis Harry James Potter-Evans-Verres, le fils de Lily
 et James Potter de la maison Potter, et j’accepte la quête de ma
@@ -464,20 +464,20 @@ soleil encore radieux.
 
 *Quelques temps plus tard :*
 
-« Merci encore, M. Lupin, » dit Harry au grand homme légèrement balafré
+« Merci encore, M. Lupin », dit Harry au grand homme légèrement balafré
 qui se préparait à repartir. « Même si j’aurais vraiment aimé que vous
 ne… »
 
 « Le professeur Dumbledore a dit que je devais te ramener par Portoloin à
 Poudlard si quoi que ce soit d’inhabituel arrivait, que cela ressemble à
-une attaque ou non, » dit M. Lupin avec conviction. « Ce qui est fort
+une attaque ou non », dit M. Lupin avec conviction. « Ce qui est fort
 raisonnable. »
 
 Harry hocha la tête. Puis, ayant choisi avec soin de prononcer cette
 question en dernier : « Avez-vous la moindre idée de ce que ces mots
 signifiaient ? »
 
-« Si je le savais, je ne te le dirais pas, » dit M. Lupin d’un air plutôt
+« Si je le savais, je ne te le dirais pas », dit M. Lupin d’un air plutôt
 sévère. « Certainement pas sans la permission du professeur Dumbledore.
 Je peux comprendre ton impatience, mais tu ne devrais essayer de
 découvrir aucun secret ancestral des Potter avant d’être un adulte.

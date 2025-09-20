@@ -65,14 +65,14 @@ occupant le même espace que les 3 êtres inférieurs, l’entité montagneuse
 qui les avait accueilli à leur sortie du train et s’était présenté sous
 le nom de Hagrid, gardien des Clés et des Lieux.
 
-« Est-ce que l’homme debout sur sa chaise est à la tête de Serdaigle ?, »
+« Est-ce que l’homme debout sur sa chaise est à la tête de Serdaigle ? »,
 chuchota Harry à Hermione.
 
 Pour une fois, Hermione ne répondit pas immédiatement ; elle n’arrêtait
 pas de se dandiner en fixant le Choixpeau avec tant d’énergie que Harry
 crut que ses pieds allaient se décoller du sol.
 
-« Oui, » répondit l’un des préfets qui les accompagnaient, une jeune femme
+« Oui », répondit l’un des préfets qui les accompagnaient, une jeune femme
 aux couleurs de Serdaigle. Mademoiselle Deauclaire, si Harry se
 souvenait bien. Sa voix était douce, mais avait une note de fierté.
 « C’est le professeur d’enchantements de Poudlard, Filius Flitwick,
@@ -112,7 +112,7 @@ ancêtre commun comme *Homo Erectus*, ou si les gobelins avaient été
 *faits* par les humains… par exemple s’ils étaient toujours
 génétiquement humains, mais sous l’effet un enchantement transmissible
 dont l’effet magique n’était dilué que si un seul des parents était
-« gobelin, » ce qui expliquerait que les métissages soient possibles,
+« gobelin », ce qui expliquerait que les métissages soient possibles,
 auquel cas les gobelins ne seraient *pas* un inestimable indice quant à
 la possibilité que l’intelligence apparaisse chez des espèces autres que
 *Homo sapiens*… en y réfléchissant, les gobelins de Gringotts ne lui
@@ -120,12 +120,12 @@ avaient *pas* semblé posséder des intelligences particulièrement
 étranges et non humaines, rien qui ressemble aux Marionnettistes ou au
 Dirdir… « je me demande d’où les gobelins *viennent*. »
 
-« Lituanie, » murmura distraitement Hermione, ses yeux toujours fixés sur
+« Lituanie », murmura distraitement Hermione, ses yeux toujours fixés sur
 le Choixpeau.
 
 Maintenant, la préfète souriait à Hermione.
 
-« Laisse tomber, » murmura Harry.
+« Laisse tomber », murmura Harry.
 
 Au pupitre, le professeur McGonagall s’exclama : « Goldstein, Anthony ! »
 
@@ -184,11 +184,11 @@ hébétée et était allé s’égarer dans la cinquième voiture en partant de
 l’avant et dans le quatrième compartiment à gauche, qui contenait en
 effet sa tortue.)
 
-« Malefoy, Drago !, » alla à Serpentard, et Harry lâcha un soupir de
+« Malefoy, Drago ! », alla à Serpentard, et Harry lâcha un soupir de
 soulagement. Ça avait *semblé* certain, mais vous ne saviez jamais quel
 petit évènement pouvait bouleverser le cours de votre grand projet.
 
-Le professeur McGonagall appela « Perks, Sally-Anne, » et des enfants
+Le professeur McGonagall appela « Perks, Sally-Anne », et des enfants
 réunis s’échappa une fille pâle et maigrelette, étrangement éthérée —
 comme si elle risquait de disparaitre dès l’instant où vous arrêteriez
 de la regarder, pour être immédiatement oubliée à jamais.
@@ -214,7 +214,7 @@ d’intéressant dans sa vie. Accrochant un sourire faussement sûr de lui à
 son visage, il leva un pied…
 
 « Harry Potter ! » cria la voix de Fred ou George Weasley, puis l’autre
-jumeau reprit : « Harry Potter !, » et, un moment plus tard, toute la
+jumeau reprit : « Harry Potter ! », et, un moment plus tard, toute la
 table Gryffondor les imita, avant d’être rejointe par une bonne partie
 de Serdaigle et Poufsouffle.
 
@@ -245,7 +245,7 @@ l’autre en avançant entre les quatre tables des Maisons à un pas fort
 mesuré, tel un prince recevant son château en héritage.
 
 *« Sauve-nous d’autres Seigneurs !* » s’écria l’un des jumeaux Weasley, et
-l’autre enchaina alors : « *Surtout si ce sont des professeurs !*, » ce
+l’autre enchaina alors : « *Surtout si ce sont des professeurs !* », ce
 qui fit éclater de rire toutes les tables, à l’exception de Serpentard.
 
 Les lèvres de Minerva formèrent une ligne blanche. Elle aurait un mot

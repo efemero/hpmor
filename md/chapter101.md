@@ -35,7 +35,7 @@ lame de métal aux dimensions exagérées. Son fil ne réfléchissait pas la
 lumière de la lune ; et Harry avait lu un jour qu’un fil réfléchissant
 était le signe d’une lame émoussée.
 
-« Alors, » dit le centaure. Sa voix était basse, puissante et masculine.
+« Alors », dit le centaure. Sa voix était basse, puissante et masculine.
 « Te voilà, entouré de destruction. Je peux sentir le sang de licorne
 flotter dans les airs, le sang d’une chose innocente, tuée en échange de
 la vie d’un autre. »
@@ -57,7 +57,7 @@ Les yeux de Harry passèrent sur la pointe de la lance et il se rendit
 alors compte qu’il aurait dû se saisir de son Retourneur de Temps au
 moment où il avait vu le centaure. Maintenant, s’il essayait de le
 prendre sous ses robes, et si le centaure était assez rapide, la lance
-pourrait le frapper avant qu’il n’y parvienne. « J’ai un jour lu, » dit
+pourrait le frapper avant qu’il n’y parvienne. « J’ai un jour lu », dit
 Harry d’une voix légèrement instable, essayant de répondre aux paroles
 apparemment profondes par d’autres à l’apparence toute aussi profonde,
 « que c’est une erreur de penser que les petits enfants sont innocents,
@@ -68,7 +68,7 @@ plus grandes. Et certains adultes sont la cause de grandes douleurs.
 Mais ceux qui ne le sont pas, ne sont-ils pas plus innocents que des
 enfants ? »
 
-« La sagesse des sorciers, » dit le centaure.
+« La sagesse des sorciers », dit le centaure.
 
 « À vrai dire, des Moldus. »
 
@@ -116,7 +116,7 @@ visible. Donc l’hypothèse évidente, c’est que les centaures naissent
 avec un don de divination magique et que vous, eh bien, que vous
 *projetez* ce talent sur le ciel. »
 
-« Peut-être, » dit le centaure d’un ton pensif. Il baissa la tête. « Les
+« Peut-être », dit le centaure d’un ton pensif. Il baissa la tête. « Les
 autres vous pourfendraient pour avoir prononcé ces paroles, mais j’ai
 toujours cherché à savoir ce que j’ignorais. Pourquoi le ciel nocturne
 peut prédire l’avenir — cela, je l’ignore très certainement. Il est déjà
@@ -170,7 +170,7 @@ La main de Harry bondit vers ses robes, vers son Retourneur de Temps, et
 l’arrière de la lance frappa sa main, assez fort pour lui briser les
 doigts ; il tendit son autre main et elle fut aussi repoussée…
 
-« Je suis désolé, Harry Potter, » dit le centaure, puis il leva des yeux
+« Je suis désolé, Harry Potter », dit le centaure, puis il leva des yeux
 écarquillés. La lance pivota et intercepta un sortilège rouge. Puis le
 centaure abaissa la lance et bondit désespérément, un éclair vert passa
 à côté de lui, puis un autre suivit, et enfin un troisième le frappa de
@@ -186,7 +186,7 @@ revenus.
 
 « P-Professeur Quirrell ? Que faites-vous ici ? »
 
-« Eh bien, » dit l’homme en cape noire d’un ton pensif, « *vous* aviez
+« Eh bien », dit l’homme en cape noire d’un ton pensif, « *vous* aviez
 besoin de piquer une colère bruyante en pleine la Forêt interdite au
 milieu de la nuit, et *moi* j’avais besoin de m’éloigner de votre
 capacité à me détecter et de vous surveiller. On ne laisse pas un élève
@@ -209,7 +209,7 @@ de vous *tuer*. Il était loin d’être innocent… »
 Le professeur Quirrell se tut et regarda Harry, qui avait levé une main
 tremblante jusqu’à sa bouche.
 
-« Bien, » dit alors le professeur de Défense, « j’ai fait ma remarque,
+« Bien », dit alors le professeur de Défense, « j’ai fait ma remarque,
 libre à vous d’y songer. Les lances de centaures peuvent bloquer de
 nombreux sortilèges, mais personne n’essaie de bloquer quand le sort est
 d’un vert particulier. Dans ce but, il est utile de connaître quelques
@@ -227,7 +227,7 @@ La baguette demeura ici un moment.
 
 Et le centaure se leva, les yeux vides. Il respirait à nouveau.
 
-« Oublie tout ceci, » ordonna le professeur de Défense. « File, et oublie
+« Oublie tout ceci », ordonna le professeur de Défense. « File, et oublie
 tout de cette nuit. »
 
 Le centaure s’en fut ; les quatre jambes de cheval étrangement
@@ -279,7 +279,7 @@ en rond, on avait jeté des regards accusateurs et proféré des remarques
 cinglantes à deux heures du matin. Il y avait eu des propositions, des
 votes et des conséquences.
 
-« Penses-tu, » dit doucement le directeur à Harry, après que tout fut fini
+« Penses-tu », dit doucement le directeur à Harry, après que tout fut fini
 et qu’ils furent seuls, « que la Poudlard que tu as fabriquée est
 meilleure que l’ancienne ? »
 
@@ -288,11 +288,11 @@ de la salle de conférence que tous les autres avaient à présent quittée.
 Le professeur McGonagall, qui n’utilisait pas un Retourneur de Temps de
 façon aussi routinière qu’eux, était prestement partie se coucher.
 
-« Oui, » répondit Harry au bout d’une hésitation trop longue. « De mon
+« Oui », répondit Harry au bout d’une hésitation trop longue. « De mon
 point de vue, M. le directeur, Poudlard est enfin, enfin normale. C’est
 ce qui devrait se produire quand quatre enfants sont envoyés nuitamment
 dans la Forêt interdite. Il devrait y avoir du tapage, on devrait faire
-venir la police, et les responsables devraient être renvoyés. »Argus Rusard a servi cette institution pendant plusieurs décennies.« »Et quand on lui a donné du Veritaserum,« dit Harry d’un ton fatigué, »il a révélé avoir envoyé un garçon de onze ans dans la Forêt interdite
+venir la police, et les responsables devraient être renvoyés. »Argus Rusard a servi cette institution pendant plusieurs décennies.« »Et quand on lui a donné du Veritaserum,« dit Harry d’un ton fatigué »,il a révélé avoir envoyé un garçon de onze ans dans la Forêt interdite
 dans l’espoir que quelque chose d’horrible lui arriverait, parce qu’il
 pensait que le père de l’enfant avait tué son chat. Il n’a pas semblé
 avoir été alarmé par la présence des trois autres enfants en compagnie
@@ -335,7 +335,7 @@ rien à y redire. Le tour joué par Argus n’était pas si terrible, Harry
 Potter. Et Rubeus aurait pu s’adapter à son poste. Ça aurait été… tout
 ce que Rubeus aurait voulu, son plus cher désir… »
 
-« Votre erreur, » dit Harry en regardant ses genoux, et avec le sentiment
+« Votre erreur », dit Harry en regardant ses genoux, et avec le sentiment
 d’être à au moins dix pour cent de son niveau de fatigue maximal
 historique, « est un biais cognitif que l’on appellerait dans le métier
 insensibilité à l’échelle. Incapacité à multiplier. Vous pensez au
@@ -346,7 +346,7 @@ Serpencendres. Aucun élève ne souffrirait autant que M. Hagrid ne serait
 heureux, mais il y aurait cent élèves en souffrance et un seul
 professeur heureux. »
 
-« Peut-être, » dit le vieux sorcier. « Et ton erreur, Harry, c’est de ne
+« Peut-être », dit le vieux sorcier. « Et ton erreur, Harry, c’est de ne
 pas ressentir la douleur de ceux auxquels tu fais du mal, une fois tes
 multiplications terminées. »
 
@@ -365,7 +365,7 @@ sans provoquer de paradoxe. »
 « C’est moi ? Oui, je crois que c’est moi. » Harry secoua la tête d’un air
 distant. « Pardon. »
 
-« À quelques rares exceptions près, » dit Dumbledore, « les centaures
+« À quelques rares exceptions près », dit Dumbledore, « les centaures
 n’aiment pas du tout les sorciers. »
 
 « Il était un peu plus précis que ça. »
@@ -381,5 +381,5 @@ elles-mêmes, c’est toi. »
 Harry leva les yeux et vit que les yeux bleus derrière les lunettes en
 demi-lune étaient à nouveau doux.
 
-« Ne t’en fais pas trop, » dit Albus Dumbledore.
+« Ne t’en fais pas trop », dit Albus Dumbledore.
 

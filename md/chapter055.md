@@ -105,7 +105,7 @@ restée en position de départ pour le Patronus et n’avait pas bougé.)
 
 *La présence des Détraqueurs interfère avec la partie de toi consacrée
 au bonheur. Si tu ne peux pas retrouver ta pensée heureuse par
-association mnémonique en utilisant la clé « joie, » peut-être que tu peux
+association mnémonique en utilisant la clé « joie », peut-être que tu peux
 l’atteindre par un autre chemin. Quelle était la dernière fois que tu as
 parlé du Patronus à quelqu’un ?*
 
@@ -370,10 +370,10 @@ autorisait quelques moyens rapides d’*entrer* à Azkaban, tous hautement
 restreints, mais *aucun* moyen d’en sortir rapidement).
 
 Li fit un bon pas en arrière, dirigea sa baguette vers l’armoire et
-prononça l’incantation : « *Harmonia Nectere Passus*, » et même pas une
+prononça l’incantation : « *Harmonia Nectere Passus* », et même pas une
 seconde plus tard -
 
-La porte de l’armoire s’ouvrit grand, accompagnée d’un « boum, » et une
+La porte de l’armoire s’ouvrit grand, accompagnée d’un « boum », et une
 sorcière costaude à la mâchoire carrée entra dans la pièce. Elle avait
 des cheveux gris qui formaient un cadre serré autour de sa tête. Elle ne
 portait ni insigne ni bijoux ni aucun ornement, seules les robes
@@ -431,13 +431,13 @@ recherché.
 
 Les orbites noires s’ouvrirent.
 
-« Chère Bella, » dit Harry de sa voix froide et aiguë, « j’ai bien peur que
+« Chère Bella », dit Harry de sa voix froide et aiguë, « j’ai bien peur que
 nous ayons un léger problème. As-tu suffisamment récupéré pour pratiquer
 des sortilèges simples ? »
 
 Il y eut une pause, puis Bellatrix hocha son pâle visage.
 
-« Très bien, » dit Harry d’un ton sec. « Je ne vais pas te demander de le
+« Très bien », dit Harry d’un ton sec. « Je ne vais pas te demander de le
 faire sans aide, chère Bella, mais j’ai peur qu’il te faille marcher. »
 Il dirigea sa baguette vers elle. « *Wingardium Leviosa*. »
 
@@ -490,7 +490,7 @@ Le serpent ne broncha pas.
 
 « Devrais-je essayer de nouveau, seigneur ? » chuchota-t-elle.
 
-« Non, » dit Harry. Il ravala son malaise. Lorsqu’il s’était rendu compte
+« Non », dit Harry. Il ravala son malaise. Lorsqu’il s’était rendu compte
 que les Détraqueurs avaient probablement déjà alerté les Aurors, il
 avait décidé de jouer le tout pour le tout et d’essayer de réanimer le
 professeur Quirrell. Sa voix haute perchée et glaciale continua,
@@ -500,7 +500,7 @@ d’Oubliettes, chère Bella ? »
 Bella marqua une pause puis dit en hésitant : « Je pense que oui,
 seigneur. »
 
-« Élimine la dernière demi-heure de souvenirs de cet Auror, » ordonna
+« Élimine la dernière demi-heure de souvenirs de cet Auror », ordonna
 Harry. Il avait un peu réfléchi à son envie de fournir une explication à
 cet ordre, à ce qu’il dirait si Bellatrix demandait pourquoi ils ne se
 contentaient pas de le tuer, auquel cas Harry expliquerait qu’ils
@@ -512,7 +512,7 @@ silencieuse pendant un moment, et murmura enfin : « *Oubliettes*. »
 
 Elle chancela alors, mais elle ne tomba pas.
 
-« Très bien, ma chère Bella, » dit Harry, et il gloussa légèrement. « Et je
+« Très bien, ma chère Bella », dit Harry, et il gloussa légèrement. « Et je
 vais te demander de porter ce serpent. »
 
 À nouveau la femme ne dit rien, ne demanda aucune explication, ne
@@ -528,7 +528,7 @@ pourrait carrément s’habituer à avoir un laquais tel que Bellatrix avant
 d’être réduite au silence par les cris du reste de son être mortellement
 offensé).
 
-« Suis, » ordonna le garçon à son laquais, et il commença à marcher.
+« Suis », ordonna le garçon à son laquais, et il commença à marcher.
 
 
 
@@ -543,10 +543,10 @@ directrice Bones allait se sentir à l’étroit, il valait mieux ne pas
 respirer.
 
 Amélia regarda Ora, qui tripotait le miroir de l’Auror McCusker.
-« Spécialiste Weinbach, » aboya-t-elle, ce qui fit sursauter la sorcière.
+« Spécialiste Weinbach », aboya-t-elle, ce qui fit sursauter la sorcière.
 « Une réponse du miroir de Une-Main ? »
 
-« Aucune, » dit Ora d’un ton nerveux, « c’est… je veux dire, il doit être
+« Aucune », dit Ora d’un ton nerveux, « c’est… je veux dire, il doit être
 brouillé, pas détruit, brouillé avec précaution, car il n’a déclenché
 aucune des alarmes, mais la ligne est tellement morte que le miroir
 pourrait être cassé et qu’on ne verrait pas la différence… »
@@ -600,7 +600,7 @@ au lieu de faire ce qu’il fallait.
 
 « Très bien, vous tous ! » mugit-elle à leur intention. « On arrête de
 traîner ici et on commence à sécuriser le niveau supérieur de chaque
-spirale ! C’est ça, » répondit-elle aux airs surpris, « les trois
+spirale ! C’est ça », répondit-elle aux airs surpris, « les trois
 spirales ! Ils pourraient percer un tunnel dans le sol ou le plafond
 pour passer de l’un à l’autre, au cas où vous ne l’auriez pas déjà
 deviné ! On descend niveau par niveau jusqu’à les avoir attrapés ! Je
@@ -694,7 +694,7 @@ n’était pas bonne.
 avoir de plan il y a une minute ? Tu devrais être content qu’on ait
 quelque chose, monsieur Maintenant-On-Est-Foutus.*
 
-« Seigneur, » murmura Bellatrix d’un ton hésitant, alors même qu’elle
+« Seigneur », murmura Bellatrix d’un ton hésitant, alors même qu’elle
 abordait la prochaine volée de marches descendantes, « vais-je retourner
 dans ma cellule, seigneur ? »
 
@@ -703,7 +703,7 @@ absorber les mots, puis un autre pour comprendre leur horreur, et
 pendant ce temps, Bellatrix continua de parler :
 
 « Je préférerais… s’il vous plaît, seigneur, je préférerais vraiment
-mourir, » dit sa voix. Puis, d’une voix plus petite, un chuchotement à
+mourir », dit sa voix. Puis, d’une voix plus petite, un chuchotement à
 peine présent : « mais j’y retournerais si vous me le demandez,
 seigneur… »
 
@@ -833,12 +833,12 @@ un cri. « Non, non, non, ne pars pas, ne l’emmène pas, non non non —�
 
 Il y avait une lumière dans le couloir, et elle s’intensifiait.
 
-« S’il te plaît, » sanglota la voix de la femme, « s’il te plaît, je ne
+« S’il te plaît », sanglota la voix de la femme, « s’il te plaît, je ne
 sais plus comment mes enfants s’appellent — »
 
-« Assieds-toi, Bella, » dit la voix de Harry, et il parvint, sans savoir
+« Assieds-toi, Bella », dit la voix de Harry, et il parvint, sans savoir
 comment, à prononcer ces mots d’un chuchotement glacé, « je dois
-m’occuper de cela, » le sortilège de lévitation diminua puis se désactiva
+m’occuper de cela », le sortilège de lévitation diminua puis se désactiva
 lorsque Bella s’assit avec obéissance, sa silhouette squelettique
 formant une tache sombre sur le couloir de plus en plus lumineux.
 
@@ -909,7 +909,7 @@ Une partie avait été perdue sous la forme de radiation.
 
 Mais il lui en restait assez pour rester sur pied et pour maintenir une
 certaine luminosité dans la silhouette d’argent ; et lorsque son bras
-armé se leva et que sa voix murmura « Wingardium Leviosa, » la magie
+armé se leva et que sa voix murmura « Wingardium Leviosa », la magie
 obéit, s’écoula hors de lui et aida Bellatrix à se remettre sur pied
 (car ce n’était pas sa magie qu’il avait dépensée, sa magie n’avait
 jamais été le combustible du Patronus).
@@ -983,7 +983,7 @@ camp, on doit se serrer les coudes, que Bones apprécie ou pas.*
 
 Par une pensée, son moineau d’argent voleta jusqu’à son épaule.
 
-« Ralentis pour garder nos arrières, » murmura-t-elle doucement, presque
+« Ralentis pour garder nos arrières », murmura-t-elle doucement, presque
 sans remuer ses lèvres, « attends jusqu’à ce que personne ne te regarde
 directement, puis vas voir Albus Dumbledore. S’il n’est pas déjà seul,
 attends qu’il le soit. Et dis-lui cela : Bellatrix Black s’échappe
