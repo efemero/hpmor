@@ -544,16 +544,16 @@ Rapeltout ici — »
 as ma parole que celui que Ernie tient dans sa main est à Neville. Aucun
 commentaire en ce qui concerne celui de Gregory Goyle. »
 
-Zabini se tourna vers Drago. « *Malefoy !* Tu ne vas pas le laisser s’en
+Zabini se tourna vers Drago. « *Malfoy !* Tu ne vas pas le laisser s’en
 tirer avec ce — »
 
 « Tais-toi, toi, » gronda M. Crabbe, qui se tenait derrière Drago. « M.
-Malefoy n’a pas besoin que *tu* lui dises ce qu’il doit faire ! »
+Malfoy n’a pas besoin que *tu* lui dises ce qu’il doit faire ! »
 
 *Bon* laquais.
 
-« Mon pari était avec Drago, de la Noble et Ancienne Maison Malefoy, » dit
-Harry. « Pas avec toi, Zabini. J’ai fait ce que M. Malefoy a dit qu’il
+« Mon pari était avec Drago, de la Noble et Ancienne Maison Malfoy, » dit
+Harry. « Pas avec toi, Zabini. J’ai fait ce que M. Malfoy a dit qu’il
 aimerait me voir faire, et pour le jugement de ce pari, je m’en
 remettrai à lui. » Harry inclina sa tête vers Drago et releva légèrement
 ses sourcils. Ça devrait permettre à Drago de sauver la face.
@@ -568,7 +568,7 @@ possession. »
 
 Drago hocha la tête, l’air décidé. « Alors je ne remettrai pas en
 question la parole de la Noble Maison de Potter, peu importe que tout
-cela ait été très étrange. Et la Noble et Ancienne Maison Malefoy tient
+cela ait été très étrange. Et la Noble et Ancienne Maison Malfoy tient
 aussi sa parole. M. Goyle, donnez cela à M. Potter — »
 
 « Hé ! » dit Zabini. « Il n’a pas *encore* gagné, il n’a pas mis la main
@@ -1094,7 +1094,7 @@ semble probablement très charmant, » dit Dumbledore. « Poli — avec 
 moins. Choisissant bien ses mots, peut-être même admiratif. Toujours
 prêt à aider, à faire une faveur, à prodiguer un conseil — »
 
-« Oh, *Drago Malefoy* ! » dit Harry, se sentant plutôt soulagé qu’il ne
+« Oh, *Drago Malfoy* ! » dit Harry, se sentant plutôt soulagé qu’il ne
 s’agisse pas de Hermione ou de quelqu’un d’autre. « Oh non, non non non,
 vous vous trompez complètement, il ne me convertit pas, c’est moi qui le
 convertis. »
@@ -1115,12 +1115,12 @@ ne soit que l’attrait, l’appât — »
 passer pour un gentil alors il est sacrément nul. Ce n’est pas que Drago
 soit venu me voir, tout charmant, et que j’ai décidé qu’il devait avoir
 un noyau de bonté cachée au fond de lui. Je vise sa rédemption à lui en
-particulier parce qu’il est l’héritier de la Maison Malefoy, et que s’il
+particulier parce qu’il est l’héritier de la Maison Malfoy, et que s’il
 faut choisir une personne à sauver, c’est forcément lui. »
 
 L’œil gauche de Dumbledore eut un léger mouvement convulsif. « Tu essaies
 de planter les graines de l’amour et de la gentillesse dans le cœur de
-Drago parce que tu t’attends à ce que l’héritier des Malefoy te soit
+Drago parce que tu t’attends à ce que l’héritier des Malfoy te soit
 utile ? »
 
 « Pas seulement à *moi* ! » dit Harry d’une voix indignée. « À toute
@@ -1378,7 +1378,7 @@ de ta mère. »
 « *Qui contient un terrible secret.* Un secret dont la révélation
 pourrait être si désastreuse que je dois te demander de prêter serment -
 et je te demande de le faire sérieusement, Harry, quoi que tu penses de
-tout cela — de ne jamais le dire à quelqu’un ni à quoi que ce soit.
+tout cela — de ne jamais le dire à quelqu’un ni à quoi que ce soit. »
 
 Harry examina le manuel de Potions de cinquième année de sa mère qui,
 apparemment, contenait un terrible secret.
@@ -1387,15 +1387,29 @@ Le problème, c’était que Harry *prenait* les serments très sérieusement.
 Un vœu était un Vœu Inviolable lorsqu’il était prononcé par un certain
 genre de personne.
 
-Et… »J’ai soif,« dit Harry, »et ce n’est pas du tout bon signe.« Dumbledore négligea totalement de l’interroger au sujet de cette
-déclaration sibylline. »*Prêtes-tu* serment, Harry ?« dit Dumbledore.
-Ses yeux se plongèrent dans ceux de Harry. »Sinon, je ne peux pas te le
-dire.« »Oui,« dit Harry. »Je promets.« C’était le problème quand vous étiez
+Et…
+
+« J’ai soif, » dit Harry, « et ce n’est pas du tout bon signe. »
+
+Dumbledore négligea totalement de l’interroger au sujet de cette
+déclaration sibylline. « *Prêtes-tu* serment, Harry ? » dit Dumbledore.
+Ses yeux se plongèrent dans ceux de Harry. « Sinon, je ne peux pas te le
+dire. »
+
+« Oui, » dit Harry. « Je promets. » C’était le problème quand vous étiez
 Serdaigle. Vous ne pouviez pas refuser une offre pareille ou votre
-curiosité vous dévorerait vivant, et tout le monde le savait. »Et je prête à mon tour serment,« dit Dumbledore, »que ce que je suis
-sur le point de te dire est la vérité.« Dumbledore ouvrit le livre, apparemment au hasard, et Harry se pencha
-pour mieux voir. »Vois-tu ces notes,« dit Dumbledore d’une voix si basse que c’était
-presque un murmure, »écrites dans les marges du livre ?« Harry plissa un peu les yeux. Les pages jaunissantes semblaient décrire
+curiosité vous dévorerait vivant, et tout le monde le savait.
+
+« Et je prête à mon tour serment, » dit Dumbledore, « que ce que je suis
+sur le point de te dire est la vérité. »
+
+Dumbledore ouvrit le livre, apparemment au hasard, et Harry se pencha
+pour mieux voir.
+
+« Vois-tu ces notes, » dit Dumbledore d’une voix si basse que c’était
+presque un murmure, « écrites dans les marges du livre ? »
+
+Harry plissa un peu les yeux. Les pages jaunissantes semblaient décrire
 quelque chose nommé *potion de la splendeur de l’aigle*, et plusieurs
 des ingrédients étaient des objets que Harry ne connaissait pas du tout
 et dont les noms ne semblaient pas venir de l’anglais. Dans la marge se
@@ -1403,24 +1417,42 @@ trouvait une annotation gribouillée qui disait : *Je me demande ce qui
 se passerait si tu utilisais du sang Thestral à la place des
 myrtilles ?* et immédiatement en-dessous se trouvait une réponse d’une
 écriture différente : *Tu serais malade pendant des semaines et tu
-mourrais peut-être*. »Je les vois,« dit Harry. »Et alors ?« Dumbledore indiqua le second gribouillage. »Cette écriture,« dit-il,
-toujours d’une voix basse, »est celle de ta mère. Et *cette* écriture,« déplaçant son doigt pour indiquer le premier gribouillage, »est la
+mourrais peut-être*.
+
+« Je les vois, » dit Harry. « Et alors ? »
+
+Dumbledore indiqua le second gribouillage. « Cette écriture, » dit-il,
+toujours d’une voix basse, « est celle de ta mère. Et *cette* écriture, »
+déplaçant son doigt pour indiquer le premier gribouillage, « est la
 mienne. Je me rendais invisible et me glissais dans sa chambre pendant
 qu’elle dormait. Lily pensait qu’un de ses amis les écrivait et ils
-avaient des disputes des plus phénoménales.« C’est à ce moment exact que Harry se rendit compte que le directeur de
+avaient des disputes des plus phénoménales. »
+
+C’est à ce moment exact que Harry se rendit compte que le directeur de
 Poudlard *était* bel et bien dingue.
 
-Dumbledore le regardait avec sérieux. »Comprends-tu les implications de
-ce que je viens de te dire, Harry ?« »Ehhh…« dit Harry. Sa voix avait l’air d’être bloquée. »Désolé… je… pas
-vraiment…« »Ah, eh bien,« dit Dumbledore, et il soupira. »J’imagine que ton
+Dumbledore le regardait avec sérieux. « Comprends-tu les implications de
+ce que je viens de te dire, Harry ? »
+
+« Ehhh… » dit Harry. Sa voix avait l’air d’être bloquée. « Désolé… je… pas
+vraiment… »
+
+« Ah, eh bien, » dit Dumbledore, et il soupira. « J’imagine que ton
 intelligence a des limites après tout. Il semblerait que mon
 enthousiasme ait été grandement prématuré. Pourrions-nous tous deux
-prétendre que je n’ai rien dit d’incriminant ?« Harry se leva de sa chaise, un sourire figé sur le visage. »Bien sûr,« dit Harry. »Vous savez, il se fait assez tard et j’ai un peu faim, alors
-je devrais vraiment aller dîner,« et il fonça droit vers la porte.
+prétendre que je n’ai rien dit d’incriminant ? »
 
-La poignée semblait être en panne. »Tu m’as blessé, Harry,« dit la voix de Dumbledore sur un ton doux
-venant de juste derrière Harry. »Ne te rends-tu pas au moins compte que
-ce que je t’ai dit est un signe de confiance ?« Harry se retourna lentement.
+Harry se leva de sa chaise, un sourire figé sur le visage. « Bien sûr, »
+dit Harry. « Vous savez, il se fait assez tard et j’ai un peu faim, alors
+je devrais vraiment aller dîner, » et il fonça droit vers la porte.
+
+La poignée semblait être en panne.
+
+« Tu m’as blessé, Harry, » dit la voix de Dumbledore sur un ton doux
+venant de juste derrière Harry. « Ne te rends-tu pas au moins compte que
+ce que je t’ai dit est un signe de confiance ? »
+
+Harry se retourna lentement.
 
 Devant lui se trouvait un sorcier très puissant et très dément, à la
 longue barbe d’argent et au chapeau comme un champignon géant écrasé et
@@ -1431,15 +1463,24 @@ Derrière lui se trouvait une porte qui ne semblait pas fonctionner pour
 l’instant.
 
 Dumbledore avait l’air plutôt triste et usé, comme s’il avait eu envie
-de s’appuyer sur le bâton de sorcier qu’il ne possédait pas. »Franchement,« dit Dumbledore, »vous essayez une nouvelle technique au
+de s’appuyer sur le bâton de sorcier qu’il ne possédait pas.
+« Franchement, » dit Dumbledore, « vous essayez une nouvelle technique au
 lieu de suivre la même méthode que vous avez toujours suivie pendant
-cent dix ans, et les gens commencent à partir en courant.« Le vieux
-sorcier secoua la tête avec chagrin. »J’attendais mieux de toi, Harry
+cent dix ans, et les gens commencent à partir en courant. » Le vieux
+sorcier secoua la tête avec chagrin. « J’attendais mieux de toi, Harry
 Potter. J’ai entendu dire que tes propres amis te croient fou. Je sais
-qu’ils ont tort. Ne croiras-tu pas la même chose à mon sujet ?« »Ouvrez la porte, s’il vous plaît,« dit Harry, sa voix tremblante. »Si
+qu’ils ont tort. Ne croiras-tu pas la même chose à mon sujet ? »
+
+« Ouvrez la porte, s’il vous plaît, » dit Harry, sa voix tremblante. « Si
 vous voulez que je vous fasse à nouveau confiance un jour, ouvrez la
-porte.« Il y eut le son d’une porte s’ouvrant derrière lui. »Il y a d’autres choses que je comptais te dire,« dit Dumbledore, »et si
-tu pars maintenant, tu ne sauras pas de quoi il s’agissait.« Parfois, Harry *détestait* être un Serdaigle.
+porte. »
+
+Il y eut le son d’une porte s’ouvrant derrière lui.
+
+« Il y a d’autres choses que je comptais te dire, » dit Dumbledore, « et si
+tu pars maintenant, tu ne sauras pas de quoi il s’agissait. »
+
+Parfois, Harry *détestait* être un Serdaigle.
 
 *Il n’a jamais fait de mal à un élève*, dit le côté Gryffondor de Harry.
 *Rappelle-toi juste ça et tu ne paniqueras pas. Tu ne vas pas prendre la
@@ -1472,12 +1513,20 @@ toute façon rester, et Dumbledore pouvait de toute façon contrôler ses
 mouvements, mais peut-être que ce geste l’impressionnerait.
 
 Lorsque Harry se retourna encore, il vit que le puissant sorcier fou
-souriait de nouveau et avait l’air amical. C’était positif, peut-être. »Ne le refaites pas s’il vous plaît,« dit Harry. »Je n’aime pas être
-piégé.« »Je *suis* navré d’avoir fait ça, Harry,« dit Dumbledore d’un ton qui
-ressemblait à des excuses sincères. »Mais il aurait été épouvantablement
-mal avisé de te laisser partir sans le rocher de ton père.« »Bien sûr,« dit Harry. »Ce n’était pas raisonnable de ma part de
+souriait de nouveau et avait l’air amical. C’était positif, peut-être.
+
+« Ne le refaites pas s’il vous plaît, » dit Harry. « Je n’aime pas être
+piégé. »
+
+« Je *suis* navré d’avoir fait ça, Harry, » dit Dumbledore d’un ton qui
+ressemblait à des excuses sincères. « Mais il aurait été épouvantablement
+mal avisé de te laisser partir sans le rocher de ton père. »
+
+« Bien sûr, » dit Harry. « Ce n’était pas raisonnable de ma part de
 m’attendre à ce que la porte s’ouvre avant que j’aie mis les objets de
-quête dans mon inventaire.« Dumbledore sourit et hocha la tête.
+quête dans mon inventaire. »
+
+Dumbledore sourit et hocha la tête.
 
 Harry marcha jusqu’au bureau, fit coulisser la bourse en peau de Moke
 jusqu’à l’avant de sa ceinture, et au prix de quelques efforts parvint à
@@ -1493,43 +1542,63 @@ secret à vrai dire assez terrible) suivit peu après.
 
 Puis le Serpentard intérieur de Harry fit une suggestion sournoise
 visant à s’attirer les bonnes grâces du directeur, ornée d’un baratin
-parfait destiné à obtenir le soutien du côté Serdaigle. »Alors,« dit Harry. »Euh. Puisque je suis ici, j’imagine que vous ne
+parfait destiné à obtenir le soutien du côté Serdaigle.
+
+« Alors, » dit Harry. « Euh. Puisque je suis ici, j’imagine que vous ne
 voudriez pas me faire faire une petite visite de votre bureau ? Je
-serais assez curieux de savoir ce que sont certaines de ces choses,« et
+serais assez curieux de savoir ce que sont certaines de ces choses, » et
 c’était son euphémisme du mois de septembre.
 
 Dumbledore le fixa un moment, puis acquiesça en faisant une légère
-grimace. »Je suis flatté par ton intérêt,« dit-il, »mais j’ai peur qu’il
-n’y ai pas grand chose à dire.« Dumbledore fit un pas de plus vers le
-mur et tendit le doigt en direction d’un homme endormi. »Ce sont les
-portraits des directeurs de Poudlard.« Il se tourna et pointa vers son
-bureau. »C’est mon bureau.« Il pointa vers sa chaise. »C’est ma chaise
--« »Excusez-moi,« dit Harry, »en fait, je m’interrogeais sur ces…« Harry
-pointa en direction d’un petit cube qui chuchotait doucement : »blurpe…
-blurpe… blurpe« . »Oh, les petites choses gélatineuses ?« dit Dumbledore. »Elles étaient
+grimace. « Je suis flatté par ton intérêt, » dit-il, « mais j’ai peur qu’il
+n’y ai pas grand chose à dire. » Dumbledore fit un pas de plus vers le
+mur et tendit le doigt en direction d’un homme endormi. « Ce sont les
+portraits des directeurs de Poudlard. » Il se tourna et pointa vers son
+bureau. « C’est mon bureau. » Il pointa vers sa chaise. « C’est ma chaise
+- »
+
+« Excusez-moi, » dit Harry, « en fait, je m’interrogeais sur ces… » Harry
+pointa en direction d’un petit cube qui chuchotait doucement : « blurpe…
+blurpe… blurpe ».
+
+« Oh, les petites choses gélatineuses ? » dit Dumbledore. « Elles étaient
 incluses dans le bureau de directeur et je n’ai absolument aucune idée
 de ce que la plupart d’entre elles font. Mais *ce* cadran avec huit
 aiguilles compte le nombre de, disons d’éternuements, faits par les
 sorcières gauchères de France, et tu ne me croirais pas si je te disais
 le travail que ça a pris pour le faire fonctionner correctement. Et
 *celui-là* avec les petits gigoteurs est de mon invention, et Minerva ne
-va jamais, jamais réussir à comprendre ce qu’il fait.« Dumbledore fit un pas vers le porte-chapeaux pendant que Harry finissait
-d’emmagasiner ces informations. »Ici, bien sûr, nous avons le Choixpeau
+va jamais, jamais réussir à comprendre ce qu’il fait. »
+
+Dumbledore fit un pas vers le porte-chapeaux pendant que Harry finissait
+d’emmagasiner ces informations. « Ici, bien sûr, nous avons le Choixpeau
 Magique, je crois que vous vous êtes rencontrés. Il m’a dit qu’il ne
 fallait plus jamais qu’il soit mis sur ta tête, quelles que soient les
 circonstances. Tu n’es que le quatorzième étudiant de l’histoire au
 sujet duquel il a dit ça, il y a aussi eu Baba Yaga, et je te parlerai
 des douze autres quand tu seras plus vieux. Ça c’est un parapluie. Ça
-c’est un autre parapluie.« Dumbledore fit quelques pas de plus et se
-retourna, avec un grand sourire sur le visage. »Et bien sûr, la plupart
-des gens qui viennent dans mon bureau veulent voir Fumseck.« Dumbledore se tenait à côté de l’oiseau sur la plate-forme dorée.
+c’est un autre parapluie. » Dumbledore fit quelques pas de plus et se
+retourna, avec un grand sourire sur le visage. « Et bien sûr, la plupart
+des gens qui viennent dans mon bureau veulent voir Fumseck. »
 
-Harry s’approcha, plutôt perplexe. »C’est Fumseck ?« »Fumseck est un phénix,« dit Dumbledore. »Des créatures magiques très
-rares et très puissantes.« »Ah…« dit Harry. Il baissa sa tête et fixa les petits petits yeux en
-perle noires qui ne montraient pas le moindre signe d’intelligence. »Ahhh…« dit à nouveau Harry.
+Dumbledore se tenait à côté de l’oiseau sur la plate-forme dorée.
+
+Harry s’approcha, plutôt perplexe. « C’est Fumseck ? »
+
+« Fumseck est un phénix, » dit Dumbledore. « Des créatures magiques très
+rares et très puissantes. »
+
+« Ah… » dit Harry. Il baissa sa tête et fixa les petits petits yeux en
+perle noires qui ne montraient pas le moindre signe d’intelligence.
+
+« Ahhh… » dit à nouveau Harry.
 
 Il était presque certain de reconnaître la forme de l’oiseau. C’était
-assez difficile à rater. »Humm…« *Dis quelque chose d’intelligent !* Rugit l’esprit de Harry à sa propre
+assez difficile à rater.
+
+« Humm… »
+
+*Dis quelque chose d’intelligent !* Rugit l’esprit de Harry à sa propre
 intention. *Ne reste pas là à baragouiner comme un crétin !*
 
 *Ben qu’est ce que je peux bien être* censé *dire ?* répondit l’esprit
@@ -1537,17 +1606,23 @@ de Harry.
 
 *N’importe quoi !*
 
-*Tu veux dire, n’importe quoi sauf* »Fumseck *est un poulet« -*
+*Tu veux dire, n’importe quoi sauf « *Fumseck* est un poulet » -*
 
-*Oui ! N’importe quoi sauf ça !* »Et donc, ah, quelle sorte de magie font les phénix alors ?« »Leurs larmes ont le pouvoir de guérir,« dit Dumbledore. »Ce sont des
+*Oui ! N’importe quoi sauf ça !*
+
+« Et donc, ah, quelle sorte de magie font les phénix alors ? »
+
+« Leurs larmes ont le pouvoir de guérir, » dit Dumbledore. « Ce sont des
 créatures de feu, et ils se déplacent entre les lieux aussi facilement
 que le feu peut s’éteindre quelque part et se rallumer ailleurs. La
 tension intense que provoque leur magie innée fait vieillir leur corps
 très rapidement, et pourtant ils sont les plus éternelles des créatures
 de ce monde, car lorsque leur corps les abandonne, ils s’immolent dans
 un jet de flammes et laissent derrière eux un nouveau-né, ou parfois un
-œuf.« Dumbledore s’approcha et inspecta le poulet, fronçant les
-sourcils. »Hmm… l’air un peu patraque on dirait.« Lorsque la phrase percuta pleinement l’esprit de Harry, le poulet était
+œuf. » Dumbledore s’approcha et inspecta le poulet, fronçant les
+sourcils. « Hmm… l’air un peu patraque on dirait. »
+
+Lorsque la phrase percuta pleinement l’esprit de Harry, le poulet était
 déjà en feu.
 
 Le bec du poulet s’ouvrit, mais il n’eut pas le temps de caqueter une
@@ -1557,46 +1632,93 @@ brûlé.
 
 Puis le feu mourut seulement quelques secondes après avoir commencé,
 laissant derrière un petit tas pathétique de cendres sur la plate-forme
-dorée. »N’ai pas l’air si horrifié, Harry !« dit Dumbledore. »Fumseck n’a pas
-eu mal.« La main de Dumbledore plongea dans sa poche, puis la même main
-passa dans les cendres et fit surgir un petit œuf jaunâtre. »Regarde,
-voilà un œuf !« »Oh… waoh… incroyable…« »Mais nous devrions nous activer,« dit Dumbledore. Laissant l’œuf
+dorée.
+
+« N’ai pas l’air si horrifié, Harry ! » dit Dumbledore. « Fumseck n’a pas
+eu mal. » La main de Dumbledore plongea dans sa poche, puis la même main
+passa dans les cendres et fit surgir un petit œuf jaunâtre. « Regarde,
+voilà un œuf ! »
+
+« Oh… waoh… incroyable… »
+
+« Mais nous devrions nous activer, » dit Dumbledore. Laissant l’œuf
 derrière lui entre les cendres du poulet, il revint à son trône et
-s’assit. »C’est presque l’heure du dîner après tout, et nous ne
-voudrions pas avoir à utiliser nos Retourneurs de Temps.« Il y eut une violente lutte de pouvoir au Gouvernement de Harry.
+s’assit. « C’est presque l’heure du dîner après tout, et nous ne
+voudrions pas avoir à utiliser nos Retourneurs de Temps. »
+
+Il y eut une violente lutte de pouvoir au Gouvernement de Harry.
 Serpentard et Poufsouffle avaient changé de camp après avoir vu le
-directeur de Poudlard mettre le feu à un poulet. »Oui, nous activer,« dirent les lèvres de Harry. »Et puis après, dîner.« *Tu baragouines encore comme un crétin* nota le Critique Interne de
-Harry. »Bon,« dit Dumbledore. »J’ai peur d’avoir une confession à te faire,
-Harry. Une confession et une excuse.« »Les excuses, c’est bien.« *Ça ne veut rien dire ! Mais de quoi je
+directeur de Poudlard mettre le feu à un poulet.
+
+« Oui, nous activer, » dirent les lèvres de Harry. « Et puis après, dîner. »
+
+*Tu baragouines encore comme un crétin* nota le Critique Interne de
+Harry.
+
+« Bon, » dit Dumbledore. « J’ai peur d’avoir une confession à te faire,
+Harry. Une confession et une excuse. »
+
+« Les excuses, c’est bien. » *Ça ne veut rien dire ! Mais de quoi je
 parle ?*
 
-Le vieux sorcier soupira profondément. »Tu ne le penseras peut-être plus
+Le vieux sorcier soupira profondément. « Tu ne le penseras peut-être plus
 après avoir compris ce que j’ai à te dire. J’ai bien peur, Harry, de
 t’avoir manipulé pendant toute ta vie. C’est moi qui t’ai remis à la
-garde de tes beaux-parents malfaisants -« »Mes beaux-parents ne sont pas malfaisants !« lâcha Harry. »Mes
-*parents*, je veux dire !« »Ils ne le sont pas ?« dit Dumbledore, l’air surpris et déçu. »Pas même
-un peu malfaisants ? Ça ne cadre pas avec…« Le Serpentard intérieur de Harry hurla à s’en faire exploser les
-poumons, TAIS-TOI IDIOT IL T’ENLÈVERA À EUX ! »Non, non,« dit Harry, les lèvres figées en une grimace livide, »j’essayais juste de vous épargner, ils sont à vrai dire très
-malfaisants…« »Ils le sont ?« Dumbledore se pencha en avant, le regardant avec
-intensité. »Que font-ils ?« *Parle vite* »ils, ah, je dois faire la vaisselle et laver des problèmes
-et ils ne me laissent pas lire beaucoup de livres et -« »Ah, bien, c’est bon à entendre,« dit Dumbledore, se penchant à nouveau
-en arrière. Il sourit d’un air triste. »Je te demande pardon pour *ça*,
+garde de tes beaux-parents malfaisants — »
+
+« Mes beaux-parents ne sont pas malfaisants ! » lâcha Harry. « Mes
+*parents*, je veux dire ! »
+
+« Ils ne le sont pas ? » dit Dumbledore, l’air surpris et déçu. « Pas même
+un peu malfaisants ? Ça ne cadre pas avec… »
+
+Le Serpentard intérieur de Harry hurla à s’en faire exploser les
+poumons, TAIS-TOI IDIOT IL T’ENLÈVERA À EUX !
+
+« Non, non, » dit Harry, les lèvres figées en une grimace livide,
+« j’essayais juste de vous épargner, ils sont à vrai dire très
+malfaisants… »
+
+« Ils le sont ? » Dumbledore se pencha en avant, le regardant avec
+intensité. « Que font-ils ? »
+
+*Parle vite* « ils, ah, je dois faire la vaisselle et laver des problèmes
+et ils ne me laissent pas lire beaucoup de livres et — »
+
+« Ah, bien, c’est bon à entendre, » dit Dumbledore, se penchant à nouveau
+en arrière. Il sourit d’un air triste. « Je te demande pardon pour *ça*,
 alors. Maintenant, où en étais-je ? Ah, oui. Je suis navré de te dire,
 Harry, que je suis responsable de presque tout ce qui t’es jamais arrivé
-de mal. Je sais que ça te mettra probablement très en colère.« »Oui, je suis très en colère !« dit Harry. »Grrr !« Le Critique Interne de Harry lui décerna promptement le Prix Ultime de
-Pire Jeu d’Acteur de l’Histoire de Tous les Temps. »Et je voulais juste que tu le saches,« dit Dumbledore, »je voulais te
+de mal. Je sais que ça te mettra probablement très en colère. »
+
+« Oui, je suis très en colère ! » dit Harry. « Grrr ! »
+
+Le Critique Interne de Harry lui décerna promptement le Prix Ultime de
+Pire Jeu d’Acteur de l’Histoire de Tous les Temps.
+
+« Et je voulais juste que tu le saches, » dit Dumbledore, « je voulais te
 le dire aussitôt que possible, au cas où quelque chose arriverait à l’un
 de nous deux plus tard, que je suis vraiment, vraiment navré. Pour tout
-ce qui s’est déjà produit, et pour tout ce qui se produira.« De l’humidité scintillait dans les yeux du vieux sorcier. »Et je suis très en colère !« dit Harry. »Tellement en colère que je
+ce qui s’est déjà produit, et pour tout ce qui se produira. »
+
+De l’humidité scintillait dans les yeux du vieux sorcier.
+
+« Et je suis très en colère ! » dit Harry. « Tellement en colère que je
 veux partir tout de suite à moins que vous n’ayez quelque chose d’autre
-à me dire !« *PARS avant qu’il ne te mette le feu à toi aussi !* crièrent Serpentard,
-Poufsouffle et Gryffondor. »Je comprends,« dit Dumbledore. »Alors une dernière chose, Harry. Tu ne
+à me dire ! »
+
+*PARS avant qu’il ne te mette le feu à toi aussi !* crièrent Serpentard,
+Poufsouffle et Gryffondor.
+
+« Je comprends, » dit Dumbledore. « Alors une dernière chose, Harry. Tu ne
 devras *pas* essayer de franchir la porte interdite dans le couloir du
 troisième étage. Il est impossible que tu traverses tous les pièges, et
 je ne voudrais pas apprendre que tu t’es fait mal en essayant. Enfin, je
 doute que tu puisses ne serait-ce qu’ouvrir la première porte,
 puisqu’elle est fermée à clé et que tu ne connais pas le sort
-*Alohomora* -« Harry fit demi-tour et se précipita vers la sortie à pleine vitesse, la
+*Alohomora* — »
+
+Harry fit demi-tour et se précipita vers la sortie à pleine vitesse, la
 poignée pivota agréablement dans sa main, et un instant après il
 descendait les escaliers quatre à quatre alors même qu’ils tournaient,
 ses pieds se faisaient presque des croche-pattes, et un moment plus tard
@@ -1631,24 +1753,50 @@ résistants aux chocs que les Moldus.
 Harry et le professeur McGonagall finirent tous deux au sol, et les
 parchemins qu’elle transportait étalés dans le couloir.
 
-Il y eut une pause épouvantable. »Harry Potter,« souffla le professeur McGonagall de là où elle était
-allongée, juste à côté de Harry. Sa voix devint presque un cri. »*Que
-faisiez-vous dans le bureau du directeur ?*« »Rien !« glapit Harry. »*Parliez-vous du professeur de Défense* * ?*« »Non ! Dumbledore m’a appelé dans son bureau et il m’a donné ce gros
+Il y eut une pause épouvantable.
+
+« Harry Potter, » souffla le professeur McGonagall de là où elle était
+allongée, juste à côté de Harry. Sa voix devint presque un cri. « *Que
+faisiez-vous dans le bureau du directeur ?* »
+
+« Rien ! » glapit Harry.
+
+« *Parliez-vous du professeur de Défense ?* »
+
+« Non ! Dumbledore m’a appelé dans son bureau et il m’a donné ce gros
 rocher et il m’a dit que c’était celui de mon père et que je devrai le
-transporter partout !« Il y eut une autre pause épouvantable. »Je vois,« dit le professeur McGonagall, sa voix un peu plus calme. Elle
+transporter partout ! »
+
+Il y eut une autre pause épouvantable.
+
+« Je vois, » dit le professeur McGonagall, sa voix un peu plus calme. Elle
 se leva, s’épousseta, et jeta un coup d’œil aux parchemins éparpillés,
 qui bondirent pour former une pile bien ordonnée et filèrent le long du
-mur du couloir comme s’ils essayaient d’échapper à son regard. »Mes
-amitiés, M. Potter, et je vous demande pardon d’avoir douté de vous.« »Professeur McGonagall,« dit Harry. Sa voix tremblait. Il poussa contre
-le sol, se leva, et regarda ce visage sérieux et sain d’esprit. »Professeur McGonagall…« »Oui, M. Potter ?« »Pensez-vous que je devrais le faire ?« dit Harry d’une petite voix. »Transporter le rocher de mon père partout où je vais ?« Le professeur McGonagall soupira. »J’ai bien peur que ce ne soit entre
-vous et le directeur.« Elle hésita. »Je dirais que complètement ignorer
+mur du couloir comme s’ils essayaient d’échapper à son regard. « Mes
+amitiés, M. Potter, et je vous demande pardon d’avoir douté de vous. »
+
+« Professeur McGonagall, » dit Harry. Sa voix tremblait. Il poussa contre
+le sol, se leva, et regarda ce visage sérieux et sain d’esprit.
+« Professeur McGonagall… »
+
+« Oui, M. Potter ? »
+
+« Pensez-vous que je devrais le faire ? » dit Harry d’une petite voix.
+« Transporter le rocher de mon père partout où je vais ? »
+
+Le professeur McGonagall soupira. « J’ai bien peur que ce ne soit entre
+vous et le directeur. » Elle hésita. « Je dirais que complètement ignorer
 ce que le directeur dit n’est presque jamais une bonne idée. Je *suis*
 navrée d’apprendre votre dilemme, M. Potter, et si je *peux* vous aider
-d’une quelconque façon, quoi que vous choisissiez de faire -« »Euh,« dit Harry. »À vrai dire je me disais qu’une fois que j’aurais
+d’une quelconque façon, quoi que vous choisissiez de faire — »
+
+« Euh, » dit Harry. « À vrai dire je me disais qu’une fois que j’aurais
 trouvé comment faire, je pourrais métamorphoser le rocher en un anneau
 et le porter à mon doigt. Si vous pouviez m’enseigner comment maintenir
-une métamorphose -« »Vous avez bien fait de m’en parler avant,« dit le professeur
-McGonagall, son visage devenant légèrement sévère. »Si vous perdiez le
+une métamorphose — »
+
+« Vous avez bien fait de m’en parler avant, » dit le professeur
+McGonagall, son visage devenant légèrement sévère. « Si vous perdiez le
 contrôle de la métamorphose, l’annulation vous couperait le doigt et
 vous fendrait probablement la main en deux. Et à votre âge, même un
 anneau est une cible trop large pour être maintenue indéfiniment sans
@@ -1657,13 +1805,27 @@ forger un anneau doté d’un emplacement pour un joyau, un *petit* joyau,
 en contact avec votre peau, et vous pouvez pratiquer avec un objet sûr,
 comme un marshmallow. Lorsque vous l’aurez maintenu avec succès, même
 pendant votre sommeil, pendant un mois entier, je vous autoriserai à
-métamorphoser le, ah, le rocher de votre père…« Le professeur McGonagall
-laissa sa phrase en suspens. »Le directeur a-t-il *vraiment* -« »Oui. Ah… euh…« Le Professeur McGonagall soupira. »C’est un peu étrange, même de sa
-part.« Elle se baissa et ramassa la pile de parchemins. »Je suis navrée,
+métamorphoser le, ah, le rocher de votre père… » Le professeur McGonagall
+laissa sa phrase en suspens. « Le directeur a-t-il *vraiment* — »
+
+« Oui. Ah… euh… »
+
+Le Professeur McGonagall soupira. « C’est un peu étrange, même de sa
+part. » Elle se baissa et ramassa la pile de parchemins. « Je suis navrée,
 M. Potter. Je vous demande à nouveau pardon de ne pas vous avoir fait
-confiance. Mais maintenant, c’est à moi d’aller voir le directeur.« »Ah… bonne chance, j’imagine. Euh…« »Merci, M. Potter.« »Hmm…« Le professeur McGonagall marcha jusqu’à la gargouille, donna le mot de
+confiance. Mais maintenant, c’est à moi d’aller voir le directeur. »
+
+« Ah… bonne chance, j’imagine. Euh… »
+
+« Merci, M. Potter. »
+
+« Hmm… »
+
+Le professeur McGonagall marcha jusqu’à la gargouille, donna le mot de
 passe sans que Harry puisse l’entendre, et prit place sur les escaliers
 en spirale tournants. Elle commença à s’élever hors de la vue de Harry,
 et la gargouille commença à revenir -
 
-* »Professeur McGonagall le directeur a mis le feu à un poulet !« * »Il a *quo-*« 
+*« Professeur McGonagall le directeur a mis le feu à un poulet ! »*
+
+« Il a *quo-* »
