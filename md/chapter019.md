@@ -206,7 +206,7 @@ t’ai déjà parlé de l’importance potentielle de Harry Potter. Comme tu
 t’en es déjà rendu compte, celle-ci est à présent devenue plus grande et
 plus urgente. Si tu vois le moindre moyen menant à l’amitié ou le
 moindre point de pression exerçable, tu dois t’y aventurer, et toutes
-les ressources des Malefoy seront à ta disposition si besoin est.* »
+les ressources des Malfoy seront à ta disposition si besoin est.* »
 
 Eh ben. « Alors, » dit Harry, « sans commenter sur la véracité de l’édifice
 compliqué qu’est ta théorie, laisse-moi juste dire que nous ne sommes
@@ -292,7 +292,7 @@ Le regard du professeur Quirrell parcourut la rangée de sièges. Harry
 grimaça depuis son siège dans la dernière rangée. Il avait l’impression
 de savoir qui allait être appelé.
 
-« Drago, de la Noble et Ancienne Maison de Malefoy, » dit le professeur
+« Drago, de la Noble et Ancienne Maison de Malfoy, » dit le professeur
 Quirrell.
 
 Pfiou.
@@ -469,25 +469,39 @@ de cette technique. Il n’avait pas la moindre idée que la magie
 existait, bien sûr. Je me suis inscrit pour étudier là, et je fus l’un
 des rares étudiants à être acceptés cette année parmi tous les
 candidats. Il se peut qu’une touche d’influence spéciale y ait été pour
-quelque chose.
+quelque chose. »
 
 Il y eut des rires dans la salle. Harry ne partagea pas l’hilarité. Ça
-n’était pas du tout acceptable. »Quoi qu’il en soit. Lors de l’un de mes premiers combats à mains nues,
+n’était pas du tout acceptable.
+
+« Quoi qu’il en soit. Lors de l’un de mes premiers combats à mains nues,
 après avoir été vaincu d’une façon particulièrement humiliante, j’ai
-perdu le contrôle de moi-même et j’ai attaqué mon partenaire de lutte -« *Berk.* »- heureusement avec mes poings plutôt qu’avec ma magie. De façon
+perdu le contrôle de moi-même et j’ai attaqué mon partenaire de lutte — »
+
+*Berk.*
+
+« — heureusement avec mes poings plutôt qu’avec ma magie. De façon
 surprenante, le Maître ne m’exclut pas immédiatement. Mais il me dit
 qu’il y avait une faille dans mon tempérament. Il me l’expliqua, et je
 sus qu’il disait vrai. Et il dit alors que je devrais apprendre à
-perdre.« Le visage du professeur Quirrell était vide de toute expression. »Sous son ordre direct, tous les étudiants du *dojo* formèrent une
+perdre. »
+
+Le visage du professeur Quirrell était vide de toute expression.
+
+« Sous son ordre direct, tous les étudiants du *dojo* formèrent une
 ligne. Un par un, ils m’approchèrent. Je ne devais *pas* me défendre. Je
 devais seulement implorer leur grâce. Un par un, ils me giflèrent, ou
 ils me frappèrent, et ils me firent tomber au sol. Certains d’entre eux
 crachèrent sur moi. Ils me traitèrent de tous les noms dans leurs
 langues natales. Et à chacun je dut répondre, « J’ai perdu ! » et autres
 déclarations similaires, comme « Arrête-toi, je t’en supplie ! » et
-« J’admets que tu es meilleur que moi ! »« Harry essayait d’imaginer ça et n’y parvenait tout simplement pas. Il
+« J’admets que tu es meilleur que moi ! » »
+
+Harry essayait d’imaginer ça et n’y parvenait tout simplement pas. Il
 était impossible qu’une chose pareille soit arrivée au digne professeur
-Quirrell. »J’étais un prodige de magie de combat, même à l’époque. J’aurais pu
+Quirrell.
+
+« J’étais un prodige de magie de combat, même à l’époque. J’aurais pu
 tous les tuer avec de la magie sans baguette. Mais je ne l’ai pas fait.
 J’ai appris à perdre. Aujourd’hui encore, je m’en souviens comme des
 heures les plus déplaisantes de mon existence. Et lorsque j’ai quitté le
@@ -495,26 +509,42 @@ dojo huit mois plus tard — ce qui était beaucoup trop tôt, mais c’éta
 tout le temps que je pouvais me permettre d’y passer — le Maître me dit
 qu’il espérait que je comprenais pourquoi cela avait été nécessaire. Et
 je lui ai dit que c’était une des leçons les plus précieuses que j’avais
-jamais apprises. Ce qui était vrai, et l’est toujours.« Le professeur Quirrell adopta une expression amère. »Vous vous demandez
+jamais apprises. Ce qui était vrai, et l’est toujours. »
+
+Le professeur Quirrell adopta une expression amère. « Vous vous demandez
 où cet extraordinaire *dojo* se trouve, et si vous pouvez y étudier.
 Vous ne le pouvez pas. Car peu de temps après, un autre étudiant en
 puissance parvint en ce lieu caché, sur cette montagne reculée.
-Celui-Dont-On-Ne-Doit-Pas-Prononcer-Le-Nom.« Il y eut le son de plusieurs grandes inspirations simultanées. Harry se
-sentit malade. Il savait ce qui allait suivre. »Le Seigneur des Ténèbres entra dans l’école à découvert, sans
+Celui-Dont-On-Ne-Doit-Pas-Prononcer-Le-Nom. »
+
+Il y eut le son de plusieurs grandes inspirations simultanées. Harry se
+sentit malade. Il savait ce qui allait suivre.
+
+« Le Seigneur des Ténèbres entra dans l’école à découvert, sans
 déguisement, les yeux rouges et compagnie. Les étudiants tentèrent de
 lui bloquer la route, et il transplana simplement à travers eux. Ils
 étaient terrifiés, mais aussi disciplinés, et le Maître s’avança. Et le
 Seigneur des Ténèbres exigea — il ne demanda pas, il exigea -
-d’apprendre.« Le visage du professeur Quirrell se durcit énormément. »Peut-être le
+d’apprendre. »
+
+Le visage du professeur Quirrell se durcit énormément. « Peut-être le
 Maître avait-il lu trop de livres répétant le mensonge selon lequel un
 véritable pratiquant des arts martiaux pouvait vaincre les démons
 eux-mêmes. Pour cette raison ou une autre, le Maître refusa. Le Seigneur
 des Ténèbres lui demanda pourquoi il ne pouvait pas devenir un étudiant.
 Le Maître lui dit qu’il n’avait aucune patience, et c’est là que le
-Seigneur des Ténèbres lui arracha la langue.« Il y eut un bruit d’étranglement collectif. »Vous pouvez deviner ce qui se passa ensuite. Les étudiants essayèrent
+Seigneur des Ténèbres lui arracha la langue. »
+
+Il y eut un bruit d’étranglement collectif.
+
+« Vous pouvez deviner ce qui se passa ensuite. Les étudiants essayèrent
 de se jeter sur le Seigneur des Ténèbres et tombèrent, stupéfixés avant
-d’avoir pu bouger. Et alors…« La voix du professeur Quirrell faiblit pendant un moment, puis il
-reprit. »Il existe un Sortilège Impardonnable, le sort Doloris, qui provoque une
+d’avoir pu bouger. Et alors… »
+
+La voix du professeur Quirrell faiblit pendant un moment, puis il
+reprit.
+
+« Il existe un Sortilège Impardonnable, le sort Doloris, qui provoque une
 insupportable douleur. S’il est maintenu plus de quelques minutes, il
 crée un état de folie permanent. Un par un, le Seigneur des Ténèbres
 Endolorit les étudiants du Maître jusqu’à la folie, puis il les acheva
@@ -522,15 +552,31 @@ d’un Sort de Mort tandis que le Maître était forcé de regarder. Une fois
 que tous ses étudiants eurent ainsi été tués, le Maître les suivit. J’ai
 appris cela de la bouche du seul survivant, que le Seigneur des Ténèbres
 a gardé en vie afin qu’il raconte cette histoire, et qui avait été mon
-ami…« Le professeur Quirrell se détourna, et lorsqu’il refit face à la salle
-un instant plus tard, il semblait de nouveau calme et composé. »Les Seigneurs des Ténèbres ne peuvent pas contrôler leur colère,« dit
-doucement le professeur Quirrell. »C’est un défaut quasiment universel
+ami… »
+
+Le professeur Quirrell se détourna, et lorsqu’il refit face à la salle
+un instant plus tard, il semblait de nouveau calme et composé.
+
+« Les Seigneurs des Ténèbres ne peuvent pas contrôler leur colère, » dit
+doucement le professeur Quirrell. « C’est un défaut quasiment universel
 chez cette espèce, et quiconque a l’habitude de les combattre apprend
 bien vite à compter dessus. Comprenez que le Seigneur des Ténèbres ne
 gagna *pas*, ce jour-là. Son but était d’apprendre les arts martiaux, et
 pourtant il s’en fut sans avoir eu une seule leçon. Le Seigneur des
 Ténèbres fut sot de souhaiter que cette histoire soit contée. Car elle
-ne montre pas sa force, mais plutôt une faiblesse exploitable.« Le regard du professeur Quirrell se concentra sur un élève de la classe. »Harry Potter,« dit le professeur Quirrell. »Oui,« dit Harry, la voix rauque. »Qu’avez-vous fait de mal aujourd’hui, *précisément* ?« Harry crut qu’il allait vomir. »J’ai perdu le contrôle de ma colère.« »Ce n’est *pas* précis,« dit le professeur Quirrell. »Je le décrirai
+ne montre pas sa force, mais plutôt une faiblesse exploitable. »
+
+Le regard du professeur Quirrell se concentra sur un élève de la classe.
+
+« Harry Potter, » dit le professeur Quirrell.
+
+« Oui, » dit Harry, la voix rauque.
+
+« Qu’avez-vous fait de mal aujourd’hui, *précisément* ? »
+
+Harry crut qu’il allait vomir. « J’ai perdu le contrôle de ma colère. »
+
+« Ce n’est *pas* précis, » dit le professeur Quirrell. « Je le décrirai
 avec plus d’exactitude. Il existe de nombreux animaux ayant ce qu’on
 appelle des luttes de dominance. Ils se foncent dessus, cornes en
 avant — essayant de s’assommer l’un l’autre, pas de s’encorner. Ils se
@@ -539,8 +585,10 @@ avec leurs griffes rétractées ? Ils auraient certainement une meilleure
 chance de gagner s’ils utilisaient leurs griffes. Mais alors leur ennemi
 dégainerait peut-être lui aussi ses griffes, et alors, au lieu de
 résoudre leur lutte de dominance et d’avoir un gagnant et un perdant,
-ils pourraient tous deux se blesser sérieusement.« Le professeur Quirrell sembla regarder droit vers Harry depuis
-l’écran-relais. »Ce que vous avez démontré aujourd’hui, M. Potter, c’est
+ils pourraient tous deux se blesser sérieusement. »
+
+Le professeur Quirrell sembla regarder droit vers Harry depuis
+l’écran-relais. « Ce que vous avez démontré aujourd’hui, M. Potter, c’est
 que — à la différence des animaux qui gardent leurs griffes rétractées
 et acceptent l’issue du combat — vous ne savez pas perdre une lutte de
 dominance. Lorsqu’un *professeur de Poudlard* vous a défié, vous n’avez
@@ -552,88 +600,162 @@ lieu de perdre, vous avez répondu par une gifle et avez fait perdre dix
 points à Serdaigle. Très vite vous parliez de quitter Poudlard. Le fait
 que vous ayez encore plus renchéri dans une direction inconnue et que
 vous soyez parvenu à gagner ne change rien au fait que vous êtes un
-idiot.« »Je comprends,« dit Harry. Il avait la gorge sèche. Cela *avait* été
+idiot. »
+
+« Je comprends, » dit Harry. Il avait la gorge sèche. Cela *avait* été
 précis. *Effroyablement* précis. Maintenant que le professeur Quirrell
 l’avait dit, Harry pouvait voir, rétrospectivement, que c’était une
 description *exacte* de ce qui s’était passé. Lorsque quelqu’un avait un
 modèle de vous aussi précis que ça, vous deviez commencer à vous
 demander s’ils avaient raison sur d’autres sujets, comme sur votre
-intention de tuer par exemple. »M. Potter, la *prochaine* fois que, lors d’un duel, vous renchérissez
+intention de tuer par exemple.
+
+« M. Potter, la *prochaine* fois que, lors d’un duel, vous renchérissez
 au lieu de perdre, vous pourriez perdre *tout* ce que vous avez misé. Je
 ne peux pas deviner ce que vos mises étaient aujourd’hui. Je peux
 deviner qu’elles étaient bien, bien trop élevées pour valoir la perte de
-dix points.« Comme le destin de l’Angleterre magique, par exemple. C’était ce qu’il
-avait misé. »Vous allez vous défendre en disant que vous essayiez d’aider tout
+dix points. »
+
+Comme le destin de l’Angleterre magique, par exemple. C’était ce qu’il
+avait misé.
+
+« Vous allez vous défendre en disant que vous essayiez d’aider tout
 Poudlard, un but bien plus important, méritant qu’on prenne de grands
-risques. C’est un *mensonge*. Si vous aviez -« »J’aurais reçu la gifle, attendu, et choisi le meilleur moment pour
-agir,« dit Harry d’une voix à nouveau rauque. »Mais alors j’aurais
+risques. C’est un *mensonge*. Si vous aviez — »
+
+« J’aurais reçu la gifle, attendu, et choisi le meilleur moment pour
+agir, » dit Harry d’une voix à nouveau rauque. « Mais alors j’aurais
 *perdu*. Je l’aurais laissé me dominer. C’est ce que le Seigneur des
 Ténèbres n’a pas pu faire face au Maître dont il désirait
-l’enseignement.« Le professeur Quirrell hocha la tête. »Je vois que vous avez
+l’enseignement. »
+
+Le professeur Quirrell hocha la tête. « Je vois que vous avez
 parfaitement compris. Et donc, M. Potter, aujourd’hui, vous allez
-apprendre à perdre.« »Je -« »Je n’écouterai aucune de vos objections, M. Potter. Il est à la fois
+apprendre à perdre. »
+
+« Je — »
+
+« Je n’écouterai aucune de vos objections, M. Potter. Il est à la fois
 évident que vous en avez besoin et que vous êtes assez fort pour le
 supporter. Je vous assure que l’expérience ne sera pas aussi brutale que
 celle que j’ai traversée, bien qu’il soit fort probable que vous vous
 rappeliez ensuite ces quinze minutes comme les pires de votre jeune
-existence.« Harry déglutit. »Professeur Quirrell,« dit-il d’une petite voix, »pourrions-nous faire ça une autre fois ?« »Non,« dit simplement le professeur Quirrell. »Vous en êtes au cinquième
+existence. »
+
+Harry déglutit. « Professeur Quirrell, » dit-il d’une petite voix,
+« pourrions-nous faire ça une autre fois ? »
+
+« Non, » dit simplement le professeur Quirrell. « Vous en êtes au cinquième
 jour de votre éducation à Poudlard et ceci s’est déjà produit. Nous
 sommes aujourd’hui vendredi. Notre *prochain* cours de Défense est
 mercredi. Samedi, dimanche, lundi, mardi, mercredi… Non, nous n’avons
-*pas* le temps d’attendre.« Il y eut quelques rires, mais très peu. »S’il vous plaît M. Potter, considérez cela comme un ordre de votre
+*pas* le temps d’attendre. »
+
+Il y eut quelques rires, mais très peu.
+
+« S’il vous plaît M. Potter, considérez cela comme un ordre de votre
 professeur. Je tiens à préciser qu’autrement, je ne vous enseignerai
 aucun sort offensif, parce que j’apprendrais alors que vous avez
 sévèrement blessé voir même tué quelqu’un. Malheureusement, j’ai entendu
 dire que vos doigts sont déjà des armes puissantes. Ne les claquez à
-aucun moment pendant cette leçon.« Plus de rires épars, aux sonorités plutôt nerveuses.
+aucun moment pendant cette leçon. »
 
-Harry eut la sensation qu’il allait peut-être pleurer. »Professeur
+Plus de rires épars, aux sonorités plutôt nerveuses.
+
+Harry eut la sensation qu’il allait peut-être pleurer. « Professeur
 Quirrell, si vous faites quoi que ce soit ressemblant à ce dont vous
 venez de parler, ça va me mettre en colère, et je ne voudrais vraiment
-pas me remettre en colère aujourd’hui -« »Le but n’est *pas* d’éviter de se mettre en colère,« dit le professeur
-Quirrell, son visage très grave. »La colère est naturelle. Vous devez
+pas me remettre en colère aujourd’hui — »
+
+« Le but n’est *pas* d’éviter de se mettre en colère, » dit le professeur
+Quirrell, son visage très grave. « La colère est naturelle. Vous devez
 apprendre à perdre même quand vous êtes en colère. Ou du moins à *faire
 semblant* de perdre pour pouvoir ensuite *planifier* votre vengeance.
 Comme je l’ai fait aujourd’hui avec M. Goyle, à moins bien sûr que l’un
-d’entre vous ne pense qu’il *est* réellement meilleur -« »Je ne le suis pas !« cria M. Goyle depuis son bureau, l’air un peu
-paniqué. »Je sais que vous n’avez pas vraiment perdu ! S’il vous plaît,
-ne planifiez pas de vengeance !« Harry se sentit malade. Le professeur Quirrell ne connaissait pas son
-mystérieux côté obscur. »Professeur, nous avons vraiment besoin d’en
-parler après les cours -« »Nous le ferons,« dit le professeur Quirrell sur le ton d’une promesse. »Après que vous ayez appris à perdre.« Son expression était sérieuse. »Il va sans dire que je vais exclure tout ce qui pourrait vous blesser
+d’entre vous ne pense qu’il *est* réellement meilleur — »
+
+« Je ne le suis pas ! » cria M. Goyle depuis son bureau, l’air un peu
+paniqué. « Je sais que vous n’avez pas vraiment perdu ! S’il vous plaît,
+ne planifiez pas de vengeance ! »
+
+Harry se sentit malade. Le professeur Quirrell ne connaissait pas son
+mystérieux côté obscur. « Professeur, nous avons vraiment besoin d’en
+parler après les cours — »
+
+« Nous le ferons, » dit le professeur Quirrell sur le ton d’une promesse.
+« Après que vous ayez appris à perdre. » Son expression était sérieuse.
+« Il va sans dire que je vais exclure tout ce qui pourrait vous blesser
 ou même provoquer une douleur importante. La douleur viendra de la
 difficulté de perdre, de ne pas vous défendre et de ne pas renchérir
-jusqu’à gagner.« La respiration de Harry était devenue une série de halètements courts et
+jusqu’à gagner. »
+
+La respiration de Harry était devenue une série de halètements courts et
 paniqués. Il était plus effrayé qu’il ne l’avait été lorsqu’il avait
-quitté la salle de Potions. »Professeur Quirrell,« parvint-il à dire, »je ne veux pas que vous vous fassiez renvoyer à cause de ça -« »Ça n’arrivera pas,« dit le professeur Quirrell, »si *vous* leur dites
-ensuite que c’était nécessaire. Et je vous fais confiance pour ça.« Pendant un moment, la voix du professeur Quirrell devint très sèche. »Croyez-moi, ils ont toléré pire dans leurs couloirs. Ce cas ne sera
-exceptionnel que parce qu’il a lieu dans une salle de classe.« »Professeur Quirrell,« murmura Harry, mais sa voix était quand même
-relayée partout, »vous croyez vraiment que si je ne fais pas ça, je
-pourrais faire du mal à quelqu’un ?« »Oui,« dit simplement le professeur Quirrell. »Alors,« Harry fut pris de nausée, »je le ferai.« Le professeur Quirrell pivota pour faire face aux Serpentard. »Donc…
+quitté la salle de Potions. « Professeur Quirrell, » parvint-il à dire,
+« je ne veux pas que vous vous fassiez renvoyer à cause de ça — »
+
+« Ça n’arrivera pas, » dit le professeur Quirrell, « si *vous* leur dites
+ensuite que c’était nécessaire. Et je vous fais confiance pour ça. »
+Pendant un moment, la voix du professeur Quirrell devint très sèche.
+« Croyez-moi, ils ont toléré pire dans leurs couloirs. Ce cas ne sera
+exceptionnel que parce qu’il a lieu dans une salle de classe. »
+
+« Professeur Quirrell, » murmura Harry, mais sa voix était quand même
+relayée partout, « vous croyez vraiment que si je ne fais pas ça, je
+pourrais faire du mal à quelqu’un ? »
+
+« Oui, » dit simplement le professeur Quirrell.
+
+« Alors, » Harry fut pris de nausée, « je le ferai. »
+
+Le professeur Quirrell pivota pour faire face aux Serpentard. « Donc…
 avec l’approbation complète de votre enseignant, et afin que Rogue ne
 puisse être blâmé pour vos actes… l’un ou l’une d’entre vous veut-il
 prouver qu’il domine le Survivant ? Le pousser en tous sens, le projeter
-au sol, l’entendre implorer votre pitié ?« Cinq mains se levèrent. »Tous ceux qui ont levé la main, vous êtes des idiots finis. Quelle
+au sol, l’entendre implorer votre pitié ? »
+
+Cinq mains se levèrent.
+
+« Tous ceux qui ont levé la main, vous êtes des idiots finis. Quelle
 partie de *faire semblant de perdre* n’avez-vous pas compris ? Si Harry
 Potter devient le prochain Seigneur des Ténèbres, il vous pourchassera
-et vous tuera après avoir obtenu son diplôme.« Les cinq mains retombèrent brutalement sur leurs pupitres. »Je ne le ferai pas,« dit Harry, sa voix assez faible. »Je jure de ne
+et vous tuera après avoir obtenu son diplôme. »
+
+Les cinq mains retombèrent brutalement sur leurs pupitres.
+
+« Je ne le ferai pas, » dit Harry, sa voix assez faible. « Je jure de ne
 jamais me venger sur ceux qui m’aideront à apprendre à perdre.
 Professeur Quirrell… pourriez-vous *s’il vous plaît*… arrêter de faire
-ça ?« Le professeur Quirrell soupira. »Je *suis* navré, M. Potter. Je me rends
+ça ? »
+
+Le professeur Quirrell soupira. « Je *suis* navré, M. Potter. Je me rends
 compte que vous devez trouver cela tout autant agaçant, que vous
 projetiez de devenir le prochain Seigneur des Ténèbres ou non. Mais ces
 enfants avaient *aussi* une importante leçon de vie à apprendre.
 Accepteriez-vous que je vous octroie un point Quirrell en guise
-d’excuse ?« »Disons deux,« dit Harry.
+d’excuse ? »
+
+« Disons deux, » dit Harry.
 
 Il y eut un remous de rires surpris, ce qui désamorça une partie de la
-tension ambiante. »Fait,« dit le professeur Quirrell. »Et après avoir obtenu mon diplôme, je vous pourchasserai et je vous
-*chatouillerai*.« Il y eut plus de rires, mais le professeur Quirrell ne sourit pas.
+tension ambiante.
+
+« Fait, » dit le professeur Quirrell.
+
+« Et après avoir obtenu mon diplôme, je vous pourchasserai et je vous
+*chatouillerai*. »
+
+Il y eut plus de rires, mais le professeur Quirrell ne sourit pas.
 
 Harry avait l’impression de lutter contre un anaconda, d’essayer de
 forcer la conversation vers l’étroit chemin qui permettrait aux gens de
 se rendre compte qu’il n’était pas un Seigneur des Ténèbres après tout…
-*pourquoi* le professeur Quirrell était-il si suspicieux à son égard ? »Professeur,« dit la voix non amplifiée de Drago. »Ce n’est pas non plus
-mon ambition que de devenir un Seigneur des Ténèbres stupide.« Il y eut un silence choqué dans la salle.
+*pourquoi* le professeur Quirrell était-il si suspicieux à son égard ?
+
+« Professeur, » dit la voix non amplifiée de Drago. « Ce n’est pas non plus
+mon ambition que de devenir un Seigneur des Ténèbres stupide. »
+
+Il y eut un silence choqué dans la salle.
 
 *Tu n’as pas à faire ça !* faillit lâcher Harry, mais il se maîtrisa à
 temps ; Drago ne souhaitait peut-être pas que l’on sache qu’il faisait
@@ -643,27 +765,42 @@ Appeler ça *désir d’avoir l’air amical* donna à Harry la sensation qu’i
 était petit et méchant. Si Drago avait eut l’intention de
 l’impressionner, ça marchait à la perfection.
 
-Le professeur Quirrell regardait Drago d’un air grave. »*Vous* avez peur
-de ne pas pouvoir faire semblant de perdre, M. Malefoy ? Ce défaut qui
+Le professeur Quirrell regardait Drago d’un air grave. « *Vous* avez peur
+de ne pas pouvoir faire semblant de perdre, M. Malfoy ? Ce défaut qui
 décrit M. Potter vous décrit vous aussi ? Votre père vous a
-*certainement* mieux éduqué que ça.« »Lorsqu’il s’agit de parler, peut-être,« dit Drago, maintenant sur
-l’écran-relais. »Pas lorsqu’il s’agit d’être poussé en tous sens et
+*certainement* mieux éduqué que ça. »
+
+« Lorsqu’il s’agit de parler, peut-être, » dit Drago, maintenant sur
+l’écran-relais. « Pas lorsqu’il s’agit d’être poussé en tous sens et
 projeté au sol. Je veux être au moins aussi fort que vous, professeur
-Quirrell.« Les sourcils du professeur Quirrell s’élevèrent et restèrent levés. »J’ai peur, M. Malefoy,« dit-il après un moment, »que les préparatifs que
+Quirrell. »
+
+Les sourcils du professeur Quirrell s’élevèrent et restèrent levés.
+« J’ai peur, M. Malfoy, » dit-il après un moment, « que les préparatifs que
 j’ai fait pour M. Potter, qui utilisent quelques Serpentard plus vieux à
 qui l’on dira *plus tard* à quel point ils étaient stupides, ne
 marcheraient pas avec vous. Mais, selon mon opinion professionnelle,
 vous êtes déjà très fort. Si je devais apprendre que vous avez échoué,
 comme M. Potter a échoué aujourd’hui, je ferais les préparatifs
 appropriés et m’excuserais auprès de vous et de toute personne que vous
-auriez blessée. Je ne pense cependant pas que cela sera nécessaire.« »Je comprends, professeur,« dit Drago.
+auriez blessée. Je ne pense cependant pas que cela sera nécessaire. »
 
-Le professeur Quirrell regarda la classe. »Quelqu’un d’autre
-souhaite-t-il devenir fort ?« Quelques étudiants regardèrent autour d’eux nerveusement. Certains,
+« Je comprends, professeur, » dit Drago.
+
+Le professeur Quirrell regarda la classe. « Quelqu’un d’autre
+souhaite-t-il devenir fort ? »
+
+Quelques étudiants regardèrent autour d’eux nerveusement. Certains,
 pensa Harry depuis le dernier rang, semblaient avoir ouvert leurs
-bouches, mais ils ne disaient rien. Personne ne se décida à parler. »Drago Malefoy sera l’un des généraux des armées de cette année,« dit le
-professeur Quirrell, »s’il daigne s’impliquer dans cette activité du
-soir. Et maintenant, M. Potter, merci de vous avancer.« ------------------------------------------------------------------------
+bouches, mais ils ne disaient rien. Personne ne se décida à parler.
+
+« Drago Malfoy sera l’un des généraux des armées de cette année, » dit le
+professeur Quirrell, « s’il daigne s’impliquer dans cette activité du
+soir. Et maintenant, M. Potter, merci de vous avancer. »
+
+
+
+------------------------------------------------------------------------
 
 
 
@@ -705,16 +842,26 @@ Le professeur Quirrell revint. Il escortait treize Serpentard plus âgés,
 de différentes années. Harry reconnut l’un d’entre eux, celui qu’il
 avait frappé d’une tarte. Deux autres présents lors de cette
 confrontation étaient aussi là. Celui qui leur avait dit d’arrêter et
-qu’ils ne devraient vraiment pas faire ça n’était pas là. »Je répète,« dit le professeur Quirrell d’une voix très sévère, »Potter
+qu’ils ne devraient vraiment pas faire ça n’était pas là.
+
+« Je répète, » dit le professeur Quirrell d’une voix très sévère, « Potter
 ne doit *pas* être réellement blessé. Tout *accident* sera considéré
-comme délibéré. Vous comprenez ?« Les autres Serpentard acquiescèrent en souriant. »Alors n’hésitez pas à remettre le Survivant à sa place,« dit le
+comme délibéré. Vous comprenez ? »
+
+Les autres Serpentard acquiescèrent en souriant.
+
+« Alors n’hésitez pas à remettre le Survivant à sa place, » dit le
 professeur Quirrell, avec un sourire tordu que seuls les première année
 comprirent.
 
 Une sorte de consentement mutuel avait placé la cible-de-tarte au centre
-du groupe. »Potter,« dit le professeur Quirrell, »dites bonjour à M. Peregrine
+du groupe.
+
+« Potter, » dit le professeur Quirrell, « dites bonjour à M. Peregrine
 Derrick. Il est meilleur que vous et il est sur le point de vous le
-montrer.« Derrick s’avança et le cerveau de Harry hurla un cri distordu, il ne
+montrer. »
+
+Derrick s’avança et le cerveau de Harry hurla un cri distordu, il ne
 faut pas s’enfuir, il ne faut pas se défendre -
 
 Derrick s’arrêta à une coudée de Harry.
@@ -722,21 +869,42 @@ Derrick s’arrêta à une coudée de Harry.
 Harry n’était pas encore en colère, juste effrayé. Parce qu’il faisait
 face à un jeune adolescent mâle plus grand que lui d’au moins cinquante
 centimètres, avec des muscles clairement définis, de la barbe, et un
-horrible sourire anticipatoire. »Demandez-lui de ne pas vous faire de mal,« dit le professeur Quirrell. »Peut-être que s’il vous trouve assez pathétique, il décidera que vous
-êtes ennuyeux et qu’il s’en ira.« Il y eut des rires venant des autres Serpentard plus âgés. »S’il te plaît,« dit Potter, sa voix vacillante, »ne, me, fais pas,
-mal…« »Ça n’avait pas l’air très sincère,« dit le professeur Quirrell.
+horrible sourire anticipatoire.
+
+« Demandez-lui de ne pas vous faire de mal, » dit le professeur Quirrell.
+« Peut-être que s’il vous trouve assez pathétique, il décidera que vous
+êtes ennuyeux et qu’il s’en ira. »
+
+Il y eut des rires venant des autres Serpentard plus âgés.
+
+« S’il te plaît, » dit Potter, sa voix vacillante, « ne, me, fais pas,
+mal… »
+
+« Ça n’avait pas l’air très sincère, » dit le professeur Quirrell.
 
 Le sourire de Derrick s’agrandit. L’imbécile maladroit avait un air très
 supérieur et…
 
-…la température sanguine de Harry chutait… »S’il te plaît, ne me fais pas mal,« essaya à nouveau Harry.
+…la température sanguine de Harry chutait…
 
-Le professeur Quirrell secoua la tête. »Par Merlin, comment êtes-vous
+« S’il te plaît, ne me fais pas mal, » essaya à nouveau Harry.
+
+Le professeur Quirrell secoua la tête. « Par Merlin, comment êtes-vous
 parvenu à faire sonner ça comme une insulte, Potter ? Vous ne pouvez
-vous attendre qu’à une seule réponse de la part de M. Derrick.« Derrick s’avança délibérément et bouscula Harry.
+vous attendre qu’à une seule réponse de la part de M. Derrick. »
+
+Derrick s’avança délibérément et bouscula Harry.
 
 Harry recula de quelques pieds, et, avant de pouvoir s’en empêcher, se
-raidit comme de la glace. »Faux,« dit le professeur Quirrell, »faux, faux, faux.« »Tu m’as bousculé, Potter,« dit Derrick. »Excuse-toi.« »Je suis désolé !« »Tu n’as pas l’*air* désolé,« dit Derrick.
+raidit comme de la glace.
+
+« Faux, » dit le professeur Quirrell, « faux, faux, faux. »
+
+« Tu m’as bousculé, Potter, » dit Derrick. « Excuse-toi. »
+
+« Je suis désolé ! »
+
+« Tu n’as pas l’*air* désolé, » dit Derrick.
 
 Les yeux de Harry s’écarquillèrent sous le coup de l’indignation, il
 *était* parvenu à avoir l’air de plaider -
@@ -754,7 +922,7 @@ Un pied s’appuya sur l’arrière-train de Harry et un instant plus tard il
 était violemment poussé sur le côté, ce qui l’envoya s’étaler sur son
 dos.
 
-Derrick rit. »C’est *vraiment amusant*,« dit-il.
+Derrick rit. « C’est *vraiment amusant*, » dit-il.
 
 Tout ce qu’il avait à faire était de dire que c’en était assez. Et de
 faire part de la chose au bureau du Directeur. Ce serait la fin du
@@ -762,26 +930,52 @@ faire part de la chose au bureau du Directeur. Ce serait la fin du
 professeur McGonagall serait en colère, mais…
 
 (Une image du professeur McGonagall lui apparut dans un flash, elle
-n’avait pas l’air en colère, seulement triste -) »Maintenant, dites-lui qu’il vaut mieux que vous, Potter,« dit la voix
-du professeur Quirrell. »Tu vaux, mieux, que, moi.« Harry commença à se relever et Derrick lui mit un pied sur la poitrine
+n’avait pas l’air en colère, seulement triste -)
+
+« Maintenant, dites-lui qu’il vaut mieux que vous, Potter, » dit la voix
+du professeur Quirrell.
+
+« Tu vaux, mieux, que, moi. »
+
+Harry commença à se relever et Derrick lui mit un pied sur la poitrine
 et le repoussa sur le tapis.
 
 Le monde devenait aussi transparent que du cristal. Les lignes d’actions
 et leurs conséquences s’étiraient devant Harry avec une clarté absolue.
 L’idiot ne s’attendrait pas à ce qu’il riposte, un rapide coup dans
-l’aine l’étourdirait assez longtemps pour — »Essayez encore,« dit le professeur Quirrell, et d’un mouvement soudain
+l’aine l’étourdirait assez longtemps pour -
+
+« Essayez encore, » dit le professeur Quirrell, et d’un mouvement soudain
 et très rapide, Harry fit une roulade et bondit sur ses pieds et
 virevolta face à l’endroit où se tenait son véritable ennemi, le
 professeur de Défense -
 
-Le professeur Quirrell dit : »Vous n’avez aucune patience.« Harry vacilla. Son esprit, expert en pessimisme, dessina l’image d’un
+Le professeur Quirrell dit : « Vous n’avez aucune patience. »
+
+Harry vacilla. Son esprit, expert en pessimisme, dessina l’image d’un
 vieillard rabougri avec du sang s’écoulant de sa bouche après que Harry
 lui ait arraché la langue -
 
 Un instant plus tard, Derrick poussa à nouveau Harry sur le tapis et
-s’assit sur lui, expulsant l’air de ses poumons. »Arrête !« hurla Harry. »S’il te plaît, arrête !« »Mieux,« dit le professeur Quirrell. »Ça avait même l’air sincère.« Ça *l’avait* été. C’était ça qui était horrible, qui le rendait malade :
+s’assit sur lui, expulsant l’air de ses poumons.
+
+« Arrête ! » hurla Harry. « S’il te plaît, arrête ! »
+
+« Mieux, » dit le professeur Quirrell. « Ça avait même l’air sincère. »
+
+Ça *l’avait* été. C’était ça qui était horrible, qui le rendait malade :
 ça *avait* été sincère. Harry respirait par à-coups, la peur et la
-colère se répandaient en lui — »Perdez,« dit le professeur Quirrell. »Je, perds,« parvint à dire Harry. »J’aime bien ça,« dit Derrick de son perchoir. »Perds encore un peu.« ------------------------------------------------------------------------
+colère se répandaient en lui -
+
+« Perdez, » dit le professeur Quirrell.
+
+« Je, perds, » parvint à dire Harry.
+
+« J’aime bien ça, » dit Derrick de son perchoir. « Perds encore un peu. »
+
+
+
+------------------------------------------------------------------------
 
 
 
@@ -789,18 +983,30 @@ Des mains poussaient Harry, l’envoyant trébucher d’un bout à l’autre du
 cercle de Serpentard plus âgés, jusqu’à une paire de mains qui le
 poussait à nouveau. Ça faisait longtemps que Harry avait arrêté
 d’essayer de ne pas pleurer, et il essayait maintenant juste de ne pas
-tomber. »Tu es un quoi, Potter ?« dit Derrick. »Un, p-perdant, je perds, j’abandonne, tu gagnes, tu es m-meilleur, que
-moi, arrête s’il te plaît -« Harry trébucha sur un pied et alla s’écraser au sol, ses mains ne
+tomber.
+
+« Tu es un quoi, Potter ? » dit Derrick.
+
+« Un, p-perdant, je perds, j’abandonne, tu gagnes, tu es m-meilleur, que
+moi, arrête s’il te plaît — »
+
+Harry trébucha sur un pied et alla s’écraser au sol, ses mains ne
 parvenant pas tout à fait à le rattraper. Il fut étourdi pendant un
-moment, puis il tenta de se remettre sur pied — »*Assez !*« dit la voix du professeur Quirrell, et elle semblait assez
-tranchante pour couper de l’acier. »Éloignez-vous de M. Potter !« Harry vit l’air surpris sur leurs visages. Le frisson dans son sang qui
+moment, puis il tenta de se remettre sur pied -
+
+« *Assez !* » dit la voix du professeur Quirrell, et elle semblait assez
+tranchante pour couper de l’acier. « Éloignez-vous de M. Potter ! »
+
+Harry vit l’air surpris sur leurs visages. Le frisson dans son sang qui
 avait monté puis décliné sourit avec une froide satisfaction.
 
 Puis Harry s’effondra sur le tapis.
 
 Le professeur Quirrell parla. Il y eut des bruits d’étranglement venant
-des Serpentard plus âgés. »Et je crois que l’héritier de Malefoy a quelque chose qu’il aimerait
-aussi vous expliquer,« conclut le professeur Quirrell.
+des Serpentard plus âgés.
+
+« Et je crois que l’héritier de Malfoy a quelque chose qu’il aimerait
+aussi vous expliquer, » conclut le professeur Quirrell.
 
 La voix de Drago commença à parler. Elle semblait aussi tranchante que
 celle du professeur Quirrell, elle avait acquis la même cadence que
@@ -819,9 +1025,11 @@ sembla pas capable de penser à autre chose qu’à un gazouillis d’oiseau.
 
 Puis Drago se tut et le professeur Quirrell dit aux Serpentard plus âgés
 qu’ils étaient congédiés, et Harry ouvrit les yeux et eut du mal à se
-mettre en posture assise, »Attendez,« dit Harry, forçant les mots à
-franchir ses lèvres, »il y a quelque chose… que je veux, leur dire, à
-eux.« »Attendez M. Potter,« dit froidement le professeur Quirrell aux
+mettre en posture assise, « Attendez, » dit Harry, forçant les mots à
+franchir ses lèvres, « il y a quelque chose… que je veux, leur dire, à
+eux. »
+
+« Attendez M. Potter, » dit froidement le professeur Quirrell aux
 Serpentard qui partaient.
 
 Harry oscillait sur ses pieds. Il faisait attention à ne pas regarder en
@@ -835,37 +1043,65 @@ semblaient en état de choc. Ils le fixèrent en retour. Leur visages
 Son côté obscur, lorsqu’il avait repris le contrôle, s’était accroché à
 l’image de cet instant et avait continué à faire semblant de perdre.
 
-Harry dit, »Personne ne sera- « »Arrêtez,« dit le professeur Quirrell. »Si c’est ce que je pense que
+Harry dit, « Personne ne sera- »
+
+« Arrêtez, » dit le professeur Quirrell. « Si c’est ce que je pense que
 c’est, merci d’attendre après leur départ. Ils l’apprendront plus tard.
-Nous avons tous nos leçons à apprendre, M. Potter.« »Très bien,« dit Harry. »Vous. Partez.« Les Serpentard plus âgés s’enfuirent et la porte se referma derrière
-eux. »Personne ne se vengera sur eux,« dit Harry d’une voix rauque. »C’est
+Nous avons tous nos leçons à apprendre, M. Potter. »
+
+« Très bien, » dit Harry.
+
+« Vous. Partez. »
+
+Les Serpentard plus âgés s’enfuirent et la porte se referma derrière
+eux.
+
+« Personne ne se vengera sur eux, » dit Harry d’une voix rauque. « C’est
 une requête envers quiconque se considère mon ami. J’avais une leçon à
 apprendre, et ils m’y ont aidé, ils avaient leur leçon à apprendre
 aussi, et c’est fini. Si vous racontez cette histoire, assurez-vous de
-raconter cette partie aussi.« Harry pivota pour regarder le professeur Quirrell. »Vous avez perdu,« dit le professeur Quirrell d’une voix qui pour la
+raconter cette partie aussi. »
+
+Harry pivota pour regarder le professeur Quirrell.
+
+« Vous avez perdu, » dit le professeur Quirrell d’une voix qui pour la
 première fois était douce. C’était étrange venant du professeur, comme
 si sa voix n’aurait pas dû être capable de faire ça.
 
 Harry *avait* perdu. Il y avait eu des moments où la colère froide avait
 totalement disparu, remplacée par de la peur, et pendant ces moments, il
-avait supplié les Serpentard plus âgés, et il avait été sincère… »Et êtes-vous toujours en vie ?« dit le professeur Quirrell, toujours
+avait supplié les Serpentard plus âgés, et il avait été sincère…
+
+« Et êtes-vous toujours en vie ? » dit le professeur Quirrell, toujours
 avec cette étrange douceur.
 
-Harry parvint à hocher la tête. »Toutes les défaites ne sont pas comme celle-là,« dit le professeur
-Quirrell. »Il y a des compromis et des capitulations négociées. Il
+Harry parvint à hocher la tête.
+
+« Toutes les défaites ne sont pas comme celle-là, » dit le professeur
+Quirrell. « Il y a des compromis et des capitulations négociées. Il
 existe d’autres moyens de calmer les petits durs. Il y a tout un art
 consistant à manipuler les autres en les laissant vous dominer. Mais
 d’abord, la défaite doit être *envisageable*. Vous rappellerez-vous de
-la façon dont vous avez perdu ?« »Oui.« »Serez-vous capable de perdre ?« »Je… pense…« »Je pense aussi.« Le professeur Quirrell s’inclina si bas que ses courts
-cheveux touchèrent presque le sol. »Félicitations M. Potter, vous avez
-gagné.« Il n’y eut pas de source, pas de premier à agir, l’applaudissement
+la façon dont vous avez perdu ? »
+
+« Oui. »
+
+« Serez-vous capable de perdre ? »
+
+« Je… pense… »
+
+« Je pense aussi. » Le professeur Quirrell s’inclina si bas que ses courts
+cheveux touchèrent presque le sol. « Félicitations M. Potter, vous avez
+gagné. »
+
+Il n’y eut pas de source, pas de premier à agir, l’applaudissement
 démarra d’un coup comme un immense coup de tonnerre.
 
 Harry ne pouvait pas dissimuler son air abasourdi. Il risqua un regard
 vers ses camarades et il vit leurs visages montrer non pas de la pitié
 mais de l’admiration. Les applaudissements venaient de Serdaigle et de
 Gryffondor et de Poufsouffle et même de Serpentard, probablement parce
-que Drago Malefoy applaudissait lui aussi. Certains étudiants se levaient
+que Drago Malfoy applaudissait lui aussi. Certains étudiants se levaient
 de leurs chaises et la moitié de Gryffondor se tenait sur ses pupitres.
 
 Alors Harry se tint là, chancelant, laissant le respect qu’ils
@@ -873,7 +1109,10 @@ Alors Harry se tint là, chancelant, laissant le respect qu’ils
 même un peu soigné.
 
 Le professeur Quirrell attendit que les applaudissements s’éteignent.
-Cela prit un bon moment. »Surpris, M. Potter ?« dit le professeur Quirrell. Il avait l’air amusé. »Vous venez de découvrir que le monde réel ne fonctionne pas *toujours*
+Cela prit un bon moment.
+
+« Surpris, M. Potter ? » dit le professeur Quirrell. Il avait l’air amusé.
+« Vous venez de découvrir que le monde réel ne fonctionne pas *toujours*
 comme dans vos pires cauchemars. Oui, si vous aviez été un pauvre petit
 garçon anonyme victime d’abus, alors ils vous auraient probablement
 respecté encore moins après ça, ils auraient eu pitié de vous tout en
@@ -882,14 +1121,20 @@ humaine, j’en ai peur. Mais *vous*, ils voyaient déjà en vous une figure
 de pouvoir. Et ils vous ont vu faire face à votre peur, et continuer à
 lui faire face, même si vous auriez pu partir n’importe quand. Avez-vous
 eu une moindre opinion de *moi* lorsque j’ai délibérément enduré le fait
-d’être craché dessus ?« Harry sentit une sensation de brûlure dans sa gorge et la réprima
+d’être craché dessus ? »
+
+Harry sentit une sensation de brûlure dans sa gorge et la réprima
 frénétiquement. Il ne croyait pas assez à ce respect miraculeux pour se
-remettre à pleurer face à lui. »Votre réussite *extraordinaire* à ce cours mérite une récompense
+remettre à pleurer face à lui.
+
+« Votre réussite *extraordinaire* à ce cours mérite une récompense
 extraordinaire, Harry Potter. Merci de l’accepter avec mes compliments,
 au nom de ma Maison, et souvenez-vous à partir d’aujourd’hui que tous
 les Serpentard ne sont pas semblables. Il y a des Serpentard, et il y a
-des Serpentard.« Le professeur Quirrell eut un sourire plutôt large en
-disant cela. »Cinquante-et-un points pour Serdaigle.« Il y eut une pause choquée et le tumulte commença alors chez les élèves
+des Serpentard. » Le professeur Quirrell eut un sourire plutôt large en
+disant cela. « Cinquante-et-un points pour Serdaigle. »
+
+Il y eut une pause choquée et le tumulte commença alors chez les élèves
 de Serdaigle, des hurlements et des sifflements et des acclamations.
 
 (Et au même instant Harry sentit qu’il y avait là quelque chose qui
@@ -902,14 +1147,19 @@ ne pouvait pas dire non.
 
 Son cerveau fit une suggestion. C’était une bonne suggestion. Harry ne
 pouvait même pas croire que son cerveau le maintenait encore debout, et
-encore moins qu’il pouvait produire de bonnes suggestions. »Professeur Quirrell,« dit Harry, aussi clairement qu’il le pouvait à
-travers sa gorge brûlante. »Vous êtes tout ce qu’un membre de votre
+encore moins qu’il pouvait produire de bonnes suggestions.
+
+« Professeur Quirrell, » dit Harry, aussi clairement qu’il le pouvait à
+travers sa gorge brûlante. « Vous êtes tout ce qu’un membre de votre
 Maison devrait être, et je pense que vous devez être exactement ce que
 Salazar Serpentard avait à l’esprit lorsqu’il participa à la fondation
-de Poudlard. Je vous remercie, vous et votre Maison,« Drago hochait la
+de Poudlard. Je vous remercie, vous et votre Maison, » Drago hochait la
 tête très doucement et tournait légèrement l’un de ses doigts,
-*continue*, »et je pense que ça mérite trois acclamations pour
-Serpentard. Avec moi, tout le monde ?« Harry marqua une pause. »*Huzzah* !« . Seuls certains parvinrent à se joindre au premier essai. »*Huzzah* !« cette fois la plus grande partie de Serdaigle participa. »*Huzzah* !« C’était presque tout Serdaigle, quelques Poufsouffle
+*continue*, « et je pense que ça mérite trois acclamations pour
+Serpentard. Avec moi, tout le monde ? » Harry marqua une pause.
+« *Huzzah* ! ». Seuls certains parvinrent à se joindre au premier essai.
+« *Huzzah* ! » cette fois la plus grande partie de Serdaigle participa.
+« *Huzzah* ! » C’était presque tout Serdaigle, quelques Poufsouffle
 éparpillés, et près d’un quart de Gryffondor.
 
 La main de Drago leva son pouce d’un petit geste rapide.
@@ -918,15 +1168,22 @@ La plupart des Serpentard affichaient des expressions de choc absolu.
 Quelques-uns fixaient le professeur Quirrell avec émerveillement. Blaise
 Zabini regardait Harry avec une expression intriguée et calculatrice.
 
-Le professeur Quirrell s’inclina. »Merci à *vous*, Harry Potter,« dit-il, souriant toujours de ce large sourire. Il se tourna vers la
-classe. »Et maintenant, croyez-le ou non, nous avons encore une
+Le professeur Quirrell s’inclina. « Merci à *vous*, Harry Potter, »
+dit-il, souriant toujours de ce large sourire. Il se tourna vers la
+classe. « Et maintenant, croyez-le ou non, nous avons encore une
 demi-heure avant la fin du cours, et c’est assez pour présenter le
 Bouclier Simple. M. Potter, bien sûr, va s’en aller et profiter d’un
-repos bien mérité.« »Je peux -« »Idiot,« dit affectueusement le professeur Quirrell. La classe riait
-déjà. »Vos camarades pourront vous l’apprendre plus tard, ou je vous
+repos bien mérité. »
+
+« Je peux — »
+
+« Idiot, » dit affectueusement le professeur Quirrell. La classe riait
+déjà. « Vos camarades pourront vous l’apprendre plus tard, ou je vous
 donnerai des cours particulier si nécessaire. Mais *maintenant*, vous
 allez prendre la troisième porte en partant de la gauche à l’arrière de
 cette estrade, où vous trouverez un lit, un assortiment de casse-croûtes
 exceptionnellement délicieux, et quelques lectures extrêmement légères
 tirées de la bibliothèque de Poudlard. Vous ne pouvez rien emmener
-d’autre, et particulièrement pas vos manuels. Maintenant partez.« Harry s’en fut.
+d’autre, et particulièrement pas vos manuels. Maintenant partez. »
+
+Harry s’en fut.
