@@ -8,8 +8,7 @@ on:
 
 jobs:
   build_nix:
-    name: Test and build TODOs API
-    needs: check_nix
+    name: Build all the needed artifacts
     runs-on: ubuntu-latest
     steps:
       - name: git checkout
