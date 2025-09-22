@@ -20,16 +20,6 @@ jobs:
       - name: Build PDF, epub and mdbook
         run: nix build
 
-      - name: Create Release
-        id: create_release
-        uses: actions/create-release@v1
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          tag_name: ${{ github.ref }}
-          release_name: Release ${{ github.ref }}
-          draft: true
-          prerelease: false
 
       - name: Upload epub
         id: upload-epub
@@ -53,6 +43,17 @@ jobs:
           asset_name: hpmor.pdf
           asset_content_type: application/pdf
           
+      - name: Create Release
+        id: create_release
+        uses: actions/create-release@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          tag_name: ${{ github.ref }}
+          release_name: Release ${{ github.ref }}
+          draft: false
+          prerelease: false
+
       - name: Upload mdbook
         uses: actions/upload-pages-artifact@v3
         with:
@@ -78,3 +79,8 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
+
+
+
+permissions:
+  contents: write
