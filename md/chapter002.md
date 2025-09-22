@@ -8,23 +8,23 @@ jouer franc jeu. Si tu penses que tu pourrais réagir comme ça, tu
 devrais le dire *maintenant*, et nous pourrons trouver une autre
 expérience qui remplacera celle-ci. »
 
-Le père de Harry, le Professeur Michael Verres-Evans, leva les yeux au
+Le père de Harry, le professeur Michael Verres-Evans, leva les yeux au
 ciel. « Oui, Harry. »
 
 « Et toi, Maman, ta théorie dit que le professeur devrait en être
 capable, et si ça n’est pas le cas, tu admettras avoir eu tort. Pas d’excuses, comme quoi la magie ne fonctionne pas parce que les gens n’y croient pas, ou quoi que ce soit du genre. »
 
-Madame la Directrice adjointe, Minerva McGonagall regardait Harry avec
+Madame la directrice adjointe, Minerva McGonagall regardait Harry avec
 perplexité. Elle avait bien l’air d’une sorcière avec ses robes noires
 et son chapeau pointu, mais lorsqu’elle parlait, c’était d’un ton formel
 et écossais qui n’allait pas du tout avec son apparence. Au premier
 abord, elle ressemblait à quelqu’un qui devrait ricaner et mettre des
 bébés dans des chaudrons, mais l’effet était gâché à la seconde où elle
-ouvrait la bouche. « Est-ce assez, M. Potter ? », dit-elle. « Puis-je à
+ouvrait la bouche. « Est-ce assez, monsieur Potter ? », dit-elle. « Puis-je à
 présent opérer la démonstration ? »
 
 « *Assez* ? Probablement pas », dit Harry. « Mais au moins, ça *aidera*.
-Allez-y, Madame la Directrice adjointe. »
+Allez-y, Madame la directrice adjointe. »
 
 « Professeur suffira », dit-elle, puis : « *Wingardium Leviosa*. »
 
@@ -34,7 +34,7 @@ Harry regarda son père.
 
 Son père le regarda à son tour. « Huh », dit-il en écho.
 
-Puis le Professeur Verres-Evans regarda le Professeur McGonagall. « Très
+Puis le professeur Verres-Evans regarda le professeur McGonagall. « Très
 bien, vous pouvez me faire descendre maintenant. »
 
 Son père fut précautionneusement descendu jusqu’au sol.
@@ -55,14 +55,14 @@ le professeur de Poudlard agiter sa main et faire voler ton père dans
 les airs. Et maintenant ?*
 
 La femme sorcière leur souriait et semblait s’amuser.
-« Souhaiteriez-vous une démonstration supplémentaire, M. Potter ? »
+« Souhaiteriez-vous une démonstration supplémentaire, monsieur Potter ? »
 
 « Vous n’avez pas à faire ça », dit Harry. « Nous venons de réaliser une
 expérience décisive. Mais… » Harry hésita. Il ne pouvait pas s’en
 empêcher. En fait, dans ces circonstances, il ne *devrait pas* s’en
 empêcher. Il était convenable et justifié d’être curieux. « Que pouvez-vous *faire* d’autre ? »
 
-Le Professeur McGonagall se transforma en chat.
+Le professeur McGonagall se transforma en chat.
 
 Harry eut un mouvement de recul involontaire, si vite qu’il trébucha sur
 une pile de livres abandonnés et fit un dur atterrissage sur son
@@ -72,7 +72,7 @@ d’avertissement dans son épaule alors que son poids terminait sa chute
 libre.
 
 Le petit chat tigré redevint immédiatement une femme en robes. « Je suis
-navrée, M. Potter », dit McGonagall, l’air sincère, bien que ses lèvres
+navrée, monsieur Potter », dit McGonagall, l’air sincère, bien que ses lèvres
 s’étirassent en un sourire. « J’aurais dû vous prévenir. »
 
 Harry avait le souffle court. Sa voix sortit étouffée. « *Vous ne POUVEZ
@@ -119,7 +119,7 @@ de Harry. La gagnante se fit entendre : « Et à quel type d’incantation
 appartient *Wingardium Leviosa* ? Qui invente les mots pour ces sorts,
 des enfants en maternelle ? »
 
-« C’est assez, M. Potter », dit McGonagall avec fraicheur, bien que ses
+« C’est assez, monsieur Potter », dit McGonagall avec fraicheur, bien que ses
 yeux brillassent d’un amusement contenu. « Si vous souhaitez apprendre la
 magie, je suggère que nous mettions la dernière main à cette
 paperasserie afin que vous puissiez être inscrit à Poudlard. »
@@ -191,12 +191,12 @@ porche, d’où ses hurlements de rires restaient tout à fait audibles.
 
 « Ahem, eh bien, voyons », dit McGonagall, qui, pour une raison ou une
 autre, semblait avoir du mal à parler, « personne ne mordra de
-professeur à Poudlard, est-ce bien clair, M. Potter ? »
+professeur à Poudlard, est-ce bien clair, monsieur Potter ? »
 
 Harry fit une mine renfrognée. « D’accord, je ne mordrai personne qui ne
 m’aura pas mordu d’abord. »
 
-Le Professeur Michael Verres-Evans dut, lui aussi, quitter la pièce
+Le professeur Michael Verres-Evans dut, lui aussi, quitter la pièce
 lorsqu’il entendit ça.
 
 « Bon », soupira McGonagall après que les parents de Harry eurent
@@ -208,8 +208,8 @@ classes. »
 « Quoi ? Pourquoi ? Les autres enfants connaissent déjà la magie, non ?
 Je dois commencer à les rattraper tout de suite ! »
 
-« Soyez rassuré, M. Potter », répondit McGonagall, « Poudlard est tout à
-fait capable d’enseigner les fondamentaux. Et je soupçonne, M. Potter,
+« Soyez rassuré, monsieur Potter », répondit McGonagall, « Poudlard est tout à
+fait capable d’enseigner les fondamentaux. Et je soupçonne, monsieur Potter,
 que, si je vous laisse seul durant deux mois avec vos manuels scolaires,
 même sans baguette, je reviendrais dans cette maison et trouverais,
 à la place, un cratère bouillonnant d’une fumée violette entouré

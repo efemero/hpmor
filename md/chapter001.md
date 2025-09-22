@@ -14,11 +14,11 @@ livres débordent des tables et des canapés ; d’autres encore forment de
 petits tas sous les fenêtres.
 
 C’est le salon de la maison où vivent l’éminent professeur Michael
-Verres-Evans, sa femme, Mme Pétunia Evans-Verres, et leur fils adoptif :
+Verres-Evans, sa femme, madame Pétunia Evans-Verres, et leur fils adoptif :
 Harry James Potter-Evans-Verres.
 
 Une lettre est sur la table du salon, et une enveloppe sans timbre
-faite d’un parchemin jaunâtre, adressée à un M. H. Potter d’une encre
+faite d’un parchemin jaunâtre, adressée à un monsieur H. Potter d’une encre
 vert émeraude, se trouve là aussi.
 
 Le professeur et sa femme discutent sèchement, mais ils ne crient pas.
@@ -216,7 +216,7 @@ critérium. Cela méritait un effort calligraphique plus méticuleux.
 
 *Ou à toute personne concernée : *
 
-*J’ai récemment reçu votre lettre d’admission à Poudlard, adressée à M.
+*J’ai récemment reçu votre lettre d’admission à Poudlard, adressée à monsieur
 H. Potter. Peut-être ignorez-vous que mes parents biologiques, James
 Potter et Lily Potter (anciennement Lily Evans), sont morts. Pétunia Evans-Verres, la sœur de Lily, et
 son mari, Michael Verres-Evans, m’ont adopté.
