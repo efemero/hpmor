@@ -7,7 +7,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  build_nix:
+  build:
     name: Build all the needed artifacts
     runs-on: ubuntu-latest
     steps:
@@ -73,7 +73,7 @@ jobs:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
-    needs: build-nix
+    needs: build
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
