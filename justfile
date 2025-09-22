@@ -1,4 +1,4 @@
-build: clean epub
+build: clean epub pdf mdbook
     echo Building…
 
 clean:
