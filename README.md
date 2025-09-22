@@ -45,16 +45,20 @@ Les fichiers finaux PDF et epub sont générés par pandoc via une [github actio
 
 Le livre en ligne est généré par [mdBook](https://github.com/rust-lang/mdBook) et déployé sur github pages.
 
+Il y a un `flake.nix` qui comprend toutes les dépendences nécessaires pour créer les différents formats. Il suffit de faire un `nix build`.
+
+Si vous n’avez pas nix, il y a un [justfile](https://just.systems/man/en/introduction.html), et après avoir installé les dépendances, vous pouvez lancer un `just build`. Le build via nix utilise le `justfile`, donc, à part des problèmes de dépendances, vous devriez obtenir le même résultat.
+
 ## Avancement du projet
 
 - [x] génération des fichiers epub et PDF
 - [x] génération du mdBook et déploiement sur ghpages
 - [x] Retrait des en-têtes de chapitre (disclaimer sur J. K. Rowling et citations)
-- [ ] Traduction des noms des personnages cohérente avec la traduction française
+- [x] Traduction des noms des personnages cohérente avec la traduction française
 - [ ] Premier passage dans un correcteur
 - [ ] Gestion des passages en fourchelangue
-- [ ] Correction des problèmes de ponctuation et de la typographie
-- [ ] Amélioration du style typographique
+- [x] Correction des problèmes de ponctuation et de la typographie
+- [x] Amélioration du style typographique
 - [ ] Amélioration visuelle des sauts de paragraphes (les lignes horizontales entre certains paragraphes)
 - [ ] Amélioration visuelle du template PDF
 
