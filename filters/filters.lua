@@ -1,3 +1,12 @@
+function Underline(el)
+	if FORMAT == "markdown" then
+			local md_content = pandoc.write(pandoc.Pandoc({ pandoc.Para(el.content) }), "markdown")
+			md_content = md_content:gsub("^%s+", ""):gsub("%s+$", ""):gsub("\n", "")
+			local html = '<span class="underline">' .. md_content .. "</span>"
+			return pandoc.RawInline("markdown", html)
+	end	 
+end
+
 function Span(el)
 	if #el.classes > 0 then
 		local class = el.classes[1]
@@ -5,10 +14,14 @@ function Span(el)
 			local latex_content = pandoc.write(pandoc.Pandoc({ pandoc.Para(el.content) }), "latex")
 			latex_content = latex_content:gsub("\n+$", "") -- supprime les fins de ligne
 			return pandoc.RawInline("latex", "\\" .. class .. "{" .. latex_content .. "}")
-		elseif FORMAT == "html" or FORMAT == "markdown" then
+		elseif FORMAT == "html" then
 			local md_content = pandoc.write(pandoc.Pandoc({ pandoc.Para(el.content) }), "markdown")
 			md_content = md_content:gsub("^%s+", ""):gsub("%s+$", ""):gsub("\n", "")
 			local html = '<span class="' .. class .. '">' .. md_content .. "</span>"
+			return pandoc.RawInline("markdown", html)
+		elseif FORMAT == "markdown" then
+			local md_content = pandoc.write(pandoc.Pandoc({ pandoc.Para(el.content) }), "markdown")
+			local html = '<span class="' .. class .. ' yolo">' .. md_content .. "</span>"
 			return pandoc.RawInline("markdown", html)
 		end
 	end

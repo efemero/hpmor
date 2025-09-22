@@ -2,8 +2,12 @@
 title = "Harry Potter et les Méthodes de la Rationalité"
 authors = ["Eliezer Yudkowsky"]
 language = "fr"
+src = "target/src"
 
 
 [build]
 build-dir = "target/book"  
 create-missing = false
+
+[output.html]
+additional-css = ["css/mdbook.css"]

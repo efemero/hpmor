@@ -1,6 +1,7 @@
 target
+outputs
+result
 *.html
-src/md
 test.*
 tools/restart.md
 /.direnv

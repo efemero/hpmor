@@ -67,8 +67,8 @@ n’était pas ce qui s’était passé à l’instant où Harry avait enlevé l
 Choixpeau de sa tête ; il avait alors entendu un léger murmure qui ne
 semblait venir de nulle part, quelque chose qui sonnait étrangement
 anglais tout en étant un sifflement, quelque chose qui avait dit :
-[*« “Ssalutations de Sserpentard à Sserpentard : si tu veux chercher mes
-ssecrets, parle à mon sserpent. »*]{ .serpent}
+[« *Ssalutations de Sserpentard à Sserpentard : si tu veux chercher mes
+ssecrets, parle à mon sserpent.* »]{ .serpent}
 
 Harry devinait vaguement que ce n’était pas censé faire partie du
 processus de Triage officiel. Et que c’était un bout de magie
