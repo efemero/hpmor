@@ -7,16 +7,20 @@ on:
   workflow_dispatch:
 
 jobs:
-  build-epub-pdf:
+  build_nix:
+    name: Test and build TODOs API
+    needs: check_nix
     runs-on: ubuntu-latest
-    container: ghcr.io/informatica-global/pandoc-texlive-full
-
     steps:
-      - uses: actions/checkout@v4
+      - name: git checkout
+        uses: actions/checkout@v4
       - run: cd $GITHUB_WORKSPACE
-      - run: mkdir target
-      - run: pandoc --top-level-division=chapter -o target/hpmor.epub book.yaml "md/avant-propos.md" md/chapter*.md  "md/colophon.md" --lua-filter=filters/filters.lua --css ./css/epub.css --epub-embed-font fonts/Parseltongue.ttf
-      - run: pandoc --top-level-division=chapter -o target/hpmor.pdf book.yaml "md/avant-propos.md" md/chapter*.md  "md/colophon.md" --lua-filter=filters/filters.lua --pdf-engine=xelatex --template=templates/book.tex
+      - name: Install Nix
+        uses: DeterminateSystems/nix-installer-action@main
+      - uses: DeterminateSystems/magic-nix-cache-action@main
+      - name: Build PDF, epub and mdbook
+        run: nix build
+
       - name: Create Release
         id: create_release
         uses: actions/create-release@v1
@@ -27,6 +31,7 @@ jobs:
           release_name: Release ${{ github.ref }}
           draft: true
           prerelease: false
+
       - name: Upload epub
         id: upload-epub
         uses: actions/upload-release-asset@v1
@@ -34,9 +39,10 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           upload_url: ${{ steps.create_release.outputs.upload_url }}
-          asset_path: ./target/hpmor.epub
+          asset_path: ./result/hpmor.epub
           asset_name: hpmor.epub
           asset_content_type: application/epub
+          
       - name: Upload pdf
         id: upload-pdf
         uses: actions/upload-release-asset@v1
@@ -44,40 +50,22 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           upload_url: ${{ steps.create_release.outputs.upload_url }}
-          asset_path: ./target/hpmor.pdf
+          asset_path: ./result/hpmor.pdf
           asset_name: hpmor.pdf
           asset_content_type: application/pdf
-  build-mdbook:
-    runs-on: ubuntu-latest
-    permissions:
-      id-token: write
-      contents: write
-    steps:
-      - uses: actions/checkout@v4
-      - run: cd $GITHUB_WORKSPACE
-      - run: mkdir src/md
-      - name: Convert markdown for mdbook
-        id: convert-to-mdbook
-        uses: r-lib/actions/setup-pandoc@v2
-      - run: find md -type f -name '*.md' -print0 | xargs -0 -n2 -P2 -I{} pandoc {} -o src/{} -t markdown --lua-filter=filters/filters.lua
-      - name: Create mdbook
-        id: create-mdbook
-        uses: peaceiris/actions-mdbook@v2
-        with:
-          mdbook-version: 'latest'
-      - run: mdbook build
-      - run: ls target
-      - name: Upload artifact
+          
+      - name: Upload mdbook
         uses: actions/upload-pages-artifact@v3
         with:
-          path: ./target/book
+          path: ./result/book
+          
       - name: Deploy mdbook as github pages
         id: mdbook-ghpages
         uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./target/book
-
+          publish_dir: ./result/book
+          
   deploy-gh-pages:
     permissions:
       id-token: write
@@ -86,9 +74,8 @@ jobs:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
-    needs: build-mdbook
+    needs: build-nix
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
-
