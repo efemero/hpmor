@@ -51,10 +51,10 @@ Pétunia se mordit la lèvre. « Je ne peux pas te le dire. Tu penseras que
 je suis… » Elle déglutit. « Écoute. Michael. Je n’ai pas toujours été…
 ainsi… » Elle se désigna elle-même, comme pour faire référence à sa
 silhouette bien proportionnée. « C’est grâce à Lily. Parce que je… Parce
-que je l’ai *suppliée*. Pendant des années. Elle avait *toujours* été
+que je l’ai *supplié*. Pendant des années. Elle avait *toujours* été
 plus belle que moi, et ça m’avait rendue… méchante envers elle. Et puis
 elle a eu des *pouvoirs*. Est-ce que tu peux imaginer ce que j’ai
-ressenti ? Alors, je l’ai *suppliée* d’utiliser sa magie pour que je
+ressenti ? Alors, je l’ai *supplié* d’utiliser sa magie pour que je
 puisse être belle moi aussi. Au moins, même si je n’avais pas sa magie,
 je pourrais être belle. »
 
@@ -62,7 +62,7 @@ Des larmes s’étaient accumulées dans les yeux de Pétunia.
 
 « Et elle refusait, elle inventait les excuses les plus fantasques.
 Comme quoi ce serait la fin du monde si elle acceptait d’aider sa sœur,
-ou qu’un centaure l’avait mise en garde… je la haïssais de me donner ces
+ou qu’un centaure l’avait mis en garde… je la haïssais de me donner ces
 excuses minables. Et puis, juste après l’université, je sortais avec ce
 garçon, Vernon Dursley. Il était gros et c’était le seul garçon qui
 voulait bien me parler. Et il m’a dit qu’il voulait avoir des enfants,
