@@ -64,7 +64,7 @@ ami, puis que quelque chose avait très mal tourné… ce n’était pas
 vraiment ça, mais Harry n’arrivait pas à trouver les mots justes. « Et
 pour le reste ? »
 
-McGonagall lui jeta un étrange regard. « M. Potter… savez-vous… que vous
+McGonagall lui jeta un étrange regard. « Monsieur Potter… savez-vous… que vous
 a-t-on dit *au juste*… sur la façon dont vos parents sont morts ? »
 
 Harry lui renvoya un regard ferme. « Mes parents sont vivants et bienportants, et ils ont toujours refusé de me parler de la façon dont mes
@@ -104,7 +104,7 @@ venait de se transformer en chat.
 Et ils s’avancèrent tous deux dans le monde magique.
 
 Il y avait des marchands vantant des Bottes Rebondissantes (« Faites
-avec du vrai Flubber ! ») et « Couteaux +3 ! Fourchettes +2 ! Cuillères
+avec du vrai Flubber ! ») et « Couteaux +3 ! Fourchettes +2 ! Cuillères
 avec un bonus de +4 ! » Il y avait des lunettes capables de rendre vert
 tout ce que vous regardiez, et une sélection de confortables fauteuils
 de salon dotés de sièges éjectables pour les urgences.
@@ -123,7 +123,7 @@ faite de briques bleues aux rebords bronze-acier. Il fallut que
 McGonagall se campe juste devant lui pour que Harry revienne à la
 réalité.
 
-« M. Potter ? » dit-elle.
+« Monsieur Potter ? » dit-elle.
 
 Harry cligna des yeux, puis se rendit compte de ce qu’il venait de
 faire. « Je suis navré ! J’ai oublié pendant un moment que j’étais avec
@@ -138,7 +138,7 @@ règle de la famille. »
 
 « Quoi ? »
 
-« Rien. M. Potter, notre première étape sera une visite à Gringotts, la
+« Rien. monsieur Potter, notre première étape sera une visite à Gringotts, la
 banque du monde magique. La chambre forte de votre famille *génétique*
 s’y trouve, ainsi que l’héritage que vos parents *génétiques* vous ont
 laissé, et vous allez avoir besoin d’argent pour vos fournitures
@@ -262,3 +262,4 @@ Et ils marchèrent ensemble en silence, jusqu’à ce qu’ils parviennent à
 un grand bâtiment blanc aux vastes portes de bronze.
 
 « Gringotts », dit McGonagall.
+
