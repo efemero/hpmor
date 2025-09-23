@@ -1553,7 +1553,7 @@ courte distance, parvint à Harry -
 probablement celle que les gens entendaient quand il parlait :
 « Attention au singe vert. »
 
-« *Hsssss ssss sshsshssss* », dit Harry.
+« [Hsssss ssss sshsshssss]{.serpent} », dit Harry.
 
 Le serpent ondula en sens inverse jusqu’à Drago.
 

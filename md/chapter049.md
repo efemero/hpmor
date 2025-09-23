@@ -122,10 +122,10 @@ Tenorman maison. »
 Harry hésita, en plein désarroi. Il avait prit la résolution de s’en
 tenir aux plats végétariens pour le moment, mais il avait oublié au
 cours de ses délibérations que c’était le professeur Quirrell qui
-*commandait les plats* — et il serait maladroit de protester maintenant
--
+*commandait les plats* — et il serait maladroit de protester maintenant –
 
-La serveuse s’inclina, et se tourna pour partir -
+
+La serveuse s’inclina, et se tourna pour partir –
 
 « Euh, excusez-moi, ça ne contient pas de viande de serpent ou d’écureuil
 volant ? »
@@ -147,8 +147,8 @@ sortilèges d’intimité habituels, et dit : « Une question intéressante,
 Potter. Je me demande pourquoi vous l’avez posée. »
 
 Harry maintint une expression neutre. « Je m’informais sur le Patronus un
-peu plus tôt », dit-il. « À en croire »Le Patronus : ceux qui en étaient
-capables et les autres« , il s’avère que Godric n’en était pas capable,
+peu plus tôt », dit-il. « À en croire “Le Patronus : ceux qui en étaient
+capables et les autres” , il s’avère que Godric n’en était pas capable,
 mais que Salazar, si. J’ai été surpris, alors j’ai suivi la référence,
 dans *Quatre vies de Pouvoir*. Et j’ai *ensuite* découvert que Salazar
 Serpentard était censé pouvoir parler aux serpents. » (La séquentialité
@@ -158,7 +158,7 @@ recherches révélèrent une vieille histoire au sujet d’une déesse mère
 capable de parler aux écureuils volants. J’étais un peu inquiet à l’idée
 de manger une chose douée de parole. »
 
-Et Harry prit une gorgée d’eau d’un air décontracté -
+Et Harry prit une gorgée d’eau d’un air décontracté —
 
 \- juste quand le professeur Quirrell répondit : « M. Potter, aurais-je
 raison de deviner que vous aussi êtes Fourchelangue ? »
@@ -177,7 +177,7 @@ arrivé à cette conclusion en vous basant sur ces informations. »
 « Bien sûr que non », dit calmement le professeur Quirrell. « Je comptais
 vous poser cette question aujourd’hui de toute façon, et j’ai simplement
 choisi un moment opportun. Je le soupçonne depuis décembre, à vrai dire
-- »
+— »
 
 « *Décembre ?* » dit Harry. « Je l’ai découvert *hier* ! »
 
@@ -455,8 +455,7 @@ l’ordre que M. Bester avait utilisé, l’ensemble complet de vingt-sept
 sorts que vous utiliseriez avant de parler de quoi que ce soit de
 vraiment important.
 
-Si la discussion sur la Chambre des Secrets *n’avait pas* été importante
--
+Si la discussion sur la Chambre des Secrets *n’avait pas* été importante —
 
 Quand le professeur Quirrell en eut fini — il avait réalisé *trente*
 sorts, dont trois que Harry n’avait jamais entendus — le professeur de
@@ -511,80 +510,80 @@ La sensation funeste avait ironiquement diminué après que le professeur
 de Défense de Poudlard se fut transformé en un serpent venimeux.
 
 Harry déglutit et dit : « Salutations — ah, hssss, non, ah,
-*ssalutationss.* »
+[ssalutationss.]{.serpent} »
 
-« *Alors* », siffla le serpent. « *Vouss parlez, j’entends. Je parle, vous
-entendez ?* »
+« [Alors]{.serpent} », siffla le serpent. « [Vouss parlez, j’entends. Je parle, vous
+entendez ?]{.serpent} »
 
-« *Oui, je comprends,* » siffla Harry. *« Vous êtess un Animaguss ? »*
+« [Oui, je comprends,]{.serpent} » siffla Harry. [« Vous êtess un Animaguss ? »]{.serpent}
 
-« *Bien ssûr* », siffla le serpent. « *Trente-ssept règles, numéro
+« [Bien ssûr]{.serpent} », siffla le serpent. « [Trente-ssept règles, numéro
 trente-quatre : Devenir un Animaguss. Touss les gens ssensés le font
-s’ils en ssont capables. Très rare, donc.* » Les yeux du serpent étaient
+s’ils en ssont capables. Très rare, donc.]{.serpent} » Les yeux du serpent étaient
 des surfaces plates logées dans des abysses noires, des pupilles noires
-acérées au milieu d’espaces gris. « *C’est le moyen de sse parler le plus
-ssûr. Voyez-vous pourquoi ? Perssonne d’autre ne nouss comprend.* »
+acérées au milieu d’espaces gris. « [C’est le moyen de sse parler le plus
+ssûr. Voyez-vous pourquoi ? Perssonne d’autre ne nouss comprend.]{.serpent} »
 
-« *Même ss’ils ssont des sserpents Animaguss ?* »
+« [Même ss’ils ssont des sserpents Animaguss ?]{.serpent} »
 
-« *Pas à moins que l’héritier de Sserpentard ne le veuille.* » Le serpent
+« [Pas à moins que l’héritier de Sserpentard ne le veuille.]{.serpent} » Le serpent
 émit une série de courts sifflements que le cerveau de Harry traduit en
-un rire sardonique. « *Sserpentard pas sstupide. Sserpent Animaguss pas
-pareils que Fourchelangue. Sserait énorme défaut dans le plan.* »
+un rire sardonique. « [Sserpentard pas sstupide. Sserpent Animaguss pas
+pareils que Fourchelangue. Sserait énorme défaut dans le plan.]{.serpent} »
 
 Eh bien *voilà* qui soutenait certainement que le Fourchelangue était
 une magie personnelle, pas le résultat d’une population de serpents
 sentiente dotée d’un langage qu’un humain pouvait apprendre -
 
-« *Je ne ssuis pas enregisstré* », siffla le serpent. Les abysses noires
-fixaient Harry. « *Les Animaguss doivent être enregisstrés. La peine est
-deux ans d’emprisonnement. Garderez-vous mon ssecret, enfant ?* »
+« [Je ne ssuis pas enregisstré]{.serpent} », siffla le serpent. Les abysses noires
+fixaient Harry. « [Les Animaguss doivent être enregisstrés. La peine est
+deux ans d’emprisonnement. Garderez-vous mon ssecret, enfant ?]{.serpent} »
 
-« *Oui,* » siffla Harry. « *Ne briserai jamais promessse.* »
+« [Oui,]{.serpent} » siffla Harry. « [Ne briserai jamais promessse.]{.serpent} »
 
 Le serpent sembla rester immobile, comme sous l’effet d’un choc, puis il
-se remit à onduler. « *Nouss reviendronss dans ssept jourss. Amenez cape
+se remit à onduler. « [Nouss reviendronss dans ssept jourss. Amenez cape
 pour passser ssans être vu, et ssablier pour déplacement dans le
-temps.* »
+temps.]{.serpent} »
 
-« *Vous ssavez ?* » siffla Harry, éberlué. « *Comment -* »
+« [Vous ssavez ?]{.serpent} » siffla Harry, éberlué. « [Comment -]{.serpent} »
 
 Encore la série de courts sifflements rapides qui se traduisaient par un
-rire sardonique. « *Vous arrivez à mon premier cours alors que vous êtes
-encore à un autre, abattez vos ennemis avec tarte, deux Rapeltouts -* »
+rire sardonique. « [Vous arrivez à mon premier cours alors que vous êtes
+encore à un autre, abattez vos ennemis avec tarte, deux Rapeltouts -]{.serpent} »
 
-« *Laisssez tomber* », siffla Harry. « *Quesstion sstupide, oublié que vous
-étiez malin.* »
+« [Laisssez tomber]{.serpent} », siffla Harry. « [Quesstion sstupide, oublié que vous
+étiez malin.]{.serpent} »
 
-« *Sserait idiot de l’oublier,* » dit le serpent, mais le sifflement ne
+« [Sserait idiot de l’oublier,]{.serpent} » dit le serpent, mais le sifflement ne
 révélait pas d’offense.
 
-« *Ssablier resstreint,* » dit Harry. « *Ne peux pas utilisser avant
-neuvième heure.* »
+« [Ssablier resstreint,]{.serpent} » dit Harry. « [Ne peux pas utilisser avant
+neuvième heure.]{.serpent} »
 
 Le serpent se tordit le cou, un hochement de tête reptilien.
-« *Nombreuses resstrictions. Utilisable sseulement par vous, ne peut être
+« [Nombreuses resstrictions. Utilisable sseulement par vous, ne peut être
 volé. Ne peut transsporter d’autres humains. Mais sserpent porté dans
 boursse viendra avec, je pensse. Pensse possible de tenir ssablier
 immobile dans coquille ssans sse faire repérer pendant que vous
 tournerez la coquille. Tessteronss dans ssept jours. Ne parlerons pas de
 sce qui vient après. Vous ne dites rien, à perssonne. Ne donnez aucun
-ssigne d’attente, aucun. Compris ?* »
+ssigne d’attente, aucun. Compris ?]{.serpent} »
 
 Harry hocha la tête.
 
-« *Répondez en parole.* »
+« [Répondez en parole.]{.serpent} »
 
-« *Oui.* »
+« [Oui.]{.serpent} »
 
-« *Ferez comme j’ai dit ?* »
+« [Ferez comme j’ai dit ?]{.serpent} »
 
-« *Oui. Mais,* » Harry émit un grincement vacillant que son esprit traduit
-par un « Euuuuh » hésitant, « *Je ne promet pass de faire, quoi que ce
-ssoit, que vous n’avez pass dit -* »
+« [Oui. Mais,]{.serpent} » Harry émit un grincement vacillant que son esprit traduit
+par un « Euuuuh » hésitant, « [Je ne promet pass de faire, quoi que ce
+ssoit, que vous n’avez pass dit -]{.serpent} »
 
 Le serpent eut un frisson que l’esprit de Harry traduit par un regard
-sévère. « *Bien ssûr que non. En disscuterons à prochaine rencontre.* »
+sévère. « [Bien ssûr que non. En disscuterons à prochaine rencontre.]{.serpent} »
 
 Le flou et le mouvement s’inversèrent, et le professeur Quirrell était
 de nouveau là. Pendant un moment, le professeur lui-même sembla onduler
