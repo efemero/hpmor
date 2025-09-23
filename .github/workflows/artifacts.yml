@@ -10,6 +10,9 @@ jobs:
   build:
     name: Build all the needed artifacts
     runs-on: ubuntu-latest
+    permissions:
+      actions: write
+      contents: write
     steps:
       - uses: actions/checkout@v4
 
@@ -95,3 +98,4 @@ jobs:
 
 permissions:
   contents: write
+  actions: read
