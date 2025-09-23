@@ -11,12 +11,26 @@ jobs:
     name: Build all the needed artifacts
     runs-on: ubuntu-latest
     steps:
-      - name: git checkout
-        uses: actions/checkout@v4
-      - run: cd $GITHUB_WORKSPACE
-      - name: Install Nix
-        uses: DeterminateSystems/nix-installer-action@main
-      - uses: DeterminateSystems/magic-nix-cache-action@main
+      - uses: actions/checkout@v4
+
+      # Install nix with some cache
+      - name: Install Nix (upstream)
+        uses: cachix/install-nix-action@v31.6.2
+        with:
+          extra_nix_config: |
+            experimental-features = nix-command flakes
+            eval-cache = true
+            substituters = https://cache.nixos.org https://nix-community.cachix.org https://cache.garnix.io
+            trusted-public-keys = \
+              nix-community.cachix.org-1:mB9FSh9qf2dCimDSUo8Zy7bkq5CX+/rkCWyvRCYg3Fs= \
+              cache.garnix.io-1:CTFPyKSLcx3t+q56Ns4kq7YEZc8WSfbVwqy1Y3hj4W8=
+
+      # Github cache
+      - name: Restore Nix store cache
+        uses: nix-community/cache-nix-action@v5
+        with:
+          primary-key: nix-${{ runner.os }}-${{ hashFiles('**/flake.lock') }}
+
       - name: Build PDF, epub and mdbook
         run: nix build
 
@@ -28,8 +42,8 @@ jobs:
         with:
           tag_name: ${{ github.ref }}
           release_name: Release ${{ github.ref }}
-          draft: false
-          prerelease: false
+          draft: true
+          prerelease: true
 
       - name: Upload epub
         id: upload-epub
