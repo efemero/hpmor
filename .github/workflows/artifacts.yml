@@ -26,47 +26,19 @@ jobs:
             extra-substituters = https://nix-community.cachix.org https://cache.garnix.io
             extra-trusted-public-keys = nix-community.cachix.org-1:mB9FSh9qf2dCimDSUo8Zy7bkq5CX+/rkCWyvRCYg3Fs= cache.garnix.io-1:CTFPyKSLcx3t+q56Ns4kq7YEZc8WSfbVwqy1Y3hj4W8=
 
-      # Github cache
-      - name: Restore Nix store cache
-        uses: nix-community/cache-nix-action@v5
-        with:
-          primary-key: nix-${{ runner.os }}-${{ hashFiles('**/flake.lock') }}
-
       - name: Build PDF, epub and mdbook
         run: nix build
 
-      - name: Create Release
-        id: create_release
-        uses: actions/create-release@v1
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Create GitHub Release and Upload assets
+        uses: softprops/action-gh-release@v2
         with:
-          tag_name: ${{ github.ref }}
-          release_name: Release ${{ github.ref }}
+          token: ${{ secrets.GITHUB_TOKEN }}
+          name: Release ${{ github.ref_name }}
           draft: true
           prerelease: true
-
-      - name: Upload epub
-        id: upload-epub
-        uses: actions/upload-release-asset@v1
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          upload_url: ${{ steps.create_release.outputs.upload_url }}
-          asset_path: ./result/hpmor.epub
-          asset_name: hpmor.epub
-          asset_content_type: application/epub
-          
-      - name: Upload pdf
-        id: upload-pdf
-        uses: actions/upload-release-asset@v1
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          upload_url: ${{ steps.create_release.outputs.upload_url }}
-          asset_path: ./result/hpmor.pdf
-          asset_name: hpmor.pdf
-          asset_content_type: application/pdf
+          files: |
+            ./result/hpmor.epub
+            ./result/hpmor.pdf
           
       - name: Upload mdbook
         uses: actions/upload-pages-artifact@v3
