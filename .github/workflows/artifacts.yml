@@ -21,9 +21,7 @@ jobs:
             experimental-features = nix-command flakes
             eval-cache = true
             substituters = https://cache.nixos.org https://nix-community.cachix.org https://cache.garnix.io
-            trusted-public-keys = \
-              nix-community.cachix.org-1:mB9FSh9qf2dCimDSUo8Zy7bkq5CX+/rkCWyvRCYg3Fs= \
-              cache.garnix.io-1:CTFPyKSLcx3t+q56Ns4kq7YEZc8WSfbVwqy1Y3hj4W8=
+            trusted-public-keys = nix-community.cachix.org-1:mB9FSh9qf2dCimDSUo8Zy7bkq5CX+/rkCWyvRCYg3Fs= cache.garnix.io-1:CTFPyKSLcx3t+q56Ns4kq7YEZc8WSfbVwqy1Y3hj4W8=
 
       # Github cache
       - name: Restore Nix store cache
