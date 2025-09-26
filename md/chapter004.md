@@ -193,7 +193,7 @@ existait ! Et que je pouvais me les offrir ! Maintenant, mon père et
 moi allons devoir passer les deux prochains jours à parcourir
 *frénétiquement* toutes les librairies de vieux manuels scolaires afin
 que je puisse avoir une bibliothèque de mathématiques et de science
-décente avec moi à Poudlard — et peut-être une minicollection de SF&F,
+décente avec moi à Poudlard — et peut-être une mini collection de SF&F,
 si je peux constituer quelque chose de convenable à partir des
 corbeilles à 10 pence. Ou encore mieux, je vous rends le marché un peu
 plus attrayant, d’accord ? Laissez-moi juste acheter… »

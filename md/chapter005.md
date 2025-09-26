@@ -54,7 +54,7 @@ Harry releva le bras, essuya un peu de sueur de son front, et exhala :
 « Je voudrais celle-ci, s’il vous plait. »
 
 Plus léger de quinze Gallions (apparemment le double du prix d’une baguette
-de sorcier) et plus lourd d’une Super Bourse en Peau de Moke QX3, Harry
+de sorcier) et plus lourd d’une Super Bourse en Peau de Moke QX31, Harry
 et McGonagall se frayèrent un chemin jusqu’à la porte. La poignée de la
 porte se transforma en une main et les salua tandis qu’ils partaient,
 extrudant son bras d’une façon qui écœura légèrement Harry.
@@ -241,7 +241,7 @@ se contorsionnait et semblait servir de mètre ruban, et commença à
 travailler.
 
 À côté de Harry, un jeune garçon pâle au visage pointu et aux cheveux
-blond-blanc *supercools* semblait être dans la phase finale d’un
+blond-blanc *super cools* semblait être dans la phase finale d’un
 processus similaire. L’un des deux assistants de Guipure examinait le
 garçon aux cheveux blancs avec attention, ainsi que la robe aux motifs en
 damier qu’il portait ; à l’occasion, elle touchait un coin de la robe
@@ -406,7 +406,7 @@ Il y avait une telle horreur sur son visage que la bouche de Harry
 s’ouvrit automatiquement, puis se bloqua sur rien-à-dire.
 
 « Professeur McGonagall ! » s’écria Drago. « Est-ce vraiment vous ? Mon
-père m’a tellement parlé de vous quej’ai pensé à me faire trier à
+père m’a tellement parlé de vous que j’ai pensé à me faire trier à
 Gryffondor afin de… »
 
 « *Quoi* ? », hurlèrent Lucius Malefoy et le Professeur McGonagall

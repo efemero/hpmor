@@ -67,7 +67,7 @@ pour le reste ? »
 McGonagall lui jeta un étrange regard. « Monsieur Potter… savez-vous… que vous
 a-t-on dit *au juste*… sur la façon dont vos parents sont morts ? »
 
-Harry lui renvoya un regard ferme. « Mes parents sont vivants et bienportants, et ils ont toujours refusé de me parler de la façon dont mes
+Harry lui renvoya un regard ferme. « Mes parents sont vivants et bien portants, et ils ont toujours refusé de me parler de la façon dont mes
 parents *génétiques* sont morts. Ce dont je ne déduis rien de bon. »
 
 « Une loyauté admirable », dit McGonagall. Sa voix se fit plus basse :

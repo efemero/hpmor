@@ -904,7 +904,7 @@ McGonagall *ahema*. « Vraiment ? Sans blague. »
 Harry hocha la tête. « Oui. C’est juste… *curieux*. De se rendre compte
 que vous faites partie de cette grande histoire, la quête pour vaincre
 le grand et terrible Seigneur des Ténèbres, et c’est déjà *fini*.
-Terminé. Complètement réglé. Comme si vous étiez Frodon Sacquet, que
+Terminé. Complètement réglé. Comme si vous étiez Frodo Bessac, que
 vous appreniez que vos parents vous avaient emmené à la Montagne du
 Destin quand vous aviez un an, qu’ils vous avaient fait jeter l’anneau
 et que vous ne vous en souveniez même pas. »
