@@ -241,7 +241,7 @@ trouver quelque chose d’*incroyable* — »
 ce qu’ils préparent, autant économiser notre magie pour lancer des
 *Finite* en masse. Comme on *aurait* dû le faire la *dernière* fois ! »
 
-Susan toucha doucement l’épaule de Hermione. « Général Granger ? »
+Susan toucha doucement l’épaule d’Hermione. « Général Granger ? »
 demanda-t-elle. « Je pense que vous devriez vous reposer un moment avant
 la bataille. »
 
@@ -1804,7 +1804,7 @@ avait commencé pendant qu’il était étourdi, la pluie longtemps promise
 commençant enfin à tomber. Drago n’avait maintenant plus qu’une seule
 option. Un coup forcé, comme l’aurait appelé M. MacNair, qui avait
 enseigné les échecs à Drago. Harry Potter n’aimerait probablement pas ça
-s’il était vraiment amoureux de Hermione, comme tout le monde le disait.
+s’il était vraiment amoureux d’Hermione, comme tout le monde le disait.
 Mais le coup forcé, tel que M. MacNair l’avait définit, était un coup
 qu’on devait faire si l’on voulait que la partie puisse seulement
 continuer.
@@ -2130,7 +2130,7 @@ assortiment de fruits et de légumes sur son assiette. « Comment ça va ?�
 automatiquement. « Comment vas-tu, *toi* ? Est-ce que tu as dormi
 correctement ? »
 
-Il y avait des cernes sombres sous les yeux de Hermione.
+Il y avait des cernes sombres sous les yeux d’Hermione.
 
 « Oui pourquoi, je vais très bien », répondit Hermione Granger.
 
@@ -2154,7 +2154,7 @@ particulière. Elle regarda juste son assiette, puis, au bout environ dix
 secondes d’un silence gêné, elle commença à manger ses tranches de
 tomate, l’une après l’autre, sans s’interrompre.
 
-Harry détourna les yeux de Hermione et commença à manger une part de
+Harry détourna les yeux d’Hermione et commença à manger une part de
 tarte qui, comme il le découvrait à l’instant, venait de se matérialiser
 dans son assiette.
 

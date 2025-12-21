@@ -421,7 +421,7 @@ et qui avait un air tout aussi offensé que le sien.
 « Je pensais à toute personne sur Terre ayant quoi que ce soit à voir
 avec le Quidditch, mais oui, l’équipe de Serdaigle serait un bon début. »
 
-Les lèvres de Hermione était pincées d’un air désapprobateur. « Tu *sais*
+Les lèvres d’Hermione était pincées d’un air désapprobateur. « Tu *sais*
 que c’est mal de tuer des gens, Harry ? »
 
 « Oui », dit Harry.
@@ -450,7 +450,7 @@ Severus Rogue eut un faux sourire. « Amusant. Je demande un peu de votre
 temps, Potter, si vous pouvez vous arracher à votre flirt avec
 mademoiselle Granger. »
 
-Il y eut soudain un air très soucieux sur le visage de Hermione. Elle se
+Il y eut soudain un air très soucieux sur le visage d’Hermione. Elle se
 retourna vers Harry et ouvrit la bouche, puis s’interrompit, l’air
 perturbée.
 

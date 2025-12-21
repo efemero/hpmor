@@ -77,9 +77,9 @@ imaginer quelle réponse il était *possible* de donner à… *quoi que ce
 soit* ce qu’elle venait d’entendre, et, pendant ce temps, le garçon marcha
 jusqu’à elle, regarda à l’intérieur du compartiment, hocha la tête d’un
 air satisfait, et s’assit sur le banc vide en face du sien, sur lequel
-le livre de Hermione se trouvait toujours. Sa malle se précipita à sa
+le livre d’Hermione se trouvait toujours. Sa malle se précipita à sa
 suite, crût de trois fois son diamètre initial et se blottit contre
-celle de Hermione d’une façon étrangement troublante.
+celle d’Hermione d’une façon étrangement troublante.
 
 « Assieds-toi, je t’en prie », dit le garçon, « et ferme la porte derrière
 toi, si tu veux bien. Ne t’en fais pas, *je* ne mords personne qui ne me
@@ -100,7 +100,7 @@ je le sais, c’est parce que je sais tout. Bonsoir mesdames et messieurs,
 mon nom est Harry James Potter-Evans-Verres ou Harry Potter pour faire
 plus court, je sais que, pour une fois ça ne *te* dira rien — »
 
-Le cerveau de Hermione fit enfin le rapprochement. La cicatrice sur son
+Le cerveau d’Hermione fit enfin le rapprochement. La cicatrice sur son
 front, la forme en éclair. « Harry Potter ! Tu es dans *Histoire Magique
 Moderne* et *La montée et le déclin des Arts Sombres* et *Grands
 Évènements Magiques du Vingtième siècle*. » C’était à vrai dire la
@@ -120,7 +120,7 @@ deux derniers jours à acheter des livres scientifiques. *Crois-moi*, je
 compte apprendre tout ce que je peux à ce sujet. » Le garçon hésita.
 « *Que* disent les livres à mon sujet ? »
 
-L’esprit de Hermione Granger fit un retour dans le temps, elle n’avait
+L’esprit d’Hermione Granger fit un retour dans le temps, elle n’avait
 pas envisagé d’être testée sur *ces* livres et ne les avait donc lu
 qu’une seule fois, mais c’était il y a seulement un mois, donc le contenu
 était encore frais. « Tu es le seul à avoir survécu au Sortilège de la
@@ -316,7 +316,7 @@ vu chez quelqu’un de son âge. « Tu penses que tu as ce qu’il faut pour
 être une scientifique à toi toute seule, avec ou sans mon aide ? Alors,
 voyons comment *tu* enquêtes sur un phénomène déroutant. »
 
-« Je… » L’esprit de Hermione devint vide pendant un instant. Elle aimait
+« Je… » L’esprit d’Hermione devint vide pendant un instant. Elle aimait
 être testée, mais elle n’avait jamais eu un *tel* test auparavant. Elle
 essaya frénétiquement de se souvenir de tout ce qu’elle avait lu au
 sujet de ce que les scientifiques étaient censés faire. Son cerveau
@@ -336,7 +336,7 @@ pour faire disparaitre tout ce qui y a été renversé. »
 
 « Très bien », dit le garçon, « est-ce ta réponse ? »
 
-Le choc se dissipait, l’esprit de Hermione commençait à fonctionner
+Le choc se dissipait, l’esprit d’Hermione commençait à fonctionner
 correctement. « Attends, ce n’est pas une très bonne idée. Je ne t’ai pas
 vu toucher ta baguette ni dire le moindre sort, alors comment aurais-tu
 pu en jeter un ? »
@@ -408,7 +408,7 @@ faisait toujours l’effet d’un petit coup de poing dans l’estomac.
 
 (Le fait qu’elle n’avait jamais laissé cela l’arrêter ni même interférer
 avec son envie d’être testée vous disait presque tout ce que vous aviez
-besoin de savoir au sujet de Hermione Granger).
+besoin de savoir au sujet d’Hermione Granger).
 
 « Ce qui est triste », dit le garçon, « c’est que tu as probablement fait
 tout ce que le livre t’a dit de faire. Tu as fait une prédiction qui
@@ -504,7 +504,7 @@ Hermione prit le papier hors de sa poche et le déplia.
 
 *Trois nombres réels en ordre croissant, du plus petit au plus grand.*
 
-La mâchoire de Hermione s’affaissa. Elle avait la distincte sensation
+La mâchoire d’Hermione s’affaissa. Elle avait la distincte sensation
 que quelque chose de terriblement injuste venait d’être commis à son
 encontre, que le garçon était un sale petit menteur tricheur pourri,
 mais, lorsqu’elle chercha dans ses souvenirs, elle ne put trouver une
@@ -717,7 +717,7 @@ des cauchemars, et s’il a des cauchemars à propos de *ça*, alors ce
 sera des cauchemars où les monstres vous donnent du chocolat et *ça*
 c’était notre but *initial*. »
 
-Le cerveau de Hermione hoquetait de confusion à chaque fois qu’elle
+Le cerveau d’Hermione hoquetait de confusion à chaque fois qu’elle
 essayait de se mettre correctement en colère. « Ta vie est-elle toujours
 si inhabituelle ? » dit-elle enfin.
 
@@ -778,7 +778,7 @@ Elle aurait probablement dû y aller avec eux, mais, pendant un bref
 moment, Harry Potter était devenu si effrayant qu’elle était plutôt
 contente de ne pas l’avoir suggéré.
 
-L’esprit de Hermione était maintenant si embrouillé qu’elle ne pensait
+L’esprit d’Hermione était maintenant si embrouillé qu’elle ne pensait
 même pas pouvoir lire « Histoire : Son Poudlard ». Elle avait l’impression
 qu’un rouleau compresseur lui était passé dessus et l’avait transformée
 en pancake. Elle n’était pas sure de ce qu’elle pensait, ou de ce

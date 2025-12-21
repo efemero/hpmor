@@ -77,7 +77,7 @@ chances de mourir étaient inférieures à 20 %.
 
 *Perds*, dit la voix du professeur Quirrell dans son esprit.
 
-*Perds*, dit son modèle mental de Hermione et du professeur Quirrell et
+*Perds*, dit son modèle mental d’Hermione et du professeur Quirrell et
 du professeur Flitwick et de Neville Londubat et, voyons voir, de toutes
 les personnes que Harry connaissaient mis à part Fred et George qui
 auraient foncé en un battement de cils.

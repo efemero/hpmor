@@ -29,6 +29,7 @@
         ps.xetex
         ps.memoir
         ps.xpatch
+        ps.pdfjam
       ]);
 
       nativeBuildInputs = [
@@ -36,6 +37,7 @@
         texliveCustom
         pkgs.pandoc
         pkgs.just
+        pkgs.typst
       ];
     in
     {

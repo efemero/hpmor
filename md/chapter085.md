@@ -9,7 +9,7 @@ ascension, sans prendre de raccourci, une marche de pierre après
 l’autre ; elles défilaient sous les chaussures de Harry, poussées par
 ses jambes de plus en plus fatiguées.
 
-Il s’était assuré de la sécurité de Hermione jusqu’à ce qu’elle se
+Il s’était assuré de la sécurité d’Hermione jusqu’à ce qu’elle se
 couche.
 
 Puis il était demeuré dans la salle commune de Serdaigle suffisamment
@@ -103,7 +103,7 @@ Quelque pouvoir inconnu s’était abattu sur lui, et même si le coup avait
 été partiellement dévié, il avait quand même fait *très mal*.
 
 Au moins son côté obscur ne lui avait rien demandé en échange du
-sauvetage de Hermione. Peut-être parce que son côté obscur *n’était pas*
+sauvetage d’Hermione. Peut-être parce que son côté obscur *n’était pas*
 une voix imaginaire comme celle de Poufsouffle ; Harry *imaginait*
 peut-être que sa partie Poufsouffle était dotée de ses propres désirs,
 différents des siens, mais son côté obscur n’était pas comme ça. Son « côté obscur », du mieux que Harry puisse en juger, constituait un autre

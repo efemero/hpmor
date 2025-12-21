@@ -28,7 +28,7 @@ Drago Malefoy, le général Dragon, regarda les deux compas qu’il tenait,
 un dans chaque main. L’un avait la couleur du Soleil et l’autre avait un
 lustre iridescent et multicolore qui signifiait le Chaos. Drago savait
 que les deux autres généraux avaient chacun reçu leurs compas ; sauf
-qu’une main de Hermione Granger et une main de Harry Potter tenaient un
+qu’une main d’Hermione Granger et une main de Harry Potter tenaient un
 compas rouge-orange dont les reflets vacillaient tels une flamme et
 pointait toujours en direction du contingent le plus imposant de troupes
 Dragon.
@@ -372,7 +372,7 @@ d’efforts. »
 De nouveaux *Contego* apparurent devant elle, lancés par Jenny et
 Parvati, avant même que Harry n’aie fini sa phrase.
 
-Le bout de la baguette de Hermione faisait de petits mouvements, un
+Le bout de la baguette d’Hermione faisait de petits mouvements, un
 diamant dans un cercle, un diamant dans un cercle ; elle répétait le
 geste pour correspondre exactement à ce qu’elle se souvenait avoir vu
 dans le livre. Ce serait une prouesse de haut vol, même pour elle, mais

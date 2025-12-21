@@ -450,7 +450,7 @@ de *réfléchir de façon très rationnelle…* »
 La voix de professeur de Défense monta aussi d’un ton. « Le professeur de
 métamorphose *lit un script*, M. Potter ! Ce script lui demande de
 pleurer et faire son deuil afin que tous sachent à quel point elle se
-souciait de Hermione. Les gens ordinaires réagissent mal si on leur
+souciait d’Hermione. Les gens ordinaires réagissent mal si on leur
 suggère de dévier du script. Comme vous le saviez déjà ! »
 
 « C’est drôle, j’aurais pu jurer avoir vu le professeur McGonagall dévier
@@ -463,7 +463,7 @@ juste que *les êtres humains sont limités.* »
 
 La voix du professeur de Défense monta encore d’un ton. « Si c’était vous
 qui aviez été tué par le troll, il ne serait même pas *venu à l’esprit*
-de Hermione Granger de faire pour vous ce que vous faites pour elle ! Ça
+d’Hermione Granger de faire pour vous ce que vous faites pour elle ! Ça
 ne viendrait ni à Drago Malefoy, ni à Neville Londubat non plus, ni à
 McGonagall ni à aucun de vos précieux amis ! Il n’y a pas une seule
 personne au monde qui vous rendrait le soin que vous prenez d’eux !
@@ -486,7 +486,7 @@ incroyablement lointains.
 
 « … si j’étais la première personne de *l’univers* à vraiment me soucier
 d’un autre, ce qui est *faux*, au fait, alors ce serait pour moi un
-honneur d’être cette personne et j’essaierai de m’en rendre digne. »
+honneur d’être cette personne et j’essaierais de m’en rendre digne. »
 
 Il y eut un long silence.
 

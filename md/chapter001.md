@@ -1,6 +1,3 @@
-:::{.mainmatter}
-:::
-
 # Un jour à très faible probabilité
 
 Chaque centimètre carré d’espace mural est caché derrière un pan de
@@ -219,7 +216,7 @@ critérium. Cela méritait un effort calligraphique plus méticuleux.
 *J’ai récemment reçu votre lettre d’admission à Poudlard, adressée à monsieur
 H. Potter. Peut-être ignorez-vous que mes parents biologiques, James
 Potter et Lily Potter (anciennement Lily Evans), sont morts. Pétunia Evans-Verres, la sœur de Lily, et
-son mari, Michael Verres-Evans, m’ont adopté.
+son mari, Michael Verres-Evans, m’ont adopté.*
 
 *Je désire ardemment me rendre à Poudlard, si tant est qu’un tel lieu
 existe effectivement. Seule ma mère Pétunia dit connaitre l’existence de
@@ -271,14 +268,14 @@ comprit que, si jamais une chouette venait vraiment récupérer la lettre,
 il aurait bien du mal à l’expliquer à son père.
 
 *Mais… c’est impossible, non ? Même si mon cerveau a l’air d’y croire.
-Si une chouette vient vraiment prendre cette enveloppe, j’aurai des
+Si une chouette vient réellement prendre cette enveloppe, j’aurai des
 soucis beaucoup plus sérieux que l’opinion de papa.*
 
 Il inspira profondément et leva l’enveloppe en l’air.
 
 Il déglutit.
 
-S’écrier « Lettre pour Poudlard ! » du fond de son jardin, avec une enveloppe au bout de son bras dressé… Réflexion faite, c’était vraiment
+S’écrier « Lettre pour Poudlard ! » du fond de son jardin, avec une enveloppe au bout de son bras dressé… Réflexion faite, c’était complètement
 ridicule.
 
 *Non. Je vaux mieux que papa. J’utiliserai la méthode scientifique, même

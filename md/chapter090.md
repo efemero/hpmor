@@ -1,7 +1,7 @@
 # Rôles, partie 1
 
 
-Harry se tenait encore devant le corps de Hermione, il n’avait pas bougé
+Harry se tenait encore devant le corps d’Hermione, il n’avait pas bougé
 et réfléchissait aussi vite que possible dans un sentiment de
 dissociation, de fragmentation temporelle. Devait-il faire quelque chose
 *maintenant*, une opportunité d’agir était-elle en train de lui échapper
@@ -37,7 +37,7 @@ ou pas, je ne pense pas qu’elle souhaiterait te voir ainsi. »
 
 …non, c’était évident.
 
-Harry dirigea sa baguette sur le corps de Hermione…
+Harry dirigea sa baguette sur le corps d’Hermione…
 
 « Harry ! Qu’est-ce que tu… »
 
@@ -52,7 +52,7 @@ main…
 avait été l’un des sortilèges avec lesquels, lors d’une vie antérieure,
 lui et Hermione avaient fait des expériences. Il était donc capable de
 le contrôler avec précision mais il lui avait fallu beaucoup de
-puissance pour affecter une telle masse. La corps de Hermione devait à
+puissance pour affecter une telle masse. La corps d’Hermione devait à
 présent être à exactement cinq degrés Celsius. « Des gens ont été
 réanimés après avoir été dans l’eau froide sans respirer pendant plus de
 trente minutes. Vous voyez, le froid vous protège des dommages
@@ -68,7 +68,7 @@ chuchota-t-il. « Harry, je suis tellement navré, mais tu dois arrêter de
 faire ça. » Le directeur prit Harry par les épaules et le tira en
 arrière.
 
-Harry se laissa être détourné du corps de Hermione, marcha en suivant
+Harry se laissa être détourné du corps d’Hermione, marcha en suivant
 les poussées du directeur qui l’éloignaient du sang. Le sortilège de
 refroidissement lui donnerait du temps. Des heures au moins, peut-être
 des jours s’il parvenait à continuer de lancer le sortilège sur Hermione
@@ -230,7 +230,7 @@ Une lointaine partie de l’esprit de Minerva nota d’attendre beaucoup
 plus tard pour aller parler très durement au directeur au sujet de ce
 qu’il montrait à de jeunes enfants impressionnables. Elle lui crierait
 peut-être même dessus, cette fois. Elle avait de toute façon songé à lui
-crier dessus, à cause de Hermione Granger…
+crier dessus, à cause d’Hermione Granger…
 
 « Vous n’êtes *pas* responsable », dit-elle, même si sa voix tremblait.
 « Ce sont les professeurs — ce sont nous qui sommes responsable de la
@@ -259,7 +259,7 @@ stratégiquement meilleurs que vous et vous nous avez quand même coincés
 dans une pièce sans rien laisser à notre discrétion. Alors, quand
 quelque chose que vous n’aviez pas prévu s’est produit et qu’il aurait
 été parfaitement sensé d’envoyer un élève de septième année sur un
-balais rapide à la recherche de Hermione Granger, les élèves ont su que
+balais rapide à la recherche d’Hermione Granger, les élèves ont su que
 vous ne comprendriez pas, que vous ne pardonneriez pas. Ils n’avaient
 pas peur du troll, ils avaient peur de vous. La discipline, la
 conformité, la *lâcheté* que vous avez insufflée en eux m’a retardé
@@ -344,7 +344,7 @@ que du point de vue privilégié de celui qui regarde le passé que Harry
 Potter peut croire qu’il en est autrement. Tu es certainement trop sage
 pour te blâmer pour ceci, Minerva. »
 
-Elle savait parfaitement que Albus placerait une image de Hermione dans
+Elle savait parfaitement que Albus placerait une image d’Hermione dans
 sa terrible pièce, qu’elle y occuperait une place de choix. Elle était
 certaine que, même s’il n’avait même pas été présent à Poudlard à ce
 moment là, Albus se tiendrait *lui* pour responsable. Mais pas elle.
@@ -404,7 +404,7 @@ avec le danger potentiel que cela impliquait.
 l’homme.
 
 « Vous excuser pour quoi ? » dit le garçon. « Pourquoi, qu’auriez-*vous* pu
-faire pour empêcher la mort de Hermione ? »
+faire pour empêcher la mort d’Hermione ? »
 
 « J’aurais dû penser à vérifier votre présence, celle de M. Londubat et
 celle de Mlle Granger, car vous étiez tous des cibles évidentes », dit le
@@ -577,7 +577,7 @@ décomposerait-il toujours ? »
 « Et la Pierre de Résurrection de Cadmus Peverell, si quelqu’un pouvait
 l’obtenir pour vous ? »
 
-Le garçon secoua la tête. « Je ne veux pas d’une illusion de Hermione
+Le garçon secoua la tête. « Je ne veux pas d’une illusion d’Hermione
 tirée de mes souvenirs. Je veux qu’elle soit capable de *vivre* sa
 *vie*… » la voix du garçon se brisa. « Je n’ai pas encore choisi un angle
 d’attaque concret. Si je dois attaquer le problème par force brute,

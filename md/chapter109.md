@@ -246,7 +246,7 @@ qu’elle a reçu en font usage. Je sais parfaitement qu’en termes
 conventionnels, on te dit Bon et qu’on me dit Mauvais.« Le professeur
 Quirrell eut un sourire plutôt sombre. »Notre première tentative — mais
 pas la dernière, sois-en assuré — sera de voir comment le Miroir réagit
-alors que tu tentes d’obtenir la Pierre pour sauver la vie de Hermione
+alors que tu tentes d’obtenir la Pierre pour sauver la vie d’Hermione
 Granger et de centaines de tes camarades.« »Et dans la *première* version de ce plan,« dit Harry, qui commençait
 enfin à comprendre »,celui que vous avez inventé le premier vendredi de
 cette année, c’est l’enfant prodige de Dumbledore, le Survivant, qui

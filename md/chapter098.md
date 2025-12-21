@@ -15,7 +15,7 @@ devaient-ils être réappliqués ; ou peut-être sa malle était-elle peu
 encline à la suivre dans une école dont la sûreté n’était plus garantie.
 
 Papa et Maman avaient longuement discuté lorsqu’il avaient entendu la
-nouvelle au sujet de Hermione ; Daphné Greengrass les avait écoutés
+nouvelle au sujet d’Hermione ; Daphné Greengrass les avait écoutés
 cachée derrière une porte entrebâillée en ravalant ses larmes et en
 essayant de ne pas faire de bruit.
 
@@ -278,7 +278,7 @@ nous avions prit à la maison Potter et avons annulé sa dette. »
 Puis Harry Potter parla. « La maison Potter reconnaît qu’il s’agissait
 d’une erreur sincère et n’a aucun ressentiment envers la maison Malefoy.
 Nous croyons et déclarons publiquement que la maison Malefoy n’est pas
-responsable de la mort de Hermione Granger. Celui ou celle qui a tué
+responsable de la mort d’Hermione Granger. Celui ou celle qui a tué
 Hermione Granger est l’ennemi de la maison Potter, et nous nous
 vengerons de cette personne. »
 

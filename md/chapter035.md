@@ -538,7 +538,7 @@ refuser. Et si vous vous sentez mise sous pression, dites au directeur
 que vous voudriez que je sois là, ou que vous voudriez m’en parler
 avant. »
 
-Les yeux de Hermione étaient très écarquillés. « Le directeur fait-il des
+Les yeux d’Hermione étaient très écarquillés. « Le directeur fait-il des
 choses mauvaises ? »
 
 Le professeur McGonagall eut l’air un peu triste en entendant cela. « Pas

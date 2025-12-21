@@ -56,7 +56,7 @@ Harry avait du mal à accepter les implications de ce fait.
 
 « *Oogely boogely !* » dit à nouveau Hermione.
 
-À nouveau, au bout de la baguette de Hermione, il y eut l’apparition
+À nouveau, au bout de la baguette d’Hermione, il y eut l’apparition
 abrupte et sans transition d’une chauve-souris. Un instant, air.
 L’instant suivant, chauve-souris. Ses ailes semblaient déjà bouger au
 moment où elle apparut.
@@ -320,7 +320,7 @@ mais en *pire*.
 
 « Dis-le », dit Harry.
 
-« Je *n’allais* pas le dire », dit la voix sympathique de Hermione
+« Je *n’allais* pas le dire », dit la voix sympathique d’Hermione
 Granger. « Ça ne semblait pas être gentil. »
 
 « Finissons-en », dit Harry.
@@ -397,7 +397,7 @@ vite que possible si tes idées sont fausses avant de commencer à y
 investir d’immenses efforts. Que penses-tu de cette morale ? »
 
 « Mmm… d’accord », dit Hermione. « Mais j’espérais aussi quelque chose
-comme “les livres de Hermione ne sont pas sans valeur. Ils sont écrits
+comme “les livres d’Hermione ne sont pas sans valeur. Ils sont écrits
 par de sages vieux sorciers qui en savent beaucoup plus long sur la
 magie que moi. Je devrais prêter attention à ce que disent les livres de
 Hermione.” On peut aussi avoir cette morale ? »

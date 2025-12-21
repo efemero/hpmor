@@ -5,4 +5,5 @@ result
 test.*
 tools/restart.md
 /.direnv
+/.env
 

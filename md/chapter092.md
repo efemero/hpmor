@@ -118,7 +118,7 @@ des Ténèbres ? Dit Poufsouffle d’une petite voix intérieure. Enfin…
 c’est probablement moi qui ai pris cette décision…*
 
 Le côté Serpentard de Harry ne répondit pas par des mots, il ne fit
-qu’irradier du mépris et envoya une image du corps de Hermione.
+qu’irradier du mépris et envoya une image du corps d’Hermione.
 
 *Arrête !* cria mentalement Harry.
 
@@ -169,7 +169,7 @@ qu’un défaut d’enfant dont cet homme n’avait jamais su se défaire.
 dit-elle, mettant dans sa voix une partie de la froideur qu’elle
 ressentait. Elle était certaine que le professeur de Défense ne
 ressentait pas autant de peine qu’elle, l’homme n’avait pas dit un mot
-au sujet de Hermione Granger. Que lui présente ses exigences à elle… « Je
+au sujet d’Hermione Granger. Que lui présente ses exigences à elle… « Je
 crois qu’il est descendu dîner. »
 
 « Je ne vous parle pas de son état physique ! Avez-vous… a-t-il… » Le

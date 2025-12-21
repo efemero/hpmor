@@ -132,7 +132,7 @@ ne se tient pas au bord du précipice, *elle* ne tombe pas. Elle n’a pas
 demandé à ses alliés de s’empêcher de te faire du mal parce que la
 pensée qu’une telle chose est possible ne lui viendra jamais à l’esprit.
 Et Harry Potter sait très bien que s’il te faisait du mal, ou s’il
-faisait en sorte qu’il t’arrive quelque chose, pour le bien de Hermione
+faisait en sorte qu’il t’arrive quelque chose, pour le bien d’Hermione
 Granger, alors elle ne lui adresserait plus la parole, et ce jusqu’à ce
 que le Soleil ait fini de brûler et que la dernière étoile du ciel se
 soit éteinte. » La voix était à présent très triste. « Elle est une fille
@@ -159,7 +159,7 @@ Gryffondor, qui éleva ces murs, ne le put jamais. »
 Le couloir *devenait* plus froid, elle en était certaine, comme si
 quelqu’un utilisait le sortilège de rafraîchissement.
 
-« Et Harry Potter n’est pas le seul allié de Hermione Granger. » Il y
+« Et Harry Potter n’est pas le seul allié d’Hermione Granger. » Il y
 avait maintenant une note d’amusement sec dans le chuchotement, et dans
 un instant d’effroi cela lui fit soudain penser au professeur Quirrell.
 « Il me semble que Filius Flitwick et Minerva McGonagall sont très
@@ -369,7 +369,7 @@ promettre de ne pas recommencer, avec *personne*, et je ne vais pas lui
 parler pendant une semaine… je suis vraiment, *vraiment* désolée, Mlle
 Patil. »
 
-Le dos de Hermione Granger était raide, son visage était raide, on
+Le dos d’Hermione Granger était raide, son visage était raide, on
 pouvait voir de la sueur sur son visage.
 
 « Euh », dit Padma. Ses pensées étaient complètement brouillées à présent…
@@ -413,7 +413,7 @@ directement informer Padma du sens de ses actes et de leurs conséquences
 possibles au lieu d’essayer de la menacer ou quoi que ce soit du genre
 - »
 
-« *Tu appelles ça ne pas menacer quelqu’un ?* » les mains de Hermione
+« *Tu appelles ça ne pas menacer quelqu’un ?* » les mains d’Hermione
 tiraient maintenant ses propres cheveux.
 
 « Euh… » dit Harry. « J’imagine qu’elle a pu se sentir *un peu* menacée,
@@ -457,7 +457,7 @@ suis sérieuse. »
 « Ce… n’était pas lui, ce n’était pas ce qu’il avait dit de faire,
 c’était seulement *moi* — »
 
-La voix de Hermione n’était maintenant presque plus qu’un murmure. « Un
+La voix d’Hermione n’était maintenant presque plus qu’un murmure. « Un
 jour tu vas aller déjeuner avec lui, et ce sera ton côté obscur qui
 reviendra, ou peut-être même que tu ne reviendras pas du tout. »
 
@@ -481,7 +481,7 @@ toujours que son dernier acte ait été de claquer la porte -*
 
 
 
-Lorsque Padma s’assit à côté de Hermione pour le petit déjeuner et lui
+Lorsque Padma s’assit à côté d’Hermione pour le petit déjeuner et lui
 dit d’une voix assez forte pour que les autres entendent que le fantôme
 lui avait dit des choses qu’elle avait eu besoin d’entendre et que Harry
 Potter avait eu raison de le faire, il y en eut certains qui furent

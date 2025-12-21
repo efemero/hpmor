@@ -28,7 +28,7 @@ l’ignora. « Vous essayez d’arrêter *Hermione Granger*, la plus gentille
 fille de Serdaigle, elle aide les Poufsouffle à faire leurs devoirs,
 elle *mourrait* plutôt que d’essayer de tuer *qui que ce soit…* »
 
-Le visage de Hermione s’était effondré. « Je l’ai fait », chuchota-t-elle.
+Le visage d’Hermione s’était effondré. « Je l’ai fait », chuchota-t-elle.
 « C’était moi. »
 
 Un autre rocher immense tomba sur les pensées de Harry, broya leur
@@ -419,7 +419,7 @@ est beaucoup plus efficace…* Alors il n’y a aucune contrainte légale ? 
 
 De la lumière miroita sur les lunettes en demi-lune du vieux sorcier ;
 il parla avec précaution mais pas sans colère. « Légalement, Harry, nous
-avons affaire à une dette de sang de Hermione Granger envers la maison
+avons affaire à une dette de sang d’Hermione Granger envers la maison
 Malefoy. Le Lord des Malefoy propose un remboursement de cette dette et le
 Magenmagot vote sur cette proposition. C’est tout. »
 
@@ -454,7 +454,7 @@ avons essentiellement deux plans d’action. Premier plan, trouver le
 véritable coupable. Second plan, pouvoir influencer Lucius. Le
 professeur Quirrell a sauvé la vie de Drago, cela créé-t-il une dette de
 sang de la maison Malefoy envers lui qu’il pourrait racheter pour annuler
-celle de Hermione ? »
+celle d’Hermione ? »
 
 Minerva cilla à nouveau de surprise.
 
@@ -555,7 +555,7 @@ devint plus intense. « M. le directeur, vous savez déjà que j’ai obtenu
 la cape d’invisibilité de mon père par quelqu’un qui a laissé un mot
 sous mon oreiller en disant que c’était un cadeau de Noël en avance. Je
 pense que nous devons supposer que c’est la même personne qui laissait
-des mots sous l’oreiller de Hermione… »
+des mots sous l’oreiller d’Hermione… »
 
 « Harry », dit le vieux sorcier, et il hésita l’espace d’un instant. « Te
 rendre la cape de ton père ne semble pas être le fait d’un ennemi… »
@@ -850,13 +850,13 @@ Le maître des potions entra silencieusement dans le dortoir des filles
 de Serdaigle, la chambre des première année, un lieu festif où le bronze
 et le bleu se battaient pour être la couleur principale d’animaux en
 peluche, d’écharpes, de robes, de petits bijoux de pacotille et de
-posters de gens célèbres. Le lit de Hermione Granger était facile à
+posters de gens célèbres. Le lit d’Hermione Granger était facile à
 identifier : c’était celui qui avait été attaqué par un monstrolivre.
 
 Personne ne semblait être dans les parages à cette heure et un certain
 nombre de sortilèges permit de s’en assurer.
 
-Le maître des potions chercha sous l’oreiller de Hermione Granger, puis
+Le maître des potions chercha sous l’oreiller d’Hermione Granger, puis
 sous son lit, puis il commença à chercher dans son coffre, fouillant à
 travers des objets quotidiens et d’autres inavouables sans changer
 d’expression avant de finir par réussir à en extraire un lot de mots
@@ -1094,7 +1094,7 @@ trouvé de reptilien qui réponde quand il lui parlait. Il semblait que
 l’entrée de la Chambre des Secrets n’était pas censée être trouvée en
 une seule journée.
 
-Harry avait parlé à tous les amis de Hermione qui acceptaient encore de
+Harry avait parlé à tous les amis d’Hermione qui acceptaient encore de
 lui parler et aucun d’eux ne se souvenait avoir entendu Hermione dire
 quoi que ce soit de précis quant à la raison pour laquelle elle croyait
 que Drago complotait contre elle.
@@ -1109,7 +1109,7 @@ Défense comme s’il était déjà parti.
 Harry avait utilisé les six heures de sont Retourneur de Temps, il n’y
 avait toujours pas d’indices et il lui fallait maintenant aller se
 coucher s’il voulait être en état de marche le lendemain, pour le procès
-de Hermione.
+d’Hermione.
 
 Le Garçon-Qui-Avait-Détruit-Un-Détraqueur se tenait au milieu de la
 salle des trophées de Poudlard, sa baguette tombée au sol.
@@ -1118,5 +1118,5 @@ Il pleurait.
 
 Parfois, on appelle son cerveau et il ne répond pas.
 
-Le procès de Hermione commença le lendemain à l’heure prévue.
+Le procès d’Hermione commença le lendemain à l’heure prévue.
 

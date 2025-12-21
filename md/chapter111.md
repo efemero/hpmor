@@ -756,7 +756,7 @@ voix de l’espoir.
 Aucune partie de Harry ne savait ce que la deuxième étape pourrait être,
 mais au moins la première étape avait été accomplie.
 
-Et Harry se tint devant le corps réparé de Hermione Granger, toujours
+Et Harry se tint devant le corps réparé d’Hermione Granger, toujours
 nue et morte, sur un autel à la lumière du crépuscule.
 
 « Lord Voldemort », dit Harry, « je vous en prie, donnez-lui quelques
@@ -786,17 +786,17 @@ forcément le cas), elle aurait préféré être morte que vivante.
 *Parce que tu veux vivre, parce que je crois sincèrement que tu voudrais
 vivre…*
 
-Harry tendit une main gauche tremblante et toucha le front de Hermione.
+Harry tendit une main gauche tremblante et toucha le front d’Hermione.
 Il avait maintenant une certaine tiédeur, pas la froideur de cinq degrés
 Celsius. Soit Voldemort avait restauré sa température corporelle
 habituelle, soit le rituel l’avait fait automatiquement. Ce qui,
-maintenant qu’il y songeait, signifiait que le cerveau de Hermione était
+maintenant qu’il y songeait, signifiait que le cerveau d’Hermione était
 en ce moment à la fois chaud et privé d’oxygène.
 
 Ce nouveau sentiment d’urgence lui suffit.
 
 Les pieds de Harry adoptèrent la posture habituelle, sa baguette se
-leva, se dirigea vers le cadavre de Hermione Granger. La *seule* chose
+leva, se dirigea vers le cadavre d’Hermione Granger. La *seule* chose
 qui n’allait pas chez elle, c’était sa mort ; tout le reste allait bien.
 Il n’y avait qu’une seule chose à changer.
 
@@ -856,7 +856,7 @@ présente. Il faillit trébucher sur une stèle anonyme, et le Seigneur des
 Ténèbres continua d’avancer.
 
 Debout devant l’autel, le Seigneur des Ténèbres posa un doigt sur le
-front de Hermione Granger.
+front d’Hermione Granger.
 
 Puis il frappa son front du même doigt et dit d’une voix si basse que
 Harry faillit ne pas l’entendre : « *Requiescus.* »
@@ -929,7 +929,7 @@ Hermione Granger, il marchait : elle dormait paisiblement.
 
 Harry s’avança en poussant un cri étranglé puis s’arrêta, à la fois
 parce que la stupidité de son geste lui était apparue, et parce que la
-coupure ouverte par le sortilège de Découpe sur la jambe de Hermione
+coupure ouverte par le sortilège de Découpe sur la jambe d’Hermione
 s’était refermée presque aussi vite qu’elle était apparue. Au bout de
 quelques secondes, il ne restait plus qu’une légère tache de sang.
 
@@ -963,7 +963,7 @@ Harry regarda sans rien y comprendre.
 
 *Je vois le Seigneur des Ténèbres faire tout ce qu’il peut pour
 ressusciter Hermione et la garder en vie. On dirait qu’il croit que sa
-vie dépend de celle de Hermione Granger.*
+vie dépend de celle d’Hermione Granger.*
 
 Les parties perplexes de Harry cherchèrent une procédure à suivre. Sa
 première pensée fut : « Fais une prédiction à partir de ta meilleure
@@ -1027,10 +1027,10 @@ l’autre. L’espace d’un instant, Harry cru voir une traînée de ténèbres
 flotter en l’air, mais la lune était trop peu lumineuse pour qu’il
 puisse en être certain. « Et maintenant, mon cher petit », dit la voix
 aiguë de Voldemort, teintée d’une joie sinistre, au moment où il
-touchait brièvement le front de Hermione Granger d’un geste nonchalant,
+touchait brièvement le front d’Hermione Granger d’un geste nonchalant,
 « je fais de ce journal un cadeau bien plus précieux, un témoin de la
 sagesse que tu m’as transmise. Car je ne voudrais jamais te voir privé
-des conseils et de la prudence de Hermione Granger, pas tant que les
+des conseils et de la prudence d’Hermione Granger, pas tant que les
 étoiles demeurent. *Avadakedavra.* »
 
 Le rayon vert du sortilège de la Mort atteint sa cible avant que Harry
@@ -1044,7 +1044,7 @@ même pas. La lumière verte le frappa et ce fut tout.
 Des ténèbres émettaient une anti-lumière semblable aux traînées que
 Voldemort avait créées plus tôt, et le journal de Roger Bacon
 s’assombrit comme si une force corruptrice s’était emparée de lui au
-moment même où l’air autour de Hermione Granger se mit à trembler.
+moment même où l’air autour d’Hermione Granger se mit à trembler.
 
 La douleur dans la cicatrice de Harry s’embrasa, l’écrasa, comme un fer
 rouge enfoncé sur son front. Les réflexes de Tom Jedusor prirent le
@@ -1068,7 +1068,7 @@ passa dans son dos, atteint difficilement sa bourse et traça
 silencieusement un symbole, celui d’un mot de huit lettres.
 
 « Non ! » s’écria Voldemort. Il laissa tomber sa baguette, regarda le
-corps de Hermione, comme ahuri. « Non, non ! »
+corps d’Hermione, comme ahuri. « Non, non ! »
 
 L’objet passa de la bourse à la main de Harry et il commença à s’avancer
 aussi doucement de possible, cherchant à se rapprocher de Voldemort, à

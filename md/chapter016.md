@@ -391,7 +391,7 @@ Les hoquets d’horreur s’arrêtèrent brusquement.
 pas comment écrire deux rouleaux de parchemin sur la notion de combat
 pour lundi. »
 
-Harry souhaitait désespérément être assis à côté de Hermione pour
+Harry souhaitait désespérément être assis à côté d’Hermione pour
 pouvoir voir l’expression qu’elle avait maintenant, mais en même temps
 il était assez certain d’en imaginer déjà une reproduction fidèle.
 
@@ -568,7 +568,7 @@ secondes. » La voix du professeur Quirrell devint plus dure. « C’est un
 ordre direct de votre professeur, Mademoiselle Granger. Choisissez une
 cible et jetez un Sort d’Attaque Simple. »
 
-Le visage de Hermione était tordu d’horreur et sa baguette tremblait.
+Le visage d’Hermione était tordu d’horreur et sa baguette tremblait.
 Les doigts de Harry se serraient dans son poing, par pure empathie. Même
 s’il comprenait ce que le professeur Quirrell essayait de faire. Même
 s’il voyait bien ce que le professeur Quirrell essayait de démontrer.
@@ -580,7 +580,7 @@ Harry regarda Hermione, espérant qu’elle regarde dans sa direction. Sa
 main droite tapotait doucement sur sa poitrine. *Choisis-moi, je n’ai
 pas peur…*
 
-La baguette de Hermione pivota dans sa main, puis son visage se
+La baguette d’Hermione pivota dans sa main, puis son visage se
 détendit, et elle abaissa sa baguette contre son flanc.
 
 « Non », dit Hermione Granger.
@@ -753,7 +753,7 @@ d’elles. »
 
 « Bah ! J’ai nommé les gens, mais pas mes robes, qui peuvent être
 utilisées pour faire suffoquer un ennemi une fois enroulées plusieurs
-fois autour de sa tête, ou les robes de Hermione Granger, qui peuvent
+fois autour de sa tête, ou les robes d’Hermione Granger, qui peuvent
 être découpées en bandelettes attachées l’une à l’autre pour pendre
 quelqu’un, ou les robes de Drago Malefoy, qui peuvent être utilisées pour
 allumer un feu — »

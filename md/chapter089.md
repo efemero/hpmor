@@ -70,7 +70,7 @@ l’acide !* »
 
 « *Fuego !* » / « *Incendio !* » Entendit-il, mais il ne regardait plus, il
 saisissait la seringue emplie du liquide orange et lumineux qu’était la
-potion oxygénante et la plongeait dans le cou de Hermione, là où Harry
+potion oxygénante et la plongeait dans le cou d’Hermione, là où Harry
 espérait trouver l’artère carotide, afin de maintenir son cerveau en vie
 si ses poumons ou son cœur s’arrêtaient ; tant que son cerveau restait
 intact tout le reste pouvait être réparé, la magie pourrait forcément le
@@ -172,7 +172,7 @@ l’attirer jusqu’au bord de la terrasse avant de le faire tomber le long
 des murs du château de Poudlard, que quelqu’un avait magiquement protégé
 le troll de la lumière du soleil avant de l’utiliser comme une arme
 meurtrière et que cette personne aurait pu le renforcer d’autres façons.
-Puis l’image de Hermione fuyant le troll, courant vers le soleil,
+Puis l’image d’Hermione fuyant le troll, courant vers le soleil,
 atteignant enfin la terrasse lumineuse, le troll juste sur ses talons,
 uniquement pour découvrir que quelqu’un d’autre avait aussi pensé à
 cette possibilité.
@@ -244,7 +244,7 @@ mais ses lèvres ne voulurent pas bouger. *Tout ira bien, on trouvera une
 magie qui réparera tout ça, te remettra dans ton état normal, tiens le
 coup, ne…*
 
-Les lèvres de Hermione bougeaient, un tout petit peu, mais elles
+Les lèvres d’Hermione bougeaient, un tout petit peu, mais elles
 bougeaient.
 
 « ta… faute… »
@@ -330,7 +330,7 @@ Non
 
 Avec la sensation d’une fracture, comme si le temps était encore en
 miettes autour de lui, Harry se détourna de Dumbledore et baissa les
-yeux vers les reste de Hermione Granger qui gisaient dans une mare de
+yeux vers les reste d’Hermione Granger qui gisaient dans une mare de
 sang, deux garrots attachés autour des moignons de ses cuisses, et il
 décida
 

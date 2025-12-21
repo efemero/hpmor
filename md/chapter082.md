@@ -20,7 +20,7 @@ phénix dans le but d’obtenir le sien et il n’avait pas vu d’indice sur
 quoi que ce soit qui ressemble de près ou de loin à cette capacité.
 
 Harry prit feu, disparut, s’embrasa de nouveau et d’un coup lui, le
-directeur et le corps inconscient de Hermione Granger, tenu par les bras
+directeur et le corps inconscient d’Hermione Granger, tenu par les bras
 du directeur, se retrouvèrent ailleurs avec Fumseck au-dessus d’eux
 trois. Une pièce calme et chaude avec des colonnes de pierres illuminées
 par le ciel par ses quatre murs, peuplée de lits blancs disposés en
@@ -68,7 +68,7 @@ limites de leur propre sagesse. » Son regard ancien était des plus
 sévères « Contrairement à toi, Harry. »
 
 « Choisir entre un bien et un autre », dit Harry en écho, sans timbre.
-« Comme la vie de Hermione Granger contre cent mille Gallions. » La rage
+« Comme la vie d’Hermione Granger contre cent mille Gallions. » La rage
 et l’indignation que Harry avait voulu mettre dans sa voix n’était pas
 tout à fait présente, peut-être parce que…
 
@@ -93,7 +93,7 @@ travers ses barrières occlumantiques.
 « *Oui* », dit Harry, « j’ai reculé face à la douleur de me défaire de tout
 l’argent de ma chambre forte. Mais je l’ai quand même *fait* ! C’est
 *ça* qui compte ! Et *vous…* » l’indignation qui avait quitté la voix de
-Harry revint. « Vous avez *vraiment* mis un prix sur la vie de Hermione
+Harry revint. « Vous avez *vraiment* mis un prix sur la vie d’Hermione
 Granger et vous l’avez mis en-dessous de cent mille Gallions ! »
 
 « Oh ? » dit doucement le vieux sorcier. « Et quel prix mettrais-tu sur sa
@@ -101,7 +101,7 @@ vie, alors ? Un million de Gallions ? »
 
 « Êtes-vous familier du concept économique de “coût de remplacement” ? »
 Les mots jaillissaient des lèvres de Harry trop vite pour qu’il puisse
-les examiner. « Le coût de remplacement de Hermione est *infini !* Je ne
+les examiner. « Le coût de remplacement d’Hermione est *infini !* Je ne
 peux m’en racheter une autre nulle part ! »
 
 *Maintenant tu profères juste des non-sens mathématiques*, dit
@@ -492,7 +492,7 @@ Comme si le Choixpeau parlait dans sa tête…
 
 Un tourbillon d’images sembla alors illuminer l’esprit de Harry, le
 Dumbledore passé qui sanglotait entre ses mains ; l’apparence actuelle
-du vieux sorcier, grand et terrible ; une vision de Hermione hurlant
+du vieux sorcier, grand et terrible ; une vision d’Hermione hurlant
 entre ses chaînes dans la chaise de métal alors que Harry l’abandonnait
 aux Détraqueurs, et l’image construite d’un femme aux longs cheveux
 blancs (avait-elle ressemblé à son mari ?) qui tombait entre les flammes

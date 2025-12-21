@@ -823,7 +823,7 @@ Mlle Granger ? »
 
 « Oui », dit Harry d’un ton neutre. « Qu’avez-vous fait aux jumeaux
 Weasley ? Dumbledore pensait… enfin, l’école a vu le directeur aller
-voir les jumeaux après l’arrestation de Hermione. Dumbledore pensait que
+voir les jumeaux après l’arrestation d’Hermione. Dumbledore pensait que
 vous, ou plutôt que Voldemort se demandait pourquoi, et que vous aviez
 été voir les jumeaux, aviez trouvé leur carte, et leur aviez ensuite
 effacé la mémoire. »

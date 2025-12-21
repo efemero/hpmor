@@ -482,7 +482,7 @@ Il y eut un moment de surprise générale.
 l’air de vouloir donner l’impression qu’elle avait confiance en elle.
 « S’il vous plaît, quelqu’un pourrait-il — »
 
-À en voir l’expression de Hermione, elle venait de se rendre compte que
+À en voir l’expression d’Hermione, elle venait de se rendre compte que
 Daphné scintillait.
 
 Et c’est *là* que Millicent Bulstrode arriva à toute allure depuis les

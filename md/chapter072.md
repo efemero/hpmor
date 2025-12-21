@@ -87,9 +87,9 @@ tu as raison, je pense que certains se font beaucoup plus aider que
 d’autres pour devenir des héros. Et *je* ne pense pas non plus que ce
 soit juste. »
 
-Et Harry attrapa les robes de sorcières de Hermione au-dessus de son
+Et Harry attrapa les robes de sorcières d’Hermione au-dessus de son
 bras, la poussa dans un couloir transversal à celui dans lequel ils
-marchaient, la bouche de Hermione béate de surprise lorsque la main de
+marchaient, la bouche d’Hermione béate de surprise lorsque la main de
 Harry sortit sa baguette, puis ils longèrent la courbure du couloir
 tandis que Harry pointait sa baguette vers l’endroit d’où ils venaient
 et disait « *Quietus* » d’une voix basse, puis un moment plus tard, dans
@@ -244,7 +244,7 @@ la chanson inaudible disparut de l’arrière de son crâne — et commença
 enfoncer le matériau noir dans sa bourse.
 
 Après que la bourse eut mangé le dernier morceau de tissu, Harry se
-détourna de Hermione pour aller briser la barrière de silence -
+détourna d’Hermione pour aller briser la barrière de silence -
 
 « Et, euh », dit Hermione. « Ce n’est pas *la* Cape d’Invisibilité quand
 même ? Celle qu’on a vue à la bibliothèque à la page dix-huit de la
@@ -279,7 +279,7 @@ quelque part dans son esprit et dans sa magie, une chanson maintenant
 redevenue silencieuse.
 
 Harry avait parlé à la cape comme si celle-ci était une personne, il lui
-avait dit de bien prendre soin de Hermione. Harry avait dit que la cape
+avait dit de bien prendre soin d’Hermione. Harry avait dit que la cape
 avait appartenu à son père, qu’il ne pourrait pas la remplacer si elle
 était perdue…
 
@@ -561,10 +561,10 @@ pas face au garçon suspendu, il ramena son poing en arrière -
 
 « *Lagann !* » s’écrièrent cinq voix, et cinq spirales vertes jaillirent
 de cinq baguettes à travers cinq trous dans le faux mur, et un instant
-plus tard la voix de Hermione hurla : « *Stupéfix !* »
+plus tard la voix d’Hermione hurla : « *Stupéfix !* »
 
 Cinq spirales vertes se fracassèrent inutilement sur le nuage bleu et le
-rayon rouge de Hermione rebondit sur ce même nuage et frappa le garçon
+rayon rouge d’Hermione rebondit sur ce même nuage et frappa le garçon
 en quatrième année qui eut une convulsion puis devint immobile.
 
 Et la brute de septième année se retourna avec un sourire lugubre tandis
@@ -583,11 +583,11 @@ bataille n’avait progressé que de quelques secondes à ce qu’elle pouvait
 en voir, le corps de Hannah tombait et son bras était toujours tendu en
 direction de Susan, « *Glisseo !* » hurla Hermione, mais le garçon plus
 âgé fit un grand geste de baguette vers le sol, créant une traînée verte
-et lumineuse qui perturba visiblement le sortilège de Hermione et en fit
+et lumineuse qui perturba visiblement le sortilège d’Hermione et en fit
 une douche d’étincelles bleu-blanches, puis presque dans le même
 mouvement la brute dit : « *Stupéfix !* » et Hermione fut projetée en
 arrière, alors Susan fit appel à toute la magie qui lui restait et elle
-hurla *« Innerver* ! » vers le corps de Hermione alors même que la brute
+hurla *« Innerver* ! » vers le corps d’Hermione alors même que la brute
 se tournait vers elle, baguette pointée de nouveau vers elle, puis Padma
 hurla « *Prismatis !* » juste avant que la brute ne hurle
 « *Impedimental !* », la sphère arc-en-ciel se forma *autour de la brute*
@@ -819,7 +819,7 @@ Puis la puissante voix de Flint, la voix du capitaine Serpentard qui
 beuglait des ordres sur le terrain de Quidditch, dit avec un grondement
 menaçant : « Tu as gâché ma nourriture, fillette. »
 
-Un autre moment de silence figé. La tête de Hermione — Daphné pouvait la
+Un autre moment de silence figé. La tête d’Hermione — Daphné pouvait la
 voir trembler — se retourna pour regarder le capitaine de Quidditch de
 Serpentard.
 

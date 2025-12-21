@@ -24,7 +24,7 @@ FERME).*
 Et il y avait le sommeil, bien sûr. Ce n’était pas parce que dormir
 semblait parfaitement normal qu’il fallait l’oublier.
 
-« *Innerver !* » dit la jeune voix de Susan Bones, les yeux de Hermione
+« *Innerver !* » dit la jeune voix de Susan Bones, les yeux d’Hermione
 s’ouvrirent grand, ses lèvres aspirèrent l’oxygène dans une grande
 bouffée, ses poumons lui semblèrent lourds comme si un immense poids
 était posé sur sa poitrine. À côté d’elle, Hannah se relevait déjà, la
@@ -105,7 +105,7 @@ professeur Quirrell).
 
 
 « Professeur Quirrell », dit Harry, « la haine que la maison Serpentard
-développe à l’encontre de Hermione Granger m’inquiète. »
+développe à l’encontre d’Hermione Granger m’inquiète. »
 
 Ils étaient assis dans le bureau du professeur de Défense, Harry assis
 aussi loin que possible du bureau du professeur (et même alors, la
@@ -452,7 +452,7 @@ garçon à la voix cérémonieuse-effrayante, « et on découvre qui est
 « Non mes chéris », dit la voix angélique-effrayante de la fille,
 « *d’abord*, nous les attachons toutes *très* soigneusement — »
 
-Et il y eut alors un son d’éclair et tonnerre, les yeux de Hermione
+Et il y eut alors un son d’éclair et tonnerre, les yeux d’Hermione
 s’écarquillèrent de surprise avant qu’elle ne puisse s’en empêcher et
 dans son champ de vision maintenu élargi elle vit le garçon
 doux-effrayant convulser sous l’impact d’arcs d’énergie jaune qui se
@@ -478,8 +478,8 @@ Et était entourée d’un nuage à facettes bleuâtre.
 
 « *Polyfluis Reverso !* » rugit le dernier garçon-brute.
 
-Sa baguette éructa quelque chose qui ressemblait au reflet d’une écharpe
--
+Sa baguette éructa quelque chose qui ressemblait au reflet d’une écharpe -
+
 
 Qui passa sans rencontrer de résistance à travers le nuage qui entourait
 Susan -
@@ -500,7 +500,7 @@ Dans sa main s’éleva une baguette rendue floue par le nuage bleu qui
 l’entourait.
 
 « On ne touche pas aux Pouff’s », dit Susan, et dans un éclair gris si
-puissant qu’il en fit mal aux yeux mi-clos de Hermione, la véritable
+puissant qu’il en fit mal aux yeux mi-clos d’Hermione, la véritable
 bataille commença.
 
 Elle continua un moment.
@@ -679,7 +679,7 @@ cette — »
 
 
 Comme Daphné Greengrass le fit remarquer ensuite avec quelque acerbité,
-l’erreur dans le plan fourbe de Hermione qui assurait que les points de
+l’erreur dans le plan fourbe d’Hermione qui assurait que les points de
 maison seraient déduits de façon équitable si elles se faisaient
 prendre, c’était que ça ne marchait pas pour les *retenues*.
 

@@ -629,7 +629,7 @@ votre détraquage ? »
 
 « Plus ou moins », dit Harry. La phrase était vraie en un sens, mais pas
 précise ; ce n’était pas que sa personnalité détraquée s’était souciée
-de Hermione mais qu’elle avait été désorientée.
+d’Hermione mais qu’elle avait été désorientée.
 
 « Je n’avais pas de tels amis quand j’étais jeune. » Toujours la même voix
 vide d’émotion. « Je me demande ce qui serait advenu de vous si vous

@@ -11,7 +11,7 @@ leur avait donné qu’une plus haute estime d’eux-mêmes.
 
 La poitrine de Harry tremblait à chacune de ses inspirations. Son côté
 obscur avait conçu un plan – puis il était reparti, car un ton trop
-froid n’aurait pas été à l’avantage de Hermione ; un fait dont le Harry
+froid n’aurait pas été à l’avantage d’Hermione ; un fait dont le Harry
 seulement à moitié glacial ne s’était pas rendu compte…
 
 « La motion est adoptée », entonna le secrétaire après que l’on ait fini
@@ -409,7 +409,7 @@ l’air abasourdi pointait déjà ses baguettes vers elle.
 parler ? »
 
 Comme pour le professeur McGonagall, on pouvait d’une certaine façon
-dire que Harry avait oublié l’existence de Hermione Granger, car il
+dire que Harry avait oublié l’existence d’Hermione Granger, car il
 avait incliné son cou en arrière pour regarder vers le haut plutôt que
 vers le bas et parce qu’il ne l’avait considérée comme une solution à
 aucun de ses problèmes actuels. Quoi qu’il fut loin d’être certain, et
@@ -440,7 +440,7 @@ avec le Détraqueur quelques pas à peine derrière elle
 
 elle n’avait rien dit…
 
-« O-oui », murmura la voix de Hermione Granger. « Je p-peux parler. »
+« O-oui », murmura la voix d’Hermione Granger. « Je p-peux parler. »
 
 Harry rouvrit les yeux et vit son visage qui le regardait à présent. Ce
 visage ne communiquait rien qui puisse laisser comprendre ce qu’il
@@ -464,7 +464,7 @@ baguette pour que les doigts de Mlle Granger puissent la toucher. Mlle
 Granger, répétez après moi. Sur ma vie et ma magie… »
 
 Harry fit ce qu’on lui avait dit et avança sa baguette afin qu’elle
-touche les doigts de Hermione, puis la faible voix de cette dernière
+touche les doigts d’Hermione, puis la faible voix de cette dernière
 dit : « Sur ma vie et ma magie… »
 
 « Je jure de servir la maison Potter… » dit le professeur McGonagall.
@@ -641,7 +641,7 @@ mérité, celle là.*
 
 Le professeur McGonagall tenait Hermione avec une telle force qu’on
 aurait pu croire que c’était une mère tenant sa fille, ou peut-être sa
-petite fille. Au bout de quelques instants, les sanglots de Hermione
+petite fille. Au bout de quelques instants, les sanglots d’Hermione
 ralentirent et s’arrêtèrent. Le professeur McGonagall changea
 brusquement de posture et renforça sa prise : les mains de la fille
 pendaient mollement et ses yeux étaient fermés…

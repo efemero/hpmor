@@ -170,7 +170,7 @@ dire que même s’il est maléfique, il *t’aime* ! »
 
 « Tu ne fais pas avancer les choses », dit Pénélope Deauclaire un peu plus
 loin à la table, mais on l’ignora. Quelques sorcières plus âgées
-s’étaient approchées de Hermione après qu’elle se soit assise à
+s’étaient approchées d’Hermione après qu’elle se soit assise à
 l’extrémité opposée à celle où se trouvait Harry Potter, mais un nuage
 de filles plus jeunes et plus rapide avait alors entouré celle-ci d’une
 barrière impénétrable.
@@ -214,14 +214,14 @@ en se penchant en avant, visiblement autant horrifiée que fascinée.
 Deux secondes plus tard, ses oreilles eurent vent de ce que ses lèvres
 venaient de dire.
 
-La quatrième année mit une main sur l’épaule de Hermione et la serra
+La quatrième année mit une main sur l’épaule d’Hermione et la serra
 d’un geste réconfortant. « Mlle Granger », dit-elle d’une voix apaisante,
 « je pense que si tu es vraiment honnête avec toi-même, tu admettras que
 la véritable raison pour laquelle tu es en colère contre ton sombre
 maître, c’est parce qu’il a canalisé ses pouvoirs innommables au travers
 de Tracey Davis plutôt qu’au travers de toi. »
 
-La bouche de Hermione s’ouvrit mais sa gorge se bloqua avant que les
+La bouche d’Hermione s’ouvrit mais sa gorge se bloqua avant que les
 mots ne puissent sortir, ce qui fut probablement préférable, car si elle
 avait vraiment hurlé aussi fort qu’elle en avait eu l’intention, elle se
 serait probablement cassé quelque chose.
@@ -289,7 +289,7 @@ s’est jamais produit — »
 « Je n’ai même pas de *mot* pour ce genre de raisonnement fallacieux »,
 dit Harry Potter. Le garçon marchait d’un pas normal, si bien qu’il
 devait parfois sautiller pendant quelques pas pour rester à hauteur de
-la vitesse indignée de Hermione. « Je pense sérieusement que si ça ne
+la vitesse indignée d’Hermione. « Je pense sérieusement que si ça ne
 dépendait que *d’eux*, ils nous traîneraient par les pieds pour faire
 changer nos noms et qu’on s’appelle Potter-Evans-Verres-Granger… berk,
 en le disant à voix haute je me rends compte à quel point ça sonne mal. »
@@ -393,7 +393,7 @@ voulais *vraiment* ou pas. Et alors vous auriez toutes reçu une raclée
 et ça aurait été *ma* faute parce que je vous aurais demandé la
 permission. »
 
-Les sourcils de Hermione s’élevèrent sous le coup de la surprise et elle
+Les sourcils d’Hermione s’élevèrent sous le coup de la surprise et elle
 fit quelques pas de plus en essayant de comprendre. « Quoi ? » dit-elle.
 
 « Eh bien… » dit le garçon avec une certaine lenteur. « Je veux dire… tu es
@@ -523,8 +523,8 @@ trouve un moyen de la sauver qui semble étrange, sombre ou quelque chose
 comme ça, tu ne prendras peut-être pas en compte les conséquences que
 cela aura pour Hannah. Tu n’accepteras peut-être pas la responsabilité
 héroïque de trouver *un* moyen de la sauver, quoi qu’il en coûte. Au
-lieu de ça, tu risques de juste jouer le *rôle* de Hermione Granger, la
-Serdaigle raisonnable ; et le *rôle* de Hermione Granger dit non
+lieu de ça, tu risques de juste jouer le *rôle* d’Hermione Granger, la
+Serdaigle raisonnable ; et le *rôle* d’Hermione Granger dit non
 automatiquement, qu’elle ait un meilleur plan en tête ou pas. Et alors
 quarante-quatre brutes feront la queue pour tabasser Hannah Abbot et ce
 sera ma faute parce que je le *l’aurais su*, même si je ne voulais pas
@@ -676,7 +676,7 @@ faut que vous le fêtiez, toi et toutes les autres. Vous avez
 suffisamment chahuté pour les pousser à *faire* quelque chose au sujet
 des des brutalisations. De *toutes* les brutalisations. »
 
-Et alors, lentement, un sourire naquit sur les lèvres de Hermione, et en
+Et alors, lentement, un sourire naquit sur les lèvres d’Hermione, et en
 atteignant la dernière marche des escaliers, en s’avançant vers le
 portrait de Serdaigle pour entendre son énigme, Hermione se sentit assez
 légère, une merveilleuse sensation de soulèvement, comme si elle s’était

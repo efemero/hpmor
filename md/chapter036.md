@@ -367,7 +367,7 @@ voix radieuse dit : « Waouh ! Quelle grande maison ! J’espère que je
 vais pas m’y perdre ! »
 
 Roberta ferma le four en souriant. Elle avait été un peu inquiétée par
-la façon dont les lettres de Hermione avaient décrites le Survivant -
+la façon dont les lettres d’Hermione avaient décrites le Survivant -
 même si sa fille n’avait certainement rien dit qui puisse indiquer que
 Harry Potter était *dangereux* ; rien de semblable aux sombres
 sous-entendus écrits dans les livres qu’elle avec achetés, prétendument
@@ -476,7 +476,7 @@ aux *siens*.
 Comme le fait qu’elle était générale d’une armée dans leurs activités du
 soir.
 
-La mère de Hermione avait eut l’air très alarmée, et Harry avait
+La mère d’Hermione avait eut l’air très alarmée, et Harry avait
 rapidement interrompu la discussion et avait fait de son mieux pour
 expliquer que tous les sorts étaient étourdissants, que le professeur
 Quirrell surveillait en permanence, et que l’existence du soin magique
@@ -593,7 +593,7 @@ de la table, choisit ce moment pour attraper la chemise de Harry au
 niveau de son épaule et pour le tirer hors de sa chaise. Harry se laissa
 faire, mais alors que Hermione le traînait loin de la table, il dit,
 élevant encore plus sa voix : « Il est entièrement possible que dans
-mille ans, le fait que les parents de Hermione Granger étaient dentistes
+mille ans, le fait que les parents d’Hermione Granger étaient dentistes
 soit la seule raison pour laquelle on se souvienne du métier de
 dentiste ! »
 
@@ -618,7 +618,7 @@ Ce qui était effrayant, c’était qu’ils en *avaient* l’air.
 
 
 
-Harry s’était attendu à une leçon assez sévère de la part de Hermione.
+Harry s’était attendu à une leçon assez sévère de la part d’Hermione.
 
 Mais après qu’elle l’ait traîné dans le passage menant à la cave et
 qu’elle ait refermé la porte derrière eux, elle s’était retournée -

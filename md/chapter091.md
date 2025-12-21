@@ -25,7 +25,7 @@ mort. »
 
 Les lèvres du garçon se serrèrent. « Très bien. Vous avez gagné,
 professeur Rogue. Je concède que vous étiez plus responsable de la mort
-de Lily Potter que je ne le suis de celle de Hermione Granger, et que ma
+de Lily Potter que je ne le suis de celle d’Hermione Granger, et que ma
 culpabilité n’est pas comparable à la vôtre. Et maintenant je vous
 demande de partir, et de leur dire qu’il serait probablement préférable
 de me laisser seul un moment. En avons-nous fini ? »
@@ -77,7 +77,7 @@ vous reste rien d’autre que la vengeance ? »
 
 « Alors j’ai bien peu de conseils à vous prodiguer », dit Severus Rogue.
 
-Le garçon hocha la tête d’un air distrait. « De la part de Hermione,
+Le garçon hocha la tête d’un air distrait. « De la part d’Hermione,
 merci de l’avoir aidée avec les brutes. Elle vous dirait que c’était la
 bonne chose à faire. Et maintenant, je vous serais fort gré si vous
 pouviez leur dire de *me laisser tranquille*. »
@@ -126,7 +126,7 @@ dans le passé, et le professeur Flitwick aurait alors pu aller
 directement vers Hermione ou lui envoyer son corbeau Patronus longtemps
 avant que le troll ne s’approche d’elle. Ou ce Harry alternatif
 aurait-il déjà appris qu’il était trop tard — aurait-il entendu
-l’annonce de la mort de Hermione après le déjeuner et avant de pouvoir
+l’annonce de la mort d’Hermione après le déjeuner et avant de pouvoir
 envoyer des messages dans le passé ? Peut-être qu’un conseil
 d’utilisation général des voyages dans le temps était de s’assurer de ne
 jamais prendre le risque d’apprendre qu’on était arrivé trop tard si on
@@ -448,7 +448,7 @@ Vous-Savez-Qui ou *quelqu’un* rôde et prend mes amis pour cible. À quoi
 pensiez-vous, exactement ? »
 
 Elle ne répondit pas qu’elle avait pensé à un Harry assis devant la
-porte du débarras qui contenait le corps de Hermione et qui refusait de
+porte du débarras qui contenait le corps d’Hermione et qui refusait de
 bouger.
 
 « Qui d’autre est au courant ? » demanda Harry d’un ton impérieux.
@@ -532,7 +532,7 @@ deux satanées minutes ou je vais craquer et tuer quelqu’un, je suis
 sérieux, professeur. »
 
 Le garçon se retourna, traversa la petite pièce, ouvrit la porte de
-derrière, où le corps de Hermione Granger était conservé, et entra avant
+derrière, où le corps d’Hermione Granger était conservé, et entra avant
 qu’elle ne trouve quoi répondre. À travers l’ouverture elle vit le
 fragment d’une image qu’elle savait qu’aucun enfant n’aurait jamais dû
 voir…
@@ -572,7 +572,7 @@ Elle marcha jusqu’à la porte du débarras. Elle ne fut pas tout à fait
 capable de s’empêcher de regarder à l’intérieur et elle vit le sang
 séché, le drap qui recouvrait la partie inférieure du corps, la partie
 supérieure comme cireuse, semblable à une poupée, et une brève image des
-yeux fermés de Hermione Granger. Quelque chose en elle recommença à
+yeux fermés d’Hermione Granger. Quelque chose en elle recommença à
 pleurer.
 
 Elle ferma la porte.

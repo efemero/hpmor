@@ -453,7 +453,7 @@ ensuite l’enseigner.
 
 *Juste pour être sûr*, dit une partie de Harry, pendant que le reste
 sanglotait dans les bras du professeur McGonagall, *ça ne veut pas dire
-qu’on a accepté la mort de Hermione, hein ?*
+qu’on a accepté la mort d’Hermione, hein ?*
 
 *NON* dit tout le reste de son être, chaque partie de son esprit d’un
 accord unanime, le chaud, le froid, ainsi qu’un lieu caché fait d’acier.

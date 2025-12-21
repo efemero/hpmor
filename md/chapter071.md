@@ -229,8 +229,7 @@ Hermione pensait avoir parlé à voix basse mais tout le monde s’arrêta de
 marcher, Lavande et Tracey interrompirent leur conversation et les
 regardèrent.
 
-Les joues de Hannah rougissaient déjà et alors qu’elle ouvrait sa bouche
--
+Les joues de Hannah rougissaient déjà et alors qu’elle ouvrait sa bouche —
 
 « C’est pac’qu’elle a plus de courage que *tu* le penses, évidemment »,
 dit Lavande.
@@ -347,7 +346,7 @@ refermé, le frappant presque alors qu’il s’écartait du chemin, et Padma
 Patil sortit de la salle avec un air de détermination terrible sur le
 visage.
 
-« Excusez-moi, M. Potter », dit-elle à la plus grande horreur de Hermione,
+« Excusez-moi, M. Potter », dit-elle à la plus grande horreur d’Hermione,
 d’une voix perchée qui résonna à travers le corridor tel les lugubres
 cloches de la perdition, « pourrais-je vous demander votre aide ? »
 
@@ -573,7 +572,7 @@ perplexe.
 « Hé, Millicent », dit Daphné en s’approchant d’une voix basse et exaltée,
 « devine ce que j’ai compris aujourd’hui ? »
 
-« Le truc avec le fantôme de Salazar Serpentard qui aide Hermione
+« Le truc avec le fantôme de Salazar Serpentard qui aid’Hermione
 Granger ? » dit Millicent. « J’en ai déjà entendu parler — »
 
 « Non », dit Daphné dans un souffle, « c’est encore *mieux*. »

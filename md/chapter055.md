@@ -149,7 +149,7 @@ et de la voix, mais les sensations semblaient lointaines…
 On lance le Véritable Patronus en pensant à la valeur de la vie humaine.
 
 *…Mais il y a d’autres vies qui sont toujours là pour qu’on se batte
-pour elles. Ta vie, et ma vie, et la vie de Hermione Granger, et toutes
+pour elles. Ta vie, et ma vie, et la vie d’Hermione Granger, et toutes
 les vies de la Terre, et les vies au-delà, qui doivent être défendues et
 protégées.*
 

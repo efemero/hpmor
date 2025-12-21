@@ -72,7 +72,7 @@ placés et où tu les gardais. Les as-tu pris, Harry Potter ? »
 Severus l’observait maintenant avec intérêt.
 
 Dumbledore semblait lui aussi très attentif, mais aussi amical. « Le
-corps de Hermione Granger est-il en ta possession ? »
+corps d’Hermione Granger est-il en ta possession ? »
 
 « Non. »
 
@@ -95,8 +95,8 @@ Le vieux sorcier hocha la tête. « Sais-tu pourquoi il a été pris ? »
 « Si l’ennemi peut remarquer que vous partez consulter les jumeaux
 Weasley pendant les cours après que Hermione est arrêtée et découvre
 cette carte magique dont vous dites qu’elle a été volée, alors l’ennemi
-peut se demander pourquoi je gardais le corps de Hermione Granger. À mon
-tour. Avez-vous organisé la mort de Hermione Granger dans l’espoir de
+peut se demander pourquoi je gardais le corps d’Hermione Granger. À mon
+tour. Avez-vous organisé la mort d’Hermione Granger dans l’espoir de
 récupérer l’argent de Lucius ? »
 
 « *Quoi ?* » dit le professeur McGonagall.
@@ -125,13 +125,13 @@ détecteur de métaux. Avant d’avoir atteint le cou de Harry, Dumbledore
 s’arrêta.
 
 « La gemme sur ton anneau », dit Dumbledore. « Ce n’est plus un diamant
-transparent,. Il est marron, la couleur des yeux de Hermione Granger, la
+transparent,. Il est marron, la couleur des yeux d’Hermione Granger, la
 couleur de ses cheveux. »
 
 Une tension emplit soudain la pièce.
 
 « C’est le rocher de mon père », dit Harry. « Métamorphosé comme avant.
-J’ai juste fait ça pour me souvenir de Hermione… »
+J’ai juste fait ça pour me souvenir d’Hermione… »
 
 « Je dois m’en assurer. Enlève cet anneau, Harry, et pose-le sur mon
 bureau. »
@@ -169,13 +169,13 @@ lui donner son rocher gris à manger. L’anneau vide revint sur son doigt.
 
 Le vieux sorcier expira et glissa sa baguette dans sa manche. « Je *suis*
 navré », dit-il. « Il fallait que je sache. Harry… il semble que le
-Seigneur des Ténèbres a prit les restes de Hermione Granger. Je ne puis
+Seigneur des Ténèbres a prit les restes d’Hermione Granger. Je ne puis
 imaginer ce qu’il aurait à y gagner, mis à part envoyer son corps nous
 affronter sous la forme d’un Inferi. Severus te donnera certaines
 potions que tu devras garder sur toi. Sois prévenus, et sois prêt à
 faire le nécessaire, lorsqu’il le faudra. »
 
-« L’Inferi possédera-t-il l’esprit de Hermione ? »
+« L’Inferi possédera-t-il l’esprit d’Hermione ? »
 
 « Non… »
 
@@ -218,7 +218,7 @@ Pensez-vous que le professeur Quirrell aurait pu lancer un sortilège de
 Faux Souvenirs… »
 
 « Non. Je suis remonté dans le temps et j’ai placé certains instruments
-destinés à enregistrer la dernière bataille de Hermione, ne pouvant pas
+destinés à enregistrer la dernière bataille d’Hermione, ne pouvant pas
 tout à fait supporter de l’observer moi-même. » Le vieux sorcier semblait
 bien sombre. « Tu as deviné juste, Harry Potter. Voldemort a saboté tout
 ce que nous avions donné à Hermione pour sa protection. Son balais
@@ -494,12 +494,12 @@ leurs amis valent… »
 
 « *Beaucoup* mieux que rien. Neville, tu as commis une erreur de
 jugement. Elle m’a coûté environ six secondes. Il se pourrait que les
-blessures de Hermione lui aient été tout juste fatales, mais même alors,
+blessures d’Hermione lui aient été tout juste fatales, mais même alors,
 je ne pense pas que six secondes auraient suffit au troll pour qu’il
-prenne une autre bouchée de Hermione. Dans le monde hypothétique où tu
+prenne une autre bouchée d’Hermione. Dans le monde hypothétique où tu
 ne t’es pas interposé, Hermione meurt quand même. Maintenant, je
 pourrais rester ici et te faire la liste des dix façons dont j’aurais pu
-assurer la survie de Hermione si je n’avais pas été stupide… »
+assurer la survie d’Hermione si je n’avais pas été stupide… »
 
 « Toi ? *Tu* lui as couru après. C’est *moi* qui ai essayé de t’arrêter.
 Si c’est la faute de quelqu’un, c’est la mienne », dit Neville d’un ton

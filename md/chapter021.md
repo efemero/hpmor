@@ -111,7 +111,7 @@ Avec une terreur soudaine, elle se rendit compte à quel point Harry
 Potter était susceptible de faire exactement ça. Ça lui ressemblerait
 *tout à fait* d’avoir *déjà fini de lire* la deuxième moitié du livre.
 
-La vue de Hermione commença à se brouiller. Elle essaya de se forcer à
+La vue d’Hermione commença à se brouiller. Elle essaya de se forcer à
 respirer, et découvrit qu’elle en était simplement incapable.
 
 Plus que dix secondes, et il n’avait toujours pas levé sa main.
@@ -160,7 +160,7 @@ pour finir de les lire.
 
 « Un jour », dit le Survivant, « quand les lointains descendants d’*Homo
 sapiens* contempleront l’histoire de la galaxie et se demanderont quand
-les choses ont mal tournées, ils concluront que l’erreur originelle a
+les choses ont mal tourné, ils concluront que l’erreur originelle a
 été commise quand quelqu’un a appris à Hermione Granger à lire. »
 
 « Mais tu as quand même perdu », dit Hermione. Elle avait une main sur son
@@ -173,7 +173,7 @@ perdre exactement ? »
 
 « Je ne me souviens pas d’avoir consenti à ça ! »
 
-« Vraiment ? » dit Hermione Granger. Elle se donna l’air pensive. Alors,
+« Vraiment ? » dit Hermione Granger. Elle se donna l’air pensif. Alors,
 comme si l’idée venait de se présenter à elle : « Alors faisons un vote.
 Toute personne à Serdaigle qui pense que Harry Potter doit payer, levez
 votre main ! »
@@ -196,7 +196,7 @@ quelque chose de déraisonnable, nous pourrons toujours changer d’avis.
 Pas vrai, tout le monde ? »
 
 Et il y eut des hochements de tête empressés venus de toutes les filles
-auxquelles Pénélope Deauclaire avait parlé du plan de Hermione.
+auxquelles Pénélope Deauclaire avait parlé du plan d’Hermione.
 
 
 
@@ -236,7 +236,7 @@ absolument aucune raison pour qu’*il* soit blâmé.
 
 « C’était, plus que toute autre chose, dû à ma propre stupidité »,
 continua la sombre silhouette. « J’aurais pu faire beaucoup d’autres
-choses, et ce à toutes les étape du parcours. Tu ne m’as pas demandé de
+choses, et ce à toutes les étapes du parcours. Tu ne m’as pas demandé de
 faire *exactement* ce que j’ai fait. Tu m’as seulement demandé mon aide.
 C’est moi qui, malavisé, ai choisi cette méthode en particulier. Mais le
 fait demeure que j’ai perdu le concours d’un demi-livre. Les actes de
@@ -256,9 +256,9 @@ qu’il *puisse* dire s’il voulait que Harry Potter soit ami avec lui.
 
 « Je ne demande ni compassion ni chagrin », dit la sombre silhouette,
 toujours d’un calme mortel. « Mais je viens de passer deux heures
-entières en compagnie de Hermione Granger, habillé des vêtements qui
+entières en compagnie d’Hermione Granger, habillé des vêtements qui
 m’avaient été fournis, à visiter des endroits fascinants de Poudlard
-tels que la petite chute gargouillante de ce qui m’a semblé être de la
+tels que la petite chute gargouillant de ce qui m’a semblé être de la
 morve, accompagné d’une quantité d’autres filles qui insistaient pour
 s’adonner à de serviables activités telles que répandre des pétales de
 rose métamorphosés sur notre chemin. J’ai eu un rendez-vous galant,
@@ -429,7 +429,7 @@ absolument pas laisser passer. « Tu penses que les sang-de-bourbe sont
 crois rien. Ma conclusion n’est pas encore écrite. Je découvrirai
 comment tester la force magique des nés-Moldus, et la force magique des
 Sang-Purs. Si mes tests me disent que les nés-Moldus sont plus faibles,
-je croirai qu’il sont plus faibles. Si mes tests me disent que les
+je croirai qu’ils sont plus faibles. Si mes tests me disent que les
 nés-Moldus sont plus forts, je croirai qu’ils sont plus forts. Sachant
 cela et d’autres faits, je gagnerai une certaine quantité de pouvoir — »
 
@@ -625,7 +625,7 @@ gouttes d’humidité. Mais à quoi *avait pensé* le Seigneur des Ténèbres 
 Père avait dit que le Seigneur des Ténèbres était *intelligent* !
 
 « J’ai trouvé ! » dit soudain la sombre silhouette. « Tu ne comprendras pas
-pour l’instant, mais crois moi, ça convient. »
+pour l’instant, mais crois-moi, ça convient. »
 
 Pour le moment, Drago aurait accepté « Mangeurs Malefoy » du moment que ça
 changeait de sujet. « C’est quoi ? »
@@ -714,7 +714,7 @@ attention en sa présence.*
 
 Harry fixa la note.
 
-Ça *semblait* être de bons conseil. Bien sûr, Harry n’allait pas tricher
+Ça *semblait* être de bon conseil. Bien sûr, Harry n’allait pas tricher
 en cours d’Histoire même s’ils lui donnaient un singe mort pour
 professeur. Mais la Legilimancie de Severus… celui ou celle qui avait
 envoyé cette note savait beaucoup de choses importantes et secrètes, et
@@ -928,7 +928,7 @@ d’invisibilité légendaire, il avait sauvé sept Poufsouffle en regardant
 cinq garçons plus âgés et effrayants dans les yeux, et l’un d’eux avait
 menacé de lui briser les doigts, il s’était rendu compte qu’il avait un
 mystérieux côté obscur, il avait appris à jeter *Frigideiro* en cours de
-Sorts et enchantements, il avait commencé à être le rival de Hermione…
+Sorts et enchantements, il avait commencé à être le rival d’Hermione…
 mardi il avait découvert l’Astronomie, enseignée par le professeur
 Aurora Sinistra qui était gentille, et l’Histoire de la Magie, qui était
 enseignée par un fantôme qui aurait dû être exorcisé et remplacé par un

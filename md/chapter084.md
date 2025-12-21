@@ -58,7 +58,7 @@ cette affaire impossible à croire, bien qu’il ne puisse pas forcément le
 dire en public. Il se demandait si des drogues moldues auraient pu êtres
 utilisées contre vous. »
 
-Les yeux de Hermione continuèrent de regarder distraitement le
+Les yeux d’Hermione continuèrent de regarder distraitement le
 professeur de Métamorphose ; elle savait qu’elle venait d’entendre
 quelque chose d’important mais elle n’arrivait pas à trouver l’énergie
 nécessaire pour propager ces changements dans son esprit.
@@ -109,13 +109,13 @@ voix tremblante.
 « Je suis *tout à fait* certaine que vous ne feriez pas une chose
 pareille de votre plein gré. »
 
-Sous les couvertures, les mains de Hermione serraient les draps.
+Sous les couvertures, les mains d’Hermione serraient les draps.
 « *Harry* pense que je ne l’ai pas fait ? »
 
 « M. Potter considère que vos souvenirs ont été entièrement manufacturés.
 Je comprends parfaitement son point de vue. »
 
-Les mains agrippées de Hermione laissèrent filer les draps et elle
+Les mains agrippées d’Hermione laissèrent filer les draps et elle
 s’affaissa de nouveau dans le lit, où elle s’était en partie assise.
 
 Non.
@@ -244,7 +244,7 @@ précises. « Mais ce n’est pas plus que ce que vous exigeriez de
 
 « Hermione… » commença le vieux sorcier.
 
-« Pourquoi ? » dit la voix de Hermione, et il semblait maintenant que
+« Pourquoi ? » dit la voix d’Hermione, et il semblait maintenant que
 celle-ci continuait, libérée de son esprit. « Pourquoi ne pourrais-je pas
 être plus courageuse ? J’allais courir devant le Détraqueur – pour Harry
 – avant, je veux dire, en janvier… Alors pourquoi… Pourquoi… Pourquoi
@@ -292,7 +292,7 @@ Saches-le ! Le mal qui t’a frappé aurait pu briser n’importe qui, même
 moi. Seul Harry Potter aura ce qu’il faut pour faire face à cette
 horreur, le jour où il sera en pleine possession de ses pouvoirs. »
 
-Le cou de Hermione ne pouvait plus rester tendu vers le vieux sorcier ;
+Le cou d’Hermione ne pouvait plus rester tendu vers le vieux sorcier ;
 elle laissa sa tête tomber en arrière, jusqu’à son coussin, où elle
 regarda le plafond, tentant d’absorber autant de ces mots qu’elle le
 pouvait.
@@ -790,7 +790,7 @@ plein gré…
 
 *…comme elle se souvenait l’avoir fait…*
 
-…mais la majeure partie de Hermione avait peur de le savoir. *Peur de le
+…mais la majeure partie d’Hermione avait peur de le savoir. *Peur de le
 savoir* était un signal d’avertissement selon Harry et ses livres ; mais
 son esprit semblait fatigué, *blessé*, et elle n’arrivait pas à trouver
 la force de se surpasser.
@@ -1034,7 +1034,7 @@ Les étoiles n’étaient pas encore tout à fait visible, on ne pouvait voir
 qu’une ou deux des plus brillantes à travers le voile rouge et violet de
 l’horizon, mais le soleil s’était couché.
 
-Les mains de Hermione pressèrent la pierre du parapet qui protégeait le
+Les mains d’Hermione pressèrent la pierre du parapet qui protégeait le
 petit balcon où elle s’était réfugiée, loin de la cage d’escaliers,
 après s’être rendue compte que…
 
@@ -1221,7 +1221,7 @@ intérêt personnel. En réalité, les hommes ne s’élèvent pas jusque là. E
 il finit donc par se rendre compte qu’il ferait mieux de combattre le
 mage noir seul qu’avec de tels adeptes sur son dos. »
 
-« Donc… » dans la nuit, la voix de Hermione était étrange. « Vous avez
+« Donc… » dans la nuit, la voix d’Hermione était étrange. « Vous avez
 laissé vos amis derrière, en sécurité, et avez essayé d’attaquer le mage
 noir tout seul ? »
 

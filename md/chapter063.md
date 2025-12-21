@@ -18,7 +18,7 @@ Et Harry avait l’air triste, usé, vraiment *fatigué*, comme si le phénix
 était la seule chose qui le faisait tenir sur pied, mais une chaleur
 émanait toujours de lui et si vous aviez croisé son regard vous auriez
 pu croire que vous regardiez le directeur ; voilà ce qui passa par la
-tête de Hermione même si cela n’avait aucun sens.
+tête d’Hermione même si cela n’avait aucun sens.
 
 Harry Potter traversa péniblement la salle commune et se dirigea vers
 Hermione, passant devant des sofas emplis de filles et des cercles de

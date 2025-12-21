@@ -1095,7 +1095,7 @@ moins. Choisissant bien ses mots, peut-être même admiratif. Toujours
 prêt à aider, à faire une faveur, à prodiguer un conseil — »
 
 « Oh, *Drago Malfoy* ! » dit Harry, se sentant plutôt soulagé qu’il ne
-s’agisse pas de Hermione ou de quelqu’un d’autre. « Oh non, non non non,
+s’agisse pas d’Hermione ou de quelqu’un d’autre. « Oh non, non non non,
 vous vous trompez complètement, il ne me convertit pas, c’est moi qui le
 convertis. »
 

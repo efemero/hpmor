@@ -577,7 +577,7 @@ trahi.
 
 « Ne vous en faites pas, M. le directeur », dit le garçon. « Je ne me suis
 pas emmêlé les pinceaux. Je sais que je suis censé apprendre ce qui est
-bon auprès de Hermione et de Fumseck, pas du professeur Quirrell et de
+bon auprès d’Hermione et de Fumseck, pas du professeur Quirrell et de
 vous. Ce qui m’amène à la véritable raison de ma venue. Le temps de
 Hermione est trop précieux pour être gâché en retenues. Le professeur
 Rogue les annulera en prétendant que je l’ai fait chanter. »
@@ -1127,7 +1127,7 @@ noir qui semblait s’amonceler au-dessous et obscurcir le visage de celui
 qui ou de ce qui se trouvait derrière le brouillard. »Rebonjour, Hermione,« chuchota une voix sifflante située sous le
 chapeau et derrière le brouillard noir.
 
-Le cœur de Hermione battait déjà à tout rompre dans sa poitrine, ses
+Le cœur d’Hermione battait déjà à tout rompre dans sa poitrine, ses
 robes de sorcières étaient déjà humides de sueur et collaient à sa peau,
 elle pouvait déjà sentir le goût de la peur ; elle ne savait pas
 pourquoi elle était si soudainement emplie d’adrénaline mais sa main se

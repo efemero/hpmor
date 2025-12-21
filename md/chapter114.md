@@ -263,7 +263,7 @@ boucles.
 
 Harry ne regardait pas là, il ne vit pas les masques qui tombaient, le
 sang, il perçut vaguement des explosions de magie semblables à celle
-qu’il avait ressentie à la mort de Hermione mais les ignora, il ne vit
+qu’il avait ressentie à la mort d’Hermione mais les ignora, il ne vit
 que les mains du Seigneur des Ténèbres, son arme et sa baguette tomber,
 et alors il leva sa baguette vers lui…
 

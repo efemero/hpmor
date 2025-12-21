@@ -12,7 +12,7 @@ agrippée sur la baguette -
 « Hermione, *arrête* ! Ça ne va pas marcher, je ne pense pas qu’on puisse
 créer des choses qui n’existent pas encore ! »
 
-La main de Hermione relâcha lentement sa prise sur la baguette.
+La main d’Hermione relâcha lentement sa prise sur la baguette.
 
 « J’ai eu l’impression de le sentir », dit-elle d’une voix qui était à
 peine un murmure. « J’ai eu l’impression que je l’ai senti commencer à se
@@ -196,7 +196,7 @@ découvrir quelque chose dont personne ne s’est déjà rendu compte. »
 « Es-tu vraiment en train de dire qu’on devrait abandonner notre démêlage
 des secrets de la magie après avoir essayé pendant moins d’un *mois* ? »
 dit Harry en essayant de mettre une note de défi dans sa voix. Pour être
-honnête, il sentait une partie de la fatigue de Hermione. Aucune des
+honnête, il sentait une partie de la fatigue d’Hermione. Aucune des
 *bonnes* idées ne fonctionnaient jamais. Il avait fait une seule
 découverte qui mérite d’être mentionnée, le motif Mendélien, et il ne
 pouvait pas en parler à Hermione sans briser sa promesse envers Drago.
@@ -249,7 +249,7 @@ adulte ne peut pas faire. C’est ça ton défi ? »
 « Ce n’est pas ce que je voulais dire », dit Hermione, sa voix s’échappant
 sous la forme d’un chuchotement apeuré.
 
-Harry fit un immense effort et arracha son regard à celui de Hermione.
+Harry fit un immense effort et arracha son regard à celui d’Hermione.
 « Je ne suis pas en colère contre *toi* », dit-il. Sa voix était froide en
 dépit de ses efforts. « Je suis en colère contre, je ne sais pas, contre
 tout. Mais je ne suis pas prêt à perdre. Perdre n’est pas toujours la
@@ -374,7 +374,7 @@ pilule, ou au moins ils auraient dû se *rendre compte*… elle avait été
 tellement saisie par l’idée brillante de Harry qu’elle n’avait pas
 *pensé*…
 
-La sensation désagréable dans l’estomac de Hermione empirait. Il y avait
+La sensation désagréable dans l’estomac d’Hermione empirait. Il y avait
 une intuition dans son esprit, comme quelque chose qui aurait flotté à
 la limite de sa conscience, une perception sur le point de s’inverser,
 une jeune femme sur le point de devenir une vieillarde, une vase sur le

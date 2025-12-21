@@ -146,7 +146,7 @@ moyen de le faire avant toi. C’est plus important de résoudre le
 problème tout de suite que de savoir *lequel* d’entre nous l’a résolu.
 Tu as déjà trouvé quelque chose d’intéressant ? »
 
-Trois quarts de Hermione couraient en tous sens et se cognaient contre
+Trois quarts d’Hermione couraient en tous sens et se cognaient contre
 des murs à force d’essayer de déchiffrer les conséquences des paroles de
 Harry (est-ce qu’il la respectait *toujours* en tant qu’héroïne ? Ou
 est-ce que ça voulait dire qu’il pensait quelle ne *pouvait pas* y
@@ -726,7 +726,7 @@ situation et proposant des cotes de paris sur la personne que je finirai
 par épouser assignerait une plus grande probabilité à toi qu’à toute
 autre personne à laquelle je puisse penser… »
 
-Les pensées de Hermione, qui venaient à peine de commencer à se
+Les pensées d’Hermione, qui venaient à peine de commencer à se
 reformer, explosèrent promptement en un jet d’étincelles et de flammes.
 
 « Mais pas nécessairement une probabilité supérieure à cinquante pour

@@ -342,7 +342,7 @@ Même sur la main gauche, on pouvait voir la fine trace d’écailles de
 serpent ; c’était très Voldemort. Tant mieux.
 
 Harry alla jusqu’à l’autel où gisait une Hermione endormie et plaça
-doucement la main amputée autour du cou de Hermione, plaça
+doucement la main amputée autour du cou d’Hermione, plaça
 précautionneusement les doigts pour qu’ils enserrent sa gorge. C’était
 difficile : Hermione semblait si paisible, si innocente dans son
 sommeil, et la main amputée de Voldemort semblait si laide ; Harry
@@ -353,14 +353,14 @@ Quelques petits sortilèges de Découpe permirent de gâcher la marque
 quasiment parfaite des nanofibres, ce qui était d’une importance
 critique : il ne fallait pas que la blessure de la main ressemble à
 celle des cous. Plusieurs *Diffindos* répandirent de petits bouts du
-poignet de Voldemort sur la chemise de Hermione, et Harry dut se
+poignet de Voldemort sur la chemise d’Hermione, et Harry dut se
 rappeler que cela faisait partie de son plan.
 
 Il répéta l’opération avec la main droite en la plaçant de façon
 symétrique.
 
 Il utilisa ensuite *Inflammare* pour roussir les robes de Voldemort
-avant de placer les robes roussies autour de Hermione.
+avant de placer les robes roussies autour d’Hermione.
 
 Le pistolet et la baguette de Voldemort entrèrent dans la bourse de
 Harry. Il mit la Pierre de Permanence dans une poche ordinaire, car il
@@ -406,7 +406,7 @@ Il mit sa Cape d’Invisibilité, qui s’était trouvée avec tous les objets,
 
 Il récupéra son balai dans sa bourse et grimpa dessus.
 
-Il lança un sortilège de silence autour de Hermione Granger — ça
+Il lança un sortilège de silence autour d’Hermione Granger — ça
 n’assourdirait pas *tout* le bruit, loin de là, et ce n’était de toute
 façon pas comme si elle serait définitivement handicapée si jamais ses
 tympans crevaient, mais c’était quand même poli.

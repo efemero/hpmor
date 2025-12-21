@@ -74,7 +74,7 @@ n’aidait pas sa prononciation.
 *Je me fiche que ce soit de la compétition déloyale. Je sais exactement
 ce que je vais faire avec mes deux heures supplémentaires par jour. Je
 vais m’asseoir dans ma malle et étudier jusqu’à ce que je sois au niveau
-de Hermione.*
+d’Hermione.*
 
 
 
@@ -406,7 +406,7 @@ Portillons tournants, et nous comptons avoir terminé les modifications
 d’ici la fin de la semaine prochaine. J’imagine que cela mérite… disons
 dix points pour Serdaigle. »
 
-La visage de Hermione trahissait un immense sentiment de trahison et
+La visage d’Hermione trahissait un immense sentiment de trahison et
 d’éberluement. Harry supposa que son propre visage ne devait pas avoir
 l’air très différent.
 

@@ -110,7 +110,7 @@ face à un nouveau défi. »
 sorcellerie de Poudlard et elle n’est pas sujette à quelque négociation
 que ce soit. » Les mots étaient toujours précis mais bien qu’il ait
 regardé Harry et pas elle, le regard du professeur de Quirrell glaça les
-sangs de Hermione. « Et je trouve *suspicieux*, M. Potter, qu’au moment
+sangs d’Hermione. « Et je trouve *suspicieux*, M. Potter, qu’au moment
 où vous avez choisi d’isoler Mlle Granger et M. Malefoy et de les forcer
 à vous poursuivre sur le toit, vous soyez parvenu à annihiler exactement
 autant de leurs forces rassemblées qu’il vous a convenu. De fait, c’est
@@ -351,7 +351,7 @@ même réponse même si sa mémoire insistait sur le fait que rien n’avait
 été ajouté ni enlevé – le directeur s’éclaircit la gorge et dit : « Mlle
 Granger ? »
 
-La tête de Hermione se tourna brusquement et elle sentit une légère
+La tête d’Hermione se tourna brusquement et elle sentit une légère
 chaleur entrer dans ses joues ; mais Dumbledore ne sembla pas le moins
 du monde agacé, seulement serein, avec un regard curieux dans ses yeux
 doux surmontés de verres.
@@ -458,7 +458,7 @@ héroïne mais elle décida de ne pas revenir sur ce qu’elle avait dit).
 « Ah », répondit le vieux sorcier. « Voilà qui est fort difficile, Mlle
 Granger. » Dumbledore se leva de son trône, s’écarta de son bureau et
 montra un symbole accroché au mur, un symbole si omniprésent que les
-yeux de Hermione étaient passés dessus dans le voir : un bouclier usé
+yeux d’Hermione étaient passés dessus dans le voir : un bouclier usé
 qui portait le blason de Poudlard, le lion, le serpent, le blaireau et
 l’aigle, ainsi que des mots gravés en latin dont elle n’avait jamais
 compris la pertinence. Puis elle reprit conscience de l’emplacement du

@@ -73,7 +73,7 @@ l’attraper et tout ce qui reste de lui, ce sont ses robes brulées et ses
 mains autour de la gorge de Mlle Granger. Tout comme l’amour et le
 sacrifice de sa mère ont sauvé Harry Potter du sortilège de la Mort, le
 professeur Quirrell a décidé de partir, d’aller se battre… seul… contre
-le Seigneur des Ténèbres… ça a dû invoquer… l’esprit de Hermione
+le Seigneur des Ténèbres… ça a dû invoquer… l’esprit d’Hermione
 Granger… d’entre les morts… ou d’ailleurs… » Oliver n’arrivait plus à
 parler.
 

@@ -229,7 +229,7 @@ n’ait émergé dans la salle de pierre qu’il put voir…
 
 …un trio d’Aurors…
 
-…le dos de Hermione qu’on amenait, il ne pouvait pas voir son visage…
+…le dos d’Hermione qu’on amenait, il ne pouvait pas voir son visage…
 
 …suivit d’un moineau d’argent étincelant et d’un écureuil lunaire
 bondissant…
@@ -259,7 +259,7 @@ Mais il avait alors déjà déclaré la guerre contre l’Angleterre magique
 et l’idée que d’autres le nomment Seigneur des Ténèbres ou non ne lui
 semblait plus avoir d’importance.
 
-Le visage de Hermione lui apparut lorsqu’elle s’assit dans la chaise.
+Le visage d’Hermione lui apparut lorsqu’elle s’assit dans la chaise.
 Elle n’était pas droite et rebelle comme elle l’avait été face à Rogue,
 elle ne pleurait pas comme lorsque les Aurors l’avaient arrêtée. Elle
 était juste assise là, un air d’horreur vacante dans le regard, alors
@@ -315,7 +315,7 @@ chance…
 
 « Parce que je nous ai débarrassé du Seigneur des Ténèbres ? » dit le
 garçon, et il pointa un doigt vers le Détraqueur qui flottait derrière
-la chaise de Hermione. « Il y a quelque chose d’encore plus sombre dans
+la chaise d’Hermione. « Il y a quelque chose d’encore plus sombre dans
 cette pièce. »
 
 La femme plissa les yeux et son visage devint un peu plus sévère. « Je
@@ -358,7 +358,7 @@ Après les premières questions, Harry détourna le regard et observa l’un
 des murs latéraux les doigts dans ses oreilles tandis que le cerveau de
 Hermione rejouait le contenu du sortilège de faux souvenirs. Il ne
 pouvait pas supporter l’angoisse émoussée par la drogue présente dans la
-voix de Hermione, son côté obscur ne pouvait pas le supporter non plus
+voix d’Hermione, son côté obscur ne pouvait pas le supporter non plus
 et il avait déjà entendu un résumé de son récit.
 
 Le cerveau de Harry repartit dans un flash jusqu’à un autre jour
@@ -387,7 +387,7 @@ gouttes de Veritaserum. »
 ne complotais rien contre Granger. Après ce jour là je me suis senti
 vraiment insulté, je l’avais aidée à chaque fois…* »
 
-Le son qui sortit de la gorge de Hermione donnait l’impression qu’elle
+Le son qui sortit de la gorge d’Hermione donnait l’impression qu’elle
 venait de se faire écraser par une pierre si immense qu’elle ne pouvait
 plus ni pleurer ni respirer mais seulement avoir un petit hoquet triste.
 
@@ -582,12 +582,12 @@ claire.
 l’horreur que vous commettez ! Elle a… » La voix du vieux sorcier se
 brisa. « Elle a peur… »
 
-Le Veritaserum devait s’être dissipé car le visage de Hermione Granger
+Le Veritaserum devait s’être dissipé car le visage d’Hermione Granger
 commençait à se tordre sous son relâchement, ses membres tremblaient
 visiblement sous les chaînes comme si elle essayait de courir, de fuir
 cette chaise, mais qu’elle était maintenue par des poids plus lourds que
 ceux des liens de métal enchantés qui la liaient. Puis il y eut un
-effort convulsif et le cou de Hermione bougea, sa tête se tordit, assez
+effort convulsif et le cou d’Hermione bougea, sa tête se tordit, assez
 pour que ses yeux se braquent sur…
 
 Elle regardait Harry et même si elle ne parlait pas, son message était

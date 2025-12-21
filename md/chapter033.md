@@ -949,7 +949,7 @@ les exploite. »
 
 
 Pendant de longues et précieuses secondes, alors que les quarante-sept
-soldats chargeaient les dix-sept de ses rangs, l’esprit de Hermione se
+soldats chargeaient les dix-sept de ses rangs, l’esprit d’Hermione se
 vida.
 
 Pourquoi…
@@ -971,7 +971,7 @@ qu’elles attaquaient Soleil.
 C’était quand même démoralisant, cette impression de voir ses chances
 diminuer, de voir son espoir ravi.
 
-La plupart des soldats de Hermione semblaient encore confus, mais une
+La plupart des soldats d’Hermione semblaient encore confus, mais une
 expression d’horreur naissante se dessinait sur le visage de ceux qui
 commençaient à comprendre.
 

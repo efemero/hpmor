@@ -482,7 +482,7 @@ Dumbledore en fronçant les sourcils. « Mais me semble bien étrange de se
 définir par cela. La science est-elle aussi importante que l’amour ? Que
 la gentillesse ? Que l’amitié ? Est-ce la science qui te donne ton
 affection pour Minerva McGonagall ? Est-ce la science qui fait que tu te
-soucies de Hermione Granger ? Est-ce vers la science que tu te tournes
+soucies d’Hermione Granger ? Est-ce vers la science que tu te tournes
 lorsque tu essaies de faire naître de la chaleur dans le cœur de Drago
 Malfoy ? »
 

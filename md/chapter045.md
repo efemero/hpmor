@@ -69,7 +69,7 @@ grave. » Puis elle se détourna de Harry et partit vers le chemin qui
 menait aux portes de Poudlard.
 
 Un certain nombre de filles jetèrent des regards perplexes en direction
-de Hermione puis la suivirent. Sur leur chemin on pouvait entendre les
+d’Hermione puis la suivirent. Sur leur chemin on pouvait entendre les
 questions animées qui commençaient.
 
 Harry les regarda partir puis il se tourna de nouveau, vers les autres
@@ -429,7 +429,7 @@ ici, maintenant, aux plus précoces des jours de l’aube, alors qu’il y
 avait encore tant de ténèbres à combattre, et des nuisances temporaires
 telles que les Détraqueurs.
 
-Maman et Papa, l’amitié de Hermione et le voyage de Drago, Neville et
+Maman et Papa, l’amitié d’Hermione et le voyage de Drago, Neville et
 Seamus et Lavande et Dean, le ciel bleu et le soleil brillant et toutes
 les choses radieuses, la Terre, les étoiles, la promesse, tout ce que
 l’humanité était et tout ce qu’elle deviendrait…

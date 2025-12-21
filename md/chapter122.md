@@ -340,7 +340,7 @@ Il avait en partie conscience — non, il devait arrêter d’avoir *en
 partie conscience* des choses et commencer à juste en être conscient -
 il était explicitement, consciemment conscient du fait que ses
 ruminations au sujet du Futur servaient avant tout à le distraire de
-l’arrivée imminente de Hermione Granger. Qui s’était réveillée en
+l’arrivée imminente d’Hermione Granger. Qui s’était réveillée en
 parfaite santé à Sainte Mangouste et avait transplané avec le professeur
 Flitwick jusqu’à Poudlard. Qui avait dit à ce dernier qu’elle devait
 immédiatement parler à Harry Potter. Harry avait trouvé une note de
@@ -426,7 +426,7 @@ Et il serra Hermione dans ses bras, ressentit la *vie* qui se dégageait
 d’elle. Il voulut pleurer, mais se retint, car il ne savait pas si
 c’était seulement son aura qui l’affectait.
 
-Autour de lui, les bras de Hermione étaient très doux. Ils exerçaient
+Autour de lui, les bras d’Hermione étaient très doux. Ils exerçaient
 une pression particulièrement légère, comme si elle faisait attention à
 ne pas briser son corps comme un vieux cure-dents.
 
@@ -438,7 +438,7 @@ Le professeur Flitwick ne les a laissé me donner qu’une seule goutte de
 Veritaserum, donc je n’ai pas été obligée de parler. J’ai juste dit que
 je me souvenais seulement du troll. »
 
-« Ah », dit Harry. Il s’était retrouvé à regarder le nez de Hermione
+« Ah », dit Harry. Il s’était retrouvé à regarder le nez d’Hermione
 plutôt que ses yeux. « Et tu penses qu’il s’est passé quoi, exactement ? »
 
 « Eh bien », dit Hermione Granger tout en réfléchissant, « je me suis fait
@@ -493,7 +493,7 @@ deux. »
 « Ah », dit Hermione, et elle redevint silencieuse.
 
 « Tu ne me dis pas que tu me l’avais bien dit ? » demanda Harry. Son
-modèle mental de Hermione hurlait : JE TE L’AVAIS BIEN DIT ! JE TE
+modèle mental d’Hermione hurlait : JE TE L’AVAIS BIEN DIT ! JE TE
 L’AVAIS DIT OU PAS ? OUI OU NON ? LE PROFESSEUR QUIRRELL EST
 MÉCHAAAAAAANT, JE L’AI DIT, MAIS TU *NE M’AS PAS ÉCOUTÉE !*
 
@@ -829,7 +829,7 @@ en termes héroïques, si j’y arrive. Mais je ferai aussi tout ce qui est
 en mon pouvoir — ou presque tout, je suis humaine, après tout. » Harry
 n’avait jamais compris ce qui était mystérieux dans le sourire de la
 Joconde, mais il sentait que, s’il avait pu photographier le sourire à
-la fois joyeux et résigné de Hermione, il aurait pu le contempler
+la fois joyeux et résigné d’Hermione, il aurait pu le contempler
 pendant des heures sans comprendre, et que Dumbledore, lui, l’aurait
 immédiatement compris. « Je ne veux pas tirer d’enseignement de cette
 leçon. Je *vais* être stupide. Je vais continuer de faire presque tout
@@ -934,7 +934,7 @@ sortilèges, et c’est tout ce qu’il nous faut pour être majeurs. Mais tu
 devras accepter de n’avoir qu’une mention Assez Bien plutôt que tes
 habituelles félicitations du jury. »
 
-Les bruits aigus qui émanaient de Hermione montèrent encore d’un cran.
+Les bruits aigus qui émanaient d’Hermione montèrent encore d’un cran.
 
 « Voilà ta baguette », dit Harry en la sortant de sa bourse. « Et ta bourse
 en peau de Moke ; après ta mort, je me suis assuré que tout y soit au
@@ -995,7 +995,7 @@ Inviolable moi aussi. Ça te va ? »
 toute façon, je ne veux pas détruire le monde. »
 
 « Est-ce que tu as besoin de t’asseoir encore ? » dit Harry, alarmé par le
-balancement léger de Hermione, comme au rythme des mots qui étaient
+balancement léger d’Hermione, comme au rythme des mots qui étaient
 prononcés.
 
 Hermione Granger prit quelques inspirations profondes. « Non, je pète la
@@ -1009,7 +1009,7 @@ part de ne pas te donner tous les avantages possibles… »
 
 « Je comprends tout à fait », dit Hermione. « Maintenant que j’ai perdu un
 vrai combat et que je suis morte. Je ne comprenais pas, mais maintenant,
-si. » Une brise agita les cheveux châtain et les robes de Hermione, lui
+si. » Une brise agita les cheveux châtain et les robes d’Hermione, lui
 donnant un air encore plus paisible, lorsqu’elle leva une main et serra
 le poing. « Si je fais ça, autant que je le fasse *bien*. On va mesurer
 ma force, la hauteur de mes sauts, voir si mes ongles peuvent tuer un
@@ -1259,7 +1259,7 @@ rêve de jouer au Quidditch… »
 
 « Non. Oh non. »
 
-« Restera dans l’Histoire comme l’acolyte de Hermione Jean Granger, qui
+« Restera dans l’Histoire comme l’acolyte d’Hermione Jean Granger, qui
 l’envoyait au devant des ennuis avant de résoudre les mystères depuis la
 bibliothèque en lisant des livres et en usant de son incroyable
 mémoire. »
@@ -1306,7 +1306,7 @@ peut« ? »
 
 « J’imagine que si. » Hermione se détourna vers les terres aux alentours
 de Poudlard, car le soleil était trop lumineux pour être regardé
-directement — même si, songea Harry, les rétines de Hermione se
+directement — même si, songea Harry, les rétines d’Hermione se
 soigneraient toujours, et qu’elle était donc seule à pouvoir regarder le
 soleil directement. « Harry, tu as dis que tu pensais que j’avais
 toujours été destinée à être l’héroïne. J’y ai réfléchi, et je pense que
@@ -1344,8 +1344,8 @@ confiance si tu comptes être mon jeune sorcier mystérieux. Maintenant,
 tends ta baguette. »
 
 Lentement, tout en réprimant une dernière inquiétude quant aux
-intentions de Hermione, Harry sortit la Baguette de Sureau et forma une
-croix avec celle de Hermione, faite en vigne, longue de dix pouces et
+intentions d’Hermione, Harry sortit la Baguette de Sureau et forma une
+croix avec celle d’Hermione, faite en vigne, longue de dix pouces et
 demi. « Est-ce que tu peux au moins ne rien dire qui ressemble à »jusqu’à
 ce que la mort m’emporte« ? Parce que j’ai la Pierre Philosophale, je te
 rappelle ? Ou au sujet de »la fin du monde et de sa magie« ? C’est le

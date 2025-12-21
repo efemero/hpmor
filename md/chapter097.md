@@ -521,7 +521,7 @@ Gringotts », dit Harry. Il fouilla dans ses robes et en sortit un stylo
 Moldu et une feuille de papier normale. « Cette formulation vous
 conviendra-t-elle ? » Harry griffonna rapidement une note telle qu’un
 avocat aurait pu l’écrire qui disait que la maison Potter ne tenait pas
-la maison Malefoy pour responsable de du meurtre de Hermione Granger de
+la maison Malefoy pour responsable de du meurtre d’Hermione Granger de
 quelque façon que ce soit et ne croyait pas qu’elle avait quoi que ce
 soit à voir avec celui-ci, puis il souleva la feuille afin que Lucius
 Malefoy puisse la lire.
@@ -669,7 +669,7 @@ morte à l’école ; Poudlard est connue pour sa sécurité. Donc ça n’ét
 probablement pas censé se produire. »
 
 L’esprit de Harry revint involontairement à l’horreur dans les yeux de
-Dumbledore lorsque ce dernier avait vu le corps de Hermione Granger.
+Dumbledore lorsque ce dernier avait vu le corps d’Hermione Granger.
 
 *Serais-je arrivé à temps si les jumeaux Weasley ne s’étaient pas fait
 voler leur carte magique ? Cela aurait-il pu être son plan ? Et alors
@@ -832,7 +832,7 @@ dérouler, comme avec réticence. Un regard lui suffit à lire les
 paragraphes écrits d’une main soigneuse et à voir la signature de Lucius
 Malefoy en-dessous de celle de Harry Potter. Maugrey explosa alors quand
 la partie supérieure du document entra dans son champ de Vision. « Tu
-*disculpes la maison Malefoy de toute lien avec la mort de Hermione
+*disculpes la maison Malefoy de toute lien avec la mort d’Hermione
 Granger ?* Est-ce que tu as la moindre idée de ce que tu as fait, petit
 idiot ? Nom de Merlin, pourquoi est-ce que tu ferais une chose OH
 BORDEL… »

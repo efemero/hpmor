@@ -41,7 +41,7 @@ professeurs Sinistra et Vector. »
 Minerva exhiba un petit disque d’argent qui portait les initiales SPEHS,
 le posa sur le bureau d’Albus et le frappa brièvement du doigt.
 
-Et les voix de Hermione Granger, Padma Patil, Parvati Patil, Lavande
+Et les voix d’Hermione Granger, Padma Patil, Parvati Patil, Lavande
 Brown, Susan Bones, Hannah Abbot, Daphné Greengrass et Tracey Davis
 s’écrièrent à l’unisson : « *Les sorcières sont pas en reste, c’est
 l’heure de nous donner une quête !* »
@@ -82,7 +82,7 @@ le président des élèves de Poudlard étaient présents, ainsi que les
 préfets mâles Percy Weasley et Oliver Beatons, tous porteurs de badges
 en signe de Solidarité. Et bien sûr, les huit fondatrices de SPEHS, qui
 formaient un piquet à côté de la gargouille, armées de pancartes. Celle
-de Hermione, attachée à un bâton de bois qui lui semblait de plus en
+d’Hermione, attachée à un bâton de bois qui lui semblait de plus en
 plus lourd à mesure que les secondes s’écoulaient portait
 l’inscription : FAIRE-VALOIR DE PERSONNE.
 
@@ -533,7 +533,7 @@ de juste l’affirmer après-coup. Et quand *je* vous ai dit que je voulais
 être une héroïne, vous n’avez pas été très encourageant. »
 
 « M. Potter », dit le directeur avec douceur. Ses yeux ne quittèrent pas
-ceux de Hermione. « Dites s’il vous plaît à Mlle Granger votre impression
+ceux d’Hermione. « Dites s’il vous plaît à Mlle Granger votre impression
 sur notre première rencontre. Diriez-vous que j’étais encourageant ?
 Répondez sincèrement. »
 
@@ -691,7 +691,7 @@ entre être une héroïne et manifester devant le bureau du directeur ? »
 Nous devrions faire quelque chose d’héroïque. Je veux dire
 d’héroïnique. »
 
-« Euh — » dit Hannah, ce qui exprimait très bien les pensées de Hermione
+« Euh — » dit Hannah, ce qui exprimait très bien les pensées d’Hermione
 sur le sujet.
 
 « Eh bien », dit Parvati, « est-ce que tout le monde ici a déjà traversé le

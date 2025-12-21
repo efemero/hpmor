@@ -1,6 +1,6 @@
 # Biais égocentrique
 
-Dernièrement, il y avait eu un malaise dans l’estomac de Hermione à
+Dernièrement, il y avait eu un malaise dans l’estomac d’Hermione à
 chaque fois qu’elle avait entendu les autres élèves parler d’elle et de
 Harry. Alors qu’elle prenait une douche le matin même, elle avait
 surpris une conversation entre Morag et Padma, et ça avait été la goutte
@@ -113,7 +113,7 @@ n’est-ce pas ? Imaginez un peu, si je n’apprécie pas la raison de votre
 venue, vous pourriez en perdre cinquante autres. Peut-être que je les
 enlèverai un… par un… par un… »
 
-Les joues de Hermione devenaient encore plus rouges. « Vous êtes vraiment
+Les joues d’Hermione devenaient encore plus rouges. « Vous êtes vraiment
 méchant, personne ne vous a jamais dit ça ? »
 
 « Mademoiselle Granger », dit très sérieusement le professeur Quirrell,
@@ -253,7 +253,7 @@ théorie a besoin. Et quatre, Black se tenait au milieu de la rue en
 rat de compagnie de son petit frère Percy était la forme Animagus de
 Pettigrow — »
 
-La mâchoire de Hermione se décrocha.
+La mâchoire d’Hermione se décrocha.
 
 « Oui », dit Harry, « on ne s’attendrait pas à ce que le maléfique
 Pettigrow vive une vie furtive et triste sous la forme du rat de
@@ -481,7 +481,7 @@ enthousiaste. « Hermione, c’est génial ! J’ai déjà ma liste de solda
 mais je suis sûr que le professeur Quirrell me laissera en ajouter ou en
 échanger — »
 
-« Je ne vais pas rejoindre ton armée. » La voix de Hermione était acérée.
+« Je ne vais pas rejoindre ton armée. » La voix d’Hermione était acérée.
 Elle savait que c’était une supposition raisonnable de la part de Harry,
 mais ça l’énervait *quand même*.
 
@@ -503,7 +503,7 @@ Et elle accéléra le pas, laissant Harry bouche bée derrière elle.
 
 
 « Professeur Quirrell », dit Drago de sa voix la plus formelle, « je me
-dois de protester contre la nomination de Hermione Granger au poste de
+dois de protester contre la nomination d’Hermione Granger au poste de
 troisième général. »
 
 « Oh », dit le professeur Quirrell, confortablement installé dans sa

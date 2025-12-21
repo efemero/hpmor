@@ -148,7 +148,7 @@ passé ? »
 
 Harry Potter parlait vite, mais fort. « Voldemort… a essayé de revenir…
 il a fait venir les Mangemorts *et il les a tués*, il leur a volé leur
-sang et leur vie… le corps de Hermione était là, je ne sais pas
+sang et leur vie… le corps d’Hermione était là, je ne sais pas
 pourquoi, peut-être que Voldemort voulait en faire usage… Voldemort est
 revenu, il s’est ressuscité, mais Hermione *l’a suivi* et elle l’a
 *détruit*, il est parti, c’est fini. Ça s’est passé dans un cimetière

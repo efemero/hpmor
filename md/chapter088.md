@@ -303,7 +303,7 @@ Tic.
 Harry joua des épaules à travers la foule serrée, passant à côté ou
 autour d’élèves plus âgés, et en une occasion passant entre deux jambes,
 jusqu’à ce qu’il se tienne au milieu des Serdaigle et puisse s’assurer
-que non, il n’y avait pas de Hermione par ici.
+que non, il n’y avait pas d’Hermione par ici.
 
 Tic.
 
@@ -339,7 +339,7 @@ silencieux, ils étaient bruyants…
 Hermione ne saura pas qu’il s’agit d’un troll, alors elle ira enquêter
 sur le bruit. Après tout, c’est une héroïne.
 
-…mais la bourse de Hermione était maintenant munie d’une cape
+…mais la bourse d’Hermione était maintenant munie d’une cape
 d’invisibilité et d’un balais volant. Harry avait insisté sur ce point
 pour elle et pour Neville, et le professeur McGonagall lui avait dit que
 cela avait été fait. Cela devait suffire à permettre à Hermione de
@@ -369,7 +369,7 @@ s’était passé. Et que quiconque était assez intelligent pour faire
 passer un troll à travers l’antique système de sécurité de Poudlard sans
 que le directeur ne vienne inspecter l’étrange créature pourrait aussi
 être assez intelligent pour prendre l’évidente disposition de rendre les
-objets magiques de Hermione inutilisables…
+objets magiques d’Hermione inutilisables…
 
 Tic.
 

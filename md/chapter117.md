@@ -25,7 +25,7 @@ avait déclaré n’avoir vu dans l’esprit de Voldemort aucune preuve que
 Chourave avait agi intentionnellement.
 
 Le professeur Flitwick manquait toujours à l’appel, probablement pour
-rester au chevet de Hermione.
+rester au chevet d’Hermione.
 
 Le professeur Sinistra manquait à l’appel et Harry ne savait ni où elle
 était, ni ce qu’elle faisait.

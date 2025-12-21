@@ -232,7 +232,7 @@ Et entre ses larmes, Helga lui avait promis qu’elle s’en assurerait une
 fois devenue directrice.
 
 Ce sur quoi Godric était mort sans laisser de fantôme derrière lui ; et
-Harry avait vivement remis le livre dans les mains de Hermione et
+Harry avait vivement remis le livre dans les mains d’Hermione et
 s’était un peu éloigné pour qu’elle ne le voit pas pleurer.
 
 Vous n’auriez pas cru qu’un livre avec un titre innocent comme « Le
@@ -837,7 +837,7 @@ loin et plus vite et plus profond que jamais, plus bas plus bas plus bas
 et la chute accéléra alors que le Détraqueur s’accrochait aux parties
 exposées et vulnérables et qu’il s’en nourrissait, mangeant la lumière.
 Un réflexe faiblissant fouilla à la recherche de chaleur, mais même
-lorsqu’une image de Hermione lui venait, ou une image de Maman et Papa,
+lorsqu’une image d’Hermione lui venait, ou une image de Maman et Papa,
 le Détraqueur la tordait, lui montrait Hermione allongée par terre,
 morte, les corps de son père et de sa mère, puis même cela fut absorbé.
 

@@ -35,7 +35,7 @@ esprit tourbillonnait encore et encore et il ne pouvait toujours rien
 trouver.
 
 Harry finit par soupirer. Tout cela ne le mènerait nulle part, et il lui
-fallait apprendre le sort de bris de bouclier auprès de Hermione ou de
+fallait apprendre le sort de bris de bouclier auprès d’Hermione ou de
 quelqu’un d’autre avant la prochaine bataille — le professeur Quirrell
 avait expliqué à Harry d’un ton amusé mais aussi lourd de mises en
 gardes implicites que « aucun objet magique mis à part ceux je vous
@@ -139,7 +139,7 @@ essaierait d’avoir toutes les idées à lui seul ? »
 C’était plutôt triste à vrai dire. Harry avait grandi seul, très seul.
 Non pas qu’il pense consciemment que seuls les génies avaient le droit
 d’exister. C’est juste qu’il ne lui *viendrait jamais à l’esprit* que
-quiconque dans l’armée de Hermione, à part Hermione, soit capable
+quiconque dans l’armée d’Hermione, à part Hermione, soit capable
 d’avoir la moindre bonne idée.
 
 « Quoi qu’il en soit », dit Hermione. « Capitaines Goldstein et Weasley,

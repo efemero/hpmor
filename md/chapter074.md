@@ -194,7 +194,7 @@ perplexe avec Padma et Daphné secoua la tête.
 
 « Bon », dit Harry à voix basse, « je m’y attendais. Ce que ça veut dire,
 c’est que vous êtes en danger, mais je ne sais pas à quel point. » Le
-garçon redressa les épaules et regarda droit dans les yeux de Hermione.
+garçon redressa les épaules et regarda droit dans les yeux d’Hermione.
 « Je ne comptais pas dire ça mais… je voudrais juste vous offrir de vous
 mettre sous ma protection, quelle que soit l’étendue de celle-ci. Vous
 pourrez clairement faire comprendre que tous ceux qui s’en prennent à
@@ -497,7 +497,7 @@ capable. Quoi qu’il en soit, nous devrions nous assurer d’être
 
 Deux douzaines de charmes furent alors prononcées, mais plus aucun
 invisible ne fut révélé. L’un d’entre eux en particulier étreint le cœur
-de Hermione : elle reconnu le charme qui avait figuré à côté de la
+d’Hermione : elle reconnu le charme qui avait figuré à côté de la
 description de la Véritable Cape d’Invisibilité, un charme qui ne
 révélerait pas la Cape mais dirait si cet artefact ou d’autres
 semblables étaient dans les environs.
@@ -545,7 +545,7 @@ Tracey dit alors d’une voix encore plus aiguë et encore plus
 tremblante : « Acathla, mundatus sum. » Sa main s’étira encore plus haut
 et elle claqua des doigts une deuxième fois.
 
-Un frisson indicible parcourut l’échine de Hermione, un frisson de peur
+Un frisson indicible parcourut l’échine d’Hermione, un frisson de peur
 et de désorientation, comme si elle venait de sentir le sol s’incliner
 sous ses pieds et menacer de la faire glisser vers quelque ténèbre
 cachée au-dessous.

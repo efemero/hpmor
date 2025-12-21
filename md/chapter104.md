@@ -25,7 +25,7 @@ Aucune question n’avait trouvé de réponse.
 
 Aucun problème n’avait été résolu.
 
-L’assassin de Hermione était dans la nature.
+L’assassin d’Hermione était dans la nature.
 
 Une partie de Harry avait cru que la vérité éclaterait certainement
 avant la fin de l’année, comme s’il s’agissait d’un roman d’intrigues
@@ -848,7 +848,7 @@ Et la logique se déroula dans l’esprit de Harry, le désarroi cristallin,
 chaque étape déjà soupçonnée, la terrible compréhension répétée, plus
 sûre à chaque fois.
 
-Quelqu’un avait modifié les souvenirs de Hermione pour qu’elle croie
+Quelqu’un avait modifié les souvenirs d’Hermione pour qu’elle croie
 avoir essayé de tuer Drago.
 
 Seul un professeur de Poudlard aurait pu le faire sans déclencher
@@ -1126,7 +1126,7 @@ Sans temps mort, sans ralentir, l’esprit de Harry attaqua le problème
 d’un autre angle.
 
 Le professeur Quirrell avait déduit qu’un professeur de Poudlard était
-contrôlé du besoin de manipuler les souvenirs de Hermione, donc le
+contrôlé du besoin de manipuler les souvenirs d’Hermione, donc le
 cerveau derrière Chourave avait piégé puis assassiné Hermione donc le
 cerveau derrière Chourave avait accès à des informations précises sur la
 vie à l’intérieur de Poudlard et peut-être même un intérêt particulier

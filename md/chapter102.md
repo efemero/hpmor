@@ -41,7 +41,7 @@ Voir Hermione mourir avait été plus douloureux, mais au moins cela avait
 
 *C’est le véritable Ennemi.*
 
-Harry avait déjà pensé cela après la mort de Hermione. Être forcé à voir
+Harry avait déjà pensé cela après la mort d’Hermione. Être forcé à voir
 le professeur Quirrell mourir jour après jour, semaine après semaine, ne
 l’avait en rien conduit à changer d’avis.
 

@@ -366,7 +366,7 @@ la surprise. « *J’*étais censée être son véritable amour. Harry Potter
 pour lui — »
 
 Daphné pivota vers elle, scandalisée : « *Toi ?* Prendre Harry des bras
-de Hermione ? »
+d’Hermione ? »
 
 « Ouais ! » dit Tracey. « Moi ! »
 

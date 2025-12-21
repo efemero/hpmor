@@ -183,10 +183,10 @@ contenté de vous tuer.
 
 Harry et les quelques autres enfants qui étaient restés debout à
 discuter se précipitèrent vers les pupitres les plus proches. Harry
-avait prévu d’être à côté de Hermione mais il se retrouva assis au
+avait prévu d’être à côté d’Hermione mais il se retrouva assis au
 pupitre vide à côté de Justin Finch-Fletchley (c’était une Double
 session, Serdaigle et Poufsouffle) ce qui le plaçait deux pupitres à
-gauche de Hermione.
+gauche d’Hermione.
 
 Severus s’assit au bureau du professeur, et sans la moindre transition
 ni la moindre introduction, dit : « Hannah Abbot. »
@@ -246,7 +246,7 @@ Harry cligna des yeux. « Était-ce dans *Breuvages et Potions Magiques* ?�
 dit-il. « Je viens de finir de le lire, et je ne me souviens pas de quoi
 que ce soit utilisant de l’armoise — »
 
-La main de Hermione se leva et Harry lui jeta un regard qui la fit lever
+La main d’Hermione se leva et Harry lui jeta un regard qui la fit lever
 sa main encore plus haut.
 
 « Tut, tut », dit Severus d’une voix de velours. « La célébrité ne fait
@@ -259,7 +259,7 @@ célébrité ? »
 
 Les trois quarts de la classe tressautèrent.
 
-La main de Hermione redescendait lentement. Eh bien, ça n’était pas
+La main d’Hermione redescendait lentement. Eh bien, ça n’était pas
 surprenant. Elle était peut-être son rival, mais elle n’était pas le
 genre de fille à continuer de jouer une fois devenu clair que le
 professeur essayait délibérément d’humilier Harry.

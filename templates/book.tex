@@ -1,5 +1,5 @@
 % universal settings
-\documentclass[smalldemyvopaper,11pt,twoside,onecolumn,openright,extrafontsizes,a5paper]{memoir}
+\documentclass[smalldemyvopaper,12pt,twoside,onecolumn,openright,extrafontsizes,a5paper]{memoir}
 \usepackage[utf8x]{inputenc}
 \usepackage[osf]{Alegreya,AlegreyaSans}
 \usepackage[french]{babel}
@@ -21,7 +21,6 @@
 % PACKAGE DEFINITION
 % typographical packages
 \usepackage{microtype} % for micro-typographical adjustments
-\usepackage{setspace} % for line spacing
 \usepackage{lettrine} % for drop caps and awesome chapter beginnings
 \usepackage{titlesec} % for manipulation of chapter titles
 
@@ -37,17 +36,18 @@
 % media settings
 % \setstocksize{8.5in}{5.675in}
 % \settrimmedsize{8.5in}{5.5in}{*}
-\setbinding{5mm}
-\setlrmarginsandblock{15mm}{15mm}{*}
-\setulmarginsandblock{15mm}{15mm}{*}
+\setbinding{3mm}
+\setlrmarginsandblock{10mm}{15mm}{*}
+\setulmarginsandblock{10mm}{15mm}{*}
+\setheadfoot{5mm}{5mm}
 
 % defining the title and the author
 %\title{\LaTeX{} ePub Template}
-%\title{\textsc{How I Started to Love {\fontfamily{cmr}\selectfont\LaTeX{}}}}
-\title{Harry Potter et les Méthodes de la Rationalité}
-\author{Eliezer Yudkowsky}
+% \title{\textsc{Harry Potter et les méthodes de la rationalité}}
+\title{$title$}
+\author{$author$}
 \newcommand{\traductor}{Traduction: AdrienH}
-% \newcommand{\ISBN}{0-000-00000-2}
+\newcommand{\serie}{}
 \newcommand{\press}{Édition: yeKcim \& efemero}
 
 % custom second title page
@@ -57,7 +57,7 @@
   \begin{center}
   \vspace*{\drop}
   \rule{\textwidth}{0in}\par
-  {\Large\textsc\thetitle\par}
+  {\large\textsc\thetitle\par}
   \rule{\textwidth}{0in}\par
   \vfill
   \end{center}
@@ -72,14 +72,15 @@
   \setlength\drop{0.15\textheight}
   \begin{center}
   \vspace*{\drop}
+  {\Large\textit{Harry Potter et les méthodes de la rationalité}\par}
   \rule{\textwidth}{0in}\par
-  {\HUGE\textsc\thetitle\par}
+  {\LARGE\textsc\thetitle\par}
   \rule{\textwidth}{0in}\par
-  {\Large\textit\theauthor\par}
+  {\large\textit\theauthor\par}
   \vspace*{\drop}
-  {\Large\textit\traductor\par}
+  {\large\textit\traductor\par}
   \vfill
-  {\Large\scshape\press}
+  {\large\scshape\press}
   \end{center}
 \endgroup}
 \makeatother
@@ -132,9 +133,9 @@
 % layout check and fix
 \checkandfixthelayout
 \fixpdflayout
-
 % BEGIN THE DOCUMENT
 \begin{document}
+\begin{Spacing}{1.2}
 \pagestyle{empty}
 % the half title page
 \halftitlepage
@@ -169,6 +170,6 @@ Sentez-vous donc libre de modifier, corriger, utiliser cette version de HPMOR co
 
 $body$
 
-
+\end{Spacing}
 \end{document}
 % END THE DOCUMENT
