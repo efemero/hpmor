@@ -16,19 +16,6 @@
       system = "x86_64-linux";
       pkgs = nixpkgs.legacyPackages.${system};
       texliveCustom = pkgs.texliveSmall.withPackages (ps: [
-        ps.soulpos
-        ps.alegreya
-        ps.babel
-        ps.fontspec
-        ps.microtype
-        ps.setspace
-        ps.lettrine
-        ps.titlesec
-        ps.hologo
-        ps.hyperref
-        ps.xetex
-        ps.memoir
-        ps.xpatch
         ps.pdfjam
       ]);
 

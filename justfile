@@ -1,6 +1,6 @@
 call_recipe := just_executable() + " --justfile=" + justfile()
 
-build: clean epub pdf mdbook
+build: clean epub pdf mdbook books
     echo Building…
 
 clean:
@@ -30,7 +30,7 @@ books: clean
     
     
 book position start end: 
-    mkdir -p target
+    mkdir -p target/pdf
     echo "compile book {{ position }}"
     touch md_files.list
     for i in `seq {{start}} {{end}}` ; do \
@@ -40,10 +40,10 @@ book position start end:
         fi \
     done
     pandoc --top-level-division=chapter -o target/book_{{position}}.typ book_{{position}}.yaml `cat md_files.list` --lua-filter=filters/filters.lua --pdf-engine=typst --template=templates/book.typ --verbose
-    typst compile --ignore-system-fonts --font-path fonts/ target/book_{{position}}.typ target/book_{{position}}.pdf
-    typst compile --ignore-system-fonts --font-path fonts/ cover/cover_{{position}}.typ target/cover_{{position}}.pdf
-    pdfjam --nup 2x1 --landscape --signature 32 target/book_{{position}}.pdf -o target/book_{{position}}_signatures.pdf
-    pdfjam --nup 2x1 --landscape --signature 4 target/cover_{{position}}.pdf -o target/cover_{{position}}_signatures.pdf
+    typst compile --ignore-system-fonts --font-path fonts/ target/book_{{position}}.typ target/pdf/book_{{position}}.pdf
+    typst compile --ignore-system-fonts --font-path fonts/ cover/cover_{{position}}.typ target/pdf/cover_{{position}}.pdf
+    pdfjam --nup 2x1 --landscape --signature 32 target/pdf/book_{{position}}.pdf -o target/pdf/book_{{position}}_signatures.pdf
+    pdfjam --nup 2x1 --landscape --signature 4 target/pdf/cover_{{position}}.pdf -o target/pdf/cover_{{position}}_signatures.pdf
     rm md_files.list
     
 pdf: clean
@@ -60,3 +60,4 @@ install:
     if [ -d target/book ] ; then mv target/book $out ; fi
     if [ -f target/hpmor.pdf ] ; then mv target/hpmor.pdf $out ; fi
     if [ -f target/hpmor.epub ] ; then mv target/hpmor.epub $out ; fi
+    if [ -d target/pdf ] ; then mv target/pdf $out ; fi
