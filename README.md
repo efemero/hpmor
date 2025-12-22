@@ -2,9 +2,20 @@
 
 Dernière version de l’epub: [hpmor.epub](https://github.com/efemero/hpmor/releases/latest/download/hpmor.epub)
 
-Dernière version du pdf: [hpmor.pdf](https://github.com/efemero/hpmor/releases/latest/download/hpmor.pdf)
-
 Dernière version du livre en ligne: [https://efemero.github.io/hpmor/](https://efemero.github.io/hpmor/)
+
+Dernière version des pdf:
+
+|                                    | Couverture                                                                                           | Contenu | Couverture (signatures) | Contenu (signatures) |
+|------------------------------------|------------------------------------------------------------------------------------------------------|---------|-------------------------|----------------------|
+| 1. HJPEV et la lettre de Poudlard  | [hpmor_1_cover.pdf](https://github.com/efemero/hpmor/releases/latest/download/pdf/hpmor_1_cover.pdf) | [hpmor_1_book.pdf](https://github.com/efemero/hpmor/releases/latest/download/pdf/hpmor_1_book.pdf) | [hpmor_1_cover_livret.pdf](https://github.com/efemero/hpmor/releases/latest/download/pdf/hpmor_1_cover_livret.pdf) | [hpmor_1_book_livret.pdf](https://github.com/efemero/hpmor/releases/latest/download/pdf/hpmor_1_book_livret.pdf) |
+| 2. HJPEV et la légion du Chaos     | [hpmor_2_cover.pdf](https://github.com/efemero/hpmor/releases/latest/download/pdf/hpmor_2_cover.pdf) | [hpmor_2_book.pdf](https://github.com/efemero/hpmor/releases/latest/download/pdf/hpmor_2_book.pdf) | [hpmor_2_cover_livret.pdf](https://github.com/efemero/hpmor/releases/latest/download/pdf/hpmor_2_cover_livret.pdf) | [hpmor_2_book_livret.pdf](https://github.com/efemero/hpmor/releases/latest/download/pdf/hpmor_2_book_livret.pdf) |
+| 3. HJPEV et les ombres de la mort  | [hpmor_3_cover.pdf](https://github.com/efemero/hpmor/releases/latest/download/pdf/hpmor_1_cover.pdf) | [hpmor_1_book.pdf](https://github.com/efemero/hpmor/releases/latest/download/pdf/hpmor_3_book.pdf) | [hpmor_3_cover_livret.pdf](https://github.com/efemero/hpmor/releases/latest/download/pdf/hpmor_1_cover_livret.pdf) | [hpmor_1_book_livret.pdf](https://github.com/efemero/hpmor/releases/latest/download/pdf/hpmor_3_book_livret.pdf) |
+| 4. HJG et l’appel du phénix        | [hpmor_4_cover.pdf](https://github.com/efemero/hpmor/releases/latest/download/pdf/hpmor_1_cover.pdf) | [hpmor_1_book.pdf](https://github.com/efemero/hpmor/releases/latest/download/pdf/hpmor_4_book.pdf) | [hpmor_4_cover_livret.pdf](https://github.com/efemero/hpmor/releases/latest/download/pdf/hpmor_1_cover_livret.pdf) | [hpmor_1_book_livret.pdf](https://github.com/efemero/hpmor/releases/latest/download/pdf/hpmor_4_book_livret.pdf) |
+| 5. HJPEV et le dernier ennemi      | [hpmor_5_cover.pdf](https://github.com/efemero/hpmor/releases/latest/download/pdf/hpmor_1_cover.pdf) | [hpmor_1_book.pdf](https://github.com/efemero/hpmor/releases/latest/download/pdf/hpmor_5_book.pdf) | [hpmor_5_cover_livret.pdf](https://github.com/efemero/hpmor/releases/latest/download/pdf/hpmor_1_cover_livret.pdf) | [hpmor_1_book_livret.pdf](https://github.com/efemero/hpmor/releases/latest/download/pdf/hpmor_5_book_livret.pdf) |
+| 6. HJPEV et la pierre philosophale | [hpmor_6_cover.pdf](https://github.com/efemero/hpmor/releases/latest/download/pdf/hpmor_1_cover.pdf) | [hpmor_1_book.pdf](https://github.com/efemero/hpmor/releases/latest/download/pdf/hpmor_6_book.pdf) | [hpmor_6_cover_livret.pdf](https://github.com/efemero/hpmor/releases/latest/download/pdf/hpmor_1_cover_livret.pdf) | [hpmor_1_book_livret.pdf](https://github.com/efemero/hpmor/releases/latest/download/pdf/hpmor_6_book_livret.pdf) |
+
+[hpmor.pdf](https://github.com/efemero/hpmor/releases/latest/download/hpmor.pdf)
 ## But
 
 Ce projet a pour but de générer une version epub (pour liseuse), PDF (pour impression) et HTML (pour la lecture en ligne) de « Harry Potter et les Méthodes de la Rationalité ».
@@ -59,8 +70,8 @@ Si vous n’avez pas nix, il y a un [justfile](https://just.systems/man/en/intro
 - [ ] Gestion des passages en fourchelangue
 - [x] Correction des problèmes de ponctuation et de la typographie
 - [x] Amélioration du style typographique
-- [ ] Amélioration visuelle des sauts de paragraphes (les lignes horizontales entre certains paragraphes)
-- [ ] Amélioration visuelle du template PDF
+- [x] Amélioration visuelle des sauts de paragraphes (les lignes horizontales entre certains paragraphes)
+- [x] Amélioration visuelle du template PDF
 
 
     

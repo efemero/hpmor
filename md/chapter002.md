@@ -78,7 +78,7 @@ s’étirassent en un sourire. « J’aurais dû vous prévenir. »
 Harry avait le souffle court. Sa voix sortit étouffée. « *Vous ne POUVEZ
 pas faire ça !* »
 
-« Ce n’est qu’une métamorphose,** » dit McGonagall. « Une transformation
+« Ce n’est qu’une métamorphose », dit McGonagall. « Une transformation
 en Animagus, pour être exacte. »
 
 « Vous vous êtes transformée en chat ! Un PETIT chat ! Vous avez violé
@@ -165,7 +165,7 @@ matériel d’étude d’une qualité ne serait-ce que minimalement adéquate.�
 
 Les deux parents hurlèrent de rire, comme s’ils pensaient que ce
 n’était qu’une bonne blague. « Oh », dit le père de Harry, les yeux
-brillant, « est-ce pour *ça* que tu as mordu un professeur de
+brillants, « est-ce pour *ça* que tu as mordu un professeur de
 mathématique en CE2 ? »
 
 « *Elle ne savait pas ce qu’est un logarithme !* »

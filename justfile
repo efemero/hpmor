@@ -40,20 +40,19 @@ book position start end:
         fi \
     done
     pandoc --top-level-division=chapter -o target/book_{{position}}.typ book_{{position}}.yaml `cat md_files.list` --lua-filter=filters/filters.lua --pdf-engine=typst --template=templates/book.typ --verbose
-    typst compile --ignore-system-fonts --font-path fonts/ target/book_{{position}}.typ target/pdf/book_{{position}}.pdf
-    typst compile --ignore-system-fonts --font-path fonts/ cover/cover_{{position}}.typ target/pdf/cover_{{position}}.pdf
-    pdfjam --nup 2x1 --landscape --signature 32 target/pdf/book_{{position}}.pdf -o target/pdf/book_{{position}}_signatures.pdf
-    pdfjam --nup 2x1 --landscape --signature 4 target/pdf/cover_{{position}}.pdf -o target/pdf/cover_{{position}}_signatures.pdf
+    typst compile --ignore-system-fonts --font-path fonts/ target/book_{{position}}.typ target/pdf/hpmor_{{position}}_book.pdf
+    typst compile --ignore-system-fonts --font-path fonts/ cover/cover_{{position}}.typ target/pdf/hpmor_{{position}}_cover.pdf
+    pdfjam --nup 2x1 --landscape --signature 32 target/pdf/hpmor_{{position}}_book.pdf -o target/pdf/hpmor_{{position}}_book_livret.pdf
+    pdfjam --nup 2x1 --landscape --signature 4 target/pdf/hpmor_{{position}}_cover.pdf -o target/pdf/hpmor_{{position}}_cover_livret.pdf
     rm md_files.list
     
 epub: clean
     mkdir -p target
-    echo "Compile the epubr endering"
+    echo "Compile the epub rendering"
     pandoc --top-level-division='chapter' -o target/hpmor.epub book.yaml md/avant-propos.md md/chapter*.md md/colophon.md --lua-filter=filters/filters.lua --css ./css/epub.css --epub-embed-font fonts/Parseltongue.woff2 --verbose
 
 install:
     mkdir -p $out
     if [ -d target/book ] ; then mv target/book $out ; fi
-    if [ -f target/hpmor.pdf ] ; then mv target/hpmor.pdf $out ; fi
     if [ -f target/hpmor.epub ] ; then mv target/hpmor.epub $out ; fi
     if [ -d target/pdf ] ; then mv target/pdf $out ; fi
