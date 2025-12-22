@@ -1,6 +1,6 @@
 call_recipe := just_executable() + " --justfile=" + justfile()
 
-build: clean epub pdf mdbook books
+build: clean epub mdbook books
     echo Building…
 
 clean:
@@ -46,10 +46,6 @@ book position start end:
     pdfjam --nup 2x1 --landscape --signature 4 target/pdf/cover_{{position}}.pdf -o target/pdf/cover_{{position}}_signatures.pdf
     rm md_files.list
     
-pdf: clean
-    mkdir -p target
-    echo "Compile the pdf rendering"
-
 epub: clean
     mkdir -p target
     echo "Compile the epubr endering"

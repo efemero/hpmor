@@ -1,4 +1,4 @@
-name: Création de l’epub du PDF et des github pages
+name: Création de l’epub, du PDF et des github pages
 on:
   push:
     tags:
@@ -38,7 +38,7 @@ jobs:
           prerelease: true
           files: |
             ./result/hpmor.epub
-            ./result/hpmor.pdf
+            ./result/pdf
           
       - name: Upload mdbook
         uses: actions/upload-pages-artifact@v3
