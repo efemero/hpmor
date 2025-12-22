@@ -15,7 +15,6 @@ Dernière version des pdf:
 | 5. HJPEV et le dernier ennemi      | [hpmor_5_cover.pdf](https://github.com/efemero/hpmor/releases/latest/download/pdf/hpmor_1_cover.pdf) | [hpmor_1_book.pdf](https://github.com/efemero/hpmor/releases/latest/download/pdf/hpmor_5_book.pdf) | [hpmor_5_cover_livret.pdf](https://github.com/efemero/hpmor/releases/latest/download/pdf/hpmor_1_cover_livret.pdf) | [hpmor_1_book_livret.pdf](https://github.com/efemero/hpmor/releases/latest/download/pdf/hpmor_5_book_livret.pdf) |
 | 6. HJPEV et la pierre philosophale | [hpmor_6_cover.pdf](https://github.com/efemero/hpmor/releases/latest/download/pdf/hpmor_1_cover.pdf) | [hpmor_1_book.pdf](https://github.com/efemero/hpmor/releases/latest/download/pdf/hpmor_6_book.pdf) | [hpmor_6_cover_livret.pdf](https://github.com/efemero/hpmor/releases/latest/download/pdf/hpmor_1_cover_livret.pdf) | [hpmor_1_book_livret.pdf](https://github.com/efemero/hpmor/releases/latest/download/pdf/hpmor_6_book_livret.pdf) |
 
-[hpmor.pdf](https://github.com/efemero/hpmor/releases/latest/download/hpmor.pdf)
 ## But
 
 Ce projet a pour but de générer une version epub (pour liseuse), PDF (pour impression) et HTML (pour la lecture en ligne) de « Harry Potter et les Méthodes de la Rationalité ».
