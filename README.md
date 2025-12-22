@@ -6,7 +6,7 @@ Dernière version du livre en ligne: [https://efemero.github.io/hpmor/](https://
 
 Dernière version des pdf:
 
-|                                    | Couverture                                                                                           | Contenu | Couverture (signatures) | Contenu (signatures) |
+|                                    | Couverture                                                                                           | Contenu | Couverture (livret) | Contenu (livrets) |
 |------------------------------------|------------------------------------------------------------------------------------------------------|---------|-------------------------|----------------------|
 | 1. HJPEV et la lettre de Poudlard  | [hpmor_1_cover.pdf](https://github.com/efemero/hpmor/releases/latest/download/hpmor_1_cover.pdf) | [hpmor_1_book.pdf](https://github.com/efemero/hpmor/releases/latest/download/hpmor_1_book.pdf) | [hpmor_1_cover_livret.pdf](https://github.com/efemero/hpmor/releases/latest/download/hpmor_1_cover_livret.pdf) | [hpmor_1_book_livret.pdf](https://github.com/efemero/hpmor/releases/latest/download/hpmor_1_book_livret.pdf) |
 | 2. HJPEV et la légion du Chaos     | [hpmor_2_cover.pdf](https://github.com/efemero/hpmor/releases/latest/download/hpmor_2_cover.pdf) | [hpmor_2_book.pdf](https://github.com/efemero/hpmor/releases/latest/download/hpmor_2_book.pdf) | [hpmor_2_cover_livret.pdf](https://github.com/efemero/hpmor/releases/latest/download/hpmor_2_cover_livret.pdf) | [hpmor_2_book_livret.pdf](https://github.com/efemero/hpmor/releases/latest/download/hpmor_2_book_livret.pdf) |
