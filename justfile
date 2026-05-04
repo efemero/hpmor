@@ -13,7 +13,7 @@ mdbook: clean
     echo "Process source md files with markdown for mdbook"
     for file in `ls md/*.md`; do \
         file=`basename $file`; \
-        pandoc md/$file -o target/src/md/$file -t markdown --lua-filter=filters/filters.lua; \
+        pandoc md/$file -o target/src/md/$file -t markdown-smart --lua-filter=filters/filters.lua; \
         echo "\"$file\" processed"; \
     done
     cp templates/mdbook.md target/src/SUMMARY.md
