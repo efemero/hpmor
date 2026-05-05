@@ -8,7 +8,7 @@ le zinc atteignant à peu près le haut de ses sourcils. Une question
 *pareille* méritait qu’il donne le meilleur de lui-même.
 
 « Suis-je — pourrais-je être — peut-être — qui sait — si c’*est* le
-cas — mais une question reste en suspend — *qui* * ?* »
+cas — mais une question reste en suspend — *qui* ? »
 
 « Bénie soit mon âme, murmura le vieux barman, Harry Potter… quel
 honneur ! »
