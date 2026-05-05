@@ -42,8 +42,8 @@ book position start end:
     pandoc --top-level-division=chapter -o target/book_{{position}}.typ book_{{position}}.yaml `cat md_files.list` --lua-filter=filters/filters.lua --pdf-engine=typst --template=templates/book.typ --verbose
     typst compile --ignore-system-fonts --font-path fonts/ target/book_{{position}}.typ target/pdf/hpmor_{{position}}_book.pdf
     typst compile --ignore-system-fonts --font-path fonts/ cover/cover_{{position}}.typ target/pdf/hpmor_{{position}}_cover.pdf
-    pdfjam --nup 2x1 --landscape --signature 32 target/pdf/hpmor_{{position}}_book.pdf -o target/pdf/hpmor_{{position}}_book_livret.pdf
-    pdfjam --nup 2x1 --landscape --signature 4 target/pdf/hpmor_{{position}}_cover.pdf -o target/pdf/hpmor_{{position}}_cover_livret.pdf
+    pages=`pdfinfo target/pdf/hpmor_{{position}}_book.pdf | awk '/^Pages:/ {print $2}'`; typst compile booklet.typ target/pdf/hpmor_{{position}}_book_livret.pdf --input src=target/pdf/hpmor_{{position}}_book.pdf --input pages=$pages
+    typst compile booklet.typ target/pdf/hpmor_{{position}}_cover_livret.pdf --input src=target/pdf/hpmor_{{position}}_cover.pdf --input pages=4 --input signature=4
     rm md_files.list
     
 epub: clean

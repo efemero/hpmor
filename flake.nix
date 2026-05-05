@@ -15,16 +15,14 @@
     let
       system = "x86_64-linux";
       pkgs = nixpkgs.legacyPackages.${system};
-      texliveCustom = pkgs.texliveSmall.withPackages (ps: [
-        ps.pdfjam
-      ]);
 
       nativeBuildInputs = [
         pkgs.mdbook
-        texliveCustom
         pkgs.pandoc
         pkgs.just
         pkgs.typst
+        pkgs.gawk
+        pkgs.poppler-utils
       ];
     in
     {
