@@ -40,7 +40,7 @@ pu vous trouver… vous êtes en vie… » Tous ces mots provenaient d’un ba
 marmonnement, et s’il y avait là la moindre émotion, Harry ne pouvait
 pas la détecter.
 
-« *Montrez-lui votre vissage,* » siffla le serpent aux pieds de Harry.
+[ « *Montrez-lui votre vissage,* » ]{.serpent} siffla le serpent aux pieds de Harry.
 
 Harry rejeta le capuchon de la Cape d’Invisibilité.
 
@@ -62,17 +62,17 @@ Celui-Dont-Il-Ne-Faut-Pas-Prononcer-Le-Nom).
 
 Les yeux de Bellatrix restèrent fixés sur Harry, et elle demeura coite.
 
-« *Dites quelque chosse en Fourchelangue,* » siffla le serpent.
+[ « *Dites quelque chosse en Fourchelangue,* » ]{.serpent} siffla le serpent.
 
 Le visage de Harry se tourna vers le serpent afin de clairement montrer
-qu’il s’adressait à celui-ci, et il siffla : « *Un deux troiss quatre
-ccinq ssix ssept huit neuf dix.* »
+qu’il s’adressait à celui-ci, et il siffla : [ « *Un deux troiss quatre
+ccinq ssix ssept huit neuf dix.* » ]{.serpent}
 
 Il y eut une pause.
 
 « Ceux qui ne craignent pas les ténèbres… » murmura Bellatrix.
 
-Le serpent siffla : « *Sseront conssumés par elles.* »
+Le serpent siffla : [ « *Sseront conssumés par elles.* » ]{.serpent}
 
 « Seront consumés par elles », chuchota la voix glaciale. Harry n’avait
 pas particulièrement envie de réfléchir à la façon dont le professeur
@@ -98,14 +98,14 @@ tranchante : « Assez d’idioties. Vous allez venir avec moi, chère Bella,
 Le visage de Bellatrix tressailli sous le coup d’une brève
 incompréhension, mais les membres ratatinés ne bronchèrent pas.
 
-« *Vous devrez la faire léviter jusqu’à la ssortie* », siffla Harry au
-serpent. « *Elle ne peut plus ssonger à ss’enfuir.* »
+[ « *Vous devrez la faire léviter jusqu’à la ssortie* » ]{.serpent}, siffla Harry au
+serpent. [ « *Elle ne peut plus ssonger à ss’enfuir.* » ]{.serpent}
 
-« *Oui,* » siffla le serpent, « *mais ne la ssous-esstimez pas. Elle était
-la plus mortelle des guerrières.* » La tête verte s’inclina en signe
-d’avertissement. « *Il serait sage de me craindre, enfant, même si
+[ « *Oui,* » ]{.serpent} siffla le serpent, [ « *mais ne la ssous-esstimez pas. Elle était
+la plus mortelle des guerrières.* » ]{.serpent} La tête verte s’inclina en signe
+d’avertissement. [ « *Il serait sage de me craindre, enfant, même si
 j’étais affamé et mort aux neufs dixièmes ; méfiez-vous d’elle, ne
-permettez à aucune faille d’apparaître dans votre jeu.* »
+permettez à aucune faille d’apparaître dans votre jeu.* » ]{.serpent}
 
 Le serpent vert glissa élégamment jusqu’au couloir.
 

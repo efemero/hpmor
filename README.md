@@ -66,7 +66,7 @@ Si vous n’avez pas nix, il y a un [justfile](https://just.systems/man/en/intro
 - [x] Retrait des en-têtes de chapitre (disclaimer sur J. K. Rowling et citations)
 - [x] Traduction des noms des personnages cohérente avec la traduction française
 - [ ] Premier passage dans un correcteur
-- [ ] Gestion des passages en fourchelangue
+- [x] Gestion des passages en fourchelangue
 - [x] Correction des problèmes de ponctuation et de la typographie
 - [x] Amélioration du style typographique
 - [x] Amélioration visuelle des sauts de paragraphes (les lignes horizontales entre certains paragraphes)

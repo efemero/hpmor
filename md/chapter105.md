@@ -50,16 +50,16 @@ esprits, ce qui nous permet de vivre dans le même monde. Maintenant
 qu’il est clair que ce combat entre nous n’est qu’un mensonge, tu es
 libre d’agir raisonnablement et selon ce qui a de l’importance à tes
 yeux. Ou pas. » Le pistolet fut légèrement relevé, et des perles de sueur
-apparurent sur le front de Harry. « Lâche ta baguette. *Maintenant*.
+apparurent sur le front de Harry. « Lâche ta baguette. *Maintenant*.»
 
-Harry s’exécuta. »Éloigne-t’en,« dit le professeur Quirrell.
+Harry s’exécuta. «Éloigne-t’en,» dit le professeur Quirrell.
 
-Harry obéit. »Tends une main vers ton cou,« dit le professeur Quirrell »,et enlève
+Harry obéit. «Tends une main vers ton cou,» dit le professeur Quirrell «et enlève
 ton Retourneur de Temps en ne touchant que la chaîne. Place-le au sol,
-et éloigne-t’en aussi.« Harry le fit aussi. Même en état de choc, son esprit cherchait encore
+et éloigne-t’en aussi.» Harry le fit aussi. Même en état de choc, son esprit cherchait encore
 une façon de faire pivoter le Retourneur de Temps, de vaincre par un
 coup soudain ; mais il savait que le professeur Quirrell se mettait déjà
-à sa place, imaginait les différentes possibilités… »Enlève ta bourse et place-la au sol, puis éloigne-toi.« Ce qu’il fit. »Très bien,« dit le professeur de Défense. »Maintenant, il est temps
+à sa place, imaginait les différentes possibilités… «Enlève ta bourse et place-la au sol, puis éloigne-toi.» Ce qu’il fit. «Très bien,» dit le professeur de Défense. «Maintenant, il est temps
 pour moi d’obtenir la Pierre Philosophale. Je compte emmener ces quatre
 élèves de première année après leur avoir fait oublier leurs souvenirs
 les plus récents, pour qu’ils se souviennent toujours de leur but
@@ -69,12 +69,12 @@ mon autre identité. Et sache que j’ai des otages. J’ai déclenché un
 sortilège qui va tuer des centaines d’élèves de Poudlard, y compris
 nombre de tes amis. Si je parviens à obtenir la pierre, je pourrai
 interrompre ce sortilège. Sinon, ou si je choisis de ne pas le faire,
-des centaines d’élèves mourront.« La voix du professeur Quirrell était
-toujours douce. »Est-ce que ce sont là des choses qui t’importent,
+des centaines d’élèves mourront.» La voix du professeur Quirrell était
+toujours douce. «Est-ce que ce sont là des choses qui t’importent,
 petit ? Je serais heureux de t’entendre dire non, mais ce serait trop
-espérer.« »Je voudrais,« parvint à dire Harry à travers l’horreur, le chagrin et
+espérer.» «Je voudrais,» parvint à dire Harry à travers l’horreur, le chagrin et
 les lames qui, rompant un lien émotionnel, provoquaient la douleur d’un
-membre qu’on ampute »,que vous ne fassiez rien de tout ça, Professeur.« *Pourquoi, Professeur Quirrell, pourquoi est-ce que ça se termine comme
+membre qu’on ampute «que vous ne fassiez rien de tout ça, Professeur. *Pourquoi, Professeur Quirrell, pourquoi est-ce que ça se termine comme
 ça ? Je ne… je ne veux pas admettre que c’est vrai…* »
 
 « Très bien », dit le professeur Quirrell. « Je t’autorise à me donner
@@ -141,14 +141,14 @@ s’il le croyait en état de choc. « Mais je n’ai jamais entendu dire que
 Lord Voldemort respectait sa parole. »
 
 « Une inquiétude compréhensible », dit le professeur Quirrell. « Il y a une
-solution simple, que je comptais utiliser de toute façon. *Le sserpents
-ne peuvent pas mentir*. Et, comme la stupidité me déplaît au plus haut
+solution simple, que je comptais utiliser de toute façon. [ *Le sserpents
+ne peuvent pas mentir* ]{.serpent}. Et, comme la stupidité me déplaît au plus haut
 poins, je te conseille de ne pas me demander de m’expliquer. Tu vaux
 mieux que ça, et je n’ai pas de temps à consacrer au genre de
 conversations que les gens ordinaires s’infligent les uns aux autres. »
 
 Harry déglutit une fois de plus. Les serpents ne peuvent pas mentir.
-« *Troiss et trois font ssix.* » Il venait d’essayer de dire que trois
+[ « *Troiss et trois font ssix.* » ]{.serpent} Il venait d’essayer de dire que trois
 plus trois était égal à cinq, et le mot *six* lui avait échappé.
 
 « Bien. Le véritable plan de Salazar Serpentard, lorsqu’il s’ensorcela,
@@ -158,51 +158,53 @@ d’autres. » Le professeur Quirrell avait adopté le ton professoral qu’il
 utilisait en cours de magie de bataille comme il aurait mis un masque
 bien connu, mais le pistolet demeura pointé vers Harry. « L’Occlumancie
 ne trompe pas le Fourchelangue comme elle trompe le Veritaserum ; tu es
-libre de vérifier. Maintenant, écoute-moi bien. *Ssuis moi, promets-moi
+libre de vérifier. Maintenant, écoute-moi bien. [ *Ssuis moi, promets-moi
 de m’aider à obtenir la pierre, et je laissserai ces enfants ici et
 indemnes. Mais les otages ssont réels, des centaines d’élèves mourront
 ce ssoir à moins que je n’interrompe ce que j’ai déclenché. J’épargnerai
-les otages ssi je réusssis à obtenir la pierre.* Et souviens-toi,
-souviens-toi bien de ceci : *Il n’exisste à ma connaisssance aucun moyen
+les otages ssi je réusssis à obtenir la pierre.* ]{.serpent} Et souviens-toi,
+souviens-toi bien de ceci : [ *Il n’exisste à ma connaisssance aucun moyen
 de me vaincre ; perdre la pierre ne m’empêchera pas de revenir et ma
-colère n’épargnera ni toi, ni les tiens.* Aucune des réactions hâtives
+colère n’épargnera ni toi, ni les tiens.* ]{.serpent} Aucune des réactions hâtives
 que tu contemples ne te permettront de gagner, petit. Mais je reconnais
-ta capacité à m’agacer, et je te conseille d’éviter de le faire. »Vous avez dit,« répondit Harry d’une voix qui lui sembla étrange »,que
+ta capacité à m’agacer, et je te conseille d’éviter de le faire.»
+
+«Vous avez dit,» répondit Harry d’une voix qui lui sembla étrange, « que
 les pouvoirs de la Pierre Philosophale n’étaient pas ceux décrits par la
 légende. Vous me l’avez dit en Fourchelangue. Avant d’accepter de vous
-aider, je veux connaître le véritable pouvoir de la Pierre.« Si la
-réponse ressemblait à »permet d’établir un contrôle absolu sur
-l’univers« , alors *rien* ne justifiait d’augmenter, ne serait-ce que
-légèrement, les chances que Lord Voldemort entre en sa possession. »Ah,« dit le professeur Quirrell, et il sourit. »Tu réfléchis. Voilà qui
+aider, je veux connaître le véritable pouvoir de la Pierre.» Si la
+réponse ressemblait à «permet d’établir un contrôle absolu sur
+l’univers, alors *rien* ne justifiait d’augmenter, ne serait-ce que
+légèrement, les chances que Lord Voldemort entre en sa possession. «Ah,» dit le professeur Quirrell, et il sourit. «Tu réfléchis. Voilà qui
 est mieux, et pour te récompenser, je vais t’offrir une autre raison de
 coopérer. La vie éternelle et la jeunesse, la création d’or et d’argent.
 Suppose que la Pierre offre vraiment cela. Dis-moi, petit. Quel est son
-pouvoir ?« Peut-être était-ce l’adrénaline qui se rendait enfin utile. Peut-être
+pouvoir ?» Peut-être était-ce l’adrénaline qui se rendait enfin utile. Peut-être
 était-ce d’avoir entendu qu’une réponse existait et que les indices
-n’étaient pas des mensonges. »Elle permet de rendre les Métamorphoses
-permanentes.« Lorsqu’il entendit ses propres paroles, Harry se tut soudain. »Correct,« dit le professeur Quirrell. »Donc, celui qui détient la
-Pierre Philosophale peut Métamorphoser des humains.« L’esprit déjà en lambeaux de Harry reçut un nouveau choc lorsqu’il
-comprit quelle raison venait de lui être offerte. »Tu as volé le corps de Mlle Granger et tu l’as Métamorphosé en une
-chose sans valeur apparente,« dit le professeur Quirrell. »Quelque chose
+n’étaient pas des mensonges. «Elle permet de rendre les Métamorphoses
+permanentes.» Lorsqu’il entendit ses propres paroles, Harry se tut soudain. «Correct,» dit le professeur Quirrell. «Donc, celui qui détient la
+Pierre Philosophale peut Métamorphoser des humains.» L’esprit déjà en lambeaux de Harry reçut un nouveau choc lorsqu’il
+comprit quelle raison venait de lui être offerte. «Tu as volé le corps de Mlle Granger et tu l’as Métamorphosé en une
+chose sans valeur apparente,» dit le professeur Quirrell. «Quelque chose
 que tu dois garder sur toi, pour maintenir la Métamorphose. Ah, je vois
 que tu regardes l’anneau à ton doigt, mais Mlle Granger n’est bien sûr
 pas le petit joyau qui y est serti. Ce serait trop évident. Non, je
 pense que Mlle Granger est l’anneau lui-même et que l’aura magique du
-joyau Métamorphosé masque la magie qui émane de l’anneau.« »Oui,« se força à répondre Harry. Cette fois, c’était un mensonge. Il
+joyau Métamorphosé masque la magie qui émane de l’anneau.» «Oui,» se força à répondre Harry. Cette fois, c’était un mensonge. Il
 avait délibérément regardé l’anneau. Comme il s’était attendu à ce que
 quelqu’un s’intéresse à cet anneau, il avait tenté de provoquer les
 choses afin de pouvoir prouver son innocence une fois de plus, mais
 personne ne l’avait mis en doute… peut-être Dumbledore avait-il
-simplement senti que l’acier ne recelait aucune magie. »Fort bien,« dit le professeur Quirrell. »Maintenant suis-moi, aide-moi
+simplement senti que l’acier ne recelait aucune magie. «Fort bien,» dit le professeur Quirrell. «Maintenant suis-moi, aide-moi
 à obtenir la Pierre, et je ressusciterai Hermione Granger pour toi. Sa
 mort a eu une mauvaise influence sur toi, et je serais heureux de la
 défaire. Si je ne me trompe pas, c’est là ce que tu désires le plus.
 J’ai souvent été bon envers toi, et je serais heureux de l’être une fois
-de plus.« Une professeur Chourave aux yeux ternes s’était relevée et
-avait pointé sa baguette vers Harry. »*Aide-moi à obtenir la pierre de
+de plus.» Une professeur Chourave aux yeux ternes s’était relevée et
+avait pointé sa baguette vers Harry. [ «*Aide-moi à obtenir la pierre de
 métamorphosse et je ferai tout mon posssible pour rendre à la fille-amie
 une vie durable et véritable. Cela dit, petit, je perds vite patience,
-et tu n’as pass envie de connaître la ssuite.*« Cette dernière phrase
+et tu n’as pass envie de connaître la ssuite.*» ]{.serpent} Cette dernière phrase
 fut sifflée d’un ton qui laissait imaginer un serpent sur le point de
 frapper.
 
@@ -228,21 +230,21 @@ Il n’avait plus le temps d’échafauder des plans, mais il songea que si
 le professeur Quirrell était prêt à aller jusque là pour obtenir son
 aide, *l’idéal* aurait été d’exiger que le professeur Quirrell promette
 de ne plus jamais tuer personne en échange, mais Harry était convaincu
-que le professeur répondrait “Ne sois pas ridicule” ; et ils n’avaient
+que le professeur répondrait « Ne sois pas ridicule » ; et ils n’avaient
 pas le temps d’avoir une conversation ordinaire, il lui fallait deviner
 à l’avance la requête à la fois la plus sûre et la plus ambitieuse
 possible.
 
-Le professeur Quirrell plissa les yeux, écarta les lèvres… »Si je vous aide,« dit Harry »,vous devez promettre que vous ne comptez
+Le professeur Quirrell plissa les yeux, écarta les lèvres… «Si je vous aide,» dit Harry, «vous devez promettre que vous ne comptez
 pas vous en prendre à moi ensuite. Je veux que vous épargniez le
 professeur Rogue et tous les habitants de Poudlard pendant au moins une
 semaine. Et je veux des réponses, je veux savoir ce qui se passe depuis
-le début, et tout ce que vous savez quant à ma nature.« Les yeux bleus et pâles le regardaient, détachés.
+le début, et tout ce que vous savez quant à ma nature.» Les yeux bleus et pâles le regardaient, détachés.
 
 *Je pense qu’on aurait vraiment pu trouver quelque chose de mieux à
 demander*, dit le côté Serpentard de Harry. *Mais j’imagine qu’on était
 vraiment pressés, alors quoi qu’il arrive, ce sera toujours utile
-d’avoir des réponses.* »
+d’avoir des réponses.*
 
 Harry n’écoutait pas la voix. Lorsqu’il avait entendu ses propres mots,
 adressés à l’homme au pistolet, des frissons avaient parcouru son
@@ -253,7 +255,7 @@ le professeur Quirrell.
 
 Harry hocha la tête, incapable de répondre.
 
-« *J’accepte* », siffla le professeur Quirrell. « *Aide-moi et tu auras les
+[ « *J’accepte* » ]{.serpent}, siffla le professeur Quirrell. [ « *Aide-moi et tu auras les
 réponsses à tes quesstions, tant qu’elles concernent le passsé et pas
 mes plans futurs. Je ne compte pas te faire du mal un jour,
 physsiquement ou magiquement, tant que tu feras de même. Je ne tuerai
@@ -261,10 +263,10 @@ perssonne à l’école pendant une semaine, ssauf ssi j’y suis forcé.
 Maintenant, promets-moi que tu n’esssaieras de prévenir perssonne ni de
 m’échapper. Promets de faire de ton mieux pour m’aider à obtenir la
 Pierre. Et je rendrai la vie et la ssanté à la fille-amie ; et ni moi ni
-les miens ne chercherons plus à lui faire du mal.* » Un sourire retors.
-« *Promets, petit, et le marché ssera conclu.* »
+les miens ne chercherons plus à lui faire du mal.* » ]{.serpent} Un sourire retors.
+[ « *Promets, petit, et le marché ssera conclu.* » ]{.serpent}
 
-« Je promets », murmura Harry.
+[ « Je promets » ]{.serpent}, murmura Harry.
 
 *QUOI ?* hurla le reste de son esprit.
 
@@ -284,22 +286,22 @@ qu’il dise et qu’on ne se mette pas en danger.*
 Le professeur Quirrell le regardait toujours. « Répète toute la promesse
 en Fourchelangue, petit. »
 
-« *Je vous aiderai à obtenir la Pierre… je ne peux pas vous promettre que
+[ « *Je vous aiderai à obtenir la Pierre… je ne peux pas vous promettre que
 je ferai de mon mieux, le cœur n’y ssera pas. Mais je compte esssayer.
 Je ne ferai rien qui rissque de vous agacer ssans raisson. Je n’irai pas
 chercher de l’aide ssi je pense que vous tuerez l’aide ou que les otages
 mourront. Je ssuis déssolé, professseur, mais c’est le mieux que je
-puissse faire.* » L’esprit de Harry se mettait en place, se recomposait
+puissse faire.* » ]{.serpent} L’esprit de Harry se mettait en place, se recomposait
 suite à sa décision. Il resterait avec le professeur Quirrell, il le
 suivrait jusqu’à la Pierre, il sauverait les élèves pris en otage et…
 et… et ensuite, tout ce qu’il savait, c’est qu’il continuerait de
 réfléchir.
 
 « Vous êtes vraiment désolé ? » le professeur Quirrell semblait amusé. « Je
-pense que ça devra suffire. Garde deux autres choses à l’esprit : *Je
+pense que ça devra suffire. Garde deux autres choses à l’esprit : *[ Je
 compte arrêter le directeur lui-même, ss’il devait apparaître devant
-nous*. Et aussi ça : je te demanderai parfois de me dire en
-Fourchelangue si tu m’as trahi. *Le marché est conclu*. »
+nous ]{.serpent}*. Et aussi ça : je te demanderai parfois de me dire en
+Fourchelangue si tu m’as trahi. *[ Le marché est conclu ]{.serpent}*. »
 
 
 

@@ -220,28 +220,28 @@ Même les yeux du serpent étaient mornes.
 
 Il ne se dressa pas.
 
-*« Reprendss… »*, siffla le serpent. Seule sa langue bougeait.
+[ *« Reprendss… » ]{.serpent}*, siffla le serpent. Seule sa langue bougeait.
 
-« Il y a… *il y a un rituel dont le directeur m’a parlé, par le moyen
+[ « Il y a… *il y a un rituel dont le directeur m’a parlé, par le moyen
 duquel il pensse que le Sseigneur des Ténèbres pourrait avoir continué
-de vivre. Il ss’appelle…* » et Harry se tut lorsqu’il se rendit compte
-qu’il connaissait le mot en Fourchelangue. *« Horcruxe. J’ai entendu dire
+de vivre. Il ss’appelle…* » ]{.serpent} et Harry se tut lorsqu’il se rendit compte
+qu’il connaissait le mot en Fourchelangue. [ *« Horcruxe. J’ai entendu dire
 qu’il nécesssite une mort. Mais ssi vous êtes de toute façon mourant,
 vous pourriez esssayer d’adapter le rituel, même ssi le nouveau
 ssortilège est plus rissqué, afin qu’il puissse être jeté par autre
 sacrifice. Si vous réusssissiez, le monde entier serait transsformé ; je
 ne connais rien du ssortilège, mais le directeur m’a dit qu’il arrachait
 un fragment de l’âme, même ssi je ne vois pas comment cela pourrait être
-vrai… »*
+vrai… »* ]{.serpent}
 
-Le serpent siffla un rire, un étrange rire sec, presque hystérique. *« Tu
+Le serpent siffla un rire, un étrange rire sec, presque hystérique. [ *« Tu
 me parles de ce ssort ? À moi ? Tu dois apprendre la prudence à
 l’avenir, garçon. Mais cela n’a pas d’importance. J’ai entendu parler du
-ssortilège de Horcruxe il y a longtemps. Il est abssurde. »*
+ssortilège de Horcruxe il y a longtemps. Il est abssurde. »* ]{.serpent}
 
 « Absurde ? » dit Harry à voix haute, surpris.
 
-*« Serait inssenssé, même ssi âme exisstait. Arracher fragment d’âme ?
+[ *« Serait inssenssé, même ssi âme exisstait. Arracher fragment d’âme ?
 C’est un menssonge. Disstraction pour cacher vrai ssecret. Sseul celui
 qui ne croit pas aux ssimples menssonges pousssera raisonnement, verra
 par-delà obsscurcisssement, comprendra comment lancer ssort. Meurtre
@@ -251,19 +251,19 @@ Horcruxe envoie jaillisssement de mort de victime à travers lançceur,
 créé propre fantôme au lieu de çcelui de victime, imprime fantôme dans
 objet sspécial. Sseconde victime ramassse objet Horcruxe, objet imprime
 mémoire dans elle. Mais seulement mémoire au moment de construction de
-objet Horcruxe. Vois-tu défaut ? »*
+objet Horcruxe. Vois-tu défaut ? »* ]{.serpent}
 
-La sensation de brûlure était revenue dans la gorge de Harry. *« Pas de
-continuité de… »* mais les serpents n’avaient pas de mot pour désigner la
-conscience, *« ssoi, on continue de pensser après avoir fait Horcruxe,
-puis ssoi avec nouvelle mémoire meurt et n’est pas resstauré… »*
+La sensation de brûlure était revenue dans la gorge de Harry. [ *« Pas de
+continuité de… »* ]{.serpent} mais les serpents n’avaient pas de mot pour désigner la
+conscience, [ *« ssoi, on continue de pensser après avoir fait Horcruxe,
+puis ssoi avec nouvelle mémoire meurt et n’est pas resstauré… »* ]{.serpent}
 
-*« Oui, tu vois. Ausssi Interdit de Merlin empêche ssortilège puisssant
+[ *« Oui, tu vois. Ausssi Interdit de Merlin empêche ssortilège puisssant
 de passser par tel objet, puissque pas vraiment en vie. Mages Noirs qui
 veulent revenir ssont plus faibles, façciles à éliminer. Aucun n’a tenu
 longtemps par tel moyen. Perssonnalité change, mélange avec çcelle de
 victime. Mort pas vraiment vaincue. Vrai ssoi mort, comme tu dis. Pas à
-mon goût actuel. Admet que je l’ai conssidéré, il y a longtemps. »*
+mon goût actuel. Admet que je l’ai conssidéré, il y a longtemps. »* ]{.serpent}
 
 Un homme était à nouveau allongé dans le lit de l’infirmerie. Le
 professeur de Défense inspira puis fit un pitoyable bruit de toux.
@@ -329,7 +329,7 @@ veux pas… que celle-ci demeure sans réponse… serpent ? »
 
 Un serpent se trouvait sur le lit.
 
-*« J’ai appris comment fonctionne le ssortilège de la Mort. Nécesssite
+[ *« J’ai appris comment fonctionne le ssortilège de la Mort. Nécesssite
 une véritable haine pour être lancé, pas beaucoup, mais on doit vouloir
 la mort, c’est ce qu’on dit. Dans la prisson avec manges-vie, vous avez
 lancé ssortilège de la Mort contre garde — avez dit que vous ne le
@@ -337,7 +337,7 @@ vouliez pas mort — était-ce menssonge ? Ici, maintenant, à cette
 disstance, vous pouvez dire vérité, même ssi vous avez peur de mauvaise
 apparensce. Çcela ne devrait pas compter maintenant, professseur. Je
 ssouhaite ssavoir. Dois ssavoir. Ne vous abandonnerai pas, qu’importe
-réponsse. »*
+réponsse. »* ]{.serpent}
 
 Un homme était étendu sur le lit.
 
@@ -409,48 +409,48 @@ existe… un certain objet… appelé… »
 
 Un serpent se trouvait sur le lit.
 
-« *La Pierre Philosophale,* » siffla-t-il.
+[ « *La Pierre Philosophale,* » ]{.serpent} siffla-t-il.
 
 S’il y avait eu un moyen de fabriquer de l’immortalité à la chaîne
 pendant tout ce temps et que personne ne s’était fatigué à l’utiliser,
 Harry allait craquer et assassiner tout le monde.
 
-*« J’ai lu à sson sujet »,*, siffla Harry. *« Conclut que c’était
+*[ « J’ai lu à sson sujet » ]{.serpent},*, siffla Harry. *[ « Conclut que c’était
 évidemment un mythe. Aucune bonne raisson que le même objet fournissse à
 la fois l’immortalité et une quantité infinie d’or. Pas à moins que
 quelqu’un ne ssoit jusste en train d’inventer des hisstoires
 réconfortantes. Ssans parler du fait que toute perssonne ssenssée aurait
 cherché le moyen d’en fabriquer d’autres ou de kidnapper sson créateur
-pour qu’il en fassse. J’ai penssé à vous en particulier, professseur. »*
+pour qu’il en fassse. J’ai penssé à vous en particulier, professseur. » ]{.serpent}*
 
-Un sifflement hilare, froid. *« Raisonnement ssage, mais pas asssez
+Un sifflement hilare, froid. *[ « Raisonnement ssage, mais pas asssez
 ssage. Comme avec ssortilège horcrux, abssurdité cache vrai ssecret.
 Véritable Pierre pas ce que légende dit. Véritable pouvoir pas ce
 qu’histoires racontent. Créateur ssuppossé de Pierre pas celui qui l’a
 faite. Celui qui la détient maintenant, pas né ssous nom utilisé
 aujourd’hui. Pourtant, Pierre vrai artefact capable de guérir. En as-tu
-entendu parler ? »*
+entendu parler ? » ]{.serpent}*
 
-*« Sseulement dans le livre. »*
+*[ « Sseulement dans le livre. » ]{.serpent}*
 
-*« Çcelui qui détient Pierre posssède très grande connaisssance. À
+*[ « Çcelui qui détient Pierre posssède très grande connaisssance. À
 ensseigné nombreux ssecrets à directeur d’école. Directeur d’école n’a
-rien dit de posssessseur de Pierre, rien de Pierre ? Pas d’indiçce ? »*
+rien dit de posssessseur de Pierre, rien de Pierre ? Pas d’indiçce ? » ]{.serpent}*
 
-*« Rien qui me revienne facilement »,* répondit sincèrement Harry.
+*[ « Rien qui me revienne facilement » ]{.serpent},* répondit sincèrement Harry.
 
-*« Ah,* » siffla le serpent. *« Ah, bon. »*
+*[ « Ah,* » ]{.serpent} siffla le serpent. *[ « Ah, bon. » ]{.serpent}*
 
-*« Pourrais demander à directeur… »*
+*[ « Pourrais demander à directeur… » ]{.serpent}*
 
-*« Non ! Ne lui demande pas, garçon. Il ne prendrait pas bien la
-question. »*
+*[ « Non ! Ne lui demande pas, garçon. Il ne prendrait pas bien la
+question. » ]{.serpent}*
 
-*« Mais ssi la Pierre ne fait que guérir… »*
+*[ « Mais ssi la Pierre ne fait que guérir… » ]{.serpent}*
 
-*« Directeur ne croit pas çça, ne croirait pas çça. Trop on recherché la
+*[ « Directeur ne croit pas çça, ne croirait pas çça. Trop on recherché la
 Pierre ou désiré connaisssansce du détenteur. Ne demande pas. Ne dois
-pas demander. N’esssaie pas d’obtenir Pierre toi-même. J’interdis. »*
+pas demander. N’esssaie pas d’obtenir Pierre toi-même. J’interdis. » ]{.serpent}*
 
 Un homme se trouvait à nouveau dans le lit. « Je suis… à la limite… », dit
 le professeur Quirrell. « Je dois récupérer… des forces… avant d’aller…

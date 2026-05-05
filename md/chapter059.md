@@ -122,9 +122,9 @@ trucs sur la mécanique de Newton et la physique Aristotélicienne et les
 balais et les fusées et l’importance de la curiosité et qu’il n’allait
 jamais refaire quoi que ce soit d’aussi Gryffondor de sa vie ou au moins
 pas avant d’avoir appris le secret de l’immortalité du Seigneur des
-Ténèbres et *pourquoi* avait-il écouté le professeur Quirinus « *Je
+Ténèbres et *pourquoi* avait-il écouté le professeur Quirinus [ « *Je
 t’asssure, garçon, je n’esssaierai pas cela ssi je n’anticipais pas ma
-propre ssurvie* » Quirrell au lieu du Professeur Michael « Mon fils, si tu
+propre ssurvie* » ]{.serpent} Quirrell au lieu du Professeur Michael « Mon fils, si tu
 essaies quelque chose avec des fusées sans supervision, je dis bien
 *quoi que ce soit* sans qu’un professionnel entraîné te regarde, tu
 mourras et Maman sera triste » Verres-Evans.
@@ -271,7 +271,7 @@ main immobile.
 *C’EST UNE BLAGUE -*
 
 L’esprit de Harry se souvint alors que la potion de Pimentine avait un
-prix ; Bellatrix *ss’assoupirait pour un temps conssidérable* avait dit
+prix ; Bellatrix [ *ss’assoupirait pour un temps conssidérable* ]{.serpent} avait dit
 le professeur Quirrell.
 
 Et au même instant, une autre partie de Harry devint profondément
@@ -310,7 +310,7 @@ du professeur de Défense.
 
 Puis l’idée vint à Harry qu’il lui fallait encore vérifier -
 
-Harry regarda derrière lui et siffla : « *Professseur ?* »
+Harry regarda derrière lui et siffla : [ « *Professseur ?* » ]{.serpent}
 
 Dans son harnais, le serpent ne remua pas et ne prononça pas un mot.
 

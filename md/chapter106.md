@@ -77,8 +77,8 @@ quelque chose d’écrit, une clé utile plus tard, quelque chose comme ça. �
 « Dis-tu cela sérieusement ? Ou essaies-tu de nous ralentir ? Réponds en
 Fourchelangue. »
 
-Harry se retourna. « *J’étais ssérieux* », siffla Harry. « *J’aurais fait
-pareil ssi j’avaiss été sseul.* »
+Harry se retourna. [ « *J’étais ssérieux* » ]{.serpent}, siffla Harry. [ « *J’aurais fait
+pareil ssi j’avaiss été sseul.* » ]{.serpent}
 
 Le professeur Quirrell se passa une main sur le front. « J’admets »,
 dit-il, « que ton approche aurait un intérêt dans la tombe d’Amon-Set,

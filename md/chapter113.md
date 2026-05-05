@@ -335,7 +335,7 @@ amer. « Maintenant, je vais poser une dernière question à Harry Potter,
 et il ne répondra qu’à moi, en Fourchelangue. Abattez-le à l’instant où
 il répond par autre chose que des sifflements, à l’instant où il tente
 de prononcer un mot en langue humaine. » Puis Voldemort siffla :
-« *Pouvoir que j’ignore, il fut dit que tu aurais. J’ai maintenant appris
+[ « *Pouvoir que j’ignore, il fut dit que tu aurais. J’ai maintenant appris
 les Arts Moldus grâce à toi, et je les étudie déjà. Tu prétends que ton
 pouvoir ssur les Détraqueurs doit être compris sseul. Si tu posssèdes
 tout autre pouvoir que je pourrais apprendre, dis-le moi maintenant.
@@ -348,9 +348,9 @@ qu’ils ss’en ssouviennent, jussqu’à ce qu’ils ss’ussent et qu’ils
 meurent. Pour chaque pouvoir inconnu que tu m’apprends à maîtriser ou
 pour tout autre ssecret que j’aurais aimé connaître, tu pourras nommer
 l’un de ceux qui sseront protégé et honoré ssous mon règne. C’est ausssi
-une promessse que j’ai l’intention de tenir.* » Le sourire de Voldemort
+une promessse que j’ai l’intention de tenir.* » ]{.serpent} Le sourire de Voldemort
 rappelait maintenant les crocs déployés d’un serpent, et le sens qu’ils
 avaient chez eux : la promesse de consumer celui qui leur faisait face.
-« *Ssi tu te ssoucies de sceux que tu aimes, ne perds pas de temps à
+[ « *Ssi tu te ssoucies de sceux que tu aimes, ne perds pas de temps à
 chercher à t’échapper. Tu as ssoixante ssecondes pour commencer à
-m’intéressser, puis ta mort commenscera.* »
+m’intéressser, puis ta mort commenscera.* » ]{.serpent}

@@ -149,8 +149,8 @@ pour cela que vous les appelez toujours Horcruxes. » Le dire à voix haute
 était dangereux, mais il avait besoin de *savoir*. « Si j’ai tort, vous
 pouvez toujours nier en Fourchelangue. »
 
-Le professeur Quirrell avait un mauvais sourire. « *Tu as deviné jusste,
-petit, pour tout le bien que çcela te fait.* »
+Le professeur Quirrell avait un mauvais sourire. [ « *Tu as deviné jusste,
+petit, pour tout le bien que çcela te fait.* » ]{.serpent}
 
 Pour un ennemi intelligent, cette brèche n’était malheureusement pas
 difficile à colmater. Harry n’aurait pas proféré la suggestion en temps
@@ -194,37 +194,37 @@ L’idée évidente lui vint alors. Ce n’était pas le genre de suggestion à
 faire à un ennemi ignorant. Mais il était extrêmement probable que
 l’ennemi y avait déjà pensé.
 
-« *Dites-moi, professseur,* » siffla Harry, « *détruire les cinq ancres
-vous tuerait-il ?* »
+[ « *Dites-moi, professseur,* » ]{.serpent} siffla Harry, [ « *détruire les cinq ancres
+vous tuerait-il ?* » ]{.serpent}
 
-« *Pourquoi cette quesstion ?* » siffla le professeur de Défense en
+[ « *Pourquoi cette quesstion ?* » ]{.serpent} siffla le professeur de Défense en
 retour, avec une cadence qui, en Fourchelangue, exprimait l’amusement du
-serpent. « *Pensses-tu que la réponsse est non ?* »
+serpent. [ « *Pensses-tu que la réponsse est non ?* » ]{.serpent}
 
 Harry ignorait comment répondre, mais il était presque certain que sa
 réponse n’aurait pas d’importance.
 
-« *Tu as raisson, petit. Détruire ces cinq-là ne me rendrait pas
-mortel.* »
+[ « *Tu as raisson, petit. Détruire ces cinq-là ne me rendrait pas
+mortel.* » ]{.serpent}
 
 Harry eut de nouveau la gorge sèche. Si le sortilège ne coûtait pas
-atrocement cher… « *Combien d’ancres avez-vous faites ?* »
+atrocement cher… [ « *Combien d’ancres avez-vous faites ?* » ]{.serpent}
 
-« *Je ne répondrais pas en temps normal, mais il est évident que tu as
-deviné.* » Le sourire du professeur de Défense s’élargit. « *La réponsse,
+[ « *Je ne répondrais pas en temps normal, mais il est évident que tu as
+deviné.* » ]{.serpent} Le sourire du professeur de Défense s’élargit. [ « *La réponsse,
 c’est que je l’ignore. J’ai cesssé de compter après les çcent ssept
 premiers. C’est devenu une habitude à chaque fois que je tuais quelqu’un
-ssans témoin.* »
+ssans témoin.* » ]{.serpent}
 
 Plus de *cent* meurtres sans témoin avant que Lord Voldemort ait arrêté
-de compter. Et même pire — « Votre immortalité nécessite toujours une
-mort humaine ? *Pourquoi ?* »
+de compter. Et même pire — [ « Votre immortalité nécessite toujours une
+mort humaine ? *Pourquoi ?* » ]{.serpent}
 
-« *Grande création maintient vie et magie dans appareil créé par
-ssacrifice de vie et magie d’autres.* » Encore le rire sifflé de serpent.
-« *J’ai tellement aimé la faussse desscription du Horcruxe préçcédent,
+[ « *Grande création maintient vie et magie dans appareil créé par
+ssacrifice de vie et magie d’autres.* » ]{.serpent} Encore le rire sifflé de serpent.
+[ « *J’ai tellement aimé la faussse desscription du Horcruxe préçcédent,
 été tellement déççu quand j’ai compris la vérité, çcela a influençcé mes
-idées d’amélioration.* »
+idées d’amélioration.* » ]{.serpent}
 
 Harry ne savait pas pourquoi le professeur de Défense lui donnait ces
 informations vitales mais il *fallait qu’il y ait une raison*, et cela
@@ -414,8 +414,8 @@ séduire les victimes les plus opportunes, tout ça parce que tu as mal
 gardé tes secrets. C’est une catastrophe pour tous mes ennemis, et tu as
 révélé ce secret tout en faisant des ronds sur une tasse à thé. Ce monde
 sera bien plus sûr si tu apprends la rectitude absorbée par tous les
-nés-sorciers pendant leur enfance. *Tout ce que je viens de dire est
-vrai.* »
+nés-sorciers pendant leur enfance. [ *Tout ce que je viens de dire est
+vrai.* ]{.serpent} »
 
 Harry ferma les yeux et se massa le front ; vu de l’extérieur, on aurait
 dit le professeur Quirrell en pleine réflexion.
@@ -569,7 +569,7 @@ donc décidé que le moment de prendre la Pierre de force était venu. »
 Harry hésita. « Je voudrais que vous répondiez en Fourchelangue. Est-ce
 que tout cela est vrai ? »
 
-« *J’y crois* », dit le professeur Quirrell. « On comble certaines zones
+[ « *J’y crois* » ]{.serpent}, dit le professeur Quirrell. « On comble certaines zones
 d’ombre quand on raconte une histoire ; je n’étais pas présent quand
 Perenelle a séduit Baba Yaga. *Cela devrait être en grand partie
 correct*. »
@@ -843,7 +843,7 @@ heureusement. »
 « Je voudrais voir ça », dit Harry.
 
 Sans lever les yeux de son chaudron, le professeur Quirrell sortit un
-parchemin de ses robes et lui siffla : « *Montre ce qui t’entoure* »,
+parchemin de ses robes et lui siffla : [ « *Montre ce qui t’entoure* » ]{.serpent},
 avant de le jeter à Harry. Il vola droit vers Harry, accompagné d’un
 courant de sensation funeste, puis rebondit doucement à ses pieds.
 
@@ -864,11 +864,11 @@ correspondant à ceux de Harry et du professeur Quirrell.
 Harry regarda le parchemin et un désagréable frisson le parcourut.
 C’était une chose d’entendre Lord Voldemort prétendre qu’on s’appelait
 Tom Jedusor ; c’en était une autre de voir la magie de Poudlard le
-soutenir. « *Avez-vous modifié cette carte pour obtenir ce réssultat ou
-avez-vous été ssurpris en le découvrant ?* »
+soutenir. [ « *Avez-vous modifié cette carte pour obtenir ce réssultat ou
+avez-vous été ssurpris en le découvrant ?* » ]{.serpent}
 
-« *Ssurpris* », répondit le professeur Quirrell, avec un ton sardonique.
-« *Pas un tour*. »
+[ « *Ssurpris* » ]{.serpent}, répondit le professeur Quirrell, avec un ton sardonique.
+[ « *Pas un tour*. » ]{.serpent}
 
 Harry enroula la carte et la relança au professeur Quirrell. Une force
 l’arrêta en plein vol et ramena la carte dans les robes du professeur
@@ -883,11 +883,11 @@ parfois pour les protéger. »
 « Intéressant », dit le professeur Quirrell. « Dumbledore l’a-t-il aussi
 appris ? Réponds en Fourchelangue. »
 
-« *Pas que je le ssache,* » siffla Harry.
+[ « *Pas que je le ssache,* » ]{.serpent} siffla Harry.
 
 « Fascinant », dit le professeur Quirrell. « Ceci pourrait t’intéresser,
-alors : *Le faisseur de potions devait œuvrer en ssecret parce que sson
-plan ss’oppossait au plan du maître de l’école.* »
+alors : [ *Le faisseur de potions devait œuvrer en ssecret parce que sson
+plan ss’oppossait au plan du maître de l’école.* ]{.serpent} »
 
 Harry y songea, pendant que le professeur Quirrell soufflait sur la
 potion, comme pour la refroidir, alors que le feu brûlait toujours sous
@@ -991,7 +991,7 @@ attendait, attendait dans le cimetière, de plus en plus désespérée… pas
 maison Londubat. « Qu’avez-vous fait de Bellatrix après l’avoir
 libérée ? »
 
-« *Envoyée dans endroit paissible pour retrouver forces* », dit le
+[ « *Envoyée dans endroit paissible pour retrouver forces* » ]{.serpent}, dit le
 professeur Quirrell. Un sourire froid. « J’avais encore l’intention de
 faire usage de sa personne, ou plutôt d’une partie de sa personne, mais
 je ne répondrai à aucune question quant à ces futurs plans. »
@@ -1406,12 +1406,12 @@ vous n’envisagez pas, donc vous ne l’avez même pas vue par la suite… »
 comme “ne tuez pas les gens” », dit le professeur Quirrell. « Sinon, je
 serai mécontent. »
 
-« *Pas différence de valeurs. Véritable erreur, étant donné vos buts. Me
+[ « *Pas différence de valeurs. Véritable erreur, étant donné vos buts. Me
 ferez-vous du mal, ssi je joue rôle du professseur, et vous ensseigne
 leçon ? Ou ssi erreur est ssimple et évidente, vous fait vous ssentir
-sstupide ?* »
+sstupide ?* » ]{.serpent}
 
-« *Non,* » siffla le professeur Quirrell. « *Pas ssi véritable leçon.* »
+[ « *Non,* » ]{.serpent} siffla le professeur Quirrell. [ « *Pas ssi véritable leçon.* » ]{.serpent}
 
 Harry déglutit. « Hmm. Pourquoi ne pas avoir testé le système de Horcruxe
 avant de vraiment devoir l’utiliser ? »

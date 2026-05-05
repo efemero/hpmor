@@ -752,8 +752,8 @@ de triomphe, seulement un désespoir écrasant.
 Harry se tourna pour regarder l’endroit où le serpent vert se trouvait,
 toujours immobile.
 
-« *Professeur ?* », siffla Harry. « *Ami ? Ss’il vous plaît, êtess-vouss en
-vie ?* » Une horrible peur se saisissait du cœur de Harry ; en cet
+[ « *Professeur ?* » ]{.serpent}, siffla Harry. [ « *Ami ? Ss’il vous plaît, êtess-vouss en
+vie ?* » ]{.serpent} Une horrible peur se saisissait du cœur de Harry ; en cet
 instant, il avait entièrement oublié qu’il venait de voir le professeur
 de Défense essayer de tuer un officier de police.
 

@@ -322,7 +322,7 @@ ordre -
 Et il y eut un sifflement, faible, comme lent et confus, et ce
 sifflement dit :
 
-« *Quel était… cce sson ?* »
+[ « *Quel était… cce sson ?* » ]{.serpent}
 
 
 
@@ -343,15 +343,15 @@ s’épuiserait pas beaucoup.
 
 
 
-« *Professseur,* » siffla Harry. Tant d’émotions remontaient à la surface
+[ « *Professseur,* » ]{.serpent} siffla Harry. Tant d’émotions remontaient à la surface
 d’un seul coup. Il savait, même s’il ne pouvait pas le voir, que le
 serpent vert autour des épaules de Bellatrix levait lentement sa tête et
-regardait autour de lui. « *Allez-vous… allez-vous bien, professseur ?* »
+regardait autour de lui. [ « *Allez-vous… allez-vous bien, professseur ?* » ]{.serpent}
 
-« *Professseur ?* » le sifflement parvint faible et confus. « *Où
-ssommes-nouss ?* »
+[ « *Professseur ?* » ]{.serpent} le sifflement parvint faible et confus. [ « *Où
+ssommes-nouss ?* » ]{.serpent}
 
-« *En prison* », siffla Harry, « *la prison des mange-vie, nous devions
+[ « *En prison* » ]{.serpent}, siffla Harry, [ « *la prison des mange-vie, nous devions
 ssauver une femme vous et moi. Vous avez esssayé de tuer l’homme
 protecteur, j’ai bloqué votre ssort de mort, il y a eut une résonansce
 entre nous… vous avez ssombré dans l’inconsscience, j’ai dû vaincre le
@@ -367,7 +367,7 @@ métal de la prisson même ssi je ne ssuis qu’un élève de première année.
 Pas le temps d’expliquer, vous devez partir maintenant. Si nous ne nous
 recroissons jamais, professseur, alors je ssuis heureux de vous avoir
 connu pour un temps, même si vous êtes probablement maléfique. Il est
-bon d’avoir la chance de dire au moins cela : Au revoir.* »
+bon d’avoir la chance de dire au moins cela : Au revoir.* » ]{.serpent}
 
 Et Harry prit le balais volant, le présenta à Bellatrix, et dit
 simplement : « Monte. »
@@ -381,25 +381,25 @@ Veritaserum et si Dumbledore exigeait qu’il laisse tomber ses barrières
 Occlumantiques pour une inspection plus profonde… eh bien, il s’était
 comporté en héros du début à la fin.
 
-« *Arrête !* » dit le serpent. Sa voix était maintenant plus forte.
-« *Arrête, arrête, arrête ! Que veux-tu dire, au revoir ?* »
+[ « *Arrête !* » ]{.serpent} dit le serpent. Sa voix était maintenant plus forte.
+[ « *Arrête, arrête, arrête ! Que veux-tu dire, au revoir ?* » ]{.serpent}
 
-« *Plan d’évasion est rissqué,* » dit Harry. « *Ma vie n’est pas en jeu,
-sseulement la vôtre et la ssienne. Alors je resste, je me rends — * »
+[ « *Plan d’évasion est rissqué,* » ]{.serpent} dit Harry. [ « *Ma vie n’est pas en jeu,
+sseulement la vôtre et la ssienne. Alors je resste, je me rends — * » ]{.serpent}
 
-« *Non !* » dit le serpent. Le sifflement était vigoureux. « *Ne doit pas !
-Pas permis !* »
+[ « *Non !* » ]{.serpent} dit le serpent. Le sifflement était vigoureux. [ « *Ne doit pas !
+Pas permis !* » ]{.serpent}
 
 Bellatrix monta sur le balais de feu ; Harry put sentir (mais il ne put
 pas voir) sa tête se tourner vers lui. Elle ne dit rien. Elle
 l’attendait, peut-être, ou simplement ses ordre.
 
-« *Ne vous fais plus confiance,* » dit simplement Harry. « *Pas depuis que
-vous avez esssayé d’abattre homme protecteur.* »
+[ « *Ne vous fais plus confiance,* » ]{.serpent} dit simplement Harry. [ « *Pas depuis que
+vous avez esssayé d’abattre homme protecteur.* » ]{.serpent}
 
-Et le serpent siffla : « *Je n’ai pas cherché à abattre homme
+Et le serpent siffla : [ « *Je n’ai pas cherché à abattre homme
 protecteur ! Es-tu idiot, garçon ? L’abattre n’aurait aucun sens,
-maléfique ou pas !* »
+maléfique ou pas !* » ]{.serpent}
 
 La Terre cessa de tourner sur son axe, interrompit son orbite autour du
 soleil.
@@ -412,53 +412,53 @@ soumettre, le dominer, le forcer à abaissser les boucliers de sson
 essprit, devais lire en lui, savoir qui attendait ssa réponsse,
 apprendre détails pour ssortilège de mémoire — * »
 
-« *Vous avez jeté ssortilège de mort !* »
+[ « *Vous avez jeté ssortilège de mort !* » ]{.serpent}
 
-« *Savait qu’il éviterait !* »
+[ « *Savait qu’il éviterait !* » ]{.serpent}
 
-« *Sa vie valait-elle si peu ? Et s’il n’avait pas évité ?* »
+[ « *Sa vie valait-elle si peu ? Et s’il n’avait pas évité ?* » ]{.serpent}
 
-« *L’aurais pousssé hors de trajectoire avec ma propre magie, garçon
-idiot !* »
+[ « *L’aurais pousssé hors de trajectoire avec ma propre magie, garçon
+idiot !* » ]{.serpent}
 
 Encore l’arrêt giratoire de la planète. Harry n’y avait pas pensé.
 
-« *Sstupide cancre de tous les consspirateurs,* » siffla le serpent avec
+[ « *Sstupide cancre de tous les consspirateurs,* » ]{.serpent} siffla le serpent avec
 tant de colère que les sifflements semblaient se chevaucher et se mordre
-la queue, « *imbécile dégourdi, idiot futé, ssot de Sserpentard pas
-entraîné, ta méfiance mal placée a ruiné — * »
+la queue, [ « *imbécile dégourdi, idiot futé, ssot de Sserpentard pas
+entraîné, ta méfiance mal placée a ruiné — * » ]{.serpent}
 
-« *N’est pas le bon moment pour disscuter,* » fit remarquer Harry avec
+[ « *N’est pas le bon moment pour disscuter,* » ]{.serpent} fit remarquer Harry avec
 douceur. La brusque montée de soulagement qui tentait de se répandre en
-lui était annulée par la tension montante. « *Puissque je ne peux pas me
+lui était annulée par la tension montante. [ « *Puissque je ne peux pas me
 mettre correctement en colère contre vous ssans m’ouvrir aux
-manges-vies. Doit se dépêcher, quelqu’un a peut-être entendu bruit — * »
+manges-vies. Doit se dépêcher, quelqu’un a peut-être entendu bruit — * » ]{.serpent}
 
-« *Explique plan d’évassion,* » dit le serpent d’un ton impérieux.
-« *Presstement !* »
+[ « *Explique plan d’évassion,* » ]{.serpent} dit le serpent d’un ton impérieux.
+[ « *Presstement !* » ]{.serpent}
 
 Harry expliqua. Le Fourchelangue n’avait pas de mots pour décrire la
 technologie Moldue mais Harry décrivit la fonction et le professeur
 Quirrell sembla comprendre.
 
 Il y eut de courts sifflements, l’équivalent reptilien d’un aboiement de
-rire surpris, puis des ordres vifs. « *Dis à la femme de détourner le
+rire surpris, puis des ordres vifs. [ « *Dis à la femme de détourner le
 regard, lance ssortilège de ssilence, mets charme gardien devant porte.
 Vais me transsformer, faire rapides améliorations à ton invention,
 donner potion d’urgence à femme pour qu’elle puissse nous protéger, me
 transsformer de nouveau avant que tu ne disssipes le charme. Plan ssera
-alors plus sûr.* »
+alors plus sûr.* » ]{.serpent}
 
-« *Et dois-je croire,* » siffla Harry, « *que Guérissseur pour femme nous
-attend vraiment ?* »
+[ « *Et dois-je croire,* » ]{.serpent} siffla Harry, [ « *que Guérissseur pour femme nous
+attend vraiment ?* » ]{.serpent}
 
-« *Utilise raison, jeune garçon ! Suppose que je ssuis maléfique. Arrêter
+[ « *Utilise raison, jeune garçon ! Suppose que je ssuis maléfique. Arrêter
 de t’utilisser maintenant n’est évidemment pas ce que j’avais prévu.
 Misssion est opportunisste, inventée après avoir vu ton charme gardien,
 affaire scenssée ne pas être remarquée, caché quand parti de lieu où on
 mange. Évidemment que tu verras perssonne prétendant être Guérissseur à
 l’arrivée ! Retourner à lieu où l’on mange ensuite, plan original
-continue comme avant !* »
+continue comme avant !* » ]{.serpent}
 
 Harry regarda le serpent invisible.
 
@@ -467,12 +467,12 @@ stupide.
 
 De l’autre, ce n’était pas vraiment rassurant.
 
-« *Alors,* » siffla Harry, « *quel est votre plan pour moi, exactement ?* »
+[ « *Alors,* » ]{.serpent} siffla Harry, [ « *quel est votre plan pour moi, exactement ?* » ]{.serpent}
 
-« *Tu as dit pas le temps,* » lui répondit le sifflement du serpent,
-« *mais le plan est que tu diriges le pays, évidemment, même ton jeune
+[ « *Tu as dit pas le temps,* » ]{.serpent} lui répondit le sifflement du serpent,
+[ « *mais le plan est que tu diriges le pays, évidemment, même ton jeune
 ami noble a déjà compris cela, demande-lui au retour si tu ssouhaites.
-Ne dirai pas plus, temps de voler, pas de parler.* »
+Ne dirai pas plus, temps de voler, pas de parler.* » ]{.serpent}
 
 
 

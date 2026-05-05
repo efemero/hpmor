@@ -44,7 +44,7 @@ référentiel du mouvement terrestre.
 « Est-ce que le Miroir est là ? Est-ce qu’il bouge ? » La voix autoritaire
 du professeur Quirrell lui parvint depuis la salle des potions.
 
-« *Est là* », répondit Harry dans un sifflement. « *Ne bouge pas.* »
+[ « *Est là* » ]{.serpent}, répondit Harry dans un sifflement. [ « *Ne bouge pas.* » ]{.serpent}
 
 Un ordre toujours impérieux lui parvint. « Fais le tour du Miroir. »
 
@@ -139,9 +139,9 @@ assurance si on lui avait demandé si le pert nome était notsa ou
 amegasiv. C’était juste que rien ne lui venait lorsqu’il essayait de
 lier ces concepts à d’autres.
 
-« *Comprends-tu le ssens de ces mots, petit ?* »
+[ « *Comprends-tu le ssens de ces mots, petit ?* » ]{.serpent}
 
-« *Je ne pensse pas.* »
+[ « *Je ne pensse pas.* » ]{.serpent}
 
 Le professeur Quirrell poussa un léger soupir. Ses yeux ne quittèrent
 pas le cadre d’or. « Je m’étais demandé si les Mots de Fausse
@@ -222,19 +222,19 @@ ceux qui se tiennent face à lui l’image d’un monde dans lequel l’un de
 leurs désirs est devenu réalité. C’est le genre de précaution
 raisonnable que l’on pourrait s’attendre à trouver dans une création
 capable d’exaucer des vœux et dont le créateur ne souhaite pas que les
-choses tournent atrocement mal. »Waouh,« murmura Harry, et c’était sincère. C’était de la Magie avec un
+choses tournent atrocement mal. » « Waouh, » murmura Harry, et c’était sincère. C’était de la Magie avec un
 grand M, le genre de Magie qu’on pouvait trouver dans *Alors, on veut
 être un sorcier*, pas un simple assortiment arbitraire de violations de
 la physique réalisables avec une baguette.
 
-Le professeur Quirrell fit un geste vers l’envers d’or. »La dernière
+Le professeur Quirrell fit un geste vers l’envers d’or. « La dernière
 propriété sur laquelle les histoires s’accordent, c’est que, quelle que
 soit la méthode permettant le contrôle du Miroir — et sur cette Clé,
 aucun témoignage crédible n’existe — les instructions ne peuvent faire
 mention d’une personne en particulier. Donc Perenelle ne pourrait pas
-dire : « ne donne la Pierre qu’à Perenelle ». Dumbledore ne pourrait pas
-dire :« Ne donne la Pierre qu’à celui qui souhaite la donner à Nicholas
-Flamel. » Il y a dans ce miroir un aveuglement semblable à celui que les
+dire : “ ne donne la Pierre qu’à Perenelle ”. Dumbledore ne pourrait pas
+dire : “ Ne donne la Pierre qu’à celui qui souhaite la donner à Nicholas
+Flamel. ” Il y a dans ce miroir un aveuglement semblable à celui que les
 philosophe attribuent à l’idéal de la justice ; il doit traiter ceux qui
 se présentent à lui de la même façon, quelle que soit la règle en place.
 Il doit donc exister une règle qui permet d’accéder à la cachette de la
@@ -243,29 +243,35 @@ usage. Et tu vois maintenant pourquoi c’est toi, le *Survivant*, qui
 dois implémenter les stratégies que nous concocterons tous deux. Car il
 est dit que cette chose a un sens moral, et peut-être que les ordres
 qu’elle a reçu en font usage. Je sais parfaitement qu’en termes
-conventionnels, on te dit Bon et qu’on me dit Mauvais.« Le professeur
-Quirrell eut un sourire plutôt sombre. »Notre première tentative — mais
+conventionnels, on te dit Bon et qu’on me dit Mauvais.» Le professeur
+Quirrell eut un sourire plutôt sombre. « Notre première tentative — mais
 pas la dernière, sois-en assuré — sera de voir comment le Miroir réagit
 alors que tu tentes d’obtenir la Pierre pour sauver la vie d’Hermione
-Granger et de centaines de tes camarades.« »Et dans la *première* version de ce plan,« dit Harry, qui commençait
-enfin à comprendre »,celui que vous avez inventé le premier vendredi de
+Granger et de centaines de tes camarades.» 
+
+« Et dans la *première* version de ce plan,» dit Harry, qui commençait
+enfin à comprendre, « celui que vous avez inventé le premier vendredi de
 cette année, c’est l’enfant prodige de Dumbledore, le Survivant, qui
 récupérait la Pierre, tentant noblement, altruistement, de sauver la vie
-de son professeur de Défense mourant.« »Bien sûr,« dit ce dernier.
+de son professeur de Défense mourant. » 
+
+« Bien sûr, »dit ce dernier.
 
 Harry songea que c’était une ruse presque poétique, mais les
 circonstances l’empêchèrent de pleinement en apprécier l’élégance.
 
-Puis une autre idée lui vint. »Hmm,« dit Harry. »Vous pensez que le Miroir est un piège qui vous est
-tendu…« »Il est totalement impensable que ce ne soit pas le cas.« »C’est-à-dire que c’est un piège contre Lord Voldemort. Sauf que ça ne
+Puis une autre idée lui vint. « Hmm, » dit Harry. « Vous pensez que le Miroir est un piège qui vous est
+tendu… » « Il est totalement impensable que ce ne soit pas le cas. » « C’est-à-dire que c’est un piège contre Lord Voldemort. Sauf que ça ne
 peut pas être un piège contre lui en particulier. Il doit y avoir une
 règle générale qui le soutient, une sorte de caractéristique
-généralisable de Lord Voldemort qui le déclenche.« Sans s’en rendre
-compte, Harry s’était mis à durement froncer les sourcils. »Comme tu le dis,« dit le professeur Quirrell, qui, ayant vu Harry,
-commençait à lui aussi froncer les sourcils. »Eh bien, le premier jeudi de l’année, le directeur fou, Dumbledore, que
+généralisable de Lord Voldemort qui le déclenche. » Sans s’en rendre
+compte, Harry s’était mis à durement froncer les sourcils.  «Comme tu le dis, » dit le professeur Quirrell, qui, ayant vu Harry,
+commençait à lui aussi froncer les sourcils.  « Eh bien, le premier jeudi de l’année, le directeur fou, Dumbledore, que
 je venais de voir incinérer un poulet sous mes yeux, m’a dit que je
 n’avais aucune chance de jamais entrer dans son couloir interdit puisque
-je ne connaissais pas le sortilège *Alohomora*.« »Je *vois*, dit le professeur Quirrell. « Oh. Si seulement tu avais pensé
+je ne connaissais pas le sortilège *Alohomora*. » 
+
+« Je *vois*, » dit le professeur Quirrell. « Oh. Si seulement tu avais pensé
 à m’en faire part beaucoup plus tôt. »
 
 Aucun d’eux n’eut besoin de dire l’évidence : ce petit tour de
@@ -305,9 +311,9 @@ pessimiste. Néanmoins, et n’ayant pas de meilleure idée, les raisons de
 Nott et Greengrass méritent d’être essayées. Je me demande quand même si
 Dumbledore a essayé de construire ce puzzle pour qu’il résiste
 précisément aux ruses de Voldemort. Je me demande s’il n’a pas réussi.
-Si tu as une autre idée et que je t’autorise à l’essayer, *je promets de
+Si tu as une autre idée et que je t’autorise à l’essayer, [ *je promets de
 ne jamais faire de mal aux pions que j’utilisserais, ni aujourd’hui, ni
-jamais ; et je ne m’attends pas à rompre cette promessse.* Et je te
+jamais ; et je ne m’attends pas à rompre cette promessse.* ]{.serpent} Et je te
 rappelle que les vies de Mlle Granger et de tous les autres dépendent de
 ma réussite. »
 
@@ -324,9 +330,9 @@ sont fausses. Le directeur n’aurait pas choisi une règle de ce genre. »
 fait le bien alors que ce n’est pas le cas. Ce serait la première chose
 qui lui viendrait à l’esprit. »
 
-« *Esst-ce que tu dis vrai, ou est-ce que tu esssaies de m’avoir ?* »
+[ « *Esst-ce que tu dis vrai, ou est-ce que tu esssaies de m’avoir ?* » ]{.serpent}
 
-« *Je ssuis honnête.* » répondit Harry.
+[ « *Je ssuis honnête.* » ]{.serpent} répondit Harry.
 
 Le professeur Quirrell hocha la tête. « Dans ce cas, d’accord. »
 
@@ -428,12 +434,12 @@ toi au premier jour de magie de bataille. Pour que ce soit une force
 interne, un état d’esprit issu de mes choix. Dis-moi si tu as suggéré
 cela afin de me piéger, petit. Dis-le en Fourchelangue. »
 
-« *Vous m’avez demandé de trouver une stratégie, mais peut-être ais-je
+[ « *Vous m’avez demandé de trouver une stratégie, mais peut-être ais-je
 été influencé par des buts annexes — qui sait ? Je ssavais que vous me
 ssoupçonneriez, diriez ce que vous venez de dire. C’est votre choix,
 professseur. Ssur le rissque d’un échec, je n’en ssais pas plus que
 vous. Ne me traitez pas de traître si vous choississsez d’esssayer et
-que cela échoue.* » Harry eut soudain très envie de sourire, mais il se
+que cela échoue.* » ]{.serpent} Harry eut soudain très envie de sourire, mais il se
 retint.
 
 « Merveilleux », dit le professeur Quirrell qui, lui, souriait bien.
@@ -447,7 +453,7 @@ même pas être neutralisées par un interrogatoire en Fourchelangue. »
 
 
 Harry mit la Cape d’Invisibilité sur ordre du professeur Quirrell afin
-*d’empêcher l’homme qui sse croira être le directeur de te voir*, comme
+[ *d’empêcher l’homme qui sse croira être le directeur de te voir* ]{.serpent}, comme
 l’avait dit le professeur Quirrell en Fourchelangue.
 
 « Avec ou sans Cape, tu te tiendras à proximité du Miroir », avait aussi
